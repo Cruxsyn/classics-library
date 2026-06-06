@@ -1,5 +1,6 @@
 import catalogJson from '../../catalog/catalog.json';
 import authorsJson from '../../catalog/authors.json';
+import bookCoversJson from '../../catalog/book_covers.json';
 import {
   getAll,
   subscribe,
@@ -47,6 +48,19 @@ type AuthorFallback = {
   type: string;
   initial: string;
   color: string;
+};
+
+type BookCover = {
+  cover: string;
+  source: string;
+  genre: string | null;
+  license: string | null;
+  licenseUrl: string | null;
+  artist: string | null;
+  credit: string | null;
+  commonsFilePage: string | null;
+  attributionRequired: boolean;
+  wikipediaTitle: string | null;
 };
 
 type AuthorAsset = {
@@ -107,6 +121,7 @@ const THEME_LABELS: Record<Theme, string> = {
 
 const catalog = catalogJson as Catalog;
 const authorAssets = authorsJson as AuthorAsset[];
+const bookCovers = bookCoversJson as Record<string, BookCover>;
 const collator = new Intl.Collator('en', { numeric: true, sensitivity: 'base' });
 const works = [...catalog.works].sort((a, b) => collator.compare(a.title, b.title));
 const authorByKey = new Map(authorAssets.map((author) => [author.key, author]));
@@ -117,6 +132,17 @@ const coverModules = import.meta.glob('../../assets/covers/*.{webp,svg}', {
 });
 const coverUrlByFilename = new Map(
   Object.entries(coverModules).map(([path, url]) => [path.split('/').pop() ?? path, url]),
+);
+const bookCoverModules = import.meta.glob('../../assets/book-covers/**/*.{webp,svg}', {
+  eager: true,
+  query: '?url',
+  import: 'default',
+});
+const bookCoverUrlByPath = new Map(
+  Object.entries(bookCoverModules).map(([path, url]) => [
+    path.split('/assets/book-covers/').pop() ?? path,
+    url,
+  ]),
 );
 
 const searchInput = byId<HTMLInputElement>('library-search');
@@ -273,6 +299,25 @@ function coverUrlFor(author: AuthorAsset): string | null {
   return coverUrlByFilename.get(filename) ?? author.cover;
 }
 
+function bookCoverFor(work: Work): BookCover | null {
+  return bookCovers[work.id] ?? null;
+}
+
+function bookCoverUrlFor(work: Work): string | null {
+  const entry = bookCovers[work.id];
+  if (entry !== undefined) {
+    const key = entry.cover.split('/assets/book-covers/').pop();
+    if (key !== undefined && key !== '') {
+      const url = bookCoverUrlByPath.get(key);
+      if (url !== undefined) {
+        return url;
+      }
+    }
+  }
+
+  return coverUrlFor(authorFor(work));
+}
+
 function initialFor(author: AuthorAsset): string {
   return author.fallback?.initial ?? (author.name.trim().charAt(0).toUpperCase() || '•');
 }
@@ -390,8 +435,7 @@ function renderContinueRail(): void {
   continueList.replaceChildren();
   for (const { work, state } of readingWorks) {
     const card = make('article', 'continue-card');
-    const author = authorFor(work);
-    card.append(createCoverThumb(author, 'continue-card__cover'));
+    card.append(createWorkCoverThumb(work, 'continue-card__cover'));
 
     const body = make('div', 'continue-card__body');
     const heading = make('h3', undefined, work.title);
@@ -469,7 +513,7 @@ function renderShelf(): void {
   if (groupMode === 'all') {
     const grid = make('div', 'shelf-grid');
     for (const work of visibleWorks) {
-      grid.append(createWorkCard(work));
+      grid.append(createWorkCell(work));
     }
     libraryGrid.append(grid);
     return;
@@ -507,7 +551,7 @@ function createShelfSection(summary: HTMLElement, sectionWorks: Work[], author?:
 
   const grid = make('div', 'shelf-grid');
   for (const work of sectionWorks) {
-    grid.append(createWorkCard(work));
+    grid.append(createWorkCell(work));
   }
   section.append(grid);
   return section;
@@ -557,6 +601,26 @@ function createCoverThumb(author: AuthorAsset, className: string): HTMLElement {
   return cover;
 }
 
+function createWorkCoverThumb(work: Work, className: string): HTMLElement {
+  const cover = make('span', className);
+  const coverUrl = bookCoverUrlFor(work);
+  if (coverUrl !== null) {
+    const image = make('img');
+    image.src = coverUrl;
+    image.alt = '';
+    image.loading = 'lazy';
+    image.decoding = 'async';
+    cover.append(image);
+    return cover;
+  }
+
+  const author = authorFor(work);
+  cover.classList.add('is-monogram');
+  cover.style.setProperty('--monogram-bg', author.fallback?.color ?? 'var(--accent)');
+  cover.textContent = initialFor(author);
+  return cover;
+}
+
 function createWorkCard(work: Work): HTMLAnchorElement {
   const state = stateFor(work);
   const status = statusFor(work);
@@ -567,7 +631,7 @@ function createWorkCard(work: Work): HTMLAnchorElement {
   card.setAttribute('aria-label', `${work.title} by ${work.author}; ${statusLabel(status)}`);
 
   const cover = make('span', 'book-card__cover');
-  const coverUrl = coverUrlFor(author);
+  const coverUrl = bookCoverUrlFor(work);
   if (coverUrl !== null) {
     const image = make('img');
     image.src = coverUrl;
@@ -602,6 +666,45 @@ function createWorkCard(work: Work): HTMLAnchorElement {
   }
 
   return card;
+}
+
+function createWorkCell(work: Work): HTMLElement {
+  const card = createWorkCard(work);
+  const cover = bookCoverFor(work);
+  if (cover === null || !cover.attributionRequired) {
+    return card;
+  }
+
+  const cell = make('figure', 'book-cell');
+  cell.append(card, createBookCredit(cover));
+  return cell;
+}
+
+function createBookCredit(cover: BookCover): HTMLElement {
+  const node = make('figcaption', 'book-credit');
+  node.append(document.createTextNode('Art: '));
+  node.append(document.createTextNode(cover.artist ?? cover.credit ?? 'Wikimedia Commons'));
+  if (cover.license !== null) {
+    node.append(document.createTextNode(' · '));
+    if (cover.licenseUrl !== null) {
+      const license = make('a', undefined, cover.license);
+      license.href = cover.licenseUrl;
+      license.rel = 'noopener noreferrer';
+      node.append(license);
+    } else {
+      node.append(document.createTextNode(cover.license));
+    }
+  }
+
+  if (cover.commonsFilePage !== null) {
+    node.append(document.createTextNode(' · '));
+    const source = make('a', undefined, 'source');
+    source.href = cover.commonsFilePage;
+    source.rel = 'noopener noreferrer';
+    node.append(source);
+  }
+
+  return node;
 }
 
 function statusIcon(status: ReadingStatus): string {
