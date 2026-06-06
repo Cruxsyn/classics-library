@@ -1,0 +1,48 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  python:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - uses: astral-sh/setup-uv@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+          cache: npm
+      - run: uv sync
+      - run: npm ci
+      - run: uv run pytest pipeline/tests
+      - name: Build 4-work static subset
+        run: make build:ci
+
+  web:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - uses: astral-sh/setup-uv@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+          cache: npm
+      - run: uv sync
+      - run: npm ci
+      - name: Build 4-work static subset
+        run: make build:ci
+      - run: npx playwright install --with-deps chromium
+      - name: Playwright functional and axe checks
+        run: npx playwright test --grep-invert @visual
+      - name: Playwright visual regression checks
+        run: npx playwright test --grep @visual
+        continue-on-error: true

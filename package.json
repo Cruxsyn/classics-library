@@ -5,8 +5,12 @@
   "type": "module",
   "scripts": {
     "build": "vite build",
+    "build:all": "make build:all",
     "preview": "vite preview --host 127.0.0.1",
-    "test": "vitest --root . run web/lib/storage.test.ts && npm run build"
+    "typecheck": "tsc --noEmit",
+    "test": "vitest --root . run web/lib/storage.test.ts && npm run build",
+    "test:e2e": "playwright test",
+    "deploy": "wrangler pages deploy output"
   },
   "keywords": [],
   "author": "",

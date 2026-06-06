@@ -1,0 +1,3 @@
+name = "classics-library"
+pages_build_output_dir = "output"
+compatibility_date = "2026-06-06"

@@ -48,6 +48,29 @@ INJECTED_TAG_RE = re.compile(
 HTML_OPEN_RE = re.compile(r"<html\b([^>]*)>", re.IGNORECASE)
 HEAD_CLOSE_RE = re.compile(r"</head>", re.IGNORECASE)
 DATA_ATTR_RE_TEMPLATE = r"\s+{name}(?:=(?:\"[^\"]*\"|'[^']*'|[^\s>]+))?"
+EXTERNAL_REF_RE = re.compile(
+    r"\n?<(?:link|script)\b[^>]*(?:fonts\.googleapis\.com|fonts\.gstatic\.com|mathjax|runestone|prefix-(?:runtime|713|runestone)|lti_iframe_resizer)[^>]*>(?:\s*</script>)?",
+    re.IGNORECASE,
+)
+MATHJAX_STARTUP_RE = re.compile(
+    r"\n?<script\b[^>]*>\s*import\s+\{\s*startMathJax\s*\}[\s\S]*?</script>",
+    re.IGNORECASE,
+)
+RUNESTONE_CONFIG_RE = re.compile(
+    r"\n?(?:<!--\*\*.*?Runestone[\s\S]*?\*\*-->\s*)*<script\b[^>]*>\s*eBookConfig\s*=\s*\{\};[\s\S]*?</script>",
+    re.IGNORECASE,
+)
+RUNESTONE_COMMENT_RE = re.compile(r"\n?<!--[^>]*Runestone[\s\S]*?-->", re.IGNORECASE)
+FOOTER_UNUSED_LINK_RE = re.compile(
+    r"\n?<a\b[^>]*class=[\"'][^\"']*(?:runestone|mathjax)-link[^\"']*[\"'][\s\S]*?</a>",
+    re.IGNORECASE,
+)
+GOOGLE_FONT_IMPORT_RE = re.compile(
+    r"@import\s+url\([\"']?https://fonts\.(?:googleapis|gstatic)\.com/[^)]*\)[^;]*;",
+    re.IGNORECASE,
+)
+STYLE_IMPORT_CLEANUP_RE = re.compile(r"\n?<style\b([^>]*)>([\s\S]*?)</style>", re.IGNORECASE)
+MAIN_OPEN_RE = re.compile(r"<main\b([^>]*)>", re.IGNORECASE)
 
 
 @dataclass(frozen=True)
@@ -110,6 +133,29 @@ def copy_assets() -> None:
         copy_file_if_changed(FONTS_SRC / font, FONT_OUT_DIR / font)
 
 
+def inject_pagefind_body(document: str) -> str:
+    def replace(match: re.Match[str]) -> str:
+        attrs = upsert_data_attr(match.group(1), "data-pagefind-body", "true")
+        return f"<main{attrs}>"
+
+    return MAIN_OPEN_RE.sub(replace, document, count=1)
+
+
+def strip_external_refs(document: str) -> str:
+    updated = MATHJAX_STARTUP_RE.sub("", document)
+    updated = RUNESTONE_CONFIG_RE.sub("", updated)
+    updated = RUNESTONE_COMMENT_RE.sub("", updated)
+    updated = FOOTER_UNUSED_LINK_RE.sub("", updated)
+    updated = EXTERNAL_REF_RE.sub("", updated)
+
+    def clean_style(match: re.Match[str]) -> str:
+        body = GOOGLE_FONT_IMPORT_RE.sub("", match.group(2))
+        if not body.strip():
+            return ""
+        return f"<style{match.group(1)}>{body}</style>"
+
+    return STYLE_IMPORT_CLEANUP_RE.sub(clean_style, updated)
+
 def escaped_attr(value: str) -> str:
     return html.escape(value, quote=True)
 
@@ -138,6 +184,8 @@ def inject_head_tags(document: str) -> str:
 def inject_page(path: Path, work: Work) -> bool:
     original = path.read_text(encoding="utf-8")
     updated = inject_html_attrs(original, work)
+    updated = strip_external_refs(updated)
+    updated = inject_pagefind_body(updated)
     updated = inject_head_tags(updated)
     if updated == original:
         return False
