@@ -936,7 +936,11 @@ html[data-theme='dark'] .reader-chrome {
     animation-iteration-count: 1 !important;
     scroll-behavior: auto !important;
     transition-duration: 1ms !important;
-    transform: none !important;
+    /* Do NOT force `transform: none` here: it nullifies transform-based positioning
+       (the TOC drawer's translateX(-103%) hide, the auto-hiding top bar's
+       translateY(-180%), centered overlays at translateX(-50%)) and leaves the
+       drawer pinned over the text for reduced-motion users. Motion is already
+       removed via the 1ms animation/transition durations above. */
   }
 
   .reader-chrome.is-hidden {
