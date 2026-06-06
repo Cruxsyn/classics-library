@@ -1,0 +1,5 @@
+<string>:5:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element idx, got backmatter
+<string>:5:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element backmatter there
+<string>:3:0:ERROR:RELAXNGV:RELAXNG_ERR_CONTENTVALID: Element book failed to validate content
+<string>:2:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMNAME: Expecting element docinfo, got pretext
+<string>:2:0:ERROR:RELAXNGV:RELAXNG_ERR_ELEMWRONG: Did not expect element pretext there
