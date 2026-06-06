@@ -1,0 +1,60 @@
+{
+  "id": "Plutarch/s_e_comp",
+  "author": "Plutarch",
+  "authorKey": "Plutarch",
+  "title": "The Comparison of Sertorius with Eumenes",
+  "translator": "John Dryden",
+  "language": "Greek",
+  "written": "75 CE",
+  "sourceNote": null,
+  "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "hard-wrapped prose: 0.961 long unterminated interior lines, median line length 74.0, 0.963 unmarked continuation lines",
+  "textModeStats": {
+    "lineCount": 54,
+    "paragraphCount": 3,
+    "interiorLineCount": 51,
+    "medianLineLength": 74.0,
+    "meanLineLength": 72.14814814814815,
+    "longInteriorLineRatio": 1.0,
+    "unterminatedInteriorLineRatio": 0.9607843137254902,
+    "longUnterminatedInteriorLineRatio": 0.9607843137254902,
+    "explicitBreakLineRatio": 0.0,
+    "unmarkedLineRatio": 0.9629629629629629
+  },
+  "landingUrl": "https://classics.mit.edu/Plutarch/s_e_comp.html",
+  "textUrls": [
+    "https://classics.mit.edu/Plutarch/s_e_comp.html"
+  ],
+  "txtUrl": "https://classics.mit.edu/Plutarch/s_e_comp.1b.txt",
+  "sections": [
+    {
+      "seq": 1,
+      "id": "s_e_comp-the-comparison-of-sertorius-with-eumenes",
+      "heading": "The Comparison of Sertorius with Eumenes",
+      "partTitle": "The Comparison of Sertorius with Eumenes",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "These are the most remarkable passages that are come to our knowledge concerning Eumenes and Sertorius. In comparing their lives, we may observe that this was common to them both; that being aliens, strangers, and banished men, they came to be commanders of powerful forces, and had the leading of numerous and warlike armies, made up of divers nations. This was peculiar to Sertorius, that the chief command was, by his whole party, freely yielded to him, as to the person of the greatest merit and renown, whereas Eumenes had many who contested the office with him, and only by his actions obtained the superiority. They followed the one honestly, out of desire to be commanded by him; they submitted themselves to the other for their own security, because they could not command themselves. The one, being a Roman, was the general of the Spaniards and Lusitanians, who for many years had been under the subjection of Rome; and the other, a Chersonesian, who was chief commander of the Macedonians, who were the great conquerors of mankind, and were at that time subduing the world. Sertorius, being already in high esteem for his former services in the wars and his abilities in the senate, was advanced to the dignity of a general; whereas Eumenes obtained this honour from the office of a writer, or secretary, in which he had been despised. Nor did he only at first rise from inferior opportunities, but afterwards, also, met with greater impediments in the progress of his authority, and that not only from those who publicly resisted him, but from many others that privately conspired against him. It was much otherwise with Sertorius, not one of whose party publicly opposed him, only late in life, and secretly, a few of his acquaintance entered into a conspiracy against him. Sertorius put an end to his dangers as often as he was victorious in the field, whereas the victories of Eumenes were the beginning of his perils, through the malice of those that envied him.",
+          "lineStart": 10
+        },
+        {
+          "type": "para",
+          "text": "Their deeds in war were equal and parallel, but their general inclinations different. Eumenes naturally loved war and contention, but Sertorius esteemed peace and tranquillity; when Eumenes might have lived in safety, with honour, if he would have quietly retired out of their way, he persisted in a dangerous contest with the greatest of the Macedonian leaders; but Sertorius, who was unwilling to trouble himself with any public disturbances, was forced, for the safety of his person, to make war against those who would not suffer him to live in peace. If Eumenes could have contented himself with the second place, Antigonus, freed from his competition for the first, would have used him well, and shown him favour, whereas Pompey's friends would never permit Sertorius so much as to live in quiet. The one made war of his own accord, out of a desire for command; and the other was constrained to accept of command to defend himself from war that was made against him. Eumenes was certainly a true lover of war, for he preferred his covetous ambition before his own security; but Sertorius was truly warlike, who procured his own safety by the success of his arms.",
+          "lineStart": 37
+        },
+        {
+          "type": "para",
+          "text": "As to the manner of their deaths, it happened to one without the least thought or surmise of it; but to the other when he suspected it daily; which in the first argues an equitable temper, and a noble mind, not to distrust his friends; but in the other it showed some infirmity of spirit, for Eumenes intended to fly and was taken. The death of Sertorius dishonoured not his life; he suffered that from his companions which none of his enemies were ever able to perform. The other, not being able to deliver himself before his imprisonment, being willing also to live in captivity, did neither prevent nor expect his fate with honour or bravery; for by meanly supplicating and petitioning, he made his enemy, that pretended only to have power over his body, to be lord and master of his body and mind.",
+          "lineStart": 53
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 3,
+    "wordCount": 683
+  }
+}

@@ -1,0 +1,3075 @@
+{
+  "id": "Khayyam/rubaiyat",
+  "author": "Omar Khayyam",
+  "authorKey": "Khayyam",
+  "title": "The Rubaiyat",
+  "translator": null,
+  "language": "Persian",
+  "written": "1120 CE",
+  "sourceNote": null,
+  "shape": "single",
+  "textMode": "verse",
+  "textModeReason": "verse: 0.000 long unterminated interior lines, median line length 40.0, 0.800 explicit poetic line breaks",
+  "textModeStats": {
+    "lineCount": 505,
+    "paragraphCount": 1,
+    "interiorLineCount": 504,
+    "medianLineLength": 40.0,
+    "meanLineLength": 33.72079207920792,
+    "longInteriorLineRatio": 0.0,
+    "unterminatedInteriorLineRatio": 0.6904761904761905,
+    "longUnterminatedInteriorLineRatio": 0.0,
+    "explicitBreakLineRatio": 0.8,
+    "unmarkedLineRatio": 0.2
+  },
+  "landingUrl": "https://classics.mit.edu/Khayyam/rubaiyat.html",
+  "textUrls": [
+    "https://classics.mit.edu/Khayyam/rubaiyat.html"
+  ],
+  "txtUrl": "https://classics.mit.edu/Khayyam/rubaiyat.1b.txt",
+  "sections": [
+    {
+      "seq": 1,
+      "id": "rubaiyat-the-rubaiyat",
+      "heading": "The Rubaiyat",
+      "partTitle": "The Rubaiyat",
+      "blocks": [
+        {
+          "type": "verseLine",
+          "text": "I",
+          "indent": 0,
+          "lineNo": 10
+        },
+        {
+          "type": "verseLine",
+          "text": "Wake! For the Sun, who scatter'd into flight",
+          "indent": 0,
+          "lineNo": 11
+        },
+        {
+          "type": "verseLine",
+          "text": "The Stars before him from the Field of Night,",
+          "indent": 0,
+          "lineNo": 12
+        },
+        {
+          "type": "verseLine",
+          "text": "Drives Night along with them from Heav'n, and strikes",
+          "indent": 0,
+          "lineNo": 13
+        },
+        {
+          "type": "verseLine",
+          "text": "The Sultan's Turret with a Shaft of Light.",
+          "indent": 0,
+          "lineNo": 14
+        },
+        {
+          "type": "verseLine",
+          "text": "II",
+          "indent": 0,
+          "lineNo": 15
+        },
+        {
+          "type": "verseLine",
+          "text": "Before the phantom of False morning died,",
+          "indent": 0,
+          "lineNo": 16
+        },
+        {
+          "type": "verseLine",
+          "text": "Methought a Voice within the Tavern cried,",
+          "indent": 0,
+          "lineNo": 17
+        },
+        {
+          "type": "verseLine",
+          "text": "\"When all the Temple is prepared within,",
+          "indent": 0,
+          "lineNo": 18
+        },
+        {
+          "type": "verseLine",
+          "text": "Why nods the drowsy Worshipper outside?\"",
+          "indent": 0,
+          "lineNo": 19
+        },
+        {
+          "type": "verseLine",
+          "text": "III",
+          "indent": 0,
+          "lineNo": 20
+        },
+        {
+          "type": "verseLine",
+          "text": "And, as the Cock crew, those who stood before",
+          "indent": 0,
+          "lineNo": 21
+        },
+        {
+          "type": "verseLine",
+          "text": "The Tavern shouted--\"Open then the Door!",
+          "indent": 0,
+          "lineNo": 22
+        },
+        {
+          "type": "verseLine",
+          "text": "You know how little while we have to stay,",
+          "indent": 0,
+          "lineNo": 23
+        },
+        {
+          "type": "verseLine",
+          "text": "And, once departed, may return no more.\"",
+          "indent": 0,
+          "lineNo": 24
+        },
+        {
+          "type": "verseLine",
+          "text": "IV",
+          "indent": 0,
+          "lineNo": 25
+        },
+        {
+          "type": "verseLine",
+          "text": "Now the New Year reviving old Desires,",
+          "indent": 0,
+          "lineNo": 26
+        },
+        {
+          "type": "verseLine",
+          "text": "The thoughtful Soul to Solitude retires,",
+          "indent": 0,
+          "lineNo": 27
+        },
+        {
+          "type": "verseLine",
+          "text": "Where the White Hand Of Moses on the Bough",
+          "indent": 0,
+          "lineNo": 28
+        },
+        {
+          "type": "verseLine",
+          "text": "Puts out, and Jesus from the Ground suspires.",
+          "indent": 0,
+          "lineNo": 29
+        },
+        {
+          "type": "verseLine",
+          "text": "V",
+          "indent": 0,
+          "lineNo": 30
+        },
+        {
+          "type": "verseLine",
+          "text": "Iram indeed is gone with all his Rose,",
+          "indent": 0,
+          "lineNo": 31
+        },
+        {
+          "type": "verseLine",
+          "text": "And Jamshyd's Sev'n-ring'd Cup where no one knows;",
+          "indent": 0,
+          "lineNo": 32
+        },
+        {
+          "type": "verseLine",
+          "text": "But still a Ruby kindles in the Vine,",
+          "indent": 0,
+          "lineNo": 33
+        },
+        {
+          "type": "verseLine",
+          "text": "And many a Garden by the Water blows,",
+          "indent": 0,
+          "lineNo": 34
+        },
+        {
+          "type": "verseLine",
+          "text": "VI",
+          "indent": 0,
+          "lineNo": 35
+        },
+        {
+          "type": "verseLine",
+          "text": "And David's lips are lockt; but in divine",
+          "indent": 0,
+          "lineNo": 36
+        },
+        {
+          "type": "verseLine",
+          "text": "High-piping Pehlevi, with \"Wine! Wine! Wine!",
+          "indent": 0,
+          "lineNo": 37
+        },
+        {
+          "type": "verseLine",
+          "text": "Red Wine!\"--the Nightingale cries to the Rose",
+          "indent": 0,
+          "lineNo": 38
+        },
+        {
+          "type": "verseLine",
+          "text": "That sallow cheek of hers t' incarnadine.",
+          "indent": 0,
+          "lineNo": 39
+        },
+        {
+          "type": "verseLine",
+          "text": "VII",
+          "indent": 0,
+          "lineNo": 40
+        },
+        {
+          "type": "verseLine",
+          "text": "Come, fill the Cup, and in the fire of Spring",
+          "indent": 0,
+          "lineNo": 41
+        },
+        {
+          "type": "verseLine",
+          "text": "Your Winter-garment of Repentance fling:",
+          "indent": 0,
+          "lineNo": 42
+        },
+        {
+          "type": "verseLine",
+          "text": "The Bird of Time has but a little way",
+          "indent": 0,
+          "lineNo": 43
+        },
+        {
+          "type": "verseLine",
+          "text": "To flutter--and the Bird is on the Wing.",
+          "indent": 0,
+          "lineNo": 44
+        },
+        {
+          "type": "verseLine",
+          "text": "VIII",
+          "indent": 0,
+          "lineNo": 45
+        },
+        {
+          "type": "verseLine",
+          "text": "Whether at Naishapur or Babylon,",
+          "indent": 0,
+          "lineNo": 46
+        },
+        {
+          "type": "verseLine",
+          "text": "Whether the Cup with sweet or bitter run,",
+          "indent": 0,
+          "lineNo": 47
+        },
+        {
+          "type": "verseLine",
+          "text": "The Wine of Life keeps oozing drop by drop,",
+          "indent": 0,
+          "lineNo": 48
+        },
+        {
+          "type": "verseLine",
+          "text": "The Leaves of Life keep falling one by one.",
+          "indent": 0,
+          "lineNo": 49
+        },
+        {
+          "type": "verseLine",
+          "text": "IX",
+          "indent": 0,
+          "lineNo": 50
+        },
+        {
+          "type": "verseLine",
+          "text": "Each Morn a thousand Roses brings, you say;",
+          "indent": 0,
+          "lineNo": 51
+        },
+        {
+          "type": "verseLine",
+          "text": "Yes, but where leaves the Rose of Yesterday?",
+          "indent": 0,
+          "lineNo": 52
+        },
+        {
+          "type": "verseLine",
+          "text": "And this first Summer month that brings the Rose",
+          "indent": 0,
+          "lineNo": 53
+        },
+        {
+          "type": "verseLine",
+          "text": "Shall take Jamshyd and Kaikobad away.",
+          "indent": 0,
+          "lineNo": 54
+        },
+        {
+          "type": "verseLine",
+          "text": "X",
+          "indent": 0,
+          "lineNo": 55
+        },
+        {
+          "type": "verseLine",
+          "text": "Well, let it take them! What have we to do",
+          "indent": 0,
+          "lineNo": 56
+        },
+        {
+          "type": "verseLine",
+          "text": "With Kaikobad the Great, or Kaikhosru?",
+          "indent": 0,
+          "lineNo": 57
+        },
+        {
+          "type": "verseLine",
+          "text": "Let Zal and Rustum bluster as they will,",
+          "indent": 0,
+          "lineNo": 58
+        },
+        {
+          "type": "verseLine",
+          "text": "Or Hatim call to Supper--heed not you",
+          "indent": 0,
+          "lineNo": 59
+        },
+        {
+          "type": "verseLine",
+          "text": "XI",
+          "indent": 0,
+          "lineNo": 60
+        },
+        {
+          "type": "verseLine",
+          "text": "With me along the strip of Herbage strown",
+          "indent": 0,
+          "lineNo": 61
+        },
+        {
+          "type": "verseLine",
+          "text": "That just divides the desert from the sown,",
+          "indent": 0,
+          "lineNo": 62
+        },
+        {
+          "type": "verseLine",
+          "text": "Where name of Slave and Sultan is forgot--",
+          "indent": 0,
+          "lineNo": 63
+        },
+        {
+          "type": "verseLine",
+          "text": "And Peace to Mahmud on his golden Throne!",
+          "indent": 0,
+          "lineNo": 64
+        },
+        {
+          "type": "verseLine",
+          "text": "XII",
+          "indent": 0,
+          "lineNo": 65
+        },
+        {
+          "type": "verseLine",
+          "text": "A Book of Verses underneath the Bough,",
+          "indent": 0,
+          "lineNo": 66
+        },
+        {
+          "type": "verseLine",
+          "text": "A Jug of Wine, a Loaf of Bread--and Thou",
+          "indent": 0,
+          "lineNo": 67
+        },
+        {
+          "type": "verseLine",
+          "text": "Beside me singing in the Wilderness--",
+          "indent": 0,
+          "lineNo": 68
+        },
+        {
+          "type": "verseLine",
+          "text": "Oh, Wilderness were Paradise enow!",
+          "indent": 0,
+          "lineNo": 69
+        },
+        {
+          "type": "verseLine",
+          "text": "XIII",
+          "indent": 0,
+          "lineNo": 70
+        },
+        {
+          "type": "verseLine",
+          "text": "Some for the Glories of This World; and some",
+          "indent": 0,
+          "lineNo": 71
+        },
+        {
+          "type": "verseLine",
+          "text": "Sigh for the Prophet's Paradise to come;",
+          "indent": 0,
+          "lineNo": 72
+        },
+        {
+          "type": "verseLine",
+          "text": "Ah, take the Cash, and let the Credit go,",
+          "indent": 0,
+          "lineNo": 73
+        },
+        {
+          "type": "verseLine",
+          "text": "Nor heed the rumble of a distant Drum!",
+          "indent": 0,
+          "lineNo": 74
+        },
+        {
+          "type": "verseLine",
+          "text": "XIV",
+          "indent": 0,
+          "lineNo": 75
+        },
+        {
+          "type": "verseLine",
+          "text": "Look to the blowing Rose about us--\"Lo,",
+          "indent": 0,
+          "lineNo": 76
+        },
+        {
+          "type": "verseLine",
+          "text": "Laughing,\" she says, \"into the world I blow,",
+          "indent": 0,
+          "lineNo": 77
+        },
+        {
+          "type": "verseLine",
+          "text": "At once the silken tassel of my Purse",
+          "indent": 0,
+          "lineNo": 78
+        },
+        {
+          "type": "verseLine",
+          "text": "Tear, and its Treasure on the Garden throw.\"",
+          "indent": 0,
+          "lineNo": 79
+        },
+        {
+          "type": "verseLine",
+          "text": "XV",
+          "indent": 0,
+          "lineNo": 80
+        },
+        {
+          "type": "verseLine",
+          "text": "And those who husbanded the Golden grain,",
+          "indent": 0,
+          "lineNo": 81
+        },
+        {
+          "type": "verseLine",
+          "text": "And those who flung it to the winds like Rain,",
+          "indent": 0,
+          "lineNo": 82
+        },
+        {
+          "type": "verseLine",
+          "text": "Alike to no such aureate Earth are turn'd",
+          "indent": 0,
+          "lineNo": 83
+        },
+        {
+          "type": "verseLine",
+          "text": "As, buried once, Men want dug up again.",
+          "indent": 0,
+          "lineNo": 84
+        },
+        {
+          "type": "verseLine",
+          "text": "XVI",
+          "indent": 0,
+          "lineNo": 85
+        },
+        {
+          "type": "verseLine",
+          "text": "The Worldly Hope men set their Hearts upon",
+          "indent": 0,
+          "lineNo": 86
+        },
+        {
+          "type": "verseLine",
+          "text": "Turns Ashes--or it prospers; and anon,",
+          "indent": 0,
+          "lineNo": 87
+        },
+        {
+          "type": "verseLine",
+          "text": "Like Snow upon the Desert's dusty Face,",
+          "indent": 0,
+          "lineNo": 88
+        },
+        {
+          "type": "verseLine",
+          "text": "Lighting a little hour or two--is gone.",
+          "indent": 0,
+          "lineNo": 89
+        },
+        {
+          "type": "verseLine",
+          "text": "XVII",
+          "indent": 0,
+          "lineNo": 90
+        },
+        {
+          "type": "verseLine",
+          "text": "Think, in this batter'd Caravanserai",
+          "indent": 0,
+          "lineNo": 91
+        },
+        {
+          "type": "verseLine",
+          "text": "Whose Portals are alternate Night and Day,",
+          "indent": 0,
+          "lineNo": 92
+        },
+        {
+          "type": "verseLine",
+          "text": "How Sultan after Sultan with his Pomp",
+          "indent": 0,
+          "lineNo": 93
+        },
+        {
+          "type": "verseLine",
+          "text": "Abode his destined Hour, and went his way.",
+          "indent": 0,
+          "lineNo": 94
+        },
+        {
+          "type": "verseLine",
+          "text": "XVIII",
+          "indent": 0,
+          "lineNo": 95
+        },
+        {
+          "type": "verseLine",
+          "text": "They say the Lion and the Lizard keep",
+          "indent": 0,
+          "lineNo": 96
+        },
+        {
+          "type": "verseLine",
+          "text": "The Courts where Jamshyd gloried and drank deep:",
+          "indent": 0,
+          "lineNo": 97
+        },
+        {
+          "type": "verseLine",
+          "text": "And Bahram, that great Hunter--the Wild Ass",
+          "indent": 0,
+          "lineNo": 98
+        },
+        {
+          "type": "verseLine",
+          "text": "Stamps o'er his Head, but cannot break his Sleep.",
+          "indent": 0,
+          "lineNo": 99
+        },
+        {
+          "type": "verseLine",
+          "text": "XIX",
+          "indent": 0,
+          "lineNo": 100
+        },
+        {
+          "type": "verseLine",
+          "text": "I sometimes think that never blows so red",
+          "indent": 0,
+          "lineNo": 101
+        },
+        {
+          "type": "verseLine",
+          "text": "The Rose as where some buried Caesar bled;",
+          "indent": 0,
+          "lineNo": 102
+        },
+        {
+          "type": "verseLine",
+          "text": "That every Hyacinth the Garden wears",
+          "indent": 0,
+          "lineNo": 103
+        },
+        {
+          "type": "verseLine",
+          "text": "Dropt in her Lap from some once lovely Head.",
+          "indent": 0,
+          "lineNo": 104
+        },
+        {
+          "type": "verseLine",
+          "text": "X",
+          "indent": 0,
+          "lineNo": 105
+        },
+        {
+          "type": "verseLine",
+          "text": "And this reviving Herb whose tender Green",
+          "indent": 0,
+          "lineNo": 106
+        },
+        {
+          "type": "verseLine",
+          "text": "Fledges the River-Lip on which we lean--",
+          "indent": 0,
+          "lineNo": 107
+        },
+        {
+          "type": "verseLine",
+          "text": "Ah, lean upon it lightly! for who knows",
+          "indent": 0,
+          "lineNo": 108
+        },
+        {
+          "type": "verseLine",
+          "text": "From what once lovely Lip it springs unseen!",
+          "indent": 0,
+          "lineNo": 109
+        },
+        {
+          "type": "verseLine",
+          "text": "XXI",
+          "indent": 0,
+          "lineNo": 110
+        },
+        {
+          "type": "verseLine",
+          "text": "Ah, my Belov'ed fill the Cup that clears",
+          "indent": 0,
+          "lineNo": 111
+        },
+        {
+          "type": "verseLine",
+          "text": "To-day Past Regrets and Future Fears:",
+          "indent": 0,
+          "lineNo": 112
+        },
+        {
+          "type": "verseLine",
+          "text": "To-morrow!--Why, To-morrow I may be",
+          "indent": 0,
+          "lineNo": 113
+        },
+        {
+          "type": "verseLine",
+          "text": "Myself with Yesterday's Sev'n Thousand Years.",
+          "indent": 0,
+          "lineNo": 114
+        },
+        {
+          "type": "verseLine",
+          "text": "XXII",
+          "indent": 0,
+          "lineNo": 115
+        },
+        {
+          "type": "verseLine",
+          "text": "For some we loved, the loveliest and the best",
+          "indent": 0,
+          "lineNo": 116
+        },
+        {
+          "type": "verseLine",
+          "text": "That from his Vintage rolling Time hath prest,",
+          "indent": 0,
+          "lineNo": 117
+        },
+        {
+          "type": "verseLine",
+          "text": "Have drunk their Cup a Round or two before,",
+          "indent": 0,
+          "lineNo": 118
+        },
+        {
+          "type": "verseLine",
+          "text": "And one by one crept silently to rest.",
+          "indent": 0,
+          "lineNo": 119
+        },
+        {
+          "type": "verseLine",
+          "text": "XXIII",
+          "indent": 0,
+          "lineNo": 120
+        },
+        {
+          "type": "verseLine",
+          "text": "And we, that now make merry in the Room",
+          "indent": 0,
+          "lineNo": 121
+        },
+        {
+          "type": "verseLine",
+          "text": "They left, and Summer dresses in new bloom",
+          "indent": 0,
+          "lineNo": 122
+        },
+        {
+          "type": "verseLine",
+          "text": "Ourselves must we beneath the Couch of Earth",
+          "indent": 0,
+          "lineNo": 123
+        },
+        {
+          "type": "verseLine",
+          "text": "Descend--ourselves to make a Couch--for whom?",
+          "indent": 0,
+          "lineNo": 124
+        },
+        {
+          "type": "verseLine",
+          "text": "XXIV",
+          "indent": 0,
+          "lineNo": 125
+        },
+        {
+          "type": "verseLine",
+          "text": "Ah, make the most of what we yet may spend,",
+          "indent": 0,
+          "lineNo": 126
+        },
+        {
+          "type": "verseLine",
+          "text": "Before we too into the Dust descend;",
+          "indent": 0,
+          "lineNo": 127
+        },
+        {
+          "type": "verseLine",
+          "text": "Dust into Dust, and under Dust to lie",
+          "indent": 0,
+          "lineNo": 128
+        },
+        {
+          "type": "verseLine",
+          "text": "Sans Wine, sans Song, sans Singer, and--sans End!",
+          "indent": 0,
+          "lineNo": 129
+        },
+        {
+          "type": "verseLine",
+          "text": "XXV",
+          "indent": 0,
+          "lineNo": 130
+        },
+        {
+          "type": "verseLine",
+          "text": "Alike for those who for To-day prepare,",
+          "indent": 0,
+          "lineNo": 131
+        },
+        {
+          "type": "verseLine",
+          "text": "And those that after some To-morrow stare,",
+          "indent": 0,
+          "lineNo": 132
+        },
+        {
+          "type": "verseLine",
+          "text": "A Muezzin from the Tower of Darkness cries",
+          "indent": 0,
+          "lineNo": 133
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Fools! your Reward is neither Here nor There.\"",
+          "indent": 0,
+          "lineNo": 134
+        },
+        {
+          "type": "verseLine",
+          "text": "XXVI",
+          "indent": 0,
+          "lineNo": 135
+        },
+        {
+          "type": "verseLine",
+          "text": "Why, all the Saints and Sages who discuss'd",
+          "indent": 0,
+          "lineNo": 136
+        },
+        {
+          "type": "verseLine",
+          "text": "Of the Two Worlds so wisely--they are thrust",
+          "indent": 0,
+          "lineNo": 137
+        },
+        {
+          "type": "verseLine",
+          "text": "Like foolish Prophets forth; their Words to Scorn",
+          "indent": 0,
+          "lineNo": 138
+        },
+        {
+          "type": "verseLine",
+          "text": "Are scatter'd, and their Mouths are stopt with Dust.",
+          "indent": 0,
+          "lineNo": 139
+        },
+        {
+          "type": "verseLine",
+          "text": "XXVII",
+          "indent": 0,
+          "lineNo": 140
+        },
+        {
+          "type": "verseLine",
+          "text": "Myself when young did eagerly frequent",
+          "indent": 0,
+          "lineNo": 141
+        },
+        {
+          "type": "verseLine",
+          "text": "Doctor and Saint, and heard great argument",
+          "indent": 0,
+          "lineNo": 142
+        },
+        {
+          "type": "verseLine",
+          "text": "About it and about: but evermore",
+          "indent": 0,
+          "lineNo": 143
+        },
+        {
+          "type": "verseLine",
+          "text": "Came out by the same door where in I went.",
+          "indent": 0,
+          "lineNo": 144
+        },
+        {
+          "type": "verseLine",
+          "text": "XXVIII",
+          "indent": 0,
+          "lineNo": 145
+        },
+        {
+          "type": "verseLine",
+          "text": "With them the seed of Wisdom did I sow,",
+          "indent": 0,
+          "lineNo": 146
+        },
+        {
+          "type": "verseLine",
+          "text": "And with mine own hand wrought to make it grow;",
+          "indent": 0,
+          "lineNo": 147
+        },
+        {
+          "type": "verseLine",
+          "text": "And this was all the Harvest that I reap'd--",
+          "indent": 0,
+          "lineNo": 148
+        },
+        {
+          "type": "verseLine",
+          "text": "\"I came like Water, and like Wind I go.\"",
+          "indent": 0,
+          "lineNo": 149
+        },
+        {
+          "type": "verseLine",
+          "text": "XXIX",
+          "indent": 0,
+          "lineNo": 150
+        },
+        {
+          "type": "verseLine",
+          "text": "Into this Universe, and Why not knowing",
+          "indent": 0,
+          "lineNo": 151
+        },
+        {
+          "type": "verseLine",
+          "text": "Nor Whence, like Water willy-nilly flowing;",
+          "indent": 0,
+          "lineNo": 152
+        },
+        {
+          "type": "verseLine",
+          "text": "And out of it, as Wind along the Waste,",
+          "indent": 0,
+          "lineNo": 153
+        },
+        {
+          "type": "verseLine",
+          "text": "I know not Whither, willy-nilly blowing.",
+          "indent": 0,
+          "lineNo": 154
+        },
+        {
+          "type": "verseLine",
+          "text": "XXX",
+          "indent": 0,
+          "lineNo": 155
+        },
+        {
+          "type": "verseLine",
+          "text": "What, without asking, hither hurried Whence?",
+          "indent": 0,
+          "lineNo": 156
+        },
+        {
+          "type": "verseLine",
+          "text": "And, without asking, Whither hurried hence!",
+          "indent": 0,
+          "lineNo": 157
+        },
+        {
+          "type": "verseLine",
+          "text": "Oh, many a Cup of this forbidden Wine",
+          "indent": 0,
+          "lineNo": 158
+        },
+        {
+          "type": "verseLine",
+          "text": "Must drown the memory of that insolence!",
+          "indent": 0,
+          "lineNo": 159
+        },
+        {
+          "type": "verseLine",
+          "text": "XXXI",
+          "indent": 0,
+          "lineNo": 160
+        },
+        {
+          "type": "verseLine",
+          "text": "Up from Earth's Centre through the Seventh Gate",
+          "indent": 0,
+          "lineNo": 161
+        },
+        {
+          "type": "verseLine",
+          "text": "rose, and on the Throne of Saturn sate;",
+          "indent": 0,
+          "lineNo": 162
+        },
+        {
+          "type": "verseLine",
+          "text": "And many a Knot unravel'd by the Road;",
+          "indent": 0,
+          "lineNo": 163
+        },
+        {
+          "type": "verseLine",
+          "text": "But not the Master-knot of Human Fate.",
+          "indent": 0,
+          "lineNo": 164
+        },
+        {
+          "type": "verseLine",
+          "text": "XXXII",
+          "indent": 0,
+          "lineNo": 165
+        },
+        {
+          "type": "verseLine",
+          "text": "There was the Door to which I found no Key;",
+          "indent": 0,
+          "lineNo": 166
+        },
+        {
+          "type": "verseLine",
+          "text": "There was the Veil through which I might not see:",
+          "indent": 0,
+          "lineNo": 167
+        },
+        {
+          "type": "verseLine",
+          "text": "Some little talk awhile of Me and Thee",
+          "indent": 0,
+          "lineNo": 168
+        },
+        {
+          "type": "verseLine",
+          "text": "There was--and then no more of Thee and Me.",
+          "indent": 0,
+          "lineNo": 169
+        },
+        {
+          "type": "verseLine",
+          "text": "XXXIII",
+          "indent": 0,
+          "lineNo": 170
+        },
+        {
+          "type": "verseLine",
+          "text": "Earth could not answer; nor the Seas that mourn",
+          "indent": 0,
+          "lineNo": 171
+        },
+        {
+          "type": "verseLine",
+          "text": "In flowing Purple, of their Lord forlorn;",
+          "indent": 0,
+          "lineNo": 172
+        },
+        {
+          "type": "verseLine",
+          "text": "Nor rolling Heaven, with all his Signs reveal'd",
+          "indent": 0,
+          "lineNo": 173
+        },
+        {
+          "type": "verseLine",
+          "text": "And hidden by the sleeve of Night and Morn.",
+          "indent": 0,
+          "lineNo": 174
+        },
+        {
+          "type": "verseLine",
+          "text": "XXXIV",
+          "indent": 0,
+          "lineNo": 175
+        },
+        {
+          "type": "verseLine",
+          "text": "Then of the Thee in Me works behind",
+          "indent": 0,
+          "lineNo": 176
+        },
+        {
+          "type": "verseLine",
+          "text": "The Veil, I lifted up my hands to find",
+          "indent": 0,
+          "lineNo": 177
+        },
+        {
+          "type": "verseLine",
+          "text": "A Lamp amid the Darkness; and I heard,",
+          "indent": 0,
+          "lineNo": 178
+        },
+        {
+          "type": "verseLine",
+          "text": "As from Without--\"The Me Within Thee Blind!\"",
+          "indent": 0,
+          "lineNo": 179
+        },
+        {
+          "type": "verseLine",
+          "text": "XXXV",
+          "indent": 0,
+          "lineNo": 180
+        },
+        {
+          "type": "verseLine",
+          "text": "Then to the lip of this poor earthen Urn",
+          "indent": 0,
+          "lineNo": 181
+        },
+        {
+          "type": "verseLine",
+          "text": "I lean'd, the Secret of my Life to learn:",
+          "indent": 0,
+          "lineNo": 182
+        },
+        {
+          "type": "verseLine",
+          "text": "And Lip to Lip it murmur'd--\"While you live",
+          "indent": 0,
+          "lineNo": 183
+        },
+        {
+          "type": "verseLine",
+          "text": "Drink!--for, once dead, you never shall return.\"",
+          "indent": 0,
+          "lineNo": 184
+        },
+        {
+          "type": "verseLine",
+          "text": "XXXVI",
+          "indent": 0,
+          "lineNo": 185
+        },
+        {
+          "type": "verseLine",
+          "text": "I think the Vessel, that with fugitive",
+          "indent": 0,
+          "lineNo": 186
+        },
+        {
+          "type": "verseLine",
+          "text": "Articulation answer'd, once did live,",
+          "indent": 0,
+          "lineNo": 187
+        },
+        {
+          "type": "verseLine",
+          "text": "And drink; and Ah! the passive Lip I kiss'd,",
+          "indent": 0,
+          "lineNo": 188
+        },
+        {
+          "type": "verseLine",
+          "text": "How many Kisses might it take--and give!",
+          "indent": 0,
+          "lineNo": 189
+        },
+        {
+          "type": "verseLine",
+          "text": "XXXVII",
+          "indent": 0,
+          "lineNo": 190
+        },
+        {
+          "type": "verseLine",
+          "text": "For I remember stopping by the way",
+          "indent": 0,
+          "lineNo": 191
+        },
+        {
+          "type": "verseLine",
+          "text": "To watch a Potter thumping his wet Clay:",
+          "indent": 0,
+          "lineNo": 192
+        },
+        {
+          "type": "verseLine",
+          "text": "And with its all-obliterated Tongue",
+          "indent": 0,
+          "lineNo": 193
+        },
+        {
+          "type": "verseLine",
+          "text": "It murmur'd--\"Gently, Brother, gently, pray!\"",
+          "indent": 0,
+          "lineNo": 194
+        },
+        {
+          "type": "verseLine",
+          "text": "XXXVIII",
+          "indent": 0,
+          "lineNo": 195
+        },
+        {
+          "type": "verseLine",
+          "text": "And has not such a Story from of Old",
+          "indent": 0,
+          "lineNo": 196
+        },
+        {
+          "type": "verseLine",
+          "text": "Down Man's successive generations roll'd",
+          "indent": 0,
+          "lineNo": 197
+        },
+        {
+          "type": "verseLine",
+          "text": "Of such a clod of saturated Earth",
+          "indent": 0,
+          "lineNo": 198
+        },
+        {
+          "type": "verseLine",
+          "text": "Cast by the Maker into Human mould?",
+          "indent": 0,
+          "lineNo": 199
+        },
+        {
+          "type": "verseLine",
+          "text": "XXXIX",
+          "indent": 0,
+          "lineNo": 200
+        },
+        {
+          "type": "verseLine",
+          "text": "And not a drop that from our Cups we throw",
+          "indent": 0,
+          "lineNo": 201
+        },
+        {
+          "type": "verseLine",
+          "text": "For Earth to drink of, but may steal below",
+          "indent": 0,
+          "lineNo": 202
+        },
+        {
+          "type": "verseLine",
+          "text": "To quench the fire of Anguish in some Eye",
+          "indent": 0,
+          "lineNo": 203
+        },
+        {
+          "type": "verseLine",
+          "text": "There hidden--far beneath, and long ago.",
+          "indent": 0,
+          "lineNo": 204
+        },
+        {
+          "type": "verseLine",
+          "text": "XL",
+          "indent": 0,
+          "lineNo": 205
+        },
+        {
+          "type": "verseLine",
+          "text": "As then the Tulip for her morning sup",
+          "indent": 0,
+          "lineNo": 206
+        },
+        {
+          "type": "verseLine",
+          "text": "Of Heav'nly Vintage from the soil looks up,",
+          "indent": 0,
+          "lineNo": 207
+        },
+        {
+          "type": "verseLine",
+          "text": "Do you devoutly do the like, till Heav'n",
+          "indent": 0,
+          "lineNo": 208
+        },
+        {
+          "type": "verseLine",
+          "text": "To Earth invert you--like an empty Cup.",
+          "indent": 0,
+          "lineNo": 209
+        },
+        {
+          "type": "verseLine",
+          "text": "XLI",
+          "indent": 0,
+          "lineNo": 210
+        },
+        {
+          "type": "verseLine",
+          "text": "Perplext no more with Human or Divine,",
+          "indent": 0,
+          "lineNo": 211
+        },
+        {
+          "type": "verseLine",
+          "text": "To-morrow's tangle to the winds resign,",
+          "indent": 0,
+          "lineNo": 212
+        },
+        {
+          "type": "verseLine",
+          "text": "And lose your fingers in the tresses of",
+          "indent": 0,
+          "lineNo": 213
+        },
+        {
+          "type": "verseLine",
+          "text": "The Cypress--slender Minister of Wine.",
+          "indent": 0,
+          "lineNo": 214
+        },
+        {
+          "type": "verseLine",
+          "text": "XLII",
+          "indent": 0,
+          "lineNo": 215
+        },
+        {
+          "type": "verseLine",
+          "text": "And if the Wine you drink, the Lip you press",
+          "indent": 0,
+          "lineNo": 216
+        },
+        {
+          "type": "verseLine",
+          "text": "End in what All begins and ends in--Yes;",
+          "indent": 0,
+          "lineNo": 217
+        },
+        {
+          "type": "verseLine",
+          "text": "Think then you are To-day what Yesterday",
+          "indent": 0,
+          "lineNo": 218
+        },
+        {
+          "type": "verseLine",
+          "text": "You were--To-morrow You shall not be less.",
+          "indent": 0,
+          "lineNo": 219
+        },
+        {
+          "type": "verseLine",
+          "text": "XLIII",
+          "indent": 0,
+          "lineNo": 220
+        },
+        {
+          "type": "verseLine",
+          "text": "So when that Angel of the darker Drink",
+          "indent": 0,
+          "lineNo": 221
+        },
+        {
+          "type": "verseLine",
+          "text": "At last shall find you by the river-brink,",
+          "indent": 0,
+          "lineNo": 222
+        },
+        {
+          "type": "verseLine",
+          "text": "And, offering his Cup, invite your Soul",
+          "indent": 0,
+          "lineNo": 223
+        },
+        {
+          "type": "verseLine",
+          "text": "Forth to your Lips to quaff--you shall not shrink.",
+          "indent": 0,
+          "lineNo": 224
+        },
+        {
+          "type": "verseLine",
+          "text": "XLIV",
+          "indent": 0,
+          "lineNo": 225
+        },
+        {
+          "type": "verseLine",
+          "text": "Why, if the Soul can fling the Dust aside,",
+          "indent": 0,
+          "lineNo": 226
+        },
+        {
+          "type": "verseLine",
+          "text": "And naked on the Air of Heaven ride,",
+          "indent": 0,
+          "lineNo": 227
+        },
+        {
+          "type": "verseLine",
+          "text": "Were't not a Shame--were't not a Shame for him",
+          "indent": 0,
+          "lineNo": 228
+        },
+        {
+          "type": "verseLine",
+          "text": "In this clay carcase crippled to abide?",
+          "indent": 0,
+          "lineNo": 229
+        },
+        {
+          "type": "verseLine",
+          "text": "XLV",
+          "indent": 0,
+          "lineNo": 230
+        },
+        {
+          "type": "verseLine",
+          "text": "'Tis but a Tent where takes his one day's rest",
+          "indent": 0,
+          "lineNo": 231
+        },
+        {
+          "type": "verseLine",
+          "text": "A Sultan to the realm of Death addrest;",
+          "indent": 0,
+          "lineNo": 232
+        },
+        {
+          "type": "verseLine",
+          "text": "The Sultan rises, and the dark Ferrash",
+          "indent": 0,
+          "lineNo": 233
+        },
+        {
+          "type": "verseLine",
+          "text": "Strikes, and prepares it for another Guest.",
+          "indent": 0,
+          "lineNo": 234
+        },
+        {
+          "type": "verseLine",
+          "text": "XLVI",
+          "indent": 0,
+          "lineNo": 235
+        },
+        {
+          "type": "verseLine",
+          "text": "And fear not lest Existence closing your",
+          "indent": 0,
+          "lineNo": 236
+        },
+        {
+          "type": "verseLine",
+          "text": "Account, and mine, should know the like no more;",
+          "indent": 0,
+          "lineNo": 237
+        },
+        {
+          "type": "verseLine",
+          "text": "The Eternal Saki from that Bowl has pour'd",
+          "indent": 0,
+          "lineNo": 238
+        },
+        {
+          "type": "verseLine",
+          "text": "Millions of Bubbles like us, and will pour.",
+          "indent": 0,
+          "lineNo": 239
+        },
+        {
+          "type": "verseLine",
+          "text": "XLVII",
+          "indent": 0,
+          "lineNo": 240
+        },
+        {
+          "type": "verseLine",
+          "text": "When You and I behind the Veil are past,",
+          "indent": 0,
+          "lineNo": 241
+        },
+        {
+          "type": "verseLine",
+          "text": "Oh, but the long, long while the World shall last,",
+          "indent": 0,
+          "lineNo": 242
+        },
+        {
+          "type": "verseLine",
+          "text": "Which of our Coming and Departure heeds",
+          "indent": 0,
+          "lineNo": 243
+        },
+        {
+          "type": "verseLine",
+          "text": "As the Sea's self should heed a pebble-cast.",
+          "indent": 0,
+          "lineNo": 244
+        },
+        {
+          "type": "verseLine",
+          "text": "XLVIII",
+          "indent": 0,
+          "lineNo": 245
+        },
+        {
+          "type": "verseLine",
+          "text": "A Moment's Halt--a momentary taste",
+          "indent": 0,
+          "lineNo": 246
+        },
+        {
+          "type": "verseLine",
+          "text": "Of Being from the Well amid the Waste--",
+          "indent": 0,
+          "lineNo": 247
+        },
+        {
+          "type": "verseLine",
+          "text": "And Lo!--the phantom Caravan has reach'd",
+          "indent": 0,
+          "lineNo": 248
+        },
+        {
+          "type": "verseLine",
+          "text": "The Nothing it set out from--Oh, make haste!",
+          "indent": 0,
+          "lineNo": 249
+        },
+        {
+          "type": "verseLine",
+          "text": "XLIX",
+          "indent": 0,
+          "lineNo": 250
+        },
+        {
+          "type": "verseLine",
+          "text": "Would you that spangle of Existence spend",
+          "indent": 0,
+          "lineNo": 251
+        },
+        {
+          "type": "verseLine",
+          "text": "About the Secret--Quick about it, Friend!",
+          "indent": 0,
+          "lineNo": 252
+        },
+        {
+          "type": "verseLine",
+          "text": "A Hair perhaps divides the False and True--",
+          "indent": 0,
+          "lineNo": 253
+        },
+        {
+          "type": "verseLine",
+          "text": "And upon what, prithee, may life depend?",
+          "indent": 0,
+          "lineNo": 254
+        },
+        {
+          "type": "verseLine",
+          "text": "L",
+          "indent": 0,
+          "lineNo": 255
+        },
+        {
+          "type": "verseLine",
+          "text": "A Hair perhaps divides the False and True;",
+          "indent": 0,
+          "lineNo": 256
+        },
+        {
+          "type": "verseLine",
+          "text": "Yes; and a single Alif were the clue--",
+          "indent": 0,
+          "lineNo": 257
+        },
+        {
+          "type": "verseLine",
+          "text": "Could you but find it--to the Treasure-house,",
+          "indent": 0,
+          "lineNo": 258
+        },
+        {
+          "type": "verseLine",
+          "text": "And peradventure to The Master too;",
+          "indent": 0,
+          "lineNo": 259
+        },
+        {
+          "type": "verseLine",
+          "text": "LI",
+          "indent": 0,
+          "lineNo": 260
+        },
+        {
+          "type": "verseLine",
+          "text": "Whose secret Presence, through Creation's veins",
+          "indent": 0,
+          "lineNo": 261
+        },
+        {
+          "type": "verseLine",
+          "text": "Running Quicksilver-like eludes your pains;",
+          "indent": 0,
+          "lineNo": 262
+        },
+        {
+          "type": "verseLine",
+          "text": "Taking all shapes from Mah to Mahi; and",
+          "indent": 0,
+          "lineNo": 263
+        },
+        {
+          "type": "verseLine",
+          "text": "They change and perish all--but He remains;",
+          "indent": 0,
+          "lineNo": 264
+        },
+        {
+          "type": "verseLine",
+          "text": "LII",
+          "indent": 0,
+          "lineNo": 265
+        },
+        {
+          "type": "verseLine",
+          "text": "A moment guess'd--then back behind the Fold",
+          "indent": 0,
+          "lineNo": 266
+        },
+        {
+          "type": "verseLine",
+          "text": "Immerst of Darkness round the Drama roll'd",
+          "indent": 0,
+          "lineNo": 267
+        },
+        {
+          "type": "verseLine",
+          "text": "Which, for the Pastime of Eternity,",
+          "indent": 0,
+          "lineNo": 268
+        },
+        {
+          "type": "verseLine",
+          "text": "He doth Himself contrive, enact, behold.",
+          "indent": 0,
+          "lineNo": 269
+        },
+        {
+          "type": "verseLine",
+          "text": "LIII",
+          "indent": 0,
+          "lineNo": 270
+        },
+        {
+          "type": "verseLine",
+          "text": "But if in vain, down on the stubborn floor",
+          "indent": 0,
+          "lineNo": 271
+        },
+        {
+          "type": "verseLine",
+          "text": "Of Earth, and up to Heav'n's unopening Door",
+          "indent": 0,
+          "lineNo": 272
+        },
+        {
+          "type": "verseLine",
+          "text": "You gaze To-day, while You are You--how then",
+          "indent": 0,
+          "lineNo": 273
+        },
+        {
+          "type": "verseLine",
+          "text": "To-morrow, You when shall be You no more?",
+          "indent": 0,
+          "lineNo": 274
+        },
+        {
+          "type": "verseLine",
+          "text": "LIV",
+          "indent": 0,
+          "lineNo": 275
+        },
+        {
+          "type": "verseLine",
+          "text": "Waste not your Hour, nor in the vain pursuit",
+          "indent": 0,
+          "lineNo": 276
+        },
+        {
+          "type": "verseLine",
+          "text": "Of This and That endeavour and dispute;",
+          "indent": 0,
+          "lineNo": 277
+        },
+        {
+          "type": "verseLine",
+          "text": "Better be jocund with the fruitful Grape",
+          "indent": 0,
+          "lineNo": 278
+        },
+        {
+          "type": "verseLine",
+          "text": "Than sadden after none, or bitter, Fruit.",
+          "indent": 0,
+          "lineNo": 279
+        },
+        {
+          "type": "verseLine",
+          "text": "LV",
+          "indent": 0,
+          "lineNo": 280
+        },
+        {
+          "type": "verseLine",
+          "text": "You know, my Friends, with what a brave Carouse",
+          "indent": 0,
+          "lineNo": 281
+        },
+        {
+          "type": "verseLine",
+          "text": "I made a Second Marriage in my house;",
+          "indent": 0,
+          "lineNo": 282
+        },
+        {
+          "type": "verseLine",
+          "text": "Divorced old barren Reason from my Bed",
+          "indent": 0,
+          "lineNo": 283
+        },
+        {
+          "type": "verseLine",
+          "text": "And took the Daughter of the Vine to Spouse.",
+          "indent": 0,
+          "lineNo": 284
+        },
+        {
+          "type": "verseLine",
+          "text": "LVI",
+          "indent": 0,
+          "lineNo": 285
+        },
+        {
+          "type": "verseLine",
+          "text": "For \"Is\" and \"Is-not\" though with Rule and Line",
+          "indent": 0,
+          "lineNo": 286
+        },
+        {
+          "type": "verseLine",
+          "text": "And \"Up\" and \"Down\" by Logic I define,",
+          "indent": 0,
+          "lineNo": 287
+        },
+        {
+          "type": "verseLine",
+          "text": "Of all that one should care to fathom,",
+          "indent": 0,
+          "lineNo": 288
+        },
+        {
+          "type": "verseLine",
+          "text": "Was never deep in anything but--Wine.",
+          "indent": 0,
+          "lineNo": 289
+        },
+        {
+          "type": "verseLine",
+          "text": "LVII",
+          "indent": 0,
+          "lineNo": 290
+        },
+        {
+          "type": "verseLine",
+          "text": "Ah, but my Computations, People say,",
+          "indent": 0,
+          "lineNo": 291
+        },
+        {
+          "type": "verseLine",
+          "text": "Reduced the Year to better reckoning?--Nay",
+          "indent": 0,
+          "lineNo": 292
+        },
+        {
+          "type": "verseLine",
+          "text": "'Twas only striking from the Calendar",
+          "indent": 0,
+          "lineNo": 293
+        },
+        {
+          "type": "verseLine",
+          "text": "Unborn To-morrow, and dead Yesterday.",
+          "indent": 0,
+          "lineNo": 294
+        },
+        {
+          "type": "verseLine",
+          "text": "LVIII",
+          "indent": 0,
+          "lineNo": 295
+        },
+        {
+          "type": "verseLine",
+          "text": "And lately, by the Tavern Door agape,",
+          "indent": 0,
+          "lineNo": 296
+        },
+        {
+          "type": "verseLine",
+          "text": "Came shining through the Dusk an Angel Shape",
+          "indent": 0,
+          "lineNo": 297
+        },
+        {
+          "type": "verseLine",
+          "text": "Bearing a Vessel on his Shoulder; and",
+          "indent": 0,
+          "lineNo": 298
+        },
+        {
+          "type": "verseLine",
+          "text": "He bid me taste of it; and 'twas--the Grape!",
+          "indent": 0,
+          "lineNo": 299
+        },
+        {
+          "type": "verseLine",
+          "text": "LIX",
+          "indent": 0,
+          "lineNo": 300
+        },
+        {
+          "type": "verseLine",
+          "text": "The Grape that can with Logic absolute",
+          "indent": 0,
+          "lineNo": 301
+        },
+        {
+          "type": "verseLine",
+          "text": "The Two-and-Seventy jarring Sects confute:",
+          "indent": 0,
+          "lineNo": 302
+        },
+        {
+          "type": "verseLine",
+          "text": "The sovereign Alchemist that in a trice",
+          "indent": 0,
+          "lineNo": 303
+        },
+        {
+          "type": "verseLine",
+          "text": "Life's leaden metal into Gold transmute:",
+          "indent": 0,
+          "lineNo": 304
+        },
+        {
+          "type": "verseLine",
+          "text": "LX",
+          "indent": 0,
+          "lineNo": 305
+        },
+        {
+          "type": "verseLine",
+          "text": "The mighty Mahmud, Allah-breathing Lord",
+          "indent": 0,
+          "lineNo": 306
+        },
+        {
+          "type": "verseLine",
+          "text": "That all the misbelieving and black Horde",
+          "indent": 0,
+          "lineNo": 307
+        },
+        {
+          "type": "verseLine",
+          "text": "Of Fears and Sorrows that infest the Soul",
+          "indent": 0,
+          "lineNo": 308
+        },
+        {
+          "type": "verseLine",
+          "text": "Scatters before him with his whirlwind Sword.",
+          "indent": 0,
+          "lineNo": 309
+        },
+        {
+          "type": "verseLine",
+          "text": "LXI",
+          "indent": 0,
+          "lineNo": 310
+        },
+        {
+          "type": "verseLine",
+          "text": "Why, be this Juice the growth of God, who dare",
+          "indent": 0,
+          "lineNo": 311
+        },
+        {
+          "type": "verseLine",
+          "text": "Blaspheme the twisted tendril as a Snare?",
+          "indent": 0,
+          "lineNo": 312
+        },
+        {
+          "type": "verseLine",
+          "text": "A Blessing, we should use it, should we not?",
+          "indent": 0,
+          "lineNo": 313
+        },
+        {
+          "type": "verseLine",
+          "text": "And if a Curse--why, then, Who set it there?",
+          "indent": 0,
+          "lineNo": 314
+        },
+        {
+          "type": "verseLine",
+          "text": "LXII",
+          "indent": 0,
+          "lineNo": 315
+        },
+        {
+          "type": "verseLine",
+          "text": "I must abjure the Balm of Life, I must,",
+          "indent": 0,
+          "lineNo": 316
+        },
+        {
+          "type": "verseLine",
+          "text": "Scared by some After-reckoning ta'en on trust,",
+          "indent": 0,
+          "lineNo": 317
+        },
+        {
+          "type": "verseLine",
+          "text": "Or lured with Hope of some Diviner Drink,",
+          "indent": 0,
+          "lineNo": 318
+        },
+        {
+          "type": "verseLine",
+          "text": "To fill the Cup--when crumbled into Dust!",
+          "indent": 0,
+          "lineNo": 319
+        },
+        {
+          "type": "verseLine",
+          "text": "LXIII",
+          "indent": 0,
+          "lineNo": 320
+        },
+        {
+          "type": "verseLine",
+          "text": "Oh, threats of Hell and Hopes of Paradise!",
+          "indent": 0,
+          "lineNo": 321
+        },
+        {
+          "type": "verseLine",
+          "text": "One thing at least is certain--This Life flies;",
+          "indent": 0,
+          "lineNo": 322
+        },
+        {
+          "type": "verseLine",
+          "text": "One thing is certain and the rest is Lies;",
+          "indent": 0,
+          "lineNo": 323
+        },
+        {
+          "type": "verseLine",
+          "text": "The Flower that once has blown for ever dies.",
+          "indent": 0,
+          "lineNo": 324
+        },
+        {
+          "type": "verseLine",
+          "text": "LXIV",
+          "indent": 0,
+          "lineNo": 325
+        },
+        {
+          "type": "verseLine",
+          "text": "Strange, is it not? that of the myriads who",
+          "indent": 0,
+          "lineNo": 326
+        },
+        {
+          "type": "verseLine",
+          "text": "Before us pass'd the door of Darkness through,",
+          "indent": 0,
+          "lineNo": 327
+        },
+        {
+          "type": "verseLine",
+          "text": "Not one returns to tell us of the Road,",
+          "indent": 0,
+          "lineNo": 328
+        },
+        {
+          "type": "verseLine",
+          "text": "Which to discover we must travel too.",
+          "indent": 0,
+          "lineNo": 329
+        },
+        {
+          "type": "verseLine",
+          "text": "LXV",
+          "indent": 0,
+          "lineNo": 330
+        },
+        {
+          "type": "verseLine",
+          "text": "The Revelations of Devout and Learn'd",
+          "indent": 0,
+          "lineNo": 331
+        },
+        {
+          "type": "verseLine",
+          "text": "Who rose before us, and as Prophets burn'd,",
+          "indent": 0,
+          "lineNo": 332
+        },
+        {
+          "type": "verseLine",
+          "text": "Are all but Stories, which, awoke from Sleep,",
+          "indent": 0,
+          "lineNo": 333
+        },
+        {
+          "type": "verseLine",
+          "text": "They told their comrades, and to Sleep return'd.",
+          "indent": 0,
+          "lineNo": 334
+        },
+        {
+          "type": "verseLine",
+          "text": "LXVI",
+          "indent": 0,
+          "lineNo": 335
+        },
+        {
+          "type": "verseLine",
+          "text": "I sent my Soul through the Invisible,",
+          "indent": 0,
+          "lineNo": 336
+        },
+        {
+          "type": "verseLine",
+          "text": "Some letter of that After-life to spell:",
+          "indent": 0,
+          "lineNo": 337
+        },
+        {
+          "type": "verseLine",
+          "text": "And by and by my Soul return'd to me,",
+          "indent": 0,
+          "lineNo": 338
+        },
+        {
+          "type": "verseLine",
+          "text": "And answer'd \"I Myself am Heav'n and Hell:\"",
+          "indent": 0,
+          "lineNo": 339
+        },
+        {
+          "type": "verseLine",
+          "text": "LXVII",
+          "indent": 0,
+          "lineNo": 340
+        },
+        {
+          "type": "verseLine",
+          "text": "Heav'n but the Vision of fulfill'd Desire,",
+          "indent": 0,
+          "lineNo": 341
+        },
+        {
+          "type": "verseLine",
+          "text": "And Hell the Shadow from a Soul on fire,",
+          "indent": 0,
+          "lineNo": 342
+        },
+        {
+          "type": "verseLine",
+          "text": "Cast on the Darkness into which Ourselves,",
+          "indent": 0,
+          "lineNo": 343
+        },
+        {
+          "type": "verseLine",
+          "text": "So late emerged from, shall so soon expire.",
+          "indent": 0,
+          "lineNo": 344
+        },
+        {
+          "type": "verseLine",
+          "text": "LXVIII",
+          "indent": 0,
+          "lineNo": 345
+        },
+        {
+          "type": "verseLine",
+          "text": "We are no other than a moving row",
+          "indent": 0,
+          "lineNo": 346
+        },
+        {
+          "type": "verseLine",
+          "text": "Of Magic Shadow-shapes that come and go",
+          "indent": 0,
+          "lineNo": 347
+        },
+        {
+          "type": "verseLine",
+          "text": "Round with the Sun-illumined Lantern held",
+          "indent": 0,
+          "lineNo": 348
+        },
+        {
+          "type": "verseLine",
+          "text": "In Midnight by the Master of the Show;",
+          "indent": 0,
+          "lineNo": 349
+        },
+        {
+          "type": "verseLine",
+          "text": "LXIX",
+          "indent": 0,
+          "lineNo": 350
+        },
+        {
+          "type": "verseLine",
+          "text": "But helpless Pieces of the Game He plays",
+          "indent": 0,
+          "lineNo": 351
+        },
+        {
+          "type": "verseLine",
+          "text": "Upon this Chequer-board of Nights and Days;",
+          "indent": 0,
+          "lineNo": 352
+        },
+        {
+          "type": "verseLine",
+          "text": "Hither and thither moves, and checks, and slays,",
+          "indent": 0,
+          "lineNo": 353
+        },
+        {
+          "type": "verseLine",
+          "text": "And one by one back in the Closet lays.",
+          "indent": 0,
+          "lineNo": 354
+        },
+        {
+          "type": "verseLine",
+          "text": "LXX",
+          "indent": 0,
+          "lineNo": 355
+        },
+        {
+          "type": "verseLine",
+          "text": "The Ball no question makes of Ayes and Noes,",
+          "indent": 0,
+          "lineNo": 356
+        },
+        {
+          "type": "verseLine",
+          "text": "But Here or There as strikes the Player goes;",
+          "indent": 0,
+          "lineNo": 357
+        },
+        {
+          "type": "verseLine",
+          "text": "And He that toss'd you down into the Field,",
+          "indent": 0,
+          "lineNo": 358
+        },
+        {
+          "type": "verseLine",
+          "text": "He knows about it all--He knows--HE knows!",
+          "indent": 0,
+          "lineNo": 359
+        },
+        {
+          "type": "verseLine",
+          "text": "LXXI",
+          "indent": 0,
+          "lineNo": 360
+        },
+        {
+          "type": "verseLine",
+          "text": "The Moving Finger writes; and, having writ,",
+          "indent": 0,
+          "lineNo": 361
+        },
+        {
+          "type": "verseLine",
+          "text": "Moves on: nor all your Piety nor Wit",
+          "indent": 0,
+          "lineNo": 362
+        },
+        {
+          "type": "verseLine",
+          "text": "Shall lure it back to cancel half a Line,",
+          "indent": 0,
+          "lineNo": 363
+        },
+        {
+          "type": "verseLine",
+          "text": "Nor all your Tears wash out a Word of it.",
+          "indent": 0,
+          "lineNo": 364
+        },
+        {
+          "type": "verseLine",
+          "text": "LXXII",
+          "indent": 0,
+          "lineNo": 365
+        },
+        {
+          "type": "verseLine",
+          "text": "And that inverted Bowl they call the Sky,",
+          "indent": 0,
+          "lineNo": 366
+        },
+        {
+          "type": "verseLine",
+          "text": "Whereunder crawling coop'd we live and die,",
+          "indent": 0,
+          "lineNo": 367
+        },
+        {
+          "type": "verseLine",
+          "text": "Lift not your hands to It for help--for It",
+          "indent": 0,
+          "lineNo": 368
+        },
+        {
+          "type": "verseLine",
+          "text": "As impotently moves as you or I.",
+          "indent": 0,
+          "lineNo": 369
+        },
+        {
+          "type": "verseLine",
+          "text": "LXXIII",
+          "indent": 0,
+          "lineNo": 370
+        },
+        {
+          "type": "verseLine",
+          "text": "With Earth's first Clay They did the Last Man knead,",
+          "indent": 0,
+          "lineNo": 371
+        },
+        {
+          "type": "verseLine",
+          "text": "And there of the Last Harvest sow'd the Seed:",
+          "indent": 0,
+          "lineNo": 372
+        },
+        {
+          "type": "verseLine",
+          "text": "And the first Morning of Creation wrote",
+          "indent": 0,
+          "lineNo": 373
+        },
+        {
+          "type": "verseLine",
+          "text": "What the Last Dawn of Reckoning shall read.",
+          "indent": 0,
+          "lineNo": 374
+        },
+        {
+          "type": "verseLine",
+          "text": "LXXIV",
+          "indent": 0,
+          "lineNo": 375
+        },
+        {
+          "type": "verseLine",
+          "text": "Yesterday This Day's Madness did prepare;",
+          "indent": 0,
+          "lineNo": 376
+        },
+        {
+          "type": "verseLine",
+          "text": "To-morrow's Silence, Triumph, or Despair:",
+          "indent": 0,
+          "lineNo": 377
+        },
+        {
+          "type": "verseLine",
+          "text": "Drink! for you know not whence you came, nor why:",
+          "indent": 0,
+          "lineNo": 378
+        },
+        {
+          "type": "verseLine",
+          "text": "Drink! for you know not why you go, nor where.",
+          "indent": 0,
+          "lineNo": 379
+        },
+        {
+          "type": "verseLine",
+          "text": "LXXV",
+          "indent": 0,
+          "lineNo": 380
+        },
+        {
+          "type": "verseLine",
+          "text": "I tell you this--When, started from the Goal,",
+          "indent": 0,
+          "lineNo": 381
+        },
+        {
+          "type": "verseLine",
+          "text": "Over the flaming shoulders of the Foal",
+          "indent": 0,
+          "lineNo": 382
+        },
+        {
+          "type": "verseLine",
+          "text": "Of Heav'n Parwin and Mushtari they flung",
+          "indent": 0,
+          "lineNo": 383
+        },
+        {
+          "type": "verseLine",
+          "text": "In my predestined Plot of Dust and Soul.",
+          "indent": 0,
+          "lineNo": 384
+        },
+        {
+          "type": "verseLine",
+          "text": "LXXVI",
+          "indent": 0,
+          "lineNo": 385
+        },
+        {
+          "type": "verseLine",
+          "text": "The Vine had struck a fibre: which about",
+          "indent": 0,
+          "lineNo": 386
+        },
+        {
+          "type": "verseLine",
+          "text": "If clings my being--let the Dervish flout;",
+          "indent": 0,
+          "lineNo": 387
+        },
+        {
+          "type": "verseLine",
+          "text": "Of my Base metal may be filed a Key,",
+          "indent": 0,
+          "lineNo": 388
+        },
+        {
+          "type": "verseLine",
+          "text": "That shall unlock the Door he howls without.",
+          "indent": 0,
+          "lineNo": 389
+        },
+        {
+          "type": "verseLine",
+          "text": "LXXVII",
+          "indent": 0,
+          "lineNo": 390
+        },
+        {
+          "type": "verseLine",
+          "text": "And this I know: whether the one True Light",
+          "indent": 0,
+          "lineNo": 391
+        },
+        {
+          "type": "verseLine",
+          "text": "Kindle to Love, or Wrath-consume me quite,",
+          "indent": 0,
+          "lineNo": 392
+        },
+        {
+          "type": "verseLine",
+          "text": "One Flash of It within the Tavern caught",
+          "indent": 0,
+          "lineNo": 393
+        },
+        {
+          "type": "verseLine",
+          "text": "Better than in the Temple lost outright.",
+          "indent": 0,
+          "lineNo": 394
+        },
+        {
+          "type": "verseLine",
+          "text": "LXXVIII",
+          "indent": 0,
+          "lineNo": 395
+        },
+        {
+          "type": "verseLine",
+          "text": "What! out of senseless Nothing to provoke",
+          "indent": 0,
+          "lineNo": 396
+        },
+        {
+          "type": "verseLine",
+          "text": "A conscious Something to resent the yoke",
+          "indent": 0,
+          "lineNo": 397
+        },
+        {
+          "type": "verseLine",
+          "text": "Of unpermitted Pleasure, under pain",
+          "indent": 0,
+          "lineNo": 398
+        },
+        {
+          "type": "verseLine",
+          "text": "Of Everlasting Penalties, if broke!",
+          "indent": 0,
+          "lineNo": 399
+        },
+        {
+          "type": "verseLine",
+          "text": "LXXIX",
+          "indent": 0,
+          "lineNo": 400
+        },
+        {
+          "type": "verseLine",
+          "text": "What! from his helpless Creature be repaid",
+          "indent": 0,
+          "lineNo": 401
+        },
+        {
+          "type": "verseLine",
+          "text": "Pure Gold for what he lent him dross-allay'd--",
+          "indent": 0,
+          "lineNo": 402
+        },
+        {
+          "type": "verseLine",
+          "text": "Sue for a Debt he never did contract,",
+          "indent": 0,
+          "lineNo": 403
+        },
+        {
+          "type": "verseLine",
+          "text": "And cannot answer--Oh, the sorry trade!",
+          "indent": 0,
+          "lineNo": 404
+        },
+        {
+          "type": "verseLine",
+          "text": "LXXX",
+          "indent": 0,
+          "lineNo": 405
+        },
+        {
+          "type": "verseLine",
+          "text": "Oh, Thou, who didst with pitfall and with gin",
+          "indent": 0,
+          "lineNo": 406
+        },
+        {
+          "type": "verseLine",
+          "text": "Beset the Road I was to wander in,",
+          "indent": 0,
+          "lineNo": 407
+        },
+        {
+          "type": "verseLine",
+          "text": "Thou wilt not with Predestined Evil round",
+          "indent": 0,
+          "lineNo": 408
+        },
+        {
+          "type": "verseLine",
+          "text": "Enmesh, and then impute my Fall to Sin!",
+          "indent": 0,
+          "lineNo": 409
+        },
+        {
+          "type": "verseLine",
+          "text": "LXXXI",
+          "indent": 0,
+          "lineNo": 410
+        },
+        {
+          "type": "verseLine",
+          "text": "Oh, Thou who Man of baser Earth didst make,",
+          "indent": 0,
+          "lineNo": 411
+        },
+        {
+          "type": "verseLine",
+          "text": "And ev'n with Paradise devise the Snake:",
+          "indent": 0,
+          "lineNo": 412
+        },
+        {
+          "type": "verseLine",
+          "text": "For all the Sin wherewith the Face of Man",
+          "indent": 0,
+          "lineNo": 413
+        },
+        {
+          "type": "verseLine",
+          "text": "Is blacken'd--Man's forgiveness give--and take!",
+          "indent": 0,
+          "lineNo": 414
+        },
+        {
+          "type": "verseLine",
+          "text": "LXXXII",
+          "indent": 0,
+          "lineNo": 415
+        },
+        {
+          "type": "verseLine",
+          "text": "As under cover of departing Day",
+          "indent": 0,
+          "lineNo": 416
+        },
+        {
+          "type": "verseLine",
+          "text": "Slunk hunger-stricken Ramazan away,",
+          "indent": 0,
+          "lineNo": 417
+        },
+        {
+          "type": "verseLine",
+          "text": "Once more within the Potter's house alone",
+          "indent": 0,
+          "lineNo": 418
+        },
+        {
+          "type": "verseLine",
+          "text": "I stood, surrounded by the Shapes of Clay.",
+          "indent": 0,
+          "lineNo": 419
+        },
+        {
+          "type": "verseLine",
+          "text": "LXXXIII",
+          "indent": 0,
+          "lineNo": 420
+        },
+        {
+          "type": "verseLine",
+          "text": "Shapes of all Sorts and Sizes, great and small,",
+          "indent": 0,
+          "lineNo": 421
+        },
+        {
+          "type": "verseLine",
+          "text": "That stood along the floor and by the wall;",
+          "indent": 0,
+          "lineNo": 422
+        },
+        {
+          "type": "verseLine",
+          "text": "And some loquacious Vessels were; and some",
+          "indent": 0,
+          "lineNo": 423
+        },
+        {
+          "type": "verseLine",
+          "text": "Listen'd perhaps, but never talk'd at all.",
+          "indent": 0,
+          "lineNo": 424
+        },
+        {
+          "type": "verseLine",
+          "text": "LXXXIV",
+          "indent": 0,
+          "lineNo": 425
+        },
+        {
+          "type": "verseLine",
+          "text": "Said one among them--\"Surely not in vain",
+          "indent": 0,
+          "lineNo": 426
+        },
+        {
+          "type": "verseLine",
+          "text": "My substance of the common Earth was ta'en",
+          "indent": 0,
+          "lineNo": 427
+        },
+        {
+          "type": "verseLine",
+          "text": "And to this Figure moulded, to be broke,",
+          "indent": 0,
+          "lineNo": 428
+        },
+        {
+          "type": "verseLine",
+          "text": "Or trampled back to shapeless Earth again.\"",
+          "indent": 0,
+          "lineNo": 429
+        },
+        {
+          "type": "verseLine",
+          "text": "LXXXV",
+          "indent": 0,
+          "lineNo": 430
+        },
+        {
+          "type": "verseLine",
+          "text": "Then said a Second--\"Ne'er a peevish Boy",
+          "indent": 0,
+          "lineNo": 431
+        },
+        {
+          "type": "verseLine",
+          "text": "Would break the Bowl from which he drank in joy,",
+          "indent": 0,
+          "lineNo": 432
+        },
+        {
+          "type": "verseLine",
+          "text": "And He that with his hand the Vessel made",
+          "indent": 0,
+          "lineNo": 433
+        },
+        {
+          "type": "verseLine",
+          "text": "Will surely not in after Wrath destroy.\"",
+          "indent": 0,
+          "lineNo": 434
+        },
+        {
+          "type": "verseLine",
+          "text": "LXXXVI",
+          "indent": 0,
+          "lineNo": 435
+        },
+        {
+          "type": "verseLine",
+          "text": "After a momentary silence spake",
+          "indent": 0,
+          "lineNo": 436
+        },
+        {
+          "type": "verseLine",
+          "text": "Some Vessel of a more ungainly Make;",
+          "indent": 0,
+          "lineNo": 437
+        },
+        {
+          "type": "verseLine",
+          "text": "\"They sneer at me for leaning all awry:",
+          "indent": 0,
+          "lineNo": 438
+        },
+        {
+          "type": "verseLine",
+          "text": "What! did the Hand then of the Potter shake?\"",
+          "indent": 0,
+          "lineNo": 439
+        },
+        {
+          "type": "verseLine",
+          "text": "LXXXVII",
+          "indent": 0,
+          "lineNo": 440
+        },
+        {
+          "type": "verseLine",
+          "text": "Whereat some one of the loquacious Lot--",
+          "indent": 0,
+          "lineNo": 441
+        },
+        {
+          "type": "verseLine",
+          "text": "I think a Sufi pipkin-waxing hot--",
+          "indent": 0,
+          "lineNo": 442
+        },
+        {
+          "type": "verseLine",
+          "text": "\"All this of Pot and Potter--Tell me then,",
+          "indent": 0,
+          "lineNo": 443
+        },
+        {
+          "type": "verseLine",
+          "text": "Who is the Potter, pray, and who the Pot?\"",
+          "indent": 0,
+          "lineNo": 444
+        },
+        {
+          "type": "verseLine",
+          "text": "LXXXVIII",
+          "indent": 0,
+          "lineNo": 445
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Why,\" said another, \"Some there are who tell",
+          "indent": 0,
+          "lineNo": 446
+        },
+        {
+          "type": "verseLine",
+          "text": "Of one who threatens he will toss to Hell",
+          "indent": 0,
+          "lineNo": 447
+        },
+        {
+          "type": "verseLine",
+          "text": "The luckless Pots he marr'd in making--Pish!",
+          "indent": 0,
+          "lineNo": 448
+        },
+        {
+          "type": "verseLine",
+          "text": "He's a Good Fellow, and 'twill all be well.\"",
+          "indent": 0,
+          "lineNo": 449
+        },
+        {
+          "type": "verseLine",
+          "text": "LXXXIX",
+          "indent": 0,
+          "lineNo": 450
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Well,\" Murmur'd one, \"Let whoso make or buy,",
+          "indent": 0,
+          "lineNo": 451
+        },
+        {
+          "type": "verseLine",
+          "text": "My Clay with long Oblivion is gone dry:",
+          "indent": 0,
+          "lineNo": 452
+        },
+        {
+          "type": "verseLine",
+          "text": "But fill me with the old familiar juice,",
+          "indent": 0,
+          "lineNo": 453
+        },
+        {
+          "type": "verseLine",
+          "text": "Methinks I might recover by and by.\"",
+          "indent": 0,
+          "lineNo": 454
+        },
+        {
+          "type": "verseLine",
+          "text": "XC",
+          "indent": 0,
+          "lineNo": 455
+        },
+        {
+          "type": "verseLine",
+          "text": "So while the Vessels one by one were speaking,",
+          "indent": 0,
+          "lineNo": 456
+        },
+        {
+          "type": "verseLine",
+          "text": "The little Moon look'd in that all were seeking:",
+          "indent": 0,
+          "lineNo": 457
+        },
+        {
+          "type": "verseLine",
+          "text": "And then they jogg'd each other, \"Brother! Brother!",
+          "indent": 0,
+          "lineNo": 458
+        },
+        {
+          "type": "verseLine",
+          "text": "Now for the Porter's shoulder-knot a-creaking!\"",
+          "indent": 0,
+          "lineNo": 459
+        },
+        {
+          "type": "verseLine",
+          "text": "XCI",
+          "indent": 0,
+          "lineNo": 460
+        },
+        {
+          "type": "verseLine",
+          "text": "Ah, with the Grape my fading Life provide,",
+          "indent": 0,
+          "lineNo": 461
+        },
+        {
+          "type": "verseLine",
+          "text": "And wash the Body whence the Life has died,",
+          "indent": 0,
+          "lineNo": 462
+        },
+        {
+          "type": "verseLine",
+          "text": "And lay me, shrouded in the living Leaf,",
+          "indent": 0,
+          "lineNo": 463
+        },
+        {
+          "type": "verseLine",
+          "text": "By some not unfrequented Garden-side.",
+          "indent": 0,
+          "lineNo": 464
+        },
+        {
+          "type": "verseLine",
+          "text": "XCII",
+          "indent": 0,
+          "lineNo": 465
+        },
+        {
+          "type": "verseLine",
+          "text": "That ev'n my buried Ashes such a snare",
+          "indent": 0,
+          "lineNo": 466
+        },
+        {
+          "type": "verseLine",
+          "text": "Of Vintage shall fling up into the Air",
+          "indent": 0,
+          "lineNo": 467
+        },
+        {
+          "type": "verseLine",
+          "text": "As not a True-believer passing by",
+          "indent": 0,
+          "lineNo": 468
+        },
+        {
+          "type": "verseLine",
+          "text": "But shall be overtaken unaware.",
+          "indent": 0,
+          "lineNo": 469
+        },
+        {
+          "type": "verseLine",
+          "text": "XCIII",
+          "indent": 0,
+          "lineNo": 470
+        },
+        {
+          "type": "verseLine",
+          "text": "Indeed the Idols I have loved so long",
+          "indent": 0,
+          "lineNo": 471
+        },
+        {
+          "type": "verseLine",
+          "text": "Have done my credit in this World much wrong:",
+          "indent": 0,
+          "lineNo": 472
+        },
+        {
+          "type": "verseLine",
+          "text": "Have drown'd my Glory in a shallow Cup",
+          "indent": 0,
+          "lineNo": 473
+        },
+        {
+          "type": "verseLine",
+          "text": "And sold my Reputation for a Song.",
+          "indent": 0,
+          "lineNo": 474
+        },
+        {
+          "type": "verseLine",
+          "text": "XCIV",
+          "indent": 0,
+          "lineNo": 475
+        },
+        {
+          "type": "verseLine",
+          "text": "Indeed, indeed, Repentance of before",
+          "indent": 0,
+          "lineNo": 476
+        },
+        {
+          "type": "verseLine",
+          "text": "I swore--but was I sober when I swore?",
+          "indent": 0,
+          "lineNo": 477
+        },
+        {
+          "type": "verseLine",
+          "text": "And then and then came Spring, and Rose-in-hand",
+          "indent": 0,
+          "lineNo": 478
+        },
+        {
+          "type": "verseLine",
+          "text": "My thread-bare Penitence apieces tore.",
+          "indent": 0,
+          "lineNo": 479
+        },
+        {
+          "type": "verseLine",
+          "text": "XCV",
+          "indent": 0,
+          "lineNo": 480
+        },
+        {
+          "type": "verseLine",
+          "text": "And much as Wine has play'd the Infidel,",
+          "indent": 0,
+          "lineNo": 481
+        },
+        {
+          "type": "verseLine",
+          "text": "And robb'd me of my Robe of Honour--Well,",
+          "indent": 0,
+          "lineNo": 482
+        },
+        {
+          "type": "verseLine",
+          "text": "I wonder often what the Vintners buy",
+          "indent": 0,
+          "lineNo": 483
+        },
+        {
+          "type": "verseLine",
+          "text": "One half so precious as the stuff they sell.",
+          "indent": 0,
+          "lineNo": 484
+        },
+        {
+          "type": "verseLine",
+          "text": "XCVI",
+          "indent": 0,
+          "lineNo": 485
+        },
+        {
+          "type": "verseLine",
+          "text": "Yet Ah, that Spring should vanish with the Rose!",
+          "indent": 0,
+          "lineNo": 486
+        },
+        {
+          "type": "verseLine",
+          "text": "That Youth's sweet-scented manuscript should close!",
+          "indent": 0,
+          "lineNo": 487
+        },
+        {
+          "type": "verseLine",
+          "text": "The Nightingale that in the branches sang,",
+          "indent": 0,
+          "lineNo": 488
+        },
+        {
+          "type": "verseLine",
+          "text": "Ah, whence, and whither flown again, who knows!",
+          "indent": 0,
+          "lineNo": 489
+        },
+        {
+          "type": "verseLine",
+          "text": "XCVII",
+          "indent": 0,
+          "lineNo": 490
+        },
+        {
+          "type": "verseLine",
+          "text": "Would but the Desert of the Fountain yield",
+          "indent": 0,
+          "lineNo": 491
+        },
+        {
+          "type": "verseLine",
+          "text": "One glimpse--if dimly, yet indeed, reveal'd,",
+          "indent": 0,
+          "lineNo": 492
+        },
+        {
+          "type": "verseLine",
+          "text": "To which the fainting Traveller might spring,",
+          "indent": 0,
+          "lineNo": 493
+        },
+        {
+          "type": "verseLine",
+          "text": "As springs the trampled herbage of the field!",
+          "indent": 0,
+          "lineNo": 494
+        },
+        {
+          "type": "verseLine",
+          "text": "XCVIII",
+          "indent": 0,
+          "lineNo": 495
+        },
+        {
+          "type": "verseLine",
+          "text": "Would but some wing'ed Angel ere too late",
+          "indent": 0,
+          "lineNo": 496
+        },
+        {
+          "type": "verseLine",
+          "text": "Arrest the yet unfolded Roll of Fate,",
+          "indent": 0,
+          "lineNo": 497
+        },
+        {
+          "type": "verseLine",
+          "text": "And make the stern Recorder otherwise",
+          "indent": 0,
+          "lineNo": 498
+        },
+        {
+          "type": "verseLine",
+          "text": "Enregister, or quite obliterate!",
+          "indent": 0,
+          "lineNo": 499
+        },
+        {
+          "type": "verseLine",
+          "text": "XCIX",
+          "indent": 0,
+          "lineNo": 500
+        },
+        {
+          "type": "verseLine",
+          "text": "Ah, Love! could you and I with Him conspire",
+          "indent": 0,
+          "lineNo": 501
+        },
+        {
+          "type": "verseLine",
+          "text": "To grasp this sorry Scheme of Things entire,",
+          "indent": 0,
+          "lineNo": 502
+        },
+        {
+          "type": "verseLine",
+          "text": "Would not we shatter it to bits--and then",
+          "indent": 0,
+          "lineNo": 503
+        },
+        {
+          "type": "verseLine",
+          "text": "Re-mould it nearer to the Heart's Desire!",
+          "indent": 0,
+          "lineNo": 504
+        },
+        {
+          "type": "verseLine",
+          "text": "C",
+          "indent": 0,
+          "lineNo": 505
+        },
+        {
+          "type": "verseLine",
+          "text": "Yon rising Moon that looks for us again--",
+          "indent": 0,
+          "lineNo": 506
+        },
+        {
+          "type": "verseLine",
+          "text": "How oft hereafter will she wax and wane;",
+          "indent": 0,
+          "lineNo": 507
+        },
+        {
+          "type": "verseLine",
+          "text": "How oft hereafter rising look for us",
+          "indent": 0,
+          "lineNo": 508
+        },
+        {
+          "type": "verseLine",
+          "text": "Through this same Garden--and for one in vain!",
+          "indent": 0,
+          "lineNo": 509
+        },
+        {
+          "type": "verseLine",
+          "text": "CI",
+          "indent": 0,
+          "lineNo": 510
+        },
+        {
+          "type": "verseLine",
+          "text": "And when like her, oh, Saki, you shall pass",
+          "indent": 0,
+          "lineNo": 511
+        },
+        {
+          "type": "verseLine",
+          "text": "Among the Guests Star-scatter'd on the Grass,",
+          "indent": 0,
+          "lineNo": 512
+        },
+        {
+          "type": "verseLine",
+          "text": "And in your joyous errand reach the spot",
+          "indent": 0,
+          "lineNo": 513
+        },
+        {
+          "type": "verseLine",
+          "text": "Where I made One--turn down an empty Glass!",
+          "indent": 0,
+          "lineNo": 514
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 0,
+    "wordCount": 3247
+  }
+}

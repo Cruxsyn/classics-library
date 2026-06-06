@@ -1,0 +1,4421 @@
+{
+  "id": "Aristophanes/thesmoph",
+  "author": "Aristophanes",
+  "authorKey": "Aristophanes",
+  "title": "The Thesmophoriazusae",
+  "translator": null,
+  "language": "Greek",
+  "written": "411 BCE",
+  "sourceNote": null,
+  "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "ambiguous: 0.321 long unterminated interior lines, median line length 35.0, 0.000 explicit breaks; defaulted to prose",
+  "textModeStats": {
+    "lineCount": 1377,
+    "paragraphCount": 6,
+    "interiorLineCount": 1371,
+    "medianLineLength": 35.0,
+    "meanLineLength": 38.80610021786492,
+    "longInteriorLineRatio": 0.40554339897884756,
+    "unterminatedInteriorLineRatio": 0.6571845368344275,
+    "longUnterminatedInteriorLineRatio": 0.32093362509117435,
+    "explicitBreakLineRatio": 0.0,
+    "unmarkedLineRatio": 0.9963689179375453
+  },
+  "landingUrl": "https://classics.mit.edu/Aristophanes/thesmoph.html",
+  "textUrls": [
+    "https://classics.mit.edu/Aristophanes/thesmoph.html"
+  ],
+  "txtUrl": "https://classics.mit.edu/Aristophanes/thesmoph.pl.txt",
+  "sections": [
+    {
+      "seq": 1,
+      "id": "thesmoph-the-thesmophoriazusae",
+      "heading": "The Thesmophoriazusae",
+      "partTitle": "The Thesmophoriazusae",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Dramatis Personae",
+          "lineStart": 10
+        },
+        {
+          "type": "para",
+          "text": "EURIPIDES MNESILOCHUS, Father-in-law of Euripides AGATHON SERVANT OF AGATHON HERALD WOMEN CLISTHENES A MAGISTRATE A SCYTHIAN POLICEMAN Scene Behind the orchestra are two buildings, one the house of the poet AGATHON, the other the Thesmophorion. EURIPIDES enters from the right, at a rapid pace, with an air of searching for something; his father-in-law MNESILOCHUS, who is extremely aged, follows him as best he can, with an obviously painful expenditure of effort.",
+          "lineStart": 11
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 21
+        },
+        {
+          "type": "para",
+          "text": "Great Zeus! will the swallow never appear to end the winter of my discontent? Why the fellow has kept me on the run ever since early this morning; he wants to kill me, that's certain. Before I lose my spleen antirely, Euripides, can you at least tell me where you are leading me?",
+          "lineStart": 22
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 26
+        },
+        {
+          "type": "para",
+          "text": "What need for you to hear what you are going to see?",
+          "lineStart": 27
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 28
+        },
+        {
+          "type": "para",
+          "text": "How is that? Repeat it. No need for me to hear....",
+          "lineStart": 29
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 30
+        },
+        {
+          "type": "para",
+          "text": "What you are going to see.",
+          "lineStart": 31
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 32
+        },
+        {
+          "type": "para",
+          "text": "Nor consequently to see....",
+          "lineStart": 33
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 34
+        },
+        {
+          "type": "para",
+          "text": "What you have to hear.",
+          "lineStart": 35
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 36
+        },
+        {
+          "type": "para",
+          "text": "What is this wiseacre stuff you are telling me? I must neither see nor hear?",
+          "lineStart": 37
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 39
+        },
+        {
+          "type": "para",
+          "text": "Ah! but you have two things there that are essentially distinct.",
+          "lineStart": 40
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 41
+        },
+        {
+          "type": "para",
+          "text": "Seeing and hearing?",
+          "lineStart": 42
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 43
+        },
+        {
+          "type": "para",
+          "text": "Undoubtedly.",
+          "lineStart": 44
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 45
+        },
+        {
+          "type": "para",
+          "text": "In what way distinct?",
+          "lineStart": 46
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 47
+        },
+        {
+          "type": "para",
+          "text": "In this way. Formerly, when Aether separated the elements and bore the animals that were moving in her bosom, she wished to endow them with sight, and so made the eye round like the sun's disc and bored ears in the form of a funnel.",
+          "lineStart": 48
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 52
+        },
+        {
+          "type": "para",
+          "text": "And because of this funnel I neither see nor hear. Ah! great gods! I am delighted to know it. What a fine thing it is to talk with wise men!",
+          "lineStart": 53
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 56
+        },
+        {
+          "type": "para",
+          "text": "I will teach you many another thing of the sort.",
+          "lineStart": 57
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 58
+        },
+        {
+          "type": "para",
+          "text": "That's well to know; but first of all I should like to find out how to grow lame, so that I need not have to follow you all about.",
+          "lineStart": 59
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 61
+        },
+        {
+          "type": "para",
+          "text": "Come, hear and give heed!",
+          "lineStart": 62
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 63
+        },
+        {
+          "type": "para",
+          "text": "I'm here and waiting.",
+          "lineStart": 64
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 65
+        },
+        {
+          "type": "para",
+          "text": "Do you see that little door?",
+          "lineStart": 66
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 67
+        },
+        {
+          "type": "para",
+          "text": "Yes, certainly.",
+          "lineStart": 68
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 69
+        },
+        {
+          "type": "para",
+          "text": "Silence!",
+          "lineStart": 70
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 71
+        },
+        {
+          "type": "para",
+          "text": "Silence about what? About the door?",
+          "lineStart": 72
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 73
+        },
+        {
+          "type": "para",
+          "text": "Pay attention!",
+          "lineStart": 74
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 75
+        },
+        {
+          "type": "para",
+          "text": "Pay attention and be silent about the door? Very well.",
+          "lineStart": 76
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 77
+        },
+        {
+          "type": "para",
+          "text": "That is where Agathon, the celebrated tragic poet, dwells.",
+          "lineStart": 78
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 79
+        },
+        {
+          "type": "para",
+          "text": "Who is this Agathon?",
+          "lineStart": 80
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 81
+        },
+        {
+          "type": "para",
+          "text": "He's a certain Agathon....",
+          "lineStart": 82
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 83
+        },
+        {
+          "type": "para",
+          "text": "Swarthy, robust of build?",
+          "lineStart": 84
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 85
+        },
+        {
+          "type": "para",
+          "text": "No, another.",
+          "lineStart": 86
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 87
+        },
+        {
+          "type": "para",
+          "text": "I have never seen him. He has a big beard?",
+          "lineStart": 88
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 89
+        },
+        {
+          "type": "para",
+          "text": "Have you never seen him?",
+          "lineStart": 90
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 91
+        },
+        {
+          "type": "para",
+          "text": "Never, so far as I know.",
+          "lineStart": 92
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 93
+        },
+        {
+          "type": "para",
+          "text": "And yet you have made love to him. Well, it must have been without knowing who he was. The door of AGATHON'S house opens. Ah! let us step aside; here is one of his slaves bringing a brazier and some myrtle branches; no doubt he is going to offer a sacrifice and pray for a happy poetical inspiration for Agathon.",
+          "lineStart": 94
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT OF AGATHON",
+          "lineStart": 100
+        },
+        {
+          "type": "para",
+          "text": "standing on the threshold; solemnly Silence! oh, people! keep your mouths sedately shut! The chorus of the Muses is moulding songs at my master's hearth. Let the winds hold their breath in the silent Aether! Let the azure waves cease murmuring on the shore!....",
+          "lineStart": 101
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 106
+        },
+        {
+          "type": "para",
+          "text": "Bombax.",
+          "lineStart": 107
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 108
+        },
+        {
+          "type": "para",
+          "text": "Be still! I want to hear what he is saying.",
+          "lineStart": 109
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 110
+        },
+        {
+          "type": "para",
+          "text": "....Take your rest, ye winged races, and you, ye savage inhabitants of the woods, cease from your erratic wandering....",
+          "lineStart": 111
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 113
+        },
+        {
+          "type": "para",
+          "text": "more loudly Bombalobombax.",
+          "lineStart": 114
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 116
+        },
+        {
+          "type": "para",
+          "text": "....for Agathon, our master, the sweet-voiced poet, is going....",
+          "lineStart": 117
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 118
+        },
+        {
+          "type": "para",
+          "text": "....to be made love to?",
+          "lineStart": 119
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 120
+        },
+        {
+          "type": "para",
+          "text": "Whose voice is that?",
+          "lineStart": 121
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 122
+        },
+        {
+          "type": "para",
+          "text": "It's the silent Aether.",
+          "lineStart": 123
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 124
+        },
+        {
+          "type": "para",
+          "text": "....is going to construct the framework of a drama. He is rounding fresh poetical forms, he is polishing them in the lathe and is welding them; he is hammering out sentences and metaphors; he is working up his subect like soft wax. First he models it and then he casts it in bronze....",
+          "lineStart": 125
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 129
+        },
+        {
+          "type": "para",
+          "text": "....and sways his buttocks amorously.",
+          "lineStart": 130
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 131
+        },
+        {
+          "type": "para",
+          "text": "Who is the rustic that approaches this sacred enclosure?",
+          "lineStart": 132
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 133
+        },
+        {
+          "type": "para",
+          "text": "Take care of yourself and of your sweet-voiced poet! I have a strong tool here both well rounded and well polished, which will pierce your enclosure and penetrate you.",
+          "lineStart": 134
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 137
+        },
+        {
+          "type": "para",
+          "text": "Old man, you must have been a very insolent fellow in your youth!",
+          "lineStart": 138
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 140
+        },
+        {
+          "type": "para",
+          "text": "to the SERVANT Let him be, friend, and, quick, go and call Agathon to me.",
+          "lineStart": 141
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 143
+        },
+        {
+          "type": "para",
+          "text": "It's not worth the trouble, for he will soon be here himself. He has started to compose, and in winter it is never possible to round off strophes without coming to the sun to excite the imagination.",
+          "lineStart": 144
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 147
+        },
+        {
+          "type": "para",
+          "text": "And what am I to do?",
+          "lineStart": 148
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 149
+        },
+        {
+          "type": "para",
+          "text": "Wait till he gets here. He goes into the house.",
+          "lineStart": 150
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 152
+        },
+        {
+          "type": "para",
+          "text": "Oh, Zeus! what hast thou in store for me to-day?",
+          "lineStart": 153
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 154
+        },
+        {
+          "type": "para",
+          "text": "Great gods, what is the matter now? What are you grumbling and groaning for? Tell me; you must not conceal anything from your father-in-law.",
+          "lineStart": 155
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 157
+        },
+        {
+          "type": "para",
+          "text": "Some great misfortune is brewing against me.",
+          "lineStart": 158
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 159
+        },
+        {
+          "type": "para",
+          "text": "What is it?",
+          "lineStart": 160
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 161
+        },
+        {
+          "type": "para",
+          "text": "This day will decide whether it is all over with Euripides or not.",
+          "lineStart": 162
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 164
+        },
+        {
+          "type": "para",
+          "text": "But how? Neither the tribunals nor the Senate are sitting, for it is the third day of the Thesmophoria.",
+          "lineStart": 165
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 167
+        },
+        {
+          "type": "para",
+          "text": "That is precisely what makes me tremble; the women have plotted my ruin, and to-day they are to gather in the Temple of Demeter to execute their decision.",
+          "lineStart": 168
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 171
+        },
+        {
+          "type": "para",
+          "text": "What have they against you?",
+          "lineStart": 172
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 173
+        },
+        {
+          "type": "para",
+          "text": "Because I mishandle them in my tragedies.",
+          "lineStart": 174
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 175
+        },
+        {
+          "type": "para",
+          "text": "By Posidon, you would seem to have thoroughly deserved your fate. But how are you going to get out of the mess?",
+          "lineStart": 176
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 178
+        },
+        {
+          "type": "para",
+          "text": "I am going to beg Agathon, the tragic poet, to go to the Thesmophoria.",
+          "lineStart": 179
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 180
+        },
+        {
+          "type": "para",
+          "text": "And what is he to do there?",
+          "lineStart": 181
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 182
+        },
+        {
+          "type": "para",
+          "text": "He would mingle with the women, and stand up for me, if needful.",
+          "lineStart": 183
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 184
+        },
+        {
+          "type": "para",
+          "text": "Would be present or secretly?",
+          "lineStart": 185
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 186
+        },
+        {
+          "type": "para",
+          "text": "Secretly, dressed in woman's clothes.",
+          "lineStart": 187
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 188
+        },
+        {
+          "type": "para",
+          "text": "That's a clever notion, thoroughly worthy of you. The prize for trickery is ours. The door of AGATHON'S house opens.",
+          "lineStart": 189
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 192
+        },
+        {
+          "type": "para",
+          "text": "Silence!",
+          "lineStart": 193
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 194
+        },
+        {
+          "type": "para",
+          "text": "What's the matter?",
+          "lineStart": 195
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 196
+        },
+        {
+          "type": "para",
+          "text": "Here comes Agathon.",
+          "lineStart": 197
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 198
+        },
+        {
+          "type": "para",
+          "text": "Where, where?",
+          "lineStart": 199
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 200
+        },
+        {
+          "type": "para",
+          "text": "That's the man they are bringing out yonder on the eccyclema. AGATHON appears on the eccyclema, softly reposing on a bed, clothed in a saffron tunic, and surrounded with feminine toilet articles.",
+          "lineStart": 201
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 205
+        },
+        {
+          "type": "para",
+          "text": "I am blind then! I see no man here, I only see Cyrene.",
+          "lineStart": 206
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 207
+        },
+        {
+          "type": "para",
+          "text": "Be still! He is getting ready to sing.",
+          "lineStart": 208
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 209
+        },
+        {
+          "type": "para",
+          "text": "What subtle trill, I wonder, is he going to warble to us?",
+          "lineStart": 210
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 211
+        },
+        {
+          "type": "para",
+          "text": "He now sings a selection from one of his tragedies, taking first the part of the leader of the chorus and then that of the whole chorus. As LEADER OF THE CHORUS Damsels, with the sacred torch in hand, unite your dance to shouts of joy in honour of the nether goddesses; celebrate the freedom of your country. As CHORUS To what divinity is your homage addressed? I wish to mingle mine with it. As LEADER OF THE CHORUS Oh! Muse! glorify Phoebus with his golden bow, who erected the walls of the city of the Simois. As CHORUS To thee, oh Phoebus, I dedicate my most beauteous songs; to thee, the sacred victor in the poetical contests. As LEADER OF THE CHORUS And praise Artemis too, the maiden huntress, who wanders on the mountains and through the woods.... As CHORUS I, in my turn, celebrate the everlasting happiness of the chaste Artemis, the mighty daughter of Leto! As LEADER OF THE CHORUS ....and Leto and the tones of the Asiatic lyre, which wed so well with the dances of the Phrygian Graces. As CHORUS I do honour to the divine Leto and to the lyre, the mother of songs of male and noble strains. The eyes of the goddess sparkle while listening to our enthusiastic chants. Honour to the powerful Phoebus! Hail! thou blessed son of Leto.",
+          "lineStart": 212
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 240
+        },
+        {
+          "type": "para",
+          "text": "Oh! ye venerable Genetyllides, what tender and voluptuous songs! They surpass the most lascivious kisses in sweetness; I feel a thrill of delight pass up me as I listen to them. To EURIPIDES Young man, if you are one, answer my questions, which I am borrowing from Aeschylus' \"Lycurgeia.\" Whence comes this androgyne? What is his country? his dress? What contradictions his life shows! A lyre and a hair-net! A wrestling school oil flask and a girdle! What could be more contradictory? What relation has a mirror to a sword? To AGATHON And you yourself, who are you? Do you pretend to be a man? Where is your tool, pray? Where is the cloak, the footgear that belong to that sex? Are you a woman? Then where are your breasts? Answer me. But you keep silent. Oh! just as you choose; your songs display your character quite sufficiently.",
+          "lineStart": 241
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 255
+        },
+        {
+          "type": "para",
+          "text": "Old man, old man, I hear the shafts of jealousy whistling by my ears, but they do not hit me. My dress is in harmony with my thoughts. A poet must adopt the nature of his characters. Thus, if he is placing women on the stage, he must contract all their habits in his own person.",
+          "lineStart": 256
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 260
+        },
+        {
+          "type": "para",
+          "text": "aside Then you make love horse-fashion when you are composing a Phaedra.",
+          "lineStart": 261
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 263
+        },
+        {
+          "type": "para",
+          "text": "If the heroes are men, everything in him will be manly. What we don't possess by nature, we must acquire by imitation.",
+          "lineStart": 264
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 266
+        },
+        {
+          "type": "para",
+          "text": "aside When you are staging Satyrs, call me; I will do my best to help you from behind, if I can get my tool up.",
+          "lineStart": 267
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 270
+        },
+        {
+          "type": "para",
+          "text": "Besides, it is bad taste for a poet to be coarse and hairy. Look at the famous Ibycus, at Anacreon of Teos, and at Alcaeus, who handled music so well; they wore head-bands and found pleasure in the lascivious dances of Ionia. And have you not heard what a dandy Phrynichus was and how careful in his dress? For this reason his pieces were also beautiful, for the works of a poet are copied from himself.",
+          "lineStart": 271
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 277
+        },
+        {
+          "type": "para",
+          "text": "Ah! so it is for this reason that Philocles, who is so hideous, writes hideous pieces; Xenocles, who is malicious, malicious ones, and Theognis, who is cold, such cold ones?",
+          "lineStart": 278
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 281
+        },
+        {
+          "type": "para",
+          "text": "Yes, necessarily and unavoidably; and it is because I knew this that I have so well cared for my person.",
+          "lineStart": 282
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 284
+        },
+        {
+          "type": "para",
+          "text": "How, in the gods' name?",
+          "lineStart": 285
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 286
+        },
+        {
+          "type": "para",
+          "text": "Come, leave off badgering him; I was just the same at his age, when I began to write.",
+          "lineStart": 287
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 289
+        },
+        {
+          "type": "para",
+          "text": "Ah! then, by Zeus! I don't envy you your fine manners.",
+          "lineStart": 290
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 291
+        },
+        {
+          "type": "para",
+          "text": "to AGATHON But listen to the cause that brings me here.",
+          "lineStart": 292
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 294
+        },
+        {
+          "type": "para",
+          "text": "Say on.",
+          "lineStart": 295
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 296
+        },
+        {
+          "type": "para",
+          "text": "Agathon, wise is he who can compress many thoughts into few words. Struck by a most cruel misfortune, I come to you as a suppliant.",
+          "lineStart": 297
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 299
+        },
+        {
+          "type": "para",
+          "text": "What are you asking?",
+          "lineStart": 300
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 301
+        },
+        {
+          "type": "para",
+          "text": "The women purpose killing me to-day during the Thesmophoria, because I have dared to speak ill of them.",
+          "lineStart": 302
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 304
+        },
+        {
+          "type": "para",
+          "text": "And what can I do for you in the matter?",
+          "lineStart": 305
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 306
+        },
+        {
+          "type": "para",
+          "text": "Everything. Mingle secretly with the women by making yourself pass as one of themselves; then do you plead my cause with your own lips, and I am saved. You, and you alone, are capable of speaking of me worthily.",
+          "lineStart": 307
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 310
+        },
+        {
+          "type": "para",
+          "text": "But why not go and defend yourself?",
+          "lineStart": 311
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 312
+        },
+        {
+          "type": "para",
+          "text": "Impossible. First of all, I am known; further, I have white hair and a long beard; whereas you, you are good-looking, charming, and are close-shaven; you are fair, delicate, and have a woman's voice.",
+          "lineStart": 313
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 316
+        },
+        {
+          "type": "para",
+          "text": "Euripides!",
+          "lineStart": 317
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 318
+        },
+        {
+          "type": "para",
+          "text": "Well?",
+          "lineStart": 319
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 320
+        },
+        {
+          "type": "para",
+          "text": "Have you not said in one of your pieces, \"You love to see the light, and don't you believe your father loves it too?\"",
+          "lineStart": 321
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 323
+        },
+        {
+          "type": "para",
+          "text": "Yes.",
+          "lineStart": 324
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 325
+        },
+        {
+          "type": "para",
+          "text": "Then never you think I am going to expose myself in your stead; it would be madness. It's up to you to submit to the fate that overtakes you; one must not try to trick misfortune, but resign oneself to it with good grace.",
+          "lineStart": 326
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 330
+        },
+        {
+          "type": "para",
+          "text": "You fairy! That's why your arse is so accessible to lovers.",
+          "lineStart": 331
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 332
+        },
+        {
+          "type": "para",
+          "text": "But what prevents your going there?",
+          "lineStart": 333
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 334
+        },
+        {
+          "type": "para",
+          "text": "I should run more risk than you would.",
+          "lineStart": 335
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 336
+        },
+        {
+          "type": "para",
+          "text": "Why?",
+          "lineStart": 337
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 338
+        },
+        {
+          "type": "para",
+          "text": "Why? I should look as if I were wanting to trespass on secret nightly pleasures of the women and to rape their Aphrodite.",
+          "lineStart": 339
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 341
+        },
+        {
+          "type": "para",
+          "text": "aside Wanting to rape indeed! you mean wanting to be raped. Ah! great gods! a fine excuse truly!",
+          "lineStart": 342
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 345
+        },
+        {
+          "type": "para",
+          "text": "Well then, do you agree?",
+          "lineStart": 346
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 347
+        },
+        {
+          "type": "para",
+          "text": "Don't count upon it.",
+          "lineStart": 348
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 349
+        },
+        {
+          "type": "para",
+          "text": "Oh! I am unfortunate indeed! I am undone!",
+          "lineStart": 350
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 351
+        },
+        {
+          "type": "para",
+          "text": "Euripides, my friend, my son-in-law, never despair.",
+          "lineStart": 352
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 353
+        },
+        {
+          "type": "para",
+          "text": "What can be done?",
+          "lineStart": 354
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 355
+        },
+        {
+          "type": "para",
+          "text": "Send him to the devil and do with me as you like.",
+          "lineStart": 356
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 357
+        },
+        {
+          "type": "para",
+          "text": "Very well then, since you devote yourself to my safety, take off your cloak first.",
+          "lineStart": 358
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 360
+        },
+        {
+          "type": "para",
+          "text": "There, it lies on the ground. But what do you want to do with me?",
+          "lineStart": 361
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 363
+        },
+        {
+          "type": "para",
+          "text": "To shave off this beard of yours, and to remove all your other hair as well.",
+          "lineStart": 364
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 366
+        },
+        {
+          "type": "para",
+          "text": "Do what you think fit; I yield myself entirely to you.",
+          "lineStart": 367
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 368
+        },
+        {
+          "type": "para",
+          "text": "Agathon, you always have razors about you; lend me one.",
+          "lineStart": 369
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 370
+        },
+        {
+          "type": "para",
+          "text": "Take it yourself, there, out of that case.",
+          "lineStart": 371
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 372
+        },
+        {
+          "type": "para",
+          "text": "Thanks. To MNESILOCHUS Now sit down and puff out your right cheek.",
+          "lineStart": 373
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 376
+        },
+        {
+          "type": "para",
+          "text": "as he is being shaved Ow! Ow! Ow!",
+          "lineStart": 377
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 379
+        },
+        {
+          "type": "para",
+          "text": "What are you houting for? I'll cram a spit down your gullet, if you're not quiet.",
+          "lineStart": 380
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 382
+        },
+        {
+          "type": "para",
+          "text": "Ow! Ow! Ow! Ow! Ow! He jumps up and starts running away.",
+          "lineStart": 383
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 385
+        },
+        {
+          "type": "para",
+          "text": "Where are you running to now?",
+          "lineStart": 386
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 387
+        },
+        {
+          "type": "para",
+          "text": "To the temple of the Eumenides. No, by Demeter! I won't let myself be gashed like that.",
+          "lineStart": 388
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 390
+        },
+        {
+          "type": "para",
+          "text": "But you will get laughed at, with your face half-shaven like that.",
+          "lineStart": 391
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 393
+        },
+        {
+          "type": "para",
+          "text": "Little care I.",
+          "lineStart": 394
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 395
+        },
+        {
+          "type": "para",
+          "text": "In the gods' names, don't leave me in the lurch. Come here.",
+          "lineStart": 396
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 397
+        },
+        {
+          "type": "para",
+          "text": "Oh! by the gods! He turns reluctantly and resumes his seat.",
+          "lineStart": 398
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 400
+        },
+        {
+          "type": "para",
+          "text": "Keep still and hold up your head. Why do you want to fidget about like this?",
+          "lineStart": 401
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 403
+        },
+        {
+          "type": "para",
+          "text": "Mm, mm.",
+          "lineStart": 404
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 405
+        },
+        {
+          "type": "para",
+          "text": "Well! why mm, mm? There! it's done and well done too!",
+          "lineStart": 406
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 407
+        },
+        {
+          "type": "para",
+          "text": "Alas, I shall fight without armour.",
+          "lineStart": 408
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 409
+        },
+        {
+          "type": "para",
+          "text": "Don't worry; you look charming. Do you want to see yourself?",
+          "lineStart": 410
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 411
+        },
+        {
+          "type": "para",
+          "text": "Yes, I do; hand the mirror here.",
+          "lineStart": 412
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 413
+        },
+        {
+          "type": "para",
+          "text": "Do you see yourself?",
+          "lineStart": 414
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 415
+        },
+        {
+          "type": "para",
+          "text": "But this is not I, it is Clisthenes!",
+          "lineStart": 416
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 417
+        },
+        {
+          "type": "para",
+          "text": "Stand up; I am now going to remove your hair. Bend down.",
+          "lineStart": 418
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 419
+        },
+        {
+          "type": "para",
+          "text": "Alas! alas! they are going to grill me like a pig.",
+          "lineStart": 420
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 421
+        },
+        {
+          "type": "para",
+          "text": "Come now, a torch or a lamp! Bend down and watch out for the tender end of your tool!",
+          "lineStart": 422
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 424
+        },
+        {
+          "type": "para",
+          "text": "Aye, aye! but I'm afire! oh! oh! Water, water, neighbour, or my perineum will be alight!",
+          "lineStart": 425
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 427
+        },
+        {
+          "type": "para",
+          "text": "Keep up your courage!",
+          "lineStart": 428
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 429
+        },
+        {
+          "type": "para",
+          "text": "Keep my courage, when I'm being burnt up?",
+          "lineStart": 430
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 431
+        },
+        {
+          "type": "para",
+          "text": "Come, cease your whining, the worst is over.",
+          "lineStart": 432
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 433
+        },
+        {
+          "type": "para",
+          "text": "Oh! it's quite black, all burnt down there!",
+          "lineStart": 434
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 435
+        },
+        {
+          "type": "para",
+          "text": "Don't worry! Satyrus will wash it.",
+          "lineStart": 436
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 437
+        },
+        {
+          "type": "para",
+          "text": "Woe to him who dares to wash me!",
+          "lineStart": 438
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 439
+        },
+        {
+          "type": "para",
+          "text": "Agathon, you refuse to devote yourself to helping me; but at any rate lend me a tunic and a belt. You cannot say you have not got them.",
+          "lineStart": 440
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 442
+        },
+        {
+          "type": "para",
+          "text": "Take them and use them as you like; I consent.",
+          "lineStart": 443
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 444
+        },
+        {
+          "type": "para",
+          "text": "What shall I take?",
+          "lineStart": 445
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 446
+        },
+        {
+          "type": "para",
+          "text": "First put on this long saffron-coloured robe.",
+          "lineStart": 447
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 448
+        },
+        {
+          "type": "para",
+          "text": "By Aphrodite! what a sweet odour! how it smells of young male tools Hand it to me quickly. And the belt?",
+          "lineStart": 449
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 451
+        },
+        {
+          "type": "para",
+          "text": "Here it is.",
+          "lineStart": 452
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 453
+        },
+        {
+          "type": "para",
+          "text": "Now some rings for my legs.",
+          "lineStart": 454
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 455
+        },
+        {
+          "type": "para",
+          "text": "You still want a hair-net and a head-dress.",
+          "lineStart": 456
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 457
+        },
+        {
+          "type": "para",
+          "text": "Here is my night cap.",
+          "lineStart": 458
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 459
+        },
+        {
+          "type": "para",
+          "text": "Ah! that's fine.",
+          "lineStart": 460
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 461
+        },
+        {
+          "type": "para",
+          "text": "Does it suit me?",
+          "lineStart": 462
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 463
+        },
+        {
+          "type": "para",
+          "text": "It could not be better.",
+          "lineStart": 464
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 465
+        },
+        {
+          "type": "para",
+          "text": "And a short mantle?",
+          "lineStart": 466
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 467
+        },
+        {
+          "type": "para",
+          "text": "There's one on the couch; take it.",
+          "lineStart": 468
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 469
+        },
+        {
+          "type": "para",
+          "text": "He needs slippers.",
+          "lineStart": 470
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 471
+        },
+        {
+          "type": "para",
+          "text": "Here are mine.",
+          "lineStart": 472
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 473
+        },
+        {
+          "type": "para",
+          "text": "Will they fit me? To AGATHON You don't like a loose fit.",
+          "lineStart": 474
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGATHON",
+          "lineStart": 477
+        },
+        {
+          "type": "para",
+          "text": "Try them on. Now that you have all you need, let me be taken inside. The eccyclema turns and AGATHON disappears.",
+          "lineStart": 478
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 481
+        },
+        {
+          "type": "para",
+          "text": "You look for all the world like a woman. But when you talk, take good care to give your voice a woman's tone.",
+          "lineStart": 482
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 484
+        },
+        {
+          "type": "para",
+          "text": "falsetto I'll try my best.",
+          "lineStart": 485
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 487
+        },
+        {
+          "type": "para",
+          "text": "Come, get yourself to the temple.",
+          "lineStart": 488
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 489
+        },
+        {
+          "type": "para",
+          "text": "No, by Apollo, not unless you swear to me....",
+          "lineStart": 490
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 491
+        },
+        {
+          "type": "para",
+          "text": "What?",
+          "lineStart": 492
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 493
+        },
+        {
+          "type": "para",
+          "text": "....that, if anything untoward happen to me, you will leave nothing undone to save me.",
+          "lineStart": 494
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 496
+        },
+        {
+          "type": "para",
+          "text": "Very well! I swear it by the Aether, the dwelling-place of the king of the gods.",
+          "lineStart": 497
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 499
+        },
+        {
+          "type": "para",
+          "text": "Why not rather swear it by the sons of Hippocrates?",
+          "lineStart": 500
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 501
+        },
+        {
+          "type": "para",
+          "text": "Come, I swear it by all the gods, both great and small.",
+          "lineStart": 502
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 503
+        },
+        {
+          "type": "para",
+          "text": "Remember, it's the heart, and not the tongue, that has sworn; for the oaths of the tongue concern me but little.",
+          "lineStart": 504
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 506
+        },
+        {
+          "type": "para",
+          "text": "Hurry up! The signal for the meeting has just been raised on the Temple of Demeter. Farewell. They both depart. The scene changes to the interior of the Thesmophorion, where the women who form the chorus are assembled. Mnesilochus enters, in his feminine attire, striving to act as womanly as possible, and giving his voice as female a pitch and lilt as he can; he pretends to be addressing his slave-girl.",
+          "lineStart": 507
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 514
+        },
+        {
+          "type": "para",
+          "text": "Here, Thratta, follow me. Look, Thratta, at the cloud of smoke that arises from all these lighted torches. Ah! beautiful Thesmophorae! grant me your favours, protect me, both within the temple and on my way back! Come, Thratta, put down the basket and take out the cake, which I wish to offer to the two goddesses. Mighty divinity, oh, Demeter, and thou, Persephone, grant that I may be able to offer you many sacrifices; above all things, grant that I may not be recognized. Would that my well-holed daughter might marry a man as rich as he is foolish and silly, so that she may have nothing to do but amuse herself. But where can a place be found for hearing well? Be off, Thratta, be off; slaves have no right to be present at this gathering. He sits down amongst the women.",
+          "lineStart": 515
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WOMAN HERALD",
+          "lineStart": 527
+        },
+        {
+          "type": "para",
+          "text": "Silence! Silence! Pray to the Thesmophorae, Demeter and Cora; pray to Plutus, Calligenia, Curotrophus, the Earth, Hermes and the Graces, that all may happen for the best at this gathering, both for the greatest advantage of Athens and for our own personal happiness! May the award be given her who, by both deeds and words, has most deserved it from the Athenian people and from the women! Address these prayers to heaven and demand happiness for yourselves. Io Paean! Io Paean! Let us rejoice!",
+          "lineStart": 528
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 535
+        },
+        {
+          "type": "para",
+          "text": "singing May the gods deign to accept our vows and our prayers! Oh! almighty Zeus, and thou, god with the golden lyre, who reignest on sacred Delos, and thou, oh, invincible virgin, Pallas, with the eyes of azure and the spear of gold, who protectest our illustrious city, and thou, the daughter of the beautiful Leto, queen of the forests, who art adored under many names, hasten hither at my call. Come, thou mighty Posidon, king of the Ocean, leave thy stormy whirlpools of Nereus; come, goddesses of the seas, come, ye nymphs, who wander on the mountains. Let us unite our voices to the sounds of the golden lyre, and may wisdom preside at the gathering of the noble matrons of Athens.",
+          "lineStart": 536
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WOMAN HERALD",
+          "lineStart": 547
+        },
+        {
+          "type": "para",
+          "text": "Address your prayers to the gods and goddesses of Olympus, of Delphi, Delos and all other places; if there be a man who is plotting against the womenfolk or who, to injure them, is proposing peace to Euripides and the Medes, or who aspires to usurping the tyranny, plots the return of a tyrant, or unmasks a supposititious child; or if there be a slave who, a confidential party to a wife's intrigues, reveals them secretly to her husband, or who, entrusted with a message, does not deliver the same faithfully; if there be a lover who fulfils naught of what he has promised a woman, whom he has abused on the strength of his lies; if there be an old woman who seduces the lover of a maiden by dint of her presents and treacherously receives him in her house; if there be a host or hostess who sells false measure, pray the gods that they will overwhelm them with their wrath, both them and their families, and that they may reserve all their favours for you.",
+          "lineStart": 548
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 562
+        },
+        {
+          "type": "para",
+          "text": "singing Let us ask the fulfilment of these wishes both for the city and for the people, and may the wisest of us cause her opinion to be accepted. But woe to those women who break their oaths, who speculate on the public misfortune, who seek to alter the laws and the decrees, who reveal our secrets to the foe and admit the Medes into our territory so that they may devastate it! I declare them both impious and criminal. Oh! almighty Zeus! see to it that the gods protect us, albeit we are but women!",
+          "lineStart": 563
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WOMAN HERALD",
+          "lineStart": 571
+        },
+        {
+          "type": "para",
+          "text": "Hearken, all of you! this is the decree passed by the Senate of the Women under the presidency of Timoclea and at the suggestion of Sostrate; it is signed by Lysilla, the secretary: \"There will be a gathering of the people on the morning of the third day of the Thesmophoria, which is a day of rest for us; the principal business there shall be the punishment that it is meet to inflict upon Euripides for the insults with which he has loaded us.\" Now who asks to speak?",
+          "lineStart": 572
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 579
+        },
+        {
+          "type": "para",
+          "text": "I do.",
+          "lineStart": 580
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WOMAN HERALD",
+          "lineStart": 581
+        },
+        {
+          "type": "para",
+          "text": "First put on this garland, and then speak.",
+          "lineStart": 582
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 583
+        },
+        {
+          "type": "para",
+          "text": "Silence! let all be quiet! Pay attention! for here she is spitting as orators generally do before they begin; no doubt she has much to say.",
+          "lineStart": 584
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 586
+        },
+        {
+          "type": "para",
+          "text": "If I have asked to speak, may the goddesses bear me witness, it was not for sake of ostentation. But I have long been pained to see us women insulted by this Euripides, this son of the green-stuff woman, who loads us with every kind of indignity. Has he not hit us enough, calumniated us sufficiently, wherever there are spectators, tragedians, and a chorus? Does; he not style us adulterous, lecherous, bibulous, treacherous, and garrulous? Does he not repeat that we are all vice, that we are the curse of our husbands? So that, directly they come back from the theatre, they look at us doubtfully and go searching every nook, fearing there may be some hidden lover. We can do nothing as we used to, so many are the false ideas which he has instilled into our husbands. Is a woman weaving a garland for herself? It's because she is in love. Does she let some vase drop while going or returning to the house? her husband asks her in whose honour she has broken it: \"It can only be for that Corinthian stranger.\" Is a maiden unwell? Straightway her brother says, \"That is a colour that does not please me.\" And if a childless woman wishes to substitute one, the deceit can no longer be a secret, for the neighbours will insist on being present at her delivery. Formerly the old men married young girls, but they have been so calumniated that none think of them now, thanks to that line of his: \"A woman is the tyrant of the old man who marries her.\" Again, it is because of Euripides that we are incessantly watched, that we are shut up behind bolts and bars, and that dogs are kept to frighten off the adulterers. Let that pass; but formerly it was we who had the care of the food, who fetched the flour from the storeroom, the oil and the wine; we can do it no more. Our husbands now carry little Spartan keys on their persons, made with three notches and full of malice and spite. Formerly it sufficed to purchase a ring marked with the same sign for three obols, to open the most securely sealed-up door! but now this pestilent Euripides has taught men to hang seals of worm-eaten wood about their necks. My opinion, therefore, is that we should rid ourselves of our enemy by poison or by any other means, provided he dies. That is what I announce publicly; as to certain points, which I wish to keep secret, I propose to record them on the secretary's minutes.",
+          "lineStart": 587
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 620
+        },
+        {
+          "type": "para",
+          "text": "singing Never have I listened to a cleverer or more eloquent woman. Everything she says is true; she has examined the matter from all sides and has weighed up every detail. Her arguments are close, varied, and happily chosen. I believe that Xenocles himself, the son of Carcinus, would seem to talk mere nonsense, if placed beside her.",
+          "lineStart": 621
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 627
+        },
+        {
+          "type": "para",
+          "text": "I have only a very few words to add, for the last speaker has covered the various points of the indictment; allow me only to tell you what happened to me. My husband died at Cyprus, leaving me five children, whom I had great trouble to bring up by weaving chaplets on the myrtle market. Anyhow, I lived as well as I could until this wretch had persuaded the spectators by his tragedies that there were no gods; since then I have not sold as many chaplets by half. I charge you therefore and exhort you all to punish him, for does he not deserve it in a thousand respects, he who loads you with troubles, who is as coarse toward you as the vegetables upon which his mother reared him? But I must back to the market to weave my chaplets; I have twenty to deliver yet.",
+          "lineStart": 628
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 639
+        },
+        {
+          "type": "para",
+          "text": "singing This is even more animated and more trenchant than the first speech; all she has just said is full of good sense and to the point; it is clever, clear and well calculated to convince. Yes! we must have striking vengeance on the insults of Euripides.",
+          "lineStart": 640
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 645
+        },
+        {
+          "type": "para",
+          "text": "Oh, women! I am not astonished at these outbursts of fiery rage; how could your bile not get inflamed against Euripides, who has spoken so ill of you? As for myself, I hate the man, I swear it by my children; it would be madness not to hate him! Yet, let us reflect a little; we are alone and our words will not be repeated outside. Why be so bent on his ruin? Because he has known and shown up two or three of our faults, when we have a thousand? As for myself, not to speak of other women, I have more than one great sin upon my conscience, but this is the blackest of them. I had been married three days and my husband was asleep by my side; I had a lover, who had seduced me when I was seven years old; impelled by his passion, he came scratching at the door; I understood at once he was there and was going down noiselessly. \"Where are you going?\" asked my husband. \"I am suffering terribly with colic,\" I told him, \"and am going to the can.\" \"Go ahead,\" he replied, and started pounding together juniper berries, aniseed, and sage. As for myself, I moistened the door-hinge and went to find my lover, who laid me, half-reclining upon Apollo's altar and holding on to the sacred laurel with one hand. Well now! Consider! that is a thing of which Euripides has never spoken. And when we bestow our favours on slaves and muleteers for want of better, does he mention this? And when we eat garlic early in the morning after a night of wantonness, so that our husband, who has been keeping guard upon the city wall, may be reassured by the smell and suspect nothing, has Euripides ever breathed a word of this? Tell me. Neither has he spoken of the woman who spreads open a large cloak before her husband's eyes to make him admire it in full daylight to conceal her lover by so doing and afford him the means of making his escape. I know another, who for ten whole days pretended to be suffering the pains of labour until she had secured a child; the husband hurried in all directions to buy drugs to hasten her deliverance, and meanwhile an old woman brought the infant in a stew-pot; to prevent its crying she had stopped up its mouth with honey. With a sign she told the wife that she was bringing a child for her, who at once began exclaiming, \"Go away, friend, go away, I think I am going to be delivered; I can feel him kicking his heels in the belly ....of the stew-pot.\" The husband goes off full of joy, and the old wretch quickly takes the honey out of the child's mouth, which starts crying; then she seizes the baby, runs to the father and tells him with a smile on her face, \"It's a lion, a lion, that is born to you; it's your very image. Everything about it is like you, even his little tool, curved like the sky.\" Are these not our everyday tricks? Why certainly, by Artemis, and we, are angry with Euripides, who assuredly treats us no worse than we deserve!",
+          "lineStart": 646
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 686
+        },
+        {
+          "type": "para",
+          "text": "singing Great gods! where has she unearthed all that? What country gave birth to such an audacious woman? Oh! you wretch! I should not have thought ever a one of us could have spoken in public with such impudence. 'Tis clear, however, that we must expect everything and, as the old proverb says, must look beneath every stone, lest it conceal some orator ready to sting us.",
+          "lineStart": 687
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 693
+        },
+        {
+          "type": "para",
+          "text": "There is but one thing in the world worse than a shameless woman, and that's another woman.",
+          "lineStart": 694
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 696
+        },
+        {
+          "type": "para",
+          "text": "By Aglaurus! you have lost your wits, friends! You must be bewitched to suffer this plague to belch forth insults against us all. Is there no one has any spirit at all? If not, we and our maid-servants will punish her. Run and fetch coals and let's depilate her in proper style, to teach her not to speak ill of her sex.",
+          "lineStart": 697
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 702
+        },
+        {
+          "type": "para",
+          "text": "Oh no no! not that part of me, my friends. Have we not the right to speak frankly at this gathering? And because I have uttered what I thought right in favour of Euripides, do you want to depilate me for my trouble?",
+          "lineStart": 703
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 707
+        },
+        {
+          "type": "para",
+          "text": "What! we ought not to punish you, who alone have dared to defend the man who has done so much harm, whom it pleases to put all the vile women that ever were upon the stage, who only shows us Melanippes and Phaedras? But of Penelope he has never said a word, because she was reputed chaste and good.",
+          "lineStart": 708
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 713
+        },
+        {
+          "type": "para",
+          "text": "I know the reason. It's because not a single Penelope exists among the women of to-day, but all without exception are Phaedras.",
+          "lineStart": 714
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 716
+        },
+        {
+          "type": "para",
+          "text": "Women, you hear how this creature still dares to speak of us all.",
+          "lineStart": 717
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 719
+        },
+        {
+          "type": "para",
+          "text": "And, Heaven knows, I have not said all that I know. Do you want any more?",
+          "lineStart": 720
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 722
+        },
+        {
+          "type": "para",
+          "text": "You cannot tell us any more; you have crapped out all you know.",
+          "lineStart": 723
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 724
+        },
+        {
+          "type": "para",
+          "text": "Why, I have not told the thousandth part of what we women do. Have I said how we use the hollow bandles of our brooms to draw up wine unbeknown to our husbands?",
+          "lineStart": 725
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 728
+        },
+        {
+          "type": "para",
+          "text": "The cursed jade!",
+          "lineStart": 729
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 730
+        },
+        {
+          "type": "para",
+          "text": "And how we give meats to our pimps at the feast of the Apaturia and then accuse the cat....",
+          "lineStart": 731
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 733
+        },
+        {
+          "type": "para",
+          "text": "You're crazy!",
+          "lineStart": 734
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 735
+        },
+        {
+          "type": "para",
+          "text": "....Have I mentioned the woman who killed her husband with a hatchet? Of another, who caused hers to lose his reason with her potions? And of the Acharnian woman....",
+          "lineStart": 736
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 739
+        },
+        {
+          "type": "para",
+          "text": "Die, you bitch!",
+          "lineStart": 740
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 741
+        },
+        {
+          "type": "para",
+          "text": "....who buried her father beneath the bath?",
+          "lineStart": 742
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 743
+        },
+        {
+          "type": "para",
+          "text": "And yet we listen to such things!",
+          "lineStart": 744
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 745
+        },
+        {
+          "type": "para",
+          "text": "Have I told how you attributed to yourself the male child your slave had just borne and gave her your little daughter?",
+          "lineStart": 746
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 748
+        },
+        {
+          "type": "para",
+          "text": "This insult calls for vengeance. Look out for your hair!",
+          "lineStart": 749
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 750
+        },
+        {
+          "type": "para",
+          "text": "By Zeus! don't touch me.",
+          "lineStart": 751
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 752
+        },
+        {
+          "type": "para",
+          "text": "slapping him There!",
+          "lineStart": 753
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 755
+        },
+        {
+          "type": "para",
+          "text": "hitting back There! tit for tat!",
+          "lineStart": 756
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 758
+        },
+        {
+          "type": "para",
+          "text": "Hold my cloak, Philista!",
+          "lineStart": 759
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 760
+        },
+        {
+          "type": "para",
+          "text": "Come on then, and by Demeter....",
+          "lineStart": 761
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 762
+        },
+        {
+          "type": "para",
+          "text": "Well! what?",
+          "lineStart": 763
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 764
+        },
+        {
+          "type": "para",
+          "text": "I'll make you crap forth the sesame-cake you have eaten.",
+          "lineStart": 765
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 766
+        },
+        {
+          "type": "para",
+          "text": "Stop wrangling! I see a woman running here in hot haste. Keep silent, so that we may hear the better what she has to say. Enter CLISTHENES, dressed as a woman.",
+          "lineStart": 767
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 770
+        },
+        {
+          "type": "para",
+          "text": "Friends, whom I copy in all things, my hairless chin sufficiently evidences how dear you are to me; I am women-mad and make myself their champion wherever I am. Just now on the market-place I heard mention of a thing that is of the greatest importance to you; I come to tell it to you, to let you know it, so that you may watch carefully and be on your guard against the danger which threatens you.",
+          "lineStart": 771
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 777
+        },
+        {
+          "type": "para",
+          "text": "What is it, my child? I can well call you child, for you have so smooth a skin.",
+          "lineStart": 778
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 780
+        },
+        {
+          "type": "para",
+          "text": "They say that Euripides has sent an old man here to-day, one of his relations....",
+          "lineStart": 781
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 783
+        },
+        {
+          "type": "para",
+          "text": "With what object? What is his idea?",
+          "lineStart": 784
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 785
+        },
+        {
+          "type": "para",
+          "text": "....so that he may hear your speeches and inform him of your deliberations and intentions.",
+          "lineStart": 786
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 788
+        },
+        {
+          "type": "para",
+          "text": "But how would a man fail to be recognized amongst women?",
+          "lineStart": 789
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 790
+        },
+        {
+          "type": "para",
+          "text": "Euripides singed and depilated him and disguised him as a woman.",
+          "lineStart": 791
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 792
+        },
+        {
+          "type": "para",
+          "text": "This is pure invention! What man is fool enough to let himself be depilated? As for myself, I don't believe a word of it.",
+          "lineStart": 793
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 795
+        },
+        {
+          "type": "para",
+          "text": "Nonsense! I should not have come here to tell you, if I did not know it on indisputable authority.",
+          "lineStart": 796
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 798
+        },
+        {
+          "type": "para",
+          "text": "Great gods! what is it you tell us! Come, women, let us not lose a moment; let us search and rummage everywhere! Where can this man have hidden himself to escape our notice? Help us to look, Clisthenes; we shall thus owe you double thanks, dear friend.",
+          "lineStart": 799
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 803
+        },
+        {
+          "type": "para",
+          "text": "Well then! let us see. To begin with you; who are you?",
+          "lineStart": 804
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 805
+        },
+        {
+          "type": "para",
+          "text": "aside Wherever am I to stow myself?",
+          "lineStart": 806
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 808
+        },
+        {
+          "type": "para",
+          "text": "Each and every one must pass the scrutiny.",
+          "lineStart": 809
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 810
+        },
+        {
+          "type": "para",
+          "text": "aside Oh! great gods!",
+          "lineStart": 811
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 813
+        },
+        {
+          "type": "para",
+          "text": "You ask me who I am? I am the wife of Cleonynus.",
+          "lineStart": 814
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 815
+        },
+        {
+          "type": "para",
+          "text": "to the LEADER OF THE CHORUS Do you know this woman?",
+          "lineStart": 816
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 818
+        },
+        {
+          "type": "para",
+          "text": "Yes, yes, pass on to the rest.",
+          "lineStart": 819
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 820
+        },
+        {
+          "type": "para",
+          "text": "And she who carries the child?",
+          "lineStart": 821
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 822
+        },
+        {
+          "type": "para",
+          "text": "Surely; she's my nurse.",
+          "lineStart": 823
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 824
+        },
+        {
+          "type": "para",
+          "text": "aside This is the end. He runs off.",
+          "lineStart": 825
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 828
+        },
+        {
+          "type": "para",
+          "text": "Hi! you there! where are you going? Stop. What are you running away for?",
+          "lineStart": 829
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 831
+        },
+        {
+          "type": "para",
+          "text": "dancing on one leg I want to take a pee, you brazen thing.",
+          "lineStart": 832
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 834
+        },
+        {
+          "type": "para",
+          "text": "Well, be quick about it; I shall wait for you here.",
+          "lineStart": 835
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 836
+        },
+        {
+          "type": "para",
+          "text": "Wait for her and examine her closely; she's the only one we do not know.",
+          "lineStart": 837
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 839
+        },
+        {
+          "type": "para",
+          "text": "That's a long leak you're taking.",
+          "lineStart": 840
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 841
+        },
+        {
+          "type": "para",
+          "text": "God, yes; I am constricted; I ate some cress yesterday.",
+          "lineStart": 842
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 843
+        },
+        {
+          "type": "para",
+          "text": "What are you chattering about cress? Come here! and be quick. He starts to pull MNESILOCHUS back.",
+          "lineStart": 844
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 846
+        },
+        {
+          "type": "para",
+          "text": "Oh! don't pull a poor sick woman about like that.",
+          "lineStart": 847
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 848
+        },
+        {
+          "type": "para",
+          "text": "looking MNESILOCHUS square in the eye Tell me, who is your husband?",
+          "lineStart": 849
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 851
+        },
+        {
+          "type": "para",
+          "text": "embarrassed My husband? Do you know a certain individual at Cothocidae...?",
+          "lineStart": 852
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 854
+        },
+        {
+          "type": "para",
+          "text": "Whom do you mean? Give his name.",
+          "lineStart": 855
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 856
+        },
+        {
+          "type": "para",
+          "text": "He's an individual to whom the son of a certain individual one day...",
+          "lineStart": 857
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 859
+        },
+        {
+          "type": "para",
+          "text": "You are drivelling! Let's see, have you ever been here before?",
+          "lineStart": 860
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 861
+        },
+        {
+          "type": "para",
+          "text": "Why certainly, every year.",
+          "lineStart": 862
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 863
+        },
+        {
+          "type": "para",
+          "text": "Who is your tent companion?",
+          "lineStart": 864
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 865
+        },
+        {
+          "type": "para",
+          "text": "A certain.... Oh! my god!",
+          "lineStart": 866
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 867
+        },
+        {
+          "type": "para",
+          "text": "That's not an answer!",
+          "lineStart": 868
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 869
+        },
+        {
+          "type": "para",
+          "text": "Withdraw, all of you; I am going to examine her thoroughly about last year's mysteries. But move away, Clisthenes, for no man may hear what is going to be said. Now answer my questions! What was done first?",
+          "lineStart": 870
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 873
+        },
+        {
+          "type": "para",
+          "text": "Let's see now. What was done first? Oh! we drank.",
+          "lineStart": 874
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 875
+        },
+        {
+          "type": "para",
+          "text": "And then?",
+          "lineStart": 876
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 877
+        },
+        {
+          "type": "para",
+          "text": "We drank to our healths.",
+          "lineStart": 878
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 879
+        },
+        {
+          "type": "para",
+          "text": "You will have heard that from someone. And then?",
+          "lineStart": 880
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 881
+        },
+        {
+          "type": "para",
+          "text": "Xenylla asked for a cup; there wasn't any thunder-mug.",
+          "lineStart": 882
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 883
+        },
+        {
+          "type": "para",
+          "text": "You're talking nonsense. Here, Clisthenes, here This is the man you were telling us about.",
+          "lineStart": 884
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 886
+        },
+        {
+          "type": "para",
+          "text": "What shall we do with him?",
+          "lineStart": 887
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 888
+        },
+        {
+          "type": "para",
+          "text": "Take off his clothes, I can get nothing out of him.",
+          "lineStart": 889
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 890
+        },
+        {
+          "type": "para",
+          "text": "What! are you going to strip a mother of nine children naked?",
+          "lineStart": 891
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 892
+        },
+        {
+          "type": "para",
+          "text": "Come, undo your girdle, you shameless thing.",
+          "lineStart": 893
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 894
+        },
+        {
+          "type": "para",
+          "text": "Ah! what a sturdy frame! but she has no breasts like we have.",
+          "lineStart": 895
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 896
+        },
+        {
+          "type": "para",
+          "text": "That's because I'm barren. I never had any children.",
+          "lineStart": 897
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 898
+        },
+        {
+          "type": "para",
+          "text": "Oh! indeed! just now you were the mother of nine.",
+          "lineStart": 899
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 900
+        },
+        {
+          "type": "para",
+          "text": "Stand up straight. What do you keep pushing that thing down for?",
+          "lineStart": 901
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 903
+        },
+        {
+          "type": "para",
+          "text": "peering from behind There's no mistaking it.",
+          "lineStart": 904
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 906
+        },
+        {
+          "type": "para",
+          "text": "also peering from behind Where has it gone to now?",
+          "lineStart": 907
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 909
+        },
+        {
+          "type": "para",
+          "text": "To the front.",
+          "lineStart": 910
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 911
+        },
+        {
+          "type": "para",
+          "text": "from in front No.",
+          "lineStart": 912
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 914
+        },
+        {
+          "type": "para",
+          "text": "from behind Ah! it's behind now.",
+          "lineStart": 915
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 917
+        },
+        {
+          "type": "para",
+          "text": "Why, friend, it's just like the Isthmus; you keep pulling your stick backwards and forwards more often than the Corinthians do their ships",
+          "lineStart": 918
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 920
+        },
+        {
+          "type": "para",
+          "text": "Ah! the wretch! this is why he insulted us and defended Euripides.",
+          "lineStart": 921
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 922
+        },
+        {
+          "type": "para",
+          "text": "Aye, wretch indeed, what troubles have I not got into now!",
+          "lineStart": 923
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 924
+        },
+        {
+          "type": "para",
+          "text": "What shall we do?",
+          "lineStart": 925
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLISTHENES",
+          "lineStart": 926
+        },
+        {
+          "type": "para",
+          "text": "Watch him closely, so that he does not escape. As for me, I'll go to report the matter to the magistrates.",
+          "lineStart": 927
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 929
+        },
+        {
+          "type": "para",
+          "text": "Let us kindle our lamps; let us go firmly to work and with courage, let us take off our cloaks and search whether some other man has not come here too; let us pass round the whole Pnyx, examine the tents and the passages. Come, be quick, let us start off on a light toe and rummage all round in silence. Let us hasten, let us finish our round as soon as possible.",
+          "lineStart": 930
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 936
+        },
+        {
+          "type": "para",
+          "text": "singing Look quickly for the traces that might show you a man hidden here, let your glance fall on every side; look well to the right and to the left. If we seize some impious fellow, woe to him! He will know how we punish the outrage, the crime, the sacrilege. The criminal will then acknowledge at last that gods exist; his fate will teach all men that the deities must be revered, that justice must be observed and that they must submit to the sacred laws. If not, then woe to them! Heaven itself will punish sacrilege; being aflame with fury and mad with frenzy, all their deeds will prove to mortals, both men and women, that the deity punishes injustice and impiety, and that she is not slow to strike.",
+          "lineStart": 937
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 948
+        },
+        {
+          "type": "para",
+          "text": "But I think I have now searched everywhere and that no other man is hidden among us.",
+          "lineStart": 949
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 951
+        },
+        {
+          "type": "para",
+          "text": "Where are you flying to? Stop! stop! Ah! miserable woman that I am, he has torn my child from my breast and has disappeared with it.",
+          "lineStart": 952
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 954
+        },
+        {
+          "type": "para",
+          "text": "Scream as loud as you will, but you'll never feed him again. If you do not let me go this very instant, I am going to cut open the veins of his thighs with this cutlass and his blood shall flow over the altar.",
+          "lineStart": 955
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 958
+        },
+        {
+          "type": "para",
+          "text": "Oh! great gods! oh! friends, help me! terrify him with your shrieks, triumph over this monster, permit him not to rob me of my only child.",
+          "lineStart": 959
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 962
+        },
+        {
+          "type": "para",
+          "text": "Oh! oh! venerable Moirai, what fresh attack is this? It's the crowning act of audacity and shamelessness! What has he done now, friends, what has he done?",
+          "lineStart": 963
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 966
+        },
+        {
+          "type": "para",
+          "text": "Ah! your insolence passes all bounds, but I know how to curb it!",
+          "lineStart": 967
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 969
+        },
+        {
+          "type": "para",
+          "text": "What a shameful deed! the measure of his iniquities is full!",
+          "lineStart": 970
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 971
+        },
+        {
+          "type": "para",
+          "text": "Aye, it's shameful that he should have robbed me of my child.",
+          "lineStart": 972
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 973
+        },
+        {
+          "type": "para",
+          "text": "singing It's past belief to be so criminal and so impudent!",
+          "lineStart": 974
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 976
+        },
+        {
+          "type": "para",
+          "text": "singing Ah! you're not near the end of it yet.",
+          "lineStart": 977
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 979
+        },
+        {
+          "type": "para",
+          "text": "singing Little I care whence you come; you shall not return to boast of having acted so odiously with impunity, for you shall be punished.",
+          "lineStart": 980
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 983
+        },
+        {
+          "type": "para",
+          "text": "speaking You won't do it, by the gods!",
+          "lineStart": 984
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 986
+        },
+        {
+          "type": "para",
+          "text": "singing And what immortal would protect you for your crime?",
+          "lineStart": 987
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 989
+        },
+        {
+          "type": "para",
+          "text": "speaking You talk in vain! I shall not let go the child.",
+          "lineStart": 990
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 992
+        },
+        {
+          "type": "para",
+          "text": "singing By the goddesses, you will not laugh presently over your crime and your impious speech. For with impiety, as 'tis meet, shall we reply to your impiety. Soon fortune will turn round and overwhelm you.",
+          "lineStart": 993
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 997
+        },
+        {
+          "type": "para",
+          "text": "Come there, bring some firewood. Let's roast the wretch as quickly as we can.",
+          "lineStart": 998
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 1000
+        },
+        {
+          "type": "para",
+          "text": "Bring faggots, Mania! To MNESILOCHUS You will be nothing but charcoal soon.",
+          "lineStart": 1001
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1004
+        },
+        {
+          "type": "para",
+          "text": "Grill away, roast me, but you, my child, take off this Cretan robe and blame no one but your mother for your death. But what does this mean? The little girl is nothing but a skin filled with wine and shod with Persian slippers. Oh! you wanton, you tippling women, who think of nothing but wine; you are a fortune to the drinking-shops and are our ruin; for the sake of drink, you neglect both your household and your shuttle!",
+          "lineStart": 1005
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 1011
+        },
+        {
+          "type": "para",
+          "text": "Faggots, Mania, plenty of them.",
+          "lineStart": 1012
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1013
+        },
+        {
+          "type": "para",
+          "text": "Bring as many as you like. But answer me; are you the mother of this brat?",
+          "lineStart": 1014
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 1016
+        },
+        {
+          "type": "para",
+          "text": "I carried it ten months.",
+          "lineStart": 1017
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1018
+        },
+        {
+          "type": "para",
+          "text": "You carried it?",
+          "lineStart": 1019
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 1020
+        },
+        {
+          "type": "para",
+          "text": "I swear it by Artemis.",
+          "lineStart": 1021
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1022
+        },
+        {
+          "type": "para",
+          "text": "How much does it hold? Three cotylae? Tell me.",
+          "lineStart": 1023
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 1024
+        },
+        {
+          "type": "para",
+          "text": "Oh! what have you done? You have stripped the poor child quite naked, and it is so small, so small.",
+          "lineStart": 1025
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1027
+        },
+        {
+          "type": "para",
+          "text": "So small?",
+          "lineStart": 1028
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 1029
+        },
+        {
+          "type": "para",
+          "text": "Yes, quite small, to be sure.",
+          "lineStart": 1030
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1031
+        },
+        {
+          "type": "para",
+          "text": "How old is it? Has it seen the feast of cups thrice or four times?",
+          "lineStart": 1032
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 1034
+        },
+        {
+          "type": "para",
+          "text": "It was born about the time of the last Dionysia. But give it back to me.",
+          "lineStart": 1035
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1037
+        },
+        {
+          "type": "para",
+          "text": "No, may Apollo bear me witness.",
+          "lineStart": 1038
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 1039
+        },
+        {
+          "type": "para",
+          "text": "Well, then we are going to burn him.",
+          "lineStart": 1040
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1041
+        },
+        {
+          "type": "para",
+          "text": "Burn me, but then I shall rip this open instantly.",
+          "lineStart": 1042
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 1043
+        },
+        {
+          "type": "para",
+          "text": "No, no, I adjure you, don't; do anything you like to me rather than that.",
+          "lineStart": 1044
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1046
+        },
+        {
+          "type": "para",
+          "text": "What a tender mother you are; but nevertheless I shall rip it open. He tears open the wine-skin.",
+          "lineStart": 1047
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 1050
+        },
+        {
+          "type": "para",
+          "text": "Oh, my beloved daughter! Mania, hand me the sacred cup, that I may at least catch the blood of my child.",
+          "lineStart": 1051
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1053
+        },
+        {
+          "type": "para",
+          "text": "Hold it below; that's the only favour I grant you. He pours the wine into the cup.",
+          "lineStart": 1054
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 1056
+        },
+        {
+          "type": "para",
+          "text": "Out upon you, you pitiless monster!",
+          "lineStart": 1057
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1058
+        },
+        {
+          "type": "para",
+          "text": "This robe belongs to the priestess.",
+          "lineStart": 1059
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 1060
+        },
+        {
+          "type": "para",
+          "text": "What belongs to the priestess?",
+          "lineStart": 1061
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1062
+        },
+        {
+          "type": "para",
+          "text": "Here, take it. He throws her the Cretan robe.",
+          "lineStart": 1063
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 1065
+        },
+        {
+          "type": "para",
+          "text": "Ah! unfortunate Mica! Who has robbed you of your daughter, your beloved child?",
+          "lineStart": 1066
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 1068
+        },
+        {
+          "type": "para",
+          "text": "That wretch. But as you are here, watch him well, while I go with Clisthenes to the Magistrates and denounce him for his crimes.",
+          "lineStart": 1069
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1071
+        },
+        {
+          "type": "para",
+          "text": "Ah! how can I secure safety? what device can I hit on? what can I think of? He whose fault it is, he who hurried me into this trouble, will not come to my rescue. Let me see, whom could I best send to him? Ha! I know a means taken from Palamedes; like him, I will write my misfortune on some oars, which I will cast into the sea. Where might I find some oars? Hah! what if I took these statues instead of oars, wrote upon them and then threw them towards this side and that. That's the best thing to do. Besides, like oars they are of wood. singing Oh! my hands, keep up your courage, for my safety is at stake. Come, my beautiful tablets, receive the traces of my stylus and be the messengers of my sorry fate. Oh! oh! this R looks miserable enough! Where is it running to then? Come, off with you in all directions, to the right and to the left; and hurry yourselves, for there's much need indeed! He sits down to wait for Euripides. The Chorus turns and faces the audience.",
+          "lineStart": 1072
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1088
+        },
+        {
+          "type": "para",
+          "text": "Let us address ourselves to the spectators to sing our praises, despite the fact that each one says much ill of women. If the men are to be believed, we are a plague to them; through us come all their troubles, quarrels, disputes, sedition, griefs and wars. But if we are truly such a pest, why marry us? Why forbid us to go out or show ourselves at the window? You want to keep this pest, and take a thousand cares to do it. If your wife goes out and you meet her away from the house, you fly into a fury. Ought you not rather to rejoice and give thanks to the gods? for if the pest has disappeared, you will no longer find it at home. If we fall asleep at friends' houses from the fatigue of playing and sporting, each of you comes prowling round the bed to contemplate the features of this pest. If we seat ourselves at the window, each one wants to see the pest, and if we withdraw through modesty, each wants all the more to see the pest perch herself there again. It is thus clear that we are better than you, and the proof of this is easy. Let us find out which is the worse of the two sexes. We say, \"It's you,\" while you aver, \"it's we.\"' Come, let us compare them in detail, each individual man with a woman. Charminus is not equal to Nausimache, that's certain. Cleophon is in every respect inferior to Salabaccho. It's a long time now since any of you has dared to contest the prize with Aristomache, the heroine of Marathon, or with Stratonice.",
+          "lineStart": 1089
+        },
+        {
+          "type": "para",
+          "text": "Among the last year's Senators, who have just yielded their office to other citizens, is there one who equals Eubule? Not even Anytus would say that. Therefore we maintain that men are greatly our inferiors. You see no woman who has robbed the state of fifty talents rushing about the city in a magnificent chariot; our greatest peculations are a measure of corn, which we steal from our husbands, and even then we return it to them the very same day. But we could name many amongst you who do quite as much, and who are, even more than ourselves, gluttons, parasites, cheats and kidnappers of slaves. We know how to keep our property better than you. We still have our cylinders, our beams, our baskets and our surshades; whereas many among you have lost the wood of your spears as well as the iron, and many others have cast away their bucklers on the battlefield.",
+          "lineStart": 1110
+        },
+        {
+          "type": "para",
+          "text": "There are many reproaches we have the right to bring against men. The most serious is this, that the woman, who has given birth to a useful citizen, whether taxiarch or strategus should receive some distinction; a place of honour should be reserved for her at the Stenia, the Scirophoria, and the other festivals that we keep. On the other hand, she of whom a coward was born or a worthless man, a bad trierarch or an unskilful pilot, should sit with shaven head, behind her sister who had borne a brave man. Oh! citizens! is it just that the mother of Hyperbolus should sit dressed in white and with loosened tresses beside that of Lamachus and lend out money on usury? He, who may have made a deal of this nature with her, so far from paying her interest, should not even repay the capital, saying, \"What, pay you interest? after you have given us this delightful son?\"",
+          "lineStart": 1123
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1135
+        },
+        {
+          "type": "para",
+          "text": "I have contracted quite a squint by looking round for him, and yet Euripides does not come. Who is keeping him? No doubt he is ashamed of his cold Palamedes. What will attract him? Let us see! By which of his pieces does he set most store? Ah! I'll imitate his Helen, his last-born. I just happen to have a complete woman's outfit.",
+          "lineStart": 1136
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 1141
+        },
+        {
+          "type": "para",
+          "text": "What are you ruminating about now? Why are you rolling up your eyes? You'll have no reason to be proud of your Helen, if you don't keep quiet until one of the Magistrates arrives.",
+          "lineStart": 1142
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1145
+        },
+        {
+          "type": "para",
+          "text": "as Helen \"These shores are those of the Nile with the beautiful nymphs, these waters take the place of heaven's rain and fertilize the white earth, that produces the black syrmea.\"",
+          "lineStart": 1146
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 1150
+        },
+        {
+          "type": "para",
+          "text": "By bright Hecate, you're a cunning varlet.",
+          "lineStart": 1151
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1152
+        },
+        {
+          "type": "para",
+          "text": "\"Glorious Sparta is my country and Tyndareus is my father.\"",
+          "lineStart": 1153
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 1154
+        },
+        {
+          "type": "para",
+          "text": "He your father, you rascal! Why, it's Phrynondas.",
+          "lineStart": 1155
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1156
+        },
+        {
+          "type": "para",
+          "text": "\"I was given the name of Helen.\"",
+          "lineStart": 1157
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 1158
+        },
+        {
+          "type": "para",
+          "text": "What! you are again becoming a woman, before we have punished you for having pretended it the first time?",
+          "lineStart": 1159
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1161
+        },
+        {
+          "type": "para",
+          "text": "\"A thousand warriors have died on my account on the banks of the Scamander.\"",
+          "lineStart": 1162
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 1164
+        },
+        {
+          "type": "para",
+          "text": "Would that you had done the same!",
+          "lineStart": 1165
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1166
+        },
+        {
+          "type": "para",
+          "text": "\"And here I am upon these shores; Menelaus, my unhappy husband, does not yet come. Ah! Why do I still live?\"",
+          "lineStart": 1167
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 1169
+        },
+        {
+          "type": "para",
+          "text": "Because of the criminal negligence of the crows!",
+          "lineStart": 1170
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1171
+        },
+        {
+          "type": "para",
+          "text": "\"But what sweet hope is this that sets my heart a-throb? Oh, Zeus! grant it may not prove a lying one!\" EURIPIDES enters.",
+          "lineStart": 1172
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 1175
+        },
+        {
+          "type": "para",
+          "text": "as Menelaus \"To what master does this splendid palace belong? Will he welcome strangers who have been tried on the billows of the sea by storm and shipwreck?\"",
+          "lineStart": 1176
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1179
+        },
+        {
+          "type": "para",
+          "text": "\"This is the palace of Proteus.\"",
+          "lineStart": 1180
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 1181
+        },
+        {
+          "type": "para",
+          "text": "Of what Proteus? you thrice cursed rascal! how he lies! By the goddesses, it's ten years since Proteas died.",
+          "lineStart": 1182
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 1184
+        },
+        {
+          "type": "para",
+          "text": "\"What is this shore whither the wind has driven our boat?\"",
+          "lineStart": 1185
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1186
+        },
+        {
+          "type": "para",
+          "text": "\"'Tis Egypt.\"",
+          "lineStart": 1187
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 1188
+        },
+        {
+          "type": "para",
+          "text": "\"Alas! how far we are from own country!",
+          "lineStart": 1189
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 1190
+        },
+        {
+          "type": "para",
+          "text": "Don't believe that cursed fool. This is Demeter's Temple.",
+          "lineStart": 1191
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 1192
+        },
+        {
+          "type": "para",
+          "text": "\"Is Proteus in these parts?\"",
+          "lineStart": 1193
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 1194
+        },
+        {
+          "type": "para",
+          "text": "Ah, now, stranger, it must be sea-sickness that makes you so distraught! You have been told that Proteas is dead, and yet you ask if he is in these parts.",
+          "lineStart": 1195
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 1198
+        },
+        {
+          "type": "para",
+          "text": "\"He is no more! Oh! woe! where lie his ashes?\"",
+          "lineStart": 1199
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1200
+        },
+        {
+          "type": "para",
+          "text": "\"'Tis on his tomb you see me sitting.\"",
+          "lineStart": 1201
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 1202
+        },
+        {
+          "type": "para",
+          "text": "You call an altar a tomb! Beware of the rope!",
+          "lineStart": 1203
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 1204
+        },
+        {
+          "type": "para",
+          "text": "\"And why remain sitting on this tomb, wrapped in this long veil, oh, stranger lady?\"",
+          "lineStart": 1205
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1207
+        },
+        {
+          "type": "para",
+          "text": "\"They want to force me to marry a son of Proteus.\"",
+          "lineStart": 1208
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 1209
+        },
+        {
+          "type": "para",
+          "text": "Ah! wretch, why tell such shameful lies? Stranger, this is a rascal who has slipped in amongst us women to rob us of our trinkets.",
+          "lineStart": 1210
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1212
+        },
+        {
+          "type": "para",
+          "text": "to SECOND WOMAN \"Shout! load me with your insults, for little care I.\"",
+          "lineStart": 1213
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 1215
+        },
+        {
+          "type": "para",
+          "text": "\"Who is the old woman who reviles you, stranger lady?",
+          "lineStart": 1216
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1217
+        },
+        {
+          "type": "para",
+          "text": "\"'Tis Theonoe, the daughter of Proteus.\"",
+          "lineStart": 1218
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 1219
+        },
+        {
+          "type": "para",
+          "text": "I! Why, my name's Critylle, the daughter of Antitheus, of the deme of Gargettus; as for you, you are a rogue.",
+          "lineStart": 1220
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1222
+        },
+        {
+          "type": "para",
+          "text": "\"Your entreaties are vain. Never shall I wed your brother; never shall I betray the faith I owe my husband, Menelaus, who is fighting before Troy.\"",
+          "lineStart": 1223
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 1226
+        },
+        {
+          "type": "para",
+          "text": "\"What are you saying? Turn your face towards me.\"",
+          "lineStart": 1227
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1228
+        },
+        {
+          "type": "para",
+          "text": "\"I dare not; my cheeks show the marks of the insults I have been forced to suffer.\"",
+          "lineStart": 1229
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 1231
+        },
+        {
+          "type": "para",
+          "text": "\"Oh! great gods! I cannot speak, for very emotion.... Ah! what do I see? Who are you?\"",
+          "lineStart": 1232
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1234
+        },
+        {
+          "type": "para",
+          "text": "\"And you, what is your name? for my surprise is as great as yours.\"",
+          "lineStart": 1235
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 1237
+        },
+        {
+          "type": "para",
+          "text": "\"Are you Grecian or born in this country?\"",
+          "lineStart": 1238
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1239
+        },
+        {
+          "type": "para",
+          "text": "\"I am Grecian. But now your name, what is it?\"",
+          "lineStart": 1240
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 1241
+        },
+        {
+          "type": "para",
+          "text": "\"Oh how you resemble Helen!",
+          "lineStart": 1242
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1243
+        },
+        {
+          "type": "para",
+          "text": "\"And you Menelaus, if I can judge by these pot-herbs.\"",
+          "lineStart": 1244
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 1245
+        },
+        {
+          "type": "para",
+          "text": "\"You are not mistaken, 'tis none other than that unfortunate mortal who stands before you.\"",
+          "lineStart": 1246
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1248
+        },
+        {
+          "type": "para",
+          "text": "\"Ah! how you have delayed coming to your wife's arms! Press me to your heart, throw your arms about me, for I wish to cover you with kisses. Carry me away, carry me away, quick, quick, far, very far from here.\"",
+          "lineStart": 1249
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 1253
+        },
+        {
+          "type": "para",
+          "text": "By the goddesses, woe to him who would carry you away! I should thrash him with my torch.",
+          "lineStart": 1254
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 1256
+        },
+        {
+          "type": "para",
+          "text": "\"Do you propose to prevent me from taking my wife, the daughter of Tyndareus, to Sparta?\"",
+          "lineStart": 1257
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 1259
+        },
+        {
+          "type": "para",
+          "text": "You seem to me to be a cunning rascal too; you are in collusion with this man, and it wasn't for nothing that you kept babbling about Egypt. But the hour for punishment has come; here is the Magistrate with his Scythian.",
+          "lineStart": 1260
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 1263
+        },
+        {
+          "type": "para",
+          "text": "This is getting awkward. Let me hide myself.",
+          "lineStart": 1264
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1265
+        },
+        {
+          "type": "para",
+          "text": "And what is to become of me, poor unfortunate man that I am?",
+          "lineStart": 1266
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 1267
+        },
+        {
+          "type": "para",
+          "text": "Don't worry. I shall never abandon you, as long as I draw breath and one of my numberless artifices remains untried.",
+          "lineStart": 1268
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1270
+        },
+        {
+          "type": "para",
+          "text": "The fish has not bitten this time. A MAGISTRATE enters, accompanied by a Scythian policeman.",
+          "lineStart": 1271
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MAGISTRATE",
+          "lineStart": 1273
+        },
+        {
+          "type": "para",
+          "text": "Is this the rascal Clisthenes told us about? Why are you trying to make yourself so small? Officer, arrest him, fasten him to the post, then take up your position there and keep guard over him. Let none approach him. A sound lash with your whip for him who attempts to break the order.",
+          "lineStart": 1274
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 1278
+        },
+        {
+          "type": "para",
+          "text": "Excellent, for just now a rogue almost took him from me.",
+          "lineStart": 1279
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1280
+        },
+        {
+          "type": "para",
+          "text": "Magistrate, in the name of that hand which you know so well how to bend when money is placed in it, grant me a slight favour before I die.",
+          "lineStart": 1281
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MAGISTRATE",
+          "lineStart": 1284
+        },
+        {
+          "type": "para",
+          "text": "What favour?",
+          "lineStart": 1285
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1286
+        },
+        {
+          "type": "para",
+          "text": "Order the archer to strip me before lashing me to the post; the crows, when they make their meal on the poor old man, would laugh too much at this robe and head-dress,",
+          "lineStart": 1287
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MAGISTRATE",
+          "lineStart": 1290
+        },
+        {
+          "type": "para",
+          "text": "It is in that gear that you must be exposed by order of the Senate, so that your crime may be patent to the passers-by. He departs.",
+          "lineStart": 1291
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1294
+        },
+        {
+          "type": "para",
+          "text": "as the SCYTHIAN seizes him Oh! cursed robe, the cause of all my misfortune! My last hope is thus destroyed!",
+          "lineStart": 1295
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1297
+        },
+        {
+          "type": "para",
+          "text": "Let us now devote ourselves to the sports which the women are accustomed to celebrate here, when time has again brought round the mighty Mysteries of the great goddesses, the sacred days which Pauson himself honours by fasting and would wish feast to succeed feast, that he might keep them all holy. Spring forward with a light step, whirling in mazy circles; let your hands interlace, let the eager and rapid dancers sway to the music and glance on every side as they move.",
+          "lineStart": 1298
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1305
+        },
+        {
+          "type": "para",
+          "text": "singing Let the chorus sing likewise and praise the Olympian gods in their pious transport. It's wrong to suppose that, because I am a woman and in this temple, I am going to speak ill of men; but since we want something fresh, we are going through the rhythmic steps of the round dance for the first time.",
+          "lineStart": 1306
+        },
+        {
+          "type": "para",
+          "text": "Start off while you sing to the god of the lyre and to the chaste goddess armed with the bow. Hail I thou god who flingest thy darts so far, grant us the victory! The homage of our song is also due to Here, the goddess of marriage, who interests herself in every chorus and guards the approach to the nuptial couch. I also pray Hermes, the god of the shepherds, and Pan and the beloved Graces to bestow a benevolent smile upon our songs.",
+          "lineStart": 1312
+        },
+        {
+          "type": "para",
+          "text": "Let us lead off anew, let us double our zeal during our solemn days, and especially let us observe a close fast; let us form fresh measures that keep good time, and may our songs resound to the very heavens. Do thou, oh divine Bacchus, who art crowned with ivy, direct our chorus; 'tis to thee that both my hymns and my dances are dedicated; oh, Evius, oh, Bromius, oh, thou son of Semeld, oh, Bacchus, who delightest to mingle with the dear choruses of the nymphs upon the mountains, and who repeatest, while dancing with them, the sacred hymn, Euios, Euios, Euoi! Echo, the nymph of Cithaeron, returns thy words, which resound beneath the dark vaults of the thick foliage and in the midst of the rocks of the forest; the ivy enlaces thy brow with its tendrils charged with flowers.",
+          "lineStart": 1319
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SCYTHIAN",
+          "lineStart": 1330
+        },
+        {
+          "type": "para",
+          "text": "he speaks with a heavy foreign accent You shall stay here in the open air to wail.",
+          "lineStart": 1331
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1333
+        },
+        {
+          "type": "para",
+          "text": "Archer, I adjure you.",
+          "lineStart": 1334
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SCYTHIAN",
+          "lineStart": 1335
+        },
+        {
+          "type": "para",
+          "text": "You're wasting your breath.",
+          "lineStart": 1336
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1337
+        },
+        {
+          "type": "para",
+          "text": "Loosen the wedge a little.",
+          "lineStart": 1338
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SCYTHIAN",
+          "lineStart": 1339
+        },
+        {
+          "type": "para",
+          "text": "Aye, certainly.",
+          "lineStart": 1340
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1341
+        },
+        {
+          "type": "para",
+          "text": "Oh by the gods! why, you are driving it in tighter.",
+          "lineStart": 1342
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SCYTHIAN",
+          "lineStart": 1343
+        },
+        {
+          "type": "para",
+          "text": "Is that enough?",
+          "lineStart": 1344
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1345
+        },
+        {
+          "type": "para",
+          "text": "Oh! Oh! Ow! Ow! May the plague take you!",
+          "lineStart": 1346
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SCYTHIAN",
+          "lineStart": 1347
+        },
+        {
+          "type": "para",
+          "text": "Silence! you cursed old wretch! I am going to get a mat to lie upon, so as to watch you close at hand at my ease.",
+          "lineStart": 1348
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1350
+        },
+        {
+          "type": "para",
+          "text": "Ah! what exquisite pleasures Euripides is securing for me! But, oh, ye gods! oh, Zeus the Deliverer, all is not yet lost! I don't believe him the man to break his word; I just caught sight of him appearing in the form of Perseus, and he told me with a mysterious sign to turn myself into Andromeda. And in truth am I not really bound? It's certain, then, that be is coming to my rescue; for otherwise he would not have steered his flight this way. As Andromeda, singing Oh Nymphs, ye virgins who are so dear to me, how am I to approach him? how can I escape the sight of this Scythian? And Echo, thou who reignest in the inmost recesses of the caves, oh! favour my cause and permit me to approach my spouse. A pitiless ruffian has chained up the most unfortunate of mortal maids. Alas! I bad barely escaped the filthy claws of an old fury, when another mischance overtook me! This Scythian does not take his eye off me and he has exposed me as food for the crows. Alas! what is to become of me, alone here and without friends! I am not seen mingling in the dances nor in the games of my companions, but heavily loaded with fetters I am given over to the voracity of a Glaucetes. Sing no bridal hymn for me, oh women, but rather the hymn of captivity, and in tears. Ah! how I suffer! great gods! how I suffer! Alas! alas! and through my own relatives too! My misery would make Tartarus dissolve into tears! Alas! in my terrible distress, I implore the mortal who first shaved me and depilated me, then dressed me in this long robe, and then sent me to this Temple into the midst of the women, to save me. Oh! thou pitiless Fate! I am then accursed, great gods! Ah! who would not be moved at the sight of the appalling tortures under which I succumb? Would that the blazing shaft of the lightning would wither.... this barbarian for me! The immortal light has no further charm for my eyes since I have been descending the shortest path to the dead, tied up, strangled, and maddened with pain. In the following scene EURIPIDES, from off stage, impersonates Echo.",
+          "lineStart": 1351
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURIPIDES",
+          "lineStart": 1382
+        },
+        {
+          "type": "para",
+          "text": "Hail! beloved girl. As for your father, Cepheus, who has exposed you in this guise, may the gods annihilate him.",
+          "lineStart": 1383
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MNESILOCHUS",
+          "lineStart": 1385
+        },
+        {
+          "type": "para",
+          "text": "And who are you whom my misfor",
+          "lineStart": 1386
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 400,
+    "wordCount": 9940
+  }
+}

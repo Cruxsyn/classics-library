@@ -1,0 +1,2842 @@
+{
+  "id": "Euripides/cyclops",
+  "author": "Euripides",
+  "authorKey": "Euripides",
+  "title": "The Cyclops",
+  "translator": "E. P. Coleridge",
+  "language": "Greek",
+  "written": "ca. 408 BCE",
+  "sourceNote": null,
+  "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "ambiguous: 0.351 long unterminated interior lines, median line length 46.0, 0.000 explicit breaks; defaulted to prose",
+  "textModeStats": {
+    "lineCount": 898,
+    "paragraphCount": 7,
+    "interiorLineCount": 891,
+    "medianLineLength": 46.0,
+    "meanLineLength": 40.415367483296215,
+    "longInteriorLineRatio": 0.42536475869809204,
+    "unterminatedInteriorLineRatio": 0.6801346801346801,
+    "longUnterminatedInteriorLineRatio": 0.35129068462401797,
+    "explicitBreakLineRatio": 0.0,
+    "unmarkedLineRatio": 0.9933184855233853
+  },
+  "landingUrl": "https://classics.mit.edu/Euripides/cyclops.html",
+  "textUrls": [
+    "https://classics.mit.edu/Euripides/cyclops.html"
+  ],
+  "txtUrl": "https://classics.mit.edu/Euripides/cyclops.pl.txt",
+  "sections": [
+    {
+      "seq": 1,
+      "id": "cyclops-the-cyclops",
+      "heading": "The Cyclops",
+      "partTitle": "The Cyclops",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Dramatis Personae",
+          "lineStart": 10
+        },
+        {
+          "type": "para",
+          "text": "SILENUS, old servant of the CYCLOPS CHORUS OF SATYRS ODYSSEUS THE CYCLOPS Scene Before the great cave of the CYCLOPS at the foot of Mount Aetna. SILENUS enters. He has a rake with him, with which he cleans up the ground in front of the cave as he soliloquizes.",
+          "lineStart": 11
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 16
+        },
+        {
+          "type": "para",
+          "text": "O Bromius, unnumbered are the toils I bear because of thee, no less now than when I was young and hale; first, when thou wert driven mad by Hera and didst leave the mountain nymphs, thy nurses; next, when in battle with earth-born spearmen I stood beside thee on the right as squire, and slew Enceladus, smiting him full in the middle of his targe with my spear. Come, though, let me see; must I confess 'twas all a dream? No, by Zeus! since I really showed his spoils to the Bacchic god. And now am I enduring to the full a toil still worse than those. For when Hera sent forth a race of Tyrrhene pirates against thee, that thou mightest be smuggled far away, I, as soon as the news reached me, sailed in quest of thee with my children; and, taking the helm myself, I stood on the end of the stern and steered our trim craft; and my sons, sitting at the oars, made the grey billows froth and foam as they sought thee, my liege, But just as we had come nigh Malea in our course, an east wind blew upon the ship and drove us hither to the rock of Aetna, where in lonely caverns dwell the one-eyed children of ocean's god, the murdering Cyclopes. Captured by one of them we are slaves in his house; Polyphemus they call him whom we serve; and instead of Bacchic revelry we are herding a godless Cyclops's flocks; and so it is my children, striplings as they are, tend the young thereof on the edge of the downs; while my appointed task is to stay here and fill the troughs and sweep out the cave, or wait upon the ungodly Cyclops at his impious feasts. His orders now compel obedience; I have to scrape out his house with the rake you see, so as to receive the Cyclops, my absent master, and his sheep in clean caverns.",
+          "lineStart": 17
+        },
+        {
+          "type": "para",
+          "text": "But already I see my children driving their browsing flocks towards me.",
+          "lineStart": 41
+        },
+        {
+          "type": "para",
+          "text": "What means this? is the beat of feet in the Sicinnis dance the same to you now as when ye attended the Bacchic god in his revelries and made your way with dainty steps to the music of lyres to the halls of Althaea? The CHORUS OF SATYRS enters, driving a flock of goats and sheep. Servants follow them.",
+          "lineStart": 43
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 48
+        },
+        {
+          "type": "para",
+          "text": "singing strophe Offspring of well-bred sires and dams, pray whither wilt thou be gone from me to the rocks? Hast thou not here a gentle breeze, and grass to browse, and water from the eddying stream set near the cave in troughs? and are not thy young ones bleating for thee? Pst! pst! wilt thou not browse here, here on the dewy slope? Ho! ho ere long will I cast a stone at thee. Away, away! O horned one, to the fold-keeper of the Cyclops, the country-ranging shepherd. antistrophe Loosen thy bursting udder; welcome to thy teats the kids, whom thou leavest in the lambkins' pens. Those little bleating kids, asleep the livelong day, miss thee; wilt then leave at last the rich grass pastures on the peaks of Aetna and enter the fold?... epode Here we have no Bromian god; no dances here, or Bacchantes thyrsus-bearing; no roll of drums, or drops of sparkling wine by gurgling founts; nor is it now with Nymphs in Nysa I sing a song of Bacchus, Bacchus! to the queen of love, in quest of whom I once sped on with Bacchantes, white of foot. Dear friend, dear Bacchic god, whither art roaming alone, waving thy auburn locks, while I, thy minister, do service to the one-eyed Cyclops, a slave and wanderer I, clad in this wretched goat-skin dress, severed from thy love?",
+          "lineStart": 49
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 70
+        },
+        {
+          "type": "para",
+          "text": "Hush, children! and bid our servants fold the flocks in the rock-roofed cavern.",
+          "lineStart": 71
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 73
+        },
+        {
+          "type": "para",
+          "text": "to Servants Away! To SILENUS But prithee, why such haste, father?",
+          "lineStart": 74
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 78
+        },
+        {
+          "type": "para",
+          "text": "I see the hull of a ship from Hellas at the shore, and men, that wield the oar, on their way to this cave with some chieftain. About their necks they carry empty vessels and pitchers for water; they are in want of food. Luckless strangers! who can they be? They know not what manner of man our master Polyphemus is, to have set foot here in his cheerless abode and come to the jaws of the cannibal Cyclops in an evil hour. But hold ye your peace, that we may inquire whence they come to the peak of Sicilian Aetna. ODYSSEUS and his companions enter. They carry baskets for provisions and water jars.",
+          "lineStart": 79
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 89
+        },
+        {
+          "type": "para",
+          "text": "Pray tell us, sirs, of some river-spring whence we might draw a draught to slake our thirst, or of someone willing to sell victuals to mariners in need.",
+          "lineStart": 90
+        },
+        {
+          "type": "para",
+          "text": "Why, what is this? We seem to have chanced upon a city of the Bromian god; here by the caves I see a group of Satyrs. To the eldest first I bid \"All hail!",
+          "lineStart": 93
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 96
+        },
+        {
+          "type": "para",
+          "text": "All hail, sir! tell me who thou art, and name thy country.",
+          "lineStart": 97
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 98
+        },
+        {
+          "type": "para",
+          "text": "Odysseus of Ithaca, king of the Cephallenians' land.",
+          "lineStart": 99
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 100
+        },
+        {
+          "type": "para",
+          "text": "I know him for a prating knave, one of Sisyphus' shrewd offspring.",
+          "lineStart": 101
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 102
+        },
+        {
+          "type": "para",
+          "text": "I am the man; abuse me not.",
+          "lineStart": 103
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 104
+        },
+        {
+          "type": "para",
+          "text": "Whence hast thou sailed hither to Sicily?",
+          "lineStart": 105
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 106
+        },
+        {
+          "type": "para",
+          "text": "From Ilium and the toils of Troy.",
+          "lineStart": 107
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 108
+        },
+        {
+          "type": "para",
+          "text": "How was that? didst thou not know the passage to thy native land?",
+          "lineStart": 109
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 111
+        },
+        {
+          "type": "para",
+          "text": "Tempestuous winds drove me hither against my will.",
+          "lineStart": 112
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 113
+        },
+        {
+          "type": "para",
+          "text": "God wot! thou art in the same plight as I am.",
+          "lineStart": 114
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 115
+        },
+        {
+          "type": "para",
+          "text": "Why, wert thou too drifted hither against thy will?",
+          "lineStart": 116
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 117
+        },
+        {
+          "type": "para",
+          "text": "I was, as I pursued the pirates who carried Bromius off.",
+          "lineStart": 118
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 119
+        },
+        {
+          "type": "para",
+          "text": "What land is this and who are its inhabitants?",
+          "lineStart": 120
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 121
+        },
+        {
+          "type": "para",
+          "text": "This is mount Aetna, the highest point in Sicily.",
+          "lineStart": 122
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 123
+        },
+        {
+          "type": "para",
+          "text": "But where are the city-walls and ramparts?",
+          "lineStart": 124
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 125
+        },
+        {
+          "type": "para",
+          "text": "There are none; the headlands, sir, are void of men.",
+          "lineStart": 126
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 127
+        },
+        {
+          "type": "para",
+          "text": "Who then possess the land? the race of wild creatures?",
+          "lineStart": 128
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 129
+        },
+        {
+          "type": "para",
+          "text": "The Cyclopes, who have caves, not roofed houses.",
+          "lineStart": 130
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 131
+        },
+        {
+          "type": "para",
+          "text": "Obedient unto whom? or is the power in the people's hands?",
+          "lineStart": 132
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 133
+        },
+        {
+          "type": "para",
+          "text": "They are rovers; no man obeys another in anything.",
+          "lineStart": 134
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 135
+        },
+        {
+          "type": "para",
+          "text": "Do they sow Demeter's grain, or on what do they live?",
+          "lineStart": 136
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 137
+        },
+        {
+          "type": "para",
+          "text": "On milk and cheese and flesh of sheep.",
+          "lineStart": 138
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 139
+        },
+        {
+          "type": "para",
+          "text": "Have they the drink of Bromius, the juice of the vine?",
+          "lineStart": 140
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 141
+        },
+        {
+          "type": "para",
+          "text": "No indeed! and thus it is a joyless land they dwell in.",
+          "lineStart": 142
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 143
+        },
+        {
+          "type": "para",
+          "text": "Are they hospitable and reverent towards strangers?",
+          "lineStart": 144
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 145
+        },
+        {
+          "type": "para",
+          "text": "Strangers, they say, supply the daintiest meat.",
+          "lineStart": 146
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 147
+        },
+        {
+          "type": "para",
+          "text": "What, do they delight in killing men and eating them?",
+          "lineStart": 148
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 149
+        },
+        {
+          "type": "para",
+          "text": "No one has ever arrived here without being butchered.",
+          "lineStart": 150
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 151
+        },
+        {
+          "type": "para",
+          "text": "Where is the Cyclops himself? inside his dwelling?",
+          "lineStart": 152
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 153
+        },
+        {
+          "type": "para",
+          "text": "He is gone hunting wild beasts with hounds on Aetna.",
+          "lineStart": 154
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 155
+        },
+        {
+          "type": "para",
+          "text": "Dost know then what to do, that we may be gone from the land?",
+          "lineStart": 156
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 157
+        },
+        {
+          "type": "para",
+          "text": "Not I, Odysseus; but I would do anything for thee.",
+          "lineStart": 158
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 159
+        },
+        {
+          "type": "para",
+          "text": "Sell us food, of which we are in need.",
+          "lineStart": 160
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 161
+        },
+        {
+          "type": "para",
+          "text": "There is nothing but flesh, as I said.",
+          "lineStart": 162
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 163
+        },
+        {
+          "type": "para",
+          "text": "Well, even that is a pleasant preventive of hunger.",
+          "lineStart": 164
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 165
+        },
+        {
+          "type": "para",
+          "text": "And there is cheese curdled with fig-juice, and the milk of kine.",
+          "lineStart": 166
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 168
+        },
+        {
+          "type": "para",
+          "text": "Bring them out; a man should see his purchases.",
+          "lineStart": 169
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 170
+        },
+        {
+          "type": "para",
+          "text": "But tell me, how much gold wilt thou give me in exchange?",
+          "lineStart": 171
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 172
+        },
+        {
+          "type": "para",
+          "text": "No gold bring I, but Dionysus' drink.",
+          "lineStart": 173
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 174
+        },
+        {
+          "type": "para",
+          "text": "joyfully Most welcome words! I have long been wanting that.",
+          "lineStart": 175
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 177
+        },
+        {
+          "type": "para",
+          "text": "Yes, it was Maron, the god's son, who gave me a draught.",
+          "lineStart": 178
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 179
+        },
+        {
+          "type": "para",
+          "text": "What! Maron whom once I dandled in these arms?",
+          "lineStart": 180
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 181
+        },
+        {
+          "type": "para",
+          "text": "The son of the Bacchic god, that thou mayst learn more certainly.",
+          "lineStart": 182
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 183
+        },
+        {
+          "type": "para",
+          "text": "Is it inside the ship, or hast thou it with thee?",
+          "lineStart": 184
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 185
+        },
+        {
+          "type": "para",
+          "text": "This, as thou seest, is the skin that holds it, old sir.",
+          "lineStart": 186
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 187
+        },
+        {
+          "type": "para",
+          "text": "Why, that would not give me so much as a mouthful.",
+          "lineStart": 188
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 189
+        },
+        {
+          "type": "para",
+          "text": "This, and twice as much again as will run from the skin.",
+          "lineStart": 190
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 191
+        },
+        {
+          "type": "para",
+          "text": "Fair the rill thou speakest of, delicious to me.",
+          "lineStart": 192
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 193
+        },
+        {
+          "type": "para",
+          "text": "Shall I let thee taste the wine unmixed, to start with?",
+          "lineStart": 194
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 195
+        },
+        {
+          "type": "para",
+          "text": "A reasonable offer; for of a truth a taste invites the purchase.",
+          "lineStart": 196
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 197
+        },
+        {
+          "type": "para",
+          "text": "Well, I haul about a cup as well as the skin.",
+          "lineStart": 198
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 199
+        },
+        {
+          "type": "para",
+          "text": "Come, let it gurgle in, that I may revive my memory by a pull at it.",
+          "lineStart": 200
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 202
+        },
+        {
+          "type": "para",
+          "text": "pouring There then!",
+          "lineStart": 203
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 205
+        },
+        {
+          "type": "para",
+          "text": "smelling it Ye gods! what a delicious scent it has!",
+          "lineStart": 206
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 208
+        },
+        {
+          "type": "para",
+          "text": "What! didst thou see it?",
+          "lineStart": 209
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 210
+        },
+        {
+          "type": "para",
+          "text": "No, i' faith, but I smell it.",
+          "lineStart": 211
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 212
+        },
+        {
+          "type": "para",
+          "text": "Taste it then, that thy approval may not stop at words.",
+          "lineStart": 213
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 214
+        },
+        {
+          "type": "para",
+          "text": "taking a drink Zounds! Bacchus is inviting me to dance; ha! ha!",
+          "lineStart": 215
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 217
+        },
+        {
+          "type": "para",
+          "text": "Did it not gurgle finely down thy throttle?",
+          "lineStart": 218
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 219
+        },
+        {
+          "type": "para",
+          "text": "Aye that it did, to the ends of my fingers.",
+          "lineStart": 220
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 221
+        },
+        {
+          "type": "para",
+          "text": "Well, we will give thee money besides.",
+          "lineStart": 222
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 223
+        },
+        {
+          "type": "para",
+          "text": "Only undo the skin, and never mind the money.",
+          "lineStart": 224
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 225
+        },
+        {
+          "type": "para",
+          "text": "Bring out the cheeses then and lambs.",
+          "lineStart": 226
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 227
+        },
+        {
+          "type": "para",
+          "text": "I will do so, with small thought of any master. For let me have a single cup of that and I would turn madman, giving in exchange for it the flocks of every Cyclops and then throwing myself into the sea from the Leucadian rock, once I have been well drunk and smoothed out my wrinkled brow. For if a man rejoice not in his drinking, he is mad; for in drinking it's possible for this to stand up straight, and then to fondle breasts, and to caress well tended locks, and there is dancing withal, and oblivion of woe. Shall not I then purchase so rare a drink, bidding the senseless Cyclops and his central eye go hang? SILENUS goes into the cave.",
+          "lineStart": 228
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 238
+        },
+        {
+          "type": "para",
+          "text": "Hearken, Odysseus, let us hold some converse with thee.",
+          "lineStart": 239
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 240
+        },
+        {
+          "type": "para",
+          "text": "Well, do so; ours is a meeting of friends.",
+          "lineStart": 241
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 242
+        },
+        {
+          "type": "para",
+          "text": "Did you take Troy and capture the famous Helen?",
+          "lineStart": 243
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 244
+        },
+        {
+          "type": "para",
+          "text": "Aye, and we destroyed the whole family of Priam.",
+          "lineStart": 245
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 246
+        },
+        {
+          "type": "para",
+          "text": "After capturing your blooming prize, were all of you in turn her lovers? for she likes variety in husbands; the traitress! the sight of a man with embroidered breeches on his legs and a golden chain about his neck so fluttered her, that she left Menelaus, her excellent little husband. Would there had never been a race of women born into the world at all, unles it were for me alone!",
+          "lineStart": 247
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 253
+        },
+        {
+          "type": "para",
+          "text": "reappearing with food Lo! I bring you fat food from the flocks, king Odysseus, the young of bleating sheep and cheeses of curdled milk without stint. Carry them away with you and begone from the cave at once, after giving me a drink of merry grape-juice in exchange.",
+          "lineStart": 254
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 259
+        },
+        {
+          "type": "para",
+          "text": "Alack! yonder comes the Cyclops; what shall we do?",
+          "lineStart": 260
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 261
+        },
+        {
+          "type": "para",
+          "text": "Then truly are we lost, old sir! whither must we fly?",
+          "lineStart": 262
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 263
+        },
+        {
+          "type": "para",
+          "text": "Inside this rock, for there ye may conceal yourselves.",
+          "lineStart": 264
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 265
+        },
+        {
+          "type": "para",
+          "text": "Dangerous advice of thine, to run into the net!",
+          "lineStart": 266
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 267
+        },
+        {
+          "type": "para",
+          "text": "No danger; there are ways of escape in plenty in the rock.",
+          "lineStart": 268
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 269
+        },
+        {
+          "type": "para",
+          "text": "No, never that; for surely Troy will groan and loudly too, if we flee from a single man, when I have oft withstood with my shield a countless host of Phrygians. Nay, if die we must, we will die a noble death; or, if we live, we will maintain our old renown at least with credit. The CYCLOPS enters as SILENUS goes into the cave. The CYCLOPS, not noticing ODYSSEUS and his companions, addresses the CHORUS in anger.",
+          "lineStart": 270
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 277
+        },
+        {
+          "type": "para",
+          "text": "A light here! hold it up! what is this? what means this idleness, your Bacchic revelry? Here have we no Dionysus, nor clash of brass, nor roll of drums. Pray, how is it with my newly-born lambs in the caves? are they at the teat, running close to the side of their dams? Is the full amount of milk for cheeses milked out in baskets of rushes? How now? what say you? One of ye will soon be shedding tears from the weight of my club; look up, not down.",
+          "lineStart": 278
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 285
+        },
+        {
+          "type": "para",
+          "text": "There! my head is bent back till I see Zeus himself; I behold both the stars and Orion.",
+          "lineStart": 286
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 288
+        },
+        {
+          "type": "para",
+          "text": "Is my breakfast quite ready?",
+          "lineStart": 289
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 290
+        },
+        {
+          "type": "para",
+          "text": "'Tis laid; be thy throat only ready.",
+          "lineStart": 291
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 292
+        },
+        {
+          "type": "para",
+          "text": "Are, the bowls too full of milk?",
+          "lineStart": 293
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 294
+        },
+        {
+          "type": "para",
+          "text": "Aye, so that thou canst swill off a whole hogshead, so it please thee.",
+          "lineStart": 295
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 297
+        },
+        {
+          "type": "para",
+          "text": "Sheep's milk or cows' milk or a mixture of both?",
+          "lineStart": 298
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 299
+        },
+        {
+          "type": "para",
+          "text": "Whichever thou wilt; don't swallow me, that's all.",
+          "lineStart": 300
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 301
+        },
+        {
+          "type": "para",
+          "text": "Not I; for you would start kicking in the pit of my stomach and kill me by your antics. Catching sight Of ODYSSEUS and his followers Ha! what is this crowd I see near the folds? Some pirates or robbers have put in here. SILENUS comes out of the cave. He has made himself appear as though he had just suffered a terrible beating. Yes, I really see the lambs from my caves tied up there with twisted osiers, cheese-presses scattered about, and old Silenus with his bald pate all swollen with blows.",
+          "lineStart": 302
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 312
+        },
+        {
+          "type": "para",
+          "text": "Oh! oh! poor wretch that I am, pounded to a fever.",
+          "lineStart": 313
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 314
+        },
+        {
+          "type": "para",
+          "text": "By whom? who has been pounding thy head, old sirrah?",
+          "lineStart": 315
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 316
+        },
+        {
+          "type": "para",
+          "text": "These are the culprits, Cyclops, all because I refused to let them plunder thee.",
+          "lineStart": 317
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 319
+        },
+        {
+          "type": "para",
+          "text": "Did they not know I was a god and sprung from gods?",
+          "lineStart": 320
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 321
+        },
+        {
+          "type": "para",
+          "text": "That was what I told them, but they persisted in plundering thy goods, and, in spite of my efforts, they actually began to eat the cheese and carry off the lambs; and they said they would tie thee in a three-cubit pillory and tear out thy bowels by force at thy navel, and flay thy back thoroughly with the scourge; and then, after binding thee, fling thy carcase down among the benches of their ship to sell to someone for heaving up stones, or else throw thee into a mill.",
+          "lineStart": 322
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 329
+        },
+        {
+          "type": "para",
+          "text": "Oh, indeed! Be off then and sharpen my cleavers at once; heap high the faggots and light them; for they shall be slain forthwith and fill this maw of mine, what time I pick my feast hot from the coals, waiting not for carvers, and fish up the rest from the cauldron boiled and sodden; for I have had my fill of mountain-fare and sated myself with banquets of lions and stags, but 'tis long I have been without human flesh.",
+          "lineStart": 330
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 336
+        },
+        {
+          "type": "para",
+          "text": "Truly, master, a change like this is all the sweeter after everyday fare; for just of late there have been no fresh arrivals of strangers at these caves.",
+          "lineStart": 337
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 340
+        },
+        {
+          "type": "para",
+          "text": "Hear the strangers too in turn, Cyclops. We had come near the cave from our ship, wishing to procure provisions by purchase, when this fellow sold us the lambs and handed them over for a stoup of wine to drink himself, a voluntary act on both sides, there was no violence employed at all. No, there is not a particle of truth in the story he tells; now that he has been caught selling thy property behind thy back.",
+          "lineStart": 341
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 347
+        },
+        {
+          "type": "para",
+          "text": "I? Perdition catch thee!",
+          "lineStart": 348
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 349
+        },
+        {
+          "type": "para",
+          "text": "If I am lying, yes.",
+          "lineStart": 350
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 351
+        },
+        {
+          "type": "para",
+          "text": "in agitation O Cyclops, by thy sire Poseidon, by mighty Triton and Nereus, by Calypso and the daughters of Nereus, by the sacred billows and all the race of fishes! I swear to thee, most noble sir, dear little Cyclops, master mine, it is not I who sell thy goods to strangers, else may these children, dearly as I love them, come to an evil end.",
+          "lineStart": 352
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 358
+        },
+        {
+          "type": "para",
+          "text": "Keep that for thyself; with my own eyes I saw thee sell the goods to the strangers; and if I lie, perdition catch my sire! but injure not the strangers.",
+          "lineStart": 359
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 362
+        },
+        {
+          "type": "para",
+          "text": "Ye lie; for my part I put more faith in him than Rhadamanthus, declaring him more just. But I have some questions to ask. Whence sailed ye, strangers? of what country are you? what city was it nursed your childhood?",
+          "lineStart": 363
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 366
+        },
+        {
+          "type": "para",
+          "text": "We are Ithacans by birth, and have been driven from our course by the winds of the sea on our way from Ilium, after sacking its citadel.",
+          "lineStart": 367
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 369
+        },
+        {
+          "type": "para",
+          "text": "Are ye the men who visited on Ilium, that bordereth on Scamander's wave, the rape of Helen, worst of women?",
+          "lineStart": 370
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 372
+        },
+        {
+          "type": "para",
+          "text": "We are; that was the fearful labour we endured.",
+          "lineStart": 373
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 374
+        },
+        {
+          "type": "para",
+          "text": "A sorry expedition yours, to have sailed to the land of Phrygia for the sake of one woman",
+          "lineStart": 375
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 377
+        },
+        {
+          "type": "para",
+          "text": "It was a god's doing; blame not any son of man. But thee do we implore, most noble son of Ocean's god, speaking as free-born men; be not so cruel as to slay thy friends on their coming to thy cave, nor regard us as food for thy jaws, an impious meal; for we preserved thy sire, O king, in possession of his temple-seats deep in the nooks of Hellas; and the sacred port of Taenarus and Malea's furthest coves remain unharmed; and Sunium's rock, the silver-veined, sacred to Zeus-born Athena, still is safe, and Geraestus, the harbour of refuge; and we did not permit Phrygians to put such an intolerable reproach on Hellas. Now in these things thou too hast a share, for thou dwellest in a corner of the land of Hellas beneath Aetna's fire-streaming rock; and although thou turn from arguments, still it is a custom amongst mortal men to receive shipwrecked sailors as their suppliants and show them hospitality and help them with raiment; not that these should fill thy jaws and belly, their limbs transfixed with spits for piercing ox-flesh. The land of Priam hath emptied Hellas quite enough, drinking the blood of many whom the spear laid low, with the ruin it has brought on widowed wives, on aged childless dames, and hoary-headed sires; and if thou roast and consume the remnant,-a meal thou wilt rue,-why, where shall one turn? Nay, be persuaded by me, Cyclops; forego thy ravenous greed and choose piety rather than wickedness; for on many a man ere now unrighteous gains have brought down retribution.",
+          "lineStart": 378
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 399
+        },
+        {
+          "type": "para",
+          "text": "I will give thee a word of advice! as for his flesh, leave not a morsel of it, and if thou eat his tongue, Cyclops, thou wilt become a monstrous clever talker.",
+          "lineStart": 400
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 403
+        },
+        {
+          "type": "para",
+          "text": "Wealth, manikin, is the god for the wise; all else is mere vaunting and fine words. Plague take the headlands by the sea, on which my father seats himself! Why hast thou put forward these arguments? I shudder not at Zeus's thunder, nor know I wherein Zeus is a mightier god than I, stranger; what is more, I reck not of him; my reasons hear. When he pours down the rain from above, here in this rock in quarters snug, feasting on roast calf's flesh or some wild game and moistening well my up-turned paunch with deep draughts from a tub of milk, I rival the thunder-claps of Zeus with my artillery; and when the north wind blows from Thrace and sheddeth snow, I wrap my carcase in the hides of beasts and light a fire, and what care I for snow? The earth perforce, whether she like it or not, produces grass and fattens my flocks, which I sacrifice to no one save myself and this belly, the greatest of deities; but to the gods, not I! For surely to eat and drink one's fill from day to day and give oneself no grief at all, this is the king of gods for your wise man, but lawgivers go hang, chequering, as they do, the life of man! And so I will not cease from indulging myself by devouring thee; and thou shalt receive this stranger's gift, that I may be free of blame,-fire and my father's element yonder, and a cauldron to hold thy flesh and boil it nicely in collops. So in with you, that ye may feast me well, standing round the altar to honour the cavern's god. The CYCLOPS goes into his cave, driving ODYSSEUS' men before him.",
+          "lineStart": 404
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 427
+        },
+        {
+          "type": "para",
+          "text": "Alas! escaped from the troubles of Troy and the sea, my barque now strands upon the whim and forbidding heart of this savage. O Pallas, mistress mine, goddess-daughter of Zeus, help me, help me now; for I am come to toils and depths of peril worse than all at Ilium; and thou, O Zeus, the stranger's god, who hast thy dwelling 'mid the radiant stars, behold these things; for, if thou regard them not, in vain art thou esteemed the great god Zeus, though but a thing of naught. He follows the CYCLOPS reluctantly. SILENUS also goes in.",
+          "lineStart": 428
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 437
+        },
+        {
+          "type": "para",
+          "text": "singing Ope wide the portal of thy gaping throat, Cyclops; for strangers' limbs, both boiled and grilled, are ready from off the coals for the to gnaw and tear and mince up small, reclining in thy shaggy goat-skin coat.",
+          "lineStart": 438
+        },
+        {
+          "type": "para",
+          "text": "Relinquish not thy meal for me; keep that boat for thyself alone. Avaunt this cave! avaunt the burnt-offerings, which the godless Cyclops offers on Aetna's altars, exulting in meals on strangers' flesh!",
+          "lineStart": 443
+        },
+        {
+          "type": "para",
+          "text": "Oh! the ruthless monster! to sacrifice his guests at his own hearth, the suppliants of his halls, cleaving and tearing and serving up to his loathsome teeth a feast of human flesh, hot from the coals.",
+          "lineStart": 447
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 450
+        },
+        {
+          "type": "para",
+          "text": "reappearing with a look of horror O Zeus! what can I say after the hideous sights I have seen inside the cave, things past belief, resembling more the tales men tell than aught they do?",
+          "lineStart": 451
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 455
+        },
+        {
+          "type": "para",
+          "text": "What news, Odysseus? has the Cyclops, most godless monster, been feasting on thy dear comrades?",
+          "lineStart": 456
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 458
+        },
+        {
+          "type": "para",
+          "text": "Aye, he singled out a pair, on whom the flesh was fattest and in best condition, and took them up in his hand to weigh.",
+          "lineStart": 459
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 461
+        },
+        {
+          "type": "para",
+          "text": "How went it with you then, poor wretch?",
+          "lineStart": 462
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 463
+        },
+        {
+          "type": "para",
+          "text": "When we had entered yonder rocky abode, he lighted first a fire, throwing logs of towering oak upon his spacious hearth, enough for three wagons to carry as their load; next, close by the blazing flame, he placed his couch of pine-boughs laid upon the floor, and filled a bowl of some ten firkins, pouring white milk thereinto, after he had milked his kine; and by his side he put a can of ivy-wood, whose breadth was three cubits and its depth four maybe; next he set his brazen pot a-boiling on the fire, spits too he set beside him, fashioned of the branches of thorn, their points hardened in the fire and the rest of them trimmed with the hatchet, and the blood-bowls of Aetna for the axe's edge. Now when that hell-cook, god-detested, had everything quite ready, he caught up a pair of my companions and proceeded deliberately to cut the throat of one of them over the yawning brazen pot; but the other he clutched by the tendon of his heel, and, striking him against a sharp point of rocky stone, dashed out his brains; then, after hacking the fleshy parts with glutton cleaver, he set to grilling them, but the limbs he threw into his cauldron to seethe. And I, poor wretch, drew near with streaming eyes and waited on the Cyclops; but the others kept cowering like frightened birds in crannies of the rock, and the blood forsook their skin. Anon, when he had gorged himself upon my comrades' flesh and had fallen on his back, breathing heavily, there came a sudden inspiration to me. I filled a cup of this Maronian wine and offered him a draught, saying, \"Cyclops, son of Ocean's god, see here what heavenly drink the grapes of Hellas yield, glad gift of Dionysus.\" He, glutted with his shameless meal, took and drained it at one draught, and, lifting up his hand, he thanked me thus \"Dearest to me of all my guests! fair the drink thou givest me to crown so fair a feast.\" Now when I saw his delight, I gave him another cup, knowing the wine would make him rue it, and he would soon be paying the penalty. Then he set to singing; but I kept filling bumper after bumper and heating him with drink. So there he is singing discordantly amid the weeping of my fellow-sailors, and the cave re-echoes; but I have made my way out quietly and would fain save thee and myself, if thou wilt. Tell me then, is it your wish, or is it not, to fly from this unsocial wretch and take up your abode with Naiad nymphs in the halls of the Bacchic god? Thy father within approves this scheme; but there! he is powerless, getting all he can out of his liquor; his wings are snared by the cup as if he had flown against bird-lime, and he is fuddled; but thou art young and lusty; so save thyself with my help and regain thy old friend Dionysus, so little like the Cyclops.",
+          "lineStart": 464
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 502
+        },
+        {
+          "type": "para",
+          "text": "Best of friends, would we might see that day, escaping the godless Cyclops!",
+          "lineStart": 503
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 505
+        },
+        {
+          "type": "para",
+          "text": "Hear then how I will requite this vile monster and rescue you from thraldom.",
+          "lineStart": 506
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 508
+        },
+        {
+          "type": "para",
+          "text": "Tell me how; no note of Asiatic lyre would sound more sweetly in our ears than news of the Cyclops' death.",
+          "lineStart": 509
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 511
+        },
+        {
+          "type": "para",
+          "text": "Delighted with this liquor of the Bacchic god, he fain would go a-reveling with his brethren.",
+          "lineStart": 512
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 514
+        },
+        {
+          "type": "para",
+          "text": "I understand; thy purpose is to seize and slay him in the thickets when clone, or push him down a precipice.",
+          "lineStart": 515
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 517
+        },
+        {
+          "type": "para",
+          "text": "Not at all; my plan is fraught with subtlety.",
+          "lineStart": 518
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 519
+        },
+        {
+          "type": "para",
+          "text": "What then? Truly we have long heard of thy cleverness.",
+          "lineStart": 520
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 521
+        },
+        {
+          "type": "para",
+          "text": "I mean to keep him from this revel, saying he must not give this drink to his brethren but keep it for himself alone and lead a happy life. Then when he falls asleep, o'ermastered by the Bacchic god, I will put a point with this sword of mine to an olive-branch I saw lying in the cave, and will set it on fire; and when I see it well alight, I will lift the heated brand, and, thrusting it full in the Cyclops' eye, melt out his sight with its blaze; and, as when a man in fitting the timbers of a ship makes his auger spin to and fro with a double strap, so will I make the brand revolve in the eye, that gives the Cyclops light and will scorch up the pupil thereof.",
+          "lineStart": 522
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 532
+        },
+        {
+          "type": "para",
+          "text": "Ho! ho! how glad I feel! wild with joy at the contrivance!",
+          "lineStart": 533
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 534
+        },
+        {
+          "type": "para",
+          "text": "That done, I will embark thee and those thou lovest with old Silenus in the deep hold of my black ship, my ship with double banks of oars, and carry you away from this land.",
+          "lineStart": 535
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 538
+        },
+        {
+          "type": "para",
+          "text": "Well, can I too lay hold of the blinding brand, as though the god's libation had been poured? for I would fain have a share in this offering of blood.",
+          "lineStart": 539
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 542
+        },
+        {
+          "type": "para",
+          "text": "Indeed thou must, for the brand is large, and thou must help hold it.",
+          "lineStart": 543
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 545
+        },
+        {
+          "type": "para",
+          "text": "How lightly would I lift the load of e'en a hundred wains, if that will help us to grub out the eye of the doomed Cyclops, like a wasp's nest.",
+          "lineStart": 546
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 549
+        },
+        {
+          "type": "para",
+          "text": "Hush! for now thou knowest my plot in full, and when I bid you, obey the author of it; for I am not the man to desert my friends inside the cave and save myself alone. And yet I might escape; I am clear of the cavern's depths already; but no! to desert the friends with whom I journeyed hither and only save myself is not a righteous course. He re-enters the cave.",
+          "lineStart": 550
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST SEMI-CHORUS",
+          "lineStart": 556
+        },
+        {
+          "type": "para",
+          "text": "singing Come, who will be the first and who the next to him upon the list to grip the handle of the brand, and, thrusting it into the Cyclops' eye, gouge out the light thereof?",
+          "lineStart": 557
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND SEMI-CHORUS",
+          "lineStart": 561
+        },
+        {
+          "type": "para",
+          "text": "singing Hush! hush! Behold the drunkard leaves his rocky home, trolling loud some hideous lay, a clumsy tuneless clown, whom tears await. Come, let us give this boor a lesson in revelry. Ere long will he be blind at any rate.",
+          "lineStart": 562
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST SEMI-CHORUS",
+          "lineStart": 566
+        },
+        {
+          "type": "para",
+          "text": "singing Happy he who plays the Bacchanal amid the precious streams distilled from grapes, stretched at full length for a revel, his arm around the friend he loves, and some fair dainty damsel on his couch, his hair perfumed with nard and glossy, the while he calls, \"Oh! who will ope the door for me?\" The CYCLOPS enters. He is obviously drunk.",
+          "lineStart": 567
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 573
+        },
+        {
+          "type": "para",
+          "text": "singing Ha! ha! full of wine and merry with a feast's good cheer am I, my hold freighted like a merchant-ship up to my belly's very top. This turf graciously invites me to seek my brother Cyclopes for revel in the spring-tide. Come, stranger, bring the wine-skin hither and hand it over to me.",
+          "lineStart": 574
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND SEMI-CHORUS",
+          "lineStart": 579
+        },
+        {
+          "type": "para",
+          "text": "singing Forth from the house its fair lord comes, casting his fair glance round him. We have someone to befriend us. A hostile brand is awaiting thee, no tender bride in dewy grot. No single colour will those garlands have, that soon shall cling so close about thy brow.",
+          "lineStart": 580
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 585
+        },
+        {
+          "type": "para",
+          "text": "returning with the wine-skin. He is followed by SILENUS, who is also drunk. Hearken, Cyclops; for I am well versed in the ways of Bacchus, whom I have given thee to drink.",
+          "lineStart": 586
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 590
+        },
+        {
+          "type": "para",
+          "text": "And who is Bacchus? some reputed god?",
+          "lineStart": 591
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 592
+        },
+        {
+          "type": "para",
+          "text": "The greatest god men know to cheer their life.",
+          "lineStart": 593
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 594
+        },
+        {
+          "type": "para",
+          "text": "I like his after-taste at any rate.",
+          "lineStart": 595
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 596
+        },
+        {
+          "type": "para",
+          "text": "This is the kind of god he is; he harmeth no man.",
+          "lineStart": 597
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 598
+        },
+        {
+          "type": "para",
+          "text": "But how does a god like being housed in a wine-skin?",
+          "lineStart": 599
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 600
+        },
+        {
+          "type": "para",
+          "text": "Put him where one may, he is content there.",
+          "lineStart": 601
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 602
+        },
+        {
+          "type": "para",
+          "text": "It is not right that gods should be clad in leather.",
+          "lineStart": 603
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 604
+        },
+        {
+          "type": "para",
+          "text": "What of that, provided he please thee? does the leather hurt thee?",
+          "lineStart": 605
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 607
+        },
+        {
+          "type": "para",
+          "text": "I hate the wine-skin, but the liquor we have here I love.",
+          "lineStart": 608
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 609
+        },
+        {
+          "type": "para",
+          "text": "Stay, then, Cyclops; drink and be merry.",
+          "lineStart": 610
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 611
+        },
+        {
+          "type": "para",
+          "text": "Must I not give my brethren a share in this liquor?",
+          "lineStart": 612
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 613
+        },
+        {
+          "type": "para",
+          "text": "No, keep it thyself and thou wilt appear of more honour.",
+          "lineStart": 614
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 615
+        },
+        {
+          "type": "para",
+          "text": "Give it my friends and I shall appear of more use.",
+          "lineStart": 616
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 617
+        },
+        {
+          "type": "para",
+          "text": "Revelling is apt to end in blows, abuse, and strife.",
+          "lineStart": 618
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 619
+        },
+        {
+          "type": "para",
+          "text": "I may be drunk, but no man will lay hands on me for all that.",
+          "lineStart": 620
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 621
+        },
+        {
+          "type": "para",
+          "text": "Better stay at home, my friend, after a carouse.",
+          "lineStart": 622
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 623
+        },
+        {
+          "type": "para",
+          "text": "Who loves not revelling then is but a simpleton.",
+          "lineStart": 624
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 625
+        },
+        {
+          "type": "para",
+          "text": "But whoso stays at home, when drunk, is wise.",
+          "lineStart": 626
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 627
+        },
+        {
+          "type": "para",
+          "text": "What shall we do, Silenus? art minded to stay?",
+          "lineStart": 628
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 629
+        },
+        {
+          "type": "para",
+          "text": "That I am; for what need have we of others to share our drink, Cyclops?",
+          "lineStart": 630
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 632
+        },
+        {
+          "type": "para",
+          "text": "Well, truly the turf is soft as down with its fresh flowering plants.",
+          "lineStart": 633
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 635
+        },
+        {
+          "type": "para",
+          "text": "seating himself Aye, and 'tis pleasant drinking in the warm sunshine. Come, let me see thee stretch thy carcase on the ground.",
+          "lineStart": 636
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 639
+        },
+        {
+          "type": "para",
+          "text": "sitting down There then Why art thou putting the mixing-bowl behind me?",
+          "lineStart": 640
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 642
+        },
+        {
+          "type": "para",
+          "text": "That no one passing by may upset it.",
+          "lineStart": 643
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 644
+        },
+        {
+          "type": "para",
+          "text": "Nay, but thy purpose is to drink upon the sly; set it between us. To ODYSSEUS Now tell me, stranger, by what name to call thee. SILENUS is drinking steadily and stealthily.",
+          "lineStart": 645
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 650
+        },
+        {
+          "type": "para",
+          "text": "Noman. What boon shall I receive of thee to earn my thanks?",
+          "lineStart": 651
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 652
+        },
+        {
+          "type": "para",
+          "text": "I will feast on thee last, after all thy comrades.",
+          "lineStart": 653
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 654
+        },
+        {
+          "type": "para",
+          "text": "Fair indeed the honour thou bestowest on thy guest, sir Cyclops!",
+          "lineStart": 655
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 656
+        },
+        {
+          "type": "para",
+          "text": "turning suddenly to SILENUS Ho, sirrah! what art thou about? taking a stealthy pull at the wine?",
+          "lineStart": 657
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 659
+        },
+        {
+          "type": "para",
+          "text": "No, but it kissed me for my good looks.",
+          "lineStart": 660
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 661
+        },
+        {
+          "type": "para",
+          "text": "Thou shalt smart, if thou kiss the wine when it kisses not thee.",
+          "lineStart": 662
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 664
+        },
+        {
+          "type": "para",
+          "text": "Oh! but it did, for it says it is in love with my handsome face.",
+          "lineStart": 665
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 667
+        },
+        {
+          "type": "para",
+          "text": "holding out his cup Pour in; only give me my cup full.",
+          "lineStart": 668
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 670
+        },
+        {
+          "type": "para",
+          "text": "H'm! how is it mixed? just let me make sure. Takes another pull.",
+          "lineStart": 671
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 673
+        },
+        {
+          "type": "para",
+          "text": "Perdition! give it me at once.",
+          "lineStart": 674
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 675
+        },
+        {
+          "type": "para",
+          "text": "Oh, no! I really cannot, till I see thee with a crown on, and have another taste myself.",
+          "lineStart": 676
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 678
+        },
+        {
+          "type": "para",
+          "text": "My cup-bearer is a cheat.",
+          "lineStart": 679
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 680
+        },
+        {
+          "type": "para",
+          "text": "No really, but the wine is so luscious. Thou must wipe thy lips, though, to get a draught.",
+          "lineStart": 681
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 683
+        },
+        {
+          "type": "para",
+          "text": "There! my lips and beard are clean now.",
+          "lineStart": 684
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 685
+        },
+        {
+          "type": "para",
+          "text": "Bend thine elbow gracefully, and then quaff thy cup, as thou seest me do, and as now thou seest me not. Burying his face in his cup",
+          "lineStart": 686
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 689
+        },
+        {
+          "type": "para",
+          "text": "Aha! what next?",
+          "lineStart": 690
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 691
+        },
+        {
+          "type": "para",
+          "text": "I drunk it off at a draught with much pleasure.",
+          "lineStart": 692
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 693
+        },
+        {
+          "type": "para",
+          "text": "Stranger, take the skin thyself and be my cup-bearer.",
+          "lineStart": 694
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 695
+        },
+        {
+          "type": "para",
+          "text": "Well, at any rate the grape is no stranger to my hand.",
+          "lineStart": 696
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 697
+        },
+        {
+          "type": "para",
+          "text": "Come, pour it in.",
+          "lineStart": 698
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 699
+        },
+        {
+          "type": "para",
+          "text": "In it goes! keep silence, that is all.",
+          "lineStart": 700
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 701
+        },
+        {
+          "type": "para",
+          "text": "A difficult task when a man is deep in his cups.",
+          "lineStart": 702
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 703
+        },
+        {
+          "type": "para",
+          "text": "Here, take and drink it off; leave none. Thou must be silent and only give in when the liquor does.",
+          "lineStart": 704
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 706
+        },
+        {
+          "type": "para",
+          "text": "God wot! it is a clever stock that bears the grape.",
+          "lineStart": 707
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 708
+        },
+        {
+          "type": "para",
+          "text": "Aye, and if thou but swallow plenty of it after a plentiful meal, moistening thy belly till its thirst is gone, it will throw thee into slumber; but if thou leave aught behind, the Bacchic god will parch thee for it.",
+          "lineStart": 709
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 713
+        },
+        {
+          "type": "para",
+          "text": "Ha! ha! what a trouble it was getting out! This is pleasure unalloyed; earth and sky seem whirling round together; I see the throne of Zeus and all the godhead's majesty. Kiss thee! no! There are the Graces trying to tempt me. I shall rest well enough with my Ganymede here; yea, by the Graces, right fairly; for I like lads better than the wenches.",
+          "lineStart": 714
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 719
+        },
+        {
+          "type": "para",
+          "text": "What! Cyclops, am I Ganymede, Zeus's minion?",
+          "lineStart": 720
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 721
+        },
+        {
+          "type": "para",
+          "text": "attempting to carry him into the cave To be sure, Ganymede whom I am carrying off from the halls of Dardanus.",
+          "lineStart": 722
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 724
+        },
+        {
+          "type": "para",
+          "text": "I am undone, my children; outrageous treatment waits me.",
+          "lineStart": 725
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 726
+        },
+        {
+          "type": "para",
+          "text": "Dost find fault with thy lover? dost scorn him in his cups?",
+          "lineStart": 727
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SILENUS",
+          "lineStart": 728
+        },
+        {
+          "type": "para",
+          "text": "Woe is me! most bitter shall I find the wine ere long. SILENUS is dragged into the cave by the CYCLOPS.",
+          "lineStart": 729
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 731
+        },
+        {
+          "type": "para",
+          "text": "Up now, children of Dionysus, sons of a noble sire, soon will yon creature in the cave, relaxed in slumber as ye see him, spew from his shameless maw the meat. Already the brand inside his lair is vomiting cloud of smoke; and the only reason we prepared it was to burn the Cyclops' eye; so mind thou quit thee like a man.",
+          "lineStart": 732
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 737
+        },
+        {
+          "type": "para",
+          "text": "I will have a spirit as of rock or adamant; but go inside, before my father suffers any shameful treatment; for here thou hast things ready.",
+          "lineStart": 738
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 741
+        },
+        {
+          "type": "para",
+          "text": "O Hephaestus, lord of Aetna, rid thyself for once and all of a troublesome neighbour by burning his bright eye out. Come, Sleep, as well, offspring of sable Night, come with all thy power on the monster god-detested; and never after Troy's most glorious toils destroy Odysseus and his crew by the hands of one who recketh naught of God or man; else roust we reckon Chance a goddess, and Heaven's will inferior to hers. ODYSSEUS re-enters the cave.",
+          "lineStart": 742
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 749
+        },
+        {
+          "type": "para",
+          "text": "singing Tightly the pincers shall grip the neck of him who feasts upon his guests; for soon will he lose the light of his eye by fire; already the brand, a tree's huge limb, lurks amid the embers charred. Oh! come ye then and work his doom, pluck out the maddened Cyclops' eye, that he may rue his drinking. And I too fain would leave the Cyclops' lonely land and see king Bromius, ivy-crowned, the god I sorely miss. Ah! shall I ever come to that?",
+          "lineStart": 750
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 757
+        },
+        {
+          "type": "para",
+          "text": "leaving the cave cautiously Silence, ye cattle! I adjure you; close your lips; make not a sound I'll not let a man of you so much as breathe or wink or clear his throat, that yon pest awake not, until the sight in the Cyclops' eye has passed through the fiery ordeal.",
+          "lineStart": 758
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 763
+        },
+        {
+          "type": "para",
+          "text": "Silent we stand with bated breath.",
+          "lineStart": 764
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 765
+        },
+        {
+          "type": "para",
+          "text": "In then, and mind your fingers grip the brand, for it is splendidly red-hot.",
+          "lineStart": 766
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 768
+        },
+        {
+          "type": "para",
+          "text": "Thyself ordain who first must seize the blazing bar and burn the Cyclops' eye out, that we may share alike whate'er betides.",
+          "lineStart": 769
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST SEMI-CHORUS",
+          "lineStart": 771
+        },
+        {
+          "type": "para",
+          "text": "Standing where I am before the door, I am too far off to thrust the fire into his eye.",
+          "lineStart": 772
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND SEMI-CHORUS",
+          "lineStart": 774
+        },
+        {
+          "type": "para",
+          "text": "I have just gone lame.",
+          "lineStart": 775
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST SEMI-CHORUS",
+          "lineStart": 776
+        },
+        {
+          "type": "para",
+          "text": "Why, then, thou art in the same plight as I; for somehow or other I sprained my ankle, standing still.",
+          "lineStart": 777
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 779
+        },
+        {
+          "type": "para",
+          "text": "Sprained thy ankle, standing still?",
+          "lineStart": 780
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND SEMI-CHORUS",
+          "lineStart": 781
+        },
+        {
+          "type": "para",
+          "text": "Yes, and my eyes are full of dust or ashes from somewhere or other.",
+          "lineStart": 782
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 784
+        },
+        {
+          "type": "para",
+          "text": "These are sorry fellows, worthless as allies.",
+          "lineStart": 785
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 786
+        },
+        {
+          "type": "para",
+          "text": "Because I feel for my back and spine, and express no wish to have my teeth knocked out, I am a coward, am I? Well, but I know a spell of Orpheus, a most excellent one, to make the brand enter his skull of its own accord, and set alight the one-eyed son of Earth.",
+          "lineStart": 787
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 791
+        },
+        {
+          "type": "para",
+          "text": "Long since I knew thou wert by nature such an one, and now I know it better; I must employ my own friends; but, though thou bring no active aid, cheer us on at any rate, that I may find my friends emboldened by thy encouragement. ODYSSEUS goes back into the cave.",
+          "lineStart": 792
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 797
+        },
+        {
+          "type": "para",
+          "text": "That will I do; the Carian shall run the risk for us; and as far as encouragement goes, let the Cyclops smoulder.",
+          "lineStart": 798
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 800
+        },
+        {
+          "type": "para",
+          "text": "singing What ho! my gallants, thrust away, make haste and burn his eyebrow off, the monster's guest-devouring. Oh! singe and scorch the shepherd of Aetna; twirl the brand and drag it round and be careful lest in his agony he treat thee to some wantonness.",
+          "lineStart": 801
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 806
+        },
+        {
+          "type": "para",
+          "text": "bellowing in the cave Oh! oh! my once bright eye is burnt to cinders now.",
+          "lineStart": 807
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 809
+        },
+        {
+          "type": "para",
+          "text": "Sweet indeed the triumph-song; pray sing it to us, Cyclops.",
+          "lineStart": 810
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 811
+        },
+        {
+          "type": "para",
+          "text": "from within Oh! oh! once more; what outrage on me and what ruin! But never shall ye escape this rocky cave unpunished, ye worthless creatures; for will stand in the entrance of the cleft and fit my hands into it thus. Staggering to the entrance",
+          "lineStart": 812
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 818
+        },
+        {
+          "type": "para",
+          "text": "Why dost thou cry out, Cyclops?",
+          "lineStart": 819
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 820
+        },
+        {
+          "type": "para",
+          "text": "I am undone.",
+          "lineStart": 821
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 822
+        },
+        {
+          "type": "para",
+          "text": "Thou art indeed a sorry sight.",
+          "lineStart": 823
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 824
+        },
+        {
+          "type": "para",
+          "text": "Aye, and a sad one, too.",
+          "lineStart": 825
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 826
+        },
+        {
+          "type": "para",
+          "text": "Didst fall among the coals in a drunken fit?",
+          "lineStart": 827
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 828
+        },
+        {
+          "type": "para",
+          "text": "Noman has undone me,",
+          "lineStart": 829
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 830
+        },
+        {
+          "type": "para",
+          "text": "Then there is no one hurting thee after all.",
+          "lineStart": 831
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 832
+        },
+        {
+          "type": "para",
+          "text": "Noman is blinding me.",
+          "lineStart": 833
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 834
+        },
+        {
+          "type": "para",
+          "text": "Then art thou not blind.",
+          "lineStart": 835
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 836
+        },
+        {
+          "type": "para",
+          "text": "As blind as thou, forsooth.",
+          "lineStart": 837
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 838
+        },
+        {
+          "type": "para",
+          "text": "How, pray, could no man have made thee blind?",
+          "lineStart": 839
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 840
+        },
+        {
+          "type": "para",
+          "text": "Thou mockest me; but where is this Noman?",
+          "lineStart": 841
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 842
+        },
+        {
+          "type": "para",
+          "text": "Nowhere, Cyclops.",
+          "lineStart": 843
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 844
+        },
+        {
+          "type": "para",
+          "text": "It was the stranger, vile wretch! who proved my ruin, that thou mayst understand rightly, by swilling me with the liquor he gave me.",
+          "lineStart": 845
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 847
+        },
+        {
+          "type": "para",
+          "text": "Ah! wine is a terrible foe, hard to wrestle with.",
+          "lineStart": 848
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 849
+        },
+        {
+          "type": "para",
+          "text": "Tell me, I adjure thee, have they escaped or are they still within? During the following lines, ODYSSEUS and his men slip by the CYCLOPS, despite his efforts to stop them.",
+          "lineStart": 850
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 854
+        },
+        {
+          "type": "para",
+          "text": "Here they are ranged in silence, taking the rock to screen them.",
+          "lineStart": 855
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 857
+        },
+        {
+          "type": "para",
+          "text": "On which side?",
+          "lineStart": 858
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 859
+        },
+        {
+          "type": "para",
+          "text": "On thy right.",
+          "lineStart": 860
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 861
+        },
+        {
+          "type": "para",
+          "text": "Where?",
+          "lineStart": 862
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 863
+        },
+        {
+          "type": "para",
+          "text": "Close against the rock. Hast caught them?",
+          "lineStart": 864
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 865
+        },
+        {
+          "type": "para",
+          "text": "Trouble on trouble! I have run my skull against the rock and cracked it",
+          "lineStart": 866
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 868
+        },
+        {
+          "type": "para",
+          "text": "Aye, and they are escaping thee.",
+          "lineStart": 869
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 870
+        },
+        {
+          "type": "para",
+          "text": "This way, was it not? 'Twas this way thou saidst.",
+          "lineStart": 871
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 872
+        },
+        {
+          "type": "para",
+          "text": "No, not this way.",
+          "lineStart": 873
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 874
+        },
+        {
+          "type": "para",
+          "text": "Which then?",
+          "lineStart": 875
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 876
+        },
+        {
+          "type": "para",
+          "text": "They are getting round thee on the left.",
+          "lineStart": 877
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 878
+        },
+        {
+          "type": "para",
+          "text": "Alas! I am being mocked; ye jeer me in my evil plight.",
+          "lineStart": 879
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 880
+        },
+        {
+          "type": "para",
+          "text": "They are no longer there; but facing thee that stranger stands.",
+          "lineStart": 881
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 882
+        },
+        {
+          "type": "para",
+          "text": "Master of villainy, where, oh! where art thou?",
+          "lineStart": 883
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 884
+        },
+        {
+          "type": "para",
+          "text": "Some way from thee I am keeping careful guard over the person of Odysseus.",
+          "lineStart": 885
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 887
+        },
+        {
+          "type": "para",
+          "text": "What, a new name! hast changed thine?",
+          "lineStart": 888
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 889
+        },
+        {
+          "type": "para",
+          "text": "Yes, Odysseus, the name my father gave me. But thou wert doomed to pay for thy unholy feast; for I should have seen Troy burned to but sorry purpose, unless I had avenged on thee the slaughter of my comrades.",
+          "lineStart": 890
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 893
+        },
+        {
+          "type": "para",
+          "text": "Woe is me! 'tis an old oracle coming true; yes, it said I should have my eye put out by thee on thy way home from Troy; but it likewise foretold that thou wouldst surely pay for this, tossing on the sea for many day.",
+          "lineStart": 894
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 898
+        },
+        {
+          "type": "para",
+          "text": "Go hang! E'en as I say, so have I done. And now will I get me to the beach and start my hollow ship across the sea of Sicily to the land of my fathers.",
+          "lineStart": 899
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CYCLOPS",
+          "lineStart": 902
+        },
+        {
+          "type": "para",
+          "text": "Thou shalt not; I will break a boulder off this rock and crush thee, crew and all, beneath my throw. Blind though I be, I will climb the hill, mounting through yonder tunnel.",
+          "lineStart": 903
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 906
+        },
+        {
+          "type": "para",
+          "text": "As for us, henceforth will we be the servants of Bacchus, sharing the voyage of this hero Odysseus.",
+          "lineStart": 907
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 257,
+    "wordCount": 6907
+  }
+}

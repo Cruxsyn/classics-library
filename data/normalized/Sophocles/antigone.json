@@ -1,0 +1,3378 @@
+{
+  "id": "Sophocles/antigone",
+  "author": "Sophocles",
+  "authorKey": "Sophocles",
+  "title": "Antigone",
+  "translator": "R. C. Jebb",
+  "language": "Greek",
+  "written": "442 BCE",
+  "sourceNote": null,
+  "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "ambiguous: 0.456 long unterminated interior lines, median line length 58.0, 0.001 explicit breaks; defaulted to prose",
+  "textModeStats": {
+    "lineCount": 1364,
+    "paragraphCount": 46,
+    "interiorLineCount": 1318,
+    "medianLineLength": 58.0,
+    "meanLineLength": 46.27052785923754,
+    "longInteriorLineRatio": 0.5288315629742033,
+    "unterminatedInteriorLineRatio": 0.723823975720789,
+    "longUnterminatedInteriorLineRatio": 0.4559939301972686,
+    "explicitBreakLineRatio": 0.0007331378299120235,
+    "unmarkedLineRatio": 0.966275659824047
+  },
+  "landingUrl": "https://classics.mit.edu/Sophocles/antigone.html",
+  "textUrls": [
+    "https://classics.mit.edu/Sophocles/antigone.html"
+  ],
+  "txtUrl": "https://classics.mit.edu/Sophocles/antigone.pl.txt",
+  "sections": [
+    {
+      "seq": 1,
+      "id": "antigone-antigone",
+      "heading": "Antigone",
+      "partTitle": "Antigone",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Dramatis Personae",
+          "lineStart": 10
+        },
+        {
+          "type": "para",
+          "text": "daughters of Oedipus: ANTIGONE ISMENE CREON, King of Thebes EURYDICE, his wife HAEMON, his son TEIRESIAS, the blind prophet GUARD, set to watch the corpse of Polyneices FIRST MESSENGER SECOND MESSENGER, from the house CHORUS OF THEBAN ELDERS Scene The same as in Oedipus the King, an open space before the royal palace, once that of Oedipus, at Thebes. The backscene represents the front of the palace, with three doors, of which the central and largest is the principal entrance into the house. The time is at daybreak on the morning after the fall of the two brothers, Eteocles and Polyneices, and the flight of the defeated Argives. ANTIGONE calls ISMENE forth from the palace, in order to speak to her alone.",
+          "lineStart": 11
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 23
+        },
+        {
+          "type": "para",
+          "text": "Ismene, sister, mine own dear sister, knowest thou what ill there is, of all bequeathed by Oedipus, that Zeus fulfils not for us twain while we live? Nothing painful is there, nothing fraught with ruin, no shame, no dishonour, that I have not seen in thy woes and mine.",
+          "lineStart": 24
+        },
+        {
+          "type": "para",
+          "text": "And now what new edict is this of which they tell, that our Captain hath just published to all Thebes? Knowest thou aught? Hast thou heard? Or is it hidden from thee that our friends are threatened with the doom of our foes?",
+          "lineStart": 29
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 33
+        },
+        {
+          "type": "para",
+          "text": "No word of friends, Antigone, gladsome or painful, hath come to me, since we two sisters were bereft of brothers twain, killed in one day by twofold blow; and since in this last night the Argive host hath fled, know no more, whether my fortune be brighter, or more grievous.",
+          "lineStart": 34
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 38
+        },
+        {
+          "type": "para",
+          "text": "I knew it well, and therefore sought to bring thee beyond the gates of the court, that thou mightest hear alone.",
+          "lineStart": 39
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 41
+        },
+        {
+          "type": "para",
+          "text": "What is it? 'Tis plain that thou art brooding on some dark tidings.",
+          "lineStart": 42
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 44
+        },
+        {
+          "type": "para",
+          "text": "What, hath not Creon destined our brothers, the one to honoured burial, the other to unburied shame? Eteocles, they say, with due observance of right and custom, he hath laid in the earth, for his honour among the dead below. But the hapless corpse of Polyneices-as rumour saith, it hath been published to the town that none shall entomb him or mourn, but leave unwept, unsepulchred, a welcome store for the birds, as they espy him, to feast on at will.",
+          "lineStart": 45
+        },
+        {
+          "type": "para",
+          "text": "Such, 'tis said, is the edict that the good Creon hath set forth for thee and for me,-yes, for me,-and is coming hither to proclaim it clearly to those who know it not; nor counts the matter light, but, whoso disobeys in aught, his doom is death by stoning before all the folk. Thou knowest it now; and thou wilt soon show whether thou art nobly bred, or the base daughter of a noble line.",
+          "lineStart": 52
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 58
+        },
+        {
+          "type": "para",
+          "text": "Poor sister,-and if things stand thus, what could I help to do or undo?",
+          "lineStart": 59
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 61
+        },
+        {
+          "type": "para",
+          "text": "Consider if thou wilt share the toil and the deed.",
+          "lineStart": 62
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 63
+        },
+        {
+          "type": "para",
+          "text": "In what venture? What can be thy meaning?",
+          "lineStart": 64
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 65
+        },
+        {
+          "type": "para",
+          "text": "Wilt thou aid this hand to lift the dead?",
+          "lineStart": 66
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 67
+        },
+        {
+          "type": "para",
+          "text": "Thou wouldst bury him,-when 'tis forbidden to Thebes?",
+          "lineStart": 68
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 69
+        },
+        {
+          "type": "para",
+          "text": "I will do my part,-and thine, if thou wilt not,-to a brother. False to him will I never be found.",
+          "lineStart": 70
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 72
+        },
+        {
+          "type": "para",
+          "text": "Ah, over-bold! when Creon hath forbidden?",
+          "lineStart": 73
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 74
+        },
+        {
+          "type": "para",
+          "text": "Nay, he hath no right to keep me from mine own.",
+          "lineStart": 75
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 76
+        },
+        {
+          "type": "para",
+          "text": "Ah me! think, sister, how our father perished, amid hate and scorn, when sins bared by his own search had moved him to strike both eyes with self-blinding hand; then the mother wife, two names in one, with twisted noose did despite unto her life; and last, our two brothers in one day,-each shedding, hapless one, a kinsman's blood,-wrought out with mutual hands their common doom. And now we in turn-we two left all alone think how we shall perish, more miserably than all the rest, if, in defiance of the law, we brave a king's decree or his powers. Nay, we must remember, first, that we were born women, as who should not strive with men; next, that we are ruled of the stronger, so that we must obey in these things, and in things yet sorer. I, therefore, asking the Spirits Infernal to pardon, seeing that force is put on me herein, will hearken to our rulers. for 'tis witless to be over busy.",
+          "lineStart": 77
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 90
+        },
+        {
+          "type": "para",
+          "text": "I will not urge thee,-no nor, if thou yet shouldst have the mind, wouldst thou be welcome as a worker with me. Nay, be what thou wilt; but I will bury him: well for me to die in doing that. I shall rest, a loved one with him whom I have loved, sinless in my crime; for I owe a longer allegiance to the dead than to the living: in that world I shall abide for ever. But if thou wilt, be guilty of dishonouring laws which the gods have stablished in honour.",
+          "lineStart": 91
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 98
+        },
+        {
+          "type": "para",
+          "text": "I do them no dishonour; but to defy the State,-I have no strength for that.",
+          "lineStart": 99
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 101
+        },
+        {
+          "type": "para",
+          "text": "Such be thy plea:-I, then, will go to heap the earth above the brother whom I love.",
+          "lineStart": 102
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 104
+        },
+        {
+          "type": "para",
+          "text": "Alas, unhappy one! How I fear for thee!",
+          "lineStart": 105
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 106
+        },
+        {
+          "type": "para",
+          "text": "Fear not for me: guide thine own fate aright.",
+          "lineStart": 107
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE:",
+          "lineStart": 108
+        },
+        {
+          "type": "para",
+          "text": "At least, then, disclose this plan to none, but hide it closely,-and so, too, will I.",
+          "lineStart": 109
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 111
+        },
+        {
+          "type": "para",
+          "text": "Oh, denounce it! Thou wilt be far more hateful for thy silence, if thou proclaim not these things to all.",
+          "lineStart": 112
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 114
+        },
+        {
+          "type": "para",
+          "text": "Thou hast a hot heart for chilling deeds.",
+          "lineStart": 115
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 116
+        },
+        {
+          "type": "para",
+          "text": "I know that I please where I am most bound to please.",
+          "lineStart": 117
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 118
+        },
+        {
+          "type": "para",
+          "text": "Aye, if thou canst; but thou wouldst what thou canst not.",
+          "lineStart": 119
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 120
+        },
+        {
+          "type": "para",
+          "text": "Why, then, when my strength fails, I shall have done.",
+          "lineStart": 121
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 122
+        },
+        {
+          "type": "para",
+          "text": "A hopeless quest should not be made at all.",
+          "lineStart": 123
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 124
+        },
+        {
+          "type": "para",
+          "text": "If thus thou speakest, thou wilt have hatred from me, and will justly be subject to the lasting hatred of the dead. But leave me, and the folly that is mine alone, to suffer this dread thing; for I shall not suffer aught so dreadful as an ignoble death.",
+          "lineStart": 125
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 129
+        },
+        {
+          "type": "para",
+          "text": "Go, then, if thou must; and of this be sure,-that though thine errand is foolish, to thy dear ones thou art truly dear. Exit ANTIGONE on the spectators' left. ISMENE retires into the palace by one of the two side-doors. When they have departed, the CHORUS OF THEBAN ELDERS enters.",
+          "lineStart": 130
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 135
+        },
+        {
+          "type": "para",
+          "text": "singing strophe 1 Beam of the sun, fairest light that ever dawned on Thebe of the seven gates, thou hast shone forth at last, eye of golden day, arisen above Dirce's streams! The warrior of the white shield, who came from Argos in his panoply, hath been stirred by thee to headlong flight, in swifter career;",
+          "lineStart": 136
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 142
+        },
+        {
+          "type": "para",
+          "text": "systema 1 who set forth against our land by reason of the vexed claims of Polyneices; and, like shrill-screaming eagle, he flew over into our land, in snow-white pinion sheathed, with an armed throng, and with plumage of helms.",
+          "lineStart": 143
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 147
+        },
+        {
+          "type": "para",
+          "text": "antistrophe 1 He paused above our dwellings; he ravened around our sevenfold portals with spears athirst for blood; but he went hence, or ever his jaws were glutted with our gore, or the Fire-god's pine-fed flame had seized our crown of towers. So fierce was the noise of battle raised behind him, a thing too hard for him to conquer, as he wrestled with his dragon foe.",
+          "lineStart": 148
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 154
+        },
+        {
+          "type": "para",
+          "text": "systema 2 For Zeus utterly abhors the boasts of a proud tongue; and when he beheld them coming on in a great stream, in the haughty pride of clanging gold, he smote with brandished fire one who was now hasting to shout victory at his goal upon our ramparts.",
+          "lineStart": 155
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 160
+        },
+        {
+          "type": "para",
+          "text": "strophe 2 Swung down, he fell on the earth with a crash, torch in hand, he who so lately, in the frenzy of the mad onset, was raging against us with the blasts of his tempestuous hate. But those threats fared not as he hoped; and to other foes the mighty War-god dispensed their several dooms, dealing havoc around, a mighty helper at our need.",
+          "lineStart": 161
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 167
+        },
+        {
+          "type": "para",
+          "text": "systema 3 For seven captains at seven gates, matched against seven, left the tribute of their panoplies to Zeus who turns the battle; save those two of cruel fate, who, born of one sire and one mother, set against each other their twain conquering spears, and are sharers in a common death.",
+          "lineStart": 168
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 173
+        },
+        {
+          "type": "para",
+          "text": "antistrophe 2 But since Victory of glorious name hath come to us, with joy responsive to the joy of Thebe whose chariots are many, let us enjoy forgetfulness after the late wars, and visit all the temples of the gods with night-long dance and song; and may Bacchus be our leader, whose dancing shakes the land of Thebe.",
+          "lineStart": 174
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 180
+        },
+        {
+          "type": "para",
+          "text": "systema 4 But lo, the king of the land comes yonder, Creon, son of Menoeceus, our new ruler by the new fortunes that the gods have given; what counsel is he pondering, that he hath proposed this special conference of elders, summoned by his general mandate? Enter CREON, from the central doors of the palace, in the garb of king, with two attendants.",
+          "lineStart": 181
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 188
+        },
+        {
+          "type": "para",
+          "text": "Sirs, the vessel of our State, after being tossed on wild waves, hath once more been safely steadied by the gods: and ye, out of all the folk, have been called apart by my summons, because I knew, first of all, how true and constant was your reverence for the royal power of Laius; how, again, when Oedipus was ruler of our land, and when he had perished, your steadfast loyalty still upheld their children. Since, then, his sons have fallen in one day by a twofold doom,-each smitten by the other, each stained with a brother's blood,-I now possess the throne and all its powers, by nearness of kinship to the dead.",
+          "lineStart": 189
+        },
+        {
+          "type": "para",
+          "text": "No man can be fully known, in soul and spirit and mind, until he hath been seen versed in rule and law-giving. For if any, being supreme guide of the State, cleaves not to the best counsels, but, through some fear, keeps his lips locked, I hold, and have ever held, him most base; and if any makes a friend of more account than his fatherland, that man hath no place in my regard. For I-be Zeus my witness, who sees all things always-would not be silent if I saw ruin, instead of safety, coming to the citizens; nor would I ever deem the country's foe a friend to myself; remembering this, that our country is the ship that bears us safe, and that only while she prospers in our voyage can we make true friends.",
+          "lineStart": 198
+        },
+        {
+          "type": "para",
+          "text": "Such are the rules by which I guard this city's greatness. And in accord with them is the edict which I have now published to the folk touching the sons of Oedipus;-that Eteocles, who hath fallen fighting for our city, in all renown of arms, shall be entombed, and crowned with every rite that follows the noblest dead to their rest. But for his brother, Polyneices,-who came back from exile, and sought to consume utterly with fire the city of his fathers and the shrines of his fathers' gods,-sought to taste of kindred blood, and to lead the remnant into slavery;-touching this man, it hath been proclaimed to our people that none shall grace him with sepulture or lament, but leave him unburied, a corpse for birds and dogs to eat, a ghastly sight of shame.",
+          "lineStart": 209
+        },
+        {
+          "type": "para",
+          "text": "Such the spirit of my dealing; and never, by deed of mine, shall the wicked stand in honour before the just; but whoso hath good will to Thebes, he shall be honoured of me, in his life and in his death.",
+          "lineStart": 220
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 223
+        },
+        {
+          "type": "para",
+          "text": "Such is thy pleasure, Creon, son of Menoeceus, touching this city's foe, and its friend; and thou hast power, I ween, to take what order thou wilt, both for the dead, and for all us who live.",
+          "lineStart": 224
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 227
+        },
+        {
+          "type": "para",
+          "text": "See, then, that ye be guardians of the mandate.",
+          "lineStart": 228
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 229
+        },
+        {
+          "type": "para",
+          "text": "Lay the burden of this task on some younger man.",
+          "lineStart": 230
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 231
+        },
+        {
+          "type": "para",
+          "text": "Nay, watchers of the corpse have been found.",
+          "lineStart": 232
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 233
+        },
+        {
+          "type": "para",
+          "text": "What, then, is this further charge that thou wouldst give?",
+          "lineStart": 234
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 235
+        },
+        {
+          "type": "para",
+          "text": "That ye side not with the breakers of these commands.",
+          "lineStart": 236
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 237
+        },
+        {
+          "type": "para",
+          "text": "No man is so foolish that he is enamoured of death.",
+          "lineStart": 238
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 239
+        },
+        {
+          "type": "para",
+          "text": "In sooth, that is the meed; yet lucre hath oft ruined men through their hopes. A GUARD enters from the spectators' left.",
+          "lineStart": 240
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GUARD",
+          "lineStart": 243
+        },
+        {
+          "type": "para",
+          "text": "My liege, I will not say that I come breathless from speed, or that have plied a nimble foot; for often did my thoughts make me pause, and wheel round in my path, to return. My mind was holding large discourse with me; 'Fool, why goest thou to thy certain doom?' 'Wretch, tarrying again? And if Creon hears this from another, must not thou smart for it?' So debating, I went on my way with lagging steps, and thus a short road was made long. At last, however, it carried the day that I should come hither-to thee; and, though my tale be nought, yet will I tell it; for I come with a good grip on one hope,-that I can suffer nothing but what is my fate.",
+          "lineStart": 244
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 254
+        },
+        {
+          "type": "para",
+          "text": "And what is it that disquiets thee thus?",
+          "lineStart": 255
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GUARD",
+          "lineStart": 256
+        },
+        {
+          "type": "para",
+          "text": "I wish to tell thee first about myself-I did not do the deed-I did not see the doer-it were not right that I should come to any harm.",
+          "lineStart": 257
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 259
+        },
+        {
+          "type": "para",
+          "text": "Thou hast a shrewd eye for thy mark; well dost thou fence thyself round against the blame; clearly thou hast some strange thing to tell.",
+          "lineStart": 260
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GUARD",
+          "lineStart": 262
+        },
+        {
+          "type": "para",
+          "text": "Aye, truly; dread news makes one pause long.",
+          "lineStart": 263
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 264
+        },
+        {
+          "type": "para",
+          "text": "Then tell it, wilt thou, and so get thee gone?",
+          "lineStart": 265
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GUARD",
+          "lineStart": 266
+        },
+        {
+          "type": "para",
+          "text": "Well, this is it.-The corpse-some one hath just given it burial, and gone away,-after sprinkling thirsty dust on the flesh, with such other rites as piety enjoins.",
+          "lineStart": 267
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 270
+        },
+        {
+          "type": "para",
+          "text": "What sayest thou? What living man hath dared this deed?",
+          "lineStart": 271
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GUARD",
+          "lineStart": 272
+        },
+        {
+          "type": "para",
+          "text": "I know not; no stroke of pickaxe was seen there, no earth thrown up by mattock; the ground was hard and dry, unbroken, without track of wheels; the doer was one who had left no trace. And when the first day-watchman showed it to us, sore wonder fell on all. The dead man was veiled from us; not shut within a tomb, but lightly strewn with dust, as by the hand of one who shunned a curse. And no sign met the eye as though any beast of prey or any dog had come nigh to him, or torn him.",
+          "lineStart": 273
+        },
+        {
+          "type": "para",
+          "text": "Then evil words flew fast and loud among us, guard accusing guard; und it would e'en have come to blows at last, nor was there any to hinder. Every man was the culprit, and no one was convicted, but all disclaimed knowledge of the deed. And we were ready to take red-hot iron in our hands;-to walk through fire;-to make oath by the gods that we had not done the deed,-that we were not privy to the planning or the doing.",
+          "lineStart": 280
+        },
+        {
+          "type": "para",
+          "text": "At last, when all our searching was fruitless, one spake, who made us all bend our faces on the earth in fear; for we saw not how we could gainsay him, or escape mischance if we obeyed. His counsel was that this deed must be reported to thee, and not hidden. And this seemed best; and the lot doomed my hapless self to win this prize. So here I stand,-as unwelcome as unwilling, well I wot; for no man delights in the bearer of bad news.",
+          "lineStart": 286
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 292
+        },
+        {
+          "type": "para",
+          "text": "O king, my thoughts have long been whispering, can this deed, perchance, be e'en the work of gods?",
+          "lineStart": 293
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 295
+        },
+        {
+          "type": "para",
+          "text": "Cease, ere thy words fill me utterly with wrath, lest thou be found at once an old man and foolish. For thou sayest what is not to be borne, in saying that the gods have care for this corpse. Was it for high reward of trusty service that they sought to hide his nakedness, who came to burn their pillared shrines and sacred treasures, to burn their land, and scatter its laws to the winds? Or dost thou behold the gods honouring the wicked? It cannot be. No! From the first there were certain in the town that muttered against me, chafing at this edict, wagging their heads in secret; and kept not their necks duly under the yoke, like men contented with my sway.",
+          "lineStart": 296
+        },
+        {
+          "type": "para",
+          "text": "'Tis by them, well I know, that these have been beguiled and bribed to do this deed. Nothing so evil as money ever grew to be current among men. This lays cities low, this drives men from their homes, this trains and warps honest souls till they set themselves to works of shame; this still teaches folk to practise villainies, and to know every godless deed.",
+          "lineStart": 306
+        },
+        {
+          "type": "para",
+          "text": "But all the men who wrought this thing for hire have made it sure that, soon or late, they shall pay the price. Now, as Zeus still hath my reverence, know this-I tell it thee on my oath:-If ye find not the very author of this burial, and produce him before mine eyes, death alone shall not be enough for you, till first, hung up alive, ye have revealed this outrage,-that henceforth ye may thieve with better knowledge whence lucre should be won, and learn that it is not well to love gain from every source. For thou wilt find that ill-gotten pelf brings more men to ruin than to weal.",
+          "lineStart": 312
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GUARD",
+          "lineStart": 321
+        },
+        {
+          "type": "para",
+          "text": "May I speak? Or shall I just turn and go?",
+          "lineStart": 322
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 323
+        },
+        {
+          "type": "para",
+          "text": "Knowest thou not that even now thy voice offends?",
+          "lineStart": 324
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GUARD",
+          "lineStart": 325
+        },
+        {
+          "type": "para",
+          "text": "Is thy smart in the ears, or in the soul?",
+          "lineStart": 326
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 327
+        },
+        {
+          "type": "para",
+          "text": "And why wouldst thou define the seat of my pain?",
+          "lineStart": 328
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GUARD",
+          "lineStart": 329
+        },
+        {
+          "type": "para",
+          "text": "The doer vexes thy mind, but I, thine ears.",
+          "lineStart": 330
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 331
+        },
+        {
+          "type": "para",
+          "text": "Ah, thou art a born babbler, 'tis well seen.",
+          "lineStart": 332
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GUARD",
+          "lineStart": 333
+        },
+        {
+          "type": "para",
+          "text": "May be, but never the doer of this deed.",
+          "lineStart": 334
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 335
+        },
+        {
+          "type": "para",
+          "text": "Yea, and more,-the seller of thy life for silver.",
+          "lineStart": 336
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GUARD",
+          "lineStart": 337
+        },
+        {
+          "type": "para",
+          "text": "Alas! 'Tis sad, truly, that he who judges should misjudge.",
+          "lineStart": 338
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 339
+        },
+        {
+          "type": "para",
+          "text": "Let thy fancy play with 'judgment' as it will;-but, if ye show me not the doers of these things, ye shall avow that dastardly gains work sorrows. CREON goes into the palace.",
+          "lineStart": 340
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GUARD",
+          "lineStart": 344
+        },
+        {
+          "type": "para",
+          "text": "Well, may he be found! so 'twere best. But, be he caught or be he not-fortune must settle that-truly thou wilt not see me here again. Saved, even now, beyond hope and thought, I owe the gods great thanks. The GUARD goes out on the spectators' left.",
+          "lineStart": 345
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 349
+        },
+        {
+          "type": "para",
+          "text": "singing strophe 1 Wonders are many, and none is more wonderful than man; the power that crosses the white sea, driven by the stormy south-wind, making a path under surges that threaten to engulf him; and Earth, the eldest of the gods, the immortal, the unwearied, doth he wear, turning the soil with the offspring of horses, as the ploughs go to and fro from year to year. antistrophe And the light-hearted race of birds, and the tribes of savage beasts, and the sea-brood of the deep, he snares in the meshes of his woven toils, he leads captive, man excellent in wit. And he masters by his arts the beast whose lair is in the wilds, who roams the hills; he tames the horse of shaggy mane, he puts the yoke upon its neck, he tames the tireless mountain bull. strophe 2 And speech, and wind-swift thought, and all the moods that mould a state, hath he taught himself; and how to flee the arrows of the frost, when 'tis hard lodging under the clear sky, and the arrows of the rushing rain; yea, he hath resource for all; without resource he meets nothing that must come: only against Death shall he call for aid in vain; but from baffling maladies he hath devised escapes. antistrophe 2 Cunning beyond fancy's dream is the fertile skill which brings him, now to evil, now to good. When he honours the laws of the land, and that justice which he hath sworn by the gods to uphold, proudly stands his city: no city hath he who, for his rashness, dwells with sin. Never may he share my hearth, never think my thoughts, who doth these things! Enter the GUARD on the spectators' left, leading in ANTIGONE.",
+          "lineStart": 350
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 377
+        },
+        {
+          "type": "para",
+          "text": "What portent from the gods is this?-my soul is amazed. I know her-how can I deny that yon maiden is Antigone?",
+          "lineStart": 378
+        },
+        {
+          "type": "para",
+          "text": "O hapless, and child of hapless sire,-Of Oedipus! What means this? Thou brought a prisoner?-thou, disloyal to the king's laws, and taken in folly?",
+          "lineStart": 380
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GUARD",
+          "lineStart": 383
+        },
+        {
+          "type": "para",
+          "text": "Here she is, the doer of the deed:-caught this girl burying him:-but where is Creon? CREON enters hurriedly from the palace.",
+          "lineStart": 384
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 387
+        },
+        {
+          "type": "para",
+          "text": "Lo, he comes forth again from the house, at our need.",
+          "lineStart": 388
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 389
+        },
+        {
+          "type": "para",
+          "text": "What is it? What hath chanced, that makes my coming timely?",
+          "lineStart": 390
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GUARD",
+          "lineStart": 391
+        },
+        {
+          "type": "para",
+          "text": "O king, against nothing should men pledge their word; for the after-thought belies the first intent. I could have vowed that I should not soon be here again,-scared by thy threats, with which I had just been lashed: but,-since the joy that surprises and transcends our hopes is like in fulness to no other pleasure,-I have come, though 'tis in breach of my sworn oath, bringing this maid; who was taken showing grace to the dead. This time there was no casting of lots; no, this luck hath fallen to me, and to none else. And now, sire, take her thyself, question her, examine her, as thou wilt; but I have a right to free and final quittance of this trouble.",
+          "lineStart": 392
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 402
+        },
+        {
+          "type": "para",
+          "text": "And thy prisoner here-how and whence hast thou taken her?",
+          "lineStart": 403
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GUARD",
+          "lineStart": 404
+        },
+        {
+          "type": "para",
+          "text": "She was burying the man; thou knowest all.",
+          "lineStart": 405
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 406
+        },
+        {
+          "type": "para",
+          "text": "Dost thou mean what thou sayest? Dost thou speak aright?",
+          "lineStart": 407
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GUARD",
+          "lineStart": 408
+        },
+        {
+          "type": "para",
+          "text": "I saw her burying the corpse that thou hadst forbidden to bury. Is that plain and clear?",
+          "lineStart": 409
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 411
+        },
+        {
+          "type": "para",
+          "text": "And how was she seen? how taken in the act?",
+          "lineStart": 412
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GUARD",
+          "lineStart": 413
+        },
+        {
+          "type": "para",
+          "text": "It befell on this wise. When we had come to the place,-with those dread menaces of thine upon us,-we swept away all the dust that covered the corpse, and bared the dank body well; and then sat us down on the brow of the hill, to windward, heedful that the smell from him should not strike us; every man was wide awake, and kept his neighbour alert with torrents of threats, if anyone should be careless of this task.",
+          "lineStart": 414
+        },
+        {
+          "type": "para",
+          "text": "So went it, until the sun's bright orb stood in mid heaven, and the heat began to burn: and then suddenly a whirlwind lifted from the earth storm of dust, a trouble in the sky the plain, marring all the leafage of its woods; and the wide air was choked therewith: we closed our eyes, and bore the plague from the gods.",
+          "lineStart": 420
+        },
+        {
+          "type": "para",
+          "text": "And when, after a long while, this storm had passed, the maid was seen; and she cried aloud with the sharp cry of a bird in its bitterness,-even as when, within the empty nest, it sees the bed stripped of its nestlings. So she also, when she saw the corpse bare, lifted up a voice of wailing, and called down curses on the doers of that deed. And straightway she brought thirsty dust in her hands; and from a shapely ewer of bronze, held high, with thrice-poured drink-offering she crowned the dead.",
+          "lineStart": 425
+        },
+        {
+          "type": "para",
+          "text": "We rushed forward when we saw it, and at once dosed upon our quarry, who was in no wise dismayed. Then we taxed her with her past and present doings; and she stood not on denial of aught,-at once to my joy and to my pain. To have escaped from ills one's self is a great joy; but 'tis painful to bring friends to ill. Howbeit, all such things are of less account to me than mine own safety.",
+          "lineStart": 432
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 438
+        },
+        {
+          "type": "para",
+          "text": "Thou-thou whose face is bent to earth-dost thou avow, or disavow, this deed?",
+          "lineStart": 439
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 441
+        },
+        {
+          "type": "para",
+          "text": "I avow it; I make no denial.",
+          "lineStart": 442
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 443
+        },
+        {
+          "type": "para",
+          "text": "to GUARD Thou canst betake thee whither thou wilt, free and clear of a grave charge. Exit GUARD To ANTIGONE Now, tell me thou-not in many words, but briefly-knewest thou that an edict had forbidden this?",
+          "lineStart": 444
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 450
+        },
+        {
+          "type": "para",
+          "text": "I knew it: could I help it? It was public.",
+          "lineStart": 451
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 452
+        },
+        {
+          "type": "para",
+          "text": "And thou didst indeed dare to transgress that law?",
+          "lineStart": 453
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 454
+        },
+        {
+          "type": "para",
+          "text": "Yes; for it was not Zeus that had published me that edict; not such are the laws set among men by the justice who dwells with the gods below; nor deemed I that thy decrees were of such force, that a mortal could override the unwritten and unfailing statutes of heaven. For their life is not of to-day or yesterday, but from all time, and no man knows when they were first put forth.",
+          "lineStart": 455
+        },
+        {
+          "type": "para",
+          "text": "Not through dread of any human pride could I answer to the gods for breaking these. Die I must,-I knew that well (how should I not?)-even without thy edicts. But if I am to die before my time, I count that a gain: for when any one lives, as I do, compassed about with evils, can such an one find aught but gain in death?",
+          "lineStart": 461
+        },
+        {
+          "type": "para",
+          "text": "So for me to meet this doom is trifling grief; but if I had suffered my mother's son to lie in death an unburied corpse, that would have grieved me; for this, I am not grieved. And if my present deeds are foolish in thy sight, it may be that a foolish judge arraigns my folly.",
+          "lineStart": 466
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 470
+        },
+        {
+          "type": "para",
+          "text": "The maid shows herself passionate child of passionate sire, and knows not how to bend before troubles.",
+          "lineStart": 471
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 473
+        },
+        {
+          "type": "para",
+          "text": "Yet I would have thee know that o'er-stubborn spirits are most often humbled; 'tis the stiffest iron, baked to hardness in the fire, that thou shalt oftenest see snapped and shivered; and I have known horses that show temper brought to order by a little curb; there is no room for pride when thou art thy neighbour's slave.-This girl was already versed in insolence when she transgressed the laws that had been set forth; and, that done, lo, a second insult,-to vaunt of this, and exult in her deed.",
+          "lineStart": 474
+        },
+        {
+          "type": "para",
+          "text": "Now verily I am no man, she is the man, if this victory shall rest with her, and bring no penalty. No! be she sister's child, or nearer to me in blood than any that worships Zeus at the altar of our house,-she and her kinsfolk shall not avoid a doom most dire; for indeed I charge that other with a like share in the plotting of this burial.",
+          "lineStart": 482
+        },
+        {
+          "type": "para",
+          "text": "And summon her-for I saw her e'en now within,-raving, and not mistress of her wits. So oft, before the deed, the mind stands self-convicted in its treason, when folks are plotting mischief in the dark. But verily this, too, is hateful,-when one who hath been caught in wickednes then seeks to make the crime a glory.",
+          "lineStart": 488
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 493
+        },
+        {
+          "type": "para",
+          "text": "Wouldst thou do more than take and slay me?",
+          "lineStart": 494
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 495
+        },
+        {
+          "type": "para",
+          "text": "No more, indeed; having that, I have all.",
+          "lineStart": 496
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 497
+        },
+        {
+          "type": "para",
+          "text": "Why then dost thou delay? In thy discourse there is nought that pleases me,-never may there be!-and so my words must needs be unpleasing to thee. And yet, for glory-whence could I have won a nobler, than by giving burial to mine own brother? All here would own that they thought it well, were not their lips sealed by fear. But royalty, blest in so much besides, hath the power to do and say what it will.",
+          "lineStart": 498
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 504
+        },
+        {
+          "type": "para",
+          "text": "Thou differest from all these Thebans in that view.",
+          "lineStart": 505
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 506
+        },
+        {
+          "type": "para",
+          "text": "These also share it; but they curb their tongues for thee.",
+          "lineStart": 507
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 508
+        },
+        {
+          "type": "para",
+          "text": "And art thou not ashamed to act apart from them?",
+          "lineStart": 509
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 510
+        },
+        {
+          "type": "para",
+          "text": "No; there is nothing shameful in piety to a brother.",
+          "lineStart": 511
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 512
+        },
+        {
+          "type": "para",
+          "text": "Was it not a brother, too, that died in the opposite cause?",
+          "lineStart": 513
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 514
+        },
+        {
+          "type": "para",
+          "text": "Brother by the same mother and the same sire.",
+          "lineStart": 515
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 516
+        },
+        {
+          "type": "para",
+          "text": "Why, then, dost thou render a grace that is impious in his sight?",
+          "lineStart": 517
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 519
+        },
+        {
+          "type": "para",
+          "text": "The dead man will not say that he so deems it.",
+          "lineStart": 520
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 521
+        },
+        {
+          "type": "para",
+          "text": "Yea, if thou makest him but equal in honour with the wicked.",
+          "lineStart": 522
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 523
+        },
+        {
+          "type": "para",
+          "text": "It was his brother, not his slave, that perished.",
+          "lineStart": 524
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 525
+        },
+        {
+          "type": "para",
+          "text": "Wasting this land; while he fell as its champion.",
+          "lineStart": 526
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 527
+        },
+        {
+          "type": "para",
+          "text": "Nevertheless, Hades desires these rites.",
+          "lineStart": 528
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 529
+        },
+        {
+          "type": "para",
+          "text": "But the good desires not a like portion with the evil.",
+          "lineStart": 530
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 531
+        },
+        {
+          "type": "para",
+          "text": "Who knows but this seems blameless in the world below?",
+          "lineStart": 532
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 533
+        },
+        {
+          "type": "para",
+          "text": "A foe is never a friend-not even in death.",
+          "lineStart": 534
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 535
+        },
+        {
+          "type": "para",
+          "text": "Tis not my nature to join in hating, but in loving.",
+          "lineStart": 536
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 537
+        },
+        {
+          "type": "para",
+          "text": "Pass, then, to the world of the dead, and, it thou must needs love, love them. While I live, no woman shall rule me. Enter ISMENE from the house, led in by two attendants.",
+          "lineStart": 538
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 541
+        },
+        {
+          "type": "para",
+          "text": "chanting Lo, yonder Ismene comes forth, shedding such tears as fond sisters weep; a cloud upon her brow casts its shadow over her darkly-flushing face, and breaks in rain on her fair cheek.",
+          "lineStart": 542
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 546
+        },
+        {
+          "type": "para",
+          "text": "And thou, who, lurking like a viper in my house, wast secretly draining my life-blood, while I knew not that I was nurturing two pests, to rise against my throne-come, tell me now, wilt thou also confess thy part in this burial, or wilt thou forswear all knowledge of it?",
+          "lineStart": 547
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 551
+        },
+        {
+          "type": "para",
+          "text": "I have done the deed,-if she allows my claim,-and share the burden of the charge.",
+          "lineStart": 552
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 554
+        },
+        {
+          "type": "para",
+          "text": "Nay, justice will not suffer thee to do that: thou didst not consent to the deed, nor did I give thee part in it.",
+          "lineStart": 555
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 557
+        },
+        {
+          "type": "para",
+          "text": "But, now that ills beset thee, I am not ashamed to sail the sea of trouble at thy side.",
+          "lineStart": 558
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 560
+        },
+        {
+          "type": "para",
+          "text": "Whose was the deed, Hades and the dead are witnesses: a friend in words is not the friend that I love.",
+          "lineStart": 561
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 563
+        },
+        {
+          "type": "para",
+          "text": "Nay, sister, reject me not, but let me die with thee, and duly honour the dead.",
+          "lineStart": 564
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 566
+        },
+        {
+          "type": "para",
+          "text": "Share not thou my death, nor claim deeds to which thou hast not put thy hand: my death will suffice.",
+          "lineStart": 567
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 569
+        },
+        {
+          "type": "para",
+          "text": "And what life is dear to me, bereft of thee?",
+          "lineStart": 570
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 571
+        },
+        {
+          "type": "para",
+          "text": "Ask Creon; all thy care is for him.",
+          "lineStart": 572
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 573
+        },
+        {
+          "type": "para",
+          "text": "Why vex me thus, when it avails thee nought?",
+          "lineStart": 574
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 575
+        },
+        {
+          "type": "para",
+          "text": "Indeed, if I mock, 'tis with pain that I mock thee.",
+          "lineStart": 576
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 577
+        },
+        {
+          "type": "para",
+          "text": "Tell me,-how can I serve thee, even now?",
+          "lineStart": 578
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 579
+        },
+        {
+          "type": "para",
+          "text": "Save thyself: I grudge not thy escape.",
+          "lineStart": 580
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 581
+        },
+        {
+          "type": "para",
+          "text": "Ah, woe is me! And shall I have no share in thy fate?",
+          "lineStart": 582
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 583
+        },
+        {
+          "type": "para",
+          "text": "Thy choice was to live; mine, to die.",
+          "lineStart": 584
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 585
+        },
+        {
+          "type": "para",
+          "text": "At least thy choice was not made without my protest.",
+          "lineStart": 586
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 587
+        },
+        {
+          "type": "para",
+          "text": "One world approved thy wisdom; another, mine.",
+          "lineStart": 588
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 589
+        },
+        {
+          "type": "para",
+          "text": "Howbeit, the offence is the same for both of us.",
+          "lineStart": 590
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 591
+        },
+        {
+          "type": "para",
+          "text": "Be of good cheer; thou livest; but my life hath long been given to death, that so I might serve the dead.",
+          "lineStart": 592
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 594
+        },
+        {
+          "type": "para",
+          "text": "Lo, one of these maidens hath newly shown herself foolish, as the other hath been since her life began.",
+          "lineStart": 595
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 597
+        },
+        {
+          "type": "para",
+          "text": "Yea, O king, such reason as nature may have given abides not with the unfortunate, but goes astray.",
+          "lineStart": 598
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 600
+        },
+        {
+          "type": "para",
+          "text": "Thine did, when thou chosest vile deeds with the vile.",
+          "lineStart": 601
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 602
+        },
+        {
+          "type": "para",
+          "text": "What life could I endure, without her presence?",
+          "lineStart": 603
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 604
+        },
+        {
+          "type": "para",
+          "text": "Nay, speak not of her 'presence'; she lives no more.",
+          "lineStart": 605
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 606
+        },
+        {
+          "type": "para",
+          "text": "But wilt thou slay the betrothed of thine own son?",
+          "lineStart": 607
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 608
+        },
+        {
+          "type": "para",
+          "text": "Nay, there are other fields for him to plough.",
+          "lineStart": 609
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ISMENE",
+          "lineStart": 610
+        },
+        {
+          "type": "para",
+          "text": "But there can never be such love as bound him to her.",
+          "lineStart": 611
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 612
+        },
+        {
+          "type": "para",
+          "text": "I like not an evil wife for my son.",
+          "lineStart": 613
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 614
+        },
+        {
+          "type": "para",
+          "text": "Haemon, beloved! How thy father wrongs thee!",
+          "lineStart": 615
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 616
+        },
+        {
+          "type": "para",
+          "text": "Enough, enough of thee and of thy marriage!",
+          "lineStart": 617
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 618
+        },
+        {
+          "type": "para",
+          "text": "Wilt thou indeed rob thy son of this maiden?",
+          "lineStart": 619
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 620
+        },
+        {
+          "type": "para",
+          "text": "'Tis Death that shall stay these bridals for me.",
+          "lineStart": 621
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 622
+        },
+        {
+          "type": "para",
+          "text": "'Tis determined, it seems, that she shall die.",
+          "lineStart": 623
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 624
+        },
+        {
+          "type": "para",
+          "text": "Determined, yes, for thee and for me.- To the two attendants No more delay-servants, take them within! Henceforth they must be women, and not range at large; for verily even the bold seek to fly, when they see Death now closing on their life. Exeunt attendants, guarding ANTIGONE and ISMENE.-CREON remains.",
+          "lineStart": 625
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 632
+        },
+        {
+          "type": "para",
+          "text": "singing strophe 1 Blest are they whose days have not tasted of evil. For when a house hath once been shaken from heaven, there the curse fails nevermore, passing from life to life of the race; even as, when the surge is driven over the darkness of the deep by the fierce breath of Thracian sea-winds, it rolls up the black sand from the depths, and there is sullen roar from wind-vexed headlands that front the blows of the storm. antistrophe I see that from olden time the sorrows in the house of the Labdacidae are heaped upon the sorrows of the dead; and generation is not freed by generation, but some god strikes them down, and the race hath no deliverance.",
+          "lineStart": 633
+        },
+        {
+          "type": "para",
+          "text": "For now that hope of which the light had been spread above the last root of the house of Oedipus-that hope, in turn, is brought low--by the blood-stained dust due to the gods infernal, and by folly in speech, and frenzy at the heart. strophe 2 Thy power, O Zeus, what human trespass can limit? That power which neither Sleep, the all-ensnaring, nor the untiring months of the gods can master; but thou, a ruler to whom time brings not old age, dwellest in the dazzling splendour of Olympus.",
+          "lineStart": 646
+        },
+        {
+          "type": "para",
+          "text": "And through the future, near and far, as through the past, shall this law hold good: Nothing that is vast enters into the life of mortals without a curse. antistrophe 2 For that hope whose wanderings are so wide is to many men a comfort, but to many a false lure of giddy desires; and the disappointment comes on one who knoweth nought till he burn his foot against the hot fire.",
+          "lineStart": 654
+        },
+        {
+          "type": "para",
+          "text": "For with wisdom hath some one given forth the famous saying, that evil seems good, soon or late, to him whose mind the god draws to mischief; and but for the briefest space doth he fare free of woe.",
+          "lineStart": 661
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 664
+        },
+        {
+          "type": "para",
+          "text": "But lo, Haemon, the last of thy sons;-Comes he grieving for the doom of his promised bride, Antigone, and bitter for the baffled hope of his marriage? Enter HAEMON",
+          "lineStart": 665
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 669
+        },
+        {
+          "type": "para",
+          "text": "We shall know soon, better than seers could tell us.-My son, hearing the fixed doom of thy betrothed, art thou come in rage against thy father? Or have I thy good will, act how I may?",
+          "lineStart": 670
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HAEMON",
+          "lineStart": 673
+        },
+        {
+          "type": "para",
+          "text": "Father, I am thine; and thou, in thy wisdom, tracest for me rules which I shall follow. No marriage shall be deemed by me a greater gain than thy good guidance.",
+          "lineStart": 674
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 677
+        },
+        {
+          "type": "para",
+          "text": "Yea, this, my son, should be thy heart's fixed law,-in all things to obey thy father's will. 'Tis for this that men pray to see dutiful children grow up around them in their homes,-that such may requite their father's foe with evil, and honour, as their father doth, his friend. But he who begets unprofitable children-what shall we say that he hath sown, but troubles for himself, and much triumph for his foes? Then do not thou, my son, at pleasure's beck, dethrone thy reason for a woman's sake; knowing that this is a joy that soon grows cold in clasping arms,-an evil woman to share thy bed and thy home. For what wound could strike deeper than a false friend? Nay, with loathing, and as if she were thine enemy, let this girl go to find a husband in the house of Hades. For since I have taken her, alone of all the city, in open disobedience, I will not make myself a liar to my people-I will slay her.",
+          "lineStart": 678
+        },
+        {
+          "type": "para",
+          "text": "So let her appeal as she will to the majesty of kindred blood. If I am to nurture mine own kindred in naughtiness, needs must I bear with it in aliens. He who does his duty in his own household will be found righteous in the State also. But if any one transgresses, and does violence to the laws, or thinks to dictate to his rulers, such an one can win no praise from me. No, whomsoever the city may appoint, that man must be obeyed, in little things and great, in just things and unjust; and I should feel sure that one who thus obeys would be a good ruler no less than a good subject, and in the storm of spears would stand his ground where he was set, loyal and dauntless at his comrade's side.",
+          "lineStart": 691
+        },
+        {
+          "type": "para",
+          "text": "But disobedience is the worst of evils. This it is that ruins cities; this makes homes desolate; by this, the ranks of allies are broken into head-long rout; but, of the lives whose course is fair, the greater part owes safety to obedience. Therefore we must support the cause of order, and in no wise suffer a woman to worst us. Better to fall from power, if we must, by a man's hand; then we should not be called weaker than a woman.",
+          "lineStart": 701
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 707
+        },
+        {
+          "type": "para",
+          "text": "To us, unless our years have stolen our wit, thou seemest to say wisely what thou sayest.",
+          "lineStart": 708
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HAEMON",
+          "lineStart": 710
+        },
+        {
+          "type": "para",
+          "text": "Father, the gods implant reason in men, the highest of all things that we call our own. Not mine the skill-far from me be the quest!-to say wherein thou speakest not aright; and yet another man, too, might have some useful thought. At least, it is my natural office to watch, on thy behalf, all that men say, or do, or find to blame. For the dread of thy frown forbids the citizen to speak such words as would offend thine ear; but can hear these murmurs in the dark, these moanings of the city for this maiden; 'no woman,' they say, 'ever merited her doom less,-none ever was to die so shamefully for deeds so glorious as hers; who, when her own brother had fallen in bloody strife, would not leave him unburied, to be devoured by carrion dogs, or by any bird:-deserves not she the meed of golden honour?'",
+          "lineStart": 711
+        },
+        {
+          "type": "para",
+          "text": "Such is the darkling rumour that spreads in secret. For me, my father, no treasure is so precious as thy welfare. What, indeed, is a nobler ornament for children than a prospering sire's fair fame, or for sire than son's? Wear not, then, one mood only in thyself; think not that thy word, and thine alone, must be right. For if any man thinks that he alone is wise,-that in speech, or in mind, he hath no peer,-such a soul, when laid open, is ever found empty.",
+          "lineStart": 723
+        },
+        {
+          "type": "para",
+          "text": "No, though a man be wise, 'tis no shame for him to learn many things, and to bend in season. Seest thou, beside the wintry torrent's course, how the trees that yield to it save every twig, while the stiff-necked perish root and branch? And even thus he who keeps the sheet of his sail taut, and never slackens it, upsets his boat, and finishes his voyage with keel uppermost.",
+          "lineStart": 730
+        },
+        {
+          "type": "para",
+          "text": "Nay, forego thy wrath; permit thyself to change. For if I, a younger man, may offer my thought, it were far best, I ween, that men should be all-wise by nature; but, otherwise-and oft the scale inclines not so-'tis good also to learn from those who speak aright.",
+          "lineStart": 736
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 740
+        },
+        {
+          "type": "para",
+          "text": "Sire, 'tis meet that thou shouldest profit by his words, if he speaks aught in season, and thou, Haemon, by thy father's; for on both parts there hath been wise speech.",
+          "lineStart": 741
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 744
+        },
+        {
+          "type": "para",
+          "text": "Men of my age are we indeed to be schooled, then, by men of his?",
+          "lineStart": 745
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HAEMON",
+          "lineStart": 747
+        },
+        {
+          "type": "para",
+          "text": "In nothing that is not right; but if I am young, thou shouldest look to my merits, not to my years.",
+          "lineStart": 748
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 750
+        },
+        {
+          "type": "para",
+          "text": "Is it a merit to honour the unruly?",
+          "lineStart": 751
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HAEMON",
+          "lineStart": 752
+        },
+        {
+          "type": "para",
+          "text": "I could wish no one to show respect for evil-doers.",
+          "lineStart": 753
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 754
+        },
+        {
+          "type": "para",
+          "text": "Then is not she tainted with that malady?",
+          "lineStart": 755
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HAEMON",
+          "lineStart": 756
+        },
+        {
+          "type": "para",
+          "text": "Our Theban folk, with one voice, denies it.",
+          "lineStart": 757
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 758
+        },
+        {
+          "type": "para",
+          "text": "Shall Thebes prescribe to me how I must rule?",
+          "lineStart": 759
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HAEMON",
+          "lineStart": 760
+        },
+        {
+          "type": "para",
+          "text": "See, there thou hast spoken like a youth indeed.",
+          "lineStart": 761
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 762
+        },
+        {
+          "type": "para",
+          "text": "Am I to rule this land by other judgment than mine own?",
+          "lineStart": 763
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HAEMON",
+          "lineStart": 764
+        },
+        {
+          "type": "para",
+          "text": "That is no city which belongs to one man.",
+          "lineStart": 765
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 766
+        },
+        {
+          "type": "para",
+          "text": "Is not the city held to be the ruler's?",
+          "lineStart": 767
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HAEMON",
+          "lineStart": 768
+        },
+        {
+          "type": "para",
+          "text": "Thou wouldst make a good monarch of a desert.",
+          "lineStart": 769
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 770
+        },
+        {
+          "type": "para",
+          "text": "This boy, it seems, is the woman's champion.",
+          "lineStart": 771
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HAEMON",
+          "lineStart": 772
+        },
+        {
+          "type": "para",
+          "text": "If thou art a woman; indeed, my care is for thee.",
+          "lineStart": 773
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 774
+        },
+        {
+          "type": "para",
+          "text": "Shameless, at open feud with thy father!",
+          "lineStart": 775
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HAEMON",
+          "lineStart": 776
+        },
+        {
+          "type": "para",
+          "text": "Nay, I see thee offending against justice.",
+          "lineStart": 777
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 778
+        },
+        {
+          "type": "para",
+          "text": "Do I offend, when I respect mine own prerogatives?",
+          "lineStart": 779
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HAEMON",
+          "lineStart": 780
+        },
+        {
+          "type": "para",
+          "text": "Thou dost not respect them, when thou tramplest on the gods' honours,",
+          "lineStart": 781
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 783
+        },
+        {
+          "type": "para",
+          "text": "O dastard nature, yielding place to woman!",
+          "lineStart": 784
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HAEMON",
+          "lineStart": 785
+        },
+        {
+          "type": "para",
+          "text": "Thou wilt never find me yield to baseness.",
+          "lineStart": 786
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 787
+        },
+        {
+          "type": "para",
+          "text": "All thy words, at least, plead for that girl.",
+          "lineStart": 788
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HAEMON",
+          "lineStart": 789
+        },
+        {
+          "type": "para",
+          "text": "And for thee, and for me, and for the gods below.",
+          "lineStart": 790
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 791
+        },
+        {
+          "type": "para",
+          "text": "Thou canst never marry her, on this side the grave.",
+          "lineStart": 792
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HAEMON",
+          "lineStart": 793
+        },
+        {
+          "type": "para",
+          "text": "Then she must die, and in death destroy another.",
+          "lineStart": 794
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 795
+        },
+        {
+          "type": "para",
+          "text": "How! doth thy boldness run to open threats?",
+          "lineStart": 796
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HAEMON",
+          "lineStart": 797
+        },
+        {
+          "type": "para",
+          "text": "What threat is it, to combat vain resolves?",
+          "lineStart": 798
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 799
+        },
+        {
+          "type": "para",
+          "text": "Thou shalt rue thy witless teaching of wisdom.",
+          "lineStart": 800
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HAEMON",
+          "lineStart": 801
+        },
+        {
+          "type": "para",
+          "text": "Wert thou not my father, I would have called thee unwise.",
+          "lineStart": 802
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 803
+        },
+        {
+          "type": "para",
+          "text": "Thou woman's slave, use not wheedling speech with me.",
+          "lineStart": 804
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HAEMON",
+          "lineStart": 805
+        },
+        {
+          "type": "para",
+          "text": "Thou wouldest speak, and then hear no reply?",
+          "lineStart": 806
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 807
+        },
+        {
+          "type": "para",
+          "text": "Sayest thou so? Now, by the heaven above us-be sure of it-thou shalt smart for taunting me in this opprobrious strain. Bring forth that hated thing, that she may die forthwith in his presence-before his eyes-at her bridegroom's side!",
+          "lineStart": 808
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HAEMON",
+          "lineStart": 812
+        },
+        {
+          "type": "para",
+          "text": "No, not at my side-never think it-shall she perish; nor shalt thou ever set eyes more upon my face:-rave, then, with such friends as can endure thee. Exit HAEMON",
+          "lineStart": 813
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 817
+        },
+        {
+          "type": "para",
+          "text": "The man is gone, O king, in angry haste; a youthful mind, when stung, is fierce.",
+          "lineStart": 818
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 820
+        },
+        {
+          "type": "para",
+          "text": "Let him do, or dream, more than man-good speed to him!-But he shall not save these two girls from their doom.",
+          "lineStart": 821
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 823
+        },
+        {
+          "type": "para",
+          "text": "Dost thou indeed purpose to slay both?",
+          "lineStart": 824
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 825
+        },
+        {
+          "type": "para",
+          "text": "Not her whose hands are pure: thou sayest well.",
+          "lineStart": 826
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 827
+        },
+        {
+          "type": "para",
+          "text": "And by what doom mean'st thou to slay the other?",
+          "lineStart": 828
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 829
+        },
+        {
+          "type": "para",
+          "text": "I will take her where the path is loneliest, and hide her, living, in rocky vault, with so much food set forth as piety prescribes, that the city may avoid a public stain. And there, praying to Hades, the only god whom she worships, perchance she will obtain release from death; or else will learn, at last, though late, that it is lost labour to revere the dead. CREON goes into the palace.",
+          "lineStart": 830
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 837
+        },
+        {
+          "type": "para",
+          "text": "singing strophe Love, unconquered in the fight, Love, who makest havoc of wealth, who keepest thy vigil on the soft cheek of a maiden; thou roamest over the sea, and among the homes of dwellers in the wilds; no immortal can escape thee, nor any among men whose life is for a day; and he to whom thou hast come is mad. antistrophe The just themselves have their minds warped by thee to wrong, for their ruin: 'tis thou that hast stirred up this present strife of kinsmen; victorious is the love-kindling light from the eyes of the fair bride; it is a power enthroned in sway beside the eternal laws; for there the goddess Aphrodite is working her unconquerable will. ANTIGONE is led out of the palace by two Of CREON'S attendants who are about to conduct her to her doom. But now I also am carried beyond the bounds of loyalty, and can no more keep back the streaming tears, when I see Antigone thus passing to the bridal chamber where all are laid to rest. The following lines between ANTIGONE and the CHORUS are chanted responsively.",
+          "lineStart": 838
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 857
+        },
+        {
+          "type": "para",
+          "text": "strophe 1 See me, citizens of my fatherland, setting forth on my last way, looking my last on the sunlight that is for me no more; no, Hades who gives sleep to all leads me living to Acheron's shore; who have had no portion in the chant that brings the bride, nor hath any song been mine for the crowning of bridals; whom the lord of the Dark Lake shall wed.",
+          "lineStart": 858
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 864
+        },
+        {
+          "type": "para",
+          "text": "systema 1 Glorious, therefore, and with praise, thou departest to that deep place of the dead: wasting sickness hath not smitten thee; thou hast not found the wages of the sword; no, mistress of thine own fate, and still alive, thou shalt pass to Hades, as no other of mortal kind hath passed.",
+          "lineStart": 865
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 870
+        },
+        {
+          "type": "para",
+          "text": "antistrophe 1 I have heard in other days how dread a doom befell our Phrygian guest, the daughter of Tantalus, on the Sipylian heights; I how, like clinging ivy, the growth of stone subdued her; and the rains fail not, as men tell, from her wasting form, nor fails the snow, while beneath her weeping lids the tears bedew her bosom; and most like to hers is the fate that brings me to my rest.",
+          "lineStart": 871
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 878
+        },
+        {
+          "type": "para",
+          "text": "systema 2 Yet she was a goddess, thou knowest, and born of gods; we are mortals, and of mortal race. But 'tis great renown for a woman who hath perished that she should have shared the doom of the godlike, in her life, and afterward in death.",
+          "lineStart": 879
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 884
+        },
+        {
+          "type": "para",
+          "text": "strophe 2 Ah, I am mocked! In the name of our fathers' gods, can ye not wait till I am gone,-must ye taunt me to my face, O my city, and ye, her wealthy sons? Ah, fount of Dirce, and thou holy ground of Thebe whose chariots are many; ye, at least, will bear me witness, in what sort, unwept of friends, and by what laws I pass to the rock-closed prison of my strange tomb, ah me unhappy! who have no home on the earth or in the shades, no home with the living or with the dead.",
+          "lineStart": 885
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 893
+        },
+        {
+          "type": "para",
+          "text": "strophe 3 Thou hast rushed forward to the utmost verge of daring; and against that throne where justice sits on high thou hast fallen, my daughter, with a grievous fall. But in this ordeal thou art paying, haply, for thy father's sin.",
+          "lineStart": 894
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 899
+        },
+        {
+          "type": "para",
+          "text": "antistrophe 2 Thou hast touched on my bitterest thought,-awaking the ever-new lament for my sire and for all the doom given to us, the famed house of Labdacus. Alas for the horrors of the mother's bed! alas for the wretched mother's slumber at the side of her own son,-and my sire! From what manner of parents did I take my miserable being! And to them I go thus, accursed, unwed, to share their home. Alas, my brother, ill-starred in thy marriage, in thy death thou hast undone my life!",
+          "lineStart": 900
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 908
+        },
+        {
+          "type": "para",
+          "text": "antistrophe 3 Reverent action claims a certain praise for reverence; but an offence against power cannot be brooked by him who hath power in his keeping. Thy self-willed temper hath wrought thy ruin.",
+          "lineStart": 909
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 913
+        },
+        {
+          "type": "para",
+          "text": "epode Unwept, unfriended, without marriage-song, I am led forth in my sorrow on this journey that can be delayed no more. No longer, hapless one, may I behold yon day-star's sacred eye; but for my fate no tear is shed, no friend makes moan. CREON enters from the palace.",
+          "lineStart": 914
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 920
+        },
+        {
+          "type": "para",
+          "text": "Know ye not that songs and wailings before death would never cease, if it profited to utter them? Away with her-away! And when ye have enclosed her, according to my word, in her vaulted grave, leave her alone, forlorn-whether she wishes to die, or to live a buried life in such a home. Our hands are clean as touching this maiden. But this is certain-she shall be deprived of her sojourn in the light.",
+          "lineStart": 921
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 927
+        },
+        {
+          "type": "para",
+          "text": "Tomb, bridal-chamber, eternal prison in the caverned rock, whither go to find mine own, those many who have perished, and whom Persephone hath received among the dead! Last of all shall I pass thither, and far most miserably of all, before the term of my life is spent. But I cherish good hope that my coming will be welcome to my father, and pleasant to thee, my mother, and welcome, brother, to thee; for, when ye died, with mine own hands I washed and dressed you, and poured drink-offerings at your graves; and now, Polyneices, 'tis for tending thy corpse that I win such recompense as this.",
+          "lineStart": 928
+        },
+        {
+          "type": "para",
+          "text": "And yet I honoured thee, as the wise will deem, rightly. Never, had been a mother of children, or if a husband had been mouldering in death, would I have taken this task upon me in the city's despite. What law, ye ask, is my warrant for that word? The husband lost, another might have been found, and child from another, to replace the first-born: but, father and mother hidden with Hades, no brother's life could ever bloom for me again. Such was the law whereby I held thee first in honour; but Creon deemed me guilty of error therein, and of outrage, ah brother mine! And now he leads me thus, a captive in his hands; no bridal bed, no bridal song hath been mine, no joy of marriage, no portion in the nurture of children; but thus, forlorn of friends, unhappy one, I go living to the vaults of death.",
+          "lineStart": 937
+        },
+        {
+          "type": "para",
+          "text": "And what law of heaven have I transgressed? Why, hapless one, should I look to the gods any more,-what ally should I invoke,-when by piety I have earned the name of impious? Nay, then, if these things are pleasing to the gods, when I have suffered my doom, I shall come to know my sin; but if the sin is with my judges, I could wish them no fuller measure of evil than they, on their part, mete wrongfully to me.",
+          "lineStart": 949
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 955
+        },
+        {
+          "type": "para",
+          "text": "Still the same tempest of the soul vexes this maiden with the same fierce gusts.",
+          "lineStart": 956
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 958
+        },
+        {
+          "type": "para",
+          "text": "Then for this shall her guards have cause to rue their slowness.",
+          "lineStart": 959
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 960
+        },
+        {
+          "type": "para",
+          "text": "Ah me! that word hath come very near to death.",
+          "lineStart": 961
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 962
+        },
+        {
+          "type": "para",
+          "text": "I can cheer thee with no hope that this doom is not thus to be fulfilled.",
+          "lineStart": 963
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ANTIGONE",
+          "lineStart": 965
+        },
+        {
+          "type": "para",
+          "text": "O city of my fathers in the land of Thebe! O ye gods, eldest of our race!-they lead me henc--now, now-they tarry not! Behold me, princes of Thebes, the last daughter of the house of your kings,-see what I suffer, and from whom, because I feared to cast away the fear of Heaven! ANTIGONE is led away by the guards.",
+          "lineStart": 966
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 971
+        },
+        {
+          "type": "para",
+          "text": "singing strophe 1 Even thus endured Danae in her beauty to change the light of day for brass-bound walls; and in that chamber, secret as the grave, she was held close prisoner; yet was she of a proud lineage, O my daughter, and charged with the keeping of the seed of Zeus, that fell in the golden rain.",
+          "lineStart": 972
+        },
+        {
+          "type": "para",
+          "text": "But dreadful is the mysterious power of fate: there is no deliverance from it by wealth or by war, by fenced city, or dark, sea-beaten ships.",
+          "lineStart": 978
+        },
+        {
+          "type": "para",
+          "text": "antistrophe 1 And bonds tamed the son of Dryas, swift to wrath, that king of the Edonians; so paid he for his frenzied taunts, when, by the will of Dionysus, he was pent in a rocky prison. There the fierce exuberance of his madness slowly passed away. That man learned to know the god, whom in his frenzy he had provoked with mockeries; for he had sought to quell the god-possessed women, and the Bacchanalian fire; and he angered the Muses that love the flute.",
+          "lineStart": 980
+        },
+        {
+          "type": "para",
+          "text": "strophe 2 And by the waters of the Dark Rocks, the waters of the twofold sea, are the shores of Bosporus, and Thracian Salmydessus; where Ares, neighbour to the city, saw the accurst, blinding wound dealt to the two sons of Phineus by his fierce wife,-the wound that brought darkness to those vengeance-craving orbs, smitten with her bloody hands, smitten with her shuttle for a dagger.",
+          "lineStart": 987
+        },
+        {
+          "type": "para",
+          "text": "antistrophe 2 Pining in their misery, they bewailed their cruel doom, those sons of a mother hapless in her marriage; but she traced her descent from the ancient line of the Erechtheidae; and in far-distant caves she was nursed amid her father's storms, that child of Boreas, swift as a steed over the steep hills, a daughter of gods; yet upon her also the gray Fates bore hard, my daughter. Enter TEIRESIAS, led by a Boy, on the spectators' right.",
+          "lineStart": 993
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TEIRESIAS",
+          "lineStart": 1002
+        },
+        {
+          "type": "para",
+          "text": "Princes of Thebes, we have come with linked steps, both served by the eyes of one; for thus, by a guide's help, the blind must walk.",
+          "lineStart": 1003
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1005
+        },
+        {
+          "type": "para",
+          "text": "And what, aged Teiresias, are thy tidings?",
+          "lineStart": 1006
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TEIRESIAS",
+          "lineStart": 1007
+        },
+        {
+          "type": "para",
+          "text": "I will tell thee; and do thou hearken to the seer.",
+          "lineStart": 1008
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1009
+        },
+        {
+          "type": "para",
+          "text": "Indeed, it has not been my wont to slight thy counsel.",
+          "lineStart": 1010
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TEIRESIAS",
+          "lineStart": 1011
+        },
+        {
+          "type": "para",
+          "text": "Therefore didst thou steer our city's course aright.",
+          "lineStart": 1012
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1013
+        },
+        {
+          "type": "para",
+          "text": "I have felt, and can attest, thy benefits.",
+          "lineStart": 1014
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TEIRESIAS",
+          "lineStart": 1015
+        },
+        {
+          "type": "para",
+          "text": "Mark that now, once more, thou standest on fate's fine edge.",
+          "lineStart": 1016
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1017
+        },
+        {
+          "type": "para",
+          "text": "What means this? How I shudder at thy message!",
+          "lineStart": 1018
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TEIRESIAS",
+          "lineStart": 1019
+        },
+        {
+          "type": "para",
+          "text": "Thou wilt learn, when thou hearest the warnings of mine art. As I took my place on mine old seat of augury, where all birds have been wont to gather within my ken, I heard a strange voice among them; they were screaming with dire, feverish rage, that drowned their language in jargon; and I knew that they were rending each other with their talons, murderously; the whirr of wings told no doubtful tale.",
+          "lineStart": 1020
+        },
+        {
+          "type": "para",
+          "text": "Forthwith, in fear, I essayed burnt-sacrifice on a duly kindled altar: but from my offerings the Fire-god showed no flame; a dank moisture, oozing from the thigh-flesh, trickled forth upon the embers, and smoked, and sputtered; the gall was scattered to the air; and the streaming thighs lay bared of the fat that had been wrapped round them.",
+          "lineStart": 1026
+        },
+        {
+          "type": "para",
+          "text": "Such was the failure of the rites by which I vainly asked a sign, as from this boy I learned; for he is my guide, as I am guide to others. And 'tis thy counsel that hath brought this sickness on our State. For the altars of our city and of our hearths have been tainted, one and all, by birds and dogs, with carrion from the hapless corpse, the son of Oedipus: and therefore the gods no more accept prayer and sacrifice at our hands, or the flame of meat-offering; nor doth any bird give a clear sign by its shrill cry, for they have tasted the fatness of a slain man's blood.",
+          "lineStart": 1031
+        },
+        {
+          "type": "para",
+          "text": "Think, then, on these things, my son. All men are liable to err; but when an error hath been made, that man is no longer witless or unblest who heals the ill into which he hath fallen, and remains not stubborn.",
+          "lineStart": 1040
+        },
+        {
+          "type": "para",
+          "text": "Self-will, we know, incurs the charge of folly. Nay, allow the claim of the dead; stab not the fallen; what prowess is it to slay the slain anew? I have sought thy good, and for thy good I speak: and never is it sweeter to learn from a good counsellor than when he counsels for thine own gain.",
+          "lineStart": 1044
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1049
+        },
+        {
+          "type": "para",
+          "text": "Old man, ye all shoot your shafts at me, as archers at the butts;-Ye must needs practise on me with seer-craft also;-aye, the seer-tribe hath long trafficked in me, and made me their merchandise. Gain your gains, drive your trade, if ye list, in the silver-gold of Sardis and the gold of India; but ye shall not hide that man in the grave,-no, though the eagles of Zeus should bear the carrion morsels to their Master's throne-no, not for dread of that defilement will I suffer his burial:-for well I know that no mortal can defile the gods.-But, aged Teiresias, the wisest fall with shameful fall, when they clothe shameful thoughts in fair words, for lucre's sake.",
+          "lineStart": 1050
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TEIRESIAS",
+          "lineStart": 1060
+        },
+        {
+          "type": "para",
+          "text": "Alas! Doth any man know, doth any consider...",
+          "lineStart": 1061
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1062
+        },
+        {
+          "type": "para",
+          "text": "Whereof? What general truth dost thou announce?",
+          "lineStart": 1063
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TEIRESIAS",
+          "lineStart": 1064
+        },
+        {
+          "type": "para",
+          "text": "How precious, above all wealth, is good counsel.",
+          "lineStart": 1065
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1066
+        },
+        {
+          "type": "para",
+          "text": "As folly, I think, is the worst mischief.",
+          "lineStart": 1067
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TEIRESIAS",
+          "lineStart": 1068
+        },
+        {
+          "type": "para",
+          "text": "Yet thou art tainted with that distemper.",
+          "lineStart": 1069
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1070
+        },
+        {
+          "type": "para",
+          "text": "I would not answer the seer with a taunt.",
+          "lineStart": 1071
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TEIRESIAS",
+          "lineStart": 1072
+        },
+        {
+          "type": "para",
+          "text": "But thou dost, in saying that I prophesy falsely.",
+          "lineStart": 1073
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1074
+        },
+        {
+          "type": "para",
+          "text": "Well, the prophet-tribe was ever fond of money.",
+          "lineStart": 1075
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TEIRESIAS",
+          "lineStart": 1076
+        },
+        {
+          "type": "para",
+          "text": "And the race bred of tyrants loves base gain.",
+          "lineStart": 1077
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1078
+        },
+        {
+          "type": "para",
+          "text": "Knowest thou that thy speech is spoken of thy king?",
+          "lineStart": 1079
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TEIRESIAS",
+          "lineStart": 1080
+        },
+        {
+          "type": "para",
+          "text": "I know it; for through me thou hast saved Thebes.",
+          "lineStart": 1081
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1082
+        },
+        {
+          "type": "para",
+          "text": "Thou art a wise seer; but thou lovest evil deeds.",
+          "lineStart": 1083
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TEIRESIAS",
+          "lineStart": 1084
+        },
+        {
+          "type": "para",
+          "text": "Thou wilt rouse me to utter the dread secret in my soul.",
+          "lineStart": 1085
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1086
+        },
+        {
+          "type": "para",
+          "text": "Out with it!-Only speak it not for gain.",
+          "lineStart": 1087
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TEIRESIAS",
+          "lineStart": 1088
+        },
+        {
+          "type": "para",
+          "text": "Indeed, methinks, I shall not,-as touching thee.",
+          "lineStart": 1089
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1090
+        },
+        {
+          "type": "para",
+          "text": "Know that thou shalt not trade on my resolve.",
+          "lineStart": 1091
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TEIRESIAS",
+          "lineStart": 1092
+        },
+        {
+          "type": "para",
+          "text": "Then know thou-aye, know it well-that thou shalt not live through many more courses of the sun's swift chariot, ere one begotten of thine own loins shall have been given by thee, a corpse for corpses; because thou hast thrust children of the sunlight to the shades, and ruthlessly lodged a living soul in the grave; but keepest in this world one who belongs to the gods infernal, a corpse unburied, unhonoured, all unhallowed. In such thou hast no part, nor have the gods above, but this is a violence done to them by thee. Therefore the avenging destroyers lie in wait for thee, the Furies of Hades and of the gods, that thou mayest be taken in these same ills.",
+          "lineStart": 1093
+        },
+        {
+          "type": "para",
+          "text": "And mark well if I speak these things as a hireling. A time not long to be delayed shall awaken the wailing of men and of women in thy house. And a tumult of hatred against thee stirs all the cities whose mangled sons had the burial-rite from dogs, or from wild beasts, or from some winged bird that bore a polluting breath to each city that contains the hearths of the dead.",
+          "lineStart": 1103
+        },
+        {
+          "type": "para",
+          "text": "Such arrows for thy heart-since thou provokest me-have I launched at thee, archer-like, in my anger,-sure arrows, of which thou shalt not escape the smart.-Boy, lead me home, that he may spend his rage on younger men, and learn to keep a tongue more temperate, and to bear within his breast a better mind than now he bears. The Boy leads TEIRESIAS Out.",
+          "lineStart": 1109
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1115
+        },
+        {
+          "type": "para",
+          "text": "The man hath gone, O King, with dread prophecies. And, since the hair on this head, once dark, hath been white, I know that he hath never been a false prophet to our city.",
+          "lineStart": 1116
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1119
+        },
+        {
+          "type": "para",
+          "text": "I, too, know it well, and am troubled in soul. 'Tis dire to yield; but, by resistance, to smite my pride with ruin-this, too, is a dire choice.",
+          "lineStart": 1120
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1123
+        },
+        {
+          "type": "para",
+          "text": "Son of Menoeceus, it behoves thee to take wise counsel.",
+          "lineStart": 1124
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1125
+        },
+        {
+          "type": "para",
+          "text": "What should I do then? Speak and I will obey.",
+          "lineStart": 1126
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1127
+        },
+        {
+          "type": "para",
+          "text": "Go thou, and free the maiden from her rocky chamber, and make a tomb for the unburied dead.",
+          "lineStart": 1128
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1130
+        },
+        {
+          "type": "para",
+          "text": "And this is thy counsel? Thou wouldst have me yield?",
+          "lineStart": 1131
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1132
+        },
+        {
+          "type": "para",
+          "text": "Yea, King, and with all speed; for swift harms from the gods cut short the folly of men.",
+          "lineStart": 1133
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1135
+        },
+        {
+          "type": "para",
+          "text": "Ah me, 'tis hard, but I resign my cherished resolve,-I obey. We must not wage a vain war with destiny.",
+          "lineStart": 1136
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1138
+        },
+        {
+          "type": "para",
+          "text": "Go, thou, and do these things; leave them not to others.",
+          "lineStart": 1139
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1140
+        },
+        {
+          "type": "para",
+          "text": "Even as I am I'll go:-on, on, my servants, each and all of you,-take axes in your hands, and hasten to the ground that ye see yonder! Since our judgment hath taken this turn, I will be present to unloose her, as myself bound her. My heart misgives me, 'tis best to keep the established laws, even to life's end. CREON and his servants hasten out on the spectators' left.",
+          "lineStart": 1141
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1148
+        },
+        {
+          "type": "para",
+          "text": "singing strophe 1 O thou of many names, glory of the Cadmeian bride, offspring of loud-thundering Zeus! thou who watchest over famed Italia, and reignest, where all guests are welcomed, in the sheltered plain of Eleusinian Deo! O Bacchus, dweller in Thebe, mother-city of Bacchants, by the softly-gliding stream of Ismenus, on the soil where the fierce dragon's teeth were sown! antistrophe Thou hast been seen where torch-flames glare through smoke, above the crests of the twin peaks, where move the Corycian nymphs, thy votaries, hard by Castalia's stream.",
+          "lineStart": 1149
+        },
+        {
+          "type": "para",
+          "text": "Thou comest from the ivy-mantled slopes of Nysa's hills, and from the shore green with many-clustered vines, while thy name is lifted up on strains of more than mortal power, as thou visitest the ways of Thebe:",
+          "lineStart": 1160
+        },
+        {
+          "type": "para",
+          "text": "strophe 2 Thebe, of all cities, thou holdest first in honour, thou and thy mother whom the lightning smote; and now, when all our people is captive to a violent plague, come thou with healing feet over the Parnassian height, or over the moaning strait! antistrophe 2 O thou with whom the stars rejoice as they move, the stars whose breath is fire; O master of the voices of the night; son begotten of Zeus; appear, O king, with thine attendant Thyiads, who in night-long frenzy dance before thee, the giver of good gifts, Iacchus! Enter MESSENGER, on the spectators' left.",
+          "lineStart": 1163
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 1173
+        },
+        {
+          "type": "para",
+          "text": "Dwellers by the house of Cadmus and of Amphion, there is no estate of mortal life that I would ever praise or blame as settled. Fortune raises and Fortune humbles the lucky or unlucky from day to day, and no one can prophesy to men concerning those things which are established. For",
+          "lineStart": 1174
+        },
+        {
+          "type": "para",
+          "text": "CREON was blest once, as I count bliss; he had saved this land of Cadmus from its foes; he was clothed with sole dominion in the land; he reigned, the glorious sire of princely children. And now all hath been lost. For when a man hath forfeited his pleasures, I count him not as living,-I hold him but a breathing corpse. Heap up riches in thy house, if thou wilt; live in kingly state; yet, if there be no gladness therewith, I would not give the shadow of a vapour for all the rest, compared with joy.",
+          "lineStart": 1179
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1186
+        },
+        {
+          "type": "para",
+          "text": "And what is this new grief that thou hast to tell for our princes?",
+          "lineStart": 1187
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 1188
+        },
+        {
+          "type": "para",
+          "text": "Death; and the living are guilty for the dead.",
+          "lineStart": 1189
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1190
+        },
+        {
+          "type": "para",
+          "text": "And who is the slayer? Who the stricken? Speak.",
+          "lineStart": 1191
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 1192
+        },
+        {
+          "type": "para",
+          "text": "Haemon hath perished; his blood hath been shed by no stranger.",
+          "lineStart": 1193
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1194
+        },
+        {
+          "type": "para",
+          "text": "By his father's hand, or by his own?",
+          "lineStart": 1195
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 1196
+        },
+        {
+          "type": "para",
+          "text": "By his own, in wrath with his sire for the murder.",
+          "lineStart": 1197
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1198
+        },
+        {
+          "type": "para",
+          "text": "O prophet, how true, then, hast thou proved thy word!",
+          "lineStart": 1199
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 1200
+        },
+        {
+          "type": "para",
+          "text": "These things stand thus; ye must consider of the rest.",
+          "lineStart": 1201
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1202
+        },
+        {
+          "type": "para",
+          "text": "Lo, I see the hapless Eurydice, Creon's wife, approaching; she comes from the house by chance, haply,-or because she knows the tidings of her son. Enter EURYDICE from the palace.",
+          "lineStart": 1203
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EURYDICE",
+          "lineStart": 1207
+        },
+        {
+          "type": "para",
+          "text": "People of Thebes, I heard your words as I was going forth, to salute the goddess Pallas with my prayers. Even as I was loosing the fastenings of the gate, to open it, the message of a household woe smote on mine ear: I sank back, terror-stricken, into the arms of my handmaids, and my senses fled. But say again what the tidings were; I shall hear them as one who is no stranger to sorrow.",
+          "lineStart": 1208
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 1214
+        },
+        {
+          "type": "para",
+          "text": "Dear lady, I will witness of what I saw, and will leave no word of the truth untold. Why, indeed, should I soothe thee with words in which must presently be found false? Truth is ever best.-I attended thy lord as his guide to the furthest part of the plain, where the body of Polyneices, torn by dogs, still lay unpitied. We prayed the goddess of the roads, and Pluto, in mercy to restrain their wrath; we washed the dead with holy washing; and with freshly-plucked boughs we solemnly burned such relics as there were. We raised a high mound of his native earth; and then we turned away to enter the maiden's nuptial chamber with rocky couch, the caverned mansion of the bride of Death. And, from afar off, one of us heard a voice of loud wailing at that bride's unhallowed bower; and came to tell our master Creon.",
+          "lineStart": 1215
+        },
+        {
+          "type": "para",
+          "text": "And as the king drew nearer, doubtful sounds of a bitter cry floated around him; he groaned, and said in accents of anguish, 'Wretched that I am, can my foreboding be true? Am I going on the wofullest way that ever I went? My son's voice greets me.-Go, my servants,-haste ye nearer, and when ye have reached the tomb, pass through the gap, where the stones have been wrenched away, to the cell's very mouth,-and look. and see if 'tis Haemon's voice that I know, or if mine ear is cheated by the gods.'",
+          "lineStart": 1227
+        },
+        {
+          "type": "para",
+          "text": "This search, at our despairing master's word, we went to make; and in the furthest part of the tomb we descried her hanging by the neck, slung by a thread-wrought halter of fine linen: while he was embracing her with arms thrown around her waist, bewailing the loss of his bride who is with the dead, and his father's deeds, and his own ill-starred love.",
+          "lineStart": 1235
+        },
+        {
+          "type": "para",
+          "text": "But his father, when he saw him, cried aloud with a dread cry and went in, and called to him with a voice of wailing:-'Unhappy, what deed hast thou done! What thought hath come to thee? What manner of mischance hath marred thy reason? Come forth, my child! I pray thee-I implore!' But the boy glared at him with fierce eyes, spat in his face, and, without a word of answer, drew his cross-hilted sword:-as his father rushed forth in flight, he missed his aim;-then, hapless one, wroth with himself, he straightway leaned with all his weight against his sword, and drove it, half its length, into his side; and, while sense lingered, he clasped the maiden to his faint embrace, and, as he gasped, sent forth on her pale cheek the swift stream of the oozing blood.",
+          "lineStart": 1241
+        },
+        {
+          "type": "para",
+          "text": "Corpse enfolding corpse he lies; he hath won his nuptial rites, poor youth, not here, yet in the halls of Death; and he hath witnessed to mankind that, of all curses which cleave to man, ill counsel is the sovereign curse. EURYDICE retires into the house.",
+          "lineStart": 1252
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1257
+        },
+        {
+          "type": "para",
+          "text": "What wouldst thou augur from this? The lady hath turned back, and is gone, without a word, good or evil.",
+          "lineStart": 1258
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 1260
+        },
+        {
+          "type": "para",
+          "text": "I, too, am startled; yet I nourish the hope that, at these sore tidings of her son, she cannot deign to give her sorrow public vent, but in the privacy of the house will set her handmaids to mourn the household grief. For she is not untaught of discretion, that she should err.",
+          "lineStart": 1261
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1265
+        },
+        {
+          "type": "para",
+          "text": "I know not; but to me, at least, a strained silence seems to portend peril, no less than vain abundance of lament.",
+          "lineStart": 1266
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 1268
+        },
+        {
+          "type": "para",
+          "text": "Well, I will enter the house, and learn whether indeed she is not hiding some repressed purpose in the depths of a passionate heart. Yea, thou sayest well: excess of silence, too, may have a perilous meaning. The MESSENGER goes into the palace. Enter CREON, on the spectators' left, with attendants, carrying the shrouded body of HAEMON on bier. The following lines between CREON and the CHORUS are chanted responsively.",
+          "lineStart": 1269
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1276
+        },
+        {
+          "type": "para",
+          "text": "Lo, yonder the king himself draws near, bearing that which tells too clear a tale,-the work of no stranger's madness,-if we may say it,-but of his own misdeeds.",
+          "lineStart": 1277
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1280
+        },
+        {
+          "type": "para",
+          "text": "strophe 1 Woe for the sins of a darkened soul, stubborn sins, fraught with death! Ah, ye behold us, the sire who hath slain, the son who hath perished! Woe is me, for the wretched blindness of my counsels! Alas, my son, thou hast died in thy youth, by a timeless doom, woe is me!-thy spirit hath fled,-not by thy folly, but by mine own!",
+          "lineStart": 1281
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1287
+        },
+        {
+          "type": "para",
+          "text": "strophe 2 Ah me, how all too late thou seemest to see the right! CREON Ah me, I have learned the bitter lesson! But then, methinks, oh then, some god smote me from above with crushing weight, and hurled me into ways of cruelty, woe is me,-overthrowing and trampling on my joy! Woe, woe, for the troublous toils of men! Enter MESSENGER from the house.",
+          "lineStart": 1288
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 1295
+        },
+        {
+          "type": "para",
+          "text": "Sire, thou hast come, methinks, as one whose hands are not empty, but who hath store laid up besides; thou bearest yonder burden with thee-and thou art soon to look upon the woes within thy house.",
+          "lineStart": 1296
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1300
+        },
+        {
+          "type": "para",
+          "text": "And what worse ill is yet to follow upon ills?",
+          "lineStart": 1301
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 1302
+        },
+        {
+          "type": "para",
+          "text": "Thy queen hath died, true mother of yon corpse-ah, hapless lady by blows newly dealt.",
+          "lineStart": 1303
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1305
+        },
+        {
+          "type": "para",
+          "text": "antistrophe 1 Oh Hades, all-receiving whom no sacrifice can appease! Hast thou, then, no mercy for me? O thou herald of evil, bitter tidings, what word dost thou utter? Alas, I was already as dead, and thou hast smitten me anew! What sayest thou, my son? What is this new message that thou bringest-woe, woe is me!-Of a wife's doom-of slaughter headed on slaughter?",
+          "lineStart": 1306
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1312
+        },
+        {
+          "type": "para",
+          "text": "Thou canst behold: 'tis no longer hidden within. The doors of the palace are opened, and the corpse of EURYDICE is disclosed.",
+          "lineStart": 1313
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1315
+        },
+        {
+          "type": "para",
+          "text": "antistrophe 2 Ah me,-yonder I behold a new, a second woe! What destiny, ah what, can yet await me? I have but now raised my son in my arms,-and there, again, I see a corpse before me! Alas, alas, unhappy mother! Alas, my child!",
+          "lineStart": 1316
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 1321
+        },
+        {
+          "type": "para",
+          "text": "There, at the altar, self-stabbed with a keen knife, she suffered her darkening eyes to close, when she had wailed for the noble fate of Megareus who died before, and then for his fate who lies there,-and when, with her last breath, she had invoked evil fortunes upon thee, the slayer of thy sons.",
+          "lineStart": 1322
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1327
+        },
+        {
+          "type": "para",
+          "text": "strophe 3 Woe, woe! I thrill with dread. Is there none to strike me to the heart with two-edged sword?-O miserable that I am, and steeped in miserable anguish!",
+          "lineStart": 1328
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 1332
+        },
+        {
+          "type": "para",
+          "text": "Yea, both this son's doom, and that other's, were laid to thy charge by her whose corpse thou seest.",
+          "lineStart": 1333
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1335
+        },
+        {
+          "type": "para",
+          "text": "And what was the manner of the violent deed by which she passed away?",
+          "lineStart": 1336
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 1338
+        },
+        {
+          "type": "para",
+          "text": "Her own hand struck her to the heart, when she had learned her son's sorely lamented fate.",
+          "lineStart": 1339
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1341
+        },
+        {
+          "type": "para",
+          "text": "strophe 4 Ah me, this guilt can never be fixed on any other of mortal kind, for my acquittal! I, even I, was thy slayer, wretched that I am-I own the truth. Lead me away, O my servants, lead me hence with all speed, whose life is but as death!",
+          "lineStart": 1342
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1347
+        },
+        {
+          "type": "para",
+          "text": "Thy counsels are good, if there can be good with ills; briefest is best, when trouble is in our path.",
+          "lineStart": 1348
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1350
+        },
+        {
+          "type": "para",
+          "text": "antistrophe 3 Oh, let it come, let it appear, that fairest of fates for me, that brings my last day,-aye, best fate of all! Oh, let it come, that I may never look upon to-morrow's light.",
+          "lineStart": 1351
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1355
+        },
+        {
+          "type": "para",
+          "text": "These things are in the future; present tasks claim our care: the ordering of the future rests where it should rest.",
+          "lineStart": 1356
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1358
+        },
+        {
+          "type": "para",
+          "text": "All my desires, at least, were summed in that prayer.",
+          "lineStart": 1359
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1360
+        },
+        {
+          "type": "para",
+          "text": "Pray thou no more; for mortals have no escape from destined woe.",
+          "lineStart": 1361
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREON",
+          "lineStart": 1363
+        },
+        {
+          "type": "para",
+          "text": "antistrophe 4 Lead me away, I pray you; a rash, foolish man; who have slain thee, ah my son, unwittingly, and thee, too, my wife-unhappy that I am! I know not which way I should bend my gaze, or where I should seek support; for all is amiss with that which is in my hands,-and yonder, again, a crushing fate hath leapt upon my head. As CREON is being conducted into the palace, the LEADER OF THE CHORUS speaks the closing verses.",
+          "lineStart": 1364
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1375
+        },
+        {
+          "type": "para",
+          "text": "Wisdom is the supreme part of happiness; and reverence towards the gods must be inviolate. Great words of prideful men are ever punished with great blows, and, in old age, teach the chastened to be wise.",
+          "lineStart": 1376
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 327,
+    "wordCount": 12066
+  }
+}

@@ -1,0 +1,2816 @@
+{
+  "id": "Plato/philebus",
+  "author": "Plato",
+  "authorKey": "Plato",
+  "title": "Philebus",
+  "translator": "Benjamin Jowett",
+  "language": "Greek",
+  "written": "360 BCE",
+  "sourceNote": null,
+  "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "hard-wrapped prose: 0.884 long unterminated interior lines, median line length 56.0, 0.588 unmarked continuation lines",
+  "textModeStats": {
+    "lineCount": 1339,
+    "paragraphCount": 553,
+    "interiorLineCount": 786,
+    "medianLineLength": 56.0,
+    "meanLineLength": 46.415235250186704,
+    "longInteriorLineRatio": 0.9147582697201018,
+    "unterminatedInteriorLineRatio": 0.9694656488549618,
+    "longUnterminatedInteriorLineRatio": 0.8842239185750637,
+    "explicitBreakLineRatio": 0.0,
+    "unmarkedLineRatio": 0.5877520537714712
+  },
+  "landingUrl": "https://classics.mit.edu/Plato/philebus.html",
+  "textUrls": [
+    "https://classics.mit.edu/Plato/philebus.html"
+  ],
+  "txtUrl": "https://classics.mit.edu/Plato/philebus.1b.txt",
+  "sections": [
+    {
+      "seq": 1,
+      "id": "philebus-philebus",
+      "heading": "Philebus",
+      "partTitle": "Philebus",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Persons of the Dialogue",
+          "lineStart": 10
+        },
+        {
+          "type": "para",
+          "text": "SOCRATES PROTARCHUS PHILEBUS",
+          "lineStart": 11
+        },
+        {
+          "type": "para",
+          "text": "Socrates. Observe, Protarchus, the nature of the position which you are now going to take from Philebus, and what the other position is which I maintain, and which, if you do not approve of it, is to be controverted by you. Shall you and I sum up the two sides?",
+          "lineStart": 14
+        },
+        {
+          "type": "para",
+          "text": "Protarchus. By all means.",
+          "lineStart": 18
+        },
+        {
+          "type": "para",
+          "text": "Soc. Philebus was saying that enjoyment and pleasure and delight, and the class of feelings akin to them, are a good to every living being, whereas I contend, that not these, but wisdom and intelligence and memory, and their kindred, right opinion and true reasoning, are better and more desirable than pleasure for all who are able to partake of them, and that to all such who are or ever will be they are the most advantageous of all things. Have I not given, Philebus, a fair statement of the two sides of the argument?",
+          "lineStart": 19
+        },
+        {
+          "type": "para",
+          "text": "Philebus Nothing could be fairer, Socrates.",
+          "lineStart": 27
+        },
+        {
+          "type": "para",
+          "text": "Soc. And do you, the position which is assigned to you?",
+          "lineStart": 28
+        },
+        {
+          "type": "para",
+          "text": "Pro. I cannot do otherwise, since our excellent Philebus has left the field.",
+          "lineStart": 30
+        },
+        {
+          "type": "para",
+          "text": "Soc. Surely the truth about these matters ought, by all means, to be ascertained.",
+          "lineStart": 32
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly.",
+          "lineStart": 34
+        },
+        {
+          "type": "para",
+          "text": "Soc. Shall we further agree-",
+          "lineStart": 35
+        },
+        {
+          "type": "para",
+          "text": "Pro. To what?",
+          "lineStart": 36
+        },
+        {
+          "type": "para",
+          "text": "Soc. That you and I must now try to indicate some state and disposition of the soul, which has the property of making all men happy.",
+          "lineStart": 37
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes, by all means.",
+          "lineStart": 40
+        },
+        {
+          "type": "para",
+          "text": "Soc. And you say that pleasure and I say that wisdom, is such a state?",
+          "lineStart": 41
+        },
+        {
+          "type": "para",
+          "text": "Pro. True.",
+          "lineStart": 43
+        },
+        {
+          "type": "para",
+          "text": "Soc. And what if there be a third state, which is better than either? Then both of us are vanquished-are we not? But if this life, which really has the power of making men happy, turn out to be more akin to pleasure than to wisdom, the life of pleasure may still have the advantage over the life of wisdom.",
+          "lineStart": 44
+        },
+        {
+          "type": "para",
+          "text": "Pro. True.",
+          "lineStart": 49
+        },
+        {
+          "type": "para",
+          "text": "Soc. Or suppose that the better life is more nearly allied to wisdom, then wisdom conquers, and pleasure is defeated;-do you agree?",
+          "lineStart": 50
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly.",
+          "lineStart": 53
+        },
+        {
+          "type": "para",
+          "text": "Soc. And what do you say, Philebus?",
+          "lineStart": 54
+        },
+        {
+          "type": "para",
+          "text": "Phi. I say; and shall always say, that pleasure is easily the conqueror; but you must decide for yourself, Protarchus.",
+          "lineStart": 55
+        },
+        {
+          "type": "para",
+          "text": "Pro. You, Philebus, have handed over the argument to me, and have no longer a voice in the matter?",
+          "lineStart": 57
+        },
+        {
+          "type": "para",
+          "text": "Phi. True enough. Nevertheless I would dear myself and deliver my soul of you; and I call the goddess herself to witness that I now do so.",
+          "lineStart": 59
+        },
+        {
+          "type": "para",
+          "text": "Pro. You may appeal to us; we too be the witnesses of your words. And now, Socrates, whether Philebus is pleased or displeased, we will proceed with the argument.",
+          "lineStart": 62
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then let us begin with the goddess herself, of whom Philebus says that she is called Aphrodite, but that her real name is Pleasure.",
+          "lineStart": 65
+        },
+        {
+          "type": "para",
+          "text": "Pro. Very good.",
+          "lineStart": 68
+        },
+        {
+          "type": "para",
+          "text": "Soc. The awe which I always feel, Protarchus, about the names of the gods is more than human-it exceeds all other fears. And now I would not sin against Aphrodite by naming her amiss; let her be called what she pleases. But Pleasure I know to be manifold, and with her, as I was just now saying, we must begin, and consider what her nature is. She has one name, and therefore you would imagine that she is one; and yet surely she takes the most varied and even unlike forms. For do we not say that the intemperate has pleasure, and that the temperate has pleasure in his very temperance-that the fool is pleased when he is full of foolish fancies and hopes, and that the wise man has pleasure in his wisdom? and how foolish would any one be who affirmed that all these opposite pleasures are severally alike!",
+          "lineStart": 69
+        },
+        {
+          "type": "para",
+          "text": "Pro. Why, Socrates, they are opposed in so far as they spring from opposite sources, but they are not in themselves opposite. For must not pleasure be of all things most absolutely like pleasure-that is, like himself?",
+          "lineStart": 81
+        },
+        {
+          "type": "para",
+          "text": "Soc. Yes, my good friend, just as colour is like colour;-in so far as colours are colours, there is no difference between them; and yet we all know that black is not only unlike, but even absolutely opposed to white: or again, as figure is like figure, for all figures are comprehended under one class; and yet particular figures may be absolutely opposed to one another, and there is an infinite diversity of them. And we might find similar examples in many other things; therefore do not rely upon this argument, which would go to prove the unity of the most extreme opposites. And I suspect that we shall find a similar opposition among pleasures.",
+          "lineStart": 85
+        },
+        {
+          "type": "para",
+          "text": "Pro. Very likely; but how will this invalidate the argument?",
+          "lineStart": 95
+        },
+        {
+          "type": "para",
+          "text": "Soc. Why, I shall reply, that dissimilar as they are, you apply to them a now predicate, for you say that all pleasant things are good; now although no one can argue that pleasure is not pleasure, he may argue, as we are doing, that pleasures are oftener bad than good; but you call them all good, and at the same time are compelled, if you are pressed, to acknowledge that they are unlike. And so you must tell us what is the identical quality existing alike in good and bad pleasures, which makes. you designate all of them as good.",
+          "lineStart": 97
+        },
+        {
+          "type": "para",
+          "text": "Pro. What do you mean, Socrates? Do you think that any one who asserts pleasure to be the good, will tolerate the notion that some Pleasures are good and others bad?",
+          "lineStart": 105
+        },
+        {
+          "type": "para",
+          "text": "Soc. And yet you will acknowledge that they are different from one another, and sometimes opposed?",
+          "lineStart": 108
+        },
+        {
+          "type": "para",
+          "text": "Pro. Not in so far as they are pleasures.",
+          "lineStart": 110
+        },
+        {
+          "type": "para",
+          "text": "Soc. That is a return to the old position, Protarchus, and so we are to say (are we?) that there is no difference in pleasures, but that they are all alike; and the examples which have just been cited do not pierce our dull minds, but we go on arguing all the same, like the weakest and most inexperienced reasoners?",
+          "lineStart": 111
+        },
+        {
+          "type": "para",
+          "text": "Pro. What do you mean?",
+          "lineStart": 116
+        },
+        {
+          "type": "para",
+          "text": "Soc. Why, I mean to say, that in self-defence I may, if I like, follow your example, and assert boldly that the two things most unlike are most absolutely alike; and the result will be that you and I will prove ourselves to be very tyros in the art of disputing; and the argument will be blown away and lost. Suppose that we put back, and return to the old position; then perhaps we may come to an understanding with one another.",
+          "lineStart": 117
+        },
+        {
+          "type": "para",
+          "text": "Pro. How do you mean?",
+          "lineStart": 124
+        },
+        {
+          "type": "para",
+          "text": "Soc. Shall I, Protarchus, have my own question asked of me by you?",
+          "lineStart": 125
+        },
+        {
+          "type": "para",
+          "text": "Pro. What question?",
+          "lineStart": 127
+        },
+        {
+          "type": "para",
+          "text": "Soc. Ask me whether wisdom and science and mind, and those other qualities which I, when asked by you at first what is the nature of the good, affirmed to be good, are not in the same case with the pleasures of which you spoke.",
+          "lineStart": 128
+        },
+        {
+          "type": "para",
+          "text": "Pro. What do you mean?",
+          "lineStart": 132
+        },
+        {
+          "type": "para",
+          "text": "Soc. The sciences are a numerous class, and will be found to present great differences. But even admitting that, like the pleasures, they are opposite as well as different, should I be worthy of the name of dialectician if, in order to avoid this difficulty, I were to say (as you are saying of pleasure) that there is no difference between one science and another;-would not the argument founder and disappear like an idle tale, although we might ourselves escape drowning by clinging to a fallacy?",
+          "lineStart": 133
+        },
+        {
+          "type": "para",
+          "text": "Pro. May none of this befall us, except the deliverance! Yet I like the even-handed justice which is applied to both our arguments. Let us assume, then, that there are many and diverse pleasures, and many and different sciences.",
+          "lineStart": 141
+        },
+        {
+          "type": "para",
+          "text": "Soc. And let us have no concealment, Protarchus, of the differences between my good and yours; but let us bring them to the light in the hope that, in the process of testing them, they may show whether pleasure is to be called the good, or wisdom, or some third quality; for surely we are not now simply contending in order that my view or that yours may prevail, but I presume that we ought both of us to be fighting for the truth.",
+          "lineStart": 145
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly we ought.",
+          "lineStart": 152
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then let us have a more definite understanding and establish the principle on which the argument rests.",
+          "lineStart": 153
+        },
+        {
+          "type": "para",
+          "text": "Pro. What principle?",
+          "lineStart": 155
+        },
+        {
+          "type": "para",
+          "text": "Soc. A principle about which all men are always in a difficulty, and some men sometimes against their will.",
+          "lineStart": 156
+        },
+        {
+          "type": "para",
+          "text": "Pro. Speak plainer.",
+          "lineStart": 158
+        },
+        {
+          "type": "para",
+          "text": "Soc. The principle which has just turned up, which is a marvel of nature; for that one should be many or many one, are wonderful propositions; and he who affirms either is very open to attack.",
+          "lineStart": 159
+        },
+        {
+          "type": "para",
+          "text": "Pro. Do you mean, when a person says that I, Protarchus, am by nature one and also many, dividing the single \"me\" into many \"mens,\" and even opposing them as great and small, light and heavy, and in ten thousand other ways?",
+          "lineStart": 163
+        },
+        {
+          "type": "para",
+          "text": "Soc. Those, Protarchus, are the common and acknowledged paradoxes about the one and many, which I may say that everybody has by this time agreed to dismiss as childish and obvious and detrimental to the true course of thought; and no more favour is shown to that other puzzle, in which a person proves the members and parts of anything to be divided, and then confessing that they are all one, says laughingly in disproof of his own words: Why, here is a miracle, the one is many and infinite, and the many are only one.",
+          "lineStart": 167
+        },
+        {
+          "type": "para",
+          "text": "Pro. But what, Socrates, are those other marvels connected with this subject which, as you imply, have not yet become common and acknowledged?",
+          "lineStart": 175
+        },
+        {
+          "type": "para",
+          "text": "Soc. When, my boy, the one does not belong to the class of things that are born and perish, as in the instances which we were giving, for in those cases, and when unity is of this concrete nature, there is, as I was saying, a universal consent that no refutation is needed; but when the assertion is made that man is one, or ox is one, or beauty one, or the good one, then the interest which attaches to these and similar unities and the attempt which is made to divide them gives birth to a controversy.",
+          "lineStart": 178
+        },
+        {
+          "type": "para",
+          "text": "Pro. Of what nature?",
+          "lineStart": 186
+        },
+        {
+          "type": "para",
+          "text": "Soc. In the first place, as to whether these unities have a real existence; and then how each individual unity, being always the same, and incapable either of generation of destruction, but retaining a permanent individuality, can be conceived either as dispersed and multiplied in the infinity of the world of generation, or as still entire and yet divided from itself, which latter would seem to be the greatest impossibility of all, for how can one and the same thing be at the same time in one and in many things? These, Protarchus, are the real difficulties, and this is the one and many to which they relate; they are the source of great perplexity if ill decided, and the right determination of them is very helpful.",
+          "lineStart": 187
+        },
+        {
+          "type": "para",
+          "text": "Pro. Then, Socrates, let us begin by clearing up these questions.",
+          "lineStart": 198
+        },
+        {
+          "type": "para",
+          "text": "Soc. That is what I should wish.",
+          "lineStart": 200
+        },
+        {
+          "type": "para",
+          "text": "Pro. And I am sure that all my other friends will be glad to hear them discussed; Philebus, fortunately for us, is not disposed to move, and we had better not stir him up with questions.",
+          "lineStart": 201
+        },
+        {
+          "type": "para",
+          "text": "Soc. Good; and where shall we begin this great and multifarious battle, in which such various points are at issue? Shall begin thus?",
+          "lineStart": 204
+        },
+        {
+          "type": "para",
+          "text": "Pro. How?",
+          "lineStart": 207
+        },
+        {
+          "type": "para",
+          "text": "Soc. We say that the one and many become identified by thought, and that now, as in time past, they run about together, in and out of every word which is uttered, and that this union of them will never cease, and is not now beginning, but is, as I believe, an everlasting quality of thought itself, which never grows old. Any young man, when he first tastes these subtleties, is delighted, and fancies that he has found a treasure of wisdom; in the first enthusiasm of his joy he leaves no stone, or rather no thought unturned, now rolling up the many into the one, and kneading them together, now unfolding and dividing them; he puzzles himself first and above all, and then he proceeds to puzzle his neighbours, whether they are older or younger, or of his own age-that makes no difference; neither father nor mother does he spare; no human being who has ears is safe from him, hardly even his dog, and a barbarian would have no chance of escaping him, if an interpreter could only be found.",
+          "lineStart": 208
+        },
+        {
+          "type": "para",
+          "text": "Pro. Considering, Socrates, how many we are, and that all of us are young men, is there not a danger that we and Philebus may all set upon you, if you abuse us? We understand what you mean; but is there no charm by which we may dispel all this confusion, no more excellent way of arriving at the truth? If there is, we hope that you will guide us into that way, and we will do our best to follow, for the enquiry in which we are engaged, Socrates, is not unimportant.",
+          "lineStart": 222
+        },
+        {
+          "type": "para",
+          "text": "Soc. The reverse of unimportant, my boys, as Philebus calls you, and there neither is nor ever will be a better than my own favourite way, which has nevertheless already often deserted me and left me helpless in the hour of need.",
+          "lineStart": 229
+        },
+        {
+          "type": "para",
+          "text": "Pro. Tell us what that is.",
+          "lineStart": 233
+        },
+        {
+          "type": "para",
+          "text": "Soc. One which may be easily pointed out, but is by no means easy of application; it is the parent of all the discoveries in the arts.",
+          "lineStart": 234
+        },
+        {
+          "type": "para",
+          "text": "Pro. Tell us what it is.",
+          "lineStart": 237
+        },
+        {
+          "type": "para",
+          "text": "Soc. A gift of heaven, which, as I conceive, the gods tossed among men by the hands of a new Prometheus, and therewith a blaze of light; and the ancients, who were our betters and nearer the gods than we are, handed down the tradition, that whatever things are said to be are composed of one and many, and have the finite, and infinite implanted in them: seeing, then, that such is the order of the world, we too ought in every enquiry to begin by laying down one idea of that which is the subject of enquiry; this unity we shall find in everything. Having found it, we may next proceed to look for two, if there be two, or, if not, then for three or some other number, subdividing each of these units, until at last the unity with which we began is seen not only to be one and many and infinite, but also a definite number; the infinite must not be suffered to approach the many until the entire number of the species intermediate between unity and infinity has been discovered-then, and not till then, we may, rest from division, and without further troubling ourselves about the endless individuals may allow them to drop into infinity. This, as I was saying, is the way of considering and learning and teaching one another, which the gods have handed down to us. But the wise men of our time are either too quick or too slow, in conceiving plurality in unity. Having no method, they make their one and many anyhow, and from unity pass at once to infinity; the intermediate steps never occur to them. And this, I repeat, is what makes the difference between the mere art of disputation and true dialectic.",
+          "lineStart": 238
+        },
+        {
+          "type": "para",
+          "text": "Pro. I think that I partly understand you Socrates, but I should like to have a clearer notion of what you are saying.",
+          "lineStart": 260
+        },
+        {
+          "type": "para",
+          "text": "Soc. I may illustrate my meaning by the letters of the alphabet, Protarchus, which you were made to learn as a child.",
+          "lineStart": 263
+        },
+        {
+          "type": "para",
+          "text": "Pro. How do they afford an illustration?",
+          "lineStart": 265
+        },
+        {
+          "type": "para",
+          "text": "Soc. The sound which passes through the lips whether of an individual or of all men is one and yet infinite.",
+          "lineStart": 266
+        },
+        {
+          "type": "para",
+          "text": "Pro. Very true.",
+          "lineStart": 268
+        },
+        {
+          "type": "para",
+          "text": "Soc. And yet not by knowing either that sound is one or that sound is infinite are we perfect in the art of speech, but the knowledge of the number and nature of sounds is what makes a man a grammarian.",
+          "lineStart": 269
+        },
+        {
+          "type": "para",
+          "text": "Pro. Very true.",
+          "lineStart": 273
+        },
+        {
+          "type": "para",
+          "text": "Soc. And the knowledge which makes a man a musician is of the same kind.",
+          "lineStart": 274
+        },
+        {
+          "type": "para",
+          "text": "Pro. How so?",
+          "lineStart": 276
+        },
+        {
+          "type": "para",
+          "text": "Soc. Sound is one in music as well as in grammar?",
+          "lineStart": 277
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly.",
+          "lineStart": 279
+        },
+        {
+          "type": "para",
+          "text": "Soc. And there is a higher note and a lower note, and a note of equal pitch:-may we affirm so much?",
+          "lineStart": 280
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes.",
+          "lineStart": 282
+        },
+        {
+          "type": "para",
+          "text": "Soc. But you would not be a real musician if this was all that you knew; though if you did not know this you would know almost nothing of music.",
+          "lineStart": 283
+        },
+        {
+          "type": "para",
+          "text": "Pro. Nothing.",
+          "lineStart": 286
+        },
+        {
+          "type": "para",
+          "text": "Soc. But when you have learned what sounds are high and what low, and the number and nature of the intervals and their limits or proportions, and the systems compounded out of them, which our fathers discovered, and have handed down to us who are their descendants under the name of harmonies; and the affections corresponding to them in the movements of the human body, which when measured by numbers ought, as they say, to be called rhythms and measures; and they tell us that the same principle should be applied to every one and many;-when, I say, you have learned all this, then, my dear friend, you are perfect; and you may be said to understand any other subject, when you have a similar grasp of it. But the, infinity of kinds and the infinity of individuals which there is in each of them, when not classified, creates in every one of us a state of infinite ignorance; and he who never looks for number in anything, will not himself be looked for in the number of famous men.",
+          "lineStart": 287
+        },
+        {
+          "type": "para",
+          "text": "Pro. I think that what Socrates is now saying is excellent, Philebus.",
+          "lineStart": 301
+        },
+        {
+          "type": "para",
+          "text": "Phi. I think so too, but how do his words bear upon us and upon the argument?",
+          "lineStart": 303
+        },
+        {
+          "type": "para",
+          "text": "Soc. Philebus is right in asking that question of us, Protarchus.",
+          "lineStart": 305
+        },
+        {
+          "type": "para",
+          "text": "Pro. Indeed he is, and you must answer him.",
+          "lineStart": 307
+        },
+        {
+          "type": "para",
+          "text": "Soc. I will; but you must let me make one little remark first about these matters; I was saying, that he who begins with any individual unity, should proceed from that, not to infinity, but to a definite number, and now I say conversely, that he who has to begin with infinity should not jump to unity, but he should look about for some number, representing a certain quantity, and thus out of all end in one. And now let us return for an illustration of our principle to the case of letters.",
+          "lineStart": 309
+        },
+        {
+          "type": "para",
+          "text": "Pro. What do you mean?",
+          "lineStart": 317
+        },
+        {
+          "type": "para",
+          "text": "Soc. Some god or divine man, who in the Egyptian legend is said to have been Theuth, observing that the human voice was infinite, first distinguished in this infinity a certain number of vowels, and then other letters which had sound, but were not pure vowels (i.e., the semivowels); these too exist in a definite number; and lastly, he distinguished a third class of letters which we now call mutes, without voice and without sound, and divided these, and likewise the two other classes of vowels and semivowels, into the individual sounds, told the number of them, and gave to each and all of them the name of letters; and observing that none of us could learn any one of them and not learn them all, and in consideration of this common bond which in a manner united them, he assigned to them all a single art, and this he called the art of grammar or letters.",
+          "lineStart": 318
+        },
+        {
+          "type": "para",
+          "text": "Phi. The illustration, Protarchus, has assisted me in understanding the original statement, but I still feel the defect of which I just now complained.",
+          "lineStart": 330
+        },
+        {
+          "type": "para",
+          "text": "Soc. Are you going to ask, Philebus, what this has to do with the argument?",
+          "lineStart": 333
+        },
+        {
+          "type": "para",
+          "text": "Phi. Yes, that is a question which Protarchus and I have been long asking.",
+          "lineStart": 335
+        },
+        {
+          "type": "para",
+          "text": "Soc. Assuredly you have already arrived at the answer to the question which, as you say, you have been so long asking?",
+          "lineStart": 337
+        },
+        {
+          "type": "para",
+          "text": "Phi. How so?",
+          "lineStart": 340
+        },
+        {
+          "type": "para",
+          "text": "Soc. Did we not begin by enquiring into the comparative eligibility of pleasure and wisdom?",
+          "lineStart": 341
+        },
+        {
+          "type": "para",
+          "text": "Phi. Certainly.",
+          "lineStart": 343
+        },
+        {
+          "type": "para",
+          "text": "Soc. And we maintain that they are each of them one?",
+          "lineStart": 344
+        },
+        {
+          "type": "para",
+          "text": "Phi. True.",
+          "lineStart": 346
+        },
+        {
+          "type": "para",
+          "text": "Soc. And the precise question to which the previous discussion desires an answer is, how they are one and also many [i.e., how they have one genus and many species], and are not at once infinite, and what number of species is to be assigned to either of them before they pass into infinity.",
+          "lineStart": 347
+        },
+        {
+          "type": "para",
+          "text": "Pro. That is a very serious question, Philebus, to which Socrates has ingeniously brought us round, and please to consider which of us shall answer him; there may be something ridiculous in my being unable to answer, and therefore imposing the task upon you, when I have undertaken the whole charge of the argument, but if neither of us were able to answer, the result methinks would be still more ridiculous. Let us consider, then, what we are to do:-Socrates, if I understood him rightly, is asking whether there are not kinds of pleasure, and what is the number and nature of them, and the same of wisdom.",
+          "lineStart": 352
+        },
+        {
+          "type": "para",
+          "text": "Soc. Most true, O son of Callias; and the previous argument showed that if we are not able to tell the kinds of everything that has unity, likeness, sameness, or their opposites, none of us will be of the smallest use in any enquiry.",
+          "lineStart": 361
+        },
+        {
+          "type": "para",
+          "text": "Pro. That seems to be very near the truth, Socrates. Happy would the wise man be if he knew all things, and the next best thing for him is that he should know himself. Why do I say so at this moment? I will tell you. You, Socrates, have granted us this opportunity of conversing with you, and are ready to assist us in determining what is the best of human goods. For when Philebus said that pleasure and delight and enjoyment and the like were the chief good, you answered-No, not those, but another class of goods; and we are constantly reminding ourselves of what you said, and very properly, in order that we may not forget to examine and compare the two. And these goods, which in your opinion are to be designated as superior to pleasure, and are the true objects of pursuit, are mind and knowledge and understanding and art and the like. There was a dispute about which were the best, and we playfully threatened that you should not be allowed to go home until the question was settled; and you agreed, and placed yourself at our disposal. And now, as children say, what has been fairly given cannot be taken back; cease then to fight against us in this way.",
+          "lineStart": 365
+        },
+        {
+          "type": "para",
+          "text": "Soc. In what way?",
+          "lineStart": 382
+        },
+        {
+          "type": "para",
+          "text": "Phi. Do not perplex us, and keep asking questions of us to which we have not as yet any sufficient answer to give; let us not imagine that a general puzzling of us all is to be the end of our discussion, but if we are unable to answer, do you answer, as you have promised. Consider, then, whether you will divide pleasure and knowledge according to their kinds; or you may let the matter drop, if you are able and willing to find some other mode of clearing up our controversy.",
+          "lineStart": 383
+        },
+        {
+          "type": "para",
+          "text": "Soc. If you say that, I have nothing to apprehend, for the words \"if you are willing\" dispel all my fear; and, moreover, a god seems to have recalled something to my mind.",
+          "lineStart": 390
+        },
+        {
+          "type": "para",
+          "text": "Phi. What is that?",
+          "lineStart": 393
+        },
+        {
+          "type": "para",
+          "text": "Soc. I remember to have heard long ago certain discussions about pleasure and wisdom, whether awake or in a dream I cannot tell; they were to the effect that neither the one nor the other of them was the good, but some third thing, which was different from them, and better than either. If this be clearly established, then pleasure will lose the victory, for the good will cease to be identified with her:-Am I not right?",
+          "lineStart": 394
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes.",
+          "lineStart": 401
+        },
+        {
+          "type": "para",
+          "text": "Soc. And there will cease to be any need of distinguishing the kinds of pleasures, as I am inclined to think, but this will appear more clearly as we proceed.",
+          "lineStart": 402
+        },
+        {
+          "type": "para",
+          "text": "Pro. Capital, Socrates; pray go on as you propose.",
+          "lineStart": 405
+        },
+        {
+          "type": "para",
+          "text": "Soc. But, let us first agree on some little points.",
+          "lineStart": 407
+        },
+        {
+          "type": "para",
+          "text": "Pro. What are they?",
+          "lineStart": 409
+        },
+        {
+          "type": "para",
+          "text": "Soc. Is the good perfect or imperfect?",
+          "lineStart": 410
+        },
+        {
+          "type": "para",
+          "text": "Pro. The most perfect, Socrates, of all things.",
+          "lineStart": 411
+        },
+        {
+          "type": "para",
+          "text": "Soc. And is the good sufficient?",
+          "lineStart": 413
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes, certainly, and in a degree surpassing all other things.",
+          "lineStart": 414
+        },
+        {
+          "type": "para",
+          "text": "Soc. And no one can deny that all percipient beings desire and hunt after good, and are eager to catch and have the good about them, and care not for the attainment of anything which its not accompanied by good.",
+          "lineStart": 416
+        },
+        {
+          "type": "para",
+          "text": "Pro. That is undeniable.",
+          "lineStart": 420
+        },
+        {
+          "type": "para",
+          "text": "Soc. Now let us part off the life of pleasure from the life of wisdom, and pass them in review.",
+          "lineStart": 421
+        },
+        {
+          "type": "para",
+          "text": "Pro. How do you mean?",
+          "lineStart": 423
+        },
+        {
+          "type": "para",
+          "text": "Soc. Let there be no wisdom in the life of pleasure, nor any pleasure in the life of wisdom, for if either of them is the chief good, it cannot be supposed to want anything, but if either is shown to want anything, then it cannot really be the chief good.",
+          "lineStart": 424
+        },
+        {
+          "type": "para",
+          "text": "Pro. Impossible.",
+          "lineStart": 428
+        },
+        {
+          "type": "para",
+          "text": "Soc. And will you help us to test these two lives?",
+          "lineStart": 429
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly.",
+          "lineStart": 431
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then answer.",
+          "lineStart": 432
+        },
+        {
+          "type": "para",
+          "text": "Pro. Ask.",
+          "lineStart": 433
+        },
+        {
+          "type": "para",
+          "text": "Soc. Would you choose, Protarchus, to live all your life long in the enjoyment of the greatest pleasures?",
+          "lineStart": 434
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly I should.",
+          "lineStart": 436
+        },
+        {
+          "type": "para",
+          "text": "Soc. Would you consider that there was still anything wanting to you if you had perfect pleasure?",
+          "lineStart": 437
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly not.",
+          "lineStart": 439
+        },
+        {
+          "type": "para",
+          "text": "Soc. Reflect; would you not want wisdom and intelligence and forethought, and similar qualities? would you not at any rate want sight?",
+          "lineStart": 440
+        },
+        {
+          "type": "para",
+          "text": "Pro. Why should I? Having pleasure I should have all things.",
+          "lineStart": 443
+        },
+        {
+          "type": "para",
+          "text": "Soc. Living thus, you would always throughout your life enjoy the greatest pleasures?",
+          "lineStart": 445
+        },
+        {
+          "type": "para",
+          "text": "Pro. I should.",
+          "lineStart": 447
+        },
+        {
+          "type": "para",
+          "text": "Soc. But if you had neither mind, nor memory, nor knowledge, nor true opinion, you would in the first place be utterly ignorant of whether you were pleased or not, because you would be entirely devoid of intelligence.",
+          "lineStart": 448
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly.",
+          "lineStart": 452
+        },
+        {
+          "type": "para",
+          "text": "Soc. And similarly, if you had no memory you would not recollect that you had ever been pleased, nor would the slightest recollection of the pleasure which you feel at any moment remain with you; and if you had no true opinion you would not think that you were pleased when you were; and if you had no power of calculation you would not be able to calculate on future pleasure, and your life would be the life, not of a man, but of an oyster or pulmo marinus. Could this be otherwise?",
+          "lineStart": 453
+        },
+        {
+          "type": "para",
+          "text": "Pro. No.",
+          "lineStart": 460
+        },
+        {
+          "type": "para",
+          "text": "Soc. But is such a life eligible?",
+          "lineStart": 461
+        },
+        {
+          "type": "para",
+          "text": "Pro. I cannot answer you, Socrates; the argument has taken away from me the power of speech.",
+          "lineStart": 462
+        },
+        {
+          "type": "para",
+          "text": "Soc. We must keep up our spirits;-let us now take the life of mind and examine it in turn.",
+          "lineStart": 464
+        },
+        {
+          "type": "para",
+          "text": "Pro. And what is this life of mind?",
+          "lineStart": 466
+        },
+        {
+          "type": "para",
+          "text": "Soc. I want to know whether any one of us would consent to live, having wisdom and mind and knowledge and memory of all things, but having no sense of pleasure or pain, and wholly unaffected by these and the like feelings?",
+          "lineStart": 467
+        },
+        {
+          "type": "para",
+          "text": "Pro. Neither life, Socrates, appears eligible to me, or is likely, as I should imagine, to be chosen by any one else.",
+          "lineStart": 471
+        },
+        {
+          "type": "para",
+          "text": "Soc. What would you say, Protarchus, to both of these in one, or to one that was made out of the union of the two?",
+          "lineStart": 474
+        },
+        {
+          "type": "para",
+          "text": "Pro. Out of the union, that is, of pleasure with mind and wisdom?",
+          "lineStart": 477
+        },
+        {
+          "type": "para",
+          "text": "Soc. Yes, that is the life which I mean.",
+          "lineStart": 479
+        },
+        {
+          "type": "para",
+          "text": "Pro. There can be no difference of opinion; not some but all would surely choose this third rather than either of the other two, and in addition to them.",
+          "lineStart": 480
+        },
+        {
+          "type": "para",
+          "text": "Soc. But do you see the consequence?",
+          "lineStart": 483
+        },
+        {
+          "type": "para",
+          "text": "Pro. To be sure I do. The consequence is, that two out of the three lives which have been proposed are neither sufficient nor eligible for man or for animal.",
+          "lineStart": 484
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then now there can be no doubt that neither of them has the good, for the one which had would certainly have been sufficient and perfect and eligible for every living creature or thing that was able to live such a life; and if any of us had chosen any other, he would have chosen contrary to the nature of the truly eligible, and not of his own free will, but either through ignorance or from some unhappy necessity.",
+          "lineStart": 487
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly that seems to be true.",
+          "lineStart": 494
+        },
+        {
+          "type": "para",
+          "text": "Soc. And now have I not sufficiently shown that Philebus, goddess is not to be regarded as identical with the good?",
+          "lineStart": 495
+        },
+        {
+          "type": "para",
+          "text": "Phi. Neither is your \"mind\" the good, Socrates, for that will be open to the same objections.",
+          "lineStart": 498
+        },
+        {
+          "type": "para",
+          "text": "Soc. Perhaps, Philebus, you may be right in saying so of my \"mind\"; but of the true, which is also the divine mind, far otherwise. However, I will not at present claim the first place for mind as against the mixed life; but we must come to some understanding about the second place. For you might affirm pleasure and I mind to be the cause of the mixed life; and in that case although neither of them would be the good, one of them might be imagined to be the cause of the good. And I might proceed further to argue in opposition to Phoebus, that the element which makes this mixed life eligible and good, is more akin and more similar to mind than to pleasure. And if this is true, pleasure cannot be truly said to share either in the first or second place, and does not, if I may trust my own mind, attain even to the third.",
+          "lineStart": 500
+        },
+        {
+          "type": "para",
+          "text": "Pro. Truly, Socrates, pleasure appears to me to have had a fall; in fighting for the palm, she has been smitten by the argument, and is laid low. I must say that mind would have fallen too, and may therefore be thought to show discretion in not putting forward a similar claim. And if pleasure were deprived not only of the first but of the second place, she would be terribly damaged in the eyes of her admirers, for not even to them would she still appear as fair as before.",
+          "lineStart": 512
+        },
+        {
+          "type": "para",
+          "text": "Soc. Well, but had we not better leave her now, and not pain her by applying the crucial test, and finally detecting her?",
+          "lineStart": 519
+        },
+        {
+          "type": "para",
+          "text": "Pro. Nonsense, Socrates.",
+          "lineStart": 522
+        },
+        {
+          "type": "para",
+          "text": "Soc. Why? because I said that we had better not pain pleasure, which is an impossibility?",
+          "lineStart": 523
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes, and more than that, because you do not seem to be aware that none of us will let you go home until you have finished the argument.",
+          "lineStart": 525
+        },
+        {
+          "type": "para",
+          "text": "Soc. Heavens! Protarchus, that will be a tedious business, and just at present not at all an easy one. For in going to war in the cause of mind, who is aspiring to the second prize, I ought to have weapons of another make from those which I used before; some, however, of the old ones may do again. And must I then finish the argument?",
+          "lineStart": 528
+        },
+        {
+          "type": "para",
+          "text": "Pro. Of course you must.",
+          "lineStart": 533
+        },
+        {
+          "type": "para",
+          "text": "Soc. Let us be very careful in laying the foundation.",
+          "lineStart": 534
+        },
+        {
+          "type": "para",
+          "text": "Pro. What do you mean?",
+          "lineStart": 536
+        },
+        {
+          "type": "para",
+          "text": "Soc. Let us divide all existing things into two, or rather, if you do not object, into three classes.",
+          "lineStart": 537
+        },
+        {
+          "type": "para",
+          "text": "Pro. Upon what principle would you make the division?",
+          "lineStart": 539
+        },
+        {
+          "type": "para",
+          "text": "Soc. Let us take some of our newly-found notions.",
+          "lineStart": 541
+        },
+        {
+          "type": "para",
+          "text": "Pro. Which of them?",
+          "lineStart": 543
+        },
+        {
+          "type": "para",
+          "text": "Soc. Were we not saying that God revealed a finite element of existence, and also an infinite?",
+          "lineStart": 544
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly.",
+          "lineStart": 546
+        },
+        {
+          "type": "para",
+          "text": "Soc. Let us assume these two principles, and also a third, which is compounded out of them; but I fear that am ridiculously clumsy at these processes of division and enumeration.",
+          "lineStart": 547
+        },
+        {
+          "type": "para",
+          "text": "Pro. What do you mean, my good friend?",
+          "lineStart": 550
+        },
+        {
+          "type": "para",
+          "text": "Soc. I say that a fourth class is still wanted.",
+          "lineStart": 551
+        },
+        {
+          "type": "para",
+          "text": "Pro. What will that be?",
+          "lineStart": 553
+        },
+        {
+          "type": "para",
+          "text": "Soc. Find the cause of the third or compound, and add this as a fourth class to the three others.",
+          "lineStart": 554
+        },
+        {
+          "type": "para",
+          "text": "Pro. And would you like to have a fifth dass or cause of resolution as well as a cause of composition?",
+          "lineStart": 556
+        },
+        {
+          "type": "para",
+          "text": "Soc. Not, I think, at present; but if I want a fifth at some future time you shall allow me to have it.",
+          "lineStart": 558
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly.",
+          "lineStart": 560
+        },
+        {
+          "type": "para",
+          "text": "Soc. Let us begin with the first three; and as we find two out of the three greatly divided and dispersed, let us endeavour to reunite them, and see how in each of them there is a one and many.",
+          "lineStart": 561
+        },
+        {
+          "type": "para",
+          "text": "Pro. If you would explain to me a little more about them, perhaps I might be able to follow you.",
+          "lineStart": 565
+        },
+        {
+          "type": "para",
+          "text": "Soc. Well, the two classes are the same which I mentioned before, one the finite, and the other the infinite; I will first show that the infinite is in a certain sense many, and the finite may be hereafter discussed.",
+          "lineStart": 567
+        },
+        {
+          "type": "para",
+          "text": "Pro. I agree.",
+          "lineStart": 571
+        },
+        {
+          "type": "para",
+          "text": "Soc. And now consider well; for the question to which I invite your attention is difficult and controverted. When you speak of hotter and colder, can you conceive any limit in those qualities? Does not the more and less, which dwells in their very nature, prevent their having any end? for if they had an end, the more and less would themselves have an end.",
+          "lineStart": 572
+        },
+        {
+          "type": "para",
+          "text": "Pro. That is most true.",
+          "lineStart": 578
+        },
+        {
+          "type": "para",
+          "text": "Soc. Ever, as we say, into the hotter and the colder there enters a more and a less.",
+          "lineStart": 579
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes.",
+          "lineStart": 581
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then, says the argument, there is never any end of them, and being endless they must also be infinite.",
+          "lineStart": 582
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes, Socrates, that is exceedingly true.",
+          "lineStart": 584
+        },
+        {
+          "type": "para",
+          "text": "Soc. Yes, my dear Protarchus, and your answer reminds me that such an expression as \"exceedingly,\" which you have just uttered, and also the term \"gently,\" have the same significance as more or less; for whenever they occur they do not allow of the existence of quantity-they are always introducing degrees into actions, instituting a comparison of a more or a less excessive or a more or a less gentle, and at each creation of more or less, quantity disappears. For, as I was just now saying, if quantity and measure did not disappear, but were allowed to intrude in the sphere of more and less and the other comparatives, these last would be driven out of their own domain. When definite quantity is once admitted, there can be no longer a \"hotter\" or a \"colder\" (for these are always progressing, and are never in one stay); but definite quantity is at rest, and has ceased to progress. Which proves that comparatives, such as the hotter, and the colder, are to be ranked in the class of the infinite.",
+          "lineStart": 586
+        },
+        {
+          "type": "para",
+          "text": "Pro. Your remark certainly, has the look of truth, Socrates; but these subjects, as you were saying, are difficult to follow at first. I think however, that if I could hear the argument repeated by you once or twice, there would be a substantial agreement between us.",
+          "lineStart": 600
+        },
+        {
+          "type": "para",
+          "text": "Soc. Yes, and I will try to meet your wish; but, as I would rather not waste time in the enumeration of endless particulars, let me know whether I may not assume as a note of the infinite-",
+          "lineStart": 605
+        },
+        {
+          "type": "para",
+          "text": "Pro. What?",
+          "lineStart": 608
+        },
+        {
+          "type": "para",
+          "text": "Soc. I want to know whether such things as appear to us to admit of more or less, or are denoted by the words \"exceedingly,\" \"gently,\" \"extremely,\" and the like, may not be referred to the class of the infinite, which is their unity, for, as was asserted in the previous argument, all things that were divided and dispersed should be brought together, and have the mark or seal of some one nature, if possible, set upon them-do you remember?",
+          "lineStart": 609
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes.",
+          "lineStart": 616
+        },
+        {
+          "type": "para",
+          "text": "Soc. And all things which do not admit of more or less, but admit their opposites, that is to say, first of all, equality, and the equal, or again, the double, or any other ratio of number and measure-all these may, I think, be rightly reckoned by us in the class of the limited or finite; what do you say?",
+          "lineStart": 617
+        },
+        {
+          "type": "para",
+          "text": "Pro. Excellent, Socrates.",
+          "lineStart": 622
+        },
+        {
+          "type": "para",
+          "text": "Soc. And now what nature shall we ascribe to the third or compound kind?",
+          "lineStart": 623
+        },
+        {
+          "type": "para",
+          "text": "Pro. You, I think, will have to tell me that.",
+          "lineStart": 625
+        },
+        {
+          "type": "para",
+          "text": "Soc. Rather God will tell you, if there be any God who will listen to my prayers.",
+          "lineStart": 627
+        },
+        {
+          "type": "para",
+          "text": "Pro. Offer up a prayer, then, and think.",
+          "lineStart": 629
+        },
+        {
+          "type": "para",
+          "text": "Soc. I am thinking, Protarchus, and I believe that some God has befriended us.",
+          "lineStart": 630
+        },
+        {
+          "type": "para",
+          "text": "Pro. What do you mean, and what proof have you to offer of what you are saying?",
+          "lineStart": 632
+        },
+        {
+          "type": "para",
+          "text": "Soc. I will tell you, and do you listen to my words.",
+          "lineStart": 634
+        },
+        {
+          "type": "para",
+          "text": "Pro. Proceed.",
+          "lineStart": 636
+        },
+        {
+          "type": "para",
+          "text": "Soc. Were we not speaking just now of hotter and colder?",
+          "lineStart": 637
+        },
+        {
+          "type": "para",
+          "text": "Pro. True.",
+          "lineStart": 639
+        },
+        {
+          "type": "para",
+          "text": "Soc. Add to them drier, wetter, more, less, swifter, slower, greater, smaller, and all that in the preceding argument we placed under the unity of more and less.",
+          "lineStart": 640
+        },
+        {
+          "type": "para",
+          "text": "Pro. In the class of the infinite, you mean?",
+          "lineStart": 643
+        },
+        {
+          "type": "para",
+          "text": "Soc. Yes; and now mingle this with the other.",
+          "lineStart": 645
+        },
+        {
+          "type": "para",
+          "text": "Pro. What is the other.",
+          "lineStart": 647
+        },
+        {
+          "type": "para",
+          "text": "Soc. The class of the finite which we ought to have brought together as we did the infinite; but, perhaps, it will come to the same thing if we do so now;-when the two are combined, a third will appear.",
+          "lineStart": 648
+        },
+        {
+          "type": "para",
+          "text": "Pro. What do you mean by the class of the finite?",
+          "lineStart": 652
+        },
+        {
+          "type": "para",
+          "text": "Soc. The class of the equal and the double, and any class which puts an end to difference and opposition, and by introducing number creates harmony and proportion among the different elements.",
+          "lineStart": 654
+        },
+        {
+          "type": "para",
+          "text": "Pro. I understand; you seem to me to mean that the various opposites, when you mingle with them the class of the finite, takes certain forms.",
+          "lineStart": 657
+        },
+        {
+          "type": "para",
+          "text": "Soc. Yes, that is my meaning.",
+          "lineStart": 660
+        },
+        {
+          "type": "para",
+          "text": "Pro. Proceed.",
+          "lineStart": 661
+        },
+        {
+          "type": "para",
+          "text": "Soc. Does not the right participation in the finite give health-in disease, for instance?",
+          "lineStart": 662
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly.",
+          "lineStart": 664
+        },
+        {
+          "type": "para",
+          "text": "Soc. And whereas the high and low, the swift and the slow are infinite or unlimited, does not the addition of the principles aforesaid introduce a limit, and perfect the whole frame of music?",
+          "lineStart": 665
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes, certainly.",
+          "lineStart": 668
+        },
+        {
+          "type": "para",
+          "text": "Soc. Or, again, when cold and heat prevail, does not the introduction of them take away excess and indefiniteness, and infuse moderation and harmony?",
+          "lineStart": 669
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly.",
+          "lineStart": 672
+        },
+        {
+          "type": "para",
+          "text": "Soc. And from a like admixture of the finite and infinite come the seasons, and all the delights of life?",
+          "lineStart": 673
+        },
+        {
+          "type": "para",
+          "text": "Pro. Most true.",
+          "lineStart": 675
+        },
+        {
+          "type": "para",
+          "text": "Soc. I omit ten thousand other things, such as beauty and health and strength, and the many beauties and high perfections of the soul: O my beautiful Philebus, the goddess, methinks, seeing the universal wantonness and wickedness of all things, and that there was in them no limit to pleasures and self-indulgence, devised the limit of law and order, whereby, as you say, Philebus, she torments, or as I maintain, delivers the soul-What think you, Protarchus?",
+          "lineStart": 676
+        },
+        {
+          "type": "para",
+          "text": "Pro. Her ways are much to my mind, Socrates.",
+          "lineStart": 683
+        },
+        {
+          "type": "para",
+          "text": "Soc. You will observe that I have spoken of three classes?",
+          "lineStart": 684
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes, I think that I understand you: you mean to say that the infinite is one class, and that the finite is a second class of existences; but what you would make the third I am not so certain.",
+          "lineStart": 686
+        },
+        {
+          "type": "para",
+          "text": "Soc. That is because the amazing variety of the third class is too much for you, my dear friend; but there was not this difficulty with the infinite, which also comprehended many classes, for all of them were sealed with the note of more and less, and therefore appeared one.",
+          "lineStart": 690
+        },
+        {
+          "type": "para",
+          "text": "Pro. True.",
+          "lineStart": 695
+        },
+        {
+          "type": "para",
+          "text": "Soc. And the finite or limit had not many divisions, and we ready acknowledged it to be by nature one?",
+          "lineStart": 696
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes.",
+          "lineStart": 698
+        },
+        {
+          "type": "para",
+          "text": "Soc. Yes, indeed; and when I speak of the third class, understand me to mean any offspring of these, being a birth into true being, effected by the measure which the limit introduces.",
+          "lineStart": 699
+        },
+        {
+          "type": "para",
+          "text": "Pro. I understand.",
+          "lineStart": 702
+        },
+        {
+          "type": "para",
+          "text": "Soc. Still there was, as we said, a fourth class to be investigated, and you must assist in the investigation; for does not everything which comes into being, of necessity come into being through a cause?",
+          "lineStart": 703
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes, certainly; for how can there be anything which has no cause?",
+          "lineStart": 707
+        },
+        {
+          "type": "para",
+          "text": "Soc. And is not the agent the same as the cause in all except name; the agent and the cause may be rightly called one?",
+          "lineStart": 709
+        },
+        {
+          "type": "para",
+          "text": "Pro. Very true.",
+          "lineStart": 712
+        },
+        {
+          "type": "para",
+          "text": "Soc. And the same may be said of the patient, or effect; we shall find that they too differ, as I was saying, only in name-shall we not?",
+          "lineStart": 713
+        },
+        {
+          "type": "para",
+          "text": "Pro. We shall.",
+          "lineStart": 716
+        },
+        {
+          "type": "para",
+          "text": "Soc. The agent or cause always naturally leads, and the patient or effect naturally follows it?",
+          "lineStart": 717
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly.",
+          "lineStart": 719
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then the cause and what is subordinate to it in generation are not the same, but different?",
+          "lineStart": 720
+        },
+        {
+          "type": "para",
+          "text": "Pro. True.",
+          "lineStart": 722
+        },
+        {
+          "type": "para",
+          "text": "Soc. Did not the things which were generated, and the things out of which they were generated, furnish all the three classes?",
+          "lineStart": 723
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes.",
+          "lineStart": 726
+        },
+        {
+          "type": "para",
+          "text": "Soc. And the creator or cause of them has been satisfactorily proven to be distinct from them-and may therefore be called a fourth principle?",
+          "lineStart": 727
+        },
+        {
+          "type": "para",
+          "text": "Pro. So let us call it.",
+          "lineStart": 730
+        },
+        {
+          "type": "para",
+          "text": "Soc. Quite right; but now, having distinguished the four, I think that we had better refresh our memories by recapitulating each of them in order.",
+          "lineStart": 731
+        },
+        {
+          "type": "para",
+          "text": "Pro. By all means.",
+          "lineStart": 734
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then the first I will call the infinite or unlimited, and the second the finite or limited; then follows the third, an essence compound and generated; and I do not think that I shall be far wrong in speaking of the cause of mixture and generation as the fourth.",
+          "lineStart": 735
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly not.",
+          "lineStart": 740
+        },
+        {
+          "type": "para",
+          "text": "Soc. And now what is the next question, and how came we hither? Were we not enquiring whether the second place belonged to pleasure or wisdom?",
+          "lineStart": 741
+        },
+        {
+          "type": "para",
+          "text": "Pro. We were.",
+          "lineStart": 744
+        },
+        {
+          "type": "para",
+          "text": "Soc. And now, having determined these points, shall we not be better able to decide about the first and second place, which was the original subject of dispute?",
+          "lineStart": 745
+        },
+        {
+          "type": "para",
+          "text": "Pro. I dare say.",
+          "lineStart": 748
+        },
+        {
+          "type": "para",
+          "text": "Soc. We said, if you remember, that the mixed life of pleasure and wisdom was the conqueror-did we not?",
+          "lineStart": 749
+        },
+        {
+          "type": "para",
+          "text": "Pro. True.",
+          "lineStart": 751
+        },
+        {
+          "type": "para",
+          "text": "Soc. And we see what is the place and nature of this life and to what class it is to be assigned?",
+          "lineStart": 752
+        },
+        {
+          "type": "para",
+          "text": "Pro. Beyond a doubt.",
+          "lineStart": 754
+        },
+        {
+          "type": "para",
+          "text": "Soc. This is evidently comprehended in the third or mixed class; which is not composed of any two particular ingredients, but of all the elements of infinity, bound down by the finite, and may therefore be truly said to comprehend the conqueror life.",
+          "lineStart": 755
+        },
+        {
+          "type": "para",
+          "text": "Pro. Most true.",
+          "lineStart": 759
+        },
+        {
+          "type": "para",
+          "text": "Soc. And what shall we say, Philebus, of your life which is all sweetness; and in which of the aforesaid classes is that to be placed? Perhaps you will allow me to ask you a question before you answer?",
+          "lineStart": 760
+        },
+        {
+          "type": "para",
+          "text": "Phi. Let me hear.",
+          "lineStart": 764
+        },
+        {
+          "type": "para",
+          "text": "Soc. Have pleasure and pain a limit, or do they belong to the class which admits of more and less?",
+          "lineStart": 765
+        },
+        {
+          "type": "para",
+          "text": "Phi. They belong to the class which admits of more, Socrates; for pleasure would not be perfectly good if she were not infinite in quantity and degree.",
+          "lineStart": 767
+        },
+        {
+          "type": "para",
+          "text": "Soc. Nor would pain, Philebus, be perfectly evil. And therefore the infinite cannot be that element which imparts to pleasure some degree of good. But now-admitting, if you like, that pleasure is of the nature of the infinite-in which of the aforesaid classes, O Protarchus and Philebus, can we without irreverence place wisdom and knowledge and mind? And let us be careful, for I think that the danger will be very serious if we err on this point.",
+          "lineStart": 770
+        },
+        {
+          "type": "para",
+          "text": "Phi. You magnify, Socrates, the importance of your favourite god.",
+          "lineStart": 777
+        },
+        {
+          "type": "para",
+          "text": "Soc. And you, my friend, are also magnifying your favourite goddess; but still I must beg you to answer the question.",
+          "lineStart": 779
+        },
+        {
+          "type": "para",
+          "text": "Pro. Socrates is quite right, Philebus, and we must submit to him.",
+          "lineStart": 781
+        },
+        {
+          "type": "para",
+          "text": "Phi. And did not you, Protarchus, propose to answer in my place?",
+          "lineStart": 783
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly I did; but I am now in a great strait, and I must entreat you, Socrates, to be our spokesman, and then we shall not say anything wrong or disrespectful of your favourite.",
+          "lineStart": 785
+        },
+        {
+          "type": "para",
+          "text": "Soc. I must obey you, Protarchus; nor is the task which you impose a difficult one; but did I really, as Philebus implies, disconcert you with my playful solemnity, when I asked the question to what class mind and knowledge belong?",
+          "lineStart": 788
+        },
+        {
+          "type": "para",
+          "text": "Pro. You did, indeed, Socrates.",
+          "lineStart": 792
+        },
+        {
+          "type": "para",
+          "text": "Soc. Yet the answer is easy, since all philosophers assert with one voice that mind is the king of heaven and earth-in reality they are magnifying themselves. And perhaps they are right. But still I should like to consider the class of mind, if you do not object, a little more fully.",
+          "lineStart": 793
+        },
+        {
+          "type": "para",
+          "text": "Phi. Take your own course, Socrates, and never mind length; we shall not tire of you.",
+          "lineStart": 798
+        },
+        {
+          "type": "para",
+          "text": "Soc. Very good; let us begin then, Protarchus, by asking a question.",
+          "lineStart": 800
+        },
+        {
+          "type": "para",
+          "text": "Pro. What question?",
+          "lineStart": 802
+        },
+        {
+          "type": "para",
+          "text": "Soc. Whether all this which they call the universe is left to the guidance of unreason and chance medley, or, on the contrary, as our fathers have declared, ordered and governed by a marvellous intelligence and wisdom.",
+          "lineStart": 803
+        },
+        {
+          "type": "para",
+          "text": "Pro. Wide asunder are the two assertions, illustrious Socrates, for that which you were just now saying to me appears to be blasphemy; but the other assertion, that mind orders all things, is worthy of the aspect of the world, and of the sun, and of the moon, and of the stars and of the whole circle of the heavens; and never will I say or think otherwise.",
+          "lineStart": 807
+        },
+        {
+          "type": "para",
+          "text": "Soc. Shall we then agree with them of old time in maintaining this doctrine-not merely reasserting the notions of others, without risk to ourselves,-but shall we share in the danger, and take our part of the reproach which will await us, when an ingenious individual declares that all is disorder?",
+          "lineStart": 813
+        },
+        {
+          "type": "para",
+          "text": "Pro. That would certainly be my wish.",
+          "lineStart": 818
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then now please to consider the next stage of the argument.",
+          "lineStart": 819
+        },
+        {
+          "type": "para",
+          "text": "Pro. Let me hear.",
+          "lineStart": 821
+        },
+        {
+          "type": "para",
+          "text": "Soc. We see that the elements which enter into the nature of the bodies of all animals, fire, water, air, and, as the storm-tossed sailor cries, \"land\" [i.e., earth], reappear in the constitution of the world.",
+          "lineStart": 822
+        },
+        {
+          "type": "para",
+          "text": "Pro. The proverb may be applied to us; for truly the storm gathers over us, and we are at our wit's end.",
+          "lineStart": 826
+        },
+        {
+          "type": "para",
+          "text": "Soc. There is something to be remarked about each of these elements.",
+          "lineStart": 828
+        },
+        {
+          "type": "para",
+          "text": "Pro. What is it?",
+          "lineStart": 830
+        },
+        {
+          "type": "para",
+          "text": "Soc. Only a small fraction of any one of them exists in us, and that of a mean sort, and not in any way pure, or having any power worthy of its nature. One instance will prove this of all of them; there is fire within us, and in the universe.",
+          "lineStart": 831
+        },
+        {
+          "type": "para",
+          "text": "Pro. True.",
+          "lineStart": 835
+        },
+        {
+          "type": "para",
+          "text": "Soc. And is not our fire small and weak and mean? But the fire in the universe is wonderful in quantity and beauty, and in every power that fire has.",
+          "lineStart": 836
+        },
+        {
+          "type": "para",
+          "text": "Pro. Most true.",
+          "lineStart": 839
+        },
+        {
+          "type": "para",
+          "text": "Soc. And is the fire in the universe nourished and generated and ruled by the fire in us, or is the fire in you and me, and in other animals, dependent on the universal fire?",
+          "lineStart": 840
+        },
+        {
+          "type": "para",
+          "text": "Pro. That is a question which does not deserve an answer.",
+          "lineStart": 843
+        },
+        {
+          "type": "para",
+          "text": "Soc. Right; and you would say the same, if I am not mistaken, of the earth which is in animals and the earth which is in the universe, and you would give a similar reply about all the other elements?",
+          "lineStart": 845
+        },
+        {
+          "type": "para",
+          "text": "Pro. Why, how could any man who gave any other be deemed in his senses?",
+          "lineStart": 849
+        },
+        {
+          "type": "para",
+          "text": "Soc. I do not think that he could-but now go on to the next step. When we saw those elements of which we have been speaking gathered up in one, did we not call them a body?",
+          "lineStart": 851
+        },
+        {
+          "type": "para",
+          "text": "Pro. We did.",
+          "lineStart": 854
+        },
+        {
+          "type": "para",
+          "text": "Soc. And the same may be said of the cosmos, which for the same reason may be considered to be a body, because made up of the same elements.",
+          "lineStart": 855
+        },
+        {
+          "type": "para",
+          "text": "Pro. Very true.",
+          "lineStart": 858
+        },
+        {
+          "type": "para",
+          "text": "Soc. But is our body nourished wholly by this body, or is this body nourished by our body, thence deriving and having the qualities of which we were just now speaking?",
+          "lineStart": 859
+        },
+        {
+          "type": "para",
+          "text": "Pro. That again, Socrates, is a question which does not deserve to be asked.",
+          "lineStart": 862
+        },
+        {
+          "type": "para",
+          "text": "Soc. Well, tell me, is this question worth asking?",
+          "lineStart": 864
+        },
+        {
+          "type": "para",
+          "text": "Pro. What question?",
+          "lineStart": 866
+        },
+        {
+          "type": "para",
+          "text": "Soc. May our body be said to have a soul?",
+          "lineStart": 867
+        },
+        {
+          "type": "para",
+          "text": "Pro. Clearly.",
+          "lineStart": 868
+        },
+        {
+          "type": "para",
+          "text": "Soc. And whence comes that soul, my dear Protarchus, unless the body of the universe, which contains elements like those in our bodies but in every way fairer, had also a soul? Can there be another source?",
+          "lineStart": 869
+        },
+        {
+          "type": "para",
+          "text": "Pro. Clearly, Socrates, that is the only source.",
+          "lineStart": 873
+        },
+        {
+          "type": "para",
+          "text": "Soc. Why, yes, Protarchus; for surely we cannot imagine that of the four classes, the finite, the infinite, the composition of the two, and the cause, the fourth, which enters into all things, giving to our bodies souls, and the art of self-management, and of healing disease, and operating in other ways to heal and organize, having too all the attributes of wisdom;-we cannot, I say, imagine that whereas the self-same elements exist, both in the entire heaven and in great provinces of the heaven, only fairer and purer, this last should not also in that higher sphere have designed the noblest and fairest things?",
+          "lineStart": 875
+        },
+        {
+          "type": "para",
+          "text": "Pro. Such a supposition is quite unreasonable.",
+          "lineStart": 884
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then if this be denied, should we not be wise in adopting the other view and maintaining that there is in the universe a mighty infinite and an adequate limit, of which we have often spoken, as well as a presiding cause of no mean power, which orders and arranges years and seasons and months, and may be justly called wisdom and mind?",
+          "lineStart": 885
+        },
+        {
+          "type": "para",
+          "text": "Pro. Most justly.",
+          "lineStart": 890
+        },
+        {
+          "type": "para",
+          "text": "Soc. And wisdom and mind cannot exist without soul?",
+          "lineStart": 891
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly not.",
+          "lineStart": 893
+        },
+        {
+          "type": "para",
+          "text": "Soc. And in the divine nature of Zeus would you not say that there is the soul and mind of a king, because there is in him the power of the cause? And other gods have other attributes, by which they are pleased to be called.",
+          "lineStart": 894
+        },
+        {
+          "type": "para",
+          "text": "Pro. Very true.",
+          "lineStart": 898
+        },
+        {
+          "type": "para",
+          "text": "Soc. Do not then suppose that these words are rashly spoken by us, O Protarchus, for they are in harmony with the testimony of those who said of old time that mind rules the universe.",
+          "lineStart": 899
+        },
+        {
+          "type": "para",
+          "text": "Pro. True.",
+          "lineStart": 902
+        },
+        {
+          "type": "para",
+          "text": "Soc. And they furnish an answer to my enquiry; for they imply that mind is the parent of that class of the four which we called the cause of all; and I think that you now have my answer.",
+          "lineStart": 903
+        },
+        {
+          "type": "para",
+          "text": "Pro. I have indeed, and yet I did not observe that you had answered.",
+          "lineStart": 906
+        },
+        {
+          "type": "para",
+          "text": "Soc. A jest is sometimes refreshing, Protarchus, when it interrupts earnest.",
+          "lineStart": 908
+        },
+        {
+          "type": "para",
+          "text": "Pro. Very true.",
+          "lineStart": 910
+        },
+        {
+          "type": "para",
+          "text": "Soc. I think, friend, that we have now pretty clearly set forth the class to which mind belongs and what is the power of mind.",
+          "lineStart": 911
+        },
+        {
+          "type": "para",
+          "text": "Pro. True.",
+          "lineStart": 914
+        },
+        {
+          "type": "para",
+          "text": "Soc. And the class to which pleasure belongs has also been long ago discovered?",
+          "lineStart": 915
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes.",
+          "lineStart": 917
+        },
+        {
+          "type": "para",
+          "text": "Soc. And let us remember, too, of both of them, (1) that mind was akin to the cause and of this family; and (2) that pleasure is infinite and belongs to the class which neither has, nor ever will have in itself, a beginning, middle, or end of its own.",
+          "lineStart": 918
+        },
+        {
+          "type": "para",
+          "text": "Pro. I shall be sure to remember.",
+          "lineStart": 922
+        },
+        {
+          "type": "para",
+          "text": "Soc. We must next examine what is their place and under what conditions they are generated. And we will begin with pleasure, since her class was first examined; and yet pleasure cannot be rightly tested apart from pain ever",
+          "lineStart": 923
+        },
+        {
+          "type": "para",
+          "text": "Pro. If this is the road, let us take it.",
+          "lineStart": 927
+        },
+        {
+          "type": "para",
+          "text": "Soc. I wonder whether you would agree with me about the origin of pleasure and pain.",
+          "lineStart": 929
+        },
+        {
+          "type": "para",
+          "text": "Pro. What do you mean?",
+          "lineStart": 931
+        },
+        {
+          "type": "para",
+          "text": "Soc. I mean to say that their natural seat is in the mixed class.",
+          "lineStart": 932
+        },
+        {
+          "type": "para",
+          "text": "Pro. And would you tell me again, sweet Socrates, which of the aforesaid classes is the mixed one?",
+          "lineStart": 934
+        },
+        {
+          "type": "para",
+          "text": "Soc. I will my fine fellow, to the best of my ability.",
+          "lineStart": 936
+        },
+        {
+          "type": "para",
+          "text": "Pro. Very good.",
+          "lineStart": 938
+        },
+        {
+          "type": "para",
+          "text": "Soc. Let us then understand the mixed class to be that which we placed third in the list of four.",
+          "lineStart": 939
+        },
+        {
+          "type": "para",
+          "text": "Pro. That which followed the infinite and the finite; and in which you ranked health, and, if I am not mistaken, harmony.",
+          "lineStart": 941
+        },
+        {
+          "type": "para",
+          "text": "Soc. Capital; and now will you please to give me your best attention?",
+          "lineStart": 944
+        },
+        {
+          "type": "para",
+          "text": "Pro. Proceed; I am attending.",
+          "lineStart": 946
+        },
+        {
+          "type": "para",
+          "text": "Soc. I say that when the harmony in animals is dissolved, there is also a dissolution of nature and a generation of pain.",
+          "lineStart": 947
+        },
+        {
+          "type": "para",
+          "text": "Pro. That is very probable.",
+          "lineStart": 950
+        },
+        {
+          "type": "para",
+          "text": "Soc. And the restoration of harmony and return to nature is the source of pleasure, if I may be allowed to speak in the fewest and shortest words about matters of the greatest moment.",
+          "lineStart": 951
+        },
+        {
+          "type": "para",
+          "text": "Pro. I believe that you are right, Socrates; but will you try to be a little plainer?",
+          "lineStart": 954
+        },
+        {
+          "type": "para",
+          "text": "Soc. Do not obvious and every-day phenomena furnish the simplest illustration?",
+          "lineStart": 956
+        },
+        {
+          "type": "para",
+          "text": "Pro. What phenomena do you mean?",
+          "lineStart": 958
+        },
+        {
+          "type": "para",
+          "text": "Soc. Hunger, for example, is a dissolution and a pain.",
+          "lineStart": 959
+        },
+        {
+          "type": "para",
+          "text": "Pro. True.",
+          "lineStart": 961
+        },
+        {
+          "type": "para",
+          "text": "Soc. Whereas eating is a replenishment and a pleasure?",
+          "lineStart": 962
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes.",
+          "lineStart": 964
+        },
+        {
+          "type": "para",
+          "text": "Soc. Thirst again is a destruction and a pain, but the effect of moisture replenishing the dry Place is a pleasure: once more, the unnatural separation and dissolution caused by heat is painful, and the natural restoration and refrigeration is pleasant.",
+          "lineStart": 965
+        },
+        {
+          "type": "para",
+          "text": "Pro. Very true.",
+          "lineStart": 969
+        },
+        {
+          "type": "para",
+          "text": "Soc. And the unnatural freezing of the moisture in an animal is pain, and the natural process of resolution and return of the elements to their original state is pleasure. And would not the general proposition seem to you to hold, that the destroying of the natural union of the finite and infinite, which, as I was observing before, make up the class of living beings, is pain, and that the process of return of all things to their own nature is pleasure?",
+          "lineStart": 970
+        },
+        {
+          "type": "para",
+          "text": "Pro. Granted; what you say has a general truth.",
+          "lineStart": 977
+        },
+        {
+          "type": "para",
+          "text": "Soc. Here then is one kind of pleasures and pains originating severally in the two processes which we have described?",
+          "lineStart": 979
+        },
+        {
+          "type": "para",
+          "text": "Pro. Good.",
+          "lineStart": 981
+        },
+        {
+          "type": "para",
+          "text": "Soc. Let us next assume that in the soul herself there is an antecedent hope of pleasure which is sweet and refreshing, and an expectation of pain, fearful and anxious.",
+          "lineStart": 982
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes; this is another class of pleasures and pains, which is of the soul only, apart from the body, and is produced by expectation.",
+          "lineStart": 985
+        },
+        {
+          "type": "para",
+          "text": "Soc. Right; for in the analysis of these, pure, as I suppose them to be, the pleasures being unalloyed with pain and the pains with pleasure, methinks that we shall see clearly whether the whole class of pleasure is to be desired, or whether this quality of entire desirableness is not rather to be attributed to another of the classes which have been mentioned; and whether pleasure and pain, like heat and cold, and other things of the same kind, are not sometimes to be desired and sometimes not to be desired, as being not in themselves good, but only sometimes and in some instances admitting of the nature of good.",
+          "lineStart": 988
+        },
+        {
+          "type": "para",
+          "text": "Pro. You say most truly that this is the track which the investigation should pursue.",
+          "lineStart": 997
+        },
+        {
+          "type": "para",
+          "text": "Soc. Well, then, assuming that pain ensues on the dissolution, and pleasure on the restoration of the harmony, let us now ask what will be the condition of animated beings who are neither in process of restoration nor of dissolution. And mind what you say: I ask whether any animal who is in that condition can possibly have any feeling of pleasure or pain, great or small?",
+          "lineStart": 999
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly not.",
+          "lineStart": 1005
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then here we have a third state, over and above that of pleasure and of pain?",
+          "lineStart": 1006
+        },
+        {
+          "type": "para",
+          "text": "Pro. Very true.",
+          "lineStart": 1008
+        },
+        {
+          "type": "para",
+          "text": "Soc. And do not forget that there is such a state; it will make a great difference in our judgment of pleasure, whether we remember this or not. And I should like to say a few words about it.",
+          "lineStart": 1009
+        },
+        {
+          "type": "para",
+          "text": "Pro. What have you to say?",
+          "lineStart": 1013
+        },
+        {
+          "type": "para",
+          "text": "Soc. Why, you know that if a man chooses the life of wisdom, there is no reason why he should not live in this neutral state.",
+          "lineStart": 1014
+        },
+        {
+          "type": "para",
+          "text": "Pro. You mean that he may live neither rejoicing nor sorrowing?",
+          "lineStart": 1017
+        },
+        {
+          "type": "para",
+          "text": "Soc. Yes; and if I remember rightly, when the lives were compared, no degree of pleasure, whether great or small, was thought to be necessary to him who chose the life of thought and wisdom.",
+          "lineStart": 1019
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes, certainly, we said so.",
+          "lineStart": 1023
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then he will live without pleasure; and who knows whether this may not be the most divine of all lives?",
+          "lineStart": 1024
+        },
+        {
+          "type": "para",
+          "text": "Pro. If so, the gods, at any rate, cannot be supposed to have either joy or sorrow.",
+          "lineStart": 1026
+        },
+        {
+          "type": "para",
+          "text": "Soc. Certainly not-there would be a great impropriety in the assumption of either alternative. But whether the gods are or are not indifferent to pleasure is a point which may be considered hereafter if in any way relevant to the argument, and whatever is the conclusion we will place it to the account of mind in her contest for the second place, should she have to resign the first.",
+          "lineStart": 1028
+        },
+        {
+          "type": "para",
+          "text": "Pro. Just so.",
+          "lineStart": 1034
+        },
+        {
+          "type": "para",
+          "text": "Soc. The other class of pleasures, which as we were saying is purely mental, is entirely derived from memory.",
+          "lineStart": 1035
+        },
+        {
+          "type": "para",
+          "text": "Pro. What do you mean?",
+          "lineStart": 1037
+        },
+        {
+          "type": "para",
+          "text": "Soc. I must first of all analyse memory, or rather perception which is prior to, memory, if the subject of our discussion is ever to be properly cleared up.",
+          "lineStart": 1038
+        },
+        {
+          "type": "para",
+          "text": "Pro. How will you proceed?",
+          "lineStart": 1041
+        },
+        {
+          "type": "para",
+          "text": "Soc. Let us imagine affections of the body which are extinguished before they reach the soul, and leave her unaffected; and again, other affections which vibrate through both soul and body, and impart a shock to both and to each of them.",
+          "lineStart": 1042
+        },
+        {
+          "type": "para",
+          "text": "Pro. Granted.",
+          "lineStart": 1046
+        },
+        {
+          "type": "para",
+          "text": "Soc. And the soul may be truly said to be oblivious of the first but not of the second?",
+          "lineStart": 1047
+        },
+        {
+          "type": "para",
+          "text": "Pro. Quite true.",
+          "lineStart": 1049
+        },
+        {
+          "type": "para",
+          "text": "Soc. When I say oblivious, do not suppose that I mean forgetfulness in a literal sense; for forgetfulness is the exit of memory, which in this case has not yet entered; and to speak of the loss of that which is not yet in existence, and never has been, is a contradiction; do you see?",
+          "lineStart": 1050
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes.",
+          "lineStart": 1055
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then just be so good as to change the terms.",
+          "lineStart": 1056
+        },
+        {
+          "type": "para",
+          "text": "Pro. How shall I change them?",
+          "lineStart": 1058
+        },
+        {
+          "type": "para",
+          "text": "Soc. Instead of the oblivion of the soul, when you are describing the state in which she is unaffected by the shocks of the body, say unconsciousness.",
+          "lineStart": 1059
+        },
+        {
+          "type": "para",
+          "text": "Pro. I see.",
+          "lineStart": 1062
+        },
+        {
+          "type": "para",
+          "text": "Soc. And the union or communion of soul and body in one feeling and motion would be properly called consciousness?",
+          "lineStart": 1063
+        },
+        {
+          "type": "para",
+          "text": "Pro. Most true.",
+          "lineStart": 1065
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then now we know the meaning of the word?",
+          "lineStart": 1066
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes.",
+          "lineStart": 1068
+        },
+        {
+          "type": "para",
+          "text": "Soc. And memory may, I think, be rightly described as the preservation of consciousness?",
+          "lineStart": 1069
+        },
+        {
+          "type": "para",
+          "text": "Pro. Right.",
+          "lineStart": 1071
+        },
+        {
+          "type": "para",
+          "text": "Soc. But do we not distinguish memory from recollection?",
+          "lineStart": 1072
+        },
+        {
+          "type": "para",
+          "text": "Pro. I think so.",
+          "lineStart": 1074
+        },
+        {
+          "type": "para",
+          "text": "Soc. And do we not mean by recollection the power which the soul has of recovering, when by herself, some feeling which she experienced when in company with the body?",
+          "lineStart": 1075
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly.",
+          "lineStart": 1078
+        },
+        {
+          "type": "para",
+          "text": "Soc. And when she recovers of herself the lost recollection of some consciousness or knowledge, the recovery is termed recollection and reminiscence?",
+          "lineStart": 1079
+        },
+        {
+          "type": "para",
+          "text": "Pro. Very true.",
+          "lineStart": 1082
+        },
+        {
+          "type": "para",
+          "text": "Soc. There is a reason why I say all this.",
+          "lineStart": 1083
+        },
+        {
+          "type": "para",
+          "text": "Pro. What is it?",
+          "lineStart": 1085
+        },
+        {
+          "type": "para",
+          "text": "Soc. I want to attain the plainest possible notion of pleasure and desire, as they exist in the mind only, apart from the body; and the previous analysis helps to show the nature of both.",
+          "lineStart": 1086
+        },
+        {
+          "type": "para",
+          "text": "Pro. Then now, Socrates, let us proceed to the next point.",
+          "lineStart": 1089
+        },
+        {
+          "type": "para",
+          "text": "Soc. There are certainly many things to be considered in discussing the generation and whole complexion of pleasure. At the outset we must determine the nature and seat of desire.",
+          "lineStart": 1091
+        },
+        {
+          "type": "para",
+          "text": "Pro. Ay; let us enquire into that, for we shall lose nothing.",
+          "lineStart": 1094
+        },
+        {
+          "type": "para",
+          "text": "Soc. Nay, Protarchus, we shall surely lose the puzzle if we find the answer.",
+          "lineStart": 1096
+        },
+        {
+          "type": "para",
+          "text": "Pro. A fair retort; but let us proceed.",
+          "lineStart": 1098
+        },
+        {
+          "type": "para",
+          "text": "Soc. Did we not place hunger, thirst, and the like, in the class of desires?",
+          "lineStart": 1099
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly.",
+          "lineStart": 1101
+        },
+        {
+          "type": "para",
+          "text": "Soc. And yet they are very different; what common nature have we in view when we call them by a single name?",
+          "lineStart": 1102
+        },
+        {
+          "type": "para",
+          "text": "Pro. By heavens, Socrates, that is a question which is, not easily answered; but it must be answered.",
+          "lineStart": 1104
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then let us go back to our examples.",
+          "lineStart": 1106
+        },
+        {
+          "type": "para",
+          "text": "Pro. Where shall we begin?",
+          "lineStart": 1107
+        },
+        {
+          "type": "para",
+          "text": "Soc. Do we mean anything when we say \"a man thirsts\"?",
+          "lineStart": 1108
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes.",
+          "lineStart": 1110
+        },
+        {
+          "type": "para",
+          "text": "Soc. We mean to say that he \"is empty\"?",
+          "lineStart": 1111
+        },
+        {
+          "type": "para",
+          "text": "Pro. Of course.",
+          "lineStart": 1112
+        },
+        {
+          "type": "para",
+          "text": "Soc. And is not thirst desire?",
+          "lineStart": 1113
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes, of drink.",
+          "lineStart": 1114
+        },
+        {
+          "type": "para",
+          "text": "Soc. Would you say of drink, or of replenishment with drink?",
+          "lineStart": 1115
+        },
+        {
+          "type": "para",
+          "text": "Pro. I should say, of replenishment with drink.",
+          "lineStart": 1117
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then he who is empty desires, as would appear, the opposite of what he experiences; for he is empty and desires to be full?",
+          "lineStart": 1119
+        },
+        {
+          "type": "para",
+          "text": "Pro. Clearly so.",
+          "lineStart": 1122
+        },
+        {
+          "type": "para",
+          "text": "Soc. But how can a man who is empty for the first time, attain either by perception or memory to any apprehension of replenishment, of which he has no present or past experience?",
+          "lineStart": 1123
+        },
+        {
+          "type": "para",
+          "text": "Pro. Impossible.",
+          "lineStart": 1126
+        },
+        {
+          "type": "para",
+          "text": "Soc. And yet he who desires, surely desires something?",
+          "lineStart": 1127
+        },
+        {
+          "type": "para",
+          "text": "Pro. Of course.",
+          "lineStart": 1129
+        },
+        {
+          "type": "para",
+          "text": "Soc. He does not desire that which he experiences, for he experiences thirst, and thirst is emptiness; but he desires replenishment?",
+          "lineStart": 1130
+        },
+        {
+          "type": "para",
+          "text": "Pro. True.",
+          "lineStart": 1133
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then there must be something in the thirsty man which in some way apprehends replenishment?",
+          "lineStart": 1134
+        },
+        {
+          "type": "para",
+          "text": "Pro. There must.",
+          "lineStart": 1136
+        },
+        {
+          "type": "para",
+          "text": "Soc. And that cannot be the body, for the body is supposed to be emptied?",
+          "lineStart": 1137
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes.",
+          "lineStart": 1139
+        },
+        {
+          "type": "para",
+          "text": "Soc. The only remaining alternative is that the soul apprehends the replenishment by the help of memory; as is obvious, for what other way can there be?",
+          "lineStart": 1140
+        },
+        {
+          "type": "para",
+          "text": "Pro. I cannot imagine any other.",
+          "lineStart": 1143
+        },
+        {
+          "type": "para",
+          "text": "Soc. But do you see the consequence?",
+          "lineStart": 1144
+        },
+        {
+          "type": "para",
+          "text": "Pro. What is it?",
+          "lineStart": 1145
+        },
+        {
+          "type": "para",
+          "text": "Soc. That there is no such thing as desire of the body.",
+          "lineStart": 1146
+        },
+        {
+          "type": "para",
+          "text": "Pro. Why so?",
+          "lineStart": 1148
+        },
+        {
+          "type": "para",
+          "text": "Soc. Why, because the argument shows that the endeavour of every animal is to the reverse of his bodily state.",
+          "lineStart": 1149
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes.",
+          "lineStart": 1151
+        },
+        {
+          "type": "para",
+          "text": "Soc. And the impulse which leads him to the opposite of what he is experiencing proves that he has a memory of the opposite state.",
+          "lineStart": 1152
+        },
+        {
+          "type": "para",
+          "text": "Pro. True.",
+          "lineStart": 1155
+        },
+        {
+          "type": "para",
+          "text": "Soc. And the argument, having proved that memory attracts us towards the objects of desire, proves also that the impulses and the desires and the moving principle in every living being have their origin in the soul.",
+          "lineStart": 1156
+        },
+        {
+          "type": "para",
+          "text": "Pro. Most true.",
+          "lineStart": 1160
+        },
+        {
+          "type": "para",
+          "text": "Soc. The argument will not allow that our body either hungers or thirsts or has any similar experience.",
+          "lineStart": 1161
+        },
+        {
+          "type": "para",
+          "text": "Pro. Quite right.",
+          "lineStart": 1163
+        },
+        {
+          "type": "para",
+          "text": "Soc. Let me make a further observation; the argument appears to me to imply that there is a kind of life which consists in these affections.",
+          "lineStart": 1164
+        },
+        {
+          "type": "para",
+          "text": "Pro. Of what affections, and of what kind of life, are you speaking?",
+          "lineStart": 1167
+        },
+        {
+          "type": "para",
+          "text": "Soc. I am speaking of being emptied and replenished, and of all that relates to the preservation and destruction of living beings, as well as of the pain which is felt in one of these states and of the pleasure which succeeds to it.",
+          "lineStart": 1169
+        },
+        {
+          "type": "para",
+          "text": "Pro. True.",
+          "lineStart": 1173
+        },
+        {
+          "type": "para",
+          "text": "Soc. And what would you say of the intermediate state?",
+          "lineStart": 1174
+        },
+        {
+          "type": "para",
+          "text": "Pro. What do you mean by \"intermediate\"?",
+          "lineStart": 1176
+        },
+        {
+          "type": "para",
+          "text": "Soc. I mean when a person is in actual suffering and yet remembers past pleasures which, if they would only return, would relieve him; but as yet he has them not. May we not say of him, that he is in an intermediate state?",
+          "lineStart": 1177
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly.",
+          "lineStart": 1181
+        },
+        {
+          "type": "para",
+          "text": "Soc. Would you say that he was wholly pained or wholly pleased?",
+          "lineStart": 1182
+        },
+        {
+          "type": "para",
+          "text": "Pro. Nay, I should say that he has two pains; in his body there is the actual experience of pain, and in his soul longing and expectation.",
+          "lineStart": 1184
+        },
+        {
+          "type": "para",
+          "text": "Soc. What do you mean, Protarchus, by the two pains? May not a man who is empty have at one time a sure hope of being filled, and at other times be quite in despair?",
+          "lineStart": 1187
+        },
+        {
+          "type": "para",
+          "text": "Pro. Very true.",
+          "lineStart": 1190
+        },
+        {
+          "type": "para",
+          "text": "Soc. And has he not the pleasure of memory when he is hoping to be filled, and yet in that he is empty is he not at the same time in pain?",
+          "lineStart": 1191
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly.",
+          "lineStart": 1194
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then man and the other animals have at the same time both pleasure and pain?",
+          "lineStart": 1195
+        },
+        {
+          "type": "para",
+          "text": "Pro. I suppose so.",
+          "lineStart": 1197
+        },
+        {
+          "type": "para",
+          "text": "Soc. But when a man is empty and has no hope of being filled, there will be the double experience of pain. You observed this and inferred that the double experience was the single case possible.",
+          "lineStart": 1198
+        },
+        {
+          "type": "para",
+          "text": "Pro. Quite true, Socrates.",
+          "lineStart": 1201
+        },
+        {
+          "type": "para",
+          "text": "Soc. Shall the enquiry into these states of feeling be made the occasion of raising a question?",
+          "lineStart": 1202
+        },
+        {
+          "type": "para",
+          "text": "Pro. What question?",
+          "lineStart": 1204
+        },
+        {
+          "type": "para",
+          "text": "Soc. Whether we ought to say that the pleasures and pains of which we are speaking are true or false? or some true and some false?",
+          "lineStart": 1205
+        },
+        {
+          "type": "para",
+          "text": "Pro. But how, Socrates, can there be false pleasures and pains?",
+          "lineStart": 1208
+        },
+        {
+          "type": "para",
+          "text": "Soc. And how, Protarchus, can there be true and false fears, or true and false expectations, or true and false opinions?",
+          "lineStart": 1210
+        },
+        {
+          "type": "para",
+          "text": "Pro. I grant that opinions may be true or false, but not pleasures.",
+          "lineStart": 1212
+        },
+        {
+          "type": "para",
+          "text": "Soc. What do you mean? I am afraid that we are raising a very serious enquiry.",
+          "lineStart": 1214
+        },
+        {
+          "type": "para",
+          "text": "Pro. There I agree.",
+          "lineStart": 1216
+        },
+        {
+          "type": "para",
+          "text": "Soc. And yet, my boy, for you are one of Philebus' boys, the point to be considered, is, whether the enquiry is relevant to the argument.",
+          "lineStart": 1217
+        },
+        {
+          "type": "para",
+          "text": "Pro. Surely.",
+          "lineStart": 1220
+        },
+        {
+          "type": "para",
+          "text": "Soc. No tedious and irrelevant discussion can be allowed; what is said should be pertinent.",
+          "lineStart": 1221
+        },
+        {
+          "type": "para",
+          "text": "Pro. Right.",
+          "lineStart": 1223
+        },
+        {
+          "type": "para",
+          "text": "Soc. I am always wondering at the question which has now been raised.",
+          "lineStart": 1224
+        },
+        {
+          "type": "para",
+          "text": "Pro. How so?",
+          "lineStart": 1226
+        },
+        {
+          "type": "para",
+          "text": "Soc. Do you deny that some pleasures are false, and others true?",
+          "lineStart": 1227
+        },
+        {
+          "type": "para",
+          "text": "Pro. To be sure I do.",
+          "lineStart": 1229
+        },
+        {
+          "type": "para",
+          "text": "Soc. Would you say that no one ever seemed to rejoice and yet did not rejoice, or seemed to feel pain and yet did not feel pain, sleeping or waking, mad or lunatic?",
+          "lineStart": 1230
+        },
+        {
+          "type": "para",
+          "text": "Pro. So we have always held, Socrates.",
+          "lineStart": 1233
+        },
+        {
+          "type": "para",
+          "text": "Soc. But were you right? Shall we enquire into the truth of your opinion?",
+          "lineStart": 1234
+        },
+        {
+          "type": "para",
+          "text": "Pro. I think that we should.",
+          "lineStart": 1236
+        },
+        {
+          "type": "para",
+          "text": "Soc. Let us then put into more precise terms the question which has arisen about pleasure and opinion. Is there such a thing as opinion?",
+          "lineStart": 1237
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes.",
+          "lineStart": 1240
+        },
+        {
+          "type": "para",
+          "text": "Soc. And such a thing as pleasure?",
+          "lineStart": 1241
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes.",
+          "lineStart": 1242
+        },
+        {
+          "type": "para",
+          "text": "Soc. And an opinion must of something?",
+          "lineStart": 1243
+        },
+        {
+          "type": "para",
+          "text": "Pro. True.",
+          "lineStart": 1244
+        },
+        {
+          "type": "para",
+          "text": "Soc. And a man must be pleased by something?",
+          "lineStart": 1245
+        },
+        {
+          "type": "para",
+          "text": "Pro. Quite correct.",
+          "lineStart": 1246
+        },
+        {
+          "type": "para",
+          "text": "Soc. And whether the opinion be right or wrong, makes no difference; it will still be an opinion?",
+          "lineStart": 1247
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly.",
+          "lineStart": 1249
+        },
+        {
+          "type": "para",
+          "text": "Soc. And he who is pleased, whether he is rightly pleased or not will always have a real feeling of pleasure?",
+          "lineStart": 1250
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes; that is also quite true.",
+          "lineStart": 1252
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then, how can opinion be both true and false, and pleasure true only, although pleasure and opinion are both equally real?",
+          "lineStart": 1253
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes; that is the question.",
+          "lineStart": 1256
+        },
+        {
+          "type": "para",
+          "text": "Soc. You mean that opinion admits of truth and falsehood, and hence becomes not merely opinion, but opinion of a certain quality; and this is what you think should be examined?",
+          "lineStart": 1257
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes.",
+          "lineStart": 1260
+        },
+        {
+          "type": "para",
+          "text": "Soc. And further, even if we admit the existence of qualities in other objects, may not pleasure and pain be simple and devoid of quality?",
+          "lineStart": 1261
+        },
+        {
+          "type": "para",
+          "text": "Pro. Clearly.",
+          "lineStart": 1264
+        },
+        {
+          "type": "para",
+          "text": "Soc. But there is no difficulty in seeing that Pleasure and pain as well as opinion have qualities, for they are great or small, and have various degrees of intensity; as was indeed said long ago by us.",
+          "lineStart": 1265
+        },
+        {
+          "type": "para",
+          "text": "Pro. Quite true.",
+          "lineStart": 1269
+        },
+        {
+          "type": "para",
+          "text": "Soc. And if badness attaches to any of them, Protarchus, then we should speak of a bad opinion or of a bad pleasure?",
+          "lineStart": 1270
+        },
+        {
+          "type": "para",
+          "text": "Pro. Quite true, Socrates.",
+          "lineStart": 1272
+        },
+        {
+          "type": "para",
+          "text": "Soc. And if rightness attaches to any of them, should we not speak of a right opinion or right pleasure; and in like manner of the reverse of rightness?",
+          "lineStart": 1273
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly.",
+          "lineStart": 1276
+        },
+        {
+          "type": "para",
+          "text": "Soc. And if the thing opined be erroneous, might we not say that opinion, being erroneous, is not right or rightly opined?",
+          "lineStart": 1277
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly.",
+          "lineStart": 1280
+        },
+        {
+          "type": "para",
+          "text": "Soc. And if we see a pleasure or pain which errs in respect of its object, shall we call that right or good, or by any honourable name?",
+          "lineStart": 1281
+        },
+        {
+          "type": "para",
+          "text": "Pro. Not if the pleasure is mistaken; how could we?",
+          "lineStart": 1284
+        },
+        {
+          "type": "para",
+          "text": "Soc. And surely pleasure often appears to accompany an opinion which is not true, but false?",
+          "lineStart": 1286
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly it does; and in that case, Socrates, as we were saying, the opinion is false, but no one could call the actual pleasure false.",
+          "lineStart": 1288
+        },
+        {
+          "type": "para",
+          "text": "Soc. How eagerly, Protarchus, do you rush to the defence of pleasure!",
+          "lineStart": 1291
+        },
+        {
+          "type": "para",
+          "text": "Pro. Nay, Socrates, I only repeat what I hear.",
+          "lineStart": 1293
+        },
+        {
+          "type": "para",
+          "text": "Soc. And is there no difference, my friend, between that pleasure which is associated with right opinion and knowledge, and that which is often found in all of us associated with falsehood and ignorance?",
+          "lineStart": 1295
+        },
+        {
+          "type": "para",
+          "text": "Pro. There must be a very great difference, between them.",
+          "lineStart": 1299
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then, now let us proceed to contemplate this difference.",
+          "lineStart": 1301
+        },
+        {
+          "type": "para",
+          "text": "Pro. Lead, and I will follow.",
+          "lineStart": 1303
+        },
+        {
+          "type": "para",
+          "text": "Soc. Well, then, my view is-",
+          "lineStart": 1304
+        },
+        {
+          "type": "para",
+          "text": "Pro. What is it?",
+          "lineStart": 1305
+        },
+        {
+          "type": "para",
+          "text": "Soc. We agree-do we not?-that there is such a thing as false, and also such a thing as true opinion?",
+          "lineStart": 1306
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes.",
+          "lineStart": 1308
+        },
+        {
+          "type": "para",
+          "text": "Soc. And pleasure and pain, as I was just now saying, are often consequent upon these upon true and false opinion, I mean.",
+          "lineStart": 1309
+        },
+        {
+          "type": "para",
+          "text": "Pro. Very true.",
+          "lineStart": 1312
+        },
+        {
+          "type": "para",
+          "text": "Soc. And do not opinion and the endeavour to form an opinion always spring from memory and perception?",
+          "lineStart": 1313
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly.",
+          "lineStart": 1315
+        },
+        {
+          "type": "para",
+          "text": "Soc. Might we imagine the process to be something of this nature?",
+          "lineStart": 1316
+        },
+        {
+          "type": "para",
+          "text": "Pro. Of what nature?",
+          "lineStart": 1318
+        },
+        {
+          "type": "para",
+          "text": "Soc. An object may be often seen at a distance not very clearly, and the seer may want to determine what it is which he sees.",
+          "lineStart": 1319
+        },
+        {
+          "type": "para",
+          "text": "Pro. Very likely.",
+          "lineStart": 1322
+        },
+        {
+          "type": "para",
+          "text": "Soc. Soon he begins to interrogate himself.",
+          "lineStart": 1323
+        },
+        {
+          "type": "para",
+          "text": "Pro. In what manner?",
+          "lineStart": 1324
+        },
+        {
+          "type": "para",
+          "text": "Soc. He asks himself-\"What is that which appears to be standing by the rock under the tree?\" This is the question which he may be supposed to put to himself when he sees such an appearance.",
+          "lineStart": 1325
+        },
+        {
+          "type": "para",
+          "text": "Pro. True.",
+          "lineStart": 1328
+        },
+        {
+          "type": "para",
+          "text": "Soc. To which he may guess the right answer, saying as if in a whisper to himself-\"It is a man.\"",
+          "lineStart": 1329
+        },
+        {
+          "type": "para",
+          "text": "Pro. Very good.",
+          "lineStart": 1331
+        },
+        {
+          "type": "para",
+          "text": "Soc. Or again, he may be misled, and then he will say-\"No, it is a figure made by the shepherds.\"",
+          "lineStart": 1332
+        },
+        {
+          "type": "para",
+          "text": "Pro. Yes.",
+          "lineStart": 1334
+        },
+        {
+          "type": "para",
+          "text": "Soc. And if he has a companion, he repeats his thought to him in articulate sounds, and what was before an opinion, has now become a proposition.",
+          "lineStart": 1335
+        },
+        {
+          "type": "para",
+          "text": "Pro. Certainly.",
+          "lineStart": 1338
+        },
+        {
+          "type": "para",
+          "text": "Soc. But if he be walking alone when these thoughts occur to him, he may not unfrequently keep them in his mind for a considerable time.",
+          "lineStart": 1339
+        },
+        {
+          "type": "para",
+          "text": "Pro. Very true.",
+          "lineStart": 1342
+        },
+        {
+          "type": "para",
+          "text": "Soc. Well, now, I wonder whether, you would agree in my explanation of this phenomenon.",
+          "lineStart": 1343
+        },
+        {
+          "type": "para",
+          "text": "Pro. What is your explanation?",
+          "lineStart": 1345
+        },
+        {
+          "type": "para",
+          "text": "Soc. I think that the soul at such times is like a book.",
+          "lineStart": 1346
+        },
+        {
+          "type": "para",
+          "text": "Pro",
+          "lineStart": 1348
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 553,
+    "wordCount": 11778
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "Hippocrates/hippolaw",
+  "author": "Hippocrates",
+  "authorKey": "Hippocrates",
+  "title": "The Law",
+  "translator": "Francis Adams",
+  "language": "Greek",
+  "written": "400 BCE",
+  "sourceNote": null,
+  "shape": "multi",
+  "textMode": "prose",
+  "textModeReason": "hard-wrapped prose: 0.882 long unterminated interior lines, median line length 73.0, 1.000 unmarked continuation lines",
+  "textModeStats": {
+    "lineCount": 39,
+    "paragraphCount": 5,
+    "interiorLineCount": 34,
+    "medianLineLength": 73.0,
+    "meanLineLength": 68.0,
+    "longInteriorLineRatio": 1.0,
+    "unterminatedInteriorLineRatio": 0.8823529411764706,
+    "longUnterminatedInteriorLineRatio": 0.8823529411764706,
+    "explicitBreakLineRatio": 0.0,
+    "unmarkedLineRatio": 1.0
+  },
+  "landingUrl": "https://classics.mit.edu/Hippocrates/hippolaw.html",
+  "textUrls": [
+    "https://classics.mit.edu/Hippocrates/hippolaw.1.1.html",
+    "https://classics.mit.edu/Hippocrates/hippolaw.2.2.html",
+    "https://classics.mit.edu/Hippocrates/hippolaw.3.3.html",
+    "https://classics.mit.edu/Hippocrates/hippolaw.4.4.html",
+    "https://classics.mit.edu/Hippocrates/hippolaw.5.5.html"
+  ],
+  "txtUrl": "https://classics.mit.edu/Hippocrates/hippolaw.mb.txt",
+  "sections": [
+    {
+      "seq": 1,
+      "id": "hippolaw-part-1",
+      "heading": "Part 1",
+      "partTitle": "Part 1",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "Medicine is of all the Arts the most noble; but, not withstanding, owing to the ignorance of those who practice it, and of those who, inconsiderately, form a judgment of them, it is at present far behind all the other arts. Their mistake appears to me to arise principally from this, that in the cities there is no punishment connected with the practice of medicine (and with it alone) except disgrace, and that does not hurt those who are familiar with it. Such persons are like the figures which are introduced in tragedies, for as they have the shape, and dress, and personal appearance of an actor, but are not actors, so also physicians are many in title but very few in reality.",
+          "lineStart": 10
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "id": "hippolaw-part-2",
+      "heading": "Part 2",
+      "partTitle": "Part 2",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "Whoever is to acquire a competent knowledge of medicine, ought to be possessed of the following advantages: a natural disposition; instruction; a favorable position for the study; early tuition; love of labor; leisure. First of all, a natural talent is required; for, when Nature opposes, everything else is in vain; but when Nature leads the way to what is most excellent, instruction in the art takes place, which the student must try to appropriate to himself by reflection, becoming an early pupil in a place well adapted for instruction. He must also bring to the task a love of labor and perseverance, so that the instruction taking root may bring forth proper and abundant fruits.",
+          "lineStart": 10
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "id": "hippolaw-part-3",
+      "heading": "Part 3",
+      "partTitle": "Part 3",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "Instruction in medicine is like the culture of the productions of the earth. For our natural disposition is, as it were, the soil; the tenets of our teacher are, as it were, the seed; instruction in youth is like the planting of the seed in the ground at the proper season; the place where the instruction is communicated is like the food imparted to vegetables by the atmosphere; diligent study is like the cultivation of the fields; and it is time which imparts strength to all things and brings them to maturity.",
+          "lineStart": 10
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "id": "hippolaw-part-4",
+      "heading": "Part 4",
+      "partTitle": "Part 4",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "Having brought all these requisites to the study of medicine, and having acquired a true knowledge of it, we shall thus, in traveling through the cities, be esteemed physicians not only in name but in reality. But inexperience is a bad treasure, and a bad fund to those who possess it, whether in opinion or reality, being devoid of self-reliance and contentedness, and the nurse both of timidity and audacity. For timidity betrays a want of powers, and audacity a want of skill. There are, indeed, two things, knowledge and opinion, of which the one makes its possessor really to know, the other to be ignorant.",
+          "lineStart": 10
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "id": "hippolaw-part-5",
+      "heading": "Part 5",
+      "partTitle": "Part 5",
+      "blocks": [
+        {
+          "type": "para",
+          "text": "Those things which are sacred, are to be imparted only to sacred persons; and it is not lawful to import them to the profane until they have been initiated in the mysteries of the science.",
+          "lineStart": 10
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 5,
+    "paragraphCount": 5,
+    "wordCount": 471
+  }
+}

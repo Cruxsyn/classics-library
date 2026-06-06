@@ -1,0 +1,4522 @@
+{
+  "id": "Aristophanes/eccles",
+  "author": "Aristophanes",
+  "authorKey": "Aristophanes",
+  "title": "The Ecclesiazusae",
+  "translator": null,
+  "language": "Greek",
+  "written": "390 BCE",
+  "sourceNote": null,
+  "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "ambiguous: 0.323 long unterminated interior lines, median line length 33.0, 0.000 explicit breaks; defaulted to prose",
+  "textModeStats": {
+    "lineCount": 1399,
+    "paragraphCount": 2,
+    "interiorLineCount": 1397,
+    "medianLineLength": 33.0,
+    "meanLineLength": 37.526804860614725,
+    "longInteriorLineRatio": 0.39083750894774516,
+    "unterminatedInteriorLineRatio": 0.6599856836077308,
+    "longUnterminatedInteriorLineRatio": 0.3228346456692913,
+    "explicitBreakLineRatio": 0.0,
+    "unmarkedLineRatio": 0.9992852037169406
+  },
+  "landingUrl": "https://classics.mit.edu/Aristophanes/eccles.html",
+  "textUrls": [
+    "https://classics.mit.edu/Aristophanes/eccles.html"
+  ],
+  "txtUrl": "https://classics.mit.edu/Aristophanes/eccles.pl.txt",
+  "sections": [
+    {
+      "seq": 1,
+      "id": "eccles-the-ecclesiazusae",
+      "heading": "The Ecclesiazusae",
+      "partTitle": "The Ecclesiazusae",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Dramatis Personae",
+          "lineStart": 10
+        },
+        {
+          "type": "para",
+          "text": "PRAXAGORA BLEPYRUS, husband of Praxagora WOMEN A MAN CHREMES A CITIZEN HERALD A GIRL A YOUNG MAN THREE OLD WOMEN A SERVANT MAID to PRAXAGORA CHORUS OF WOMEN Scene The Orchestra represents a public square in Athens; in the background are two houses with an alley between them.",
+          "lineStart": 11
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 24
+        },
+        {
+          "type": "para",
+          "text": "swinging the lantern, which is to be a signal for the other women; in high tragic style Oh! Thou shining light of my earthenware lamp, from this high spot shalt thou look abroad. Oh! lamp, I will tell thee thine origin and thy future; 'tis the rapid whirl of the potter's wheel that has lent thee thy shape, and thy wick counterfeits the glory of the sun; mayst thou send the agreed signal flashing afar! In thee alone do we confide, and thou art worthy, for thou art near us when we practise the various postures in which Aphrodite delights upon our couches, and none dreams even in the midst of her sports of seeking to avoid thine eye that watches us. Thou alone shinest into the secret recesses of our thighs and dost singe the hair that groweth there, and with thy flame dost light the actions of our loves. If we open some cellar stored with fruits and wine, thou art our companion, and never dost thou betray or reveal to a neighbour the secrets thou hast learned about us. Therefore thou shalt know likewise the whole of the plot that I have planned with my friends, the women, at the festival of the Scirophoria. She pauses and looks about her. I see none of those I was expecting, though dawn approaches; the Assembly is about to gather and we must take our seats in spite of Phyromachus, who forsooth would say, \"It is meet the women sit apart and hidden from the eyes of the men.\" Why, have they not been able then to procure the false beards that they must wear, or to steal their husbands' cloaks? Ah! I see a light approaching; let us draw somewhat aside, for fear it should be a man. She hides in the alley. From the right a woman enters, followed almost immediately by others. All are carrying staffs, men's sandals, and cloaks over their arms.",
+          "lineStart": 25
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 52
+        },
+        {
+          "type": "para",
+          "text": "Let us start, it is high time; as we left our dwellings, the cock was crowing for the second time.",
+          "lineStart": 53
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 55
+        },
+        {
+          "type": "para",
+          "text": "to herself And I have spent the whole night waiting for you. She emerges from the alley. But come, let us call our neighbour by scratching at her door; and gently too, so that her husband may hear nothing.",
+          "lineStart": 56
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 61
+        },
+        {
+          "type": "para",
+          "text": "coming out of her house; she is dressed like a man, with a staff in her hand I was putting on my shoes, when I heard you scratching, for I was not asleep, so there! Oh! my dear, my husband (he is a Salaminian) never left me an instant's peace, but was at me, for ever at me, all night long, so that it was only just now that I was able to filch his cloak.",
+          "lineStart": 62
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 68
+        },
+        {
+          "type": "para",
+          "text": "I see Clinarete coming too, along with Sostrate and their next-door neighbour Philaenete. To the women that are just arriving; in a loud voice Hurry yourselves then, for Glyce has sworn that the last comer shall forfeit three measures of wine and a choenix of pease.",
+          "lineStart": 69
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 74
+        },
+        {
+          "type": "para",
+          "text": "Don't you see Melistice, the wife of Smicythion, hurrying hither in her big shoes? I think she is the only one of us all who has had no trouble in getting rid of her husband.",
+          "lineStart": 75
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 78
+        },
+        {
+          "type": "para",
+          "text": "And can't you see Geusistrate, the tavern-keeper's wife, with a lamp in her hand?",
+          "lineStart": 79
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 81
+        },
+        {
+          "type": "para",
+          "text": "And the wives of Philodoretus and Chaeretades, and a great many others; all the useful people in the city, in fact.",
+          "lineStart": 82
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "THIRD WOMAN",
+          "lineStart": 84
+        },
+        {
+          "type": "para",
+          "text": "Oh! my dear, I have had such trouble in getting away! My husband ate such a surfeit of sprats last evening that he was coughing and choking the whole night long.",
+          "lineStart": 85
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 88
+        },
+        {
+          "type": "para",
+          "text": "Take your seats, and, since you are all gathered here at last, let us see if what we decided on at the feast of the Scirophoria has been duly done.",
+          "lineStart": 89
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 92
+        },
+        {
+          "type": "para",
+          "text": "Yes. Firstly, as agreed, I have let the hair under my armpits grow thicker than a bush; furthermore, whilst my husband was at the Assembly, I rubbed myself from head to foot with oil and then stood the whole day long in the sun.",
+          "lineStart": 93
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 97
+        },
+        {
+          "type": "para",
+          "text": "So did I. I began by throwing away my razor, so that I might get quite hairy, and no longer resemble a woman.",
+          "lineStart": 98
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 100
+        },
+        {
+          "type": "para",
+          "text": "Have you the beards that we had all to get ourselves for the Assembly?",
+          "lineStart": 101
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 103
+        },
+        {
+          "type": "para",
+          "text": "Yea, by Hecate! Is this not a fine one?",
+          "lineStart": 104
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 105
+        },
+        {
+          "type": "para",
+          "text": "Aye, much finer even than the one Epicrates has.",
+          "lineStart": 106
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 107
+        },
+        {
+          "type": "para",
+          "text": "to the other women And you?",
+          "lineStart": 108
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 110
+        },
+        {
+          "type": "para",
+          "text": "Yes, yes; look, they all nod assent.",
+          "lineStart": 111
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 112
+        },
+        {
+          "type": "para",
+          "text": "I see that you have got all the rest too, Spartan shoes, staffs and men's cloaks, as it was arranged.",
+          "lineStart": 113
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 115
+        },
+        {
+          "type": "para",
+          "text": "I have brought Lamias' club, which I stole from him while he slept.",
+          "lineStart": 116
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 118
+        },
+        {
+          "type": "para",
+          "text": "What, the club that makes him fart with its weight?",
+          "lineStart": 119
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 120
+        },
+        {
+          "type": "para",
+          "text": "By Zeus the Deliverer, if he had the skin of Argus, he would know better than any other how to shepherd the popular herd.",
+          "lineStart": 121
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 123
+        },
+        {
+          "type": "para",
+          "text": "But come, let us finish what has yet to be done, while the stars are still shining; the Assembly, at which we mean to be present, will open at dawn.",
+          "lineStart": 124
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 127
+        },
+        {
+          "type": "para",
+          "text": "Good; you must take up your place at the foot of the platform and facing the Prytanes.",
+          "lineStart": 128
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 130
+        },
+        {
+          "type": "para",
+          "text": "I have brought this with me to card during the Assembly. She shows some wool.",
+          "lineStart": 131
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 133
+        },
+        {
+          "type": "para",
+          "text": "During the Assembly, wretched woman?",
+          "lineStart": 134
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 135
+        },
+        {
+          "type": "para",
+          "text": "Surely, by Artemis! shall I hear any less well if I am doing a bit of carding? My little ones are all but naked.",
+          "lineStart": 136
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 138
+        },
+        {
+          "type": "para",
+          "text": "Think of her wanting to card! whereas we must not let anyone see the smallest part of our bodies. 'Twould be a fine thing if one of us, in the midst of the discussion, rushed on to the speaker's platform and, flinging her cloak aside, showed her Phormisius. If, on the other hand, we are the first to take our seats closely muffled in our cloaks, none will know us. Let us fix these beards on our chins, so that they spread all over our bosoms. How can we fail then to be mistaken for men? Agyrrhius has deceived everyone, thanks to the beard of Pronomus; yet he was no better than a woman, and you see how he now holds the first position in the city. Thus, I adjure you by this day that is about to dawn, let us dare to copy him and let us be clever enough to possess ourselves of the management of affairs. Let us save the ship of state, which just at present none seems able either to sail or row.",
+          "lineStart": 139
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 152
+        },
+        {
+          "type": "para",
+          "text": "in a tragic style But where shall we find orators in an Assembly of women?",
+          "lineStart": 153
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 155
+        },
+        {
+          "type": "para",
+          "text": "Nothing simpler. Is it not said that the cleverest speakers are those who get made love to most often? Well, thanks to the gods, we are that by nature.",
+          "lineStart": 156
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 159
+        },
+        {
+          "type": "para",
+          "text": "There's no doubt of that; but the worst of it is our inexperience.",
+          "lineStart": 160
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 161
+        },
+        {
+          "type": "para",
+          "text": "That's the very reason we are gathered here, in order to prepare the speech we must make in the Assembly. Hasten, therefore, all you who know aught of speaking, to fix on your beards.",
+          "lineStart": 162
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 165
+        },
+        {
+          "type": "para",
+          "text": "Oh you stupid thing! is there ever a one among us cannot use her tongue?",
+          "lineStart": 166
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 168
+        },
+        {
+          "type": "para",
+          "text": "Come, look sharp, on with your beard and become a man. As for me, I will do the same in case I should have a fancy for getting on to the platform. Here are the chaplets. They all put on their beards.",
+          "lineStart": 169
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 173
+        },
+        {
+          "type": "para",
+          "text": "Oh! great gods! my dear Praxagora, do look here! Is it not laughable?",
+          "lineStart": 174
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 176
+        },
+        {
+          "type": "para",
+          "text": "How laughable?",
+          "lineStart": 177
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 178
+        },
+        {
+          "type": "para",
+          "text": "Our beards look like broiled cuttle-fishes.",
+          "lineStart": 179
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 180
+        },
+        {
+          "type": "para",
+          "text": "pretending to be the herald Priest, bring in the cat. Step forward, please Silence, Ariphrades! Come and take your seat. Now, who wishes to speak?",
+          "lineStart": 181
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 184
+        },
+        {
+          "type": "para",
+          "text": "I do.",
+          "lineStart": 185
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 186
+        },
+        {
+          "type": "para",
+          "text": "Then put on this chaplet and success be with you.",
+          "lineStart": 187
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 188
+        },
+        {
+          "type": "para",
+          "text": "There!",
+          "lineStart": 189
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 190
+        },
+        {
+          "type": "para",
+          "text": "Well then I begin.",
+          "lineStart": 191
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 192
+        },
+        {
+          "type": "para",
+          "text": "Before drinking?",
+          "lineStart": 193
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 194
+        },
+        {
+          "type": "para",
+          "text": "Hah! she wants to drink!",
+          "lineStart": 195
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 196
+        },
+        {
+          "type": "para",
+          "text": "Why, what else is the meaning of this chaplet?",
+          "lineStart": 197
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 198
+        },
+        {
+          "type": "para",
+          "text": "Get you hence! you would probably have played us this trick also before the people.",
+          "lineStart": 199
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 201
+        },
+        {
+          "type": "para",
+          "text": "Well! don't the men drink then in the Assembly?",
+          "lineStart": 202
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 203
+        },
+        {
+          "type": "para",
+          "text": "Now she's telling us the men drink!",
+          "lineStart": 204
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 205
+        },
+        {
+          "type": "para",
+          "text": "Yes, by Artemis, and neat wine too. That's why their decrees breathe of drunkenness and madness. And why libations, why so many ceremonies, if wine plays no part in them? Besides, they abuse each other like drunken men, and you can see the archers dragging more than one uproarious drunkard out of the market-place.",
+          "lineStart": 206
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 211
+        },
+        {
+          "type": "para",
+          "text": "Go back to your seat, you are wandering.",
+          "lineStart": 212
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 213
+        },
+        {
+          "type": "para",
+          "text": "returning to her seat Ah! I should have done better not to have muffled myself in this beard; my throat's afire and I feel I shall die of thirst.",
+          "lineStart": 214
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 217
+        },
+        {
+          "type": "para",
+          "text": "Who else wishes to speak?",
+          "lineStart": 218
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 219
+        },
+        {
+          "type": "para",
+          "text": "rising I do.",
+          "lineStart": 220
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 222
+        },
+        {
+          "type": "para",
+          "text": "Quick then, take the chaplet; the time's running short. Try to speak worthily, let your language be truly manly, and lean on your staff with dignity.",
+          "lineStart": 223
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 226
+        },
+        {
+          "type": "para",
+          "text": "I had rather have seen one of your regular orators giving you wise advice; but, as that is not to be, it behoves me to break silence; I cannot, for my part indeed, allow the tavern-keepers to fill up their wine-pits with water. No, by the two goddesses...",
+          "lineStart": 227
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 231
+        },
+        {
+          "type": "para",
+          "text": "What? by the two goddesses! Wretched woman, where are your senses?",
+          "lineStart": 232
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 234
+        },
+        {
+          "type": "para",
+          "text": "Eh! what?... I have not asked you for a drink.",
+          "lineStart": 235
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 236
+        },
+        {
+          "type": "para",
+          "text": "No, but you want to pass for a man, and you swear by the two goddesses. Otherwise you did very well.",
+          "lineStart": 237
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 239
+        },
+        {
+          "type": "para",
+          "text": "Well then. By Apollo...",
+          "lineStart": 240
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 241
+        },
+        {
+          "type": "para",
+          "text": "Stop! All these details of language must be adjusted; else it is quite useless to go to the Assembly.",
+          "lineStart": 242
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 244
+        },
+        {
+          "type": "para",
+          "text": "Give me back the chaplet; I wish to speak again, for I think I have got hold of something good. You women who are listening to me...",
+          "lineStart": 245
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 247
+        },
+        {
+          "type": "para",
+          "text": "Women again; why, you wretched creature, it's men that you are addressing.",
+          "lineStart": 248
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 250
+        },
+        {
+          "type": "para",
+          "text": "That's the fault of Epigonus; I caught sight of him way over there, and I thought I was speaking to women.",
+          "lineStart": 251
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 253
+        },
+        {
+          "type": "para",
+          "text": "Come, withdraw and remain seated in the future. I am going to take this chaplet myself and speak in your name. May the gods grant success to my plans! My country is as dear to me as it is to you, and I groan, I am grieved at all that is happening in it. Scarcely one in ten of those who rule it is honest, and all the others are bad. If you appoint fresh chiefs, they will do still worse. It is hard to correct your peevish humour; you fear those who love you and throw yourselves at the feet of those who betray you. There was a time when we had no assemblies, and then we all thought Agyrrhius a dishonest man; now they are established, he who gets money thinks everything is as it should be, and he who does not, declares all who sell their votes to be worthy of death.",
+          "lineStart": 254
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 265
+        },
+        {
+          "type": "para",
+          "text": "By Aphrodite, that is well spoken.",
+          "lineStart": 266
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 267
+        },
+        {
+          "type": "para",
+          "text": "Why, wretched woman, you have actually called upon Aphrodite. Oh! what a fine thing it would have been if you had said that in the Assembly!",
+          "lineStart": 268
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 270
+        },
+        {
+          "type": "para",
+          "text": "But I would not have done it then.",
+          "lineStart": 271
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 272
+        },
+        {
+          "type": "para",
+          "text": "Well, mind you don't fall into the habit. Resuming the oratorical manner When we were discussing the alliance, it seemed as though it were all over with Athens if it fell through. No sooner was it made than we were vexed and angry, and the orator who had caused its adoption was compelled to seek safety in flight. Is there talk of equipping a fleet? The poor man says, yes, but the rich citizen and the countryman say, no. You were angered against the Corinthians and they with you; now they are well disposed towards you, be so towards them. As a rule the Argives are dull, but the Argive Hieronymus is a distinguished chief. Herein lies a spark of hope; but Thrasybulus is far from Athens and you do not recall him.",
+          "lineStart": 273
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 285
+        },
+        {
+          "type": "para",
+          "text": "Oh! what a brilliant man!",
+          "lineStart": 286
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 287
+        },
+        {
+          "type": "para",
+          "text": "to her That's better! that's fitting applause. Continuing her speech Citizens, you are the ones who are the cause of all this trouble. You vote yourselves salaries out of the public funds and care only for your own personal interests; hence the state limps along like Aesimus. But if you hearken to me, you will be saved. I assert that the direction of affairs must be handed over to the women, for they are the ones who have charge and look after our households.",
+          "lineStart": 288
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ALL THE WOMEN",
+          "lineStart": 297
+        },
+        {
+          "type": "para",
+          "text": "Very good, very good, that's perfect! Go on, go on.",
+          "lineStart": 298
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 299
+        },
+        {
+          "type": "para",
+          "text": "ignoring this interruption They are worth more than you are, as I shall prove. First of all they wash all their wool in warm water, according to the ancient practice; you will never see them changing their method. Ah! if Athens only acted thus, if it did not take delight in ceaseless innovations, would not its happiness be assured? Then the women sit down to cook, just as they always did; they carry things on their head just as they always did; they keep the Thesmophoria, just as they always did; they knead their cakes just as they always did; they make their husbands angry just as they always did; they receive their lovers in their houses just as they always did; they buy dainties just as they always did; they love unmixed wine just as they always did; they delight in being loved just as they always did. Let us therefore hand Athens over to them without endless discussions, without bothering ourselves about what they will do; let us simply hand them over the power, remembering that they are mothers and will therefore spare the blood of our soldiers; besides, who will know better than a mother how to forward provisions to the front? Woman is adept at getting money for herself and will not easily let herself be deceived; she understands deceit too well herself. I omit a thousand other advantages. Take my advice and you will live in perfect happiness.",
+          "lineStart": 300
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 320
+        },
+        {
+          "type": "para",
+          "text": "How beautiful this is, my dearest Praxagora, how clever! But where, pray, did you learn all these pretty things?",
+          "lineStart": 321
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 323
+        },
+        {
+          "type": "para",
+          "text": "When the countryfolk were seeking refuge in the city, I lived on the Pnyx with my husband, and there I learnt to speak through listening to the orators.",
+          "lineStart": 324
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 327
+        },
+        {
+          "type": "para",
+          "text": "Then, dear, it's not astonishing that you are so eloquent and clever, henceforward you shall be our leader, so put your great ideas into execution. But if Cephalus belches forth insults against you, what answer will you give him in the Assembly?",
+          "lineStart": 328
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 332
+        },
+        {
+          "type": "para",
+          "text": "I shall say that he is drivelling.",
+          "lineStart": 333
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 334
+        },
+        {
+          "type": "para",
+          "text": "But all the world knows that.",
+          "lineStart": 335
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 336
+        },
+        {
+          "type": "para",
+          "text": "I shall furthermore say that he is a raving madman.",
+          "lineStart": 337
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 338
+        },
+        {
+          "type": "para",
+          "text": "There's nobody who does not know that.",
+          "lineStart": 339
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 340
+        },
+        {
+          "type": "para",
+          "text": "That he, as excellent a statesman as he is, is a clumsy potter.",
+          "lineStart": 341
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 342
+        },
+        {
+          "type": "para",
+          "text": "And if the blear-eyed Neoclides comes to insult you?",
+          "lineStart": 343
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 344
+        },
+        {
+          "type": "para",
+          "text": "To him I shall say, \"Go and look at a dog's arse.\"",
+          "lineStart": 345
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 346
+        },
+        {
+          "type": "para",
+          "text": "And if they fly at you?",
+          "lineStart": 347
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 348
+        },
+        {
+          "type": "para",
+          "text": "Oh! I shall shake them off as best I can; never fear, I know how to use this too!",
+          "lineStart": 349
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 351
+        },
+        {
+          "type": "para",
+          "text": "But there is one thing we don't think of. If the Scythians drag you away, what will you do?",
+          "lineStart": 352
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 354
+        },
+        {
+          "type": "para",
+          "text": "With my arms akimbo like this, I will never, never let myself be taken round the middle.",
+          "lineStart": 355
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 357
+        },
+        {
+          "type": "para",
+          "text": "If they seize you, we will bid them let you go.",
+          "lineStart": 358
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND WOMAN",
+          "lineStart": 359
+        },
+        {
+          "type": "para",
+          "text": "That's the best way. But how are we going to remember to lift our arms in the Assembly when it's our legs we are used to lifting?",
+          "lineStart": 360
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 362
+        },
+        {
+          "type": "para",
+          "text": "It's difficult; yet it must be done, and the arm shown naked to the shoulder in order to vote. Quick now, put on these tunics and these Laconian shoes, as you see the men do each time they go to the Assembly or for a walk. When this is done, fix on your beards, and when they are arranged in the best way possible, dress yourselves in the cloaks you have stolen from your husbands; finally start off, leaning on your staffs and singing some old man's song as the villagers do.",
+          "lineStart": 363
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST WOMAN",
+          "lineStart": 370
+        },
+        {
+          "type": "para",
+          "text": "Well spoken; and let us hurry to get to the Pnyx before the women from the country, for they will no doubt not fail to come there.",
+          "lineStart": 371
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 373
+        },
+        {
+          "type": "para",
+          "text": "Quick, quick, for it's the custom that those who are not at the Pnyx early in the morning return home empty-handed. PRAXAGORA and the FIRST and SECOND WOMEN depart; those who are left behind form the CHORUS.",
+          "lineStart": 374
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 378
+        },
+        {
+          "type": "para",
+          "text": "Move forward, citizens, move forward; let us not forget to give ourselves this name and may that of woman never slip out of our mouths; woe to us, if it were discovered that we had laid such a plot in the darkness of night.",
+          "lineStart": 379
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 383
+        },
+        {
+          "type": "para",
+          "text": "singing Let us go to the Assembly then, fellow-citizens; for the Thesmothetes have declared that only those who arrive at daybreak with haggard eye and covered with dust, without having snatched time to eat anything but a snack of garlic-pickle, shall alone receive the triobolus. Walk up smartly, Charitimides, Smicythus and Draces, and do not fail in any point of your part; let us first demand our fee and then vote for all that may perchance be useful for our partisans.... Ah! what am I saying? I meant to say, for our fellow-citizens. Let us drive away these men of the city who used to stay at home and chatter round the table in the days when only an obolus was paid, whereas now one is stifled by the crowds at the Pnyx. No! during the archonship of generous Myronides, none would have dared to let himself be paid for the trouble he spent over public business; each one brought his own meal of bread, a couple of onions, three olives and some wine in a little wine-skin. But nowadays we run here to earn the three obols, for the citizen has become as mercenary as the stonemason. The CHORUS marches away. BLEPYRUS appears in the doorway of his house, wearing PRAXAGORA's Persian sandals and saffron robe.",
+          "lineStart": 384
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 402
+        },
+        {
+          "type": "para",
+          "text": "What does this mean? My wife has vanished! it is nearly daybreak and she does not return! I had to take a crap! I woke up and hunted in the darkness for my shoes and my cloak; but grope where I would, I couldn't find them. Meanwhile Mr. O'Shit was already knocking on the door and I had only just time to seize my wife's little mantle and her Persian slippers. But where shall I find a place where I can take a crap? Bah! One place is as good as another at night-time; no one will see me. Ah! what a damned fool I was to take a wife at my age, and how I could thrash myself for having acted so stupidly! It's certainty she's not gone out for any honest purpose. But the thing to do now is to take a crap. He squats.",
+          "lineStart": 403
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "A MAN",
+          "lineStart": 414
+        },
+        {
+          "type": "para",
+          "text": "looking out of the window of the house next door Who's that? Is that not my neighbour Blepyrus? Why, yes, it's no other. Tell me, what's all that yellow about you? Can it be Cinesias who has befouled you so?",
+          "lineStart": 415
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 419
+        },
+        {
+          "type": "para",
+          "text": "No, no, I only slipped on my wife's tunic to come out in.",
+          "lineStart": 420
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MAN",
+          "lineStart": 421
+        },
+        {
+          "type": "para",
+          "text": "And where is your cloak?",
+          "lineStart": 422
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 423
+        },
+        {
+          "type": "para",
+          "text": "I cannot tell you; I hunted for it vainly on the bed.",
+          "lineStart": 424
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MAN",
+          "lineStart": 425
+        },
+        {
+          "type": "para",
+          "text": "And why did you not ask your wife for it?",
+          "lineStart": 426
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 427
+        },
+        {
+          "type": "para",
+          "text": "Ah! why indeed! because she is not in the house; she has run away, and I greatly fear that she may be doing me an ill turn.",
+          "lineStart": 428
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MAN",
+          "lineStart": 430
+        },
+        {
+          "type": "para",
+          "text": "But, by Posidon, it's the same with myself. My wife has disappeared with my cloak, and what is still worse, with my shoes as well; I cannot find them anywhere.",
+          "lineStart": 431
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 434
+        },
+        {
+          "type": "para",
+          "text": "Nor can I my Laconian ones; but as I urgently needed to crap, I popped my feet into these slippers, so as not to soil my blanket, which is brand new.",
+          "lineStart": 435
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MAN",
+          "lineStart": 438
+        },
+        {
+          "type": "para",
+          "text": "What does it mean? Can some friend have invited her to a feast?",
+          "lineStart": 439
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 440
+        },
+        {
+          "type": "para",
+          "text": "I expect so, for she does not generally misconduct herself, as far as I know.",
+          "lineStart": 441
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MAN",
+          "lineStart": 443
+        },
+        {
+          "type": "para",
+          "text": "What are you doing, making well-ropes? Are you never going to be done? As for myself, I would like to go to the Assembly, and it is time to start, but I've got to find my cloak; I have only one.",
+          "lineStart": 444
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 447
+        },
+        {
+          "type": "para",
+          "text": "I am going to have a look too, when I have finished crapping; but I really think there must be a wild pear obstructing my rectum.",
+          "lineStart": 448
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MAN",
+          "lineStart": 450
+        },
+        {
+          "type": "para",
+          "text": "Is it the one which Thrasybulus spoke about to the Lacedaemonians?",
+          "lineStart": 451
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 452
+        },
+        {
+          "type": "para",
+          "text": "Oh! oh! oh! stopped up I am! Whatever am I to do? It's not merely for the present that I am frightened; but when I have eaten, where is my crap to find an outlet now? This damned McPear fellow has bolted the door. Call a doctor; but who is the cleverest in this branch of the science? Amynon? Perhaps he would not come. Ah! Antisthenes! Let him be brought to me, cost what it will. To judge by his noisy sighs, that man knows what an arse wants, when it needs to crap. Oh! venerated Ilithyia! I shall burst unless the door gives way. Have pity! pity! Let me not become a thunder-mug for the comic poets. Enter CHREMES, returning from the Assembly.",
+          "lineStart": 453
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 463
+        },
+        {
+          "type": "para",
+          "text": "Hi! friend, what are you doing there? You're not crapping, are you?",
+          "lineStart": 464
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 466
+        },
+        {
+          "type": "para",
+          "text": "finding relief at last Oh! there! it is over and I can get up again.",
+          "lineStart": 467
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 469
+        },
+        {
+          "type": "para",
+          "text": "What's this? You have your wife's tunic on.",
+          "lineStart": 470
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 471
+        },
+        {
+          "type": "para",
+          "text": "It was the first thing that came to my hand in the darkness. But where are you coming from?",
+          "lineStart": 472
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 474
+        },
+        {
+          "type": "para",
+          "text": "From the Assembly.",
+          "lineStart": 475
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 476
+        },
+        {
+          "type": "para",
+          "text": "Is it already over then?",
+          "lineStart": 477
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 478
+        },
+        {
+          "type": "para",
+          "text": "Certainly.",
+          "lineStart": 479
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 480
+        },
+        {
+          "type": "para",
+          "text": "Why, it is scarcely daylight.",
+          "lineStart": 481
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 482
+        },
+        {
+          "type": "para",
+          "text": "I did laugh, ye gods, at the vermilion rope-marks that were to be seen all about the Assembly.",
+          "lineStart": 483
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 485
+        },
+        {
+          "type": "para",
+          "text": "Did you get the triobolus?",
+          "lineStart": 486
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 487
+        },
+        {
+          "type": "para",
+          "text": "Would it had so pleased the gods! but I arrived just too late, and am quite ashamed of it; I bring back nothing but this empty wallet.",
+          "lineStart": 488
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 490
+        },
+        {
+          "type": "para",
+          "text": "But why is that?",
+          "lineStart": 491
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 492
+        },
+        {
+          "type": "para",
+          "text": "There was a crowd, such as has never been seen at the Pnyx, and the folk looked pale and wan, like so many shoemakers, so white were they in hue; both I and many another had to go without the triobolus.",
+          "lineStart": 493
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 496
+        },
+        {
+          "type": "para",
+          "text": "Then if I went now, I should get nothing.",
+          "lineStart": 497
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 498
+        },
+        {
+          "type": "para",
+          "text": "No, certainly not, nor even had you gone at the second cock-crow.",
+          "lineStart": 499
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 500
+        },
+        {
+          "type": "para",
+          "text": "Oh! what a misfortune! \"Oh, Antilochus! no triobolus! Even death would be better! I am undone!\" But what can have attracted such a crowd at that early hour?",
+          "lineStart": 501
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 504
+        },
+        {
+          "type": "para",
+          "text": "The Prytanes started the discussion of measures closely concerning the safety of the state; immediately, that blear-eyed fellow, the son of Neoclides, was the first to mount the platform. Then the folk shouted with their loudest voice, \"What! he dares to speak, and that, too, when the safety of the state is concerned, and he a man who has not known how to save even his own eyebrows!\" He, however, shouted louder than all of them, and looking at them asked, \"Why, what ought I to have done?\"",
+          "lineStart": 505
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 512
+        },
+        {
+          "type": "para",
+          "text": "Pound together garlic and laserpitium juice, add to this mixture some Laconian spurge, and rub it well into the eyelids at night. That's what I should have answered, had I been there.",
+          "lineStart": 513
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 516
+        },
+        {
+          "type": "para",
+          "text": "After him that clever rascal Evaeon began to speak; he was naked, so far as we all could see, but he declared he had a cloak; he propounded the most popular, the most democratic, doctrines. \"You see,\" he said, \"I have the greatest need of sixteen drachmae, the cost of a new cloak, my health demands it; nevertheless I wish first to care for that of my fellow-citizens and of my country. If the fullers were to supply tunics to the indigent at the approach of winter, none would be exposed to pleurisy. Let him who has neither beds nor coverlets go to sleep at the tanners' after taking a bath; and if they shut the door in winter, let them be condemned to give him three goat-skins.\"",
+          "lineStart": 517
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 527
+        },
+        {
+          "type": "para",
+          "text": "By Dionysus, a fine, a very fine notion! Not a soul will vote against his proposal, especially if he adds that the flour-sellers must supply the poor with three measures of corn, or else suffer the severest penalties of the law; this is the only way Nausicydes can be of any use to us.",
+          "lineStart": 528
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 533
+        },
+        {
+          "type": "para",
+          "text": "Then we saw a handsome young man rush into the tribune, be was all pink and white like young Nicias, and he began to say that the direction of matters should be entrusted to the women; this the crowd of shoemakers began applauding with all their might, while the country-folk assailed him with groans.",
+          "lineStart": 534
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 539
+        },
+        {
+          "type": "para",
+          "text": "And, indeed, they did well.",
+          "lineStart": 540
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 541
+        },
+        {
+          "type": "para",
+          "text": "But they were outnumbered, and the orator shouted louder than they, saying much good of the women and much ill of you.",
+          "lineStart": 542
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 544
+        },
+        {
+          "type": "para",
+          "text": "eagerly And what did he say?",
+          "lineStart": 545
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 547
+        },
+        {
+          "type": "para",
+          "text": "First he said you were a rogue...",
+          "lineStart": 548
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 549
+        },
+        {
+          "type": "para",
+          "text": "And you?",
+          "lineStart": 550
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 551
+        },
+        {
+          "type": "para",
+          "text": "Wait a minute!...and a thief...",
+          "lineStart": 552
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 553
+        },
+        {
+          "type": "para",
+          "text": "I alone?",
+          "lineStart": 554
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 555
+        },
+        {
+          "type": "para",
+          "text": "And an informer.",
+          "lineStart": 556
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 557
+        },
+        {
+          "type": "para",
+          "text": "I alone?",
+          "lineStart": 558
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 559
+        },
+        {
+          "type": "para",
+          "text": "Why, no, by the gods! this whole crowd here. He points to the audience.",
+          "lineStart": 560
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 562
+        },
+        {
+          "type": "para",
+          "text": "And who avers the contrary?",
+          "lineStart": 563
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 564
+        },
+        {
+          "type": "para",
+          "text": "He maintained that women were both clever and thrifty, that they never divulged the Mysteries of Demeter, while you and I go about babbling incessantly about whatever happens at the Senate.",
+          "lineStart": 565
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 568
+        },
+        {
+          "type": "para",
+          "text": "By Hermes, he was not lying!",
+          "lineStart": 569
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 570
+        },
+        {
+          "type": "para",
+          "text": "Then he added that the women lend each other clothes, trinkets of gold and silver, drinking-cups, and not before witnesses too, but all by themselves, and that they return everything with exactitude without ever cheating each other; whereas, according to him, we are ever ready to deny the loans we have effected.",
+          "lineStart": 571
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 576
+        },
+        {
+          "type": "para",
+          "text": "Yes, by Posidon, and in spite of witnesses.",
+          "lineStart": 577
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 578
+        },
+        {
+          "type": "para",
+          "text": "Again, he said that women were not informers, nor did they bring lawsuits, nor hatch conspiracies; in short, he praised the women in every possible manner.",
+          "lineStart": 579
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 582
+        },
+        {
+          "type": "para",
+          "text": "And what was decided?",
+          "lineStart": 583
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 584
+        },
+        {
+          "type": "para",
+          "text": "To confide the direction of affairs to them; it's the one and only innovation that has not yet been tried at Athens.",
+          "lineStart": 585
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 587
+        },
+        {
+          "type": "para",
+          "text": "And it was voted?",
+          "lineStart": 588
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 589
+        },
+        {
+          "type": "para",
+          "text": "Yes.",
+          "lineStart": 590
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 591
+        },
+        {
+          "type": "para",
+          "text": "And everything that used to be the men's concern has been given over to the women?",
+          "lineStart": 592
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 594
+        },
+        {
+          "type": "para",
+          "text": "You express it exactly.",
+          "lineStart": 595
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 596
+        },
+        {
+          "type": "para",
+          "text": "Thus it will be my wife who will go to the courts now in my stead?",
+          "lineStart": 597
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 599
+        },
+        {
+          "type": "para",
+          "text": "And it will be she who will keep your children in your place.",
+          "lineStart": 600
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 601
+        },
+        {
+          "type": "para",
+          "text": "I shall no longer have to tire myself out with work from daybreak onwards?",
+          "lineStart": 602
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 604
+        },
+        {
+          "type": "para",
+          "text": "No, 'twill be the women's business, and you can stay at home and amuse yourself with farting the whole day through.",
+          "lineStart": 605
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 607
+        },
+        {
+          "type": "para",
+          "text": "Well, what I fear for us fellows now is, that, holding the reins of government, they will forcibly compel us...",
+          "lineStart": 608
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 610
+        },
+        {
+          "type": "para",
+          "text": "To do what?",
+          "lineStart": 611
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 612
+        },
+        {
+          "type": "para",
+          "text": "...to lay them.",
+          "lineStart": 613
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 614
+        },
+        {
+          "type": "para",
+          "text": "And if we are not able?",
+          "lineStart": 615
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 616
+        },
+        {
+          "type": "para",
+          "text": "They will give us no dinner.",
+          "lineStart": 617
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 618
+        },
+        {
+          "type": "para",
+          "text": "Well then, do your duty; dinner and love-making form a double enjoyment.",
+          "lineStart": 619
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 621
+        },
+        {
+          "type": "para",
+          "text": "Ah! but I hate compulsion.",
+          "lineStart": 622
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 623
+        },
+        {
+          "type": "para",
+          "text": "But if it is for the public good, let us resign ourselves. It's an old saying that our absurdest and maddest decrees always somehow turn out for our good. May it be so in this case, oh gods, oh venerable Pallas! But I must be off; so, good-bye to you! Exit.",
+          "lineStart": 624
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 629
+        },
+        {
+          "type": "para",
+          "text": "Good-bye, Chremes. He goes back into his house.",
+          "lineStart": 630
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 632
+        },
+        {
+          "type": "para",
+          "text": "returning from the Assembly, still dressed like men; singing March along, go forward. Is there some man following us? Turn round, examine everywhere and keep a good look-out; be on your guard against every trick, for they might spy on us from behind. Let us make as much noise as possible as we tramp. It would be a disgrace for all of us if we allowed ourselves to be caught in this deed by the men. Come, wrap yourselves up well, and search both right and left, so that no mischance may happen to us. Let us hasten our steps; here we are close to the meeting-place whence we started for the Assembly, and here is the house of our leader, the author of this bold scheme, which is now decreed by all the citizens. Let us not lose a moment in taking off our false beards, for we might be recognized and denounced. Let us stand under the shadow of this wall; let us glance round sharply with our eye to beware of surprises, while we quickly resume our ordinary dress. Ah! here is our leader, returning from the Assembly. Hasten to relieve your chins of these flowing manes. Look at your comrades yonder; they have already made themselves women again some while ago. They remove the beards as PRAXAGORA and the other women enter from the right through the Orchestra.",
+          "lineStart": 633
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 652
+        },
+        {
+          "type": "para",
+          "text": "Friends, success has crowned our plans. But off with these cloaks and these boots quick, before any man sees you; unbuckle the Laconian straps and get rid of your staffs; to the LEADER and you help them with their toilet. As for myself, I am going to slip quietly into the house and replace my husband's cloak and other gear where I took them from, before he can suspect anything.",
+          "lineStart": 653
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 660
+        },
+        {
+          "type": "para",
+          "text": "There! it's done according to your bidding. Now tell us how we can be of service to you, so that we may show you our obedience, for we have never seen a cleverer woman than you.",
+          "lineStart": 661
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 664
+        },
+        {
+          "type": "para",
+          "text": "Wait! I only wish to use the power given me in accordance with your wishes; for, in the market-place, in the midst of the shouts and danger, I appreciated your indomitable courage. Just as she is about to enter the house BLEPYRUS appears in the doorway.",
+          "lineStart": 665
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 670
+        },
+        {
+          "type": "para",
+          "text": "Eh, Praxagora! where are you coming from?",
+          "lineStart": 671
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 672
+        },
+        {
+          "type": "para",
+          "text": "How does that concern you, dear?",
+          "lineStart": 673
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 674
+        },
+        {
+          "type": "para",
+          "text": "Why, greatly! what a silly question!",
+          "lineStart": 675
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 676
+        },
+        {
+          "type": "para",
+          "text": "You don't think I have come from a lover's?",
+          "lineStart": 677
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 678
+        },
+        {
+          "type": "para",
+          "text": "No, perhaps not from only one.",
+          "lineStart": 679
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 680
+        },
+        {
+          "type": "para",
+          "text": "You can make yourself sure of that.",
+          "lineStart": 681
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 682
+        },
+        {
+          "type": "para",
+          "text": "And how?",
+          "lineStart": 683
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 684
+        },
+        {
+          "type": "para",
+          "text": "You can see whether my hair smells of perfume.",
+          "lineStart": 685
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 686
+        },
+        {
+          "type": "para",
+          "text": "What? cannot a woman possibly be laid without perfume, eh!",
+          "lineStart": 687
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 688
+        },
+        {
+          "type": "para",
+          "text": "The gods forfend, as far as I am concerned.",
+          "lineStart": 689
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 690
+        },
+        {
+          "type": "para",
+          "text": "Why did you go off at early dawn with my cloak?",
+          "lineStart": 691
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 692
+        },
+        {
+          "type": "para",
+          "text": "Acompanion, a friend who was in labour, had sent to fetch me.",
+          "lineStart": 693
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 694
+        },
+        {
+          "type": "para",
+          "text": "Could you not have told me?",
+          "lineStart": 695
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 696
+        },
+        {
+          "type": "para",
+          "text": "Oh, my dear, would you have me caring nothing for a poor woman in that plight?",
+          "lineStart": 697
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 699
+        },
+        {
+          "type": "para",
+          "text": "A word would have been enough. There's something behind all this.",
+          "lineStart": 700
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 702
+        },
+        {
+          "type": "para",
+          "text": "No, I call the goddesses to witness! I went running off; the poor woman who summoned me begged me to come, whatever might betide.",
+          "lineStart": 703
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 705
+        },
+        {
+          "type": "para",
+          "text": "And why did you not take your mantle? Instead of that, you carry of mine, you throw your dress upon the bed and you leave me as the dead are left, bar the chaplets and perfumes.",
+          "lineStart": 706
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 709
+        },
+        {
+          "type": "para",
+          "text": "It was cold, and I am frail and delicate; I took your cloak for greater warmth, leaving you thoroughly warm yourself beneath your coverlets.",
+          "lineStart": 710
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 712
+        },
+        {
+          "type": "para",
+          "text": "And my shoes and staff, those too went off with you?",
+          "lineStart": 713
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 714
+        },
+        {
+          "type": "para",
+          "text": "I was afraid they might rob me of the cloak, and so, to look like a man, I put on your shoes and walked with a heavy tread and struck the stones with your staff.",
+          "lineStart": 715
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 718
+        },
+        {
+          "type": "para",
+          "text": "D'you know you have made us lose a sextary of wheat, which I should have bought with the triobolus of the Assembly?",
+          "lineStart": 719
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 721
+        },
+        {
+          "type": "para",
+          "text": "Be comforted, for she had a boy.",
+          "lineStart": 722
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 723
+        },
+        {
+          "type": "para",
+          "text": "Who? the Assembly?",
+          "lineStart": 724
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 725
+        },
+        {
+          "type": "para",
+          "text": "No, no, the woman I helped. But has the Assembly taken place then?",
+          "lineStart": 726
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 728
+        },
+        {
+          "type": "para",
+          "text": "Did I not tell you of it yesterday?",
+          "lineStart": 729
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 730
+        },
+        {
+          "type": "para",
+          "text": "True; I remember now.",
+          "lineStart": 731
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 732
+        },
+        {
+          "type": "para",
+          "text": "And don't you know the decrees that have been voted?",
+          "lineStart": 733
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 734
+        },
+        {
+          "type": "para",
+          "text": "No indeed.",
+          "lineStart": 735
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 736
+        },
+        {
+          "type": "para",
+          "text": "Go to! you can live on lobster from now on, for they say the government is handed over to you.",
+          "lineStart": 737
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 739
+        },
+        {
+          "type": "para",
+          "text": "To do what-to spin?",
+          "lineStart": 740
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 741
+        },
+        {
+          "type": "para",
+          "text": "No, that you may rule...",
+          "lineStart": 742
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 743
+        },
+        {
+          "type": "para",
+          "text": "What?",
+          "lineStart": 744
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 745
+        },
+        {
+          "type": "para",
+          "text": "...over all public business.",
+          "lineStart": 746
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 747
+        },
+        {
+          "type": "para",
+          "text": "as she exclaims this CHREMES reappears Oh! by Aphrodite how happy Athens will be!",
+          "lineStart": 748
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 750
+        },
+        {
+          "type": "para",
+          "text": "Why so?",
+          "lineStart": 751
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 752
+        },
+        {
+          "type": "para",
+          "text": "For a thousand reasons. None will dare now to do shameless deeds, give false testimony or lay informations.",
+          "lineStart": 753
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 755
+        },
+        {
+          "type": "para",
+          "text": "Stop! in the name of the gods! Do you want me to die of hunger?",
+          "lineStart": 756
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 757
+        },
+        {
+          "type": "para",
+          "text": "Good sir, let your wife speak.",
+          "lineStart": 758
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 759
+        },
+        {
+          "type": "para",
+          "text": "There will be no more thieves, nor envious people, no more rags nor misery, no more abuse and no more prosecutions and law-suits.",
+          "lineStart": 760
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 762
+        },
+        {
+          "type": "para",
+          "text": "By Posidon! that's grand, if it's true!",
+          "lineStart": 763
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 764
+        },
+        {
+          "type": "para",
+          "text": "I shall prove it and you shall be my witness and even he pointing to Blepyrus will have no objections to raise.",
+          "lineStart": 765
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 769
+        },
+        {
+          "type": "para",
+          "text": "singing You have served your friends, but now it behoves you to apply your ability and your care to the welfare of the people. Devote the fecundity of your mind to the public weal; adorn the citizens' lives with a thousand enjoyments and teach them to seize every favourable opportunity. Devise some ingenious method to secure the much-needed salvation of Athens; but let neither your acts nor your words recall anything of the past, for 'tis only innovations that please.",
+          "lineStart": 770
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 778
+        },
+        {
+          "type": "para",
+          "text": "But do not fail to put your plans into execution immediately; it's quick action that pleases the audience.",
+          "lineStart": 779
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 781
+        },
+        {
+          "type": "para",
+          "text": "I believe my ideas are good, but what I fear is that the public will cling to the old customs and refuse to accept my reforms.",
+          "lineStart": 782
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 784
+        },
+        {
+          "type": "para",
+          "text": "Have no fear about that. Love of novelty and disdain for traditions, these are the dominating principles among us.",
+          "lineStart": 785
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 787
+        },
+        {
+          "type": "para",
+          "text": "to the audience Let none contradict nor interrupt me until I have explained my plan. I want all to have a share of everything and all property to be in common; there will no longer be either rich or poor; no longer shall we see one man harvesting vast tracts of land, while another has not ground enough to be buried in, nor one man surround himself with a whole army of slaves, while another has not a single attendant; I intend that there shan only be one and the same condition of life for all.",
+          "lineStart": 788
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 796
+        },
+        {
+          "type": "para",
+          "text": "But how do you mean for all?",
+          "lineStart": 797
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 798
+        },
+        {
+          "type": "para",
+          "text": "impatiently You'll eat dung before I do!",
+          "lineStart": 799
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 801
+        },
+        {
+          "type": "para",
+          "text": "Won't the dung be common too?",
+          "lineStart": 802
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 803
+        },
+        {
+          "type": "para",
+          "text": "No, no, but you interrupted me too soon. This is what I was going to say; I shall begin by making land, money, everything that is private property, common to all. Then we shall live on this common wealth, which we shall take care to administer with wise thrift.",
+          "lineStart": 804
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 808
+        },
+        {
+          "type": "para",
+          "text": "And how about the man who has no land, but only gold and silver coins, that cannot be seen?",
+          "lineStart": 809
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 811
+        },
+        {
+          "type": "para",
+          "text": "He must bring them to the common stock, and if he fails he will be a perjured man.",
+          "lineStart": 812
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 814
+        },
+        {
+          "type": "para",
+          "text": "That won't worry him much, for has he not gained them by perjury?",
+          "lineStart": 815
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 816
+        },
+        {
+          "type": "para",
+          "text": "But his riches will no longer be of any use to him.",
+          "lineStart": 817
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 818
+        },
+        {
+          "type": "para",
+          "text": "Why?",
+          "lineStart": 819
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 820
+        },
+        {
+          "type": "para",
+          "text": "The poor will no longer be obliged to work; each will have all that he needs, bread, salt fish, cakes, tunics, wine, chaplets and chick-pease; of what advantage will it be to him not to contribute his share to the common wealth? What do you think of it?",
+          "lineStart": 821
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 825
+        },
+        {
+          "type": "para",
+          "text": "But is it not the biggest robbers that have all these things?",
+          "lineStart": 826
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 827
+        },
+        {
+          "type": "para",
+          "text": "Yes, formerly, under the old order of things; but now that all goods are in common, what will he gain by not bringing his wealth into the general stock?",
+          "lineStart": 828
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 831
+        },
+        {
+          "type": "para",
+          "text": "If someone saw a pretty wench and wished to lay her, he would take some of his reserve store to make her a present and stay the night with her; this would not prevent him claiming his share of the common property.",
+          "lineStart": 832
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 835
+        },
+        {
+          "type": "para",
+          "text": "But he can sleep with her for nothing; I intend that women shall belong to all men in common, and each shall beget children by any man that wishes to have her.",
+          "lineStart": 836
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 839
+        },
+        {
+          "type": "para",
+          "text": "But all will go to the prettiest woman and try to lay her.",
+          "lineStart": 840
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 841
+        },
+        {
+          "type": "para",
+          "text": "The ugliest and the most flat-nosed will be side by side with the most charming, and to win the latter's favours, a man will first have to get into the former.",
+          "lineStart": 842
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 845
+        },
+        {
+          "type": "para",
+          "text": "But what about us oldsters? If we have to lay the old women first, how can we keep our tools from failing before we get into the Promised Land?",
+          "lineStart": 846
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 849
+        },
+        {
+          "type": "para",
+          "text": "They will make no resistance. Never fear; they will make no resistance.",
+          "lineStart": 850
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 852
+        },
+        {
+          "type": "para",
+          "text": "Resistance to what?",
+          "lineStart": 853
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 854
+        },
+        {
+          "type": "para",
+          "text": "To the pleasure of the thing. This is the way that matters will be ordered for you.",
+          "lineStart": 855
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 857
+        },
+        {
+          "type": "para",
+          "text": "It's very well conceived for you women, for every wench's hole will be filled; but what about the men? The women will run away from the ugly ones and chase the good-looking.",
+          "lineStart": 858
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 861
+        },
+        {
+          "type": "para",
+          "text": "The ugly will follow the handsomest into the public places after supper and see to it that the law, which forbids the women to sleep with the big, handsome men before having satisfied the ugly shrimps, is complied with.",
+          "lineStart": 862
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 866
+        },
+        {
+          "type": "para",
+          "text": "Thus ugly Lysicrates' nose will be as proud as the handsomest face?",
+          "lineStart": 867
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 869
+        },
+        {
+          "type": "para",
+          "text": "Yes, by Apollo! this is a truly popular decree, and what a set-back it will be for one of those elegants with their fingers loaded with rings, when a man with heavy shoes says to him, \"Give way to me and wait till I have done; you will pass in after me.\"",
+          "lineStart": 870
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 874
+        },
+        {
+          "type": "para",
+          "text": "But if we live in this fashion, how will each one know his children?",
+          "lineStart": 875
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 877
+        },
+        {
+          "type": "para",
+          "text": "The youngest will look upon the oldest as their fathers.",
+          "lineStart": 878
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 879
+        },
+        {
+          "type": "para",
+          "text": "Ah! how heartily they will strangle all the old men, since even now, when each one knows his father, they make no bones about strangling him! then, my word! won't they just scorn and crap upon the old folks!",
+          "lineStart": 880
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 883
+        },
+        {
+          "type": "para",
+          "text": "But those around will prevent it. Hitherto, when anyone saw an old man beaten, he would not meddle, because it did not concern him; buff now each will fear the sufferer may be his own father and such violence will be stopped.",
+          "lineStart": 884
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 888
+        },
+        {
+          "type": "para",
+          "text": "What you say is not so silly after all; but it would be highly unpleasant were Epicurus and Leucolophas to come up and call me father.",
+          "lineStart": 889
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 891
+        },
+        {
+          "type": "para",
+          "text": "But it would be far worse, were...",
+          "lineStart": 892
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 893
+        },
+        {
+          "type": "para",
+          "text": "Were what?",
+          "lineStart": 894
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 895
+        },
+        {
+          "type": "para",
+          "text": "...Aristyllus to embrace you and style you his father.",
+          "lineStart": 896
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 897
+        },
+        {
+          "type": "para",
+          "text": "He'll regret it if he does!",
+          "lineStart": 898
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 899
+        },
+        {
+          "type": "para",
+          "text": "For you would smell vilely of mint if he kissed you. But he was born before the decree was carried, so that you have not to fear his kiss.",
+          "lineStart": 900
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 903
+        },
+        {
+          "type": "para",
+          "text": "It would be awful. But who will till the soil?",
+          "lineStart": 904
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 905
+        },
+        {
+          "type": "para",
+          "text": "The slaves. Your only cares will be to scent yourself, and to go and dine, when the shadow of the gnomon is ten feet long on the dial.",
+          "lineStart": 906
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 908
+        },
+        {
+          "type": "para",
+          "text": "But how shall we obtain clothing? Tell me that!",
+          "lineStart": 909
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 910
+        },
+        {
+          "type": "para",
+          "text": "You will first wear out those you have, and then we women will weave you others.",
+          "lineStart": 911
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 913
+        },
+        {
+          "type": "para",
+          "text": "Now another point: if the magistrates condemn a citizen to the payment of a fine, how is he going to do it? Out of the public funds? That would not be right surely.",
+          "lineStart": 914
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 917
+        },
+        {
+          "type": "para",
+          "text": "But there will be no more lawsuits.",
+          "lineStart": 918
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 919
+        },
+        {
+          "type": "para",
+          "text": "This rule will ruin you.",
+          "lineStart": 920
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 921
+        },
+        {
+          "type": "para",
+          "text": "I think so too.",
+          "lineStart": 922
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 923
+        },
+        {
+          "type": "para",
+          "text": "Besides, my dear, why should there be lawsuits?",
+          "lineStart": 924
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 925
+        },
+        {
+          "type": "para",
+          "text": "Oh! for a thousand reasons, on my faith! Firstly, because a debtor denies his obligation.",
+          "lineStart": 926
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 928
+        },
+        {
+          "type": "para",
+          "text": "But where will the lender get the money to lend, if all is in common? unless he steals it out of the treasury? and he could not hide that!",
+          "lineStart": 929
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 932
+        },
+        {
+          "type": "para",
+          "text": "Well thought out, by Demeter!",
+          "lineStart": 933
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 934
+        },
+        {
+          "type": "para",
+          "text": "But tell me this: here are some men who are returning from a feast and are drunk and they strike some passer-by; how are they going to pay the fine? Ah! you are puzzled now!",
+          "lineStart": 935
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 938
+        },
+        {
+          "type": "para",
+          "text": "They will have to take it out of their pittance; and being thus punished through their belly, they will not care to begin again.",
+          "lineStart": 939
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 941
+        },
+        {
+          "type": "para",
+          "text": "There will be no more thieves then, eh?",
+          "lineStart": 942
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 943
+        },
+        {
+          "type": "para",
+          "text": "Why steal, if you have a share of everything?",
+          "lineStart": 944
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 945
+        },
+        {
+          "type": "para",
+          "text": "People will not be robbed any more at night?",
+          "lineStart": 946
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 947
+        },
+        {
+          "type": "para",
+          "text": "Not if you sleep at home.",
+          "lineStart": 948
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 949
+        },
+        {
+          "type": "para",
+          "text": "Even if you sleep outdoors there will be no more danger, for all will have the means of living. Besides, if anyone wanted to steal your cloak, you would give it to him yourself. Why not? You will only have to go to the common store and be given a better one.",
+          "lineStart": 950
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 954
+        },
+        {
+          "type": "para",
+          "text": "There will be no more playing at dice?",
+          "lineStart": 955
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 956
+        },
+        {
+          "type": "para",
+          "text": "What object will there be in playing?",
+          "lineStart": 957
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 958
+        },
+        {
+          "type": "para",
+          "text": "But what kind of life is it you propose to set up?",
+          "lineStart": 959
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 960
+        },
+        {
+          "type": "para",
+          "text": "The life in common. Athens will become nothing more than a single house, in which everything will belong to everyone; so that everybody will be able to go from one house to the other at pleasure.",
+          "lineStart": 961
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 964
+        },
+        {
+          "type": "para",
+          "text": "And where will the meals be served?",
+          "lineStart": 965
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 966
+        },
+        {
+          "type": "para",
+          "text": "The law-courts and the porticoes will be turned into dining-halls.",
+          "lineStart": 967
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 968
+        },
+        {
+          "type": "para",
+          "text": "And what will the speaker's platform be used for?",
+          "lineStart": 969
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 970
+        },
+        {
+          "type": "para",
+          "text": "I shall place the bowls and the ewers there; and young children will sing the glory of the brave from there, also the infamy of cowards, who out of very shame will no longer dare to come to the public meals.",
+          "lineStart": 971
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 974
+        },
+        {
+          "type": "para",
+          "text": "Well thought out, by Apollo! And what will you do with the urns?",
+          "lineStart": 975
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 977
+        },
+        {
+          "type": "para",
+          "text": "I shall have them taken to the market-place, and standing close to the statue of Harmodius, I shall draw a lot for each citizen, which by its letter will show the place where he must go to dine. Thus, those for whom I have drawn an R will go to the royal portico; if it's a T, they will go to the portico of Theseus; if it's an F, to that of the flour-market.",
+          "lineStart": 978
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 983
+        },
+        {
+          "type": "para",
+          "text": "To cram himself there like a capon?",
+          "lineStart": 984
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 985
+        },
+        {
+          "type": "para",
+          "text": "No, to dine there.",
+          "lineStart": 986
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 987
+        },
+        {
+          "type": "para",
+          "text": "And the citizen whom the lot has not given a letter showing where he is to dine will be driven off by everyone?",
+          "lineStart": 988
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 990
+        },
+        {
+          "type": "para",
+          "text": "with great solemnity But that will not occur. Each man will have plenty; he will not leave the feast until he is well drunk, and then with a chaplet on his head and a torch in his hand; and then the women running to meet you in the crossroads will say, \"This way, come to our house, you will find a beautiful young girl there.\"-\"And I,\" another will call from her balcony, \"have one so pretty and as white as milk; but before touching her, you must sleep with me.\" And the ugly men, watching closely after the handsome fellows, will say, \"Hi! friend, where are you running to? Go in, but you must do nothing; it's the ugly and the flat-nosed to whom the law gives the right to make love first; amuse yourself on the porch while you wait, in handling your fig-leaves and playing with yourself.\" Well, tell me, does that picture suit you?",
+          "lineStart": 991
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS AND CHREMES",
+          "lineStart": 1004
+        },
+        {
+          "type": "para",
+          "text": "Marvellously well.",
+          "lineStart": 1005
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 1006
+        },
+        {
+          "type": "para",
+          "text": "I must now go to the market-place to receive the property that is going to be placed in common and to choose a woman with a loud voice as my herald. I have all the cares of state on my shoulders, since the power has been entrusted to me. I must likewise go to busy myself about establishing the common meals, and you will attend your first banquet to-day.",
+          "lineStart": 1007
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 1012
+        },
+        {
+          "type": "para",
+          "text": "Are we going to banquet?",
+          "lineStart": 1013
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 1014
+        },
+        {
+          "type": "para",
+          "text": "Why, undoubtedly! Furthermore, I propose abolishing the whores.",
+          "lineStart": 1015
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 1016
+        },
+        {
+          "type": "para",
+          "text": "And what for?",
+          "lineStart": 1017
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRAXAGORA",
+          "lineStart": 1018
+        },
+        {
+          "type": "para",
+          "text": "It's clear enough why; so that, instead of them, we may have the first-fruits of the young men. It is not meet that tricked-out slaves should rob free-born women of their pleasures. Let the courtesans be free to sleep with the slaves.",
+          "lineStart": 1019
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPYRUS",
+          "lineStart": 1023
+        },
+        {
+          "type": "para",
+          "text": "I will march at your side, so that I may be seen and that everyone may say, \"Look at the Dictator's husband!\" He follows PRAXAGORA into their house.",
+          "lineStart": 1024
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1027
+        },
+        {
+          "type": "para",
+          "text": "As for me, I shall arrange my belongings and take inventory of them, in order that I may take them to the market-place. He departs. There is an interlude of dancing by the CHORUS, after which CHREMES returns with his belongings and arranges them in a long line.",
+          "lineStart": 1028
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1034
+        },
+        {
+          "type": "para",
+          "text": "Come hither, my beautiful sieve, I have nothing more precious than you, come, all clotted with the flour of which I have poured so many sacks through you; you shall act the part of Canephorus in the procession of my chattels. Where is the sunshade carrier? Ah! this stew-pot shall take his place. Great gods, how black it is! it could not be more so if Lysicrates had boiled the drugs in it with which be dyes his hair. Hither, my beautiful mirror. And you, my tripod, bear this urn for me; you shall be the water-bearer; and you, cock, whose morning song has so often roused me in the middle of the night to send me hurrying to the Assembly, you shall be my flute-girl. Scaphephorus, do you take the large basin, place in it the honeycombs and twine the olive-branches over them, bring the tripods and the phial of perfume; as for the humble crowd of little pots, I will just leave them behind.",
+          "lineStart": 1035
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1048
+        },
+        {
+          "type": "para",
+          "text": "watching CHREMES from a distance What folly to carry one's goods to the common store; I have a little more sense than that. No, no, by Posidon, I want first to ponder and calculate over the thing at leisure. I shall not be fool enough to strip myself of the fruits of my toil and thrift, if it is not for a very good reason; let us see first which way things turn. He walks over to CHREMES Hi! friend, what means this display of goods? Are you moving or are you going to pawn your stuff?",
+          "lineStart": 1049
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1058
+        },
+        {
+          "type": "para",
+          "text": "Neither.",
+          "lineStart": 1059
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1060
+        },
+        {
+          "type": "para",
+          "text": "Why then are you setting all these things out in line? Is it a procession that you are starting off to Hiero, the public crier?",
+          "lineStart": 1061
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1063
+        },
+        {
+          "type": "para",
+          "text": "No, but in accordance with the new law that has been decreed, I am going to carry all these things to the market-place to make a gift of them to the state.",
+          "lineStart": 1064
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1067
+        },
+        {
+          "type": "para",
+          "text": "Oh! bah! you don't mean that.",
+          "lineStart": 1068
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1069
+        },
+        {
+          "type": "para",
+          "text": "Certainly.",
+          "lineStart": 1070
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1071
+        },
+        {
+          "type": "para",
+          "text": "Oh! Zeus the Deliverer! you unfortunate man!",
+          "lineStart": 1072
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1073
+        },
+        {
+          "type": "para",
+          "text": "Why?",
+          "lineStart": 1074
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1075
+        },
+        {
+          "type": "para",
+          "text": "Why? It's as clear as noonday.",
+          "lineStart": 1076
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1077
+        },
+        {
+          "type": "para",
+          "text": "Must the laws not be obeyed then?",
+          "lineStart": 1078
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1079
+        },
+        {
+          "type": "para",
+          "text": "What laws, you poor fellow?",
+          "lineStart": 1080
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1081
+        },
+        {
+          "type": "para",
+          "text": "Those that have been decreed.",
+          "lineStart": 1082
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1083
+        },
+        {
+          "type": "para",
+          "text": "Decreed! Are you mad, I ask you?",
+          "lineStart": 1084
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1085
+        },
+        {
+          "type": "para",
+          "text": "Am I mad?",
+          "lineStart": 1086
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1087
+        },
+        {
+          "type": "para",
+          "text": "Oh! this is the height of folly!",
+          "lineStart": 1088
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1089
+        },
+        {
+          "type": "para",
+          "text": "Because I obey the law?",
+          "lineStart": 1090
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1091
+        },
+        {
+          "type": "para",
+          "text": "Is that the duty of a smart man?",
+          "lineStart": 1092
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1093
+        },
+        {
+          "type": "para",
+          "text": "Absolutely.",
+          "lineStart": 1094
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1095
+        },
+        {
+          "type": "para",
+          "text": "Say rather of a ninny.",
+          "lineStart": 1096
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1097
+        },
+        {
+          "type": "para",
+          "text": "Don't you propose taking what belongs to you to the common stock?",
+          "lineStart": 1098
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1100
+        },
+        {
+          "type": "para",
+          "text": "I'll take good care I don't until I see what the majority are doing.",
+          "lineStart": 1101
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1103
+        },
+        {
+          "type": "para",
+          "text": "There's but one opinion, namely, to contribute every single thing one has.",
+          "lineStart": 1104
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1106
+        },
+        {
+          "type": "para",
+          "text": "I am waiting to see it, before I believe that.",
+          "lineStart": 1107
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1108
+        },
+        {
+          "type": "para",
+          "text": "At least, so they say in every street.",
+          "lineStart": 1109
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1110
+        },
+        {
+          "type": "para",
+          "text": "sardonically And they will go on saying so.",
+          "lineStart": 1111
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1113
+        },
+        {
+          "type": "para",
+          "text": "Everyone talks of contributing all he has.",
+          "lineStart": 1114
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1115
+        },
+        {
+          "type": "para",
+          "text": "in the same tone And will go on talking of it.",
+          "lineStart": 1116
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1118
+        },
+        {
+          "type": "para",
+          "text": "You weary me with your doubts and dubitations.",
+          "lineStart": 1119
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1120
+        },
+        {
+          "type": "para",
+          "text": "in the same tone Everybody else will doubt it.",
+          "lineStart": 1121
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1123
+        },
+        {
+          "type": "para",
+          "text": "The pest seize you!",
+          "lineStart": 1124
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1125
+        },
+        {
+          "type": "para",
+          "text": "in the same tone It will take you. Then seriously What? give up your goods! Is there a man of sense who will do such a thing? Giving is not one of our customs. Receiving is another matter; it's the way of the gods themselves. Look at the position of their hands on their statues; when we ask a favour, they present their hands turned palm up so as not to give, but to receive.",
+          "lineStart": 1126
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1134
+        },
+        {
+          "type": "para",
+          "text": "Wretch, let me do what is right. Come, I'll make a bundle of all these things. Where is my strap?",
+          "lineStart": 1135
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1137
+        },
+        {
+          "type": "para",
+          "text": "Are you really going to carry them in?",
+          "lineStart": 1138
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1139
+        },
+        {
+          "type": "para",
+          "text": "Undoubtedly, and there are my two tripods strung together already.",
+          "lineStart": 1140
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1141
+        },
+        {
+          "type": "para",
+          "text": "What folly! Not to wait to see what the others do, and then...",
+          "lineStart": 1142
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1143
+        },
+        {
+          "type": "para",
+          "text": "Well, and then what?",
+          "lineStart": 1144
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1145
+        },
+        {
+          "type": "para",
+          "text": "...wait and put it off again.",
+          "lineStart": 1146
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1147
+        },
+        {
+          "type": "para",
+          "text": "What for?",
+          "lineStart": 1148
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1149
+        },
+        {
+          "type": "para",
+          "text": "That an earthquake may come or an ill-omened flash of lightning, that a black cat may run across the street and no one carry in anything more, you fool!",
+          "lineStart": 1150
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1153
+        },
+        {
+          "type": "para",
+          "text": "It would be a fine thing if I were to find no room left for placing all this.",
+          "lineStart": 1154
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1156
+        },
+        {
+          "type": "para",
+          "text": "You are much more likely to lose your stuff. As for placing it, you can be at ease, for there will be room enough as long as a month hence.",
+          "lineStart": 1157
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1160
+        },
+        {
+          "type": "para",
+          "text": "Why?",
+          "lineStart": 1161
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1162
+        },
+        {
+          "type": "para",
+          "text": "I know these people; a decree is readily passed, but it is not so easily attended to.",
+          "lineStart": 1163
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1165
+        },
+        {
+          "type": "para",
+          "text": "All will contribute their property, my friend.",
+          "lineStart": 1166
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1167
+        },
+        {
+          "type": "para",
+          "text": "But what if they don't?",
+          "lineStart": 1168
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1169
+        },
+        {
+          "type": "para",
+          "text": "But there is no doubt that they will.",
+          "lineStart": 1170
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1171
+        },
+        {
+          "type": "para",
+          "text": "insistently But anyhow, what if they don't?",
+          "lineStart": 1172
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1174
+        },
+        {
+          "type": "para",
+          "text": "Do not worry; they will.",
+          "lineStart": 1175
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1176
+        },
+        {
+          "type": "para",
+          "text": "And what if they oppose it?",
+          "lineStart": 1177
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1178
+        },
+        {
+          "type": "para",
+          "text": "We shall compel them to do so.",
+          "lineStart": 1179
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1180
+        },
+        {
+          "type": "para",
+          "text": "And what if they prove the stronger?",
+          "lineStart": 1181
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1182
+        },
+        {
+          "type": "para",
+          "text": "I shall leave my goods and go off.",
+          "lineStart": 1183
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1184
+        },
+        {
+          "type": "para",
+          "text": "And what if they sell them for you?",
+          "lineStart": 1185
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1186
+        },
+        {
+          "type": "para",
+          "text": "The plague take you!",
+          "lineStart": 1187
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1188
+        },
+        {
+          "type": "para",
+          "text": "And if it does?",
+          "lineStart": 1189
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1190
+        },
+        {
+          "type": "para",
+          "text": "It will be a good riddance.",
+          "lineStart": 1191
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1192
+        },
+        {
+          "type": "para",
+          "text": "in an incredulous tone You are really bent on contributing, then?",
+          "lineStart": 1193
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1195
+        },
+        {
+          "type": "para",
+          "text": "'Pon my soul, yes! Look, there are all my neighbours carrying in all they have.",
+          "lineStart": 1196
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1198
+        },
+        {
+          "type": "para",
+          "text": "sarcastically Oh yes, it's Antisthenes; he's the type that would contribute! He would just as soon spend the next month sitting on the can.",
+          "lineStart": 1199
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1202
+        },
+        {
+          "type": "para",
+          "text": "The pest seize you!",
+          "lineStart": 1203
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1204
+        },
+        {
+          "type": "para",
+          "text": "Will Callimachus, the chorus-master, contribute anything?",
+          "lineStart": 1205
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1206
+        },
+        {
+          "type": "para",
+          "text": "Why, more than Callias!",
+          "lineStart": 1207
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1208
+        },
+        {
+          "type": "para",
+          "text": "The man must want to spend all his money!",
+          "lineStart": 1209
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1210
+        },
+        {
+          "type": "para",
+          "text": "How you weary me!",
+          "lineStart": 1211
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1212
+        },
+        {
+          "type": "para",
+          "text": "Ah! I weary you? But, wretch, see what comes of decrees of this kind. Don't you remember the one reducing the price of salt?",
+          "lineStart": 1213
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1215
+        },
+        {
+          "type": "para",
+          "text": "Why, certainly I do.",
+          "lineStart": 1216
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1217
+        },
+        {
+          "type": "para",
+          "text": "And do you remember that about the copper coinage?",
+          "lineStart": 1218
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1219
+        },
+        {
+          "type": "para",
+          "text": "Ah! that cursed money did me enough harm. I had sold my grapes and had my mouth stuffed with pieces of copper; indeed I was going to the market to buy flour, and was in the act of holding out my bag wide open, when the herald started shouting, \"Let none in future accept pieces of copper; those of silver are alone current.\"",
+          "lineStart": 1220
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1225
+        },
+        {
+          "type": "para",
+          "text": "And quite lately, were we not all swearing that the impost of one-fortieth, which Euripides had conceived, would bring five hundred talents to the state, and everyone was vaunting Euripides to the skies? But when the thing was looked at closely, it was seen that this fine decree was mere moonshine and would produce nothing, and you would have willingly burnt this very same Euripides alive.",
+          "lineStart": 1226
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1232
+        },
+        {
+          "type": "para",
+          "text": "The cases are quite different, my good fellow. We were the rulers then, but now it's the women.",
+          "lineStart": 1233
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1235
+        },
+        {
+          "type": "para",
+          "text": "Whom, by Posidon, I will never allow to piss on my nose.",
+          "lineStart": 1236
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1237
+        },
+        {
+          "type": "para",
+          "text": "I don't know what the devil you're chattering about. Slave, pick up that bundle.",
+          "lineStart": 1238
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERALD",
+          "lineStart": 1240
+        },
+        {
+          "type": "para",
+          "text": "a woman Let all citizens come, let them hasten at our leader's bidding! It is the new law. The lot will teach each citizen where he is to dine; the tables are already laid and loaded with the most exquisite dishes; the couches are covered with the softest of cushions; the wine and water are already being mixed in the ewers; the slaves are standing in a row and waiting to pour scent over the guests; the fish is being grilled, the hares are on the spit and the cakes are being kneaded, chaplets are being plaited and the fritters are frying; the youngest women are watching the pea-soup in the saucepans, and in the midst of them all stands Smoeus, dressed as a knight, washing the crockery. And Geron has come, dressed in a grand tunic and finely shod; he is joking with another young fellow and has already divested himself of his heavy shoes and his cloak. The pantry man is waiting, so come and use your jaws. Exit",
+          "lineStart": 1241
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1256
+        },
+        {
+          "type": "para",
+          "text": "All right, I'll go. Why should I delay, since the state commands me?",
+          "lineStart": 1257
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1259
+        },
+        {
+          "type": "para",
+          "text": "And where are you going to, since you have not deposited your belongings?",
+          "lineStart": 1260
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1262
+        },
+        {
+          "type": "para",
+          "text": "To the feast.",
+          "lineStart": 1263
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1264
+        },
+        {
+          "type": "para",
+          "text": "If the women have any wits, they will first insist on your depositing your goods.",
+          "lineStart": 1265
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1267
+        },
+        {
+          "type": "para",
+          "text": "But I am going to deposit them.",
+          "lineStart": 1268
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1269
+        },
+        {
+          "type": "para",
+          "text": "When?",
+          "lineStart": 1270
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1271
+        },
+        {
+          "type": "para",
+          "text": "I am not the man to make delays.",
+          "lineStart": 1272
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1273
+        },
+        {
+          "type": "para",
+          "text": "How do you mean?",
+          "lineStart": 1274
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1275
+        },
+        {
+          "type": "para",
+          "text": "There will be many less eager than I.",
+          "lineStart": 1276
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1277
+        },
+        {
+          "type": "para",
+          "text": "In the meantime you are going to dine.",
+          "lineStart": 1278
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1279
+        },
+        {
+          "type": "para",
+          "text": "What else should I do? Every sensible man must give his help to the state.",
+          "lineStart": 1280
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1282
+        },
+        {
+          "type": "para",
+          "text": "But if admission is forbidden you?",
+          "lineStart": 1283
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1284
+        },
+        {
+          "type": "para",
+          "text": "I shall duck my head and slip in.",
+          "lineStart": 1285
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1286
+        },
+        {
+          "type": "para",
+          "text": "And if the women have you beaten?",
+          "lineStart": 1287
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1288
+        },
+        {
+          "type": "para",
+          "text": "I shall summon them.",
+          "lineStart": 1289
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1290
+        },
+        {
+          "type": "para",
+          "text": "And if they laugh in your face?",
+          "lineStart": 1291
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1292
+        },
+        {
+          "type": "para",
+          "text": "I shall stand near the door...",
+          "lineStart": 1293
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1294
+        },
+        {
+          "type": "para",
+          "text": "And then?",
+          "lineStart": 1295
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1296
+        },
+        {
+          "type": "para",
+          "text": "...and seize upon the dishes as they pass.",
+          "lineStart": 1297
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1298
+        },
+        {
+          "type": "para",
+          "text": "Then go there, but after me. Sicon and Parmeno, pick up all this baggage.",
+          "lineStart": 1299
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1301
+        },
+        {
+          "type": "para",
+          "text": "Come, I will help you carry it.",
+          "lineStart": 1302
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMES",
+          "lineStart": 1303
+        },
+        {
+          "type": "para",
+          "text": "pushing him away No, no, I should be afraid of your pretending to the leader that what I am depositing belonged to you. Exit with his belongings.",
+          "lineStart": 1304
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CITIZEN",
+          "lineStart": 1308
+        },
+        {
+          "type": "para",
+          "text": "Let me see! let me think of some good trick by which I can keep my goods and yet take my share of the common feast. He reflects for a moment. Ha! that's a fine idea! Quick! I'll go and dine, ha! ha! Exit laughing. Interlude of dancing by the CHORUS. The scene shifts to a different section of Athens and the two houses are now to be thought of as those of two prostitutes.",
+          "lineStart": 1309
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST OLD WOMAN",
+          "lineStart": 1318
+        },
+        {
+          "type": "para",
+          "text": "leaning out of the window of one house How is this? no men are coming? And yet it must be fully time! Then it is for naught that I have painted myself with white lead, dressed myself in my beautiful yellow robe, and that I am here, frolicking and humming between my teeth to attract some passer-by! Oh, Muses, alight upon my lips, inspire me with some soft Ionian love-song!",
+          "lineStart": 1319
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "YOUNG GIRL",
+          "lineStart": 1325
+        },
+        {
+          "type": "para",
+          "text": "in the window of the other house You putrid old thing, you have placed yourself at the window before me. You were expecting to strip my vines during my absence and to trap some man in your snares with your songs. If you sing, I shall follow suit; all this singing will weary the spectators, but is nevertheless very pleasant and very diverting.",
+          "lineStart": 1326
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST OLD WOMAN",
+          "lineStart": 1332
+        },
+        {
+          "type": "para",
+          "text": "thumbing her nose at the YOUNG GIRL Ha! here is an old man; take him and lead him away. To the flute-player As for you, you young flute-player, let us hear some airs that are worthy of you and me. She sings Let him who wishes to taste pleasure come to my side. These young things know nothing about it; it's only the women of ripe age who understand the art of love, and no one could know how to fondle the lover who possessed me so well as myself; the young girls are all flightiness.",
+          "lineStart": 1333
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "YOUNG GIRL",
+          "lineStart": 1344
+        },
+        {
+          "type": "para",
+          "text": "singing in her turn Don't be jealous of the young girls; voluptuousness resides in the pure outline of their beautiful limbs and blossoms on their rounded breasts; but you, old woman, you who are tricked out and perfumed as if for your own funeral, are an object of love only for grim Death himself.",
+          "lineStart": 1345
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST OLD WOMAN",
+          "lineStart": 1350
+        },
+        {
+          "type": "para",
+          "text": "singing again May your tongue be stopped; may you be unable to find your couch when you want to be loved. And on your couch, when your lips seek a lover, may you embrace only a viper!",
+          "lineStart": 1351
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "YOUNG GIRL",
+          "lineStart": 1355
+        },
+        {
+          "type": "para",
+          "text": "singing again Alas! alas! what is to become of me? There is no lover! I am left here alone; my mother has gone out. Interrupting her song There's no need to mention the rest. Then singing again Oh! my dear nurse, I adjure you to call Orthagoras, and may heaven bless you. Ah! poor child, desire is consuming you like an Ionian woman; interrupting again and yet you are no stranger to the wanton arts of the Lesbian women. Resuming her song But you shall not rob me of my pleasures; you will not be able to reduce or filch the time that first belongs to me.",
+          "lineStart": 1356
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST OLD WOMAN",
+          "lineStart": 1370
+        },
+        {
+          "type": "para",
+          "text": "Sing as much as you please, peep out like a cat lying in wait, but none shall pass through your door without first having been to see me.",
+          "lineStart": 1371
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "YOUNG GIRL",
+          "lineStart": 1374
+        },
+        {
+          "type": "para",
+          "text": "If anyone enter your house, it will be to carry out your corpse. And that will be something new for you, you rotten old thing!",
+          "lineStart": 1375
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST OLD WOMAN",
+          "lineStart": 1377
+        },
+        {
+          "type": "para",
+          "text": "Can anything be new to an old woman? My old age will not harm you.",
+          "lineStart": 1378
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "YOUNG GIRL",
+          "lineStart": 1380
+        },
+        {
+          "type": "para",
+          "text": "Ah! shame on your painted cheeks!",
+          "lineStart": 1381
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST OLD WOMAN",
+          "lineStart": 1382
+        },
+        {
+          "type": "para",
+          "text": "Why do you speak to me at all?",
+          "lineStart": 1383
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "YOUNG GIRL",
+          "lineStart": 1384
+        },
+        {
+          "type": "para",
+          "text": "And why do you place yourself at the window?",
+          "lineStart": 1385
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST OLD WOMAN",
+          "lineStart": 1386
+        },
+        {
+          "type": "para",
+          "text": "I am singing to myself about my lover, Epigenes.",
+          "lineStart": 1387
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "YOUNG GIRL",
+          "lineStart": 1388
+        },
+        {
+          "type": "para",
+          "text": "Can you have any other lover than that old fop Geres?",
+          "lineStart": 1389
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST OLD WOMAN",
+          "lineStart": 1390
+        },
+        {
+          "type": "para",
+          "text": "Epigenes will show you that himself, for he is coming to me. See, here he is.",
+          "lineStart": 1391
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "YOUNG GIRL",
+          "lineStart": 1393
+        },
+        {
+          "type": "para",
+          "text": "He's not thinking of you in the least.",
+          "lineStart": 1394
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST OLD WOMAN",
+          "lineStart": 1395
+        },
+        {
+          "type": "para",
+          "text": "Aye, but he is.",
+          "lineStart": 1396
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "YOUNG GIRL",
+          "lineStart": 1397
+        },
+        {
+          "type": "para",
+          "text": "Old starveling! Let's see what he will do. I will leave my window.",
+          "lineStart": 1398
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST OLD WOMAN",
+          "lineStart": 1400
+        },
+        {
+          "type": "para",
+          "text": "And I likewise. You will see I am much wiser than you.",
+          "lineStart": 1401
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "A YOUNG MAN",
+          "lineStart": 1402
+        },
+        {
+          "type": "para",
+          "text": "sings Ah! could I but sleep with the young girl without first making love to the old flat-nose! It is intolerable for a free-born man.",
+          "lineStart": 1403
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST OLD WOMAN",
+          "lineStart": 1406
+        },
+        {
+          "type": "para",
+          "text": "singing to the same tune Willy nilly, you must first gratify my desire. There shall be no nonsense about that, for my authority is the law and the law must be obeyed in a democracy. Speaking But come, let me hide, to see what he's going to do. She retires.",
+          "lineStart": 1407
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 407,
+    "wordCount": 10008
+  }
+}

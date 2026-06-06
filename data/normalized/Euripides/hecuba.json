@@ -1,0 +1,2871 @@
+{
+  "id": "Euripides/hecuba",
+  "author": "Euripides",
+  "authorKey": "Euripides",
+  "title": "Hecuba",
+  "translator": "E. P. Coleridge",
+  "language": "Greek",
+  "written": "424 BCE",
+  "sourceNote": null,
+  "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "ambiguous: 0.479 long unterminated interior lines, median line length 60.0, 0.000 explicit breaks; defaulted to prose",
+  "textModeStats": {
+    "lineCount": 1252,
+    "paragraphCount": 15,
+    "interiorLineCount": 1237,
+    "medianLineLength": 60.0,
+    "meanLineLength": 48.73242811501598,
+    "longInteriorLineRatio": 0.5780113177041228,
+    "unterminatedInteriorLineRatio": 0.7275666936135813,
+    "longUnterminatedInteriorLineRatio": 0.4793856103476152,
+    "explicitBreakLineRatio": 0.0,
+    "unmarkedLineRatio": 0.9888178913738019
+  },
+  "landingUrl": "https://classics.mit.edu/Euripides/hecuba.html",
+  "textUrls": [
+    "https://classics.mit.edu/Euripides/hecuba.html"
+  ],
+  "txtUrl": "https://classics.mit.edu/Euripides/hecuba.pl.txt",
+  "sections": [
+    {
+      "seq": 1,
+      "id": "hecuba-hecuba",
+      "heading": "Hecuba",
+      "partTitle": "Hecuba",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Dramatis Personae",
+          "lineStart": 10
+        },
+        {
+          "type": "para",
+          "text": "THE GHOST OF POLYDORUS, son of HECUBA and Priam, King of Troy HECUBA, wife of Priam CHORUS OF CAPTIVE TROJAN WOMEN POLYXENA, daughter of HECUBA and Priam ODYSSEUS TALTHYBIUS, herald of AGAMEMNON MAID OF HECUBA AGAMEMNON POLYMESTOR, King of the Thracian Chersonese Scene Before AGAMEMNON'S tent in the Greek camp upon the shore of the Thracian Chersonese. The GHOST OF POLYDORUS appears.",
+          "lineStart": 11
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "GHOST",
+          "lineStart": 21
+        },
+        {
+          "type": "para",
+          "text": "Lo! I am come from out the charnel-house and gates of gloom, where Hades dwells apart from gods, I Polydorus, a son of Hecuba the daughter of Cisseus and of Priam. Now my father, when Phrygia's capital was threatened with destruction by the spear of Hellas, took alarm and conveyed me secretly from the land of Troy unto Polymestor's house, his friend in Thrace, who sows these fruitful plains of Chersonese, curbing by his might a nation delighting in horses. And with me my father sent great store of gold by stealth, that, if ever Ilium's walls should fall, his children that survived might not want for means to live. I was the youngest of Priam's sons; and this it was that caused my stealthy removal from the land; for my childish arm availed not to carry weapons or to wield the spear. So long then as the bulwarks of our land stood firm, and Troy's battlements abode unshaken, and my brother Hector prospered in his warring, I, poor child, grew up and flourished, like some vigorous shoot, at the court of the Thracian, my father's friend. But when Troy fell and Hector lost his life and my father's hearth was rooted up, and himself fell butchered at the god-built altar by the hands of Achilles' murderous son; then did my father's friend slay me his helpless guest for the sake of the gold, and thereafter cast me into the swell of the sea, to keep the gold for himself in his house. And there I lie one time upon the strand, another in the salt sea's surge, drifting ever up and down upon the billows, unwept, unburied; but now am I hovering o'er the head of my dear mother Hecuba, a disembodied spirit, keeping my airy station these three days, ever since my poor mother came from Troy to linger here in Chersonese. Meantime all the Achaeans sit idly here in their ships at the shores of Thrace; for the son of Peleus, even Achilles, appeared above his tomb and stayed the whole host of Hellas, as they were making straight for home across the sea, demanding to have my sister Polyxena offered at his tomb, and to receive his guerdon. And he will obtain this prize, nor will they that are his friends refuse the gift; and on this very day is fate leading my sister to her doom. So will my mother see two children dead at once, me and that ill-fated maid. For I, to win a grave, ah me! will appear amid the rippling waves before her bond-maid's feet. Yes! I have won this boon from the powers below, that I should find tomb and fall into my mother's hands; so shall I get my heart's desire; wherefore I will go and waylay aged Hecuba, for yonder she passeth on her way from the shelter of Agamemnon's tent, terrified at my spectre. Woe is thee! ah, mother mine! from a palace dragged to face a life of slavery! how sad thy lot, as sad as once 'twas blest! Some god is now destroying thee, setting this in the balance to outweigh thy former bliss. The GHOST vanishes. HECUBA enters from the tent of AGAMEMNON, supported by her attendants, captive Trojan women.",
+          "lineStart": 22
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 63
+        },
+        {
+          "type": "para",
+          "text": "chanting Guide these aged steps, my servants, forth before the house; support your fellow-slave, your queen of yore, ye maids of Troy. Take hold upon my aged hand, support me, guide me, lift me up; and I will lean upon your bended arm as on a staff and quicken my halting footsteps onwards. O dazzling light of Zeus! O gloom of night! why am I thus scared by fearful visions of the night? O earth, dread queen, mother of dreams that flit on sable wings! I am seeking to avert the vision of the night, the sight of horror which I saw so clearly in my dreams touching my son, who is safe in Thrace, and Polyxena my daughter dear. Ye gods of this land! preserve my son, the last and only anchor of my house, now settled in Thrace, the land of snow, safe in the keeping of his father's friend. Some fresh disaster is in store, a new strain of sorrow will be added to our woe. Such ceaseless thrills of terror never wrung my heart before. Oh! where, ye Trojan maidens, can I find inspired Helenus or Cassandra, that they may read me my dream? For I saw a dappled hind mangled by a wolf's bloody fangs, torn from my knees by force in piteous wise. And this too filled me with affright; o'er the summit of his tomb appeared Achilles' phantom, and for his guerdon he would have one of the luckless maids of Troy. Wherefore, I implore you, powers divine, avert this horror from my daughter, from my child. The CHORUS OF CAPTIVE TROJAN WOMEN enters.",
+          "lineStart": 64
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 85
+        },
+        {
+          "type": "para",
+          "text": "singing Hecuba, I have hastened away to thee, leaving my master's tent, where the lot assigned me as his appointed slave, in the day that was driven from the city of Ilium, hunted by Achaeans thence at the point of the spear; no alleviation bring I for thy sufferings; nay have laden myself with heavy news, and am a herald of sorrow to thee, lady. 'Tis said the Achaeans have determined in full assembly to offer thy daughter in sacrifice to Achilles; for thou knowest how one day he appeared standing on his tomb in golden harness, and stayed the sea-borne barques, though they had their sails already hoisted, with this pealing cry, \"Whither away so fast, ye Danai, leaving my tomb without its prize?\" Thereon arose a violent dispute with stormy altercation, and opinion was divided in the warrior host of Hellas, some being in favour of offering the sacrifice at the tomb, others dissenting. There was Agamemnon, all eagerness in thy interest, because of his love for the frenzied prophetess; but the two sons of Theseus, scions of Athens, though supporting different proposals, yet agreed on the same decision, which was to crown Achilles' tomb with fresh-spilt blood; for they said they never would set Cassandra's love before Achilles' valour. Now the zeal of the rival disputants was almost equal, until that shifty, smooth-mouthed varlet, the son of Laertes, whose tongue is ever at the service of the mob, persuaded the army not to put aside the best of all the Danai for want of a bond-maid's sacrifice, nor have it said by any of the dead that stand beside Persephone, \"The Danai have left the plains of Troy without one thought of gratitude for their brethren who died for Hellas.\" Odysseus will be here in an instant, to drag the tender maiden from thy breast and tear her from thy aged arms. To the temples, to the altars with thee! at Agamemnon's knees throw thyself as a suppliant! Invoke alike the gods in heaven and those beneath the earth. For either shall thy prayers avail to spare thee the loss of thy unhappy child, or thou must live to see thy daughter fall before the tomb, her crimson blood spurting in deep dark jets from her neck with gold encircled. THE following lines between HECUBA and POLYXENA are chanted responsively.",
+          "lineStart": 86
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 119
+        },
+        {
+          "type": "para",
+          "text": "Woe, woe is me! What words, or cries, or lamentations can I utter? Ah me! for the sorrows of my closing years! for slavery too cruel to brook or bear! Woe, woe is me! What champion have I? Sons, and city-where are they? Aged Priam is no more; no more my children now. Which way am I to go, or this or that? Whither shall I turn my steps? Where is any god or power divine to succour me? Ah, Trojan maids! bringers of evil tidings! messengers of woe! ye have made an end, an utter end of me; life on earth has no more charm for me. Ah! luckless steps, lead on, guide your aged mistress to yon tent. calling My child, come forth; come forth, thou daughter of the queen of sorrows; listen to thy mother's voice, my child, that thou mayst know the hideous rumour I now hear about thy life. POLYXENA enters from the tent.",
+          "lineStart": 120
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYXENA",
+          "lineStart": 134
+        },
+        {
+          "type": "para",
+          "text": "O mother, mother mine! why dost thou call so loud? what news is it thou hast proclaimed, scaring me, like a cowering bird, from my chamber by this alarm?",
+          "lineStart": 135
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 138
+        },
+        {
+          "type": "para",
+          "text": "Alas, my daughter!",
+          "lineStart": 139
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYXENA",
+          "lineStart": 140
+        },
+        {
+          "type": "para",
+          "text": "Why this ominous address? it bodeth sorrow for me.",
+          "lineStart": 141
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 142
+        },
+        {
+          "type": "para",
+          "text": "Woe for thy life!",
+          "lineStart": 143
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYXENA",
+          "lineStart": 144
+        },
+        {
+          "type": "para",
+          "text": "Tell all, hide it no longer. Ah mother! how I dread, ay dread the import of thy loud laments.",
+          "lineStart": 145
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 147
+        },
+        {
+          "type": "para",
+          "text": "Ah my daughter! a luckless mother's child!",
+          "lineStart": 148
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYXENA",
+          "lineStart": 149
+        },
+        {
+          "type": "para",
+          "text": "Why dost thou tell me this?",
+          "lineStart": 150
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 151
+        },
+        {
+          "type": "para",
+          "text": "The Argives with one consent are eager for thy sacrifice to the son of Peleus at his tomb.",
+          "lineStart": 152
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYXENA",
+          "lineStart": 154
+        },
+        {
+          "type": "para",
+          "text": "Ah! mother mine! how canst thou speak of such a horror? Yet tell me all, yes all, O mother dear!",
+          "lineStart": 155
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 157
+        },
+        {
+          "type": "para",
+          "text": "'Tis a rumour ill-boding I tell, my child; they bring me word that sentence is passed upon thy life by the Argives' vote.",
+          "lineStart": 158
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYXENA",
+          "lineStart": 160
+        },
+        {
+          "type": "para",
+          "text": "Alas, for thy cruel sufferings! my persecuted mother! woe for thy life of grief! What grievous outrage some fiend hath sent on thee, hateful, horrible! No more shall I thy daughter share thy bondage, hapless youth on hapless age attending. For thou, alas! wilt see thy hapless child torn from thy arms, as a calf of the hills is torn from its mother, and sent beneath the darkness of the earth with severed throat for Hades, where with the dead shall I be laid, ah me! For thee I weep with plaintive wail, mother doomed to a life of sorrow! for my own life, its ruin and its outrage, never a tear I shed; nay, death is become to me a happier lot than life.",
+          "lineStart": 161
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 170
+        },
+        {
+          "type": "para",
+          "text": "See where Odysseus comes in haste, to announce some fresh command to thee, Hecuba. ODYSSEUS enters, with his attendants.",
+          "lineStart": 171
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 174
+        },
+        {
+          "type": "para",
+          "text": "Lady, methinks thou knowest already the intention of the host, and the vote that has been passed; still will I declare it. It is the Achaeans' will to sacrifice thy daughter Polyxena at the mound heaped o'er Achilles' grave; and they appoint me to take the maid and bring her thither, while the son of Achilles is chosen to preside o'er the sacrifice and act as priest. Dost know then what to do? Be not forcibly torn from her, nor match thy might 'gainst mine; recognize the limits of thy strength, and the presence of thy troubles. Even in adversity 'tis wise to yield to reason's dictates.",
+          "lineStart": 175
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 183
+        },
+        {
+          "type": "para",
+          "text": "Ah me! an awful trial is nigh, it seems, fraught with mourning, rich in tears. Yes, I too escaped death where death had been my due, and Zeus destroyed me not but is still preserving my life, that I may witness in my misery fresh sorrows surpassing all before. Still if the bond may ask the free of things that grieve them not nor wrench their heart-strings, 'tis well that thou shouldst make an end and hearken to my questioning.",
+          "lineStart": 184
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 190
+        },
+        {
+          "type": "para",
+          "text": "Granted; put thy questions; that short delay I grudge thee not.",
+          "lineStart": 191
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 193
+        },
+        {
+          "type": "para",
+          "text": "Dost remember the day thou camest to spy on Ilium, disguised in rags and tatters, while down thy cheek ran drops of blood?",
+          "lineStart": 194
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 196
+        },
+        {
+          "type": "para",
+          "text": "Remember it! yes; 'twas no slight impression it made upon my heart.",
+          "lineStart": 197
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 199
+        },
+        {
+          "type": "para",
+          "text": "Did Helen recognize thee and tell me only?",
+          "lineStart": 200
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 201
+        },
+        {
+          "type": "para",
+          "text": "I well remember the awful risk I ran.",
+          "lineStart": 202
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 203
+        },
+        {
+          "type": "para",
+          "text": "Didst thou embrace my knees in all humility?",
+          "lineStart": 204
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 205
+        },
+        {
+          "type": "para",
+          "text": "Yea, so that my hand grew dead and cold upon thy robe.",
+          "lineStart": 206
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 207
+        },
+        {
+          "type": "para",
+          "text": "What saidst thou then, when in my power?",
+          "lineStart": 208
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 209
+        },
+        {
+          "type": "para",
+          "text": "Doubtless I found plenty to say, to save my life.",
+          "lineStart": 210
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 211
+        },
+        {
+          "type": "para",
+          "text": "Was it I that saved and sent thee forth again?",
+          "lineStart": 212
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 213
+        },
+        {
+          "type": "para",
+          "text": "Thou didst, and so I still behold the light of day.",
+          "lineStart": 214
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 215
+        },
+        {
+          "type": "para",
+          "text": "Art not thou then playing a sorry part to plot against me thus, after the kind treatment thou didst by thy own confession receive from me, showing me no gratitude but all the ill thou canst? A thankless race! all ye who covet honour from the mob for your oratory. Oh that ye were unknown to me ye who harm your friends and think no more of it, if ye can but say a word to win the mob. But tell me, what kind of cleverness did they think it, when against this child they passed their bloody vote? Was it duty led them to slay a human victim at the tomb, where sacrifice of oxen more befits? or does Achilles, if claiming the lives of those who slew him as his recompense, show his justice by marking her out for death? No! she at least ne'er injured him. He should have demanded Helen as a victim at his tomb, for she it was that proved his ruin, bringing him to Troy; or if some captive of surpassing beauty was to be singled out for doom, this pointed not to us; for the daughter of Tyndareus was fairer than all womankind, and her injury to him was proved no les than ours. Against the justice of his plea I pit this argument. Now hear the recompense due from thee to me at my request. On thy own confession, thou didst fall at my feet and embrace my hand and aged cheek; I in my turn now do the same to thee, and claim the favour then bestowed; and I implore thee, tear not my child from my arms, nor slay her. There be dead enough; she is my only joy, in her I forget my sorrows; My one comfort she in place of many a loss, my city and my nurse, my staff and journey's guide. 'Tis never right that those in power should use it out of season, or when prosperous suppose they will be always so. For I like them was prosperous once, but now my life is lived, and one day robbed me of all my bliss. Friend, by thy beard, have some regard and pity for me; go to Achaea's host, and talk them over, saying how hateful a thing it is to slay women whom at first ye spared out of pity, after dragging them from the altars. For amongst you the self-same law holds good for bond and free alike respecting bloodshed; such influence as thine will persuade them even though thy words are weak; for the same argument, when proceeding from those of no account, has not the same force as when it is uttered by men of mark.",
+          "lineStart": 216
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 248
+        },
+        {
+          "type": "para",
+          "text": "Human nature is not so stony-hearted as to hear thy plaintive tale and catalogue of sorrows, without shedding a tear.",
+          "lineStart": 249
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 251
+        },
+        {
+          "type": "para",
+          "text": "O Hecuba! be schooled by me, nor in thy passion count him a foe who speaketh wisely. Thy life I am prepared to save, for the service I received; I say no otherwise. But what I said to all, I will not now deny, that after Troy's capture I would give thy daughter to the chiefest of our host because he asked a victim. For herein is a source of weakness to most states, whene'er a man of brave and generous soul receives no greater honour than his inferiors. Now Achilles, lady, deserves honour at our hands, since for Hellas he died as nobly as a mortal can. Is not this a foul reproach to treat a man as a friend in life, but, when he is gone from us, to treat him so no more? How now? what will they say, if once more there comes gathering of the host and a contest with the foe? \"Shall we fight or nurse our lives, seeing the dead have no honours?\" For myself, indeed, though in life my daily store were scant, yet would it be all-sufficient, but as touching a tomb I should wish mine to be an object of respect, for this gratitude has long to run. Thou speakest of cruel sufferings; hear my answer. Amongst us are aged dames and grey old men no less miserable than thou, and brides of gallant husbands reft, o'er whom this Trojan dust has closed. Endure these sorrows; for us, if we are wrong in resolving to honour the brave, we shall bring upon ourselves a charge of ignorance; but as for you barbarians, regard not your friends as such and pay no homage to your gallant dead, that Hellas may prosper and ye may reap the fruits of such policy.",
+          "lineStart": 252
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 273
+        },
+        {
+          "type": "para",
+          "text": "Alas! how cursed is slavery alway in its nature, forced by the might of the stronger to endure unseemly treatment.",
+          "lineStart": 274
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 276
+        },
+        {
+          "type": "para",
+          "text": "Daughter, my pleading to avert thy bloody death was wasted idly on the air; do thou, if in aught endowed with greater power to move than thy mother, make haste to use it, uttering every pleading note like the tuneful nightingale, to save thy soul from death. Throw thyself at Odysseus' knees to move his pity, and try to move him. Here is thy plea: he to hath children, so that he can feel for thy sad fate.",
+          "lineStart": 277
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYXENA",
+          "lineStart": 283
+        },
+        {
+          "type": "para",
+          "text": "Odysseus, I see thee hiding thy right hand beneath thy robe and turning away thy face, that I may not touch thy beard. Take heart; thou art safe from the suppliant's god in my case, for I will follow thee, alike because I must and because it is my wish to die; for were I loth, a coward should I show myself, a woman faint of heart. Why should I prolong my days? I whose sire was king of all the Phrygians?-my chiefest pride in life, Then was I nursed on fair fond hopes to be a bride for kings, the centre of keen jealousy amongst suitors, to see whose home I would make my own; and o'er each dame of Ida I was queen; ah me! a maiden marked amid her fellows, equal to a goddess, save for death alone, but now slave! That name first makes me long for death, so strange it sounds; and then maybe my lot might give me to some savage master, one that would buy me for money,-me the sister of Hector and many another chief,-who would make me knead him bread within his halls, or sweep his house or set me working at the loom, leading a life of misery; while some slave, bought I know not whence, will taint my maiden charms, once deemed worthy of royalty. No, never! Here I close my eyes upon the light, free as yet, and dedicate myself to Hades. Lead me hence, Odysseus, and do thy worst, for I see naught within my reach to make me hope or expect with any confidence that I am ever again to be happy. Mother mine! seek not to hinder me by word or deed, but join in my wish for death ere I meet with shameful treatment undeserved. For whoso is not used to taste of sorrow's cup, though he bears it, yet it galls him when he puts his neck within the yoke; far happier would he be dead than alive, for life of honour reft is toil and trouble.",
+          "lineStart": 284
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 308
+        },
+        {
+          "type": "para",
+          "text": "A wondrous mark, most clearly stamped, doth noble birth imprint on men, and the name goeth still further where it is deserved.",
+          "lineStart": 309
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 311
+        },
+        {
+          "type": "para",
+          "text": "A noble speech, my daughter! but there is sorrow linked with its noble sentiments.",
+          "lineStart": 312
+        },
+        {
+          "type": "para",
+          "text": "Odysseus, if ye must pleasure the son of Peleus, and avoid reproach, slay not this maid, but lead me to Achilles' pyre and torture me unsparingly: 'twas I that bore Paris, whose fatal shaft laid low the son of Thetis.",
+          "lineStart": 314
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 317
+        },
+        {
+          "type": "para",
+          "text": "'Tis not thy death, old dame, Achilles' wraith hath demanded of the Achaeans, but hers.",
+          "lineStart": 318
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 320
+        },
+        {
+          "type": "para",
+          "text": "At least then slaughter me with my child; so shall there be a double draught of blood for the earth and the dead that claims this sacrifice.",
+          "lineStart": 321
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 323
+        },
+        {
+          "type": "para",
+          "text": "The maiden's death suffices; no need to add a second to the first; would we needed not e'en this!",
+          "lineStart": 324
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 326
+        },
+        {
+          "type": "para",
+          "text": "Die with my daughter I must and will.",
+          "lineStart": 327
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 328
+        },
+        {
+          "type": "para",
+          "text": "How so? I did not know I had a master.",
+          "lineStart": 329
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 330
+        },
+        {
+          "type": "para",
+          "text": "I will cling to her like ivy to an oak.",
+          "lineStart": 331
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 332
+        },
+        {
+          "type": "para",
+          "text": "Not if thou wilt hearken to those who are wiser than thyself.",
+          "lineStart": 333
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 334
+        },
+        {
+          "type": "para",
+          "text": "Be sure I will never willingly relinquish my child.",
+          "lineStart": 335
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ODYSSEUS",
+          "lineStart": 336
+        },
+        {
+          "type": "para",
+          "text": "Well, be equally sure I will never go away and leave her here.",
+          "lineStart": 337
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYXENA",
+          "lineStart": 338
+        },
+        {
+          "type": "para",
+          "text": "Mother, hearken to me; and thou, son of Laertes, make allowance for a parent's natural wrath. My poor mother, fight not with our masters. Wilt thou be thrown down, be roughly thrust aside and wound thy aged skin, and in unseemly wise be torn from me by youthful arms? This wilt thou suffer; do not so, for 'tis not right for thee. Nay, dear mother mine give me thy hand beloved, and let me press thy cheek to mine; for never, nevermore, but now for the last time shall I behold the dazzling sun-god's orb. My last farewells now take! O mother, mother mine! beneath the earth I pass.",
+          "lineStart": 339
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 347
+        },
+        {
+          "type": "para",
+          "text": "O my daughter, I am still to live and be a slave.",
+          "lineStart": 348
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYXENA",
+          "lineStart": 349
+        },
+        {
+          "type": "para",
+          "text": "Unwedded I depart, never having tasted the married joys that were my due!",
+          "lineStart": 350
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 352
+        },
+        {
+          "type": "para",
+          "text": "Thine, my daughter, is a piteous lot, and sad is mine also.",
+          "lineStart": 353
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYXENA",
+          "lineStart": 354
+        },
+        {
+          "type": "para",
+          "text": "There in Hades' courts shall I be laid apart from thee.",
+          "lineStart": 355
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 356
+        },
+        {
+          "type": "para",
+          "text": "Ah me, what shall I do? where shall I end my life?",
+          "lineStart": 357
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYXENA",
+          "lineStart": 358
+        },
+        {
+          "type": "para",
+          "text": "Daughter of a free-born sire, a slave I am to die.",
+          "lineStart": 359
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 360
+        },
+        {
+          "type": "para",
+          "text": "Not one of all my fifty children left!",
+          "lineStart": 361
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYXENA",
+          "lineStart": 362
+        },
+        {
+          "type": "para",
+          "text": "What message can I take for thee to Hector or thy aged lord?",
+          "lineStart": 363
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 364
+        },
+        {
+          "type": "para",
+          "text": "Tell them that of all women I am the most miserable.",
+          "lineStart": 365
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYXENA",
+          "lineStart": 366
+        },
+        {
+          "type": "para",
+          "text": "Ah! bosom and breasts that fed me with sweet food!",
+          "lineStart": 367
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 368
+        },
+        {
+          "type": "para",
+          "text": "Woe is thee, my child, for this untimely fate!",
+          "lineStart": 369
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYXENA",
+          "lineStart": 370
+        },
+        {
+          "type": "para",
+          "text": "Farewell, my mother! farewell, Cassandra!",
+          "lineStart": 371
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 372
+        },
+        {
+          "type": "para",
+          "text": "\"Fare well!\" others do, but not thy mother, no!",
+          "lineStart": 373
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYXENA",
+          "lineStart": 374
+        },
+        {
+          "type": "para",
+          "text": "Thou too, my brother Polydorus, who art in Thrace, the home of steeds!",
+          "lineStart": 375
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 377
+        },
+        {
+          "type": "para",
+          "text": "Aye, if he lives, which much I doubt; so luckless am I every way.",
+          "lineStart": 378
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYXENA",
+          "lineStart": 380
+        },
+        {
+          "type": "para",
+          "text": "Oh yes, he lives; and, when thou diest, he will close thine eyes.",
+          "lineStart": 381
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 383
+        },
+        {
+          "type": "para",
+          "text": "I am dead; sorrow has forestalled death here.",
+          "lineStart": 384
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYXENA",
+          "lineStart": 385
+        },
+        {
+          "type": "para",
+          "text": "Come veil my head, Odysseus, and take me hence; for now, ere falls the fatal blow, my heart is melted by my mother's wailing, and hers no less by mine. O light of day! for still may I call thee by thy name, though now my share in thee is but the time I take to go 'twixt this and the sword at Achilles' tomb. ODYSSEUS and his attendants lead POLYXENA away.",
+          "lineStart": 386
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 392
+        },
+        {
+          "type": "para",
+          "text": "Woe is me! I faint; my limbs sink under me. O my daughter, embrace thy mother, stretch out thy hand, give it me again; leave me not childless! Ah, friends! 'tis my death-blow. Oh! to see that Spartan woman, Helen, sister of the sons of Zeus, in such a plight; for her bright eyes have caused the shameful fall of Troy's once prosperous town. HECUBA sinks fainting to the ground.",
+          "lineStart": 393
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 399
+        },
+        {
+          "type": "para",
+          "text": "singing strophe 1 O breeze from out the deep arising, that waftest swift galleys, ocean's coursers, across the surging main! whither wilt thou bear me the child of sorrow? To whose house shall I be brought, to be his slave and chattel? to some haven in the Dorian land, or in Phthia, where men say Apidanus, father of fairest streams, makes fat and rich the tilth? antistrophe or to an island home, sent on a voyage of misery by oars that sweep the brine, leading a wretched existence in halls where the first-created palm and the bay-tree put forth their sacred shoots for dear Latona, memorial fair of her divine travail? and there with the maids of Delos shall I hymn the golden snood and bow of Artemis their goddess? strophe Or in the city of Pallas, the home of Athena of the beauteous chariot, shall I upon her saffron robe yoke horses to the car, embroidering them on my web in brilliant varied shades, or the race of Titans, whom Zeus the son of Cronos lays to their unending sleep with bolt of flashing flame?",
+          "lineStart": 400
+        },
+        {
+          "type": "para",
+          "text": "antistrophe 2 Woe is me for my children! woe for my ancestors, and my country which is falling in smouldering ruin 'mid the smoke, sacked by the Argive spear! while I upon a foreign shore am called a slave for-sooth, leaving Asia, Europe's handmaid, and receiving in its place deadly marriage-bower. The herald, TALTHYBIUS, enters.",
+          "lineStart": 418
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TALTHYBIUS",
+          "lineStart": 424
+        },
+        {
+          "type": "para",
+          "text": "Where can I find Hecuba, who once was queen of Ilium, ye Trojan maidens?",
+          "lineStart": 425
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 427
+        },
+        {
+          "type": "para",
+          "text": "There she lies near thee, Talthybius, stretched full length upon the ground, wrapt in her robe.",
+          "lineStart": 428
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TALTHYBIUS",
+          "lineStart": 430
+        },
+        {
+          "type": "para",
+          "text": "Great Zeus! what can I say? that thine eye is over man? or that we hold this false opinion all to no purpose, thinking there is any race of gods, when it is chance that rules the mortal sphere? Was not this the queen of wealthy Phrygia, the wife of Priam highly blest? And now her city is utterly o'erthrown by the foe, and she, a slave in her old age, her children dead, lies stretched upon the ground, soiling her hair, poor lady in the dust. Well, well; old as I am, may death be my lot before I am caught in any foul mischance. Arise, poor queen! lift up thyself and raise that hoary head.",
+          "lineStart": 431
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 440
+        },
+        {
+          "type": "para",
+          "text": "stirring Ah! who art thou that wilt not let my body rest? why disturb me in my anguish, whosoe'er thou art?",
+          "lineStart": 441
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TALTHYBIUS",
+          "lineStart": 444
+        },
+        {
+          "type": "para",
+          "text": "'Tis I, Talthybius, who am here, the minister of the Danai; Agamemnon has sent me for thee, lady.",
+          "lineStart": 445
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 447
+        },
+        {
+          "type": "para",
+          "text": "rising Good friend, art come because the Achaeans are resolved to slay me to at the grave? How welcome would thy tidings be! Let us hasten and lose no time; prithee, lead the way, old sir.",
+          "lineStart": 448
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TALTHYBIUS",
+          "lineStart": 452
+        },
+        {
+          "type": "para",
+          "text": "I am come to fetch thee to bury thy daughter's corpse, lady; and those that send me are the two sons of Atreus and the Achaean host.",
+          "lineStart": 453
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 455
+        },
+        {
+          "type": "para",
+          "text": "Ah! what wilt thou say? Art thou not come, as I had thought, to fetch me to my doom, but to announce ill news? Lost, lost, my child! snatched from thy mother's arms! and I am childless now, at least as touches thee; ah, woe is me!",
+          "lineStart": 456
+        },
+        {
+          "type": "para",
+          "text": "How did ye end her life? was any mercy shown? or did ye deal ruthlessly with her as though your victim were a foe, old man? Speak, though thy words must be pain to me.",
+          "lineStart": 460
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TALTHYBIUS",
+          "lineStart": 463
+        },
+        {
+          "type": "para",
+          "text": "Lady, thou art bent on making mine a double meed of tears in pity for thy child; for now too as I tell the sad tale a tear will wet my eye, as it did at the tomb when she was dying.",
+          "lineStart": 464
+        },
+        {
+          "type": "para",
+          "text": "All Achaea's host was gathered there in full array before the tomb to see thy daughter offered; and the son of Achilles took Polyxena by the hand and set her on the top of the mound, while I stood near; and a chosen band of young Achaeans followed to hold thy child and prevent her struggling. Then did Achilles' son take in his hands a brimming cup of gold and poured an offering to his dead sire, making a sign to me to proclaim silence throughout the Achaean host. So I stood at his side and in their midst proclaimed, \"Silence, ye Achaeans! hushed be the people all! peace! be still! \"Therewith I hushed the host. Then spake he, \"Son of Peleus, father mine, accept the offering I pour thee to appease thy spirit, strong to raise the dead; and come to drink the black blood of a virgin pure, which I and the host are offering thee; oh! be propitious to us; grant that we may loose our prows and the cables of our ships, and, meeting with prosperous voyage from Ilium, all to our country come.\" So he; and all the army echoed his prayer. Then seizing his golden sword by the hilt he drew it from its scabbard, signing the while to the picked young Argive warriors to hold the maid. But she, when she was ware thereof, uttered her voice and said: \"O Argives, who have sacked my city! of my free will I die; let none lay hand on me; for bravely will I yield my neck. Leave me free, I do beseech; so slay me, that death may find me free; for to be called a slave amongst the dead fills my royal heart with shame.\" Thereat the people shouted their applause, and king Agamemnon bade the young men loose the maid. So they set her free, as soon as they heard this last command from him whose might was over all. And she, hearing her captors' words took her robe and tore it open from the shoulder to the waist, displaying a breast and bosom fair as a statue's; then sinking on her knee, one word she spake more piteous than all the rest, \"Young prince, if 'tis my breast thou'dst strike, lo! here it is, strike home! or if at my neck thy sword thou'lt aim, behold! that neck is bared.\"",
+          "lineStart": 467
+        },
+        {
+          "type": "para",
+          "text": "Then he, half glad, half sorry in his pity for the maid, cleft with the steel the channels of her breath, and streams of blood gushed forth; but she, e'en in death's agony, took good heed to fall with maiden grace, hiding from gaze of man what modest maiden must. Soon as she had breathed her last through the fatal gash, each Argive set his hand to different tasks, some strewing leaves o'er the corpse in handfuls, others bringing pine-logs and heaping up a pyre; and he, who brought nothing, would hear from him who did such taunts as these, \"Stand'st thou still, ignoble wretch, with never a robe or ornament to bring for the maiden? Wilt thou give naught to her that showed such peerless bravery and spirit?\"",
+          "lineStart": 496
+        },
+        {
+          "type": "para",
+          "text": "Such is the tale I tell about thy daughter's death, and I regard thee as blest beyond all mothers in thy noble child, yet crossed in fortune more than all.",
+          "lineStart": 506
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 509
+        },
+        {
+          "type": "para",
+          "text": "Upon the race of Priam and my city some fearful curse hath burst; 'tis sent by God, and we must bear it.",
+          "lineStart": 510
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 512
+        },
+        {
+          "type": "para",
+          "text": "O my daughter! 'mid this crowd of sorrows I know not where to turn my gaze; for if I set myself to one, another will not give me pause; while from this again a fresh grief summons me, finding a successor to sorrow's throne. No longer now can I efface from my mind the memory of thy sufferings sufficiently to stay my tears; yet hath the story of thy noble death taken from the keenness of my grief. Is it not then strange that poor land, when blessed by heaven with a lucky year, yields a good crop, while that which is good, if robbed of needful care, bears but little increase; yet 'mongst men the knave is never other than a knave, the good man aught but good, never changing for the worse because of misfortune, but ever the same? Is then the difference due to birth or bringing up? Good training doubtless gives lessons in good conduct, and if a man have mastered this, he knows what is base by the standard of good. Random shafts of my soul's shooting these, I know. To TALTHYBIUS Go thou and proclaim to the Argives that they touch not my daughter's body but keep the crowd away. For when countless host is gathered, the mob knows no restraint, and the unruliness of sailors exceeds that of fire, all abstinence from evil being counted evil. TALTHYBIUS goes out. Addressing a servant My aged handmaid, take a pitcher and dip it in the salt sea and bring hither thereof, that I for the last time may wash my child, a virgin wife, a widowed maid, and lay her out,-as she deserves, ah! whence can I? impossible! but as best I can; and what will that be? I will collect adornment from the captives, my companions in these tents, if haply any of them escaping her master's eye have some secret store from her old home. The MAID departs. O towering halls, O home so happy once, O Priam, rich in store of fairest wealth, most blest of sires, and I no less, the grey-haired mother of thy race, how are we brought to naught, stripped of our former pride! And spite of all we vaunt ourselves, one on the riches of his house, another be, cause he has an honoured name amongst his fellow-citizens! But these things are naught; in vain are all our thoughtful schemes, in vain our vaunting words. He is happiest who meets no sorrow in his daily walk. HECUBA enters the tent.",
+          "lineStart": 513
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 549
+        },
+        {
+          "type": "para",
+          "text": "singing strophe Woe and tribulation were made my lot in life, soon as ever Paris felled his beams of pine in Ida's woods, to sail across the heaving main in quest of Helen's hand, fairest bride on whom the sun-god turns his golden eye.",
+          "lineStart": 550
+        },
+        {
+          "type": "para",
+          "text": "antistrophe For here beginneth trouble's cycle, and, worse than that, relentless fate; and from one man's folly came a universal curse, bringing death to the land of Simois, with trouble from an alien shore. The strife the shepherd decided on Ida 'twixt three daughters of the blessed gods,",
+          "lineStart": 555
+        },
+        {
+          "type": "para",
+          "text": "epode brought as its result war and bloodshed and the ruin of my home; and many a Spartan maiden too is weeping bitter tears in her halls on the banks of fair Eurotas, and many a mother whose sons are slain, is smiting her hoary head and tearing her cheeks, making her nails red in the furrowed gash.",
+          "lineStart": 560
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MAID",
+          "lineStart": 566
+        },
+        {
+          "type": "para",
+          "text": "entering excitedly, attended by bearers bringing in a covered corpse Oh! where, ladies, is Hecuba, our queen of sorrow, who far surpasses all in tribulation, men and women both alike? None shall wrest the crown from her.",
+          "lineStart": 567
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 572
+        },
+        {
+          "type": "para",
+          "text": "What now, thou wretched bird of boding note? Thy evil tidings never seem to rest.",
+          "lineStart": 573
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MAID",
+          "lineStart": 575
+        },
+        {
+          "type": "para",
+          "text": "'Tis to Hecuba I bring my bitter news; no easy task is it for mortal lips to speak smooth words in sorrow's hour.",
+          "lineStart": 576
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 578
+        },
+        {
+          "type": "para",
+          "text": "Lo! she is coming even now from the shelter of the tent appearing just in time to hear thee speak. HECUBA comes out of the tent.",
+          "lineStart": 579
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MAID",
+          "lineStart": 582
+        },
+        {
+          "type": "para",
+          "text": "Alas for thee! most hapless queen, ruined beyond all words of mine to tell; robbed of the light of life; of children, husband, city reft; hopelessly undone!",
+          "lineStart": 583
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 586
+        },
+        {
+          "type": "para",
+          "text": "This is no news but insult; I have heard it all before. But why art thou come, bringing hither to me the corpse of Polyxena, on whose burial Achaea's host was reported to be busily engaged?",
+          "lineStart": 587
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MAID",
+          "lineStart": 590
+        },
+        {
+          "type": "para",
+          "text": "aside She little knows what I have to tell, but mourns Polyxena, not grasping her new sorrows.",
+          "lineStart": 591
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 594
+        },
+        {
+          "type": "para",
+          "text": "Ah! woe is me! thou art not surely bringing hither mad Cassandra, the prophetic maid?",
+          "lineStart": 595
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MAID",
+          "lineStart": 597
+        },
+        {
+          "type": "para",
+          "text": "She lives, of whom thou speakest; but the dead thou dost not weep is here. Uncovering the corpse Mark well the body now laid bare; is not this a sight to fill thee with wonder, and upset thy hopes?",
+          "lineStart": 598
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 603
+        },
+        {
+          "type": "para",
+          "text": "Ah me! 'tis the corpse of my son Polydorus I behold, whom he of Thrace was keeping safe for me in his halls. Alas! this is the end of all; my life is o'er. Chanting O my son, my son, alas for thee! a frantic strain I now begin; thy fate I learnt, a moment gone, from some foul fiend.",
+          "lineStart": 604
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MAID",
+          "lineStart": 610
+        },
+        {
+          "type": "para",
+          "text": "What! so thou knewest thy son's fate, poor lady.",
+          "lineStart": 611
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 612
+        },
+        {
+          "type": "para",
+          "text": "chanting I cannot, cannot credit this fresh sight I see. Woe succeeds to woe; time will never cease henceforth to bring me groans and tears.",
+          "lineStart": 613
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 616
+        },
+        {
+          "type": "para",
+          "text": "Alas poor lady, our sufferings are cruel indeed.",
+          "lineStart": 617
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 618
+        },
+        {
+          "type": "para",
+          "text": "chanting O my son, child of a luckless mother, what was the manner of thy death? what lays thee dead at my feet? Who did the deed?",
+          "lineStart": 619
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MAID",
+          "lineStart": 622
+        },
+        {
+          "type": "para",
+          "text": "I know not. On the sea-shore I found him.",
+          "lineStart": 623
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 624
+        },
+        {
+          "type": "para",
+          "text": "chanting Cast up on the smooth sand, or thrown there after the murderous blow?",
+          "lineStart": 625
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MAID",
+          "lineStart": 627
+        },
+        {
+          "type": "para",
+          "text": "The waves had washed him ashore.",
+          "lineStart": 628
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 629
+        },
+        {
+          "type": "para",
+          "text": "chanting Alas! alas! I read aright the vision I saw in my sleep, nor did the phantom dusky-winged escape my ken, even the vision I saw concerning my son, who is now no more within the bright sunshine.",
+          "lineStart": 630
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 634
+        },
+        {
+          "type": "para",
+          "text": "Who slew him then? Can thy dream-lore tell us that?",
+          "lineStart": 635
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 636
+        },
+        {
+          "type": "para",
+          "text": "chanting 'Twas my own, own friend, the knight of Thrace, with whom his aged sire had placed the boy in hiding.",
+          "lineStart": 637
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 640
+        },
+        {
+          "type": "para",
+          "text": "O horror! what wilt thou say? did he slay him to get the gold?",
+          "lineStart": 641
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 642
+        },
+        {
+          "type": "para",
+          "text": "chanting O awful crime! O deed without a name! beggaring wonder! impious! intolerable! Where are now the laws 'twixt guest and host? Accursed monster! how hast thou mangled his flesh, slashing the poor child's limbs with ruthless sword, lost to all sense of pity!",
+          "lineStart": 643
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 648
+        },
+        {
+          "type": "para",
+          "text": "Alas for thee! how some deity, whose hand is heavy on thee, hath sent thee troubles beyond all other mortals! But yonder I see our lord and master Agamemnon coming; so let us be still henceforth, my friends. AGAMEMNON enters.",
+          "lineStart": 649
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 653
+        },
+        {
+          "type": "para",
+          "text": "Hecuba, why art thou delaying to come and bury thy daughter? for it was for this that Talthybius brought me thy message begging that none of the Argives should touch thy child. And so I granted this, and none is touching her, but this long delay of thine fills me with wonder. Wherefore am I come to send thee hence; for our part there is well performed; if herein there be any place for \"well.\" He sees the body. Ha! what man is this I see near the tents, some Trojan's corpse? 'tis not an Argive's body; that the garments it is clad in tell me.",
+          "lineStart": 654
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 663
+        },
+        {
+          "type": "para",
+          "text": "aside Unhappy one! in naming thee I name myself; O Hecuba, what shall do? throw myself here at Agamemnon's knees, or bear my sorrows in silence?",
+          "lineStart": 664
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 667
+        },
+        {
+          "type": "para",
+          "text": "Why dost thou turn thy back towards me and weep, refusing to say, what has happened, or who this is?",
+          "lineStart": 668
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 670
+        },
+        {
+          "type": "para",
+          "text": "aside But should he count me as a slave and foe and spurn me from his knees, I should but add to my anguish.",
+          "lineStart": 671
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 674
+        },
+        {
+          "type": "para",
+          "text": "I am no prophet born; wherefore, if I be not told, I cannot learn the current of thy thoughts.",
+          "lineStart": 675
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 677
+        },
+        {
+          "type": "para",
+          "text": "aside Can it be that in estimating this man's feelings I make him out too ill-disposed, when he is not really so?",
+          "lineStart": 678
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 681
+        },
+        {
+          "type": "para",
+          "text": "If thy wish really is that I should remain in ignorance, we are of one mind; for I have no wish myself to listen.",
+          "lineStart": 682
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 684
+        },
+        {
+          "type": "para",
+          "text": "aside Without his aid I shall not be able to avenge my children. Why do still ponder the matter? I must do and dare whether I win or lose. Turning to AGAMEMNON O Agamemnon! by thy knees, by thy beard and conquering hand I implore thee.",
+          "lineStart": 685
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 691
+        },
+        {
+          "type": "para",
+          "text": "What is thy desire? to be set free? that is easily done.",
+          "lineStart": 692
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 693
+        },
+        {
+          "type": "para",
+          "text": "Not that; give me vengeance on the wicked, and evermore am I willing to lead a life of slavery.",
+          "lineStart": 694
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 696
+        },
+        {
+          "type": "para",
+          "text": "Well, but why dost thou call me to thy aid?",
+          "lineStart": 697
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 698
+        },
+        {
+          "type": "para",
+          "text": "'Tis a matter thou little reckest of, O king. Dost see this corpse, for whom my tears now flow?",
+          "lineStart": 699
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 701
+        },
+        {
+          "type": "para",
+          "text": "I do; but what is to follow, I cannot guess.",
+          "lineStart": 702
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 703
+        },
+        {
+          "type": "para",
+          "text": "He was my child in days gone by; I bore him in my womb.",
+          "lineStart": 704
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 705
+        },
+        {
+          "type": "para",
+          "text": "Which of thy sons is he, poor sufferer?",
+          "lineStart": 706
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 707
+        },
+        {
+          "type": "para",
+          "text": "Not one of Priam's race who fell 'neath Ilium's walls.",
+          "lineStart": 708
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 709
+        },
+        {
+          "type": "para",
+          "text": "Hadst thou any son besides those, lady?",
+          "lineStart": 710
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 711
+        },
+        {
+          "type": "para",
+          "text": "Yes, him thou seest here, of whom, methinks, I have small gain.",
+          "lineStart": 712
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 713
+        },
+        {
+          "type": "para",
+          "text": "Where then was he, when his city was being destroyed?",
+          "lineStart": 714
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 715
+        },
+        {
+          "type": "para",
+          "text": "His father, fearful of his death, conveyed him out of Troy.",
+          "lineStart": 716
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 717
+        },
+        {
+          "type": "para",
+          "text": "Where did he place him apart from all the sons he then had?",
+          "lineStart": 718
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 719
+        },
+        {
+          "type": "para",
+          "text": "Here in this very land, where his corpse was found.",
+          "lineStart": 720
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 721
+        },
+        {
+          "type": "para",
+          "text": "With Polymestor, the king of this country?",
+          "lineStart": 722
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 723
+        },
+        {
+          "type": "para",
+          "text": "Hither was he sent in charge of gold, most bitter trust!",
+          "lineStart": 724
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 725
+        },
+        {
+          "type": "para",
+          "text": "By whom was he slain? what death o'ertook him?",
+          "lineStart": 726
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 727
+        },
+        {
+          "type": "para",
+          "text": "By whom but by this man? His Thracian host slew him.",
+          "lineStart": 728
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 729
+        },
+        {
+          "type": "para",
+          "text": "The wretch! could he have been so eager for the treasure?",
+          "lineStart": 730
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 731
+        },
+        {
+          "type": "para",
+          "text": "Even so; soon as ever he heard of the Phrygians' disaster.",
+          "lineStart": 732
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 733
+        },
+        {
+          "type": "para",
+          "text": "Where didst find him? or did some one bring his corpse?",
+          "lineStart": 734
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 735
+        },
+        {
+          "type": "para",
+          "text": "This maid, who chanced upon it on the sea-shore.",
+          "lineStart": 736
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 737
+        },
+        {
+          "type": "para",
+          "text": "Was she seeking it, or bent on other tasks?",
+          "lineStart": 738
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 739
+        },
+        {
+          "type": "para",
+          "text": "She had gone to fetch water from the sea to wash Polyxena.",
+          "lineStart": 740
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 741
+        },
+        {
+          "type": "para",
+          "text": "It seems then his host slew him and cast his body out to sea.",
+          "lineStart": 742
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 743
+        },
+        {
+          "type": "para",
+          "text": "Aye, for the waves to toss, after mangling him thus.",
+          "lineStart": 744
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 745
+        },
+        {
+          "type": "para",
+          "text": "Woe is thee for thy measureless troubles!",
+          "lineStart": 746
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 747
+        },
+        {
+          "type": "para",
+          "text": "I am ruined; no evil now is left, O Agamemnon.",
+          "lineStart": 748
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 749
+        },
+        {
+          "type": "para",
+          "text": "Look you! what woman was ever born to such misfortune?",
+          "lineStart": 750
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 751
+        },
+        {
+          "type": "para",
+          "text": "There is none, unless thou wouldst name misfortune herself. But hear my reason for throwing myself at thy knees. If my treatment seems to thee deserved, I will be content; but, if otherwise, help me to punish this most godless host, that hath wrought a deed most damned, fearless alike of gods in heaven or hell; who, though full oft he had shared my board and been counted first of all my guest-friends and after meeting with every kindness he could claim and receiving my consideration, slew my son, and bent though he was on murder, deigned not to bury him but cast his body forth to sea.",
+          "lineStart": 752
+        },
+        {
+          "type": "para",
+          "text": "I may be a slave and weak as well, but the gods are strong, and custom too which prevails o'er them, for by custom it is that we believe in them and set up bounds of right and wrong for our lives. Now if this principle, when referred to thee, is to be set at naught, and they are to escape punishment who murder guests or dare to plunder the temples of gods, then is all fairness in things human at an end. Deem this then a disgrace and show regard for me, have pity on me, and, like an artist standing back from his picture, look on me and closely scan my piteous state. I was once queen, but now I am thy slave; a happy mother once, but now childless and old alike, reft of city, utterly forlorn, the most wretched woman living. Ah! woe is me! whither wouldst thou withdraw thy steps from me? as AGAMEMNON is turning away My efforts then will be in vain, ah me! ah me! Why, oh! why do we mortals toil, as needs we must, and seek out all other sciences, but persuasion, the only real mistress of mankind, we take no furthur pains to master completely by offering to pay for the knowledge, so that any man might upon occasion convince his fellows as he pleased and gain his point as well? How shall anyone hereafter hope for prosperity? All those my sons are gone from me, and I, their mother, am led away into captivity to suffer shame, while yonder I see the smoke leaping up o'er my city. Further-though perhaps this were idly urged, to plead thy love, still will I put the case:-at thy side lies my daughter, Cassandra, the maid inspired, as the Phrygians call her. How then, king, wilt thou acknowledge those nights of rapture, or what return shall she my daughter or I her mother have for all the love she has lavished on her lord? For from darkness and the endearments of the night mortals reap by far their keenest joys. Hearken then; dost see this corpse? By doing him a service thou wilt do it to a kinsman of thy bride's. One thing only have I yet to urge. Oh! would I had a voice in arms, in hands, in hair and feet, placed there by the arts of Daedalus or some god, that all together they might with tears embrace thy knees, bringing a thousand pleas to bear on thee! O my lord and master, most glorious light of Hellas, listen, stretch forth a helping hand to this aged woman, for all she is a thing of naught; still do so. For 'tis ever a good man's duty to succour the right, and to punish evil-doers wherever found.",
+          "lineStart": 761
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 796
+        },
+        {
+          "type": "para",
+          "text": "'Tis strange how each extreme doth meet in human life! Custom determines even our natural ties, making the most bitter foes friends, and regarding as foes those who formerly were friends.",
+          "lineStart": 797
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 800
+        },
+        {
+          "type": "para",
+          "text": "Hecuba, I feel compassion for thee and thy son and thy ill-fortune, as well as for thy suppliant gesture, and I would gladly see yon impious host pay thee this forfeit for the sake of heaven and justice, could I but find some way to help thee without appearing to the army to have plotted the death of the Thracian king for Cassandra's sake. For on one point I am assailed by perplexity; the army count this man their friend, the dead their foe; that he is dear to thee is a matter apart, wherein the army has no share. Reflect on this; for though thou find'st me ready to share thy toil and quick to lend my aid, yet the risk of being reproached by the Achaeans makes me hesitate.",
+          "lineStart": 801
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 811
+        },
+        {
+          "type": "para",
+          "text": "Ah! there is not in the world a single man free; for he is either a slave to money or to fortune, or else the people in their thousands or the fear of public prosecution prevents him from following the dictates of his heart.",
+          "lineStart": 812
+        },
+        {
+          "type": "para",
+          "text": "But since thou art afraid, deferring too much to the rabble, I will rid thee of that fear. Thus; be privy to my plot if I devise mischief against this murderer, but refrain from any share in it. And if there break out among the Achaeans any uproar or attempt at rescue, when the Thracian is suffering his doom, check it, though without seeming to do so for my sake. For what remains, take heart; I will arrange everything well.",
+          "lineStart": 816
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 822
+        },
+        {
+          "type": "para",
+          "text": "How? what wilt thou do? wilt take a sword in thy old hand and slay the barbarian, or hast thou drugs or what to help thee? Who will take thy part? whence wilt thou procure friends?",
+          "lineStart": 823
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 826
+        },
+        {
+          "type": "para",
+          "text": "Sheltered beneath these tents is a host of Trojan women.",
+          "lineStart": 827
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 828
+        },
+        {
+          "type": "para",
+          "text": "Dost mean the captives, the booty of the Hellenes?",
+          "lineStart": 829
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 830
+        },
+        {
+          "type": "para",
+          "text": "With their help will I punish my murderous foe.",
+          "lineStart": 831
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 832
+        },
+        {
+          "type": "para",
+          "text": "How are women to master men?",
+          "lineStart": 833
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 834
+        },
+        {
+          "type": "para",
+          "text": "Numbers are a fearful thing, and joined to craft a desperate foe.",
+          "lineStart": 835
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 837
+        },
+        {
+          "type": "para",
+          "text": "True; still I have a mean opinion of the female race.",
+          "lineStart": 838
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 839
+        },
+        {
+          "type": "para",
+          "text": "What? did not women slay the sons of Aegyptus, and utterly clear Lemnos of men? But let it be even thus; put an end to our conference, and send this woman for me safely through the host. And do thou To servant draw near my Thracian friend and say, \"Hecuba, once queen of Ilium, summons thee, on thy own business no less than hers, thy children too, for they also must hear what she has to say.\" The servant goes out. Defer awhile, Agamemnon, the burial of Polyxena lately slain, that brother and sister may be laid on the same pyre and buried side by side, a double cause of sorrow to their mother.",
+          "lineStart": 840
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 852
+        },
+        {
+          "type": "para",
+          "text": "So shall it be; yet had the host been able to sail, I could not have granted thee this boon; but, as it is, since the god sends forth no favouring breeze, we needs must abide, seeing, as we do, that sailing cannot be. Good luck to thee! for this is the interest alike of citizen and state, that the wrong-doer be punished and the good man prosper. AGAMEMNON departs as HECUBA withdraws into the tent.",
+          "lineStart": 853
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 859
+        },
+        {
+          "type": "para",
+          "text": "singing strophe 1 No more, my native Ilium, shalt thou be counted among the towns ne'er sacked; so thick a cloud of Hellene troops is settling all around, wasting thee with the spear; shorn art thou of thy coronal of towers, and fouled most piteously with filthy soot; no more, ah me! shall tread thy streets. antistrophe 'Twas in the middle of the night my ruin came, in the hour when sleep steals sweetly o'er the eyes after the feast is done. My husband, the music o'er, and the sacrifice that sets the dance afoot now ended, was lying in our bridal-chamber, his spear hung on a peg; with never a thought of the sailor-throng encamped upon the Trojan shores; strophe and I was braiding my tresses 'neath a tight-drawn snood before my golden mirror's countless rays, that I might lay me down to rest; when lo! through the city rose a din, and a cry went ringing down the streets of Troy, \"Ye sons of Hellas, when, oh! when will ye sack the citadel of Ilium, and seek your homes?\" antistrophe 2 Up sprang I from my bed, with only a mantle about me, like Dorian maid, and sought in vain, ah me! to station myself at the holy hearth of Artemis; for, after seeing my husband slain, I was hurried away o'er the broad sea; with many a backward look at my city, when the ship began her homeward voyage and parted me from Ilium's strand; till alas! for very grief I fainted,",
+          "lineStart": 860
+        },
+        {
+          "type": "para",
+          "text": "epode cursing Helen the sister of the Dioscuri, and Paris the baleful shepherd of Ida; for 'twas their marriage, which was no marriage but a curse by some demon sent, that robbed me of my country and drove me from my home. Oh! may the sea's salt flood neer carry her home again; and may she never set foot in her father's halls! HECUBA comes out of the tent as POLYMESTOR, his children and guards enter.",
+          "lineStart": 883
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 891
+        },
+        {
+          "type": "para",
+          "text": "My dear friend Priam, and thou no less, Hecuba, I weep to see thee and thy city thus, and thy daughter lately slain. Alas! there is naught to be relied on; fair fame is insecure, nor is there any guarantee that weal will not be turned to woe. For the gods confound our fortunes, tossing them to and fro, and introduce confusion, that our perplexity may make us worship them. But what boots it to bemoan these things, when it brings one no nearer to heading the trouble? If thou art blaming me at all for my absence, stay a moment; I was away in the very heart of Thrace when thou wast brought hither; but on my return, just as I was starting from my home for the same purpose, thy maid fell in with me, and gave me thy message, which brought me here at once.",
+          "lineStart": 892
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 903
+        },
+        {
+          "type": "para",
+          "text": "Polymestor, I am holden in such wretched plight that I blush to meet thine eye; for my present evil case makes me ashamed to face thee who didst see me in happier days, and I cannot look on thee with unfaltering gaze. Do not then think it ill-will on my part, Polymestor; there is another cause as well, I mean the custom which forbids women to meet men's gaze.",
+          "lineStart": 904
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 909
+        },
+        {
+          "type": "para",
+          "text": "No wonder, surely. But what need hast thou of me? Why didst send for me to come hither from my house?",
+          "lineStart": 910
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 912
+        },
+        {
+          "type": "para",
+          "text": "I wish to tell thee and thy children a private matter of my own; prithee, bid thy attendants withdraw from the tent.",
+          "lineStart": 913
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 915
+        },
+        {
+          "type": "para",
+          "text": "to his Attendants Retire; this desert spot is safe enough. The guards go out; to HECUBA Thou art my friend, and this Achaean host is well-disposed to me. But thou must tell me how prosperity is to succour its unlucky friends; for ready am I to do so.",
+          "lineStart": 916
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 922
+        },
+        {
+          "type": "para",
+          "text": "First tell me of the child Polydorus, whom thou art keeping in thy halls, received from me and his father; is he yet alive? The rest will I ask thee after that.",
+          "lineStart": 923
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 926
+        },
+        {
+          "type": "para",
+          "text": "Yes, thou still hast a share in fortune there.",
+          "lineStart": 927
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 928
+        },
+        {
+          "type": "para",
+          "text": "Well said, dear friend! how worthy of thee!",
+          "lineStart": 929
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 930
+        },
+        {
+          "type": "para",
+          "text": "What next wouldst learn of me?",
+          "lineStart": 931
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 932
+        },
+        {
+          "type": "para",
+          "text": "Hath he any recollection of me his mother?",
+          "lineStart": 933
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 934
+        },
+        {
+          "type": "para",
+          "text": "Aye, he was longing to steal away hither to thee.",
+          "lineStart": 935
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 936
+        },
+        {
+          "type": "para",
+          "text": "Is the gold safe, which he brought with him from Troy?",
+          "lineStart": 937
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 938
+        },
+        {
+          "type": "para",
+          "text": "Safe under lock and key in my halls.",
+          "lineStart": 939
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 940
+        },
+        {
+          "type": "para",
+          "text": "There keep it, but covet not thy neighbour's goods.",
+          "lineStart": 941
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 942
+        },
+        {
+          "type": "para",
+          "text": "Not I; God grant me luck of what I have, lady!",
+          "lineStart": 943
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 944
+        },
+        {
+          "type": "para",
+          "text": "Dost know what I wish to say to thee and thy children?",
+          "lineStart": 945
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 946
+        },
+        {
+          "type": "para",
+          "text": "Not yet; thy words maybe will declare it.",
+          "lineStart": 947
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 948
+        },
+        {
+          "type": "para",
+          "text": "May it grow as dear to thee as thou now art to me!",
+          "lineStart": 949
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 950
+        },
+        {
+          "type": "para",
+          "text": "What is it that I and my children are to learn?",
+          "lineStart": 951
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 952
+        },
+        {
+          "type": "para",
+          "text": "There be ancient vaults filled full of gold by Priam's line.",
+          "lineStart": 953
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 954
+        },
+        {
+          "type": "para",
+          "text": "Is it this thou wouldst tell thy son?",
+          "lineStart": 955
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 956
+        },
+        {
+          "type": "para",
+          "text": "Yes, by thy lips, for thou art a righteous man.",
+          "lineStart": 957
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 958
+        },
+        {
+          "type": "para",
+          "text": "What need then of these children's presence?",
+          "lineStart": 959
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 960
+        },
+        {
+          "type": "para",
+          "text": "'Tis better they should know it, in case of thy death.",
+          "lineStart": 961
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 962
+        },
+        {
+          "type": "para",
+          "text": "True; 'tis also the wiser way.",
+          "lineStart": 963
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 964
+        },
+        {
+          "type": "para",
+          "text": "Well, dost thou know where stands the shrine of Trojan Athena?",
+          "lineStart": 965
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 966
+        },
+        {
+          "type": "para",
+          "text": "Is the gold there? what is there to mark it?",
+          "lineStart": 967
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 968
+        },
+        {
+          "type": "para",
+          "text": "A black rock rising above the ground.",
+          "lineStart": 969
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 970
+        },
+        {
+          "type": "para",
+          "text": "Is there aught else thou wouldst tell me about the place?",
+          "lineStart": 971
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 972
+        },
+        {
+          "type": "para",
+          "text": "I wish to keep safe the treasure I brought from Troy.",
+          "lineStart": 973
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 974
+        },
+        {
+          "type": "para",
+          "text": "Where can it be? inside thy dress, or hast thou it hidden?",
+          "lineStart": 975
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 976
+        },
+        {
+          "type": "para",
+          "text": "'Tis safe amid a heap of spoils within these tents.",
+          "lineStart": 977
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 978
+        },
+        {
+          "type": "para",
+          "text": "Where? This is the station built by the Achaeans to surround their fleet.",
+          "lineStart": 979
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 981
+        },
+        {
+          "type": "para",
+          "text": "The captive women have huts of their own.",
+          "lineStart": 982
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 983
+        },
+        {
+          "type": "para",
+          "text": "It is safe to enter? are there no men about?",
+          "lineStart": 984
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 985
+        },
+        {
+          "type": "para",
+          "text": "There are no Achaeans within; we are alone. Enter then the tent, for the Argives are eager to set sail from Troy for home; and, when thou hast accomplished all that is appointed thee, thou shalt return with thy children to that bourn where thou hast lodged my son. HECUBA leads POLYMESTOR and his children into the tent.",
+          "lineStart": 986
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 992
+        },
+        {
+          "type": "para",
+          "text": "chanting Not yet hast thou paid the penalty, but maybe thou yet wilt; like one who slips and falls into the surge with no haven near, so shalt thou lose thy own life for the life thou hast taken. For where the rights of justice and the law of heaven are one, there is ruin fraught with death and doom. Thy hopes of this journey shall cheat thee, for it hath led thee, unhappy wretch! to the halls of death; and to no warrior's hand shalt thou resign thy life.",
+          "lineStart": 993
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1001
+        },
+        {
+          "type": "para",
+          "text": "within the tent O horror! I am blinded of the light of my eyes, ah me!",
+          "lineStart": 1002
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1004
+        },
+        {
+          "type": "para",
+          "text": "Heard ye, friends, that Thracian's cry of woe?",
+          "lineStart": 1005
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1006
+        },
+        {
+          "type": "para",
+          "text": "within O horror! horror! my children! O the cruel blow.",
+          "lineStart": 1007
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1009
+        },
+        {
+          "type": "para",
+          "text": "Friends, new ills are brought to pass in yonder tent.",
+          "lineStart": 1010
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1011
+        },
+        {
+          "type": "para",
+          "text": "within Nay, ye shall never escape for all your hurried flight; for with my fist will I burst open the inmost recesses of this hall.",
+          "lineStart": 1012
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1015
+        },
+        {
+          "type": "para",
+          "text": "Hark! how he launches ponderous blows! Shall we force an entry? The crisis calls on us to aid Hecuba and the Trojan women. HECUBA enters, calling back into the tent.",
+          "lineStart": 1016
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 1019
+        },
+        {
+          "type": "para",
+          "text": "Strike on, spare not, burst the doors! thou shalt ne'er replace bright vision in thy eyes nor ever see thy children, whom I have slain, alive again.",
+          "lineStart": 1020
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1023
+        },
+        {
+          "type": "para",
+          "text": "What! hast thou foiled the Thracian, and is the stranger in thy power, mistress mine? is all thy threat now brought to pass?",
+          "lineStart": 1024
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 1026
+        },
+        {
+          "type": "para",
+          "text": "A moment, and thou shalt see him before the tent, his eyes put out, with random step advancing as a blind man must; yea, and the bodies of his two children whom I with my brave daughters of Troy did slay; he hath paid me his forfeit; look where he cometh from the tent. I will withdraw out of his path and stand aloof from the hot fury of this Thracian, my deadly foe. POLYMESTOR rushes out. Blood is streaming from his eyes.",
+          "lineStart": 1027
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1035
+        },
+        {
+          "type": "para",
+          "text": "chanting Woe is me! whither can I go, where halt, or whither turn? shall crawl upon my hands like a wild four-footed beast on their track? Which path shall I take first, this or that, eager as I am to clutch those Trojan murderesses that have destroyed me? Out upon ye, cursed daughters of Phrygia! to what corner have ye fled cowering before me? O sun-god, would thou couldst heal my bleeding orbs, ridding me of my blindness!",
+          "lineStart": 1036
+        },
+        {
+          "type": "para",
+          "text": "Ha! hush! I catch their stealthy footsteps here. Where can I dart on them and gorge me on their flesh and bones, making for myself wild beasts' meal, exacting vengeance in requital of their outrage on me? Ah, woe is me! whither am I rushing, leaving my babes unguarded for hell-hounds to mangle, to be murdered and ruthlessly cast forth upon the hills, a feast of blood for dogs? Where shall I stay or turn my steps? where rest? like a ship that lies anchored at sea, so gathering close my linen robe I rush to that chamber of death, to guard my babes.",
+          "lineStart": 1043
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1051
+        },
+        {
+          "type": "para",
+          "text": "Woe is thee! what grievous outrage hath been wreaked on thee! fearful penalty for thy foul deed hath the deity imposed, whoe'er he is whose hand is heavy upon thee.",
+          "lineStart": 1052
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1055
+        },
+        {
+          "type": "para",
+          "text": "chanting Woe is me! Ho! my Thracian spearmen, clad in mail, a race of knights whom Ares doth inspire! Ho! Achaeans! sons of Atreus ho! to you I loudly call; come hither, in God's name come! Doth any hearken, or will no man help me? Why do ye delay? Women, captive women have destroyed me. A fearful fate is mine; ah me my hideous outrage! Whither can I turn or go? Shall I take wings and soar aloft to the mansions of the sky, where Orion and Sirius dart from their eyes a flash as of fire, or shall I, in my misery, plunge to Hades' murky flood?",
+          "lineStart": 1056
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1065
+        },
+        {
+          "type": "para",
+          "text": "'Tis a venial sin, when a man, suffering from evils too heavy to bear, rids himself of a wretched existence. AGAMEMNON and his retinue enter.",
+          "lineStart": 1066
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1069
+        },
+        {
+          "type": "para",
+          "text": "Hearing a cry I am come hither; for Echo, child of the mountain-rock, hath sent her voice loud-ringing through the host, causing a tumult. Had I not known that Troy's towers were levelled by the might of Hellas, this uproar had caused no slight terror.",
+          "lineStart": 1070
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1074
+        },
+        {
+          "type": "para",
+          "text": "Best of friends! for by thy voice I know thee, Agamemnon, dost see my piteous state?",
+          "lineStart": 1075
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1077
+        },
+        {
+          "type": "para",
+          "text": "What! hapless Polymestor, who hath stricken thee? who hath reft thine eves of sight, staining the pupils with blood? who hath slain these children? whoe'er he was, fierce must have been his wrath against thee and thy children.",
+          "lineStart": 1078
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1082
+        },
+        {
+          "type": "para",
+          "text": "Hecuba, helped by the captive women, hath destroyed me; no! not destroyed, far worse than that.",
+          "lineStart": 1083
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1085
+        },
+        {
+          "type": "para",
+          "text": "addressing HECUBA What hast thou to say? Was it thou that didst this deed, as he avers? thou, Hecuba, that hast ventured on this inconceivable daring?",
+          "lineStart": 1086
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1089
+        },
+        {
+          "type": "para",
+          "text": "Ha! what is that? is she somewhere near? show me, tell me where, that I may grip her in my hands and rend her limb from limb, bespattering her with gore.",
+          "lineStart": 1090
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1093
+        },
+        {
+          "type": "para",
+          "text": "Ho! madman, what wouldst thou?",
+          "lineStart": 1094
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1095
+        },
+        {
+          "type": "para",
+          "text": "By heaven I entreat thee, let me vent on her the fury of my arm.",
+          "lineStart": 1096
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1098
+        },
+        {
+          "type": "para",
+          "text": "Hold! banish that savage spirit from thy heart and plead thy cause, that after hearing thee and her in turn I may fairly decide what reason there is for thy present sufferings.",
+          "lineStart": 1099
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1102
+        },
+        {
+          "type": "para",
+          "text": "I will tell my tale. There was a son of Priam, Polydorus, the youngest, a child by Hecuba, whom his father Priam sent to me from Troy to bring up in my halls, suspecting no doubt the fall of Troy. Him I slew; but hear my reason for so doing, to show how cleverly and wisely I had planned. My fear was that if that child were left to be thy enemy, he would re-people Troy and settle it afresh; and the Achaeans, knowing that a son of Priam survived, might bring another expedition against the Phrygian land and harry and lay waste these plains of Thrace hereafter, for the neighbours of Troy to experience the very troubles we were lately suffering, O king. Now Hecuba, having discovered the death of her son, brought me hither on this pretext, saying she would tell me of hidden treasure stored up in Ilium by the race of Priam; and she led me apart with my children into the tent, that none but I might hear her news. So I sat me down on a couch in their midst to rest; for there were many of the Trojan maidens seated there, some on my right hand, some on my left, as it had been beside a friend; and they were praising the weaving of our Thracian handiwork, looking at this robe as they held it up to the light; meantime others examined my Thracian spear and so stripped me of the protection of both. And those that were young mothers were dandling my children in their arms, with loud admiration, as they passed them on from hand to hand to remove them far from their father; and then after their smooth speeches wouldst thou believe it? in an instant snatching daggers from some secret place in their dress they stab my children; whilst others, like foes, seized me hand and foot; and if I tried to raise my head, anxious to help my babes, they would clutch me by the hair; while if I stirred my hands, I could do nothing, poor wretch! for the numbers of the women. At last they wrought a fearful deed, worse than what had gone before; for they took their brooches and stabbed the pupils of my hapless eyes, making them gush with blood, and then fled through the chambers; up I sprang like a wild beast in pursuit of the shameless murderesses, searching along each wall with hunter's care, dealing buffets, spreading ruin. This then is what I have suffered because of my zeal for thee, O Agamemnon, for slaying an enemy of thine. But to spare thee a lengthy speech; if any of the men of former times have spoken ill of women, if any doth so now, or shall do so hereafter, all this in one short sentence will say; for neither land or sea produces a race so pestilent, as whosoever hath had to do with them knows full well.",
+          "lineStart": 1103
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1141
+        },
+        {
+          "type": "para",
+          "text": "Curb thy bold tongue, and do not, because of thy own woes, thus embrace the whole race of women in one reproach; for though some of us, and those a numerous class, deserve to be disliked, there are others amongst us who rank naturally amongst the good.",
+          "lineStart": 1142
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 1146
+        },
+        {
+          "type": "para",
+          "text": "Never ought words to have outweighed deeds in this world, Agamemnon. No! if a man's deeds had been good, so should his words have been; if, on the other hand, evil, his words should have betrayed their unsoundness, instead of its being possible at times to give a fair complexion to injustice. There are, 'tis true, clever persons, who have made a science of this, but their cleverness cannot last for ever; a miserable end awaits them; none ever yet escaped. This is a warning I give thee at the outset. Now will I turn to this fellow, and will give thee thy answer, thou who sayest it was to save Achaea double toil and for Agamemnon's sake that thou didst slay my son. Nay, villain, in the first place how could the barbarian race ever be friends with Hellas? Impossible, ever. Again, what interest hadst thou to further by thy zeal? was it to form some marriage, or on the score of kin, or, prithee, why? or was it likely that they would sail hither again and destroy thy country's crops? Whom dost thou expect to persuade into believing that? Wouldst thou but speak the truth, it was the gold that slew my son, and thy greedy spirit. Now tell me this; why, when Troy was victorious, when her ramparts still stood round her, when Priam was alive, and Hector's warring prospered, why didst thou not, if thou wert really minded to do Agamemnon a service, then slay the child, for thou hadst him in thy palace 'neath thy care, or bring him with thee alive to the Argives? Instead of this, when our sun was set and the smoke of our city showed it was in the enemy's power, thou didst murder the guest who had come to thy hearth. Furthermore, to prove thy villainly, hear this; if thou wert really a friend to those Achaeans, thou shouldst have brought the gold, which thou sayst thou art keeping not for thyself but for Agamemnon, and given it to them, for they were in need and had endured a long exile from their native land. Whereas not even now canst thou bring thyself to part with it, but persistest in keeping it in thy palace. Again, hadst thou kept my son safe and sound, as thy duty was, a fair renown would have been thy reward, for it is in trouble's hour that the good most clearly show their friendship; though prosperity of itself in every case finds friends. Wert thou in need of money and he prosperous, that son of mine would have been as a mighty treasure for thee to draw upon; but now thou hast him no longer to be thy friend, and the benefit of the gold is gone from thee, thy children too are dead, and thyself art in this sorry plight.",
+          "lineStart": 1147
+        },
+        {
+          "type": "para",
+          "text": "To thee, Agamemnon, I say, if thou help this man, thou wilt show thy worthlessness; for thou wilt be serving one devoid of honour or piety, a stranger to the claims of good faith, a wicked host; while I shall say thou delightest in evil-doers, being such an one thyself; but I rail not at my masters.",
+          "lineStart": 1183
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1188
+        },
+        {
+          "type": "para",
+          "text": "Look you! how a good cause ever affords men an opening for a good speech.",
+          "lineStart": 1189
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1191
+        },
+        {
+          "type": "para",
+          "text": "To be judge in a stranger's troubles goes much against my grain, but still I must; yea, for to take this matter in hand and then put it from me is a shameful course. My opinion, that thou mayst know it, is that it was not for the sake of the Achaeans or me that thou didst slay thy guest, but to keep that gold in thy own house. In thy trouble thou makest a case in thy own interests. Maybe amongst you 'tis a light thing to murder guests, but with us in Hellas 'tis a disgrace. How can I escape reproach if I judge the not guilty? I cannot do it. Nay, since thou didst dare thy horrid crime, endure as well its painful consequence.",
+          "lineStart": 1192
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1201
+        },
+        {
+          "type": "para",
+          "text": "Woe is me! worsted by a woman and a slave, I am, it seems, to suffer by unworthy hands.",
+          "lineStart": 1202
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 1204
+        },
+        {
+          "type": "para",
+          "text": "Is it not just for thy atrocious crime?",
+          "lineStart": 1205
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1206
+        },
+        {
+          "type": "para",
+          "text": "Ah, my children! ah, my blinded eyes! woe is me!",
+          "lineStart": 1207
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 1208
+        },
+        {
+          "type": "para",
+          "text": "Dost thou grieve? what of me? thinkst thou I grieve not for my son?",
+          "lineStart": 1209
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1211
+        },
+        {
+          "type": "para",
+          "text": "Thou wicked wretch! thy delight is in mocking me.",
+          "lineStart": 1212
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 1213
+        },
+        {
+          "type": "para",
+          "text": "I am avenged on thee; have I not cause for joy?",
+          "lineStart": 1214
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1215
+        },
+        {
+          "type": "para",
+          "text": "The joy will soon cease, in the day when ocean's flood-",
+          "lineStart": 1216
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 1217
+        },
+        {
+          "type": "para",
+          "text": "Shall convey me to the shores of Hellas?",
+          "lineStart": 1218
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1219
+        },
+        {
+          "type": "para",
+          "text": "Nay, but close o'er thee when thou fallest from the masthead.",
+          "lineStart": 1220
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 1221
+        },
+        {
+          "type": "para",
+          "text": "Who will force me to take the leap?",
+          "lineStart": 1222
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1223
+        },
+        {
+          "type": "para",
+          "text": "Of thy own accord wilt thou climb the ship's mast.",
+          "lineStart": 1224
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 1225
+        },
+        {
+          "type": "para",
+          "text": "With wings upon my back, or by what means?",
+          "lineStart": 1226
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1227
+        },
+        {
+          "type": "para",
+          "text": "Thou wilt become a dog with bloodshot eyes.",
+          "lineStart": 1228
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 1229
+        },
+        {
+          "type": "para",
+          "text": "How knowest thou of my transformation?",
+          "lineStart": 1230
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1231
+        },
+        {
+          "type": "para",
+          "text": "Dionysus, our Thracian prophet, told me so.",
+          "lineStart": 1232
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 1233
+        },
+        {
+          "type": "para",
+          "text": "And did he tell thee nothing of thy present trouble?",
+          "lineStart": 1234
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1235
+        },
+        {
+          "type": "para",
+          "text": "No; else hadst thou never caught me thus by guile.",
+          "lineStart": 1236
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 1237
+        },
+        {
+          "type": "para",
+          "text": "Shall I die or live, and so complete my life on earth?",
+          "lineStart": 1238
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1239
+        },
+        {
+          "type": "para",
+          "text": "Die shalt thou; and to thy tomb shall be given a name-",
+          "lineStart": 1240
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 1241
+        },
+        {
+          "type": "para",
+          "text": "Recalling my form, or what wilt thou tell me?",
+          "lineStart": 1242
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1243
+        },
+        {
+          "type": "para",
+          "text": "\"The hapless hound's grave,\" a mark for mariners.\"",
+          "lineStart": 1244
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 1245
+        },
+        {
+          "type": "para",
+          "text": "'Tis naught to me, now that thou hast paid me forfeit.",
+          "lineStart": 1246
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1247
+        },
+        {
+          "type": "para",
+          "text": "Further, thy daughter Cassandra must die.",
+          "lineStart": 1248
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 1249
+        },
+        {
+          "type": "para",
+          "text": "I scorn the prophecy! I give it to thee to keep for thyself.",
+          "lineStart": 1250
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1251
+        },
+        {
+          "type": "para",
+          "text": "Her shall the wife of Agamemnon, grim keeper of his palace, slay.",
+          "lineStart": 1252
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HECUBA",
+          "lineStart": 1254
+        },
+        {
+          "type": "para",
+          "text": "Never may the daughter of Tyndareus do such a frantic deed!",
+          "lineStart": 1255
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1256
+        },
+        {
+          "type": "para",
+          "text": "And she shall slay this king as well, lifting high the axe.",
+          "lineStart": 1257
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1258
+        },
+        {
+          "type": "para",
+          "text": "Ha! sirrah, art thou mad? art so eager to find sorrow?",
+          "lineStart": 1259
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1260
+        },
+        {
+          "type": "para",
+          "text": "Kill me, for in Argos there awaits thee a murderous bath.",
+          "lineStart": 1261
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1262
+        },
+        {
+          "type": "para",
+          "text": "Ho! servants, hale him from my sight",
+          "lineStart": 1263
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1264
+        },
+        {
+          "type": "para",
+          "text": "Ha! my words gall thee?",
+          "lineStart": 1265
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1266
+        },
+        {
+          "type": "para",
+          "text": "Stop his mouth!",
+          "lineStart": 1267
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POLYMESTOR",
+          "lineStart": 1268
+        },
+        {
+          "type": "para",
+          "text": "BLOCK",
+          "lineStart": 1269
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 264,
+    "wordCount": 11653
+  }
+}

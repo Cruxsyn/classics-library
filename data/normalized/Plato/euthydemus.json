@@ -1,0 +1,1401 @@
+{
+  "id": "Plato/euthydemus",
+  "author": "Plato",
+  "authorKey": "Plato",
+  "title": "Euthydemus",
+  "translator": "Benjamin Jowett",
+  "language": "Greek",
+  "written": "380 BCE",
+  "sourceNote": null,
+  "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "ambiguous: 0.646 long unterminated interior lines, median line length 61.0, 0.214 explicit breaks; defaulted to prose",
+  "textModeStats": {
+    "lineCount": 1351,
+    "paragraphCount": 270,
+    "interiorLineCount": 1081,
+    "medianLineLength": 61.0,
+    "meanLineLength": 49.18652849740933,
+    "longInteriorLineRatio": 0.6827012025901943,
+    "unterminatedInteriorLineRatio": 0.696577243293247,
+    "longUnterminatedInteriorLineRatio": 0.6456984273820536,
+    "explicitBreakLineRatio": 0.21391561806069578,
+    "unmarkedLineRatio": 0.5869726128793487
+  },
+  "landingUrl": "https://classics.mit.edu/Plato/euthydemus.html",
+  "textUrls": [
+    "https://classics.mit.edu/Plato/euthydemus.html"
+  ],
+  "txtUrl": "https://classics.mit.edu/Plato/euthydemus.1b.txt",
+  "sections": [
+    {
+      "seq": 1,
+      "id": "euthydemus-euthydemus",
+      "heading": "Euthydemus",
+      "partTitle": "Euthydemus",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Persons of the Dialogue",
+          "lineStart": 10
+        },
+        {
+          "type": "para",
+          "text": "SOCRATES, who is the narrator CRITO CLEINIAS EUTHYDEMUS DIONYSODORUS CTESIPPUS Scene The Lyceum.",
+          "lineStart": 11
+        },
+        {
+          "type": "para",
+          "text": "Crito. Who was the person, Socrates, with whom you were talking yesterday at the Lyceum? There was such a crowd around you that I could not get within hearing, but I caught a sight of him over their heads, and I made out, as I thought, that he was a stranger with whom you were talking: who was he?",
+          "lineStart": 18
+        },
+        {
+          "type": "para",
+          "text": "Socrates. There were two, Crito; which of them do you mean?",
+          "lineStart": 23
+        },
+        {
+          "type": "para",
+          "text": "Cri. The one whom I mean was seated second from you on the right-hand side. In the middle was Cleinias the young son of Axiochus, who has wonderfully grown; he is only about the age of my own Critobulus, but he is much forwarder and very good-looking: the other is thin and looks younger than he is.",
+          "lineStart": 25
+        },
+        {
+          "type": "para",
+          "text": "Soc. He whom you mean, Crito, is Euthydemus; and on my left hand there was his brother Dionysodorus, who also took part in the conversation.",
+          "lineStart": 30
+        },
+        {
+          "type": "para",
+          "text": "Cri. Neither of them are known to me, Socrates; they are a new importation of Sophists, as I should imagine. Of what country are they, and what is their line of wisdom?",
+          "lineStart": 33
+        },
+        {
+          "type": "para",
+          "text": "Soc. As to their origin, I believe that they are natives of this part of the world, and have migrated from Chios to Thurii; they were driven out of Thurii, and have been living for many years past in these regions. As to their wisdom, about which you ask, Crito, they are wonderful-consummate! I never knew what the true pancratiast was before; they are simply made up of fighting, not like the two Acarnanian brothers who fight with their bodies only, but this pair of heroes, besides being perfect in the use of their bodies, are invincible in every sort of warfare; for they are capital at fighting in armour, and will teach the art to any one who pays them; and also they are most skilful in legal warfare; they will plead themselves and teach others to speak and to compose speeches which will have an effect upon the courts. And this was only the beginning of their wisdom, but they have at last carried out the pancratiastic art to the very end, and have mastered the only mode of fighting which had been hitherto neglected by them; and now no one dares even to stand up against them: such is their skill in the war of words, that they can refute any proposition whether true or false. Now I am thinking, Crito, of placing myself in their hands; for they say that in a short time they can impart their skill to any one.",
+          "lineStart": 36
+        },
+        {
+          "type": "para",
+          "text": "Cri. But, Socrates, are you not too old? there may be reason to fear that.",
+          "lineStart": 55
+        },
+        {
+          "type": "para",
+          "text": "Soc. Certainly not, Crito; as I will prove to you, for I have the consolation of knowing that they began this art of disputation which I covet, quite, as I may say, in old age; last year, or the year before, they had none of their new wisdom. I am only apprehensive that I may bring the two strangers into disrepute, as I have done Connus the son of Metrobius, the harp-player, who is still my music-master; for when the boys who go to him see me going with them, they laugh at me and call him grandpapa's master. Now I should not like the strangers to experience similar treatment; the fear of ridicule may make them unwilling to receive me; and therefore, Crito, I shall try and persuade some old men to accompany me to them, as I persuaded them to go with me to Connus, and I hope that you will make one: and perhaps we had better take your sons as a bait; they will want to have them as pupils, and for the sake of them willing to receive us.",
+          "lineStart": 57
+        },
+        {
+          "type": "para",
+          "text": "Cri. I see no objection, Socrates, if you like; but first I wish that you would give me a description of their wisdom, that I may know beforehand what we are going to learn.",
+          "lineStart": 71
+        },
+        {
+          "type": "para",
+          "text": "Soc. In less than no time you shall hear; for I cannot say that I did not attend-I paid great attention to them, and I remember and will endeavour to repeat the whole story. Providentially I was sitting alone in the dressing-room of the Lyceum where you saw me, and was about to depart; when I was getting up I recognized the familiar divine sign: so I sat down again, and in a little while the two brothers Euthydemus and Dionysodorus came in, and several others with them, whom I believe to be their disciples, and they walked about in the covered court; they had not taken more than two or three turns when Cleinias entered, who, as you truly say, is very much improved: he was followed by a host of lovers, one of whom was Ctesippus the Paeanian, a well-bred youth, but also having the wildness of youth. Cleinias saw me from the entrance as I was sitting alone, and at once came and sat down on the right hand of me, as you describe; and Dionysodorus and Euthydemus, when they saw him, at first stopped and talked with one another, now and then glancing at us, for I particularly watched them; and then Euthydemus came and sat down by the youth, and the other by me on the left hand; the rest anywhere. I saluted the brothers, whom I had not seen for a long time; and then I said to Cleinias: Here are two wise men, Euthydemus and Dionysodorus, Cleinias, wise not in a small but in a large way of wisdom, for they know all about war,-all that a good general ought to know about the array and command of an army, and the whole art of fighting in armour: and they know about law too, and can teach a man how to use the weapons of the courts when he is injured.",
+          "lineStart": 74
+        },
+        {
+          "type": "para",
+          "text": "They heard me say this, but only despised me. I observed that they looked at one another, and both of them laughed; and then Euthydemus Those, Socrates, are matters which we no longer pursue seriously; to us they are secondary occupations.",
+          "lineStart": 98
+        },
+        {
+          "type": "para",
+          "text": "Indeed, I said, if such occupations are regarded by you as secondary, what must the principal one be; tell me, I beseech you, what that noble study is?",
+          "lineStart": 102
+        },
+        {
+          "type": "para",
+          "text": "The teaching of virtue, Socrates, he replied, is our principal occupation; and we believe that we can impart it better and quicker than any man.",
+          "lineStart": 105
+        },
+        {
+          "type": "para",
+          "text": "My God! I said, and where did you learn that? I always thought, as I was saying just now, that your chief accomplishment was the art of fighting in armour; and I used to say as much of you, for I remember that you professed this when you were here before. But now if you really have the other knowledge, O forgive me: I address you as I would superior beings, and ask you to pardon the impiety of my former expressions. But are you quite sure about this, Dionysodorus and Euthydemus? the promise is so vast, that a feeling of incredulity steals over me.",
+          "lineStart": 108
+        },
+        {
+          "type": "para",
+          "text": "You may take our word, Socrates, for the fact. Then I think you happier in having such a treasure than the great king is in the possession of his kingdom. And please to tell me whether you intend to exhibit your wisdom; or what will you do?",
+          "lineStart": 116
+        },
+        {
+          "type": "para",
+          "text": "That is why we have come hither, Socrates; and our purpose is not only to exhibit, but also to teach any one who likes to learn.",
+          "lineStart": 120
+        },
+        {
+          "type": "para",
+          "text": "But I can promise you, I said, that every unvirtuous person will want to learn. I shall be the first; and there is the youth Cleinias, and Ctesippus: and here are several others, I said, pointing to the lovers of Cleinias, who were beginning to gather round us. Now Ctesippus was sitting at some distance from Cleinias; and when Euthydemus leaned forward in talking with me, he was prevented from seeing Cleinias, who was between us; and so, partly because he wanted to look at his love, and also because he was interested, he jumped up and stood opposite to us: and all the other admirers of Cleinias, as well as the disciples of Euthydemus and Dionysodorus, followed his example. And these were the persons whom I showed to Euthydemus, telling him that they were all eager to learn: to which Ctesippus and all of them with one voice vehemently assented, and bid him exhibit the power of his wisdom. Then I said: O Euthydemus and Dionysodorus, I earnestly request you to do myself and the company the favour to exhibit. There may be some trouble in giving the whole exhibition; but tell me one thing,-can you make a good man of him only who is already convinced that he ought to learn of you, or of him also who is not convinced, either because he imagines that virtue is a thing which cannot be taught at all, or that you are not the teachers of it? Has your art power to persuade him, who is of the latter temper of mind, that virtue can be taught; and that you are the men from whom he will best learn it?",
+          "lineStart": 123
+        },
+        {
+          "type": "para",
+          "text": "Certainly, Socrates, said Dionysodorus; our art will do both. And you and your brother, Dionysodorus, I said, of all men who are now living are the most likely to stimulate him to philosophy and to the study of virtue?",
+          "lineStart": 144
+        },
+        {
+          "type": "para",
+          "text": "Yes, Socrates, I rather think that we are. Then I wish that you would be so good as to defer the other part of the exhibition, and only try to persuade the youth whom you see here that he ought to be a philosopher and study virtue. Exhibit that, and you will confer a great favour on me and on every one present; for the fact is I and all of us are extremely anxious that he should become truly good. His name is Cleinias, and he is the son of Axiochus, and grandson of the old Alcibiades, cousin of the Alcibiades that now is. He is quite young, and we are naturally afraid that some one may get the start of us, and turn his mind in a wrong direction, and he may be ruined. Your visit, therefore, is most happily timed; and I hope that you will make a trial of the young man, and converse with him in our presence, if you have no objection.",
+          "lineStart": 149
+        },
+        {
+          "type": "para",
+          "text": "These were pretty nearly the expressions which I used; and Euthydemus, in a manly and at the same time encouraging tone, replied: There can be no objection, Socrates, if the young man is only willing to answer questions.",
+          "lineStart": 162
+        },
+        {
+          "type": "para",
+          "text": "He is quite accustomed to do so, I replied; for his friends often come and ask him questions and argue with him; and therefore he is quite at home in answering.",
+          "lineStart": 166
+        },
+        {
+          "type": "para",
+          "text": "What followed, Crito, how can I rightly narrate? For not slight is the task of rehearsing infinite wisdom, and therefore, like the poets, I ought to commence my relation with an invocation to Memory and the Muses. Now Euthydemus, if I remember rightly, began nearly as follows: O Cleinias, are those who learn the wise or the ignorant?",
+          "lineStart": 169
+        },
+        {
+          "type": "para",
+          "text": "The youth, overpowered by the question blushed, and in his perplexity looked at me for help; and I, knowing that he was disconcerted, said: Take courage, Cleinias, and answer like a man whichever you think; for my belief is that you will derive the greatest benefit from their questions.",
+          "lineStart": 174
+        },
+        {
+          "type": "para",
+          "text": "Whichever he answers, said Dionysodorus, leaning forward so as to catch my ear, his face beaming with laughter, I prophesy that he will be refuted, Socrates.",
+          "lineStart": 179
+        },
+        {
+          "type": "para",
+          "text": "While he was speaking to me, Cleinias gave his answer: and therefore I had no time to warn him of the predicament in which he was placed, and he answered that those who learned were the wise.",
+          "lineStart": 182
+        },
+        {
+          "type": "para",
+          "text": "Euthydemus proceeded: There are some whom you would call teachers, are there not?",
+          "lineStart": 185
+        },
+        {
+          "type": "para",
+          "text": "The boy assented. And they are the teachers of those who learn-the grammar-master and the lyre master used to teach you and other boys; and you were the learners?",
+          "lineStart": 187
+        },
+        {
+          "type": "para",
+          "text": "Yes. And when you were learners you did not as yet know the things which you were learning?",
+          "lineStart": 191
+        },
+        {
+          "type": "para",
+          "text": "No, he said. And were you wise then? No, indeed, he said. But if you were not wise you were unlearned? Certainly. You then, learning what you did not know, were unlearned when you were learning?",
+          "lineStart": 194
+        },
+        {
+          "type": "para",
+          "text": "The youth nodded assent. Then the unlearned learn, and not the wise, Cleinias, as you imagine.",
+          "lineStart": 201
+        },
+        {
+          "type": "para",
+          "text": "At these words the followers of Euthydemus, of whom I spoke, like a chorus at the bidding of their director, laughed and cheered. Then, before the youth had time to recover his breath, Dionysodorus cleverly took him in hand, and said: Yes, Cleinias; and when the grammar master dictated anything to you, were they the wise boys or the unlearned who learned the dictation?",
+          "lineStart": 204
+        },
+        {
+          "type": "para",
+          "text": "The wise, replied Cleinias. Then after all the wise are the learners and not the unlearned; and your last answer to Euthydemus was wrong.",
+          "lineStart": 210
+        },
+        {
+          "type": "para",
+          "text": "Then once more the admirers of the two heroes, in an ecstasy at their wisdom, gave vent to another peal of laughter, while the rest of us were silent and amazed. Euthydemus, observing this, determined to persevere with the youth; and in order to heighten the effect went on asking another similar question, which might be compared to the double turn of an expert dancer. Do those, said he, who learn, learn what they know, or what they do not know?",
+          "lineStart": 213
+        },
+        {
+          "type": "para",
+          "text": "Again Dionysodorus whispered to me: That, Socrates, is just another of the same sort.",
+          "lineStart": 220
+        },
+        {
+          "type": "para",
+          "text": "Good heavens, I said; and your last question was so good! Like all our other questions, Socrates, he replied-inevitable. I see the reason, I said, why you are in such reputation among your disciples.",
+          "lineStart": 222
+        },
+        {
+          "type": "para",
+          "text": "Meanwhile Cleinias had answered Euthydemus that those who learned learn what they do not know; and he put him through a series of questions the same as before.",
+          "lineStart": 227
+        },
+        {
+          "type": "para",
+          "text": "Do you not know letters? He assented. All letters? Yes. But when the teacher dictates to you, does he not dictate letters? To this also he assented. Then if you know all letters, he dictates that which you know? This again was admitted by him. Then, said the other, you do not learn that which he dictates; but he only who does not know letters learns?",
+          "lineStart": 230
+        },
+        {
+          "type": "para",
+          "text": "Nay, said Cleinias; but I do learn. Then, said he, you learn what you know, if you know all the letters? He admitted that. Then, he said, you were wrong in your answer. The word was hardly out of his mouth when Dionysodorus took up the argument, like a ball which he caught, and had another throw at the youth. Cleinias, he said, Euthydemus is deceiving you. For tell me now, is not learning acquiring knowledge of that which one learns?",
+          "lineStart": 242
+        },
+        {
+          "type": "para",
+          "text": "Cleinias assented. And knowing is having knowledge at the time? He agreed. And not knowing is not having knowledge at the time? He admitted that. And are those who acquire those who have or have not a thing? Those who have not. And have you not admitted that those who do not know are of the number of those who have not?",
+          "lineStart": 251
+        },
+        {
+          "type": "para",
+          "text": "He nodded assent. Then those who learn are of the class of those who acquire, and not of those who have?",
+          "lineStart": 261
+        },
+        {
+          "type": "para",
+          "text": "He agreed. Then, Cleinias, he said, those who do not know learn, and not those who know.",
+          "lineStart": 264
+        },
+        {
+          "type": "para",
+          "text": "Euthydemus was proceeding to give the youth a third fall; but I knew that he was in deep water, and therefore, as I wanted to give him a respite lest he should be disheartened, I said to him consolingly: You must not be surprised, Cleinias, at the singularity of their mode of speech: this I say because you may not understand what the two strangers are doing with you; they are only initiating you after the manner of the Corybantes in the mysteries; and this answers to the enthronement, which, if you have ever been initiated, is, as you will know, accompanied by dancing and sport; and now they are just prancing and dancing about you, and will next proceed to initiate you; imagine then that you have gone through the first part of the sophistical ritual, which, as Prodicus says, begins with initiation into the correct use of terms. The two foreign gentlemen, perceiving that you did not know, wanted to explain to you that the word \"to learn\" has two meanings, and is used, first, in the sense of acquiring knowledge of some matter of which you previously have no knowledge, and also, when you have the knowledge, in the sense of reviewing this matter, whether something done or spoken by the light of this newly-acquired knowledge; the latter is generally called \"knowing\" rather than \"learning,\" but the word \"learning\" is also used; and you did not see, as they explained to you, that the term is employed of two opposite sorts of men, of those who know, and of those who do not know. There was a similar trick in the second question, when they asked you whether men learn what they know or what they do not know. These parts of learning are not serious, and therefore I say that the gentlemen are not serious, but are only playing with you. For if a man had all that sort of knowledge that ever was, he would not be at all the wiser; he would only be able to play with men, tripping them up and over setting them with distinctions of words. He would be like a person who pulls away a stool from some one when he is about to sit down, and then laughs and makes merry at the sight of his friend overturned and laid on his back. And you must regard all that has hitherto passed between you and them as merely play. But in what is to follow I am certain that they will exhibit to you their serious purpose, and keep their promise (I will show them how); for they promised to give me a sample of the hortatory philosophy, but I suppose that they wanted to have a game with you first. And now, Euthydemus and Dionysodorus, I think that we have had enough of this. Will you let me see you explaining to the young man how he is to apply himself to the study of virtue and wisdom? And I will first show you what I conceive to be the nature of the task, and what sort of a discourse I desire to hear; and if I do this in a very inartistic and ridiculous manner, do not laugh at me, for I only venture to improvise before you because I am eager to hear your wisdom: and I must therefore ask you and your disciples to refrain from laughing. And now, O son of Axiochus, let me put a question to you: Do not all men desire happiness? And yet, perhaps, this is one of those ridiculous questions which I am afraid to ask, and which ought not to be asked by a sensible man: for what human being is there who does not desire happiness?",
+          "lineStart": 267
+        },
+        {
+          "type": "para",
+          "text": "There is no one, said Cleinias, who does not. Well, then, I said, since we all of us desire happiness, how can we be happy?-that is the next question. Shall we not be happy if we have many good things? And this, perhaps, is even a more simple question than the first, for there can be no doubt of the answer.",
+          "lineStart": 313
+        },
+        {
+          "type": "para",
+          "text": "He assented. And what things do we esteem good? No solemn sage is required to tell us this, which may be easily answered; for every one will say that wealth is a good.",
+          "lineStart": 318
+        },
+        {
+          "type": "para",
+          "text": "Certainly, he said. And are not health and beauty goods, and other personal gifts? He agreed. Can there be any doubt that good birth, and power, and honours in one's own land, are goods?",
+          "lineStart": 322
+        },
+        {
+          "type": "para",
+          "text": "He assented. And what other goods are there? I said. What do you say of temperance, justice, courage: do you not verily and indeed think, Cleinias, that we shall be more right in ranking them as goods than in not ranking them as goods? For a dispute might possibly arise about this. What then do you say?",
+          "lineStart": 328
+        },
+        {
+          "type": "para",
+          "text": "They are goods, said Cleinias. Very well, I said; and where in the company shall we find a place for wisdom-among the goods or not?",
+          "lineStart": 334
+        },
+        {
+          "type": "para",
+          "text": "Among the goods. And now, I said, think whether we have left out any considerable goods.",
+          "lineStart": 337
+        },
+        {
+          "type": "para",
+          "text": "I do not think that we have, said Cleinias. Upon recollection, I said, indeed I am afraid that we have left out the greatest of them all.",
+          "lineStart": 340
+        },
+        {
+          "type": "para",
+          "text": "What is that? he asked. Fortune, Cleinias, I replied; which all, even the most foolish, admit to be the greatest of goods.",
+          "lineStart": 343
+        },
+        {
+          "type": "para",
+          "text": "True, he said. On second thoughts, I added, how narrowly, O son of Axiochus, have you and I escaped making a laughing-stock of ourselves to the strangers.",
+          "lineStart": 346
+        },
+        {
+          "type": "para",
+          "text": "Why do you say so? Why, because we have already spoken of good-fortune, and are but repeating ourselves.",
+          "lineStart": 350
+        },
+        {
+          "type": "para",
+          "text": "What do you mean? I mean that there is something ridiculous in again putting forward good-fortune, which has a place in the list already, and saying the same thing twice over.",
+          "lineStart": 353
+        },
+        {
+          "type": "para",
+          "text": "He asked what was the meaning of this, and I replied: Surely wisdom is good-fortune; even a child may know that.",
+          "lineStart": 357
+        },
+        {
+          "type": "para",
+          "text": "The simple-minded youth was amazed; and, observing his surprise, I said to him: Do you not know, Cleinias, that flute-players are most fortunate and successful in performing on the flute?",
+          "lineStart": 359
+        },
+        {
+          "type": "para",
+          "text": "He assented. And are not the scribes most fortunate in writing and reading letters?",
+          "lineStart": 362
+        },
+        {
+          "type": "para",
+          "text": "Certainly. Amid the dangers of the sea, again, are any more fortunate on the whole than wise pilots?",
+          "lineStart": 365
+        },
+        {
+          "type": "para",
+          "text": "None, certainly. And if you were engaged in war, in whose company would you rather take the risk-in company with a wise general, or with a foolish one?",
+          "lineStart": 368
+        },
+        {
+          "type": "para",
+          "text": "With a wise one. And if you were ill, whom would you rather have as a companion in a dangerous illness-a wise physician, or an ignorant one?",
+          "lineStart": 372
+        },
+        {
+          "type": "para",
+          "text": "A wise one. You think, I said, that to act with a wise man is more fortunate than to act with an ignorant one?",
+          "lineStart": 375
+        },
+        {
+          "type": "para",
+          "text": "He assented. Then wisdom always makes men fortunate: for by wisdom no man would ever err, and therefore he must act rightly and succeed, or his wisdom would be wisdom no longer.",
+          "lineStart": 378
+        },
+        {
+          "type": "para",
+          "text": "We contrived at last, somehow or other, to agree in a general conclusion, that he who had wisdom had no need of fortune. I then recalled to his mind the previous state of the question. You remember, I said, our making the admission that we should be happy and fortunate if many good things were present with us?",
+          "lineStart": 382
+        },
+        {
+          "type": "para",
+          "text": "He assented. And should we be happy by reason of the presence of good things, if they profited us not, or if they profited us?",
+          "lineStart": 387
+        },
+        {
+          "type": "para",
+          "text": "If they profited us, he said. And would they profit us, if we only had them and did not use them? For example, if we had a great deal of food and did not eat, or a great deal of drink and did not drink, should we be profited?",
+          "lineStart": 390
+        },
+        {
+          "type": "para",
+          "text": "Certainly not, he said. Or would an artisan, who had all the implements necessary for his work, and did not use them, be any the better for the possession of them? For example, would a carpenter be any the better for having all his tools and plenty of wood, if he never worked?",
+          "lineStart": 394
+        },
+        {
+          "type": "para",
+          "text": "Certainly not, he said. And if a person had wealth and all the goods of which we were just now speaking, and did not use them, would he be happy because he possessed them?",
+          "lineStart": 399
+        },
+        {
+          "type": "para",
+          "text": "No indeed, Socrates. Then, I said, a man who would be happy must not only have the good things, but he must also use them; there is no advantage in merely having them?",
+          "lineStart": 403
+        },
+        {
+          "type": "para",
+          "text": "True. Well, Cleinias, but if you have the use as well as the possession of good things, is that sufficient to confer happiness?",
+          "lineStart": 407
+        },
+        {
+          "type": "para",
+          "text": "Yes, in my opinion. And may a person use them either rightly or wrongly? He must use them rightly. That is quite true, I said. And the wrong use of a thing is far worse than the non-use; for the one is an evil, and the other is neither a good nor an evil. You admit that?",
+          "lineStart": 410
+        },
+        {
+          "type": "para",
+          "text": "He assented. Now in the working and use of wood, is not that which gives the right use simply the knowledge of the carpenter?",
+          "lineStart": 416
+        },
+        {
+          "type": "para",
+          "text": "Nothing else, he said. And surely, in the manufacture of vessels, knowledge is that which gives the right way of making them?",
+          "lineStart": 419
+        },
+        {
+          "type": "para",
+          "text": "He agreed. And in the use of the goods of which we spoke at first-wealth and health and beauty, is not knowledge that which directs us to the right use of them, and regulates our practice about them?",
+          "lineStart": 422
+        },
+        {
+          "type": "para",
+          "text": "He assented. Then in every possession and every use of a thing, knowledge is that which gives a man not only good-fortune but success?",
+          "lineStart": 426
+        },
+        {
+          "type": "para",
+          "text": "He again assented. And tell me, I said, O tell me, what do possessions profit a man, if he have neither good sense nor wisdom? Would a man be better off, having and doing many things without wisdom, or a few things with wisdom? Look at the matter thus: If he did fewer things would he not make fewer mistakes? if he made fewer mistakes would he not have fewer misfortunes? and if he had fewer misfortunes would he not be less miserable?",
+          "lineStart": 429
+        },
+        {
+          "type": "para",
+          "text": "Certainly, he said. And who would do least-a Poor man or a rich man? A poor man. A weak man or a strong man? A weak man. A noble man or a mean man? A mean man. And a coward would do less than a courageous and temperate man? Yes. And an indolent man less than an active man? He assented. And a slow man less than a quick; and one who had dull perceptions of seeing and hearing less than one who had keen ones?",
+          "lineStart": 436
+        },
+        {
+          "type": "para",
+          "text": "All this was mutually allowed by us. Then, I said, Cleinias, the sum of the matter appears to be that the goods of which we spoke before are not to be regarded as goods in themselves, but the degree of good and evil in them depends on whether they are or are not under the guidance of knowledge: under the guidance of ignorance, they are greater evils than their opposites, inasmuch as they are more able to minister to the evil principle which rules them; and when under the guidance of wisdom and prudence, they are greater goods: but in themselves are nothing?",
+          "lineStart": 450
+        },
+        {
+          "type": "para",
+          "text": "That, he replied, is obvious. What then is the result of what has been said? Is not this the result-that other things are indifferent, and that wisdom is the only good, and ignorance the only evil?",
+          "lineStart": 459
+        },
+        {
+          "type": "para",
+          "text": "He assented. Let us consider a further point, I said: Seeing that all men desire happiness, and happiness, as has been shown, is gained by a use, and a right use, of the things of life, and the right use of them, and good fortune in the use of them, is given by knowledge,-the inference is that everybody ought by all means to try and make himself as wise as he can?",
+          "lineStart": 463
+        },
+        {
+          "type": "para",
+          "text": "Yes, he said. And when a man thinks that he ought to obtain this treasure, far more than money, from a father or a guardian or a friend or a suitor, whether citizen or stranger-the eager desire and prayer to them that they would impart wisdom to you, is not at all dishonourable, Cleinias; nor is any one to be blamed for doing any honourable service or ministration to any man, whether a lover or not, if his aim is to get wisdom. Do you agree? I said.",
+          "lineStart": 470
+        },
+        {
+          "type": "para",
+          "text": "Yes, he said, I quite agree, and think that you are right. Yes, I said, Cleinias, if only wisdom can be taught, and does not come to man spontaneously; for this is a point which has still to be considered, and is not yet agreed upon by you and me-",
+          "lineStart": 478
+        },
+        {
+          "type": "para",
+          "text": "But I think, Socrates, that wisdom can be taught, he said. Best of men, I said, I am delighted to hear you say so; and I am also grateful to you for having saved me from a long and tiresome investigation as to whether wisdom can be taught or not. But now, as you think that wisdom can be taught, and that wisdom only can make a man happy and fortunate will you not acknowledge that all of us ought to love wisdom, and you individually will try to love her?",
+          "lineStart": 483
+        },
+        {
+          "type": "para",
+          "text": "Certainly, Socrates, he said; I will do my best. I was pleased at hearing this; and I turned to Dionysodorus and Euthydemus and said: That is an example, clumsy and tedious I admit, of the sort of exhortations which I would have you give; and I hope that one of you will set forth what I have been saying in a more artistic style: or at least take up the enquiry where I left off, and proceed to show the youth whether he should have all knowledge; or whether there is one sort of knowledge only which will make him good and happy, and what that is. For, as I was saying at first, the improvement of this young man in virtue and wisdom is a matter which we have very much at heart.",
+          "lineStart": 491
+        },
+        {
+          "type": "para",
+          "text": "Thus I spoke, Crito, and was all attention to what was coming. I wanted to see how they would approach the question, and where they would start in their exhortation to the young man that he should practise wisdom and virtue. Dionysodorus, who was the elder, spoke first. Everybody's eyes were directed towards him, perceiving that something wonderful might shortly be expected. And certainly they were not far wrong; for the man, Crito, began a remarkable discourse well worth hearing, and wonderfully persuasive regarded as an exhortation to virtue.",
+          "lineStart": 501
+        },
+        {
+          "type": "para",
+          "text": "Tell me, he said, Socrates and the rest of you who say that you want this young man to become wise, are you in jest or in real earnest?",
+          "lineStart": 509
+        },
+        {
+          "type": "para",
+          "text": "I was led by this to imagine that they fancied us to have been jesting when we asked them to converse with the youth, and that this made them jest and play, and being under this impression, I was the more decided in saying that we were in profound earnest. Dionysodorus said:",
+          "lineStart": 512
+        },
+        {
+          "type": "para",
+          "text": "Reflect, Socrates; you may have to deny your words. I have reflected, I said; and I shall never deny my words. Well, said he, and so you say that you wish Cleinias to become wise? Undoubtedly. And he is not wise as yet? At least his modesty will not allow him to say that he is. You wish him, he said, to become wise and not, to be ignorant? That we do. You wish him to be what he is not, and no longer to be what he is? I was thrown into consternation at this. Taking advantage of my consternation he added: You wish him no longer to be what he is, which can only mean that you wish him to perish. Pretty lovers and friends they must be who want their favourite not to be, or to perish!",
+          "lineStart": 517
+        },
+        {
+          "type": "para",
+          "text": "When Ctesippus heard this he got very angry (as a lover well might) and said: Stranger of Thurii-if politeness would allow me I should say, A plague upon you! What can make you tell such a lie about me and the others, which I hardly like to repeat, as that I wish Cleinias to perish?",
+          "lineStart": 537
+        },
+        {
+          "type": "para",
+          "text": "Euthydemus replied: And do you think, Ctesippus, that it is possible to tell a lie?",
+          "lineStart": 542
+        },
+        {
+          "type": "para",
+          "text": "Yes, said Ctesippus; I should be mad to say anything else. And in telling a lie, do you tell the thing of which you speak or not?",
+          "lineStart": 544
+        },
+        {
+          "type": "para",
+          "text": "You tell the thing of which you speak. And he who tells, tells that thing which he tells, and no other? Yes, said Ctesippus. And that is a distinct thing apart from other things? Certainly. And he who says that thing says that which is? Yes. And he who says that which is, says the truth. And therefore Dionysodorus, if he says that which is, says the truth of you and no lie.",
+          "lineStart": 548
+        },
+        {
+          "type": "para",
+          "text": "Yes, Euthydemus, said Ctesippus; but in saying this, he says what is not.",
+          "lineStart": 559
+        },
+        {
+          "type": "para",
+          "text": "Euthydemus answered: And that which is not is not? True. And that which is not is nowhere? Nowhere. And can any one do anything about that which has no existence, or do to Cleinias that which is not and is nowhere?",
+          "lineStart": 561
+        },
+        {
+          "type": "para",
+          "text": "I think not, said Ctesippus. Well, but do rhetoricians, when they speak in the assembly, do nothing?",
+          "lineStart": 568
+        },
+        {
+          "type": "para",
+          "text": "Nay, he said, they do something. And doing is making? Yes. And speaking is doing and making? He agreed. Then no one says that which is not, for in saying what is not he would be doing something; and you have already acknowledged that no one can do what is not. And therefore, upon your own showing, no one says what is false; but if Dionysodorus says anything, he says what is true and what is.",
+          "lineStart": 571
+        },
+        {
+          "type": "para",
+          "text": "Yes, Euthydemus, said Ctesippus; but he speaks of things in a certain way and manner, and not as they really are.",
+          "lineStart": 581
+        },
+        {
+          "type": "para",
+          "text": "Why, Ctesippus, said Dionysodorus, do you mean to say that any one speaks of things as they are?",
+          "lineStart": 583
+        },
+        {
+          "type": "para",
+          "text": "Yes, he said-all gentlemen and truth-speaking persons. And are not good things good, and evil things evil? He assented. And you say that gentlemen speak of things as they are? Yes. Then the good speak evil of evil things, if they speak of them as they are?",
+          "lineStart": 585
+        },
+        {
+          "type": "para",
+          "text": "Yes, indeed, he said; and they speak evil of evil men. And if I may give you a piece of advice, you had better take care that they do not speak evil of you, since I can tell you that the good speak evil of the evil.",
+          "lineStart": 594
+        },
+        {
+          "type": "para",
+          "text": "And do they speak great things of the great, rejoined Euthydemus, and warm things of the warm?",
+          "lineStart": 598
+        },
+        {
+          "type": "para",
+          "text": "To be sure they do, said Ctesippus; and they speak coldly of the insipid and cold dialectician.",
+          "lineStart": 600
+        },
+        {
+          "type": "para",
+          "text": "You are abusive, Ctesippus, said Dionysodorus, you are abusive! Indeed, I am not, Dionysodorus, he replied; for I love you and am giving you friendly advice, and, if I could, would persuade you not like a boor to say in my presence that I desire my beloved, whom I value above all men, to perish.",
+          "lineStart": 602
+        },
+        {
+          "type": "para",
+          "text": "I saw that they were getting exasperated with one another, so I made a joke with him and said: O Ctesippus, I think that we must allow the strangers to use language in their own way, and not quarrel with them about words, but be thankful for what they give us. If they know how to destroy men in such a way as to make good and sensible men out of bad and foolish ones-whether this is a discovery of their own, or whether they have learned from some one else this new sort of death and destruction which enables them to get rid of a bad man and turn him into a good one-if they know this (and they do know this-at any rate they said just now that this was the secret of their newly-discovered art)-let them, in their phraseology, destroy the youth and make him wise, and all of us with him. But if you young men do not like to trust yourselves with them, then fiat experimentum in corpore senis; I will be the Carian on whom they shall operate. And here I offer my old person to Dionysodorus; he may put me into the pot, like Medea the Colchian, kill me, boil me, if he will only make me good.",
+          "lineStart": 608
+        },
+        {
+          "type": "para",
+          "text": "Ctesippus said: And I, Socrates, am ready to commit myself to the strangers; they may skin me alive, if they please (and I am pretty well skinned by them already), if only my skin is made at last, not like that of Marsyas, into a leathern bottle, but into a piece of virtue. And here is Dionysodorus fancying that I am angry with him, when really I am not angry at all; I do but contradict him when I think that he is speaking improperly to me: and you must not confound abuse and contradiction, O illustrious Dionysodorus; for they are quite different things.",
+          "lineStart": 624
+        },
+        {
+          "type": "para",
+          "text": "Contradiction! said Dionysodorus; why, there never was such a thing. Certainly there is, he replied; there can be no question of that. Do you, Dionysodorus, maintain that there is not?",
+          "lineStart": 633
+        },
+        {
+          "type": "para",
+          "text": "You will never prove to me, he said, that you have heard any one contradicting any one else.",
+          "lineStart": 637
+        },
+        {
+          "type": "para",
+          "text": "Indeed, said Ctesippus; then now you may hear me contradicting Dionysodorus.",
+          "lineStart": 639
+        },
+        {
+          "type": "para",
+          "text": "Are you prepared to make that good? Certainly, he said. Well, have not all things words expressive of them? Yes. Of their existence or of their non-existence? Of their existence. Yes, Ctesippus, and we just now proved, as you may remember, that no man could affirm a negative; for no one could affirm that which is not.",
+          "lineStart": 641
+        },
+        {
+          "type": "para",
+          "text": "And what does that signify? said Ctesippus; you and I may contradict all the same for that.",
+          "lineStart": 650
+        },
+        {
+          "type": "para",
+          "text": "But can we contradict one another, said Dionysodorus, when both of us are describing the same thing? Then we must surely be speaking the same thing?",
+          "lineStart": 652
+        },
+        {
+          "type": "para",
+          "text": "He assented. Or when neither of us is speaking of the same thing? For then neither of us says a word about the thing at all?",
+          "lineStart": 655
+        },
+        {
+          "type": "para",
+          "text": "He granted that proposition also. But when I describe something and you describe another thing, or I say something and you say nothing-is there any contradiction? How can he who speaks contradict him who speaks not?",
+          "lineStart": 658
+        },
+        {
+          "type": "para",
+          "text": "Here Ctesippus was silent; and I in my astonishment said: What do you mean, Dionysodorus? I have often heard, and have been amazed to hear, this thesis of yours, which is maintained and employed by the disciples of Protagoras, and others before them, and which to me appears to be quite wonderful, and suicidal as well as destructive, and I think that I am most likely to hear the truth about it from you. The dictum is that there is no such thing as falsehood; a man must either say what is true or say nothing. Is not that your position?",
+          "lineStart": 662
+        },
+        {
+          "type": "para",
+          "text": "He assented. But if he cannot speak falsely, may he not think falsely? No, he cannot, he said. Then there is no such thing as false opinion? No, he said. Then there is no such thing as ignorance, or men who are ignorant; for is not ignorance, if there be such a thing, a mistake of fact?",
+          "lineStart": 670
+        },
+        {
+          "type": "para",
+          "text": "Certainly, he said. And that is impossible? Impossible, he replied. Are you saying this as a paradox, Dionysodorus; or do you seriously maintain no man to be ignorant?",
+          "lineStart": 679
+        },
+        {
+          "type": "para",
+          "text": "Refute me, he said. But how can I refute you, if, as you say, to tell a falsehood is impossible?",
+          "lineStart": 684
+        },
+        {
+          "type": "para",
+          "text": "Very true, said Euthydemus. Neither did I tell you just now to refute me, said Dionysodorus; for how can I tell you to do that which is not?",
+          "lineStart": 687
+        },
+        {
+          "type": "para",
+          "text": "O Euthydemus, I said, I have but a dull conception of these subtleties and excellent devices of wisdom; I am afraid that I hardly understand them, and you must forgive me therefore if I ask a very stupid question: if there be no falsehood or false opinion or ignorance, there can be no such thing as erroneous action, for a man cannot fail of acting as he is acting-that is what you mean?",
+          "lineStart": 690
+        },
+        {
+          "type": "para",
+          "text": "Yes, he replied. And now, I said, I will ask my stupid question: If there is no such thing as error in deed, word, or thought, then what, in the name of goodness, do you come hither to teach? And were you not just now saying that you could teach virtue best of all men, to any one who was willing to learn?",
+          "lineStart": 696
+        },
+        {
+          "type": "para",
+          "text": "And are you such an old fool, Socrates, rejoined Dionysodorus, that you bring up now what I said at first-and if I had said anything last year, I suppose that you would bring that up too-but are non-plussed at the words which I have just uttered?",
+          "lineStart": 702
+        },
+        {
+          "type": "para",
+          "text": "Why, I said, they are not easy to answer; for they are the words of wise men: and indeed I know not what to make of this word \"nonplussed,\" which you used last: what do you mean by it, Dionysodorus? You must mean that I cannot refute your argument. Tell me if the words have any other sense.",
+          "lineStart": 706
+        },
+        {
+          "type": "para",
+          "text": "No, he replied, they mean what you say. And now answer. What, before you, Dionysodorus? I said. Answer, said he. And is that fair? Yes, quite fair, he said. Upon what principle? I said. I can only suppose that you are a very wise man who comes to us in the character of a great logician, and who knows when to answer and when not to answer-and now you will not open your mouth at all, because you know that you ought not.",
+          "lineStart": 711
+        },
+        {
+          "type": "para",
+          "text": "You prate, he said, instead of answering. But if, my good sir, you admit that I am wise, answer as I tell you.",
+          "lineStart": 721
+        },
+        {
+          "type": "para",
+          "text": "I suppose that I must obey, for you are master. Put the question. Are the things which have sense alive or lifeless? They are alive. And do you know of any word which is alive? I cannot say that I do. Then why did you ask me what sense my words had? Why, because I was stupid and made a mistake. And yet, perhaps, I was right after all in saying that words have a sense;-what do you say, wise man? If I was not in error, even you will not refute me, and all your wisdom will be non-plussed; but if I did fall into error, then again you are wrong in saying that there is no error,-and this remark was made by you not quite a year ago. I am inclined to think, however, Dionysodorus and Euthydemus, that this argument lies where it was and is not very likely to advance: even your skill in the subtleties of logic, which is really amazing, has not found out the way of throwing another and not falling yourself, now any more than of old.",
+          "lineStart": 723
+        },
+        {
+          "type": "para",
+          "text": "Ctesippus said: Men of Chios, Thurii, or however and whatever you call yourselves, I wonder at you, for you seem to have no objection to talking nonsense.",
+          "lineStart": 740
+        },
+        {
+          "type": "para",
+          "text": "Fearing that there would be high words, I again endeavoured to soothe Ctesippus, and said to him: To you, Ctesippus, I must repeat what I said before to Cleinias-that you do not understand the ways of these philosophers from abroad. They are not serious, but, like the Egyptian wizard, Proteus, they take different forms and deceive us by their enchantments: and let us, like Menelaus, refuse to let them go until they show themselves to us in earnest. When they begin to be in earnest their full beauty will appear: let us then beg and entreat and beseech them to shine forth. And I think that I had better once more exhibit the form in which I pray to behold them; it might be a guide to them. I will go on therefore where I left off, as well as I can, in the hope that I may touch their hearts and move them to pity, and that when they see me deeply serious and interested, they also may be serious. You, Cleinias, I said, shall remind me at what point we left off. Did we not agree that philosophy should be studied? and was not that our conclusion?",
+          "lineStart": 743
+        },
+        {
+          "type": "para",
+          "text": "Yes, he replied. And philosophy is the acquisition of knowledge? Yes, he said. And what knowledge ought we to acquire? May we not answer with absolute truth-A knowledge which will do us good?",
+          "lineStart": 758
+        },
+        {
+          "type": "para",
+          "text": "Certainly, he said. And should we be any the better if we went about having a knowledge of the places where most gold was hidden in the earth?",
+          "lineStart": 763
+        },
+        {
+          "type": "para",
+          "text": "Perhaps we should, he said. But have we not already proved, I said, that we should be none the better off, even if without trouble and digging all the gold which there is in the earth were ours? And if we knew how to convert stones into gold, the knowledge would be of no value to us, unless we also knew how to use the gold? Do you not remember? I said.",
+          "lineStart": 766
+        },
+        {
+          "type": "para",
+          "text": "I quite remember, he said. Nor would any other knowledge, whether of money-making, or of medicine, or of any other art which knows only how to make a thing, and not to use it when made, be of any good to us. Am I not right?",
+          "lineStart": 772
+        },
+        {
+          "type": "para",
+          "text": "He agreed. And if there were a knowledge which was able to make men immortal, without giving them the knowledge of the way to use the immortality, neither would there be any use in that, if we may argue from the analogy of the previous instances?",
+          "lineStart": 776
+        },
+        {
+          "type": "para",
+          "text": "To all this he agreed. Then, my dear boy, I said, the knowledge which we want is one that uses as well as makes?",
+          "lineStart": 781
+        },
+        {
+          "type": "para",
+          "text": "True, he said. And our desire is not to be skilful lyre-makers, or artists of that sort-far otherwise; for with them the art which makes is one, and the art which uses is another. Although they have to do with the same, they are divided: for the art which makes and the art which plays on the lyre differ widely from one another. Am I not right?",
+          "lineStart": 784
+        },
+        {
+          "type": "para",
+          "text": "He agreed. And clearly we do not want the art of the flute-maker; this is only another of the same sort?",
+          "lineStart": 790
+        },
+        {
+          "type": "para",
+          "text": "He assented. But suppose, I said, that we were to learn the art of making speeches-would that be the art which would make us happy?",
+          "lineStart": 793
+        },
+        {
+          "type": "para",
+          "text": "I should say no, rejoined Cleinias. And why should you say so? I asked. I see, he replied, that there are some composers of speeches who do not know how to use the speeches which they make, just as the makers of lyres do not know how to use the lyres; and also some who are of themselves unable to compose speeches, but are able to use the speeches which the others make for them; and this proves that the art of making speeches is not the same as the art of using them.",
+          "lineStart": 796
+        },
+        {
+          "type": "para",
+          "text": "Yes, I said; and I take your words to be a sufficient proof that the art of making speeches is not one which will make a man happy. And yet I did think that the art which we have so long been seeking might be discovered in that direction; for the composers of speeches, whenever I meet them, always appear to me to be very extraordinary men, Cleinias, and their art is lofty and divine, and no wonder. For their art is a part of the great art of enchantment, and hardly, if at all, inferior to it: and whereas the art of the enchanter is a mode of charming snakes and spiders and scorpions, and other monsters and pests, this art of theirs acts upon dicasts and ecclesiasts and bodies of men, for the charming and pacifying of them. Do you agree with me?",
+          "lineStart": 804
+        },
+        {
+          "type": "para",
+          "text": "Yes, he said, I think that you are quite right. Whither then shall we go, I said, and to what art shall we have recourse?",
+          "lineStart": 815
+        },
+        {
+          "type": "para",
+          "text": "I do not see my way, he said. But I think that I do, I replied. And what is your notion? asked Cleinias. I think that the art of the general is above all others the one of which the possession is most likely to make a man happy.",
+          "lineStart": 818
+        },
+        {
+          "type": "para",
+          "text": "I do not think so, he said. Why not? I said. The art of the general is surely an art of hunting mankind. What of that? I said. Why, he said, no art of hunting extends beyond hunting and capturing; and when the prey is taken the huntsman or fisherman cannot use it; but they hand it over to the cook, and the geometricians and astronomers and calculators (who all belong to the hunting class, for they do not make their diagrams, but only find out that which was previously contained in them)-they, I say, not being able to use but only to catch their prey, hand over their inventions to the dialectician to be applied by him, if they have any sense in them.",
+          "lineStart": 823
+        },
+        {
+          "type": "para",
+          "text": "Good, I said, fairest and wisest Cleinias. And is this true? Certainly, he said; just as a general when he takes a city or a camp hands over his new acquisition to the statesman, for he does not know how to use them himself; or as the quail-taker transfers the quails to the keeper of them. If we are looking for the art which is to make us blessed, and which is able to use that which it makes or takes, the art of the general is not the one, and some other must be found.",
+          "lineStart": 836
+        },
+        {
+          "type": "para",
+          "text": "Cri. And do you mean, Socrates, that the youngster said all this?",
+          "lineStart": 844
+        },
+        {
+          "type": "para",
+          "text": "Soc. Are you incredulous, Crito?",
+          "lineStart": 846
+        },
+        {
+          "type": "para",
+          "text": "Cri. Indeed, I am; for if he did say so, then in my opinion he needs neither Euthydemus nor any one else to be his instructor.",
+          "lineStart": 847
+        },
+        {
+          "type": "para",
+          "text": "Soc. Perhaps I may have forgotten, and Ctesippus was the real answerer.",
+          "lineStart": 850
+        },
+        {
+          "type": "para",
+          "text": "Cri. Ctesippus! nonsense.",
+          "lineStart": 852
+        },
+        {
+          "type": "para",
+          "text": "Soc. All I know is that I heard these words, and that they were not spoken either by Euthydemus or Dionysodorus. I dare say, my good Crito, that they may have been spoken by some superior person: that I heard them I am certain.",
+          "lineStart": 853
+        },
+        {
+          "type": "para",
+          "text": "Cri. Yes, indeed, Socrates, by some one a good deal superior, as I should be disposed to think. But did you carry the search any further, and did you find the art which you were seeking?",
+          "lineStart": 857
+        },
+        {
+          "type": "para",
+          "text": "Soc. Find! my dear sir, no indeed. And we cut a poor figure; we were like children after larks, always on the point of catching the art, which was always getting away from us. But why should I repeat the whole story? At last we came to the kingly art, and enquired whether that gave and caused happiness, and then we got into a labyrinth, and when we thought we were at the end, came out again at the beginning, having still to seek as much as ever.",
+          "lineStart": 860
+        },
+        {
+          "type": "para",
+          "text": "Cri. How did that happen, Socrates?",
+          "lineStart": 867
+        },
+        {
+          "type": "para",
+          "text": "Soc. I will tell you; the kingly art was identified by us with the political.",
+          "lineStart": 868
+        },
+        {
+          "type": "para",
+          "text": "Cri. Well, and what came of that?",
+          "lineStart": 870
+        },
+        {
+          "type": "para",
+          "text": "Soc. To this royal or political art all the arts, including the art of the general, seemed to render up the supremacy, that being the only one which knew how to use what they produce. Here obviously was the very art which we were seeking-the art which is the source of good government, and which may be described, in the language of Aeschylus, as alone sitting at the helm of the vessel of state, piloting and governing all things, and utilizing them.",
+          "lineStart": 871
+        },
+        {
+          "type": "para",
+          "text": "Cri. And were you not right, Socrates?",
+          "lineStart": 878
+        },
+        {
+          "type": "para",
+          "text": "Soc. You shall judge, Crito, if you are willing to hear what followed; for we resumed the enquiry, and a question of this sort was asked: Does the kingly art, having this supreme authority, do anything for us? To be sure, was the answer. And would not you, Crito, say the same?",
+          "lineStart": 879
+        },
+        {
+          "type": "para",
+          "text": "Cri. Yes, I should.",
+          "lineStart": 884
+        },
+        {
+          "type": "para",
+          "text": "Soc. And what would you say that the kingly art does? If medicine were supposed to have supreme authority over the subordinate arts, and I were to ask you a similar question about that, you would say-it produces health?",
+          "lineStart": 885
+        },
+        {
+          "type": "para",
+          "text": "Cri. I should.",
+          "lineStart": 889
+        },
+        {
+          "type": "para",
+          "text": "Soc. And what of your own art of husbandry, supposing that to have supreme authority over the subject arts-what does that do? Does it not supply us with the fruits of the earth?",
+          "lineStart": 890
+        },
+        {
+          "type": "para",
+          "text": "Cri. Yes.",
+          "lineStart": 893
+        },
+        {
+          "type": "para",
+          "text": "Soc. And what does the kingly art do when invested with supreme power? Perhaps you may not be ready with an answer?",
+          "lineStart": 894
+        },
+        {
+          "type": "para",
+          "text": "Cri. Indeed I am not, Socrates.",
+          "lineStart": 897
+        },
+        {
+          "type": "para",
+          "text": "Soc. No more were we, Crito. But at any rate you know that if this is the art which we were seeking, it ought to be useful.",
+          "lineStart": 898
+        },
+        {
+          "type": "para",
+          "text": "Cri. Certainly.",
+          "lineStart": 901
+        },
+        {
+          "type": "para",
+          "text": "Soc. And surely it ought to do us some good?",
+          "lineStart": 902
+        },
+        {
+          "type": "para",
+          "text": "Cri. Certainly, Socrates.",
+          "lineStart": 904
+        },
+        {
+          "type": "para",
+          "text": "Soc. And Cleinias and I had arrived at the conclusion that knowledge of some kind is the only good.",
+          "lineStart": 905
+        },
+        {
+          "type": "para",
+          "text": "Cri. Yes, that was what you were saying.",
+          "lineStart": 907
+        },
+        {
+          "type": "para",
+          "text": "Soc. All the other results of politics, and they are many, as for example, wealth, freedom, tranquillity, were neither good nor evil in themselves; but the political science ought to make us wise, and impart knowledge to us, if that is the science which is likely to do us good, and make us happy.",
+          "lineStart": 908
+        },
+        {
+          "type": "para",
+          "text": "Cri. Yes; that was the conclusion at which you had arrived, according to your report of the conversation.",
+          "lineStart": 913
+        },
+        {
+          "type": "para",
+          "text": "Soc. And does the kingly art make men wise and good?",
+          "lineStart": 915
+        },
+        {
+          "type": "para",
+          "text": "Cri. Why not, Socrates?",
+          "lineStart": 917
+        },
+        {
+          "type": "para",
+          "text": "Soc. What, all men, and in every respect? and teach them all the arts,-carpentering, and cobbling, and the rest of them?",
+          "lineStart": 918
+        },
+        {
+          "type": "para",
+          "text": "Cri. I think not, Socrates.",
+          "lineStart": 921
+        },
+        {
+          "type": "para",
+          "text": "Soc. But then what is this knowledge, and what are we to do with it? For it is not the source of any works which are neither good nor evil, and gives no knowledge, but the knowledge of itself; what then can it be, and what are we to do with it? Shall we say, Crito, that it is the knowledge by which we are to make other men good?",
+          "lineStart": 922
+        },
+        {
+          "type": "para",
+          "text": "Cri. By all means.",
+          "lineStart": 927
+        },
+        {
+          "type": "para",
+          "text": "Soc. And in what will they be good and useful? Shall we repeat that they will make others good, and that these others will make others again, without ever determining in what they are to be good; for we have put aside the results of politics, as they are called. This is the old, old song over again; and we are just as far as ever, if not farther, from the knowledge of the art or science of happiness.",
+          "lineStart": 928
+        },
+        {
+          "type": "para",
+          "text": ".Cri. Indeed, Socrates, you do appear to have got into a great perplexity.",
+          "lineStart": 934
+        },
+        {
+          "type": "para",
+          "text": "Soc. Thereupon, Crito, seeing that I was on the point of shipwreck, I lifted up my voice, and earnestly entreated and called upon the strangers to save me and the youth from the whirlpool of the argument; they were our Castor and Pollux, I said, and they should be serious, and show us in sober earnest what that knowledge was which would enable us to pass the rest of our lives in happiness.",
+          "lineStart": 936
+        },
+        {
+          "type": "para",
+          "text": "Cri. And did Euthydemus show you this knowledge?",
+          "lineStart": 942
+        },
+        {
+          "type": "para",
+          "text": "Soc. Yes, indeed; he proceeded in a lofty strain to the following effect: Would you rather, Socrates, said he, that I should show you this knowledge about which you have been doubting, or shall I prove that you already have it?",
+          "lineStart": 944
+        },
+        {
+          "type": "para",
+          "text": "What, I said, are you blessed with such a power as this? Indeed I am. Then I would much rather that you should prove me to have such a knowledge; at my time of life that will be more agreeable than having to learn.",
+          "lineStart": 948
+        },
+        {
+          "type": "para",
+          "text": "Then tell me, he said, do you know anything? Yes, I said, I know many things, but not anything of much importance.",
+          "lineStart": 954
+        },
+        {
+          "type": "para",
+          "text": "That will do, he said: And would you admit that anything is what it is, and at the same time is not what it is?",
+          "lineStart": 957
+        },
+        {
+          "type": "para",
+          "text": "Certainly not. And did you not say that you knew something? I did. If you know, you are knowing. Certainly, of the knowledge which I have. That makes no difference;-and must you not, if you are knowing, know all things?",
+          "lineStart": 959
+        },
+        {
+          "type": "para",
+          "text": "Certainly not, I said, for there are many other things which I do not know.",
+          "lineStart": 966
+        },
+        {
+          "type": "para",
+          "text": "And if you do not know, you are not knowing. Yes, friend, of that which I do not know. Still you are not knowing, and you said just now that you were knowing; and therefore you are and are not at the same time, and in reference to the same things.",
+          "lineStart": 968
+        },
+        {
+          "type": "para",
+          "text": "A pretty clatter, as men say, Euthydemus, this of yours! and will you explain how I possess that knowledge for which we were seeking? Do you mean to say that the same thing cannot be and also not be; and therefore, since I know one thing, that I know all, for I cannot be knowing and not knowing at the same time, and if I know all things, then I must have the knowledge for which we are seeking-May I assume this to be your ingenious notion?",
+          "lineStart": 973
+        },
+        {
+          "type": "para",
+          "text": "Out of your own mouth, Socrates, you are convicted, he said. Well, but, Euthydemus, I said, has that never happened to you? for if I am only in the same case with you and our beloved Dionysodorus, I cannot complain. Tell me, then, you two, do you not know some things, and not know others?",
+          "lineStart": 980
+        },
+        {
+          "type": "para",
+          "text": "Certainly not, Socrates, said Dionysodorus. What do you mean, I said; do you know nothing? Nay, he replied, we do know something. Then, I said, you know all things, if you know anything? Yes, all things, he said; and that is as true of you as of us. O, indeed, I said, what a wonderful thing, and what a great blessing! And do all other men know all things or nothing?",
+          "lineStart": 986
+        },
+        {
+          "type": "para",
+          "text": "Certainly, he replied; they cannot know some things, and not know others, and be at the same time knowing and not knowing.",
+          "lineStart": 994
+        },
+        {
+          "type": "para",
+          "text": "Then what is the inference? I said. They all know all things, he replied, if they know one thing. O heavens, Dionysodorus, I said, I see now that you are in earnest; hardly have I got you to that point. And do you really and truly know all things, including carpentering and leather cutting?",
+          "lineStart": 996
+        },
+        {
+          "type": "para",
+          "text": "Certainly, he said. And do you know stitching? Yes, by the gods, we do, and cobbling, too. And do you know things such as the numbers of the stars and of the sand?",
+          "lineStart": 1002
+        },
+        {
+          "type": "para",
+          "text": "Certainly; did you think we should say no to that? By Zeus, said Ctesippus, interrupting, I only wish that you would give me some proof which would enable me to know whether you speak truly.",
+          "lineStart": 1007
+        },
+        {
+          "type": "para",
+          "text": "What proof shall I give you? he said. Will you tell me how many teeth Euthydemus has? and Euthydemus shall tell how many teeth you have.",
+          "lineStart": 1012
+        },
+        {
+          "type": "para",
+          "text": "Will you not take our word that we know all things? Certainly not, said Ctesippus: you must further tell us this one thing, and then we shall know that you are speak the truth; if you tell us the number, and we count them, and you are found to be right, we will believe the rest. They fancied that Ctesippus was making game of them, and they refused, and they would only say in answer to each of his questions, that they knew all things. For at last Ctesippus began to throw off all restraint; no question in fact was too bad for him; he would ask them if they knew the foulest things, and they, like wild boars, came rushing on his blows, and fearlessly replied that they did. At last, Crito, I too was carried away by my incredulity, and asked Euthydemus whether Dionysodorus could dance.",
+          "lineStart": 1015
+        },
+        {
+          "type": "para",
+          "text": "Certainly, he replied. And can he vault among swords, and turn upon a wheel, at his age? has he got to such a height of skill as that?",
+          "lineStart": 1028
+        },
+        {
+          "type": "para",
+          "text": "He can do anything, he said. And did you always know this? Always, he said. When you were children, and at your birth? They both said that they did. This we could not believe. And Euthydemus said: You are incredulous, Socrates.",
+          "lineStart": 1031
+        },
+        {
+          "type": "para",
+          "text": "Yes, I said, and I might well be incredulous, if I did not know you to be wise men.",
+          "lineStart": 1038
+        },
+        {
+          "type": "para",
+          "text": "But if you will answer, he said, I will make you confess to similar marvels.",
+          "lineStart": 1040
+        },
+        {
+          "type": "para",
+          "text": "Well, I said, there is nothing that I should like better than to be self-convicted of this, for if I am really a wise man, which I never knew before, and you will prove to me that I know and have always known all things, nothing in life would be a greater gain to me.",
+          "lineStart": 1042
+        },
+        {
+          "type": "para",
+          "text": "Answer then, he said. Ask, I said, and I will answer. Do you know something, Socrates, or nothing? Something, I said. And do you know with what you know, or with something else? With what I know; and I suppose that you mean with my soul? Are you not ashamed, Socrates, of asking a question when you are asked one?",
+          "lineStart": 1047
+        },
+        {
+          "type": "para",
+          "text": "Well, I said; but then what am I to do? for I will do whatever you bid; when I do not know what you are asking, you tell me to answer nevertheless, and not to ask again.",
+          "lineStart": 1057
+        },
+        {
+          "type": "para",
+          "text": "Why, you surely have some notion of my meaning, he said. Yes, I replied. Well, then, answer according to your notion of my meaning. Yes, I said; but if the question which you ask in one sense is understood and answered by me in another, will that please you-if I answer what is not to the point?",
+          "lineStart": 1060
+        },
+        {
+          "type": "para",
+          "text": "That will please me very well; but will not please you equally well, as I imagine.",
+          "lineStart": 1068
+        },
+        {
+          "type": "para",
+          "text": "I certainly will not answer unless I understand you, I said. You will not answer, he said, according to your view of the meaning, because you will be prating, and are an ancient.",
+          "lineStart": 1070
+        },
+        {
+          "type": "para",
+          "text": "Now I saw that he was getting angry with me for drawing distinctions, when he wanted to catch me in his springes of words. And I remembered that Connus was always angry with me when I opposed him, and then he neglected me, because he thought that I was stupid; and as I was intending to go to Euthydemus as a pupil, I reflected that I had better let him have his way, as he might think me a blockhead, and refuse to take me. So I said: You are a far better dialectician than myself, Euthydemus, for I have never made a profession of the art, and therefore do as you say; ask your questions once more, and I will answer.",
+          "lineStart": 1074
+        },
+        {
+          "type": "para",
+          "text": "Answer then, he said, again, whether you know what you know with something, or with nothing.",
+          "lineStart": 1083
+        },
+        {
+          "type": "para",
+          "text": "Yes, I said; I know with my soul. The man will answer more than the question; for I did not ask you, he said, with what you know, but whether you know with something.",
+          "lineStart": 1085
+        },
+        {
+          "type": "para",
+          "text": "Again I replied, Through ignorance I have answered too much, but I hope that you will forgive me. And now I will answer simply that I always know what I know with something.",
+          "lineStart": 1089
+        },
+        {
+          "type": "para",
+          "text": "And is that something, he rejoined, always the same, or sometimes one thing, and sometimes another thing?",
+          "lineStart": 1092
+        },
+        {
+          "type": "para",
+          "text": "Always, I replied, when I know, I know with this. Will you not cease adding to your answers? My fear is that this word \"always\" may get us into trouble. You, perhaps, but certainly not us. And now answer: Do you always know with this?",
+          "lineStart": 1094
+        },
+        {
+          "type": "para",
+          "text": "Always; since I am required to withdraw the words \"when I know.\" You always know with this, or, always knowing, do you know some things with this, and some things with something else, or do you know all things with this?",
+          "lineStart": 1101
+        },
+        {
+          "type": "para",
+          "text": "All that I know, I replied, I know with this. There again, Socrates, he said, the addition is superfluous. Well, then, I said, I will take away the words that I know.\" Nay, take nothing away; I desire no favours of you; but let me ask: Would you be able to know all things, if you did not know all things?",
+          "lineStart": 1106
+        },
+        {
+          "type": "para",
+          "text": "Quite impossible. And now, he said, you may add on whatever you like, for you confess that you know all things.",
+          "lineStart": 1114
+        },
+        {
+          "type": "para",
+          "text": "I suppose that is true, I said, if my qualification implied in the words \"that I know\" is not allowed to stand; and so I do know all things.",
+          "lineStart": 1117
+        },
+        {
+          "type": "para",
+          "text": "And have you not admitted that you always know all things with that which you know, whether you make the addition of \"when you know them\" or not? for you have acknowledged that you have always and at once known all things, that is to say, when you were a child, and at your birth, and when you were growing up, and before you were born, and before the heaven and earth existed, you knew all things if you always know them; and I swear that you shall always continue to know all things, if I am of the mind to make you.",
+          "lineStart": 1120
+        },
+        {
+          "type": "para",
+          "text": "But I hope that you will be of that mind, reverend Euthydemus, I said, if you are really speaking the truth, and yet I a little doubt your power to make good your words unless you have the help of your brother Dionysodorus; then you may do it. Tell me now, both of you, for although in the main I cannot doubt that I really do know all things, when I am told so by men of your prodigious wisdom-how can I say that I know such things, Euthydemus, as that the good are unjust; come, do I know that or not?",
+          "lineStart": 1128
+        },
+        {
+          "type": "para",
+          "text": "Certainly, you know that. What do I know? That the good are not unjust. Quite true, I said; and that I have always known; but the question is, where did I learn that the good are unjust?",
+          "lineStart": 1136
+        },
+        {
+          "type": "para",
+          "text": "Nowhere, said Dionysodorus. Then, I said, I do not know this. You are ruining the argument, said Euthydemus to Dionysodorus; he will be proved not to know, and then after all he will be knowing and not knowing at the same time.",
+          "lineStart": 1141
+        },
+        {
+          "type": "para",
+          "text": "Dionysodorus blushed. I turned to the other, and said, What do you think, Euthydemus? Does not your omniscient brother appear to you to have made a mistake?",
+          "lineStart": 1146
+        },
+        {
+          "type": "para",
+          "text": "What, replied Dionysodorus in a moment; am I the brother of Euthydemus?",
+          "lineStart": 1150
+        },
+        {
+          "type": "para",
+          "text": "Thereupon I said, Please not to interrupt, my good friend, or prevent Euthydemus from proving to me that I know the good to be unjust; such a lesson you might at least allow me to learn.",
+          "lineStart": 1152
+        },
+        {
+          "type": "para",
+          "text": "You are running away, Socrates, said Dionysodorus, and refusing to answer.",
+          "lineStart": 1155
+        },
+        {
+          "type": "para",
+          "text": "No wonder, I said, for I am not a match for one of you, and a fortiori I must run away from two. I am no Heracles; and even Heracles could not fight against the Hydra, who was a she-Sophist, and had the wit to shoot up many new heads when one of them was cut off; especially when he saw a second monster of a sea-crab, who was also a Sophist, and appeared to have newly arrived from a sea-voyage, bearing down upon him from the left, opening his mouth and biting. When the monster was growing troublesome he called Iolaus, his nephew, to his help, who ably succoured him; but if my Iolaus, who is my brother Patrocles [the statuary], were to come, he would only make a bad business worse.",
+          "lineStart": 1157
+        },
+        {
+          "type": "para",
+          "text": "And now that you have delivered yourself of this strain, said Dionysodorus, will you inform me whether Iolaus was the nephew of Heracles any more than he is yours?",
+          "lineStart": 1167
+        },
+        {
+          "type": "para",
+          "text": "I suppose that I had best answer you, Dionysodorus, I said, for you will insist on asking that I pretty well know-out of envy, in order to prevent me from learning the wisdom of Euthydemus.",
+          "lineStart": 1170
+        },
+        {
+          "type": "para",
+          "text": "Then answer me, he said. Well then, I said, I can only reply that Iolaus was not my nephew at all, but the nephew of Heracles; and his father was not my brother Patrocles, but Iphicles, who has a name rather like his, and was the brother of Heracles.",
+          "lineStart": 1173
+        },
+        {
+          "type": "para",
+          "text": "And is Patrocles, he said, your brother? Yes, I said, he is my half-brother, the son of my mother, but not of my father.",
+          "lineStart": 1178
+        },
+        {
+          "type": "para",
+          "text": "Then he is and is not your brother. Not by the same father, my good man, I said, for Chaeredemus was his father, and mine was Sophroniscus.",
+          "lineStart": 1181
+        },
+        {
+          "type": "para",
+          "text": "And was Sophroniscus a father, and Chaeredemus also? Yes, I said; the former was my father, and the latter his. Then, he said, Chaeredemus is not a father. He is not my father, I said. But can a father be other than a father? or are you the same as a stone?",
+          "lineStart": 1184
+        },
+        {
+          "type": "para",
+          "text": "I certainly do not think that I am a stone, I said, though I am afraid that you may prove me to be one.",
+          "lineStart": 1192
+        },
+        {
+          "type": "para",
+          "text": "Are you not other than a stone? I am. And being other than a stone, you are not a stone; and being other than gold, you are not gold?",
+          "lineStart": 1194
+        },
+        {
+          "type": "para",
+          "text": "Very true. And so Chaeredemus, he said, being other than a father, is not a father?",
+          "lineStart": 1198
+        },
+        {
+          "type": "para",
+          "text": "I suppose that he is not a father, I replied. For if, said Euthydemus, taking up the argument, Chaeredemus is a father, then Sophroniscus, being other than a father, is not a father; and you, Socrates, are without a father.",
+          "lineStart": 1201
+        },
+        {
+          "type": "para",
+          "text": "Ctesippus, here taking up the argument, said: And is not your father in the same case, for he is other than my father?",
+          "lineStart": 1205
+        },
+        {
+          "type": "para",
+          "text": "Assuredly not, said Euthydemus. Then he is the same? He is the same. I cannot say that I like the connection; but is he only my father, Euthydemus, or is he the father of all other men?",
+          "lineStart": 1207
+        },
+        {
+          "type": "para",
+          "text": "Of all other men, he replied. Do you suppose the same person to be a father and not a father?",
+          "lineStart": 1212
+        },
+        {
+          "type": "para",
+          "text": "Certainly, I did so imagine, said Ctesippus. And do you suppose that gold is not gold, or that a man is not a man?",
+          "lineStart": 1214
+        },
+        {
+          "type": "para",
+          "text": "They are not \"in pari materia,\" Euthydemus, said Ctesippus, and you had better take care, for it is monstrous to suppose that your father is the father of all.",
+          "lineStart": 1217
+        },
+        {
+          "type": "para",
+          "text": "But he is, he replied. What, of men only, said Ctesippus, or of horses and of all other animals?",
+          "lineStart": 1220
+        },
+        {
+          "type": "para",
+          "text": "Of all, he said. And your mother, too, is the mother of all? Yes, our mother too. Yes; and your mother has a progeny of sea-urchins then? Yes; and yours, he said. And gudgeons and puppies and pigs are your brothers? And yours too. And your papa is a dog? And so is yours, he said. If you will answer my questions, said Dionysodorus, I will soon extract the same admissions from you, Ctesippus. You say that you have a dog.",
+          "lineStart": 1223
+        },
+        {
+          "type": "para",
+          "text": "Yes, a villain of a one, said Ctesippus. And he has puppies? Yes, and they are very like himself. And the dog is the father of them? Yes, he said, I certainly saw him and the mother of the puppies come together.",
+          "lineStart": 1236
+        },
+        {
+          "type": "para",
+          "text": "And is he not yours? To be sure he is. Then he is a father, and he is yours; ergo, he is your father, and the puppies are your brothers.",
+          "lineStart": 1242
+        },
+        {
+          "type": "para",
+          "text": "Let me ask you one little question more, said Dionysodorus, quickly interposing, in order that Ctesippus might not get in his word: You beat this dog?",
+          "lineStart": 1246
+        },
+        {
+          "type": "para",
+          "text": "Ctesippus said, laughing, Indeed I do; and I only wish that I could beat you instead of him.",
+          "lineStart": 1249
+        },
+        {
+          "type": "para",
+          "text": "Then you beat your father, he said. I should have far more reason to beat yours, said Ctesippus; what could he have been thinking of when he begat such wise sons? much good has this father of you and your brethren the puppies got out of this wisdom of yours.",
+          "lineStart": 1251
+        },
+        {
+          "type": "para",
+          "text": "But neither he nor you, Ctesippus, have any need of much good. And have you no need, Euthydemus? he said. Neither I nor any other man; for tell me now, Ctesippus, if you think it good or evil for a man who is sick to drink medicine when he wants it; or to go to war armed rather than unarmed.",
+          "lineStart": 1256
+        },
+        {
+          "type": "para",
+          "text": "Good, I say. And yet I know that I am going to be caught in one of your charming puzzles.",
+          "lineStart": 1262
+        },
+        {
+          "type": "para",
+          "text": "That, he replied, you will discover, if you answer; since you admit medicine to be good for a man to drink, when wanted, must it not be good for him to drink as much as possible; when he takes his medicine, a cartload of hellebore will not be too much for him?",
+          "lineStart": 1264
+        },
+        {
+          "type": "para",
+          "text": "Ctesippus said: Quite so, Euthydemus, that is to say, if he who drinks is as big as the statue of Delphi.",
+          "lineStart": 1268
+        },
+        {
+          "type": "para",
+          "text": "And seeing that in war to have arms is a good thing, he ought to have as many spears and shields as possible?",
+          "lineStart": 1270
+        },
+        {
+          "type": "para",
+          "text": "Very true, said Ctesippus; and do you think, Euthydemus, that he ought to have one shield only, and one spear?",
+          "lineStart": 1272
+        },
+        {
+          "type": "para",
+          "text": "I do. And would you arm Geryon and Briarcus in that way? Considering that you and your companion fight in armour, I thought that you would have known better.... Here Euthydemus held his peace, but Dionysodorus returned to the previous answer of Ctesippus and said:-",
+          "lineStart": 1274
+        },
+        {
+          "type": "para",
+          "text": "Do you not think that the possession of gold is a good thing? Yes, said Ctesippus, and the more the better. And to have money everywhere and always is a good? Certain a great good, he said. And you admit gold to be a good? Certainly, he replied. And ought not a man then to have gold everywhere and always, and as much as possible in himself, and may he not be deemed the happiest of men who has three talents of gold in his belly, and a talent in his pate, and a stater of gold in either eye?",
+          "lineStart": 1279
+        },
+        {
+          "type": "para",
+          "text": "Yes, Euthydemus, said Ctesippus; and the Scythians reckon those who have gold in their own skulls to be the happiest and bravest of men (that is only another instance of your manner of speaking about the dog and father), and what is still more extraordinary, they drink out of their own skulls gilt and see the inside of them, and hold their own head in their hands.",
+          "lineStart": 1290
+        },
+        {
+          "type": "para",
+          "text": "And do the Scythians and others see that which has the quality of vision, or that which has not? said Euthydemus.",
+          "lineStart": 1296
+        },
+        {
+          "type": "para",
+          "text": "That which has the quality of vision clearly. And you also see that which has the quality Of vision? he said. Yes, I do. Then do you see our garments? Yes. Then our garments have the quality of vision. They can see to any extent, said Ctesippus. What can they see? Nothing; but you, my sweet man, may perhaps imagine that they do not see; and certainly, Euthydemus, you do seem to me to have been caught napping when you were not asleep, and that if it be possible to speak and say nothing-you are doing so.",
+          "lineStart": 1298
+        },
+        {
+          "type": "para",
+          "text": "And may there not be a silence of the speaker? said Dionysodorus. Impossible, said Ctesippus. Or a speaking of the silent? That is still more impossible, he said. But when you speak of stones, wood, iron bars, do you not speak of the silent?",
+          "lineStart": 1311
+        },
+        {
+          "type": "para",
+          "text": "Not when I pass a smithy; for then the iron bars make a tremendous noise and outcry if they are touched: so that here your wisdom is strangely mistaken, please, however, to tell me how you can be silent when speaking (I thought that Ctesippus was put upon his mettle because Cleinias was present).",
+          "lineStart": 1318
+        },
+        {
+          "type": "para",
+          "text": "When you are silent, said Euthydemus, is there not a silence of all things?",
+          "lineStart": 1323
+        },
+        {
+          "type": "para",
+          "text": "Yes, he said. But if speaking things are included in all things, then the speaking are silent.",
+          "lineStart": 1325
+        },
+        {
+          "type": "para",
+          "text": "What, said Ctesippus; then all things are not silent? Certainly not, said Euthydemus. Then, my good friend, do they all speak? Yes; those which speak. Nay, said Ctesippus, but the question which I ask is whether all things are silent or speak?",
+          "lineStart": 1328
+        },
+        {
+          "type": "para",
+          "text": "Neither and both, said Dionysodorus, quickly interposing; I am sure that you will be \"nonplussed\" at that answer.",
+          "lineStart": 1335
+        },
+        {
+          "type": "para",
+          "text": "Here Ctesippus, as his manner was, burst into a roar of laughter; he said, That brother of yours, Euthydemus, has got into a dilemma; all is over with him. This delighted Cleinias, whose laughter made Ctesippus ten times as uproarious; but I cannot help thinking that the rogue must have picked up this answer from them; for there has been no wisdom like theirs in our time. Why do you laugh, Cleinias, I said, at such solemn and beautiful things?",
+          "lineStart": 1337
+        },
+        {
+          "type": "para",
+          "text": "Why, Socrates, said Dionysodorus, did you ever see a beautiful thing?",
+          "lineStart": 1344
+        },
+        {
+          "type": "para",
+          "text": "Yes, Dionysodorus, I replied, I have seen many. Were they other than the beautiful, or the same as the beautiful? Now I was in a great quandary at having to answer this question, and I thought that I was rightly served for having opened my mouth at all: I said however, They are not the same as absolute beauty, but they have beauty present with each of them.",
+          "lineStart": 1346
+        },
+        {
+          "type": "para",
+          "text": "And are you an ox because an ox is present with you, or are you Dionysodorus, because Dionysodorus is present with you?",
+          "lineStart": 1353
+        },
+        {
+          "type": "para",
+          "text": "God forbid, I replied. But how, he said, by reason of one thing being present with another, will one thing be another?",
+          "lineStart": 1355
+        },
+        {
+          "type": "para",
+          "text": "Is that your difficulty? I said. For I was beginning to imitate their skill, on which my heart was set. BR",
+          "lineStart": 1358
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 270,
+    "wordCount": 12891
+  }
+}

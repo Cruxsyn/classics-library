@@ -1,0 +1,61 @@
+{
+  "id": "Demosthenes/dem.53",
+  "author": "Demosthenes",
+  "authorKey": "Demosthenes",
+  "title": "Against Nicostratus",
+  "translator": "Vince/DeWitt/Murray",
+  "language": "Greek",
+  "written": null,
+  "sourceNote": "From the Perseus Project",
+  "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "ambiguous: only 0 interior citation lines; defaulted to prose",
+  "textModeStats": {
+    "lineCount": 3,
+    "paragraphCount": 3,
+    "interiorLineCount": 0,
+    "medianLineLength": 19.0,
+    "meanLineLength": 188.33333333333334,
+    "longInteriorLineRatio": 0.0,
+    "unterminatedInteriorLineRatio": 0.0,
+    "longUnterminatedInteriorLineRatio": 0.0,
+    "explicitBreakLineRatio": 0.0,
+    "unmarkedLineRatio": 0.3333333333333333
+  },
+  "landingUrl": "https://classics.mit.edu/Demosthenes/dem.53.html",
+  "textUrls": [
+    "https://classics.mit.edu/Demosthenes/dem.53.html"
+  ],
+  "txtUrl": null,
+  "sections": [
+    {
+      "seq": 1,
+      "id": "dem.53-against-nicostratus",
+      "heading": "Against Nicostratus",
+      "partTitle": "Against Nicostratus",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Against Nicostratus",
+          "lineStart": 1
+        },
+        {
+          "type": "para",
+          "text": "By Demosthenes",
+          "lineStart": 2
+        },
+        {
+          "type": "para",
+          "text": "Translated by Vince/DeWitt/Murray This work is only provided via the Perseus Project at Tufts University. You may begin reading the English translation as well as the Greek version and a Greek version with morphological links . If you have any questions about the Perseus Project texts in the Internet Classics Archive, including the Perseus Project copyright notice , please consult the help pages . Please direct any inquiries about the texts themselves to the Perseus Project Webmaster at webmaster@perseus.tufts.edu. © 1994-2009",
+          "lineStart": 3
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 2,
+    "wordCount": 86
+  }
+}

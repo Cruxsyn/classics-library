@@ -1,0 +1,3093 @@
+{
+  "id": "Sophocles/trachinae",
+  "author": "Sophocles",
+  "authorKey": "Sophocles",
+  "title": "The Trachiniae",
+  "translator": "R. C. Jebb",
+  "language": "Greek",
+  "written": "430 BCE",
+  "sourceNote": null,
+  "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "hard-wrapped prose: 0.513 long unterminated interior lines, median line length 59.0, 0.947 unmarked continuation lines",
+  "textModeStats": {
+    "lineCount": 1284,
+    "paragraphCount": 66,
+    "interiorLineCount": 1218,
+    "medianLineLength": 59.0,
+    "meanLineLength": 46.85981308411215,
+    "longInteriorLineRatio": 0.5706075533661741,
+    "unterminatedInteriorLineRatio": 0.7561576354679803,
+    "longUnterminatedInteriorLineRatio": 0.513136288998358,
+    "explicitBreakLineRatio": 0.002336448598130841,
+    "unmarkedLineRatio": 0.9470404984423676
+  },
+  "landingUrl": "https://classics.mit.edu/Sophocles/trachinae.html",
+  "textUrls": [
+    "https://classics.mit.edu/Sophocles/trachinae.html"
+  ],
+  "txtUrl": "https://classics.mit.edu/Sophocles/trachinae.pl.txt",
+  "sections": [
+    {
+      "seq": 1,
+      "id": "trachinae-the-trachiniae",
+      "heading": "The Trachiniae",
+      "partTitle": "The Trachiniae",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Dramatis Personae",
+          "lineStart": 10
+        },
+        {
+          "type": "para",
+          "text": "DEIANEIRA NURSE HYLLUS, son of HERACLES and DEIANEIRA MESSENGER LICHAS, the herald of HERACLES HERACLES AN OLD MAN CHORUS OF TRACHINIAN MAIDENS Scene At Trachis, before the house of HERACLES. Enter DEIANEIRA from the house, accompanied by the NURSE.",
+          "lineStart": 11
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 20
+        },
+        {
+          "type": "para",
+          "text": "There is a saying among men, put forth of old, that thou canst not rightly judge whether a mortal's lot is good or evil, ere he die. But I, even before I have passed to the world of death, know well that my life is sorrowful and bitter; I, who in the house of my father Oeneus, while yet I dwelt at Pleuron, had such fear of bridals as never vexed any maiden of Aetolia. For my wooer was a river-god, Achelous, who in three shapes was ever asking me from my sire,- coming now as a bull in bodily form, now as serpent with sheeny coils, now with trunk of man and front of ox, while from a shaggy beard the streams of fountain-water flowed abroad. With the fear of such a suitor before mine eyes, I was always praying in my wretchedness that I might die, or ever I should come near to such a bed.",
+          "lineStart": 21
+        },
+        {
+          "type": "para",
+          "text": "But at last, to my joy, came the glorious son of Zeus and Alcmena; who dosed with him in combat, and delivered me. How the fight was waged, I cannot clearly tell, I know not; if there be any one who watched that sight without terror, such might speak: I, as I sat there, was distraught with dread, lest beauty should bring me sorrow at the last. But finally the Zeus of battles ordained well,- if well indeed it be: for since I have been joined to Heracles as his chosen bride, fear after fear hath haunted me on his account; one night brings a trouble, and the next night, in turn, drives it out. And then children were born to us; whom he has seen only as the husbandman sees his distant field, which he visits at seedtime, and once again at harvest. Such was the life that kept him journeying to and fro, in the service of a certain master.",
+          "lineStart": 33
+        },
+        {
+          "type": "para",
+          "text": "But now, when he hath risen above those trials,- now it is that my anguish is sorest. Ever since he slew the valiant Iphitus, we have been dwelling here in Trachis, exiles from our home, and the guests of stranger; but where he is, no one knows; I only know that he is gone, and hath pierced my heart with cruel pangs for him. I am almost sure that some evil hath befallen him; it is no short space that hath passed, but ten long months, and then five more,- and still no message from him. Yes, there has been some dread mischance;- witness that tablet which he left with me ere he went forth: oft do I pray to the gods that I may not have received it for my sorrow.",
+          "lineStart": 45
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "NURSE",
+          "lineStart": 55
+        },
+        {
+          "type": "para",
+          "text": "Deianeira, my mistress, many a time have I marked thy bitter tears and lamentations, as thou bewailedst the going forth of Heracles; but now,- if it be meet to school the free-born with the counsels of a slave, and if I must say what behoves thee,- why, when thou art so rich in sons, dost thou send no one of them to seek thy lord;- Hyllus, before all, who might well go on that errand, if he cared that there should be tidings of his father's welfare? Lo! there he comes, speeding towards the house with timely step; if, then, thou deemest that I speak in season, thou canst use at once my counsel, and the man. HYLLUS comes in from the side.",
+          "lineStart": 56
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 66
+        },
+        {
+          "type": "para",
+          "text": "My child, my son, wise words may fall, it seems, from humble lips; this woman is a slave, but hath spoken in the spirit of the free.",
+          "lineStart": 67
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 69
+        },
+        {
+          "type": "para",
+          "text": "How, mother? Tell me, if it may be told.",
+          "lineStart": 70
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 71
+        },
+        {
+          "type": "para",
+          "text": "It brings thee shame, she saith, that, when thy father hath been so long a stranger, thou hast not sought to learn where he is.",
+          "lineStart": 72
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 74
+        },
+        {
+          "type": "para",
+          "text": "Nay, I know,- if rumour can be trusted.",
+          "lineStart": 75
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 76
+        },
+        {
+          "type": "para",
+          "text": "And in what region, my child, doth rumour place him?",
+          "lineStart": 77
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 78
+        },
+        {
+          "type": "para",
+          "text": "Last year, they say, through all the months, he toiled as bondman to Lydian woman.",
+          "lineStart": 79
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 81
+        },
+        {
+          "type": "para",
+          "text": "If he bore that, then no tidings can surprise.",
+          "lineStart": 82
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 83
+        },
+        {
+          "type": "para",
+          "text": "Well, he has been delivered from that, as I hear.",
+          "lineStart": 84
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 85
+        },
+        {
+          "type": "para",
+          "text": "Where, then, is he reported to be now,- alive or dead?",
+          "lineStart": 86
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 87
+        },
+        {
+          "type": "para",
+          "text": "He is waging or planning a war, they say, upon Euboea, the realm of Eurytus.",
+          "lineStart": 88
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 90
+        },
+        {
+          "type": "para",
+          "text": "Knowest thou, my son, that he hath left with me sure oracles touching that land?",
+          "lineStart": 91
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 93
+        },
+        {
+          "type": "para",
+          "text": "What are they, mother? I know not whereof thou speakest.",
+          "lineStart": 94
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 95
+        },
+        {
+          "type": "para",
+          "text": "That either he shall meet his death, or, having achieved this task, shall have rest thenceforth, for all his days to come.",
+          "lineStart": 96
+        },
+        {
+          "type": "para",
+          "text": "So, my child, when his fate is thus trembling in the scale, wilt thou not go to succour him? For we are saved, if he find safety, or we perish with him.",
+          "lineStart": 99
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 102
+        },
+        {
+          "type": "para",
+          "text": "Ay, I will go, my mother; and, had I known the import of these prophecies, I had been there long since; but, as it was, my father's wonted fortune suffered me not to feel fear for him, or to be anxious overmuch. Now that I have the knowledge, I will spare no pains to learn the whole truth in this matter.",
+          "lineStart": 103
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 108
+        },
+        {
+          "type": "para",
+          "text": "Go, then, my son; be the seeker ne'er so late, he is rewarded if he learn tidings of joy. HYLLUS departs as the CHORUS OF TRACHINIAN MAIDENS enters. They are free-born young women of Trachis who are friends and confidantes of DEIANEIRA. She remains during their opening choral song.",
+          "lineStart": 109
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 114
+        },
+        {
+          "type": "para",
+          "text": "singing strophe 1 Thou whom Night brings forth at the moment when she is despoiled of her starry crown, and lays to rest in thy splendour, tell me, pray thee, O Sun-god, tell me where abides Alcmena's son? Thou glorious lord of flashing light, say, is he threading the straits of the sea, or hath he found an abode on either continent? Speak, thou who seest as none else can see!",
+          "lineStart": 115
+        },
+        {
+          "type": "para",
+          "text": "antistrophe 1 For Deianeira, as I hear, hath ever an aching heart; she, the battle-prize of old, is now like some bird lorn of its mate; she can never lull her yearning, nor stay her tears; haunted by a sleepless fear for her absent lord, she pines on her anxious, widowed couch, miserable in her foreboding of mischance. strophe 2 As one may see billow after billow driven over the wide deep by the tireless south-wind or the north, so the trouble of his life, stormy as the Cretan sea, now whirls back the son of Cadmus, now lifts him to honour. But some god ever saves him from the house of death, and suffers him not to fail.",
+          "lineStart": 122
+        },
+        {
+          "type": "para",
+          "text": "antistrophe 2 Lady, I praise not this thy mood; with all reverence will I speak, yet in reproof. Thou dost not well, I say, to kill fair hope by fretting; remember that the son of Cronus himself, the all-disposing king, hath not appointed a painless lot for mortals. Sorrow and joy come round to all, as the Bear moves in his circling paths. epode Yea, starry night abides not with men, nor tribulation, nor wealth; in a moment it is gone from us, and another hath his turn of gladness, and of bereavement. So would I wish thee also, the Queen, to keep that prospect ever in thy thoughts; for when hath Zeus been found so careless of his children?",
+          "lineStart": 132
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 143
+        },
+        {
+          "type": "para",
+          "text": "Ye have heard of my trouble, I think, and that hath brought you here; but the anguish which consumes my heart- ye are strangers to that; and never may ye learn it by suffering! Yes, the tender plant grows in those sheltered regions of its own! and the Sun-god's heat vexes it not, nor rain, nor any wind; but it rejoices in its sweet, untroubled being, til such time as the maiden is called a wife, and finds her portion of anxious thoughts in the night, brooding on danger to husband or to children. Such an one could understand the burden of my cares; she could judge them by her own.",
+          "lineStart": 144
+        },
+        {
+          "type": "para",
+          "text": "Well, I have had many a sorrow to weep for ere now; but I am going to speak of one more grievous than them all.",
+          "lineStart": 153
+        },
+        {
+          "type": "para",
+          "text": "When Heracles my lord was going from home on his last journey, he left in the house an ancient tablet, inscribed with tokens which he had never brought himself to explain to me before, many as were the ordeals to which he had gone forth. He had always departed as if to conquer, not to die. But now, as if he were a doomed man, he told me what portion of his substance I was to take for my dower, and how he would have his sons share their father's land amongst them. And he fixed the time; saying that, when a year and three months should have passed since he had left the country, then he was fated to die; or, if he should have survived that term, to live thenceforth an untroubled life.",
+          "lineStart": 155
+        },
+        {
+          "type": "para",
+          "text": "Such, he said, was the doom ordained by the gods to be accomplished in the toils of Heracles; as the ancient oak at Dodona had spoken of yore, by the mouth of the two Peleiades. And this is the precise moment when the fulfilment of that word becomes due; so that I start up from sweet slumber, my friends, stricken with terror at the thought that I must remain widowed of the noblest among men.",
+          "lineStart": 165
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 171
+        },
+        {
+          "type": "para",
+          "text": "Hush- no more ill-omened words; I see a man approaching, who wears a wreath, as if for joyous tidings. A MESSENGER enters.",
+          "lineStart": 172
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 175
+        },
+        {
+          "type": "para",
+          "text": "Queen Deianeira, I shall be the first of messengers to free thee from fear. Know that Alcmena's son lives and triumphs, and from battle brings the first-fruits to the gods of this land.",
+          "lineStart": 176
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 179
+        },
+        {
+          "type": "para",
+          "text": "What news is this, old man, that thou hast told me?",
+          "lineStart": 180
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 181
+        },
+        {
+          "type": "para",
+          "text": "That thy lord, admired of all, will soon come to thy house, restored to thee in his victorious might.",
+          "lineStart": 182
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 184
+        },
+        {
+          "type": "para",
+          "text": "What citizen or stranger hath told thee this?",
+          "lineStart": 185
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 186
+        },
+        {
+          "type": "para",
+          "text": "In the meadow, summer haunt of oxen, Lichas the herald is proclaiming it to many: from him I heard it, and flew hither, that I might be the first to give thee these tidings, and so might reap some guerdon from thee, and win thy grace.",
+          "lineStart": 187
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 191
+        },
+        {
+          "type": "para",
+          "text": "And why is he not here, if he brings good news?",
+          "lineStart": 192
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 193
+        },
+        {
+          "type": "para",
+          "text": "His task, lady, is no easy one; all the Malian folk have thronged around him with questions, and he cannot move forward: each and all are bent on learning what they desire, and will not release him until they are satisfied. Thus their eagerness detains him against his will; but thou shalt presently see him face to face.",
+          "lineStart": 194
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 199
+        },
+        {
+          "type": "para",
+          "text": "O Zeus, who rulest the meads of Oeta, sacred from the scythe, at last, though late, thou hast given us joy! Uplift your voices, ye women within the house and ye beyond our gates, since now we are gladdened by the light of this message, that hath risen on us beyond my hope!",
+          "lineStart": 200
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF ONE SEMI-CHORUS",
+          "lineStart": 204
+        },
+        {
+          "type": "para",
+          "text": "singing Let the maidens raise a joyous strain for the house, with songs of triumph at the hearth; and, amidst them, let the shout of the men go up with one accord for Apollo of the bright quiver, our Defender! And at the same time, ye maidens, lift up a paean, cry aloud to his sister, the Ortygian Artemis, smiter of deer, goddess of the twofold torch, and to the Nymphs her neighbours!",
+          "lineStart": 205
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF OTHER SEMI-CHORUS",
+          "lineStart": 211
+        },
+        {
+          "type": "para",
+          "text": "My spirit soars; I will not reject the wooing of the flute.- O thou sovereign of my soul! Lo, the ivy's spell begins to work upon me! Euoe!- even now it moves me to whirl in the swift dance of Bachanals!",
+          "lineStart": 212
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 215
+        },
+        {
+          "type": "para",
+          "text": "Praise, praise unto the Healer!",
+          "lineStart": 216
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF WHOLE CHORUS",
+          "lineStart": 217
+        },
+        {
+          "type": "para",
+          "text": "See, dear lady, see! Behold, these tidings are taking shape before thy gaze.",
+          "lineStart": 218
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 220
+        },
+        {
+          "type": "para",
+          "text": "I see it, dear maidens; my watching eyes had not failed to note yon company. Enter LICHAS, followed by Captive Maidens. Conspicuous among them is IOLE. -All hail to the herald, whose coming hath been so long delayed!- if indeed thou bringest aught that can give joy.",
+          "lineStart": 221
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 227
+        },
+        {
+          "type": "para",
+          "text": "We are happy in our return, and happy in thy greeting, lady, which befits the deed achieved; for when a man hath fair fortune, he needs must win good welcome.",
+          "lineStart": 228
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 231
+        },
+        {
+          "type": "para",
+          "text": "O best of friends, tell me first what first I would know,- shall I receive Heracles alive?",
+          "lineStart": 232
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 234
+        },
+        {
+          "type": "para",
+          "text": "I, certainly, left him alive and well,- in vigorous health, unburdened by disease.",
+          "lineStart": 235
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 237
+        },
+        {
+          "type": "para",
+          "text": "Where, tell me- at home, or on foreign soil?",
+          "lineStart": 238
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 239
+        },
+        {
+          "type": "para",
+          "text": "There is a headland of Euboea, where to Cenaean Zeus he consecrates altars, and the tribute of fruitful ground.",
+          "lineStart": 240
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 242
+        },
+        {
+          "type": "para",
+          "text": "In payment of a vow, or at the bidding of an oracle?",
+          "lineStart": 243
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 244
+        },
+        {
+          "type": "para",
+          "text": "For a vow, made when he was seeking to conquer and despoil the country of these women who are before thee.",
+          "lineStart": 245
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 247
+        },
+        {
+          "type": "para",
+          "text": "And these- who are they, I pray thee, and whose daughters? They deserve pity, unless their plight deceives me.",
+          "lineStart": 248
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 250
+        },
+        {
+          "type": "para",
+          "text": "These are captives whom he chose out for himself and for the gods, when he sacked the city of Eurytus.",
+          "lineStart": 251
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 253
+        },
+        {
+          "type": "para",
+          "text": "Was it the war against that city which kept him away so long, beyond all forecast, past all count of days?",
+          "lineStart": 254
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 256
+        },
+        {
+          "type": "para",
+          "text": "Not so: the greater part of the time he was detained in Lydia,- no free man, as he declares, but sold into bondage. No offence should attend on the word, lady, when the deed is found to be of Zeus. So he passed a whole year, as he himself avows, in thraldom to Omphale the barbarian. And so stung was he by that reproach, he bound himself by a solemn oath that he would one day enslave, with wife and child, the man who had brought that calamity upon him. Nor did he speak the word in vain; but, when he bad been purged, gathered an alien host, and went against the city of Eurytus. That man, he said, alone of mortals, had a share in causing his misfortune. For when Heracles, an old friend, came to his house and hearth, Eurytus heaped on him the taunts of a bitter tongue and spiteful soul,- saying, 'Thou hast unerring arrows in thy hands, and yet my sons surpass thee in the trial of archery'; 'Thou art a slave,' he cried, 'a free man's broken thrall': and at a banquet, when his guest was full of wine, he thrust him from his doors.",
+          "lineStart": 257
+        },
+        {
+          "type": "para",
+          "text": "Wroth thereat, when afterward Iphitus came to the hill of Tiryns, in search for horses that had strayed, Heracles seized a moment when the man's wandering thoughts went not with his wandering gaze, and hurled him from a tower-like summit. But in anger at that deed, Zeus our lord, Olympian sire of all, sent him forth into bondage, and spared not, because, this once, he had taken a life by guile. Had he wreaked his vengeance openly, Zeus would surely have pardoned him the righteous triumph; for the gods, too, love not insolence.",
+          "lineStart": 272
+        },
+        {
+          "type": "para",
+          "text": "So those men, who waxed so proud with bitter speech, are themselves in the mansions of the dead, all of them, and their city is enslaved; while the women whom thou beholdest, fallen from happiness to misery, come here to thee; for such was thy lord's command, which I, his faithful servant, perform. He himself, thou mayest be sure,- so soon as he shall have offered holy sacrifice for his victory to Zeus from whom he sprang,- will be with thee. After all the fair tidings that have been told, this, indeed, is the sweetest word to hear.",
+          "lineStart": 280
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 288
+        },
+        {
+          "type": "para",
+          "text": "Now, O Queen, thy joy is assured; part is with thee, and thou hast promise of the rest.",
+          "lineStart": 289
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 291
+        },
+        {
+          "type": "para",
+          "text": "Yea, have I not the fullest reason to rejoice at these tidings of my lord's happy fortune? To such fortune, such joy must needs respond. And yet a prudent mind can see room for misgiving lest he who prospers should one day suffer reverse. A strange pity hath come over me, friends, at the sight of these ill-fated exiles, homeless and fatherless in a foreign land; once the daughters, perchance, of free-born sires, but now doomed to the life of slaves. O Zeus, who turnest the tide of battle, never may I see child of mine thus visited by thy hand; nay, if such visitation is to be, may it not fall while Deianeira lives! Such dread do I feel, beholding these. To IOLE Ah, hapless girl, say, who art thou? A maiden, or a mother? To judge by thine aspect, an innocent maiden, and of a noble race. Lichas, whose daughter is this stranger? Who is her mother, who her sire? Speak, I pity her more than all the rest, when I behold her; as she alone shows due feeling for her plight.",
+          "lineStart": 292
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 308
+        },
+        {
+          "type": "para",
+          "text": "How should I know? Why should'st thou ask me? Perchance the off, spring of not the meanest in yonder land.",
+          "lineStart": 309
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 311
+        },
+        {
+          "type": "para",
+          "text": "Can she be of royal race? Had Eurytus a daughter?",
+          "lineStart": 312
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 313
+        },
+        {
+          "type": "para",
+          "text": "I know not; indeed, I asked not many questions.",
+          "lineStart": 314
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 315
+        },
+        {
+          "type": "para",
+          "text": "And thou hast not heard her name from any of her companions?",
+          "lineStart": 316
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 317
+        },
+        {
+          "type": "para",
+          "text": "No, indeed, I went through my task in silence.",
+          "lineStart": 318
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 319
+        },
+        {
+          "type": "para",
+          "text": "Unhappy girl, let me, at least, hear it from thine own mouth. It is indeed distressing not to know thy name. IOLE maintains her silence.",
+          "lineStart": 320
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 323
+        },
+        {
+          "type": "para",
+          "text": "It will be unlike her former behaviour, then, I can tell thee, if she opens her lips: for she hath not uttered one word, but hath ever been travailing with the burden of her sorrow, and weeping bitterly, poor girl, since she left her wind-swept home. Such a state is grievous for herself, but claims our forbearance.",
+          "lineStart": 324
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 329
+        },
+        {
+          "type": "para",
+          "text": "Then let her be left in peace, and pass under our roof as she wishes; her present woes must not be crowned with fresh pains at my hands; she hath enough already.-Now let us all go in, that thou mayest start speedily on thy journey, while I make all things ready in the house. LICHAS leads the captives into the house. DEIANEIRA starts to follow them, but the MESSENGER, who has been present during the entire scene, detains her. He speaks as he moves nearer to her.",
+          "lineStart": 330
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 337
+        },
+        {
+          "type": "para",
+          "text": "Ay, but first tarry here a brief space, that thou mayest learn, apart from yonder folk, whom thou art taking to thy hearth, and mayest gain the needful knowledge of things which have not been told to thee. Of these I am in full possession.",
+          "lineStart": 338
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 342
+        },
+        {
+          "type": "para",
+          "text": "What means this? Why wouldest thou stay my departure?",
+          "lineStart": 343
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 344
+        },
+        {
+          "type": "para",
+          "text": "Pause and listen. My former story was worth thy hearing, and so will this one be, methinks.",
+          "lineStart": 345
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 347
+        },
+        {
+          "type": "para",
+          "text": "Shall I call those others back? Or wilt thou speak before me and these maidens?",
+          "lineStart": 348
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 350
+        },
+        {
+          "type": "para",
+          "text": "To thee and these I can speak freely; never mind the others.",
+          "lineStart": 351
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 352
+        },
+        {
+          "type": "para",
+          "text": "Well, they are gone;- so thy story can proceed.",
+          "lineStart": 353
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 354
+        },
+        {
+          "type": "para",
+          "text": "Yonder man was not speaking the straight-forward truth in aught that he has just told. He has given false tidings now, or else his former report was dishonest.",
+          "lineStart": 355
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 358
+        },
+        {
+          "type": "para",
+          "text": "How sayest thou? Explain thy whole drift clearly; thus far, thy words are riddles to me.",
+          "lineStart": 359
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 361
+        },
+        {
+          "type": "para",
+          "text": "I heard this man declare, before many witnesses, that for this maiden's sake Heracles overthrew Eurytus and the proud towers of Oechalia; Love, alone of the gods, wrought on him to do those deeds of arms,- not the toilsome servitude to Omphale in Lydia, nor the death to which Iphitus was hurled. But now the herald has thrust Love out of sight, and tells different tale.",
+          "lineStart": 362
+        },
+        {
+          "type": "para",
+          "text": "Well, when he could not persuade her sire to give him the maiden for his paramour, he devised some petty complaint as a pretext, and made war upon her land,- that in which, as he said, this Eurytus bore sway,- and slew the prince her father, and sacked her city. And now, as thou seest, he comes sending her to this house not in careless fashion, lady, nor like slave:-no, dream not of that,- it is not likely, if his heart is kindled with desire.",
+          "lineStart": 368
+        },
+        {
+          "type": "para",
+          "text": "I resolved, therefore, O Queen, to tell thee all that I had heard from yonder man. Many others were listening to it, as I was, in the public place where the Trachinians were assembled; and they can convict him. If my words are unwelcome, I am grieved; but nevertheless I have spoken out the truth.",
+          "lineStart": 375
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 380
+        },
+        {
+          "type": "para",
+          "text": "Ah me unhappy! In what plight do I stand? What secret bane have received beneath my roof? Hapless that I am! Is she nameless, then, as her convoy sware?",
+          "lineStart": 381
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 384
+        },
+        {
+          "type": "para",
+          "text": "Nay, illustrious by name as by birth; she is the daughter of Eurytus, and was once called Iole; she of whose parentage Lichas could say nothing, because, forsooth, he asked no questions.",
+          "lineStart": 385
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 388
+        },
+        {
+          "type": "para",
+          "text": "Accursed, above other evil-doers, be the man whom deeds of treachery dishonour!",
+          "lineStart": 389
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 391
+        },
+        {
+          "type": "para",
+          "text": "Ah, maidens, what am I to do? These latest tidings have bewildered me!",
+          "lineStart": 392
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 394
+        },
+        {
+          "type": "para",
+          "text": "Go and inquire from Lichas; perchance he will tell the truth, if thou constrain him to answer.",
+          "lineStart": 395
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 397
+        },
+        {
+          "type": "para",
+          "text": "Well, I will go; thy counsel is not amiss.",
+          "lineStart": 398
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 399
+        },
+        {
+          "type": "para",
+          "text": "And I, shall I wait here? Or what is thy pleasure?",
+          "lineStart": 400
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 401
+        },
+        {
+          "type": "para",
+          "text": "Remain;- here he comes from the house of his own accord, without summons from me. Enter LICHAS",
+          "lineStart": 402
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 405
+        },
+        {
+          "type": "para",
+          "text": "Lady, what message shall I bear to Heracles? Give me thy commands, for, as thou seest, I am going.",
+          "lineStart": 406
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 408
+        },
+        {
+          "type": "para",
+          "text": "How hastily thou art rushing away, when thy visit had been so long delayed,- before we have had time for further talk.",
+          "lineStart": 409
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 411
+        },
+        {
+          "type": "para",
+          "text": "Nay, if there be aught that thou would'st ask, I am at thy service.",
+          "lineStart": 412
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 414
+        },
+        {
+          "type": "para",
+          "text": "Wilt thou indeed give me the honest truth?",
+          "lineStart": 415
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 416
+        },
+        {
+          "type": "para",
+          "text": "Yes, be great Zeus my witness,- in anything that I know,",
+          "lineStart": 417
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 418
+        },
+        {
+          "type": "para",
+          "text": "Who is the woman, then, whom thou hast brought?",
+          "lineStart": 419
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 420
+        },
+        {
+          "type": "para",
+          "text": "She is Euboean; but of what birth, I cannot say.",
+          "lineStart": 421
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 422
+        },
+        {
+          "type": "para",
+          "text": "Sirrah, look at me:- to whom art thou speaking, think'st thou?",
+          "lineStart": 423
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 424
+        },
+        {
+          "type": "para",
+          "text": "And thou- what dost thou mean by such a question?",
+          "lineStart": 425
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 426
+        },
+        {
+          "type": "para",
+          "text": "Deign to answer me, if thou comprehendest.",
+          "lineStart": 427
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 428
+        },
+        {
+          "type": "para",
+          "text": "To the royal Deianeira, unless mine eyes deceive me,- daughter of Oeneus, wife of Heracles, and my queen.",
+          "lineStart": 429
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 431
+        },
+        {
+          "type": "para",
+          "text": "The very word that I wished to hear from thee:- thou sayest that she is thy queen?",
+          "lineStart": 432
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 434
+        },
+        {
+          "type": "para",
+          "text": "Yes, as in duty bound.",
+          "lineStart": 435
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 436
+        },
+        {
+          "type": "para",
+          "text": "Well, then, what art thou prepared to suffer, if found guilty of failing in that duty?",
+          "lineStart": 437
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 439
+        },
+        {
+          "type": "para",
+          "text": "Failing in duty? What dark saying is this?",
+          "lineStart": 440
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 441
+        },
+        {
+          "type": "para",
+          "text": "'Tis none; the darkest words are thine own.",
+          "lineStart": 442
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 443
+        },
+        {
+          "type": "para",
+          "text": "I will go, I was foolish to hear thee so long.",
+          "lineStart": 444
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 445
+        },
+        {
+          "type": "para",
+          "text": "No, not till thou hast answered a brief question.",
+          "lineStart": 446
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 447
+        },
+        {
+          "type": "para",
+          "text": "Ask what thou wilt; thou art not taciturn.",
+          "lineStart": 448
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 449
+        },
+        {
+          "type": "para",
+          "text": "That captive, whom thou hast brought home- thou knowest whom mean?",
+          "lineStart": 450
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 452
+        },
+        {
+          "type": "para",
+          "text": "Yes; but why dost thou ask?",
+          "lineStart": 453
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 454
+        },
+        {
+          "type": "para",
+          "text": "Well, saidst thou not that thy prisoner- she, on whom thy gaze now turns so vacantly- was Iole, daughter of Eurytus?",
+          "lineStart": 455
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 457
+        },
+        {
+          "type": "para",
+          "text": "Said it to whom? Who and where is the man that will be thy witness to hearing this from me?",
+          "lineStart": 458
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 460
+        },
+        {
+          "type": "para",
+          "text": "To many of our own folk thou saidst it: in the public gathering of Trachinians, a great crowd heard thus much from thee.",
+          "lineStart": 461
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 463
+        },
+        {
+          "type": "para",
+          "text": "Ay- said they heard-but 'tis one thing to report a fancy, and another to make the story good.",
+          "lineStart": 464
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 466
+        },
+        {
+          "type": "para",
+          "text": "A fancy! Didst thou not say on thine oath that thou wast bringing her us a bride for Heracles?",
+          "lineStart": 467
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 469
+        },
+        {
+          "type": "para",
+          "text": "I? bringing a bride?- In the name of the gods, dear mistress, tell me who this stranger may be?",
+          "lineStart": 470
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 472
+        },
+        {
+          "type": "para",
+          "text": "One who heard from thine own lips that the conquest of the whole city was due to love for this girl: the Lydian woman was not its destroyer, but the passion which this maid has kindled.",
+          "lineStart": 473
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 476
+        },
+        {
+          "type": "para",
+          "text": "Lady, let this fellow withdraw: to prate with the brainsick befits not sane man.",
+          "lineStart": 477
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 479
+        },
+        {
+          "type": "para",
+          "text": "Nay, I implore thee by Zeus whose lightnings go forth over the high glens of Oeta, do not cheat me of the truth! For she to whom thou wilt speak is not ungenerous, nor hath she yet to learn that the human heart is inconstant to its joys. They are not wise, then, who stand forth to buffet against Love; for Love rules the gods as he will, and me; and why not another woman, such as I am? So I am mad indeed, if I blame my husband, because that distemper hath seized him; or this woman, his partner in a thing which is no shame to them, and no wrong to me. Impossible! No; if he taught thee to speak falsely, 'tis not a noble lesson that thou art learning; or if thou art thine own teacher in this, thou wilt be found cruel when it is thy wish to prove kind. Nay, tell me the whole truth. To a free-born man, the name of liar cleaves as a deadly brand. If thy hope is to escape detection, that, too, is vain; there are many to whom thou hast spoken, who will tell me.",
+          "lineStart": 480
+        },
+        {
+          "type": "para",
+          "text": "And if thou art afraid, thy fear is mistaken. Not to learn the truth,-that, indeed, would pain me; but to know it- what is there terrible in that? Hath not Heracles wedded others ere now,- ay, more than living man,- and no one of them hath bad harsh word or taunt from me; nor shall this girl, though her whole being should be absorbed in her passion; for indeed I felt a profound pity when I beheld her, because her beauty hath wrecked her life, and she, hapless one, all innocent, hath brought her fatherland to ruin and to bondage.",
+          "lineStart": 494
+        },
+        {
+          "type": "para",
+          "text": "Well, those things must go with wind and stream.- To thee I say,-deceive whom thou wilt, but ever speak the truth to me.",
+          "lineStart": 502
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 504
+        },
+        {
+          "type": "para",
+          "text": "Hearken to her good counsel, and hereafter thou shalt have no cause to complain of this lady; our thanks, too, will be thine.",
+          "lineStart": 505
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 507
+        },
+        {
+          "type": "para",
+          "text": "Nay, then, dear mistress,- since I see that thou thinkest as mortals should think, and canst allow for weakness,- I will tell thee the whole truth, and hide it not. Yes, it is even as yon man saith. This girl inspired that overmastering love which long ago smote through the soul of Heracles; for this girl's sake the desolate Oechalia, her home, was made the prey of his spear. And he,- it is just to him to say so,- never denied this,- never told me to conceal it. But I, lady, fearing to wound thy heart by such tidings, have sinned, if thou count this in any sort a sin.",
+          "lineStart": 508
+        },
+        {
+          "type": "para",
+          "text": "Now, however, that thou knowest the whole story, for both your sakes,- for his, and not less for thine own,- bear with the woman, and be content that the words which thou hast spoken regarding her should bind thee still. For he, whose strength is victorious in all else, hath been utterly vanquished by his passion for this girl.",
+          "lineStart": 517
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 522
+        },
+        {
+          "type": "para",
+          "text": "Indeed, mine own thoughts move me to act thus. Trust me, I will not add a new affliction to my burdens by waging a fruitless fight against the gods.",
+          "lineStart": 523
+        },
+        {
+          "type": "para",
+          "text": "But let us go into the house, that thou mayest receive my messages; and, since gifts should be meetly recompensed with gifts,- that thou mayest take these also. It is not right that thou shouldest go back with empty hands, after coming with such a goodly train. Exit MESSENGER, as LICHAS and DEIANEIRA go into the house.",
+          "lineStart": 526
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 532
+        },
+        {
+          "type": "para",
+          "text": "singing strophe Great and mighty is the victory which the Cyprian queen ever bears away. I stay not now to speak of the gods; I spare to tell how she beguiled the son of Cronus, and Hades, the lord of darkness, or Poseidon, shaker of the earth.",
+          "lineStart": 533
+        },
+        {
+          "type": "para",
+          "text": "But, when this bride was to be won, who were the valiant rivals that entered the contest for her hand? Who went forth to the ordeal of battle, to the fierce blows and the blinding dust? antistrophe One was a mighty river-god, the dread form of a horned and four-legged bull, Achelous, from Oeniadae: the other came from Thebe, dear to Bacchus, with curved bow, and spears, and brandished club, the son of Zeus: who then met in combat, fain to win a bride: and the Cyprian goddess of nuptial joy was there with them, sole umpire of their strife.",
+          "lineStart": 539
+        },
+        {
+          "type": "para",
+          "text": "epode Then was there clatter of fists and clang of bow, and the noise of bull's horns therewith; then were there close-locked grapplings, and deadly blows from the forehead, and loud deep cries from both.",
+          "lineStart": 547
+        },
+        {
+          "type": "para",
+          "text": "Meanwhile, she, in her delicate beauty, sat on the side of a hill that could be seen afar, awaiting the husband that should be hers.",
+          "lineStart": 551
+        },
+        {
+          "type": "para",
+          "text": "So the battle rages, as I have told; but the fair bride who is the prize of the strife abides the end in piteous anguish. And suddenly she is parted from her mother, as when a heifer is taken from its dam. DEIANEIRA enters from the house alone, carrying in her arms a casket containing a robe.",
+          "lineStart": 554
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 559
+        },
+        {
+          "type": "para",
+          "text": "Dear friends, while our visitor is saying his farewell to the captive girls in the house, I have stolen forth to you,- partly to tell you what these hands have devised, and partly to crave your sympathy with my sorrow.",
+          "lineStart": 560
+        },
+        {
+          "type": "para",
+          "text": "A maiden,- or, methinks, no longer a maiden, but a mistress,- hath found her way into my house, as a freight comes to a mariner,- a merchandise to make shipwreck of my peace. And now we twain are to share the same marriage-bed, the same embrace. Such is the reward that Heracles hath sent me,- he whom I called true and loyal,- for guarding his home through all that weary time. I have no thought of anger against him, often as he is vexed with this distemper. But then to live with her, sharing the same union- what woman could endure it? For I see that the flower of her age is blossoming, while mine is fading; and the eyes of men love to cull the bloom of youth, but they turn aside from the old. This, then, is my fear,- lest Heracles, in name my spouse, should be the younger's mate.",
+          "lineStart": 564
+        },
+        {
+          "type": "para",
+          "text": "But, as I said, anger ill beseems a woman of understanding. I will tell you, friends, the way by which I hope to find deliverance and relief. I had a gift, given to me long ago by a monster of olden time, aid stored in an urn of bronze; a gift which, while yet a girl, I took up from the shaggy-breasted Nessus,- from his life-blood, as he lay dying; Nessus, who used to carry men in his arms across the deep waters of the Evenus, using no oar to waft them, nor sail of ship.",
+          "lineStart": 575
+        },
+        {
+          "type": "para",
+          "text": "I, too, was carried on his shoulders,- when, by my father's sending, first went forth with Heracles as his wife; and when I was in mid-stream, he touched me with wanton hands. I shrieked; the son of Zeus turned quickly round, and shot a feathered arrow; it whizzed through his breast to the lungs; and, in his mortal faintness, thus much the Centaur spake:-",
+          "lineStart": 582
+        },
+        {
+          "type": "para",
+          "text": "'Child of aged Oeneus, thou shalt have at least this profit of my ferrying,- if thou wilt hearken,-because thou wast the last whom I conveyed. If thou gatherest with thy hands the blood clotted round my wound, at the place where the Hydra, Lerna's monstrous growth, hath tinged the arrow with black gall,- this shall be to thee a charm for the soul of Heracles, so that he shall never look upon any woman to love her more than thee.'",
+          "lineStart": 588
+        },
+        {
+          "type": "para",
+          "text": "I bethought me of this, my friends- for, after his death, I had kept it carefully locked up in a secret place; and I have anointed this robe, doing everything to it as he enjoined while he lived. The work is finished. May deeds of wicked daring be ever far from my thoughts, and from my knowledge,- as I abhor the women who attempt them! But if in any wise I may prevail against this girl by love-spells and charms used on Heracles, the means to that end are ready;-unless, indeed, I seem to be acting rashly: if so, I will desist forthwith.",
+          "lineStart": 595
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 603
+        },
+        {
+          "type": "para",
+          "text": "Nay, if these measures give any ground of confidence, we think that thy design is not amiss.",
+          "lineStart": 604
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 606
+        },
+        {
+          "type": "para",
+          "text": "Well, the ground stands thus,- there is a fair promise; but I have not yet essayed the proof.",
+          "lineStart": 607
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 609
+        },
+        {
+          "type": "para",
+          "text": "Nay, knowledge must come through action; thou canst have no test which is not fanciful, save by trial.",
+          "lineStart": 610
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 612
+        },
+        {
+          "type": "para",
+          "text": "Well, we shall know presently:- for there I see the man already at the doors; and he will soon be going.- Only may my secret be well kept by you! While thy deeds are hidden, even though they be not seemly, thou wilt never be brought to shame. LICHAS enters from the house.",
+          "lineStart": 613
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 618
+        },
+        {
+          "type": "para",
+          "text": "What are thy commands? Give me my charge, daughter of Oeneus; for already I have tarried over long.",
+          "lineStart": 619
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 621
+        },
+        {
+          "type": "para",
+          "text": "Indeed, I have just been seeing to this for thee, Lichas, while thou wast speaking to the stranger maidens in the house;- that thou shouldest take for me this long robe, woven by mine own hand, a gift to mine absent lord.",
+          "lineStart": 622
+        },
+        {
+          "type": "para",
+          "text": "And when thou givest it, charge him that he, and no other, shall be the first to wear it; that it shall not be seen by the light of the sun, nor by the sacred precinct, nor by the fire at the hearth, until he stand forth, conspicuous before all eyes, and show it to the gods on a day when bulls are slain.",
+          "lineStart": 626
+        },
+        {
+          "type": "para",
+          "text": "For thus had I vowed,- that if I should ever see or hear that he had come safely home, I would duly clothe him in this robe, and so present him to the gods, newly radiant at their altar in new garb.",
+          "lineStart": 631
+        },
+        {
+          "type": "para",
+          "text": "As proof, thou shalt carry a token, which he will quickly recognise within the circle of this seal.",
+          "lineStart": 635
+        },
+        {
+          "type": "para",
+          "text": "Now go thy way; and, first, remember the rule that messengers should not be meddlers; next, so bear thee that my thanks may be joined to his doubling the grace which thou shalt win.",
+          "lineStart": 637
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 640
+        },
+        {
+          "type": "para",
+          "text": "Nay, if I ply this herald-craft of Hermes with any sureness, I will never trip in doing thine errand: I will not fail to deliver this casket as it is, and to add thy words in attestation of thy gift.",
+          "lineStart": 641
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 644
+        },
+        {
+          "type": "para",
+          "text": "Thou mayest be going now; for thou knowest well how things are with us in the house.",
+          "lineStart": 645
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 647
+        },
+        {
+          "type": "para",
+          "text": "I know, and will report, that all hath prospered.",
+          "lineStart": 648
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 649
+        },
+        {
+          "type": "para",
+          "text": "And then thou hast seen the greeting given to the stranger maiden-thou knowest how I welcomed her?",
+          "lineStart": 650
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LICHAS",
+          "lineStart": 652
+        },
+        {
+          "type": "para",
+          "text": "So that my heart was filled with wondering joy.",
+          "lineStart": 653
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 654
+        },
+        {
+          "type": "para",
+          "text": "What more, then, is there for thee to tell? I am afraid that it would be too soon to speak of the longing on my part, before we know if I am longed for there. LICHAS departs with the casket and DEIANEIRA retires into the house.",
+          "lineStart": 655
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 660
+        },
+        {
+          "type": "para",
+          "text": "Singing strophe 1 O ye who dwell by the warm springs between haven and crag, and by Oeta's heights; O dwellers by the land-locked waters of the Malian sea, on the shore sacred to the virgin-goddess of the golden shafts, where the Greeks meet in famous council at the Gates; antistrophe Soon shall the glorious voice of the flute go up for you again, resounding with no harsh strain of grief, but with such music as the lyre maketh to the gods! For the son whom Alcmena bore to Zeus is hastening homeward, with the trophies of all prowess. strophe He was lost utterly to our land, a wanderer over sea, while we waited through twelve long months, and knew nothing; and his loving wife, sad dweller with sad thoughts, was ever pining amid her tears. But now the War-god, roused to fury, hath delivered her from the days of her mourning. antistrophe May he come, may he come! Pause not the many-oared ship that carries him, till he shall have reached this town, leaving the island altar where, as rumour saith, he is sacrificing! Thence may he come, full of desire, steeped in love by the specious device of the robe, on which Persuasion hath spread her sovereign charm! DEIANEIRA comes out of the house in agitation.",
+          "lineStart": 661
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 684
+        },
+        {
+          "type": "para",
+          "text": "Friends, how I fear that I may have gone too far in all that I have been doing just now!",
+          "lineStart": 685
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 687
+        },
+        {
+          "type": "para",
+          "text": "What hath happened, Deianeira, daughter of Oeneus?",
+          "lineStart": 688
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 689
+        },
+        {
+          "type": "para",
+          "text": "I know not; but feel a misgiving that I shall presently be found to have wrought a great mischief, the issue of a fair hope.",
+          "lineStart": 690
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 692
+        },
+        {
+          "type": "para",
+          "text": "It is nothing, surely, that concerns thy gift to Heracles?",
+          "lineStart": 693
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 694
+        },
+        {
+          "type": "para",
+          "text": "Yea, even so. And henceforth I would say to all, act not with zeal, if ye act without light.",
+          "lineStart": 695
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 697
+        },
+        {
+          "type": "para",
+          "text": "Tell us the cause of thy fear, if it may be told.",
+          "lineStart": 698
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 699
+        },
+        {
+          "type": "para",
+          "text": "A thing hath come to pass, my friends, such that, if I declare it, ye will hear a marvel whereof none could have dreamed.",
+          "lineStart": 700
+        },
+        {
+          "type": "para",
+          "text": "That with which I was lately anointing the festal robe,- a white tuft of fleecy sheep's wool,- hath disappeared,- not consumed by anything in the house, but self-devoured and self-destroyed, as it crumbled down from the surface of a stone. But I must tell the story More at length, that thou mayest know exactly how this thing befell.",
+          "lineStart": 702
+        },
+        {
+          "type": "para",
+          "text": "I neglected no part of the precepts which the savage Centaur gave me, when the bitter barb was rankling in his side: they were in my memory, like the graven words which no hand may wash from a tablet of bronze. Now these were his orders, and I obeyed them:-to keep this unguent in secret place, always remote from fire and from the sun's warm ray, until I should apply it, newly spread, where I wished. So had I done. And now, when the moment for action had come, I performed the anointing privily in the house, with a tuft of soft wool which I had plucked from a sheep of our home-flock; then I folded up my gift, and laid it, unvisited by sunlight, within its casket, as ye saw.",
+          "lineStart": 707
+        },
+        {
+          "type": "para",
+          "text": "But as I was going back into the house, I beheld a thing too wondrous for words, and passing the wit of man to understand. I happened to have thrown the shred of wool, with which I bad been preparing the robe, into the full blaze of the sunshine. As it grew warm, it shrivelled all away, and quickly crumbled to powder on the ground, like nothing so much as the dust shed from a saw's teeth where men work timber. In such a state it lies as it fell. And from the earth, where it was strewn, clots of foam seethed up, as when the rich juice of the blue fruit from the vine of Bacchus is poured upon the ground.",
+          "lineStart": 717
+        },
+        {
+          "type": "para",
+          "text": "So I know not, hapless one, whither to turn my thoughts; I only see that I have done a fearful deed. Why or wherefore should the monster, in his death-throes, have shown good will to me, on whose account he was dying? Impossible! No, he was cajoling me, in order to slay the man who had smitten him: and I gain the knowledge of this too late, when it avails no more. Yes, I alone- unless my foreboding prove false- I, wretched one, must destroy him! For I know that the arrow which made the wound did scathe even to the god Cheiron; and it kills all beasts that it touches. And since 'tis this same black venom in the blood that hath passed out through the wound of Nessus, must it not kill my lord also? I ween it must.",
+          "lineStart": 726
+        },
+        {
+          "type": "para",
+          "text": "Howbeit, I am resolved that, if he is to fall, at the same time I also shall be swept from life; for no woman could bear to live with an evil name, if she rejoices that her nature is not evil.",
+          "lineStart": 737
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 740
+        },
+        {
+          "type": "para",
+          "text": "Mischief must needs be feared; but it is not well to doom our hope before the event.",
+          "lineStart": 741
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 743
+        },
+        {
+          "type": "para",
+          "text": "Unwise counsels leave no room even for a hope which can lend courage.",
+          "lineStart": 744
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 746
+        },
+        {
+          "type": "para",
+          "text": "Yet towards those who have erred unwittingly, men's anger is softened; and so it should be towards thee.",
+          "lineStart": 747
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 749
+        },
+        {
+          "type": "para",
+          "text": "Nay, such words are not for one who has borne a part in the ill deed, but only for him who has no trouble at his own door.",
+          "lineStart": 750
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 752
+        },
+        {
+          "type": "para",
+          "text": "'Twere well to refrain from further speech, unless thou would'st tell aught to thine own son; for he is at hand, who went erewhile to seek his sire. Enter HYLLUS",
+          "lineStart": 753
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 757
+        },
+        {
+          "type": "para",
+          "text": "O mother, would that one of three things had befallen thee! Would that thou wert dead,- or, if living, no mother of mine,- or that some new and better spirit had passed into thy bosom.",
+          "lineStart": 758
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 761
+        },
+        {
+          "type": "para",
+          "text": "Ah, my son, what cause have I given thee to abhor me?",
+          "lineStart": 762
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 763
+        },
+        {
+          "type": "para",
+          "text": "I tell thee that thy husband- yea, my sire-bath been done to death by thee this day",
+          "lineStart": 764
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 766
+        },
+        {
+          "type": "para",
+          "text": "Oh, what word hath passed thy lips, my child!",
+          "lineStart": 767
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 768
+        },
+        {
+          "type": "para",
+          "text": "A word that shall not fail of fulfilment; for who may undo that which bath come to pass?",
+          "lineStart": 769
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 771
+        },
+        {
+          "type": "para",
+          "text": "What saidst thou, my son? Who is thy warranty for charging me with a deed so terrible?",
+          "lineStart": 772
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 774
+        },
+        {
+          "type": "para",
+          "text": "I have seen my father's grievous fate with mine own eyes; I speak not from hearsay.",
+          "lineStart": 775
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEIANEIRA",
+          "lineStart": 777
+        },
+        {
+          "type": "para",
+          "text": "And where didst thou find him,- where didst thou stand at his side?",
+          "lineStart": 778
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 780
+        },
+        {
+          "type": "para",
+          "text": "If thou art to hear it, then must all be told. After sacking the famous town of Eurytus, he went his way with the trophies and first-fruits of victory. There is a sea-washed headland of Euboea, Cape Cenaeum, where he dedicated altars and a sacred grove to the Zeus of his fathers; and there I first beheld him, with the joy of yearning love.",
+          "lineStart": 781
+        },
+        {
+          "type": "para",
+          "text": "He was about to celebrate a great sacrifice, when his own herald, Lichas, came to him from home, bearing thy gift, the deadly robe; which he put on, according to thy precept; and then began his offering with twelve bulls, free from blemish, the firstlings of the spoil; but altogether he brought a hundred victims, great or small, to the altar.",
+          "lineStart": 788
+        },
+        {
+          "type": "para",
+          "text": "At first, hapless one, he prayed with serene soul, rejoicing in his comely garb. But when the blood-fed flame began to blaze from the holy offerings and from the resinous pine, a sweat broke forth upon his flesh, and the tunic clung to his sides, at every joint, close-glued, as if by a craftsman's hand; there came a biting pain that racked his bones; and then the venom, as of some deadly, cruel viper, began to devour him.",
+          "lineStart": 793
+        },
+        {
+          "type": "para",
+          "text": "Thereupon he shouted for the unhappy Lichas,- in no wise to blame for thy crime,- asking what treason had moved him to bring that robe; but he, all-unknowing, hapless one, said that he had brought the gift from thee alone, as it had been sent. When his master heard it, as a piercing spasm clutched his lungs, he caught him by the foot, where the ankle turns in the socket, and hurled him at a surf-beaten rock in the sea; and he made the white brain to ooze from the hair, as the skull was dashed to splinters, and blood scattered therewith.",
+          "lineStart": 800
+        },
+        {
+          "type": "para",
+          "text": "But all the people lifted up a cry of awe-struck grief, seeing that one was frenzied, and the other slain; and no one dared to come before the man. For the pain dragged him to earth, or made him leap into the air, with yells and shrieks, till the cliffs rang around, steep headlands of Locris, and Euboean capes.",
+          "lineStart": 808
+        },
+        {
+          "type": "para",
+          "text": "But when he was spent with oft throwing himself on the ground in his anguish, and oft making loud lament,- cursing his fatal marriage with thee, the vile one, and his alliance with Oeneus,- saying how he had found in it the ruin of his life,- then from out of the shrouding altar-smoke, he lifted up his wildly-rolling eyes, and saw me in the great crowd, weeping. He turned his gaze on me, and called me: 'O son, draw near; do not fly from my trouble, even though thou must share my death. Come, bear me forth, and set me, if thou canst, in a place where no man shall see me; or, if thy pity forbids that, at least convey me with all speed out of this land, and let me not die where I am.'",
+          "lineStart": 813
+        },
+        {
+          "type": "para",
+          "text": "That command sufficed; we laid him in mid-ship, and brought him-but hardly brought him- to this shore, moaning in his torments. And ye shall presently behold him, alive, or lately dead.",
+          "lineStart": 823
+        },
+        {
+          "type": "para",
+          "text": "Such, mother, are the designs and deeds against my sire whereof thou hast been found guilty. May avenging justice and the Erinys visit thee for them! Yes, if it be right, that is my prayer: and right it is,- for I have seen thee trample on the right, by slaying the noblest man in all the world, whose like thou shalt see nevermore! DEIANEIRA moves towards the house.",
+          "lineStart": 826
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 832
+        },
+        {
+          "type": "para",
+          "text": "to DEIANEIRA Why dost thou depart in silence? Knowest thou not that such silence pleads for thine accuser? DEIANEIRA goes in the house.",
+          "lineStart": 833
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 837
+        },
+        {
+          "type": "para",
+          "text": "Let her depart. A fair wind speed her far from my sight! Why should the name of mother bring her a semblance of respect, when she is all unlike a mother in her deeds? No, let her go,- farewell to her; and may such joy as she gives my sire become her own! Exit HYLLUS, into the house.",
+          "lineStart": 838
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 843
+        },
+        {
+          "type": "para",
+          "text": "singing strophe 1 See, maidens, how suddenly the divine word of the old prophecy hath come upon us, which said that, when the twelfth year should have run through its full tale of months, it should end the series of toils for the true-born son of Zeus! And that promise is wafted surely to its fulfilment. For how shall he who beholds not the light have toilsome servitude any more beyond the grave? antistrophe 1 If a cloud of death is around him, and the doom wrought by the Centaur's craft is stinging his sides, where cleaves the venom which Thanatos begat and the gleaming serpent nourished, how can he look upon tomorrow's sun,- when that appalling Hydra-shape holds him in its grip, and those murderous goads, prepared by the wily words of black-haired Nessus, have started into fury, vexing him with tumultuous pain? strophe Of such things this hapless lady had no foreboding; but she saw great mischief swiftly coming on her home from the new marriage. Her own hand applied the remedy; but for the issues of a stranger's counsel, given at a fatal meeting,- for these, I ween, she makes despairing lament, shedding the tender dew of plenteous tears. And the coming fate foreshadows a great misfortune, contrived by guile. antistrophe Our streaming tears break forth: alas, a plague is upon him more piteous than any suffering that foemen ever brought upon that glorious hero.",
+          "lineStart": 844
+        },
+        {
+          "type": "para",
+          "text": "Ah, thou dark steel of the spear foremost in battle, by whose might yonder bride was lately borne so swiftly from Oechalia's heights! But the Cyprian goddess, ministering in silence, hath been plainly proved the doer of these deeds.",
+          "lineStart": 869
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF ONE SEMI-CHORUS",
+          "lineStart": 873
+        },
+        {
+          "type": "para",
+          "text": "Is it fancy, or do I hear some cry of grief just passing through the house? What is this?",
+          "lineStart": 874
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF OTHER SEMI-CHORUS",
+          "lineStart": 876
+        },
+        {
+          "type": "para",
+          "text": "No uncertain sound, but a wail of anguish from within: the house hath some new trouble.",
+          "lineStart": 877
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF WHOLE CHORUS",
+          "lineStart": 879
+        },
+        {
+          "type": "para",
+          "text": "And mark how sadly, with what a cloud upon her brow, that aged woman approaches, to give us tidings. Enter NURSE, from the house.",
+          "lineStart": 880
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "NURSE",
+          "lineStart": 883
+        },
+        {
+          "type": "para",
+          "text": "Ah, my daughters, great, indeed, were the sorrows that we were to reap from the gift sent to Heracles!",
+          "lineStart": 884
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 886
+        },
+        {
+          "type": "para",
+          "text": "Aged woman, what new mischance hast thou to tell?",
+          "lineStart": 887
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "NURSE",
+          "lineStart": 888
+        },
+        {
+          "type": "para",
+          "text": "Deianeira hath departed on the last of all her journeys, departed without stirring foot.",
+          "lineStart": 889
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 891
+        },
+        {
+          "type": "para",
+          "text": "Thou speakest not of death?",
+          "lineStart": 892
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "NURSE",
+          "lineStart": 893
+        },
+        {
+          "type": "para",
+          "text": "My tale is told.",
+          "lineStart": 894
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 895
+        },
+        {
+          "type": "para",
+          "text": "Dead, hapless one?",
+          "lineStart": 896
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "NURSE",
+          "lineStart": 897
+        },
+        {
+          "type": "para",
+          "text": "Again thou hearest it.",
+          "lineStart": 898
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 899
+        },
+        {
+          "type": "para",
+          "text": "Hapless, lost one! Say, what was the manner of her death?",
+          "lineStart": 900
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "NURSE",
+          "lineStart": 901
+        },
+        {
+          "type": "para",
+          "text": "Oh, a cruel deed was there!",
+          "lineStart": 902
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 903
+        },
+        {
+          "type": "para",
+          "text": "Speak, woman, how hath she met her doom?",
+          "lineStart": 904
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "NURSE",
+          "lineStart": 905
+        },
+        {
+          "type": "para",
+          "text": "By her own hand hath she died.",
+          "lineStart": 906
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 907
+        },
+        {
+          "type": "para",
+          "text": "What fury, what pangs of frenzy have cut her off by the edge of a dire weapon? How contrived she this death, following death,- all wrought by her alone?",
+          "lineStart": 908
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "NURSE",
+          "lineStart": 911
+        },
+        {
+          "type": "para",
+          "text": "By the stroke of the sword that makes sorrow.",
+          "lineStart": 912
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 913
+        },
+        {
+          "type": "para",
+          "text": "Sawest thou that violent deed, poor helpless one?",
+          "lineStart": 914
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "NURSE",
+          "lineStart": 915
+        },
+        {
+          "type": "para",
+          "text": "I saw it; yea, I was standing near.",
+          "lineStart": 916
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 917
+        },
+        {
+          "type": "para",
+          "text": "Whence came it? How was it done? Oh, speak",
+          "lineStart": 918
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "NURSE",
+          "lineStart": 919
+        },
+        {
+          "type": "para",
+          "text": "'Twas the work of her own mind and her own hand.",
+          "lineStart": 920
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 921
+        },
+        {
+          "type": "para",
+          "text": "What dost thou tell us?",
+          "lineStart": 922
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "NURSE",
+          "lineStart": 923
+        },
+        {
+          "type": "para",
+          "text": "The sure truth.",
+          "lineStart": 924
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 925
+        },
+        {
+          "type": "para",
+          "text": "The first-born, the first-born of that new bride is a dread Erinys for this house!",
+          "lineStart": 926
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "NURSE",
+          "lineStart": 928
+        },
+        {
+          "type": "para",
+          "text": "Too true; and, hadst thou been an eye-witness of the action, verily thy pity would have been yet deeper.",
+          "lineStart": 929
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 931
+        },
+        {
+          "type": "para",
+          "text": "And could a woman's hand dare to do such deeds?",
+          "lineStart": 932
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "NURSE",
+          "lineStart": 933
+        },
+        {
+          "type": "para",
+          "text": "Yea, with dread daring; thou shalt hear, and then thou wilt bear me witness.",
+          "lineStart": 934
+        },
+        {
+          "type": "para",
+          "text": "When she came alone into the house, and saw her son preparing a deep litter in the court, that he might go back with it to meet his sire, then she hid herself where none might see; and, falling before the altars, she wailed aloud that they were left desolate; and, when she touched any-household thing that she had been wont to use, poor lady, in the past, her tears would flow; or when, roaming hither and thither through the house, she beheld the form of any well-loved servant, she wept, hapless one, at that sight, crying aloud upon her own fate, and that of the household which would thenceforth be in the power of others.",
+          "lineStart": 936
+        },
+        {
+          "type": "para",
+          "text": "But when she ceased from this, suddenly I beheld her rush into the chamber of Heracles. From a secret place of espial, I watched her; and saw her spreading coverings on the couch of her lord. When she had done this, she sprang thereon, and sat in the middle of the bed; her tears burst forth in burning streams, and thus she spake: 'Ah, bridal bed and bridal chamber mine, farewell now and for ever; never more shall ye receive me to rest upon this couch.' She said no more, but with a vehement hand loosed her robe, where the gold-wrought brooch lay above her breast, baring all her left side and arm. Then I ran with all my strength, and warned her son of her intent. But lo, in the space between my going and our return, she had driven a two-edged sword through her side to the heart.",
+          "lineStart": 945
+        },
+        {
+          "type": "para",
+          "text": "At that sight, her son uttered a great cry; for he knew, alas, that in his anger he had driven her to that deed; and he had learned, too late, from the servants in the house that she had acted without knowledge, by the prompting of the Centaur. And now the youth, in his misery, bewailed her with all passionate lament; he knelt, and showered kisses on her lips; he threw himself at her side upon the ground, bitterly crying that he had rashly smitten her with a slander,- weeping that he must now live bereaved of both alike,- of mother and of sire.",
+          "lineStart": 957
+        },
+        {
+          "type": "para",
+          "text": "Such are the fortunes of this house. Rash indeed, is he who reckons on the morrow, or haply on days beyond it; for to-morrow is not, until to-day is safely past.",
+          "lineStart": 965
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 968
+        },
+        {
+          "type": "para",
+          "text": "singing strophe 1 Which woe shall I bewail first, which misery is the greater? Alas, 'tis hard for me to tell. antistrophe 1 One sorrow may be seen in the house; for one we wait with foreboding: and suspense hath a kinship with pain. strophe Oh that some strong breeze might come with wafting power unto our hearth, to bear me far from this land, lest I die of terror, when look but once upon the mighty son of Zeus!",
+          "lineStart": 969
+        },
+        {
+          "type": "para",
+          "text": "For they say that he is approaching the house in torments from which there is no deliverance, a wonder of unutterable woe. antistrophe Ah, it was not far off, but close to us, that woe of which my lament gave warning, like the nightingale's piercing note!",
+          "lineStart": 979
+        },
+        {
+          "type": "para",
+          "text": "Men of an alien race are coming yonder. And how, then, are they bringing him? In sorrow, as for some loved one, they move on their mournful, noiseless march.",
+          "lineStart": 984
+        },
+        {
+          "type": "para",
+          "text": "Alas, he is brought in silence! What are we to think; that he is dead, or sleeping? Enter HYLLUS and an OLD MAN, with attendants,bearing HERACLES upon a litter.",
+          "lineStart": 987
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 991
+        },
+        {
+          "type": "para",
+          "text": "Woe is me for thee, my father, woe is me for thee, wretched that I am! Whither shall I turn? What can I do? Ah me!",
+          "lineStart": 992
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "OLD MAN",
+          "lineStart": 994
+        },
+        {
+          "type": "para",
+          "text": "whispering Hush, my son! Rouse not the cruel pain that infuriates thy sire! He lives, though prostrated. Oh, put a stern restraint upon thy lips!",
+          "lineStart": 995
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 998
+        },
+        {
+          "type": "para",
+          "text": "How sayest thou, old man- is he alive?",
+          "lineStart": 999
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "OLD MAN",
+          "lineStart": 1000
+        },
+        {
+          "type": "para",
+          "text": "whispering Thou must not awake the slumberer! Thou must not rouse and revive the dread frenzy that visits him, my son!",
+          "lineStart": 1001
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1004
+        },
+        {
+          "type": "para",
+          "text": "Nay, I am crushed with this weight of misery- there is madness in my heart!",
+          "lineStart": 1005
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1007
+        },
+        {
+          "type": "para",
+          "text": "awaking O Zeus, to what land have I come? Who are these among whom I lie, tortured with unending agonies? Wretched, wretched that I am! Oh, that dire pest is gnawing me once more!",
+          "lineStart": 1008
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "OLD MAN",
+          "lineStart": 1012
+        },
+        {
+          "type": "para",
+          "text": "to HYLLUS Knew I not how much better it was that thou shouldest keep silence, instead of scaring slumber from his brain and eyes?",
+          "lineStart": 1013
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1016
+        },
+        {
+          "type": "para",
+          "text": "Nay, I cannot be patient when I behold this misery.",
+          "lineStart": 1017
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1018
+        },
+        {
+          "type": "para",
+          "text": "O thou Cenaean rock whereon mine altars rose, what a cruel reward hast thou won me for those fair offerings,- be Zeus my witness! Ah, to what ruin hast thou brought me, to what ruin! Would that I had never beheld thee for thy sorrow! Then had I never come face to face with this fiery madness, which no spell can soothe! Where is the charmer, where is the cunning healer, save Zeus alone, that shall lull this plague to rest? I should marvel, if he ever came within my ken! strophe Ah! Leave me, hapless one, to my rest- leave me to my last rest! strophe Where art thou touching me? Whither wouldst thou turn me? Thou wilt kill me, thou wilt kill me! If there be any pang that slumbers, thou hast aroused it!",
+          "lineStart": 1019
+        },
+        {
+          "type": "para",
+          "text": "It hath seized me,- oh, the pest comes again!- Whence are ye, most ungrateful of all the Greeks? I wore out my troublous days in ridding Greece of pests, on the deep and in all forests; and now, when I am stricken, will no man succour me with merciful fire of sword? antistrophe Oh, will no one come and sever the head, at one fierce stroke, from this wretched body? Woe, woe is me!",
+          "lineStart": 1033
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "OLD MAN",
+          "lineStart": 1040
+        },
+        {
+          "type": "para",
+          "text": "Son of Heracles, this task exceeds my strength,- help thou,- for strength is at thy command, too largely to need my aid in his relief.",
+          "lineStart": 1041
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1043
+        },
+        {
+          "type": "para",
+          "text": "My hands are helping; but no resource, in myself or from another, avails me to make his life forget its anguish:- such is the doom appointed by Zeus!",
+          "lineStart": 1044
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1047
+        },
+        {
+          "type": "para",
+          "text": "strophe 3 O my son, where art thou? Raise me,- take hold of me,- thus thus! Alas, my destiny! antistrophe 2 Again, again the cruel pest leaps forth to rend me, the fierce plague with which none may cope!",
+          "lineStart": 1048
+        },
+        {
+          "type": "para",
+          "text": "O Pallas, Pallas, it tortures me again! Alas, my son, pity thy sire,- draw a blameless sword, and smite beneath my collar-bone, and heal this pain wherewith thy godless mother hath made me wild! So may I see her fall,- thus, even thus, as she hath destroyed me! antistrophe Sweet Hades, brother of Zeus, give me rest, give me rest,- end my woe by a swiftly-sped doom!",
+          "lineStart": 1053
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1060
+        },
+        {
+          "type": "para",
+          "text": "I shudder, friends, to hear these sorrows of our lord; what a man is here, and what torments afflict him!",
+          "lineStart": 1061
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1063
+        },
+        {
+          "type": "para",
+          "text": "Ah, fierce full oft, and grievous not in name alone, have been the labours of these hands, the burdens borne upon these shoulders! But no toil ever laid on me by the wife of Zeus or by the hateful Eurystheus was like unto this thing which the daughter of Oeneus, fair and false, hath fastened upon my back,- this woven net of the Furies, in which I perish! Glued to my sides, it hath eaten my flesh to the inmost parts; it is ever with me, sucking the channels of my breath; already it hath drained my fresh lifeblood, and my whole body is wasted, a captive to these unutterable bonds.",
+          "lineStart": 1064
+        },
+        {
+          "type": "para",
+          "text": "Not the warrior on the battle-field, not the Giants' earth-born host, nor the might of savage beasts, hath ever done unto me thus,- not Hellas, nor the land of the alien, nor any land to which I have come as a deliverer: no, a woman, a weak woman, born not to the strength of man, all alone hath vanquished me, without stroke of sword",
+          "lineStart": 1073
+        },
+        {
+          "type": "para",
+          "text": "Son, show thyself my son indeed, and do not honour a mother's name above a sire's: bring forth the woman that bare thee, and give her with thine own hands into my hand, that I may know of a truth which sight grieves thee most,- my tortured frame, or hers, when she suffers her righteous doom!",
+          "lineStart": 1078
+        },
+        {
+          "type": "para",
+          "text": "Go, my son, shrink not- and show thy pity for me, whom many might deem pitiful,- for me, moaning and weeping like a girl;- and the man lives not who can say that he ever saw me do thus before; no, without complaining I still went whither mine evil fortune led. But now, alas, the strong man hath been found a woman.",
+          "lineStart": 1083
+        },
+        {
+          "type": "para",
+          "text": "Approach, stand near thy sire, and see what a fate it is that hath brought me to this pass; for I will lift the veil. Behold! Look, all of you, on this miserable body; see how wretched, how piteous is my plight!",
+          "lineStart": 1088
+        },
+        {
+          "type": "para",
+          "text": "Ah, woe is me! The burning throe of torment is there anew, it darts through my sides- I must wrestle once more with that cruel, devouring plague!",
+          "lineStart": 1092
+        },
+        {
+          "type": "para",
+          "text": "O thou lord of the dark realm, receive me! Smite me, O fire of Zeus! Hurl down thy thunderbolt, O King, send it, O father, upon my head! For again the pest is consuming me; it hath blazed forth, it hath started into fury! O hands, my hands, O shoulders and breast and trusty arms, ye, now in this plight, are the same whose force of old subdued the dweller in Nemea, the scourge of herdsmen, the lion, a creature that no man might approach or confront; ye tamed the Lernaean Hydra, and that monstrous host of double form, man joined to steed, a race with whom none may commune, violent, lawless, of surpassing might; ye tamed the Erymanthian beast, and the three-headed whelp of Hades underground, a resistless terror, offspring of the dread Echidna; ye tamed the dragon that guarded the golden fruit in the utmost places of the earth.",
+          "lineStart": 1096
+        },
+        {
+          "type": "para",
+          "text": "These toils and countless others have I proved, nor hath any man vaunted a triumph over my prowess. But now, with joints unhinged and with flesh torn to shreds, I have become the miserable prey of an unseen destroyer,- I, who am called the son of noblest mother,- I, whose reputed sire is Zeus, lord of the starry sky.",
+          "lineStart": 1108
+        },
+        {
+          "type": "para",
+          "text": "But ye may be sure of one thing:- though I am as nought, though I cannot move a step, yet she who hath done this deed shall feel my heavy hand even now: let her but come, and she shall learn to proclaim this message unto all, that in my death, as in my life, I chastised the wicked!",
+          "lineStart": 1113
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1117
+        },
+        {
+          "type": "para",
+          "text": "Ah, hapless Greece, what mourning do I forsee for her, if she must lose this man",
+          "lineStart": 1118
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1120
+        },
+        {
+          "type": "para",
+          "text": "Father, since thy pause permits an answer, hear me, afflicted though thou art. I will ask thee for no more than is my due. Accept my counsels, in a calmer mood than that to which this anger stings thee: else thou canst not learn how vain is thy desire for vengeance, and how causeless thy resentment.",
+          "lineStart": 1121
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1126
+        },
+        {
+          "type": "para",
+          "text": "Say what thou wilt, and cease; in this my pain I understand nought of all thy riddling words.",
+          "lineStart": 1127
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1129
+        },
+        {
+          "type": "para",
+          "text": "I come to tell thee of my mother,- how it is now with her, and how she sinned unwittingly.",
+          "lineStart": 1130
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1132
+        },
+        {
+          "type": "para",
+          "text": "Villain! What- hast thou dared to breathe her name again in my hearing,- the name of the mother who hath slain thy sire?",
+          "lineStart": 1133
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1135
+        },
+        {
+          "type": "para",
+          "text": "Yea, such is her state that silence is unmeet.",
+          "lineStart": 1136
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1137
+        },
+        {
+          "type": "para",
+          "text": "Unmeet, truly, in view of her past crimes.",
+          "lineStart": 1138
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1139
+        },
+        {
+          "type": "para",
+          "text": "And also of her deeds this day,- as thou wilt own.",
+          "lineStart": 1140
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1141
+        },
+        {
+          "type": "para",
+          "text": "Speak,- but give heed that thou be not found a traitor.",
+          "lineStart": 1142
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1143
+        },
+        {
+          "type": "para",
+          "text": "These are my tidings. She is dead, lately slain.",
+          "lineStart": 1144
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1145
+        },
+        {
+          "type": "para",
+          "text": "By whose hand? A wondrous message, from a prophet of ill-omened voice!",
+          "lineStart": 1146
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1148
+        },
+        {
+          "type": "para",
+          "text": "By her own hand, and no stranger's.",
+          "lineStart": 1149
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1150
+        },
+        {
+          "type": "para",
+          "text": "Alas, ere she died by mine, as she deserved!",
+          "lineStart": 1151
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1152
+        },
+        {
+          "type": "para",
+          "text": "Even thy wrath would be turned, couldst thou hear all.",
+          "lineStart": 1153
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1154
+        },
+        {
+          "type": "para",
+          "text": "A strange preamble; but unfold thy meaning.",
+          "lineStart": 1155
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1156
+        },
+        {
+          "type": "para",
+          "text": "The sum is this;- she erred, with a good intent.",
+          "lineStart": 1157
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1158
+        },
+        {
+          "type": "para",
+          "text": "Is it a good deed, thou wretch, to have slain thy sire?",
+          "lineStart": 1159
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1160
+        },
+        {
+          "type": "para",
+          "text": "Nay, she thought to use a love-charm for thy heart, when she saw the new bride in the house; but missed her aim.",
+          "lineStart": 1161
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1163
+        },
+        {
+          "type": "para",
+          "text": "And what Trachinian deals in spells so potent?",
+          "lineStart": 1164
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1165
+        },
+        {
+          "type": "para",
+          "text": "Nessus the Centaur persuaded her of old to inflame thy desire with such a charm.",
+          "lineStart": 1166
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1168
+        },
+        {
+          "type": "para",
+          "text": "Alas, alas, miserable that I am! Woe is me, I am lost,- undone, undone! No more for me the light of day! Alas, now I see in what a plight stand! Go, my son,- for thy father's end hath come,- summon, I pray thee, all thy brethren; summon, too, the hapless Alcmena, in vain the bride of Zeus,- that ye may learn from my dying lips what oracles know.",
+          "lineStart": 1169
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1174
+        },
+        {
+          "type": "para",
+          "text": "Nay, thy mother is not here; as it chances, she hath her abode at Tiryns by the sea. Some of thy children she hath taken to live with her there, and others, thou wilt find, are dwelling in Thebe's town. But we who are with thee, my father, will render all service that is needed, at thy bidding.",
+          "lineStart": 1175
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1180
+        },
+        {
+          "type": "para",
+          "text": "Hear, then, thy task: now is the time to show what stuff is in thee, who art called my son.",
+          "lineStart": 1181
+        },
+        {
+          "type": "para",
+          "text": "It was foreshown to me by my Sire of old that I should perish by no creature that had the breath of life, but by one that had passed to dwell with Hades. So I have been slain by this savage Centaur, the living by the dead, even as the divine will had been foretold.",
+          "lineStart": 1183
+        },
+        {
+          "type": "para",
+          "text": "And I will show thee how later oracles tally therewith, confirming the old prophecy. I wrote them down in the grove of the Selli, dwellers on the hills, whose couch is on the ground; they were given by my Father's oak of many tongues; which said that, at the time which liveth and now is, my release from the toils laid upon me should be accomplished. And I looked for prosperous days; but the meaning, it seems, was only that should die; for toil comes no more to the dead.",
+          "lineStart": 1187
+        },
+        {
+          "type": "para",
+          "text": "Since, then, my son, those words are clearly finding their fulfilment, thou, on thy part, must lend me thine aid. Thou must not delay, and so provoke me to bitter speech: thou must consent and help with a good grace, as one who hath learned that best of laws, obedience to a sire.",
+          "lineStart": 1194
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1198
+        },
+        {
+          "type": "para",
+          "text": "Yea, father,- though I fear the issue to which our talk hath brought me,- I will do thy good pleasure.",
+          "lineStart": 1199
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1201
+        },
+        {
+          "type": "para",
+          "text": "First of all, lay thy right hand in mine.",
+          "lineStart": 1202
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1203
+        },
+        {
+          "type": "para",
+          "text": "For what purpose dost thou insist upon his pledge?",
+          "lineStart": 1204
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1205
+        },
+        {
+          "type": "para",
+          "text": "Give thy hand at once- disobey me not!",
+          "lineStart": 1206
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1207
+        },
+        {
+          "type": "para",
+          "text": "Lo, there it is: thou shalt not be gainsaid.",
+          "lineStart": 1208
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1209
+        },
+        {
+          "type": "para",
+          "text": "Now, swear by the head of Zeus my sire!",
+          "lineStart": 1210
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1211
+        },
+        {
+          "type": "para",
+          "text": "To do what deed? May this also be told?",
+          "lineStart": 1212
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1213
+        },
+        {
+          "type": "para",
+          "text": "To perform for me the task that I shall enjoin.",
+          "lineStart": 1214
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1215
+        },
+        {
+          "type": "para",
+          "text": "I swear it, with Zeus for witness of the oath.",
+          "lineStart": 1216
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1217
+        },
+        {
+          "type": "para",
+          "text": "And pray that, if thou break this oath, thou mayest suffer.",
+          "lineStart": 1218
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1219
+        },
+        {
+          "type": "para",
+          "text": "I shall not suffer, for I shall keep it:- yet so I pray.",
+          "lineStart": 1220
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1221
+        },
+        {
+          "type": "para",
+          "text": "Well, thou knowest the summit of Oeta, sacred to Zeus?",
+          "lineStart": 1222
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1223
+        },
+        {
+          "type": "para",
+          "text": "Ay; I have often stood at his altar on that height.",
+          "lineStart": 1224
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1225
+        },
+        {
+          "type": "para",
+          "text": "Thither, then, thou must carry me up with thine own hands, aided by what friends thou wilt; thou shalt lop many a branch from the deep-rooted oak, and hew many a faggot also from the sturdy stock of the wild-olive; thou shalt lay my body thereupon, and kindle it with flaming pine-torch.",
+          "lineStart": 1226
+        },
+        {
+          "type": "para",
+          "text": "And let no tear of mourning be seen there; no, do this without lament and without weeping, if thou art indeed my son. But if thou do it not, even from the world below my curse and my wrath shall wait on thee for ever.",
+          "lineStart": 1231
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1235
+        },
+        {
+          "type": "para",
+          "text": "Alas, my father, what hast thou spoken? How hast thou dealt with me!",
+          "lineStart": 1236
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1238
+        },
+        {
+          "type": "para",
+          "text": "I have spoken that which thou must perform; if thou wilt not, then get thee some other sire, and be called my son no more!",
+          "lineStart": 1239
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1241
+        },
+        {
+          "type": "para",
+          "text": "Woe, woe is me! What a deed dost thou require of me, my father,-that I should become thy murderer, guilty of thy blood!",
+          "lineStart": 1242
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1244
+        },
+        {
+          "type": "para",
+          "text": "Not so, in truth, but healer of my sufferings, sole physician of my pain!",
+          "lineStart": 1245
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1247
+        },
+        {
+          "type": "para",
+          "text": "And how, by enkindling thy body, shall I heal it?",
+          "lineStart": 1248
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1249
+        },
+        {
+          "type": "para",
+          "text": "Nay, if that thought dismay thee, at least perform the rest.",
+          "lineStart": 1250
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1251
+        },
+        {
+          "type": "para",
+          "text": "The service of carrying thee shall not be refused.",
+          "lineStart": 1252
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1253
+        },
+        {
+          "type": "para",
+          "text": "And the heaping of the pyre, as I have bidden?",
+          "lineStart": 1254
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1255
+        },
+        {
+          "type": "para",
+          "text": "Yea, save that I will not touch it with mine own hand. All else will I do, and thou shalt have no hindrance on my part.",
+          "lineStart": 1256
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1258
+        },
+        {
+          "type": "para",
+          "text": "Well, so much shall be enough.- But add one small boon to thy large benefits.",
+          "lineStart": 1259
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1261
+        },
+        {
+          "type": "para",
+          "text": "Be the boon never so large, it shall be granted.",
+          "lineStart": 1262
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1263
+        },
+        {
+          "type": "para",
+          "text": "Knowest thou, then, the girl whose sire was Eurytus?",
+          "lineStart": 1264
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1265
+        },
+        {
+          "type": "para",
+          "text": "It is of Iole that thou speakest, if I mistake not.",
+          "lineStart": 1266
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1267
+        },
+        {
+          "type": "para",
+          "text": "Even so. This, in brief, is the charge that I give thee, my son. When am dead, if thou wouldest show a pious remembrance of thine oath unto thy father, disobey me not, but take this woman to be thy wife. Let no other espouse her who hath lain at my side, but do thou, O my son, make that marriage-bond thine own. Consent: after loyalty in great matters, to rebel in less is to cancel the grace that bad been won.",
+          "lineStart": 1268
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1274
+        },
+        {
+          "type": "para",
+          "text": "Ah me, it is not well to be angry with a sick man: but who could bear to see him in such a mind?",
+          "lineStart": 1275
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1277
+        },
+        {
+          "type": "para",
+          "text": "Thy words show no desire to do my bidding.",
+          "lineStart": 1278
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1279
+        },
+        {
+          "type": "para",
+          "text": "What! When she alone is to blame for my mother's death, and for thy present plight besides? Lives there the man who would make such choice, unless he were maddened by avenging fiends?",
+          "lineStart": 1280
+        },
+        {
+          "type": "para",
+          "text": "Better were it, father, that I too should die, rather than live united to the worst of our foes!",
+          "lineStart": 1283
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1285
+        },
+        {
+          "type": "para",
+          "text": "He will render no reverence, it seems, to my dying prayer.- Nay, be sure that the curse of the gods will attend thee for disobedience to my voice.",
+          "lineStart": 1286
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1289
+        },
+        {
+          "type": "para",
+          "text": "Ah, thou wilt soon show, methinks, how distempered thou art!",
+          "lineStart": 1290
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1291
+        },
+        {
+          "type": "para",
+          "text": "Yea, for thou art breaking the slumber of my plague.",
+          "lineStart": 1292
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1293
+        },
+        {
+          "type": "para",
+          "text": "Hapless that I am! What perplexities surround me!",
+          "lineStart": 1294
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1295
+        },
+        {
+          "type": "para",
+          "text": "Yea, since thou deignest not to hear thy sire.",
+          "lineStart": 1296
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1297
+        },
+        {
+          "type": "para",
+          "text": "But must I learn, then, to be impious, my father?",
+          "lineStart": 1298
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1299
+        },
+        {
+          "type": "para",
+          "text": "'Tis not impiety, if thou shalt gladden my heart.",
+          "lineStart": 1300
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HYLLUS",
+          "lineStart": 1301
+        },
+        {
+          "type": "para",
+          "text": "Dost thou command me, then, to do this deed, as a clear duty?",
+          "lineStart": 1302
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1303
+        },
+        {
+          "type": "para",
+          "text": "I command thee,- the gods bear me witness! A NAME=",
+          "lineStart": 1304
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 312,
+    "wordCount": 11517
+  }
+}

@@ -1,0 +1,3842 @@
+{
+  "id": "Euripides/alcestis",
+  "author": "Euripides",
+  "authorKey": "Euripides",
+  "title": "Alcestis",
+  "translator": "Richard Aldington",
+  "language": "Greek",
+  "written": "438 BCE",
+  "sourceNote": null,
+  "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "ambiguous: 0.268 long unterminated interior lines, median line length 32.0, 0.176 explicit breaks; defaulted to prose",
+  "textModeStats": {
+    "lineCount": 1458,
+    "paragraphCount": 53,
+    "interiorLineCount": 1405,
+    "medianLineLength": 32.0,
+    "meanLineLength": 36.37860082304527,
+    "longInteriorLineRatio": 0.31601423487544483,
+    "unterminatedInteriorLineRatio": 0.6683274021352313,
+    "longUnterminatedInteriorLineRatio": 0.26761565836298934,
+    "explicitBreakLineRatio": 0.1755829903978052,
+    "unmarkedLineRatio": 0.7887517146776406
+  },
+  "landingUrl": "https://classics.mit.edu/Euripides/alcestis.html",
+  "textUrls": [
+    "https://classics.mit.edu/Euripides/alcestis.html"
+  ],
+  "txtUrl": "https://classics.mit.edu/Euripides/alcestis.pl.txt",
+  "sections": [
+    {
+      "seq": 1,
+      "id": "alcestis-alcestis",
+      "heading": "Alcestis",
+      "partTitle": "Alcestis",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Dramatis Personae",
+          "lineStart": 10
+        },
+        {
+          "type": "para",
+          "text": "APOLLO DEATH CHORUS OF OLD MEN A WOMAN SERVANT ALCESTIS, the Queen, wife of ADMETUS ADMETUS, King of Thessaly EUMELUS, their child HERACLES PHERES, father of ADMETUS Scene At Pherae, outside the Palace of ADMETUS, King of Thessaly. The centre of the scene represents a portico with columns and a large double-door. To the left are the women's quarters, to the right the guest rooms. The centre doors of the Palace slowly open inwards, and Apollo comes out. In his left hand he carries a large unstrung golden bow. He moves slowly and majestically, turns, and raises his right hand in salutation to the Palace.",
+          "lineStart": 11
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "APOLLO",
+          "lineStart": 21
+        },
+        {
+          "type": "para",
+          "text": "Dwelling of Admetus, wherein I, a God, deigned to accept the food of serfs!",
+          "lineStart": 22
+        },
+        {
+          "type": "para",
+          "text": "The cause was Zeus. He struck Asclepius, my son, full in the breast with a bolt of thunder, and laid him dead. Then in wild rage I slew the Cyclopes who forge the fire of Zeus. To atone for this my Father forced me to labour as a hireling for a mortal man; and I came to this country, and tended oxen for my host. To this hour I have protected him and his. I, who am just, chanced on the son of Pheres, a just man, whom I have saved from Death by tricking the Fates. The Goddesses pledged me their faith Admetus should escape immediate death if, in exchange, another corpse were given to the Under-Gods.",
+          "lineStart": 24
+        },
+        {
+          "type": "para",
+          "text": "One by one he tested all his friends, and even his father and the old mother who bad brought him forth-and found none that would die for him and never more behold the light of day, save only his wife. Now, her spirit waiting to break loose, she droops upon his arm within the house; this is the day when she must die and render up her life.",
+          "lineStart": 33
+        },
+        {
+          "type": "para",
+          "text": "But I must leave this Palace's dear roof, for fear pollution soil me in the house.",
+          "lineStart": 39
+        },
+        {
+          "type": "para",
+          "text": "See! Death, Lord of All the Dead, now comes to lead her to the house of Hades! Most punctually he comes! How well he marked the day she had to die! From the right comes DEATH, with a drawn sword in his hand. He moves stealthily towards the Palace; then sees APOLLO and halts abruptly. The two Deities confront each other.",
+          "lineStart": 41
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEATH",
+          "lineStart": 47
+        },
+        {
+          "type": "para",
+          "text": "Ha! Phoebus! You! Before this Palace! Lawlessly would you grasp, abolish the rights of the Lower Gods! Did you not beguile the Fates and snatch Admetus from the grave? Does not that suffice? Now, once again, you have armed your hand with the bow, to guard the daughter of Pelias who must die in her husband's stead!",
+          "lineStart": 48
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "APOLLO",
+          "lineStart": 53
+        },
+        {
+          "type": "para",
+          "text": "Fear not! I hold for right, and proffer you just words.",
+          "lineStart": 54
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEATH",
+          "lineStart": 55
+        },
+        {
+          "type": "para",
+          "text": "If you hold for right, why then your bow?",
+          "lineStart": 56
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "APOLLO",
+          "lineStart": 57
+        },
+        {
+          "type": "para",
+          "text": "My custom is ever to carry it.",
+          "lineStart": 58
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEATH",
+          "lineStart": 59
+        },
+        {
+          "type": "para",
+          "text": "Yes! And you use it unjustly to aid this house!",
+          "lineStart": 60
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "APOLLO",
+          "lineStart": 61
+        },
+        {
+          "type": "para",
+          "text": "I grieve for a friend's woe.",
+          "lineStart": 62
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEATH",
+          "lineStart": 63
+        },
+        {
+          "type": "para",
+          "text": "So you would rob me of a second body?",
+          "lineStart": 64
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "APOLLO",
+          "lineStart": 65
+        },
+        {
+          "type": "para",
+          "text": "Not by force I won the other.",
+          "lineStart": 66
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEATH",
+          "lineStart": 67
+        },
+        {
+          "type": "para",
+          "text": "Why, then, is he in the world and not below the ground?",
+          "lineStart": 68
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "APOLLO",
+          "lineStart": 69
+        },
+        {
+          "type": "para",
+          "text": "In his stead he gives his wife-whom you have come to take.",
+          "lineStart": 70
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEATH",
+          "lineStart": 71
+        },
+        {
+          "type": "para",
+          "text": "And shall take-to the Underworld below the earth!",
+          "lineStart": 72
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "APOLLO",
+          "lineStart": 73
+        },
+        {
+          "type": "para",
+          "text": "Take her, and go! I know not if I can persuade you...",
+          "lineStart": 74
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEATH",
+          "lineStart": 75
+        },
+        {
+          "type": "para",
+          "text": "Not to kill her I must kill? I am appointed to that task.",
+          "lineStart": 76
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "APOLLO",
+          "lineStart": 77
+        },
+        {
+          "type": "para",
+          "text": "No, no! But to delay death for those about to die.",
+          "lineStart": 78
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEATH",
+          "lineStart": 79
+        },
+        {
+          "type": "para",
+          "text": "I hear your words and guess your wish!",
+          "lineStart": 80
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "APOLLO",
+          "lineStart": 81
+        },
+        {
+          "type": "para",
+          "text": "May not Alcestis live to old age?",
+          "lineStart": 82
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEATH",
+          "lineStart": 83
+        },
+        {
+          "type": "para",
+          "text": "No! I also prize my rights!",
+          "lineStart": 84
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "APOLLO",
+          "lineStart": 85
+        },
+        {
+          "type": "para",
+          "text": "Yet at most you win one life.",
+          "lineStart": 86
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEATH",
+          "lineStart": 87
+        },
+        {
+          "type": "para",
+          "text": "They who die young yield me a greater prize.",
+          "lineStart": 88
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "APOLLO",
+          "lineStart": 89
+        },
+        {
+          "type": "para",
+          "text": "If she dies old, the burial will be richer.",
+          "lineStart": 90
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEATH",
+          "lineStart": 91
+        },
+        {
+          "type": "para",
+          "text": "Phoebus, that argument favours the rich.",
+          "lineStart": 92
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "APOLLO",
+          "lineStart": 93
+        },
+        {
+          "type": "para",
+          "text": "What! Are you witty unawares?",
+          "lineStart": 94
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEATH",
+          "lineStart": 95
+        },
+        {
+          "type": "para",
+          "text": "The rich would gladly pay to die old.",
+          "lineStart": 96
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "APOLLO",
+          "lineStart": 97
+        },
+        {
+          "type": "para",
+          "text": "So you will not grant me this favour?",
+          "lineStart": 98
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEATH",
+          "lineStart": 99
+        },
+        {
+          "type": "para",
+          "text": "Not I! You know my nature.",
+          "lineStart": 100
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "APOLLO",
+          "lineStart": 101
+        },
+        {
+          "type": "para",
+          "text": "Yes! Hateful to men and a horror to the gods!",
+          "lineStart": 102
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEATH",
+          "lineStart": 103
+        },
+        {
+          "type": "para",
+          "text": "You cannot always have more than your due.",
+          "lineStart": 104
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "APOLLO",
+          "lineStart": 105
+        },
+        {
+          "type": "para",
+          "text": "Yet you shall change, most cruel though you are! For a man comes to the dwelling of Pheres, sent by Eurystheus to fetch a horse-drawn chariot from the harsh-wintered lands of Thrace; and he shall be a guest in the house of Admetus, and by force shall he tear this woman from you. Thus shall you gain no thanks from us, and yet you shall do this thing-and my hatred be upon you APOLLO goes out. DEATH gazes after him derisively.",
+          "lineStart": 106
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "DEATH",
+          "lineStart": 113
+        },
+        {
+          "type": "para",
+          "text": "Talk all you will, you get no more of me! The woman shall go down to the dwelling of Hades. Now must I go to consecrate her for the sacrifice with this sword; for when once this blade has shorn the victim's hair, then he is sacred to the Lower Gods! DEATH enters the Palace by the open main door. The CHORUS enters from the right. They are the Elders or Notables of the city, and, therefore move slowly, leaning upon their staffs.",
+          "lineStart": 114
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 121
+        },
+        {
+          "type": "para",
+          "text": "chanting Why is there no sound outside the Palace? Why is the dwelling of Admetus silent? Not a friend here to tell me if I must weep for a dead Queen or whether she lives and looks upon the light, Alcestis, the daughter of Pelias, whom among all women I hold the best wife to her spouse!",
+          "lineStart": 122
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 127
+        },
+        {
+          "type": "para",
+          "text": "Singing Is a sob to be heard? Or the beating of hands In the house? The lament for her end? Not one, Not one of her servants Stands at the gate!",
+          "lineStart": 128
+        },
+        {
+          "type": "para",
+          "text": "Ah! to roll back the wave of our woe, O Healer, Appear!",
+          "lineStart": 136
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST SEMI-CHORUS",
+          "lineStart": 139
+        },
+        {
+          "type": "para",
+          "text": "Were she dead They had not been silent.",
+          "lineStart": 140
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND SEMI-CHORUS",
+          "lineStart": 142
+        },
+        {
+          "type": "para",
+          "text": "She is but a dead body!",
+          "lineStart": 143
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST SEMI-CHORUS",
+          "lineStart": 144
+        },
+        {
+          "type": "para",
+          "text": "Yet she has not departed the house.",
+          "lineStart": 145
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND SEMI-CHORUS",
+          "lineStart": 146
+        },
+        {
+          "type": "para",
+          "text": "Ah! Let me not boast! Why do you cling to hope?",
+          "lineStart": 147
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST SEMI-CHORUS",
+          "lineStart": 149
+        },
+        {
+          "type": "para",
+          "text": "Would Admetus bury her solitary, Make a grave alone for a wife so dear?",
+          "lineStart": 150
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 152
+        },
+        {
+          "type": "para",
+          "text": "At the gate I see not The lustral water from the spring Which stands at the gates of the dead! No shorn tress in the portal Laid in lament for the dead! The young women beat not their hands!",
+          "lineStart": 153
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND SEMI-CHORUS",
+          "lineStart": 159
+        },
+        {
+          "type": "para",
+          "text": "Yet to-day is the day appointed....",
+          "lineStart": 160
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST SEMI-CHORUS",
+          "lineStart": 161
+        },
+        {
+          "type": "para",
+          "text": "Ah! What have you said?",
+          "lineStart": 162
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND SEMI-CHORUS",
+          "lineStart": 163
+        },
+        {
+          "type": "para",
+          "text": "When she must descend under earth",
+          "lineStart": 164
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST SEMI-CHORUS",
+          "lineStart": 165
+        },
+        {
+          "type": "para",
+          "text": "You have pierced my soul! You have pierced my mind!",
+          "lineStart": 166
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND SEMI-CHORUS",
+          "lineStart": 168
+        },
+        {
+          "type": "para",
+          "text": "He that for long Has been held in esteem Must weep when the good are destroyed.",
+          "lineStart": 169
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 172
+        },
+        {
+          "type": "para",
+          "text": "No! There is no place on earth To send forth a suppliant ship- Not to Lycia, Not to Ammon's waterless shrine- To save her from death! The dreadful doom is at hand. To what laden altar of what God Shall I turn my steps?",
+          "lineStart": 173
+        },
+        {
+          "type": "para",
+          "text": "He alone- If the light yet shone for his eye- Asclepius, Phoebus's son, Could have led her back From the land of shadows, From the gates of Hades, For he raised the dead Ere the Zeus-driven shaft Slew him with thunder fire.... But now What hope can I hold for her life?",
+          "lineStart": 182
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 193
+        },
+        {
+          "type": "para",
+          "text": "chanting The King has fulfilled Every rite; The altars of all the Gods Drip with the blood of slain beasts: Nothing, nothing avails. From the women's quarters in the left wing of the Palace comes a woman in tears. She is not a slave, but one of the personal attendants on the Queen. But now from the house comes one of her women servants, all in tears. What now shall I learn? To the weeping Servant It is well to weep when our lords are in sorrow-but tell us, we would know, is she alive, is she dead?",
+          "lineStart": 194
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 208
+        },
+        {
+          "type": "para",
+          "text": "You may say she is both alive and dead.",
+          "lineStart": 209
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 210
+        },
+        {
+          "type": "para",
+          "text": "How can the same man be dead and yet behold the light?",
+          "lineStart": 211
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 212
+        },
+        {
+          "type": "para",
+          "text": "She gasps, she is on the verge of death.",
+          "lineStart": 213
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 214
+        },
+        {
+          "type": "para",
+          "text": "Ah, unhappy man! For such a husband what loss is such a wife!",
+          "lineStart": 215
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 216
+        },
+        {
+          "type": "para",
+          "text": "The King will not know his loss until he suffers it.",
+          "lineStart": 217
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 218
+        },
+        {
+          "type": "para",
+          "text": "Then there is no hope that her life may be saved?",
+          "lineStart": 219
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 220
+        },
+        {
+          "type": "para",
+          "text": "The fated day constrains her.",
+          "lineStart": 221
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 222
+        },
+        {
+          "type": "para",
+          "text": "Are all things befitting prepared for her?",
+          "lineStart": 223
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 224
+        },
+        {
+          "type": "para",
+          "text": "The robes in which her lord will bury her are ready.",
+          "lineStart": 225
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 226
+        },
+        {
+          "type": "para",
+          "text": "Then let her know that she dies gloriously, the best of women beneath the sun by far!",
+          "lineStart": 227
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 229
+        },
+        {
+          "type": "para",
+          "text": "How should she not be the best! Who shall deny it? What should the best among women be? How better might a woman hold faith to her lord than gladly to die for him? This the whole city knows, but you will marvel when you hear what she has done within the house. When she knew that the last of her days was come she bathed her white body in river water, she took garments and gems from her rooms of cedar wood, and clad herself nobly; then, standing before the hearth-shrine, she uttered this prayer:",
+          "lineStart": 230
+        },
+        {
+          "type": "para",
+          "text": "'O Goddess, since now I must descend beneath the earth, for the last time I make supplication to you: and entreat you to protect my motherless children. Wed my son to a fair bride, and my daughter to a noble husband. Let not my children die untimely, as I their mother am destroyed, but grant that they live out happy lives with good fortune in their own land!'",
+          "lineStart": 238
+        },
+        {
+          "type": "para",
+          "text": "To every altar in Admetus's house she went, hung them with garlands. offered prayer, cut myrtle boughs-unweeping, unlamenting; nor did the coming doom change the bright colour of her face.",
+          "lineStart": 244
+        },
+        {
+          "type": "para",
+          "text": "Then to her marriage-room she went, flung herself down upon her bed, and wept, and said:",
+          "lineStart": 247
+        },
+        {
+          "type": "para",
+          "text": "'O my marriage-bed, wherein I loosed my virgin girdle to him for whom I die! Farewell! I have no hatred for you. Only me you lose. Because I held my faith to you and to my lord-I must die. Another woman shall possess you, not more chaste indeed than I, more fortunate perhaps.'",
+          "lineStart": 249
+        },
+        {
+          "type": "para",
+          "text": "She fell upon her knees and kissed it, and all the bed was damp with the, tide of tears which flooded to her eyes. And when she was fulfilled of many tears, drooping she rose from her bed and made as if to go, and many times she turned to go and many times turned back, and flung herself once more upon the bed.",
+          "lineStart": 253
+        },
+        {
+          "type": "para",
+          "text": "Her children clung to their mother's dress, and wept; and she clasped them in her arms and kissed them turn by turn, as a dying woman.",
+          "lineStart": 258
+        },
+        {
+          "type": "para",
+          "text": "All the servants in the house wept with compassion for their Queen, But she held out her hand to each, and there was none so base to whom she did not speak, and who did not reply again.",
+          "lineStart": 261
+        },
+        {
+          "type": "para",
+          "text": "Such is the misery in Admetus's house. If he had died, he would be nothing now; and, having escaped, he suffers an agony he will never forget.",
+          "lineStart": 264
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 267
+        },
+        {
+          "type": "para",
+          "text": "And does Admetus lament this woe-since he must be robbed of so noble a woman?",
+          "lineStart": 268
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 270
+        },
+        {
+          "type": "para",
+          "text": "He weeps, and clasps in his arms his dear bedfellow, and cries to her not to abandon him, asking impossible things. For she pines, and is wasted by sickness. She falls away, a frail burden on his arm; and yet, though faintly, she still breathes, still strives to look upon the sunlight, which she shall never see hereafter-since now for the last time she looks upon the orb and splendour of the sun I",
+          "lineStart": 271
+        },
+        {
+          "type": "para",
+          "text": "I go, and shall announce that you are here; for all men are not so well-minded to their lords as loyally to stand near them in misfortunes, but you for long have been a friend to both my lords. She goes back into the women's quarters of the Palace. The CHORUS now begins to sing.",
+          "lineStart": 277
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST SEMI-CHORUS",
+          "lineStart": 282
+        },
+        {
+          "type": "para",
+          "text": "O Zeus, What end to these woes? What escape from the Fate Which oppresses our lords?",
+          "lineStart": 283
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND SEMI-CHORUS",
+          "lineStart": 287
+        },
+        {
+          "type": "para",
+          "text": "Will none come forth? Must I shear my hair? Must we wrap ourselves In black mourning folds?",
+          "lineStart": 288
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST SEMI-CHORUS",
+          "lineStart": 292
+        },
+        {
+          "type": "para",
+          "text": "It is certain, O friends, it is certain? But still let us cry to the Gods; Very great is the power of the Gods.",
+          "lineStart": 293
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 296
+        },
+        {
+          "type": "para",
+          "text": "O King, O Healer, Seek out appeasement To Admetus's agony! Grant this, Oh, grant it! Once before did you find it; Now once more Be the Releaser from death. The Restrainer of blood-drenched Hades!",
+          "lineStart": 297
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND SEMI-CHORUS",
+          "lineStart": 305
+        },
+        {
+          "type": "para",
+          "text": "Alas! O son of Pheres. What ills shall you suffer Being robbed of your spouse!",
+          "lineStart": 306
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST SEMI-CHORUS",
+          "lineStart": 310
+        },
+        {
+          "type": "para",
+          "text": "At sight of such woes Shall we cut our throats? Shall we slip A dangling noose round our necks?",
+          "lineStart": 311
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 315
+        },
+        {
+          "type": "para",
+          "text": "See! See! She comes From the house with her lord! Cry out, Oh, lament. O land of Pherae, For the best of women Fades away in her doom Under the earth, To dark Hades! From the central door of the Palace comes a splendid but tragical procession. Preceded by the royal guards, ADMETUS enters, supporting ALCESTIS. The two children, a boy and a girl, cling to their mother's dress. There is a train of attendants and waiting women, who bring a low throne for the fainting ALCESTIS.",
+          "lineStart": 316
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 330
+        },
+        {
+          "type": "para",
+          "text": "chanting Never shall I say that we ought to rejoice in marriage, but rather weep; this have I seen from of old and now I look upon the fate of the King, who loses the best of wives, and henceforth until the end his life shall be intolerable.",
+          "lineStart": 331
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ALCESTIS",
+          "lineStart": 336
+        },
+        {
+          "type": "para",
+          "text": "chanting Sun, and you, light of day, Vast whirlings of swift cloud!",
+          "lineStart": 337
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 340
+        },
+        {
+          "type": "para",
+          "text": "The sun looks upon you and me, both of us miserable, who have wrought nothing against the Gods to deserve death.",
+          "lineStart": 341
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ALCESTIS",
+          "lineStart": 343
+        },
+        {
+          "type": "para",
+          "text": "chanting O Earth, O roof-tree of my home, Bridal-bed of my country, Iolcus!",
+          "lineStart": 344
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 347
+        },
+        {
+          "type": "para",
+          "text": "Rouse up, O unhappy one, and, do not leave me! Call upon the mighty Gods to pity!",
+          "lineStart": 348
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ALCESTIS",
+          "lineStart": 350
+        },
+        {
+          "type": "para",
+          "text": "starting up and gazing wildly in terror, chanting I see the two-oared boat, I see the boat on the lake! And Charon, Ferryman of the Dead, Calls to me, his hand on the oar: 'Why linger? Hasten! You delay me!' Angrily he urges me.",
+          "lineStart": 351
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 359
+        },
+        {
+          "type": "para",
+          "text": "Alas! How bitter to me is that ferrying of which you speak! O my unhappy one, how we suffer!",
+          "lineStart": 360
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ALCESTIS",
+          "lineStart": 362
+        },
+        {
+          "type": "para",
+          "text": "chanting He drags me, he drags me away- Do you not see?- To the House of the Dead, The Winged One Glaring under dark brows, Hades!- What is it you do? Set me free!- What a path must I travel, O most hapless of women!",
+          "lineStart": 363
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 374
+        },
+        {
+          "type": "para",
+          "text": "O piteous to those that love you, above all to me and to these children who sorrow in this common grief!",
+          "lineStart": 375
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ALCESTIS",
+          "lineStart": 377
+        },
+        {
+          "type": "para",
+          "text": "chanting Loose me, Oh, loose me now; Lay me down; All strength is gone from my feet. She falls back in the throne. Hades draws near! Dark night falls on my eyes, My children, my children, Never more, Oh, never more Shall your mother be yours! O children, farewell, Live happy in the light of day!",
+          "lineStart": 378
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 390
+        },
+        {
+          "type": "para",
+          "text": "chanting Alas! I hear this unhappy speech, and for me it is worse than all death. Ah! By the Gods, do not abandon me! Ah! By our children, whom you leave motherless, take heart! If you die, I become as nothing; in you we have our life and death; we revere your love.",
+          "lineStart": 391
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ALCESTIS",
+          "lineStart": 396
+        },
+        {
+          "type": "para",
+          "text": "recovering herself Admetus, you see the things I suffer; and now before I die I mean to tell you what I wish.",
+          "lineStart": 397
+        },
+        {
+          "type": "para",
+          "text": "To show you honour and-at the cost of my life-that you may still behold the light, I die; and yet I might have lived and wedded any in Thessaly I chose, and dwelt with happiness in a royal home. But, torn from you, I would not live with fatherless children, nor have I hoarded up those gifts of youth in which I found delight. Yet he who begot you, she who brought you forth, abandoned you when it had been beautiful in them to die, beautiful to die with dignity to save their son! They had no child but you, no hope if you were dead that other children might be born to them. Thus I should have lived my life out, and you too, and you would not lament as now, made solitary from your wife, that you must rear our children motherless!",
+          "lineStart": 400
+        },
+        {
+          "type": "para",
+          "text": "But these things are a God's doing and are thus. Well! Do not forget this gift, for I shall ask-not a recompense, since nothing is more precious than life, but-only what is just, as you yourself will say, since if you have not lost your senses you must love these children no less than I. Let them be masters in my house; marry not again, and set a stepmother over them, a woman harsher than I, who in her jealousy will lift her hand against my children and yours. Ah! not this, let not this be, I entreat you! The new stepmother hates the first wife's children, the viper itself is not more cruel. The son indeed finds a strong rampart in his father-but you, my daughter, how shall you live your virgin life out in happiness? How will you fare with your father's new wife? Ah! Let her not cast evil report upon you and thus wreck your marriage in the height of your youth! You will have no mother, O my child, to give you in marriage, to comfort you in childbed when none is tenderer than a mother!",
+          "lineStart": 411
+        },
+        {
+          "type": "para",
+          "text": "And I must die. Not to-morrow. nor to-morrow's morrow comes this misfortune on me, but even now I shall be named with those that are no more. Farewell! Live happy! You, my husband, may boast you had the best of wives; and you, my children, that you lost the best of mothers! She falls back.",
+          "lineStart": 426
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 431
+        },
+        {
+          "type": "para",
+          "text": "Take heart! I do not hesitate to speak for him. This he will do, unless he has lost his senses.",
+          "lineStart": 432
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 434
+        },
+        {
+          "type": "para",
+          "text": "It shall be so, it shall be! Have no fear! And since I held you living as my wife, so, when dead, you only shall be called my wife, and in your place no bride of Thessaly shall salute me hers; no other woman is noble enough for that, no other indeed so beautiful of face. My children shall suffice me; I pray the Gods I may enjoy them, since you we have not enjoyed.",
+          "lineStart": 435
+        },
+        {
+          "type": "para",
+          "text": "I shall wear mourning for you, O my wife, not for one year but all my days, abhorring the woman who bore me, hating my father-for they loved me in words, not deeds. But you-to save my life you give the dearest thing you have! Should I not weep then, losing such a wife as you?",
+          "lineStart": 441
+        },
+        {
+          "type": "para",
+          "text": "I shall make an end of merry drinking parties, and of flower-crowned feasts and of the music which possessed my house. Never again shall I touch the lyre, never again shall I raise my spirits to sing to the Libyan flute-for you have taken from me all my joy. Your image, carven by the skilled hands of artists, shall be laid in our marriage-bed; I shall clasp it, and my hands shall cling to it and I shall speak your name and so, not having you, shall think I have my dear wife in my arms-a cold delight, I know, but it will lighten the burden of my days. Often you will gladden me, appearing in my dreams; for sweet it is to look on those we love in dreams, however brief the night.",
+          "lineStart": 446
+        },
+        {
+          "type": "para",
+          "text": "Ah! If I had the tongue and song of Orpheus so that I might charm Demeter's Daughter or her Lord, and snatch you back from Hades, would go down to hell; and neither Pluto's dog nor Charon, Leader of the Dead, should hinder me until I had brought your life back to the light!",
+          "lineStart": 456
+        },
+        {
+          "type": "para",
+          "text": "At least await me there whenever I shall die, and prepare the house where you will dwell with me. I shall lay a solemn charge upon these children to stretch me in the same cedar shroud with you, and lay my side against your side; for even in death let me not be separate from you, you who alone were faithful to me!",
+          "lineStart": 461
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 466
+        },
+        {
+          "type": "para",
+          "text": "to ADMETUS And I also will keep this sad mourning with you, as a friend with a friend; for she is worthy of it.",
+          "lineStart": 467
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ALCESTIS",
+          "lineStart": 470
+        },
+        {
+          "type": "para",
+          "text": "O my children, you have heard your father say that never will he set another wife over you and never thus insult me.",
+          "lineStart": 471
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 473
+        },
+        {
+          "type": "para",
+          "text": "Again I say it, and will perform it too!",
+          "lineStart": 474
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ALCESTIS",
+          "lineStart": 475
+        },
+        {
+          "type": "para",
+          "text": "placing the children's hands in his Then take these children from my hand.",
+          "lineStart": 476
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 478
+        },
+        {
+          "type": "para",
+          "text": "I take them-dear gifts from a dear hand.",
+          "lineStart": 479
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ALCESTIS",
+          "lineStart": 480
+        },
+        {
+          "type": "para",
+          "text": "Now you must be the mother for me to my children.",
+          "lineStart": 481
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 482
+        },
+        {
+          "type": "para",
+          "text": "It must be so, since they are robbed of you.",
+          "lineStart": 483
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ALCESTIS",
+          "lineStart": 484
+        },
+        {
+          "type": "para",
+          "text": "O children, I should have lived my life out-and I go to the Underworld.",
+          "lineStart": 485
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 487
+        },
+        {
+          "type": "para",
+          "text": "Alas! What shall I do, left alone by you?",
+          "lineStart": 488
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ALCESTIS",
+          "lineStart": 489
+        },
+        {
+          "type": "para",
+          "text": "Time will console you. The dead are nothing.",
+          "lineStart": 490
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 491
+        },
+        {
+          "type": "para",
+          "text": "Take me with you, by the Gods! Take me to the Underworld!",
+          "lineStart": 492
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ALCESTIS",
+          "lineStart": 493
+        },
+        {
+          "type": "para",
+          "text": "It is enough that I should die-for you.",
+          "lineStart": 494
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 495
+        },
+        {
+          "type": "para",
+          "text": "O Fate, what a wife you steal from me!",
+          "lineStart": 496
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ALCESTIS",
+          "lineStart": 497
+        },
+        {
+          "type": "para",
+          "text": "growing faint My dimmed eyes are heavily oppressed.",
+          "lineStart": 498
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 500
+        },
+        {
+          "type": "para",
+          "text": "O woman, I am lost if you leave me!",
+          "lineStart": 501
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ALCESTIS",
+          "lineStart": 502
+        },
+        {
+          "type": "para",
+          "text": "You may say of me that I am nothing.",
+          "lineStart": 503
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 504
+        },
+        {
+          "type": "para",
+          "text": "Lift up your head! Do not abandon your children!",
+          "lineStart": 505
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ALCESTIS",
+          "lineStart": 506
+        },
+        {
+          "type": "para",
+          "text": "Ah! Indeed it is unwillingly-but, farewell, my children!",
+          "lineStart": 507
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 508
+        },
+        {
+          "type": "para",
+          "text": "Look at them, look....",
+          "lineStart": 509
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ALCESTIS",
+          "lineStart": 510
+        },
+        {
+          "type": "para",
+          "text": "I am nothing.",
+          "lineStart": 511
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 512
+        },
+        {
+          "type": "para",
+          "text": "What are you doing? Are you leaving me?",
+          "lineStart": 513
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ALCESTIS",
+          "lineStart": 514
+        },
+        {
+          "type": "para",
+          "text": "falling back dead Farewell.",
+          "lineStart": 515
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 517
+        },
+        {
+          "type": "para",
+          "text": "staring at the body Wretch that I am, I am lost!",
+          "lineStart": 518
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 520
+        },
+        {
+          "type": "para",
+          "text": "She is gone! The wife of Admetus is no more.",
+          "lineStart": 521
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUMELUS",
+          "lineStart": 522
+        },
+        {
+          "type": "para",
+          "text": "chanting Ah! Misery! Mother has gone, Gone to the Underworld! She lives no more, O my Father, In the sunlight. O sad one, You have left us To live motherless!",
+          "lineStart": 523
+        },
+        {
+          "type": "para",
+          "text": "See, Oh, see her eyelids And her drooping hands! Mother, Mother, Hearken to me, listen, I beseech you! I-I-Mother!- I am calling to you, Your little bird fallen upon your face!",
+          "lineStart": 533
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 541
+        },
+        {
+          "type": "para",
+          "text": "She hears not, she sees not. You and I are smitten by a dread calamity.",
+          "lineStart": 542
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUMELUS",
+          "lineStart": 544
+        },
+        {
+          "type": "para",
+          "text": "chanting Father, I am a child, And I am left Like a lonely ship By the mother I loved. Oh! The cruel things I suffer! And you, little sister, Suffer with me.",
+          "lineStart": 545
+        },
+        {
+          "type": "para",
+          "text": "O my Father, Vain, vain was your wedding, You did not walk with her To the end of old age. She died first; And your death, O Mother, Destroys our house.",
+          "lineStart": 553
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 560
+        },
+        {
+          "type": "para",
+          "text": "Admetus, you must endure this calamity. You are not the first and will not be the last to lose a noble wife. We all are doomed to die.",
+          "lineStart": 561
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 563
+        },
+        {
+          "type": "para",
+          "text": "I know it. Not unawares did this woe swoop down on me; for long it has gnawed at me.",
+          "lineStart": 564
+        },
+        {
+          "type": "para",
+          "text": "But, since I shall ordain the funeral rites for this dead body, you must be there, and meanwhile let a threnody re-echo to the implacable God of the Underworld. And all you men of Thessaly whom I rule-I order you to share the mourning for this woman with severed hair and black-robed garb. You who yoke the four-horsed chariot and the swift single horses, cut the mane from their necks with your steel.",
+          "lineStart": 567
+        },
+        {
+          "type": "para",
+          "text": "Let there be no noise of flutes or lyre within the city until twelve moons are fulfilled. Never shall I bury another body so dear to me, never one that has loved me better. From me she deserves all honour, since she alone would die for me! The body of ALCESTIS is carried solemnly into the Palace, followed by ADMETUS, With bowed head, holding one of his children by each hand. When all have entered, the great doors are quietly shut.",
+          "lineStart": 573
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 580
+        },
+        {
+          "type": "para",
+          "text": "singing strophe 1 O Daughter of Pelias, Hail to you in the house of Hades, In the sunless home where you shall dwell! Let Hades, the dark-haired God, Let the old man, Leader of the Dead, Who sits at the oar and helm, Know you: Far, far off is the best of women Borne beyond the flood of Acheron In the two-oared boat! antistrophe 1 Often shall the Muses' servants Sing of you to the seven-toned Lyre-shell of the mountain-tortoise, And praise you with mourning songs at Sparta When the circling season Brings back the month Carneius Under the nightlong upraised moon, And in bright glad Athens. Such a theme do you leave by your death For the music of singers! strophe 2 Ah! That I had the power To bring you back to the light From the dark halls of Hades, And from the waves of Cocytus With the oar of the river of hell Oh, you only, O dearest of women, You only dared give your life For the life of your lord in Hades! Light rest the earth above you, O woman. If your lord choose another bridal-bed He shall be hateful to me As to your own children. antistrophe When his mother And the old father that begot him Would not give their bodies to the earth For their son's sake, They dared not deliver him-O cruel! Though their heads were grey. But you, In your lively youth, Died for him, and are gone from the light! Ah! might I be joined With a wife so dear! But in life such fortune is rare. How happy were my days with her! From the left HERACLES enters. He is black-bearded and of great physical strength; he wears a lion-skin over his shoulders and carries a large club.",
+          "lineStart": 581
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 634
+        },
+        {
+          "type": "para",
+          "text": "with a gesture of salutation Friends, dwellers in the lands of Pherae, do I find Admetus in his home?",
+          "lineStart": 635
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 637
+        },
+        {
+          "type": "para",
+          "text": "The son of Pheres is in his home, O Heracles. But, tell us, what brings you to the land of Thessaly and to the city of Pherae?",
+          "lineStart": 638
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 640
+        },
+        {
+          "type": "para",
+          "text": "I have a task I must achieve for Eurystheus of Tiryns.",
+          "lineStart": 641
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 642
+        },
+        {
+          "type": "para",
+          "text": "Where do you go? To what quest are you yoked?",
+          "lineStart": 643
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 644
+        },
+        {
+          "type": "para",
+          "text": "The quest of the four-horsed chariot of Diomedes, the Thracian.",
+          "lineStart": 645
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 646
+        },
+        {
+          "type": "para",
+          "text": "But how will you achieve it? Do you know this stranger?",
+          "lineStart": 647
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 648
+        },
+        {
+          "type": "para",
+          "text": "No, I have never been to the land of the Bistones.",
+          "lineStart": 649
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 650
+        },
+        {
+          "type": "para",
+          "text": "You cannot obtain the horses without a struggle.",
+          "lineStart": 651
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 652
+        },
+        {
+          "type": "para",
+          "text": "I cannot renounce my labours.",
+          "lineStart": 653
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 654
+        },
+        {
+          "type": "para",
+          "text": "You must kill to return, or you will remain there dead.",
+          "lineStart": 655
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 656
+        },
+        {
+          "type": "para",
+          "text": "It will not be the first contest I have risked.",
+          "lineStart": 657
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 658
+        },
+        {
+          "type": "para",
+          "text": "And if you conquer the King will you gain anything?",
+          "lineStart": 659
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 660
+        },
+        {
+          "type": "para",
+          "text": "I shall bring back his foals to the lord of Tiryns.",
+          "lineStart": 661
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 662
+        },
+        {
+          "type": "para",
+          "text": "It is not easy to thrust the bit into their jaws.",
+          "lineStart": 663
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 664
+        },
+        {
+          "type": "para",
+          "text": "Only if they breathe fire from their nostrils!",
+          "lineStart": 665
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 666
+        },
+        {
+          "type": "para",
+          "text": "But they tear men with their swift jaws.",
+          "lineStart": 667
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 668
+        },
+        {
+          "type": "para",
+          "text": "You speak of the food of wild mountain beasts, not of horses.",
+          "lineStart": 669
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 670
+        },
+        {
+          "type": "para",
+          "text": "You may see their mangers foul with blood.",
+          "lineStart": 671
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 672
+        },
+        {
+          "type": "para",
+          "text": "Of what father does the breeder boast himself the son?",
+          "lineStart": 673
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 674
+        },
+        {
+          "type": "para",
+          "text": "Of Ares, the lord of the gold-rich shield of Thrace!",
+          "lineStart": 675
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 676
+        },
+        {
+          "type": "para",
+          "text": "In this task once more you remind me of my fate, which is ever upon harsh steep ways, since I must join battle with the sons of Ares-first with Lycaon, then with Cycnus, and now in this third contest I am come to match myself with these steeds and their master!",
+          "lineStart": 677
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 681
+        },
+        {
+          "type": "para",
+          "text": "But see, the lord of this land, Admetus himself, comes from the house! The central doors of the Palace have opened, and ADMETUS comes slowly on the Stage, preceded and followed by guards and attendants. The King has put off all symbols of royalty, and is dressed in black. His tong hair is clipped close to his head. ADMETUS dissembles his grief throughout this scene, in obedience to the laws of hospitality, which were particularly reverenced in Thessaly.",
+          "lineStart": 682
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 690
+        },
+        {
+          "type": "para",
+          "text": "Hail Son of Zeus and of the blood of Perseus!",
+          "lineStart": 691
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 692
+        },
+        {
+          "type": "para",
+          "text": "And hail to you, Admetus, lord of the Thessalians",
+          "lineStart": 693
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 694
+        },
+        {
+          "type": "para",
+          "text": "May it be so! I know your friendship well.",
+          "lineStart": 695
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 696
+        },
+        {
+          "type": "para",
+          "text": "What means this shorn hair, this mourning robe?",
+          "lineStart": 697
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 698
+        },
+        {
+          "type": "para",
+          "text": "To-day I must bury a dead body.",
+          "lineStart": 699
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 700
+        },
+        {
+          "type": "para",
+          "text": "May a God avert harm from your children!",
+          "lineStart": 701
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 702
+        },
+        {
+          "type": "para",
+          "text": "The children I have begotten are alive in the house.",
+          "lineStart": 703
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 704
+        },
+        {
+          "type": "para",
+          "text": "Your father was ripe for death-if it is he has gone?",
+          "lineStart": 705
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 706
+        },
+        {
+          "type": "para",
+          "text": "He lives-and she who brought me forth, O Heracles.",
+          "lineStart": 707
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 708
+        },
+        {
+          "type": "para",
+          "text": "Your wife-Alcestis-she is not dead?",
+          "lineStart": 709
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 710
+        },
+        {
+          "type": "para",
+          "text": "evasively Of her I might make a double answer.",
+          "lineStart": 711
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 713
+        },
+        {
+          "type": "para",
+          "text": "Do you mean that she is dead or alive?",
+          "lineStart": 714
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 715
+        },
+        {
+          "type": "para",
+          "text": "ambiguously She is and is not-and for this I grieve.",
+          "lineStart": 716
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 718
+        },
+        {
+          "type": "para",
+          "text": "perplexed I am no wiser-you speak obscurely.",
+          "lineStart": 719
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 721
+        },
+        {
+          "type": "para",
+          "text": "Did you not know the fate which must befall her?",
+          "lineStart": 722
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 723
+        },
+        {
+          "type": "para",
+          "text": "I know she submitted to die for you.",
+          "lineStart": 724
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 725
+        },
+        {
+          "type": "para",
+          "text": "How then can she be alive, having consented to this?",
+          "lineStart": 726
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 727
+        },
+        {
+          "type": "para",
+          "text": "Ah! Do not weep for your wife till that time comes.",
+          "lineStart": 728
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 729
+        },
+        {
+          "type": "para",
+          "text": "Those who are about to die are dead, and the dead are nothing.",
+          "lineStart": 730
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 731
+        },
+        {
+          "type": "para",
+          "text": "Men hold that to be and not to be are different things.",
+          "lineStart": 732
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 733
+        },
+        {
+          "type": "para",
+          "text": "You hold for one, Heracles, and I for the other.",
+          "lineStart": 734
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 735
+        },
+        {
+          "type": "para",
+          "text": "Whom, then, do you mourn? Which of your friends is dead?",
+          "lineStart": 736
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 737
+        },
+        {
+          "type": "para",
+          "text": "A woman. We spoke of her just now.",
+          "lineStart": 738
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 739
+        },
+        {
+          "type": "para",
+          "text": "mistaking his meaning A stranger? Or one born of your kin?",
+          "lineStart": 740
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 742
+        },
+        {
+          "type": "para",
+          "text": "A stranger, but one related to this house.",
+          "lineStart": 743
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 744
+        },
+        {
+          "type": "para",
+          "text": "But how, then, did she chance to die in your house?",
+          "lineStart": 745
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 746
+        },
+        {
+          "type": "para",
+          "text": "When her father died she was sheltered here.",
+          "lineStart": 747
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 748
+        },
+        {
+          "type": "para",
+          "text": "Alas! Would I had not found you in this grief, Admetus!",
+          "lineStart": 749
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 750
+        },
+        {
+          "type": "para",
+          "text": "What plan are you weaving with those words?",
+          "lineStart": 751
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 752
+        },
+        {
+          "type": "para",
+          "text": "I shall go to the hearth of another friend.",
+          "lineStart": 753
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 754
+        },
+        {
+          "type": "para",
+          "text": "Not so, O King! This wrong must not be.",
+          "lineStart": 755
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 756
+        },
+        {
+          "type": "para",
+          "text": "hesitating The coming of a guest is troublesome to those who mourn.",
+          "lineStart": 757
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 759
+        },
+        {
+          "type": "para",
+          "text": "decisively The dead are dead. Enter my house.",
+          "lineStart": 760
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 762
+        },
+        {
+          "type": "para",
+          "text": "But it is shameful to feast among weeping friends.",
+          "lineStart": 763
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 764
+        },
+        {
+          "type": "para",
+          "text": "We shall put you in the guest-rooms, which are far apart.",
+          "lineStart": 765
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 766
+        },
+        {
+          "type": "para",
+          "text": "Let me go, and I will give you a thousand thanks.",
+          "lineStart": 767
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 768
+        },
+        {
+          "type": "para",
+          "text": "No, you shall not go to another man's hearth. To a servant Guide him, and open for him the guest-rooms apart from the house. HERACLES enters the Palace by the guests' door; when he has gone in, ADMETUS turns to the other servants Close the inner door of the courtyard; it is unseemly that guests rejoicing at table should hear lamentations, and be saddened. The attendants go into the Palace.",
+          "lineStart": 769
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 778
+        },
+        {
+          "type": "para",
+          "text": "What are you about? When such a calamity has fallen upon you, Admetus, have you the heart to entertain a guest? Are you mad?",
+          "lineStart": 779
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 781
+        },
+        {
+          "type": "para",
+          "text": "And if I had driven away a guest who came to my house and city, would you have praised me more? No, indeed! My misfortune would have been no less, and I inhospitable. One more ill would have been added to those I have if my house were called inhospitable. I myself find him the best of hosts when I enter the thirsty land of Argos.",
+          "lineStart": 782
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 787
+        },
+        {
+          "type": "para",
+          "text": "But why did you hide from him the fate that has befallen, if the man came as a friend, as you say?",
+          "lineStart": 788
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 790
+        },
+        {
+          "type": "para",
+          "text": "Never would he have entered my house if he had guessed my misfortune.",
+          "lineStart": 791
+        },
+        {
+          "type": "para",
+          "text": "To some, I know, I shall appear senseless in doing this, and they will blame me; but my roof knows not to reject or insult a guest. He goes into the Palace, as the CHORUS begins its song.",
+          "lineStart": 793
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 797
+        },
+        {
+          "type": "para",
+          "text": "singing strophe 1 O house of a bountiful lord, Ever open to many guests, The God of Pytho, Apollo of the beautiful lyre, Deigned to dwell in you And to live a shepherd in your lands! On the slope of the hillsides He played melodies of mating On the Pipes of Pan to his herds. antistrophe And the dappled lynxes fed with them In joy at your singing; From the wooded vale of Orthrys Came a yellow troop of lions; To the sound of your lyre, O Phoebus, Danced the dappled fawn Moving on light feet Beyond the high-crested pines, Charmed by your sweet singing. strophe He dwells in a home most rich in flocks By the lovely moving Boebian lake. At the dark stabling-place of the Sun He takes the sky of the Molossians As a bourne to his ploughing of fields, To the soils of his plains; He bears sway As far as the harbourless Coast of the Aegean Sea, As far as Pelion. antistrophe 2 Even to-day he opened his house And received a guest, Though his eyelids were wet With tears wept by the corpse Of a dear bedfellow dead in the house. For the noble spirit is proclaimed by honour; All wisdom lies with the good. I admire him: And in my soul I know The devout man shall have joy. The funeral procession of ALCESTIS enters from the door of the women's quarters. The body, carried on a bier by men servants, is followed by ADMETUS and his two children. Behind them comes a train of attendants and servants carrying the funeral offerings. All are in mourning. ADMETUS addresses the CHORUS.",
+          "lineStart": 798
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 845
+        },
+        {
+          "type": "para",
+          "text": "O friendly presence of you men of Pherae! Now that the body is prepared, and the servants bear it on high to the tomb and the fire, do you, as is fitting, salute the dead as she goes forth on her last journey. PHERES, the father of ADMETUS, enters, followed by attendants bearing funeral offerings.",
+          "lineStart": 846
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 851
+        },
+        {
+          "type": "para",
+          "text": "But I see your father, tottering with an old man's walk, and his followers bearing in their hands for your wife garments as an offering to the dead.",
+          "lineStart": 852
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHERES",
+          "lineStart": 855
+        },
+        {
+          "type": "para",
+          "text": "My son, I have come to share your sorrow, for the wife you have lost was indeed noble and virtuous-none can deny it. But these things must be endured, however intolerable they may be.",
+          "lineStart": 856
+        },
+        {
+          "type": "para",
+          "text": "Take these garments, and let her descend under the earth. Her body must be honoured, for she died to save your life, my son; she has not made me childless, nor left me to be destroyed without you in my hapless old age; and she has given glorious fame to all women by daring so noble a deed! He lifts his hand in salutation to the body of ALCESTIS. O woman, who saved my son, who raised me up when I had fallen, hail! Be happy in the halls of Hades! I declare it-such marriages are profitable to mankind; otherwise, it is foolish to marry.",
+          "lineStart": 859
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 868
+        },
+        {
+          "type": "para",
+          "text": "furiously It was not my wish that you should come to this burial, and I deny that your presence is that of a friend! She shall never wear these garments of yours; she needs not your gifts for her burial. You should have grieved when I was, about to die; but you stood aside, and now do you come to wail over a corpse when you, an old man, allowed a young woman to die?",
+          "lineStart": 869
+        },
+        {
+          "type": "para",
+          "text": "Were you in very truth father of this body of mine? Did she, who claims to be and is called my mother, bring me forth? Or was I bred of a slave's seed and secretly brought to your wife's breast? You have proved what you are when it comes to the test, and therefore I am not your begotten son; or you surpass all men in cowardice, for, being at the very verge and end of life, you had neither courage nor will to die for your son. But this you left to a woman, a stranger, whom alone I hold as my father and my mother!",
+          "lineStart": 876
+        },
+        {
+          "type": "para",
+          "text": "Yet it had been a beautiful deed in you to die for your son, and short indeed was the time left you to live. She and I would have lived out our lives, and I should not now be here alone lamenting my misery.",
+          "lineStart": 884
+        },
+        {
+          "type": "para",
+          "text": "You enjoyed all that a happy man can enjoy-you passed the flower of your age as a king, and in me your son you had an heir to your dominion; you would not have died childless, leaving an orphaned house to be plundered by strangers. You will not say that you abandoned me to death because I dishonoured your old age, for above all I was respectful to you-and this is the gratitude I have from you and my mother!",
+          "lineStart": 888
+        },
+        {
+          "type": "para",
+          "text": "Beget more sons, and quickly, to cherish your old age and wrap you in a shroud when dead and lay your body out in state! This hand of mine shall not inter you. I am dead to you. I look upon the light of day because another saved me-I say I am her son, and will cherish her old age!",
+          "lineStart": 894
+        },
+        {
+          "type": "para",
+          "text": "Vainly do old men pray for death, regretting their age and the long span of life. If death draws near, none wants to die, and age is no more a burden to him.",
+          "lineStart": 899
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 902
+        },
+        {
+          "type": "para",
+          "text": "Admetus! The present misfortune is enough. Do not provoke your father's spirit. ADMETUS turns angrily to depart, but PHERES prevents him.",
+          "lineStart": 903
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHERES",
+          "lineStart": 907
+        },
+        {
+          "type": "para",
+          "text": "My son, do you think you are pursuing some hireling Lydian or Phrygian with your taunts? Do you know I am a Thessalian, a free man lawfully begotten by a Thessalian father? You are over-insolent, and you shall not leave thus, after wounding me with your boyish insults. I indeed begot you, and bred you up to be lord of this land, but I am not bound to die for you. It is not a law of our ancestors or of Hellas that the fathers should die for the children! You were born to live your own life, whether miserable or fortunate; and what is due to you from me you have. You rule over many men, and I shall leave you many wide fields even as received them from my own father. How, then, have I wronged you? Of what have I robbed you? Do not die for me, any more than I die for you. You love to look upon the light of day-do you think your father hates it? I tell myself that we are a long time underground and that life is short, but sweet.",
+          "lineStart": 908
+        },
+        {
+          "type": "para",
+          "text": "But you-you strove shamelessly not to die, and you are alive, you shirked your fate by killing her! And you call me a coward, you, the worst of cowards, surpassed by a woman who died for you, pretty boy? And now you insult those who should be dear to you, when they refuse to die for a coward like you!",
+          "lineStart": 922
+        },
+        {
+          "type": "para",
+          "text": "Be silent! Learn that if you love your life, so do others. If you utter insults, you shall hear many, and true ones too!",
+          "lineStart": 927
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 929
+        },
+        {
+          "type": "para",
+          "text": "These insults and those that went before suffice. Old man, cease to revile your son.",
+          "lineStart": 930
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 932
+        },
+        {
+          "type": "para",
+          "text": "to PHERES Speak on! I shall refute you. If the truth wounds you when you hear it you should not have wronged me.",
+          "lineStart": 933
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHERES",
+          "lineStart": 936
+        },
+        {
+          "type": "para",
+          "text": "I should have wronged you far more if I had died for you.",
+          "lineStart": 937
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 938
+        },
+        {
+          "type": "para",
+          "text": "It is the same then to die an old man and in the flower of life?",
+          "lineStart": 939
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHERES",
+          "lineStart": 941
+        },
+        {
+          "type": "para",
+          "text": "We should live one life, not two.",
+          "lineStart": 942
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 943
+        },
+        {
+          "type": "para",
+          "text": "May you live longer than God!",
+          "lineStart": 944
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHERES",
+          "lineStart": 945
+        },
+        {
+          "type": "para",
+          "text": "Do you curse your parents when they have done you no wrong?",
+          "lineStart": 946
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 947
+        },
+        {
+          "type": "para",
+          "text": "I see you are in love with long life.",
+          "lineStart": 948
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHERES",
+          "lineStart": 949
+        },
+        {
+          "type": "para",
+          "text": "But you are not carrying her dead body in place of your own?",
+          "lineStart": 950
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 951
+        },
+        {
+          "type": "para",
+          "text": "It is the proof of your cowardice, O worst of men.",
+          "lineStart": 952
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHERES",
+          "lineStart": 953
+        },
+        {
+          "type": "para",
+          "text": "You cannot say she died for me!",
+          "lineStart": 954
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 955
+        },
+        {
+          "type": "para",
+          "text": "Alas! May you one day need my help.",
+          "lineStart": 956
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHERES",
+          "lineStart": 957
+        },
+        {
+          "type": "para",
+          "text": "Woo many women, so that more may die for you.",
+          "lineStart": 958
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 959
+        },
+        {
+          "type": "para",
+          "text": "To your shame be it-you who dared not die.",
+          "lineStart": 960
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHERES",
+          "lineStart": 961
+        },
+        {
+          "type": "para",
+          "text": "Sweet is the daylight of the Gods, very sweet.",
+          "lineStart": 962
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 963
+        },
+        {
+          "type": "para",
+          "text": "Your spirit is mean, not a man's.",
+          "lineStart": 964
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHERES",
+          "lineStart": 965
+        },
+        {
+          "type": "para",
+          "text": "Would you laugh to carry an old man's body to the grave?",
+          "lineStart": 966
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 967
+        },
+        {
+          "type": "para",
+          "text": "You will die infamous, whenever you die.",
+          "lineStart": 968
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHERES",
+          "lineStart": 969
+        },
+        {
+          "type": "para",
+          "text": "It will matter little enough to me to hear ill of myself when I am dead!",
+          "lineStart": 970
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 972
+        },
+        {
+          "type": "para",
+          "text": "Alas! Alas! full of impudence. is old age!",
+          "lineStart": 973
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHERES",
+          "lineStart": 974
+        },
+        {
+          "type": "para",
+          "text": "She was not impudent, but foolish,",
+          "lineStart": 975
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 976
+        },
+        {
+          "type": "para",
+          "text": "Go! Leave me to bury her body.",
+          "lineStart": 977
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHERES",
+          "lineStart": 978
+        },
+        {
+          "type": "para",
+          "text": "turning away I go. You, her murderer, will bury her-but soon you must render an account to her relatives. Acastus is not a man if he fails to avenge his sister's blood on you! PHERES goes out by the way he entered, followed by his attendants. ADMETUS gazes angrily after him.",
+          "lineStart": 979
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 985
+        },
+        {
+          "type": "para",
+          "text": "Go with a curse, you, and she who dwells with you! Grow old, as you ought, childless though you have a child. You shall never return to this house. And if I could renounce your hearth as my father's by heralds, I would do it. But we-since this sorrow must be endured-let us go, and set her body on the funeral pyre. The Procession moves slowly along the stage, and is joined by the CHORUS. As they pass, the LEADER salutes the body of ALCESTIS.",
+          "lineStart": 986
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 993
+        },
+        {
+          "type": "para",
+          "text": "chanting Alas! Alas! You who suffer for your courage, O noblest and best of women, hail! May Hermes of the Dead, may Hades, greet you kindly. If there are rewards for the dead, may you share them as you sit by the bride of the Lord of the Dead! The Procession has filed out. A servant in mourning hurries out from the guests' quarters.",
+          "lineStart": 994
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 1001
+        },
+        {
+          "type": "para",
+          "text": "Many guests from every land, I know, have come to the Palace of Admetus, and I have set food before them, but never one worse than this guest have I welcomed to the hearth.",
+          "lineStart": 1002
+        },
+        {
+          "type": "para",
+          "text": "First, though he saw our Lord was in mourning, he entered, and dared to pass through the gates. Then, knowing our misfortune, he did not soberly accept what was offered him, but if anything was not served to him he ordered us to bring it. In both hands he took a cup of ivy-wood, and drank the unmixed wine of the dark grape-mother, until he was encompassed and heated with the flame of wine. He crowned his head with myrtle sprays, howling discordant songs. There was he caring nothing for Admetus's misery, and we servants weeping for our Queen; and yet we hid our tear-laden eyes from the guest, for so Admetus had commanded.",
+          "lineStart": 1005
+        },
+        {
+          "type": "para",
+          "text": "And now in the Palace I must entertain this stranger, some villainous thief and brigand, while she, the Queen I mourn, has gone from the house unfollowed, unsaluted, she who was as a mother to me and all us servants, for she sheltered us from a myriad troubles by softening her husband's wrath.",
+          "lineStart": 1014
+        },
+        {
+          "type": "para",
+          "text": "Am I not right, then, to hate this stranger, who came to us in the midst of sorrow? HERACLES comes from the Palace. He is drunkenly merry, with a myrtle wreath on his head, and a large cup and wine-skin in his hands. He staggers a little.",
+          "lineStart": 1019
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1024
+        },
+        {
+          "type": "para",
+          "text": "Hey, you! Why so solemn and anxious? A servant should not be sullen with guests, but greet them with a cheerful heart.",
+          "lineStart": 1025
+        },
+        {
+          "type": "para",
+          "text": "You see before you a man who is your lord's friend, and you greet him with a gloomy, frowning face, because of your zeal about a strange woman's death. Come here, and let me make you a little wiser! With drunken gravity Know the nature of human life? Don't think you do. You couldn't. Listen to me. All mortals must die. Isn't one who knows if he'll be alive to-morrow morning. Who knows where Fortune will lead? Nobody can teach it. Nobody learn it by rules. So, rejoice in what you hear, and learn from me! Count each day as it comes as Life-and leave the rest to Fortune. Above all, honour the Love Goddess, sweetest of all the Gods to mortal men, a kindly goddess! Put all the rest aside. Trust in what I say, if you think I speak truth-as I believe. Get rid of this gloom, rise superior to Fortune. Crown yourself with flowers and drink with me, won't you? I know the regular clink of the wine-cup will row you from darkness and gloom to another haven. Mortals should think mortal thoughts. To all solemn and frowning men, life I say is not life, but a disaster.",
+          "lineStart": 1027
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 1043
+        },
+        {
+          "type": "para",
+          "text": "We know all that, but what we endure here to-day is far indeed from gladness and laughter.",
+          "lineStart": 1044
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1046
+        },
+        {
+          "type": "para",
+          "text": "But the dead woman was a stranger. Lament not overmuch, then, for the Lords of this Palace are still alive.",
+          "lineStart": 1047
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 1049
+        },
+        {
+          "type": "para",
+          "text": "How, alive? Do you not know the misery of this house?",
+          "lineStart": 1050
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1051
+        },
+        {
+          "type": "para",
+          "text": "Your lord did not lie to me?",
+          "lineStart": 1052
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 1053
+        },
+        {
+          "type": "para",
+          "text": "He goes too far in hospitality!",
+          "lineStart": 1054
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1055
+        },
+        {
+          "type": "para",
+          "text": "But why should I suffer for a stranger's death?",
+          "lineStart": 1056
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 1057
+        },
+        {
+          "type": "para",
+          "text": "It touches this house only too nearly.",
+          "lineStart": 1058
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1059
+        },
+        {
+          "type": "para",
+          "text": "Did he hide some misfortune from me?",
+          "lineStart": 1060
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 1061
+        },
+        {
+          "type": "para",
+          "text": "Go in peace! The miseries of our lords concern us.",
+          "lineStart": 1062
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1063
+        },
+        {
+          "type": "para",
+          "text": "That speech does not imply mourning for a stranger!",
+          "lineStart": 1064
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 1065
+        },
+        {
+          "type": "para",
+          "text": "No, or I should not have been disgusted to see you drinking.",
+          "lineStart": 1066
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1067
+        },
+        {
+          "type": "para",
+          "text": "Have I then been basely treated by my host?",
+          "lineStart": 1068
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 1069
+        },
+        {
+          "type": "para",
+          "text": "You did not come to this house at a welcome hour. We are in mourning. You see my head is shaved and the black garments I wear.",
+          "lineStart": 1070
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1072
+        },
+        {
+          "type": "para",
+          "text": "But who, then, is dead? One of the children? The old father?",
+          "lineStart": 1073
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 1074
+        },
+        {
+          "type": "para",
+          "text": "O stranger, Admetus no longer has a wife.",
+          "lineStart": 1075
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1076
+        },
+        {
+          "type": "para",
+          "text": "What! And yet I was received in this way?",
+          "lineStart": 1077
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 1078
+        },
+        {
+          "type": "para",
+          "text": "He was ashamed to send you away from his house.",
+          "lineStart": 1079
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1080
+        },
+        {
+          "type": "para",
+          "text": "O hapless one! What a wife you have lost!",
+          "lineStart": 1081
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 1082
+        },
+        {
+          "type": "para",
+          "text": "Not she alone, but all of us are lost.",
+          "lineStart": 1083
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1084
+        },
+        {
+          "type": "para",
+          "text": "now completely sobered I felt there was something when I saw his tear-wet eyes, his shaven head, his distracted look. But he persuaded me he was taking the body of a stranger to the grave. Against my will I entered these ates, and drank in the home of this generous man-and he in such grief! And shall I drink at such a time with garlands of flowers on my head? You, why did you not tell me that such misery had come upon this house? Where is he burying her? Where shall I find him?",
+          "lineStart": 1085
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SERVANT",
+          "lineStart": 1093
+        },
+        {
+          "type": "para",
+          "text": "Beside the straight road which leads to Larissa you will see a tomb of polished stone outside the walls. Returns to the servants' quarters",
+          "lineStart": 1094
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1097
+        },
+        {
+          "type": "para",
+          "text": "O heart of me, much-enduring heart, O right arm, now indeed must you show what son was born to Zeus by Alcmena, the Tirynthian, daughter of Electryon! For I must save this dead woman, and bring back Alcestis to this house as a grace to Admetus.",
+          "lineStart": 1098
+        },
+        {
+          "type": "para",
+          "text": "I shall watch for Death, the black-robed Lord of the Dead, and I know I shall find him near the tomb, drinking the blood of the sacrifices. If can leap upon him from an ambush, seize him, grasp him in my arms, no power in the world shall tear his bruised sides from me until he has yielded up this woman. If I miss my prey, if he does not come near the bleeding sacrifice, I will go down to Kore and her lord in their sunless dwelling, and I will make my entreaty to them, and I know they will give me Alcestis to bring back to the hands of the host who welcomed me, who did not repulse me from his house, though he was smitten with heavy woe which most nobly he hid from me! Where would be a warmer welcome in Thessaly or in all the dwellings of Hellas?",
+          "lineStart": 1102
+        },
+        {
+          "type": "para",
+          "text": "He shall not say he was generous to an ingrate! HERACLES goes out. Presently ADMETUS and his attendants, followed by the CHORUS, return from the burial of ALCESTIS.",
+          "lineStart": 1113
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1116
+        },
+        {
+          "type": "para",
+          "text": "chanting Alas! Hateful approach, hateful sight of my widowed house! Oh me! Oh me! Alas! Whither shall I go? Where rest? What can I say? What refrain from saying? Why can I not die? Indeed my mother bore me for a hapless fate. I envy the dead, I long to be with them, theirs are the dwellings where I would be. Without pleasure I look upon the light of day and set my feet upon the earth-so precious a hostage has Death taken from me to deliver unto Hades!",
+          "lineStart": 1117
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1126
+        },
+        {
+          "type": "para",
+          "text": "chanting responsively with ADMETUS Go forward, Enter your house.",
+          "lineStart": 1127
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1130
+        },
+        {
+          "type": "para",
+          "text": "Alas!",
+          "lineStart": 1131
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1132
+        },
+        {
+          "type": "para",
+          "text": "Your grief deserves our tears.",
+          "lineStart": 1133
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1134
+        },
+        {
+          "type": "para",
+          "text": "O Gods!",
+          "lineStart": 1135
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1136
+        },
+        {
+          "type": "para",
+          "text": "I know you have entered into sorrow.",
+          "lineStart": 1137
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1138
+        },
+        {
+          "type": "para",
+          "text": "Woe! Woe!",
+          "lineStart": 1139
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1140
+        },
+        {
+          "type": "para",
+          "text": "Yet you bring no aid to the dead.",
+          "lineStart": 1141
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1142
+        },
+        {
+          "type": "para",
+          "text": "Oh me! Oh me!",
+          "lineStart": 1143
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1144
+        },
+        {
+          "type": "para",
+          "text": "Heavy shall it be for you Never to look again On the face of the woman you love.",
+          "lineStart": 1145
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1148
+        },
+        {
+          "type": "para",
+          "text": "You bring to my mind the grief that breaks my heart. What sorrow is worse for a man than the loss of such a woman? I would I had never married, never shared my house with her. I envy the wifeless and the childless. They live but one life-what is suffering to them? But the sickness of children, bridal-beds ravished by Death-dreadful! when we might be wifeless and childless to the end.",
+          "lineStart": 1149
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1155
+        },
+        {
+          "type": "para",
+          "text": "Chance, dreadful Chance, has stricken you.",
+          "lineStart": 1156
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1157
+        },
+        {
+          "type": "para",
+          "text": "Alas!",
+          "lineStart": 1158
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1159
+        },
+        {
+          "type": "para",
+          "text": "But you set no limit to your grief.",
+          "lineStart": 1160
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1161
+        },
+        {
+          "type": "para",
+          "text": "Ah! Gods!",
+          "lineStart": 1162
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1163
+        },
+        {
+          "type": "para",
+          "text": "A heavy burden to bear, and yet...",
+          "lineStart": 1164
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1165
+        },
+        {
+          "type": "para",
+          "text": "Woe! Woe!",
+          "lineStart": 1166
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1167
+        },
+        {
+          "type": "para",
+          "text": "Courage! You are not the first to lose...",
+          "lineStart": 1168
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1169
+        },
+        {
+          "type": "para",
+          "text": "Oh me! Oh me!",
+          "lineStart": 1170
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1171
+        },
+        {
+          "type": "para",
+          "text": "A wife. Different men Fate crushes with different blows.",
+          "lineStart": 1172
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1175
+        },
+        {
+          "type": "para",
+          "text": "O long grief and mourning for those beloved under the earth! Why did you stay me from casting myself into the hollow grave to lie down for ever in death by the best of women? Two lives, not one, had then been seized by Hades, most faithful one to the other; and together we should have crossed the lake of the Underworld.",
+          "lineStart": 1176
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1182
+        },
+        {
+          "type": "para",
+          "text": "A son most worthy of tears Was lost to one of my house, Yet, childless, he suffered with courage, Though the white was thick in his hair And his days were far-spent!",
+          "lineStart": 1183
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1188
+        },
+        {
+          "type": "para",
+          "text": "O visage of my house! How shall I enter you? How shall I dwell in you, now that Fate has turned its face from me? How great is the change! Once, of old, I entered my house with marriage-songs and the torches of Pelion, holding a loved woman by the hand, followed by a merry crowd shouting good wishes to her who is dead and to me, because we had joined our lives, being both noble and born of noble lines. Today, in place of marriage-songs are lamentations; instead of white garments I am clad in mourning, to return to my house and a solitary bed.",
+          "lineStart": 1189
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1197
+        },
+        {
+          "type": "para",
+          "text": "Grief has fallen upon you In the midst of a happy life Untouched by misfortune. But your life and your spirit are safe. She is dead, She has left your love. Is this so new? Ere now many men Death has severed from wives.",
+          "lineStart": 1198
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1207
+        },
+        {
+          "type": "para",
+          "text": "speaking O friends, whatsoever may be thought by others, to me it seems that my wife's fate is happier than mine. Now, no pain ever shall touch her again; she has reached the noble end of all her sufferings. But I, I who should have died, I have escaped my fate, only to drag out a wretched life. Only now do I perceive it.",
+          "lineStart": 1208
+        },
+        {
+          "type": "para",
+          "text": "How shall I summon strength to enter this house? Whom shall I greet? Who will greet me in joy at my coming? Whither shall I turn my steps? I shall be driven forth by solitude when I see my bed widowed of my wife, empty the chairs on which she sat, a dusty floor beneath my roof, my children falling at my knees and calling for their mother, and the servants lamenting for the noble lady lost from the house!",
+          "lineStart": 1214
+        },
+        {
+          "type": "para",
+          "text": "Such will be my life within the house. Without, I shall be driven from marriage-feasts and gatherings of the women of Thessaly. I shall not endure to look upon my wife's friends. Those who hate me will say: 'See how he lives in shame, the man who dared not die, the coward who gave his wife to Hades in his stead! Is that a man? He hates his parents, yet he himself refused to die!'",
+          "lineStart": 1220
+        },
+        {
+          "type": "para",
+          "text": "This evil fame I have added to my other sorrows. O my friends, what then avails it that I live, if I must live in misery and shame? He covers his head with his robe, and crouches in abject misery on the steps of his Palace.",
+          "lineStart": 1226
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1230
+        },
+        {
+          "type": "para",
+          "text": "singing strophe 1 I have lived with the Muses And on lofty heights: Many doctrines have I learned; But Fate is above us all. Nothing avails against Fate Neither the Thracian tablets Marked with Orphic symbols, Nor the herbs given by Phoebus To the children of Asclepius To heal men of their sickness. antistrophe None can come near to her altars, None worship her statues; She regards not our sacrifice. O sacred goddess, Bear no more hardly upon me Than in days overpast! With a gesture Zeus judges, But the sentence is yours. Hard iron yields to your strength; Your fierce will knows not gentleness. strophe And the Goddess has bound you Ineluctably in the gyves of her hands. Yield. Can your tears give life to the dead? For the sons of the Gods Swoon in the shadow of Death. Dear was she in our midst, Dear still among the dead, For the noblest of women was she Who lay in your bed. antistrophe 2 Ah! Let the grave of your spouse Be no more counted as a tomb, But revered as the Gods, And greeted by all who pass by! The wanderer shall turn from his path, Saying: 'She died for her lord; A blessed spirit she is now. Hail, O sacred lady, be our friend!' Thus shall men speak of her. ADMETUS is still crouched on the Palace steps, when HERACLES enters from the side, leading a veiled woman.",
+          "lineStart": 1231
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1277
+        },
+        {
+          "type": "para",
+          "text": "But see! The son of Alcmena, as I think, comes to your house. ADMETUS uncovers his head, and faces the newcomer.",
+          "lineStart": 1278
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1280
+        },
+        {
+          "type": "para",
+          "text": "Admetus, a man should speak freely to his friends, and not keep reproaches silent in his heart. Since I was near you in your misfortune, should have wished to show myself your friend. But you did not tell me the dead body was your wife's, and you took me into your house as if you were in mourning only for a stranger. And I put a garland of flowers upon my head, and poured wine-offerings to the Gods, when your house was filled with lamentation. I blame you, yes, I blame you for this-but I will not upbraid you in your misfortune.",
+          "lineStart": 1281
+        },
+        {
+          "type": "para",
+          "text": "Why I turned back and am here, I shall tell you. Take and keep this woman for me until I have slain the King of the Bistones and return here with the horses of Thrace. If ill happens to me-may I return safely!-I give her to you to serve in your house.",
+          "lineStart": 1289
+        },
+        {
+          "type": "para",
+          "text": "With much striving I won her to my hands. On my way I found public games, worthy of athletes, and I have brought back this woman whom I won as the prize of victory. The winners of the easy tests had horses; heads of cattle were given to those who won in boxing and wrestling. Then came a woman as a prize. Since I was present, it would have been shameful for me to miss this glorious gain. Therefore, as I said, you must take care of this woman, whom I bring to you, not as one stolen but as the prize of my efforts. Perhaps in time you will approve of what I do.",
+          "lineStart": 1293
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1301
+        },
+        {
+          "type": "para",
+          "text": "Not from disdain, nor to treat you as a foe, did I conceal my wife's fate from you. But if you had turned aside to another man's hearth, one more grief had been added to my sorrow. It was enough that I should weep my woe.",
+          "lineStart": 1302
+        },
+        {
+          "type": "para",
+          "text": "This woman-O King, I beg it may be thus-enjoin some other Thessalian, one who is not in sorrow, to guard her. In Pherae there are many to welcome you. Do not remind me of my grief. Seeing her in my house, I could not restrain my tears. Add not a further anguish to my pain, for what I suffer is too great. And then-where could I harbour a young woman in my house? For she is young-I see by her clothes and jewels. Could she live with the men under my roof? How, then, could she remain chaste, if she moved to and fro among the young men? Heracles, it is not easy to restrain the young....I am thinking of your interests....Must I take her to my dead wife's room? How could I endure her to enter that bed? I fear a double reproach-from my people, who would accuse me of betraying my saviour to slip into another woman's bed, and from my dead wife, who deserves my respect, for which I must take care.",
+          "lineStart": 1306
+        },
+        {
+          "type": "para",
+          "text": "O woman, whosoever you may be, you have the form of Alcestis, and your body is like hers.",
+          "lineStart": 1319
+        },
+        {
+          "type": "para",
+          "text": "Ah! By all the Gods, take her from my sight! Do not insult a broken man. When I look upon her-she seems my wife-my heart is torn asunder-tears flow from my eyes. Miserable creature that I am, now taste the bitterness of my sorrow.",
+          "lineStart": 1321
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER",
+          "lineStart": 1325
+        },
+        {
+          "type": "para",
+          "text": "I do not praise this meeting; but, whatever happens, we must accept the gifts of the Gods.",
+          "lineStart": 1326
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1328
+        },
+        {
+          "type": "para",
+          "text": "Oh, that I might bring your wife back into the light of day from the dwelling of the Under-Gods, as a gift of grace to you!",
+          "lineStart": 1329
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1331
+        },
+        {
+          "type": "para",
+          "text": "I know you would wish this-but to what end? The dead cannot return to the light of day.",
+          "lineStart": 1332
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1334
+        },
+        {
+          "type": "para",
+          "text": "Do not exaggerate, but bear this with decorum.",
+          "lineStart": 1335
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1336
+        },
+        {
+          "type": "para",
+          "text": "Easier to advise than bear the test.",
+          "lineStart": 1337
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1338
+        },
+        {
+          "type": "para",
+          "text": "How will it aid you to lament for ever?",
+          "lineStart": 1339
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1340
+        },
+        {
+          "type": "para",
+          "text": "I know-but my love whirls me away.",
+          "lineStart": 1341
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1342
+        },
+        {
+          "type": "para",
+          "text": "Love for the dead leads us to tears.",
+          "lineStart": 1343
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1344
+        },
+        {
+          "type": "para",
+          "text": "I am overwhelmed beyond words.",
+          "lineStart": 1345
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1346
+        },
+        {
+          "type": "para",
+          "text": "You have lost a good wife-who denies it?",
+          "lineStart": 1347
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1348
+        },
+        {
+          "type": "para",
+          "text": "So that for me there is no more pleasure in life.",
+          "lineStart": 1349
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1350
+        },
+        {
+          "type": "para",
+          "text": "Time will heal this open wound.",
+          "lineStart": 1351
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1352
+        },
+        {
+          "type": "para",
+          "text": "You might say Time, if Time were death!",
+          "lineStart": 1353
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1354
+        },
+        {
+          "type": "para",
+          "text": "Another woman, a new marriage, shall console you.",
+          "lineStart": 1355
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1356
+        },
+        {
+          "type": "para",
+          "text": "Oh, hush! What have you said? A thing unbelievable!",
+          "lineStart": 1357
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1358
+        },
+        {
+          "type": "para",
+          "text": "What! You will not marry? Your bed will remain widowed?",
+          "lineStart": 1359
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1360
+        },
+        {
+          "type": "para",
+          "text": "No other woman shall ever lie at my side.",
+          "lineStart": 1361
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1362
+        },
+        {
+          "type": "para",
+          "text": "Do you think that avails the dead?",
+          "lineStart": 1363
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1364
+        },
+        {
+          "type": "para",
+          "text": "Wherever she may be, I must do her honour.",
+          "lineStart": 1365
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1366
+        },
+        {
+          "type": "para",
+          "text": "I praise you-but men will call you mad.",
+          "lineStart": 1367
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1368
+        },
+        {
+          "type": "para",
+          "text": "Yet never more shall I be called a bridegroom.",
+          "lineStart": 1369
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1370
+        },
+        {
+          "type": "para",
+          "text": "I praise your faithful love to your wife-",
+          "lineStart": 1371
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1372
+        },
+        {
+          "type": "para",
+          "text": "May I die if I betray her even when dead!",
+          "lineStart": 1373
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1374
+        },
+        {
+          "type": "para",
+          "text": "offering him the veiled woman's hand. Receive her then into your noble house.",
+          "lineStart": 1375
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1377
+        },
+        {
+          "type": "para",
+          "text": "No, by Zeus who begot you, no!",
+          "lineStart": 1378
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1379
+        },
+        {
+          "type": "para",
+          "text": "Yet you will do wrong if you do not take her.",
+          "lineStart": 1380
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1381
+        },
+        {
+          "type": "para",
+          "text": "If I do it, remorse will tear my heart.",
+          "lineStart": 1382
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1383
+        },
+        {
+          "type": "para",
+          "text": "Yield-perhaps it will be a good thing for you.",
+          "lineStart": 1384
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1385
+        },
+        {
+          "type": "para",
+          "text": "Ah! If only you had not won her in the contest!",
+          "lineStart": 1386
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1387
+        },
+        {
+          "type": "para",
+          "text": "But I conquered-and you conquered with me.",
+          "lineStart": 1388
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1389
+        },
+        {
+          "type": "para",
+          "text": "It is true-but let the woman go hence.",
+          "lineStart": 1390
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1391
+        },
+        {
+          "type": "para",
+          "text": "She shall go, if she must. But first-ought she to go?",
+          "lineStart": 1392
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1393
+        },
+        {
+          "type": "para",
+          "text": "She must-unless it would anger you.",
+          "lineStart": 1394
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1395
+        },
+        {
+          "type": "para",
+          "text": "There is good reason for my zeal.",
+          "lineStart": 1396
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1397
+        },
+        {
+          "type": "para",
+          "text": "You have conquered then-but not for my pleasure.",
+          "lineStart": 1398
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1399
+        },
+        {
+          "type": "para",
+          "text": "One day you will praise me for it-be persuaded.",
+          "lineStart": 1400
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1401
+        },
+        {
+          "type": "para",
+          "text": "to his attendants Lead her in, since she must be received in this house.",
+          "lineStart": 1402
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1404
+        },
+        {
+          "type": "para",
+          "text": "No, I cannot leave such a woman to servants.",
+          "lineStart": 1405
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1406
+        },
+        {
+          "type": "para",
+          "text": "Then lead her in yourself, if you wish.",
+          "lineStart": 1407
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1408
+        },
+        {
+          "type": "para",
+          "text": "I must leave her in your hands.",
+          "lineStart": 1409
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1410
+        },
+        {
+          "type": "para",
+          "text": "I must not touch her-let her go into the house.",
+          "lineStart": 1411
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1412
+        },
+        {
+          "type": "para",
+          "text": "I trust only in your right hand.",
+          "lineStart": 1413
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1414
+        },
+        {
+          "type": "para",
+          "text": "O King, you force me to this against my will.",
+          "lineStart": 1415
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1416
+        },
+        {
+          "type": "para",
+          "text": "Put forth your hand and take this woman.",
+          "lineStart": 1417
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1418
+        },
+        {
+          "type": "para",
+          "text": "turning aside his head It is held out.",
+          "lineStart": 1419
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1421
+        },
+        {
+          "type": "para",
+          "text": "As if you were cutting off a Gorgon's head! Do you hold her?",
+          "lineStart": 1422
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1423
+        },
+        {
+          "type": "para",
+          "text": "Yes.",
+          "lineStart": 1424
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1425
+        },
+        {
+          "type": "para",
+          "text": "Then keep her. You shall not deny that the son of Zeus is a grateful guest. Takes off the veil and shows ALCESTIS. Look at her, and see if she is not like your wife. And may joy put an end to all your sorrow!",
+          "lineStart": 1426
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1431
+        },
+        {
+          "type": "para",
+          "text": "drops her hand and starts back O Gods! What am I to say? Unhoped-for wonder! Do I really look upon my wife? Or I am snared in the mockery of a God?",
+          "lineStart": 1432
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1435
+        },
+        {
+          "type": "para",
+          "text": "No you look upon your wife indeed.",
+          "lineStart": 1436
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1437
+        },
+        {
+          "type": "para",
+          "text": "Beware! May it not be some phantom from the Underworld?",
+          "lineStart": 1438
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1439
+        },
+        {
+          "type": "para",
+          "text": "Do not think your guest a sorcerer.",
+          "lineStart": 1440
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1441
+        },
+        {
+          "type": "para",
+          "text": "But do I indeed look upon the wife I buried?",
+          "lineStart": 1442
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1443
+        },
+        {
+          "type": "para",
+          "text": "Yes-but I do not wonder at your mistrust.",
+          "lineStart": 1444
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1445
+        },
+        {
+          "type": "para",
+          "text": "Can I touch, speak to her, as my living wife?",
+          "lineStart": 1446
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1447
+        },
+        {
+          "type": "para",
+          "text": "Speak to her-you have all you desired.",
+          "lineStart": 1448
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1449
+        },
+        {
+          "type": "para",
+          "text": "taking ALCESTIS in his arms O face and body of the dearest of women! I have you once more, when I thought I should never see you again!",
+          "lineStart": 1450
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1453
+        },
+        {
+          "type": "para",
+          "text": "You have her-may the envy of the Gods be averted from you!",
+          "lineStart": 1454
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1455
+        },
+        {
+          "type": "para",
+          "text": "O noble son of greatest Zeus, fortune be yours, and may your Father guard you! But how did you bring her back from the Underworld to the light of day?",
+          "lineStart": 1456
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1459
+        },
+        {
+          "type": "para",
+          "text": "By fighting with the spirit who was her master.",
+          "lineStart": 1460
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1461
+        },
+        {
+          "type": "para",
+          "text": "Then did you contend with Death?",
+          "lineStart": 1462
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1463
+        },
+        {
+          "type": "para",
+          "text": "I hid by the tomb and leaped upon him.",
+          "lineStart": 1464
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ADMETUS",
+          "lineStart": 1465
+        },
+        {
+          "type": "para",
+          "text": "But why is she speechless?",
+          "lineStart": 1466
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HERACLES",
+          "lineStart": 1467
+        },
+        {
+          "type": "para",
+          "text": "You may not hear her voice until she is purified from her consecration to the Lower Gods, and until the third dawn has risen. Lead her in.",
+          "lineStart": 1468
+        },
+        {
+          "type": "para",
+          "text": "And you, Admetus, show as ever a good man's welcome to your guests.",
+          "lineStart": 1471
+        },
+        {
+          "type": "para",
+          "text": "Farewell! I go to fu",
+          "lineStart": 1473
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 373,
+    "wordCount": 10405
+  }
+}

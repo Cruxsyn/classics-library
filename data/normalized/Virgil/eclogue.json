@@ -1,0 +1,7122 @@
+{
+  "id": "Virgil/eclogue",
+  "author": "Virgil",
+  "authorKey": "Virgil",
+  "title": "The Eclogues",
+  "translator": null,
+  "language": "Latin",
+  "written": "37 BCE",
+  "sourceNote": null,
+  "shape": "multi",
+  "textMode": "verse",
+  "textModeReason": "verse: 0.000 long unterminated interior lines, median line length 42.0, 0.903 explicit poetic line breaks",
+  "textModeStats": {
+    "lineCount": 1166,
+    "paragraphCount": 109,
+    "interiorLineCount": 1057,
+    "medianLineLength": 42.0,
+    "meanLineLength": 39.07032590051458,
+    "longInteriorLineRatio": 0.0,
+    "unterminatedInteriorLineRatio": 0.706717123935667,
+    "longUnterminatedInteriorLineRatio": 0.0,
+    "explicitBreakLineRatio": 0.9030874785591767,
+    "unmarkedLineRatio": 0.012006861063464836
+  },
+  "landingUrl": "https://classics.mit.edu/Virgil/eclogue.html",
+  "textUrls": [
+    "https://classics.mit.edu/Virgil/eclogue.1.i.html",
+    "https://classics.mit.edu/Virgil/eclogue.2.ii.html",
+    "https://classics.mit.edu/Virgil/eclogue.3.iii.html",
+    "https://classics.mit.edu/Virgil/eclogue.4.iv.html",
+    "https://classics.mit.edu/Virgil/eclogue.5.v.html",
+    "https://classics.mit.edu/Virgil/eclogue.6.vi.html",
+    "https://classics.mit.edu/Virgil/eclogue.7.vii.html",
+    "https://classics.mit.edu/Virgil/eclogue.8.viii.html",
+    "https://classics.mit.edu/Virgil/eclogue.9.ix.html",
+    "https://classics.mit.edu/Virgil/eclogue.10.x.html"
+  ],
+  "txtUrl": "https://classics.mit.edu/Virgil/eclogue.mb.txt",
+  "sections": [
+    {
+      "seq": 1,
+      "id": "eclogue-eclogue-i",
+      "heading": "Eclogue I",
+      "partTitle": "Eclogue I",
+      "blocks": [
+        {
+          "type": "verseLine",
+          "text": "MELIBOEUS, TITYRUS",
+          "indent": 0,
+          "lineNo": 10
+        },
+        {
+          "type": "verseLine",
+          "text": "Meliboeus.",
+          "indent": 0,
+          "lineNo": 11
+        },
+        {
+          "type": "verseLine",
+          "text": "You, Tityrus, 'neath a broad beech-canopy",
+          "indent": 0,
+          "lineNo": 12
+        },
+        {
+          "type": "verseLine",
+          "text": "Reclining, on the slender oat rehearse",
+          "indent": 0,
+          "lineNo": 13
+        },
+        {
+          "type": "verseLine",
+          "text": "Your silvan ditties: I from my sweet fields,",
+          "indent": 0,
+          "lineNo": 14
+        },
+        {
+          "type": "verseLine",
+          "text": "And home's familiar bounds, even now depart.",
+          "indent": 0,
+          "lineNo": 15
+        },
+        {
+          "type": "verseLine",
+          "text": "Exiled from home am I; while, Tityrus, you",
+          "indent": 0,
+          "lineNo": 16
+        },
+        {
+          "type": "verseLine",
+          "text": "Sit careless in the shade, and, at your call,",
+          "indent": 0,
+          "lineNo": 17
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Fair Amaryllis\" bid the woods resound.",
+          "indent": 0,
+          "lineNo": 18
+        },
+        {
+          "type": "verseLine",
+          "text": "Tityrus.",
+          "indent": 0,
+          "lineNo": 19
+        },
+        {
+          "type": "verseLine",
+          "text": "O Meliboeus, 'twas a god vouchsafed",
+          "indent": 0,
+          "lineNo": 20
+        },
+        {
+          "type": "verseLine",
+          "text": "This ease to us, for him a god will I",
+          "indent": 0,
+          "lineNo": 21
+        },
+        {
+          "type": "verseLine",
+          "text": "Deem ever, and from my folds a tender lamb",
+          "indent": 0,
+          "lineNo": 22
+        },
+        {
+          "type": "verseLine",
+          "text": "Oft with its life-blood shall his altar stain.",
+          "indent": 0,
+          "lineNo": 23
+        },
+        {
+          "type": "verseLine",
+          "text": "His gift it is that, as your eyes may see,",
+          "indent": 0,
+          "lineNo": 24
+        },
+        {
+          "type": "verseLine",
+          "text": "My kine may roam at large, and I myself",
+          "indent": 0,
+          "lineNo": 25
+        },
+        {
+          "type": "verseLine",
+          "text": "Play on my shepherd's pipe what songs I will.",
+          "indent": 0,
+          "lineNo": 26
+        },
+        {
+          "type": "verseLine",
+          "text": "Meliboeus.",
+          "indent": 0,
+          "lineNo": 27
+        },
+        {
+          "type": "verseLine",
+          "text": "I grudge you not the boon, but marvel more,",
+          "indent": 0,
+          "lineNo": 28
+        },
+        {
+          "type": "verseLine",
+          "text": "Such wide confusion fills the country-side.",
+          "indent": 0,
+          "lineNo": 29
+        },
+        {
+          "type": "verseLine",
+          "text": "See, sick at heart I drive my she-goats on,",
+          "indent": 0,
+          "lineNo": 30
+        },
+        {
+          "type": "verseLine",
+          "text": "And this one, O my Tityrus, scarce can lead:",
+          "indent": 0,
+          "lineNo": 31
+        },
+        {
+          "type": "verseLine",
+          "text": "For 'mid the hazel-thicket here but now",
+          "indent": 0,
+          "lineNo": 32
+        },
+        {
+          "type": "verseLine",
+          "text": "She dropped her new-yeaned twins on the bare flint,",
+          "indent": 0,
+          "lineNo": 33
+        },
+        {
+          "type": "verseLine",
+          "text": "Hope of the flock- an ill, I mind me well,",
+          "indent": 0,
+          "lineNo": 34
+        },
+        {
+          "type": "verseLine",
+          "text": "Which many a time, but for my blinded sense,",
+          "indent": 0,
+          "lineNo": 35
+        },
+        {
+          "type": "verseLine",
+          "text": "The thunder-stricken oak foretold, oft too",
+          "indent": 0,
+          "lineNo": 36
+        },
+        {
+          "type": "verseLine",
+          "text": "From hollow trunk the raven's ominous cry.",
+          "indent": 0,
+          "lineNo": 37
+        },
+        {
+          "type": "verseLine",
+          "text": "But who this god of yours? Come, Tityrus, tell.",
+          "indent": 0,
+          "lineNo": 38
+        },
+        {
+          "type": "verseLine",
+          "text": "Tityrus.",
+          "indent": 0,
+          "lineNo": 39
+        },
+        {
+          "type": "verseLine",
+          "text": "The city, Meliboeus, they call Rome,",
+          "indent": 0,
+          "lineNo": 40
+        },
+        {
+          "type": "verseLine",
+          "text": "I, simpleton, deemed like this town of ours,",
+          "indent": 0,
+          "lineNo": 41
+        },
+        {
+          "type": "verseLine",
+          "text": "Whereto we shepherds oft are wont to drive",
+          "indent": 0,
+          "lineNo": 42
+        },
+        {
+          "type": "verseLine",
+          "text": "The younglings of the flock: so too I knew",
+          "indent": 0,
+          "lineNo": 43
+        },
+        {
+          "type": "verseLine",
+          "text": "Whelps to resemble dogs, and kids their dams,",
+          "indent": 0,
+          "lineNo": 44
+        },
+        {
+          "type": "verseLine",
+          "text": "Comparing small with great; but this as far",
+          "indent": 0,
+          "lineNo": 45
+        },
+        {
+          "type": "verseLine",
+          "text": "Above all other cities rears her head",
+          "indent": 0,
+          "lineNo": 46
+        },
+        {
+          "type": "verseLine",
+          "text": "As cypress above pliant osier towers.",
+          "indent": 0,
+          "lineNo": 47
+        },
+        {
+          "type": "verseLine",
+          "text": "Meliboeus.",
+          "indent": 0,
+          "lineNo": 48
+        },
+        {
+          "type": "verseLine",
+          "text": "And what so potent cause took you to Rome?",
+          "indent": 0,
+          "lineNo": 49
+        },
+        {
+          "type": "verseLine",
+          "text": "Tityrus.",
+          "indent": 0,
+          "lineNo": 50
+        },
+        {
+          "type": "verseLine",
+          "text": "Freedom, which, though belated, cast at length",
+          "indent": 0,
+          "lineNo": 51
+        },
+        {
+          "type": "verseLine",
+          "text": "Her eyes upon the sluggard, when my beard",
+          "indent": 0,
+          "lineNo": 52
+        },
+        {
+          "type": "verseLine",
+          "text": "'Gan whiter fall beneath the barber's blade-",
+          "indent": 0,
+          "lineNo": 53
+        },
+        {
+          "type": "verseLine",
+          "text": "Cast eyes, I say, and, though long tarrying, came,",
+          "indent": 0,
+          "lineNo": 54
+        },
+        {
+          "type": "verseLine",
+          "text": "Now when, from Galatea's yoke released,",
+          "indent": 0,
+          "lineNo": 55
+        },
+        {
+          "type": "verseLine",
+          "text": "I serve but Amaryllis: for I will own,",
+          "indent": 0,
+          "lineNo": 56
+        },
+        {
+          "type": "verseLine",
+          "text": "While Galatea reigned over me, I had",
+          "indent": 0,
+          "lineNo": 57
+        },
+        {
+          "type": "verseLine",
+          "text": "No hope of freedom, and no thought to save.",
+          "indent": 0,
+          "lineNo": 58
+        },
+        {
+          "type": "verseLine",
+          "text": "Though many a victim from my folds went forth,",
+          "indent": 0,
+          "lineNo": 59
+        },
+        {
+          "type": "verseLine",
+          "text": "Or rich cheese pressed for the unthankful town,",
+          "indent": 0,
+          "lineNo": 60
+        },
+        {
+          "type": "verseLine",
+          "text": "Never with laden hands returned I home.",
+          "indent": 0,
+          "lineNo": 61
+        },
+        {
+          "type": "verseLine",
+          "text": "Meliboeus.",
+          "indent": 0,
+          "lineNo": 62
+        },
+        {
+          "type": "verseLine",
+          "text": "I used to wonder, Amaryllis, why",
+          "indent": 0,
+          "lineNo": 63
+        },
+        {
+          "type": "verseLine",
+          "text": "You cried to heaven so sadly, and for whom",
+          "indent": 0,
+          "lineNo": 64
+        },
+        {
+          "type": "verseLine",
+          "text": "You left the apples hanging on the trees;",
+          "indent": 0,
+          "lineNo": 65
+        },
+        {
+          "type": "verseLine",
+          "text": "'Twas Tityrus was away. Why, Tityrus,",
+          "indent": 0,
+          "lineNo": 66
+        },
+        {
+          "type": "verseLine",
+          "text": "The very pines, the very water-springs,",
+          "indent": 0,
+          "lineNo": 67
+        },
+        {
+          "type": "verseLine",
+          "text": "The very vineyards, cried aloud for you.",
+          "indent": 0,
+          "lineNo": 68
+        },
+        {
+          "type": "verseLine",
+          "text": "Tityrus.",
+          "indent": 0,
+          "lineNo": 69
+        },
+        {
+          "type": "verseLine",
+          "text": "What could I do? how else from bonds be freed,",
+          "indent": 0,
+          "lineNo": 70
+        },
+        {
+          "type": "verseLine",
+          "text": "Or otherwhere find gods so nigh to aid?",
+          "indent": 0,
+          "lineNo": 71
+        },
+        {
+          "type": "verseLine",
+          "text": "There, Meliboeus, I saw that youth to whom",
+          "indent": 0,
+          "lineNo": 72
+        },
+        {
+          "type": "verseLine",
+          "text": "Yearly for twice six days my altars smoke.",
+          "indent": 0,
+          "lineNo": 73
+        },
+        {
+          "type": "verseLine",
+          "text": "There instant answer gave he to my suit,",
+          "indent": 0,
+          "lineNo": 74
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Feed, as before, your kine, boys, rear your bulls.\"",
+          "indent": 0,
+          "lineNo": 75
+        },
+        {
+          "type": "verseLine",
+          "text": "Meliboeus.",
+          "indent": 0,
+          "lineNo": 76
+        },
+        {
+          "type": "verseLine",
+          "text": "So in old age, you happy man, your fields",
+          "indent": 0,
+          "lineNo": 77
+        },
+        {
+          "type": "verseLine",
+          "text": "Will still be yours, and ample for your need!",
+          "indent": 0,
+          "lineNo": 78
+        },
+        {
+          "type": "verseLine",
+          "text": "Though, with bare stones o'erspread, the pastures",
+          "indent": 0,
+          "lineNo": 79
+        },
+        {
+          "type": "verseLine",
+          "text": "all",
+          "indent": 0,
+          "lineNo": 80
+        },
+        {
+          "type": "verseLine",
+          "text": "Be choked with rushy mire, your ewes with young",
+          "indent": 0,
+          "lineNo": 81
+        },
+        {
+          "type": "verseLine",
+          "text": "By no strange fodder will be tried, nor hurt",
+          "indent": 0,
+          "lineNo": 82
+        },
+        {
+          "type": "verseLine",
+          "text": "Through taint contagious of a neighbouring flock.",
+          "indent": 0,
+          "lineNo": 83
+        },
+        {
+          "type": "verseLine",
+          "text": "Happy old man, who 'mid familiar streams",
+          "indent": 0,
+          "lineNo": 84
+        },
+        {
+          "type": "verseLine",
+          "text": "And hallowed springs, will court the cooling shade!",
+          "indent": 0,
+          "lineNo": 85
+        },
+        {
+          "type": "verseLine",
+          "text": "Here, as of old, your neighbour's bordering hedge,",
+          "indent": 0,
+          "lineNo": 86
+        },
+        {
+          "type": "verseLine",
+          "text": "That feasts with willow-flower the Hybla bees,",
+          "indent": 0,
+          "lineNo": 87
+        },
+        {
+          "type": "verseLine",
+          "text": "Shall oft with gentle murmur lull to sleep,",
+          "indent": 0,
+          "lineNo": 88
+        },
+        {
+          "type": "verseLine",
+          "text": "While the leaf-dresser beneath some tall rock",
+          "indent": 0,
+          "lineNo": 89
+        },
+        {
+          "type": "verseLine",
+          "text": "Uplifts his song, nor cease their cooings hoarse",
+          "indent": 0,
+          "lineNo": 90
+        },
+        {
+          "type": "verseLine",
+          "text": "The wood-pigeons that are your heart's delight,",
+          "indent": 0,
+          "lineNo": 91
+        },
+        {
+          "type": "verseLine",
+          "text": "Nor doves their moaning in the elm-tree top.",
+          "indent": 0,
+          "lineNo": 92
+        },
+        {
+          "type": "verseLine",
+          "text": "Tityrus.",
+          "indent": 0,
+          "lineNo": 93
+        },
+        {
+          "type": "verseLine",
+          "text": "Sooner shall light stags, therefore, feed in air,",
+          "indent": 0,
+          "lineNo": 94
+        },
+        {
+          "type": "verseLine",
+          "text": "The seas their fish leave naked on the strand,",
+          "indent": 0,
+          "lineNo": 95
+        },
+        {
+          "type": "verseLine",
+          "text": "Germans and Parthians shift their natural bounds,",
+          "indent": 0,
+          "lineNo": 96
+        },
+        {
+          "type": "verseLine",
+          "text": "And these the Arar, those the Tigris drink,",
+          "indent": 0,
+          "lineNo": 97
+        },
+        {
+          "type": "verseLine",
+          "text": "Than from my heart his face and memory fade.",
+          "indent": 0,
+          "lineNo": 98
+        },
+        {
+          "type": "verseLine",
+          "text": "Meliboeus.",
+          "indent": 0,
+          "lineNo": 99
+        },
+        {
+          "type": "verseLine",
+          "text": "But we far hence, to burning Libya some,",
+          "indent": 0,
+          "lineNo": 100
+        },
+        {
+          "type": "verseLine",
+          "text": "Some to the Scythian steppes, or thy swift flood,",
+          "indent": 0,
+          "lineNo": 101
+        },
+        {
+          "type": "verseLine",
+          "text": "Cretan Oaxes, now must wend our way,",
+          "indent": 0,
+          "lineNo": 102
+        },
+        {
+          "type": "verseLine",
+          "text": "Or Britain, from the whole world sundered far.",
+          "indent": 0,
+          "lineNo": 103
+        },
+        {
+          "type": "verseLine",
+          "text": "Ah! shall I ever in aftertime behold",
+          "indent": 0,
+          "lineNo": 104
+        },
+        {
+          "type": "verseLine",
+          "text": "My native bounds- see many a harvest hence",
+          "indent": 0,
+          "lineNo": 105
+        },
+        {
+          "type": "verseLine",
+          "text": "With ravished eyes the lowly turf-roofed cot",
+          "indent": 0,
+          "lineNo": 106
+        },
+        {
+          "type": "verseLine",
+          "text": "Where I was king? These fallows, trimmed so fair,",
+          "indent": 0,
+          "lineNo": 107
+        },
+        {
+          "type": "verseLine",
+          "text": "Some brutal soldier will possess these fields",
+          "indent": 0,
+          "lineNo": 108
+        },
+        {
+          "type": "verseLine",
+          "text": "An alien master. Ah! to what a pass",
+          "indent": 0,
+          "lineNo": 109
+        },
+        {
+          "type": "verseLine",
+          "text": "Has civil discord brought our hapless folk!",
+          "indent": 0,
+          "lineNo": 110
+        },
+        {
+          "type": "verseLine",
+          "text": "For such as these, then, were our furrows sown!",
+          "indent": 0,
+          "lineNo": 111
+        },
+        {
+          "type": "verseLine",
+          "text": "Now, Meliboeus, graft your pears, now set",
+          "indent": 0,
+          "lineNo": 112
+        },
+        {
+          "type": "verseLine",
+          "text": "Your vines in order! Go, once happy flock,",
+          "indent": 0,
+          "lineNo": 113
+        },
+        {
+          "type": "verseLine",
+          "text": "My she-goats, go. Never again shall I,",
+          "indent": 0,
+          "lineNo": 114
+        },
+        {
+          "type": "verseLine",
+          "text": "Stretched in green cave, behold you from afar",
+          "indent": 0,
+          "lineNo": 115
+        },
+        {
+          "type": "verseLine",
+          "text": "Hang from the bushy rock; my songs are sung;",
+          "indent": 0,
+          "lineNo": 116
+        },
+        {
+          "type": "verseLine",
+          "text": "Never again will you, with me to tend,",
+          "indent": 0,
+          "lineNo": 117
+        },
+        {
+          "type": "verseLine",
+          "text": "On clover-flower, or bitter willows, browse.",
+          "indent": 0,
+          "lineNo": 118
+        },
+        {
+          "type": "verseLine",
+          "text": "Tityrus.",
+          "indent": 0,
+          "lineNo": 119
+        },
+        {
+          "type": "verseLine",
+          "text": "Yet here, this night, you might repose with me,",
+          "indent": 0,
+          "lineNo": 120
+        },
+        {
+          "type": "verseLine",
+          "text": "On green leaves pillowed: apples ripe have I,",
+          "indent": 0,
+          "lineNo": 121
+        },
+        {
+          "type": "verseLine",
+          "text": "Soft chestnuts, and of curdled milk enow.",
+          "indent": 0,
+          "lineNo": 122
+        },
+        {
+          "type": "verseLine",
+          "text": "And, see, the farm-roof chimneys smoke afar,",
+          "indent": 0,
+          "lineNo": 123
+        },
+        {
+          "type": "verseLine",
+          "text": "And from the hills the shadows lengthening fall!",
+          "indent": 0,
+          "lineNo": 124
+        }
+      ]
+    },
+    {
+      "seq": 2,
+      "id": "eclogue-eclogue-ii",
+      "heading": "Eclogue II",
+      "partTitle": "Eclogue II",
+      "blocks": [
+        {
+          "type": "verseLine",
+          "text": "ALEXIS",
+          "indent": 0,
+          "lineNo": 10
+        },
+        {
+          "type": "verseLine",
+          "text": "The shepherd Corydon with love was fired",
+          "indent": 0,
+          "lineNo": 11
+        },
+        {
+          "type": "verseLine",
+          "text": "For fair Alexis, his own master's joy:",
+          "indent": 0,
+          "lineNo": 12
+        },
+        {
+          "type": "verseLine",
+          "text": "No room for hope had he, yet, none the less,",
+          "indent": 0,
+          "lineNo": 13
+        },
+        {
+          "type": "verseLine",
+          "text": "The thick-leaved shadowy-soaring beech-tree grove",
+          "indent": 0,
+          "lineNo": 14
+        },
+        {
+          "type": "verseLine",
+          "text": "Still would he haunt, and there alone, as thus,",
+          "indent": 0,
+          "lineNo": 15
+        },
+        {
+          "type": "verseLine",
+          "text": "To woods and hills pour forth his artless strains.",
+          "indent": 0,
+          "lineNo": 16
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Cruel Alexis, heed you naught my songs?",
+          "indent": 0,
+          "lineNo": 17
+        },
+        {
+          "type": "verseLine",
+          "text": "Have you no pity? you'll drive me to my death.",
+          "indent": 0,
+          "lineNo": 18
+        },
+        {
+          "type": "verseLine",
+          "text": "Now even the cattle court the cooling shade",
+          "indent": 0,
+          "lineNo": 19
+        },
+        {
+          "type": "verseLine",
+          "text": "And the green lizard hides him in the thorn:",
+          "indent": 0,
+          "lineNo": 20
+        },
+        {
+          "type": "verseLine",
+          "text": "Now for tired mowers, with the fierce heat spent,",
+          "indent": 0,
+          "lineNo": 21
+        },
+        {
+          "type": "verseLine",
+          "text": "Pounds Thestilis her mess of savoury herbs,",
+          "indent": 0,
+          "lineNo": 22
+        },
+        {
+          "type": "verseLine",
+          "text": "Wild thyme and garlic. I, with none beside,",
+          "indent": 0,
+          "lineNo": 23
+        },
+        {
+          "type": "verseLine",
+          "text": "Save hoarse cicalas shrilling through the brake,",
+          "indent": 0,
+          "lineNo": 24
+        },
+        {
+          "type": "verseLine",
+          "text": "Still track your footprints 'neath the broiling",
+          "indent": 0,
+          "lineNo": 25
+        },
+        {
+          "type": "verseLine",
+          "text": "sun.",
+          "indent": 0,
+          "lineNo": 26
+        },
+        {
+          "type": "verseLine",
+          "text": "Better have borne the petulant proud disdain",
+          "indent": 0,
+          "lineNo": 27
+        },
+        {
+          "type": "verseLine",
+          "text": "Of Amaryllis, or Menalcas wooed,",
+          "indent": 0,
+          "lineNo": 28
+        },
+        {
+          "type": "verseLine",
+          "text": "Albeit he was so dark, and you so fair!",
+          "indent": 0,
+          "lineNo": 29
+        },
+        {
+          "type": "verseLine",
+          "text": "Trust not too much to colour, beauteous boy;",
+          "indent": 0,
+          "lineNo": 30
+        },
+        {
+          "type": "verseLine",
+          "text": "White privets fall, dark hyacinths are culled.",
+          "indent": 0,
+          "lineNo": 31
+        },
+        {
+          "type": "verseLine",
+          "text": "You scorn me, Alexis, who or what I am",
+          "indent": 0,
+          "lineNo": 32
+        },
+        {
+          "type": "verseLine",
+          "text": "Care not to ask- how rich in flocks, or how",
+          "indent": 0,
+          "lineNo": 33
+        },
+        {
+          "type": "verseLine",
+          "text": "In snow-white milk abounding: yet for me",
+          "indent": 0,
+          "lineNo": 34
+        },
+        {
+          "type": "verseLine",
+          "text": "Roam on Sicilian hills a thousand lambs;",
+          "indent": 0,
+          "lineNo": 35
+        },
+        {
+          "type": "verseLine",
+          "text": "Summer or winter, still my milk-pails brim.",
+          "indent": 0,
+          "lineNo": 36
+        },
+        {
+          "type": "verseLine",
+          "text": "I sing as erst Amphion of Circe sang,",
+          "indent": 0,
+          "lineNo": 37
+        },
+        {
+          "type": "verseLine",
+          "text": "What time he went to call his cattle home",
+          "indent": 0,
+          "lineNo": 38
+        },
+        {
+          "type": "verseLine",
+          "text": "On Attic Aracynthus. Nor am I",
+          "indent": 0,
+          "lineNo": 39
+        },
+        {
+          "type": "verseLine",
+          "text": "So ill to look on: lately on the beach",
+          "indent": 0,
+          "lineNo": 40
+        },
+        {
+          "type": "verseLine",
+          "text": "I saw myself, when winds had stilled the sea,",
+          "indent": 0,
+          "lineNo": 41
+        },
+        {
+          "type": "verseLine",
+          "text": "And, if that mirror lie not, would not fear",
+          "indent": 0,
+          "lineNo": 42
+        },
+        {
+          "type": "verseLine",
+          "text": "Daphnis to challenge, though yourself were judge.",
+          "indent": 0,
+          "lineNo": 43
+        },
+        {
+          "type": "verseLine",
+          "text": "Ah! were you but content with me to dwell.",
+          "indent": 0,
+          "lineNo": 44
+        },
+        {
+          "type": "verseLine",
+          "text": "Some lowly cot in the rough fields our home,",
+          "indent": 0,
+          "lineNo": 45
+        },
+        {
+          "type": "verseLine",
+          "text": "Shoot down the stags, or with green osier-wand",
+          "indent": 0,
+          "lineNo": 46
+        },
+        {
+          "type": "verseLine",
+          "text": "Round up the straggling flock! There you with me",
+          "indent": 0,
+          "lineNo": 47
+        },
+        {
+          "type": "verseLine",
+          "text": "In silvan strains will learn to rival Pan.",
+          "indent": 0,
+          "lineNo": 48
+        },
+        {
+          "type": "verseLine",
+          "text": "Pan first with wax taught reed with reed to join;",
+          "indent": 0,
+          "lineNo": 49
+        },
+        {
+          "type": "verseLine",
+          "text": "For sheep alike and shepherd Pan hath care.",
+          "indent": 0,
+          "lineNo": 50
+        },
+        {
+          "type": "verseLine",
+          "text": "Nor with the reed's edge fear you to make rough",
+          "indent": 0,
+          "lineNo": 51
+        },
+        {
+          "type": "verseLine",
+          "text": "Your dainty lip; such arts as these to learn",
+          "indent": 0,
+          "lineNo": 52
+        },
+        {
+          "type": "verseLine",
+          "text": "What did Amyntas do?- what did he not?",
+          "indent": 0,
+          "lineNo": 53
+        },
+        {
+          "type": "verseLine",
+          "text": "A pipe have I, of hemlock-stalks compact",
+          "indent": 0,
+          "lineNo": 54
+        },
+        {
+          "type": "verseLine",
+          "text": "In lessening lengths, Damoetas' dying-gift:",
+          "indent": 0,
+          "lineNo": 55
+        },
+        {
+          "type": "verseLine",
+          "text": "'Mine once,' quoth he, 'now yours, as heir to own.'",
+          "indent": 0,
+          "lineNo": 56
+        },
+        {
+          "type": "verseLine",
+          "text": "Foolish Amyntas heard and envied me.",
+          "indent": 0,
+          "lineNo": 57
+        },
+        {
+          "type": "verseLine",
+          "text": "Ay, and two fawns, I risked my neck to find",
+          "indent": 0,
+          "lineNo": 58
+        },
+        {
+          "type": "verseLine",
+          "text": "In a steep glen, with coats white-dappled still,",
+          "indent": 0,
+          "lineNo": 59
+        },
+        {
+          "type": "verseLine",
+          "text": "From a sheep's udders suckled twice a day-",
+          "indent": 0,
+          "lineNo": 60
+        },
+        {
+          "type": "verseLine",
+          "text": "These still I keep for you; which Thestilis",
+          "indent": 0,
+          "lineNo": 61
+        },
+        {
+          "type": "verseLine",
+          "text": "Implores me oft to let her lead away;",
+          "indent": 0,
+          "lineNo": 62
+        },
+        {
+          "type": "verseLine",
+          "text": "And she shall have them, since my gifts you spurn.",
+          "indent": 0,
+          "lineNo": 63
+        },
+        {
+          "type": "verseLine",
+          "text": "Come hither, beauteous boy; for you the Nymphs",
+          "indent": 0,
+          "lineNo": 64
+        },
+        {
+          "type": "verseLine",
+          "text": "Bring baskets, see, with lilies brimmed; for you,",
+          "indent": 0,
+          "lineNo": 65
+        },
+        {
+          "type": "verseLine",
+          "text": "Plucking pale violets and poppy-heads,",
+          "indent": 0,
+          "lineNo": 66
+        },
+        {
+          "type": "verseLine",
+          "text": "Now the fair Naiad, of narcissus flower",
+          "indent": 0,
+          "lineNo": 67
+        },
+        {
+          "type": "verseLine",
+          "text": "And fragrant fennel, doth one posy twine-",
+          "indent": 0,
+          "lineNo": 68
+        },
+        {
+          "type": "verseLine",
+          "text": "With cassia then, and other scented herbs,",
+          "indent": 0,
+          "lineNo": 69
+        },
+        {
+          "type": "verseLine",
+          "text": "Blends them, and sets the tender hyacinth off",
+          "indent": 0,
+          "lineNo": 70
+        },
+        {
+          "type": "verseLine",
+          "text": "With yellow marigold. I too will pick",
+          "indent": 0,
+          "lineNo": 71
+        },
+        {
+          "type": "verseLine",
+          "text": "Quinces all silvered-o'er with hoary down,",
+          "indent": 0,
+          "lineNo": 72
+        },
+        {
+          "type": "verseLine",
+          "text": "Chestnuts, which Amaryllis wont to love,",
+          "indent": 0,
+          "lineNo": 73
+        },
+        {
+          "type": "verseLine",
+          "text": "And waxen plums withal: this fruit no less",
+          "indent": 0,
+          "lineNo": 74
+        },
+        {
+          "type": "verseLine",
+          "text": "Shall have its meed of honour; and I will pluck",
+          "indent": 0,
+          "lineNo": 75
+        },
+        {
+          "type": "verseLine",
+          "text": "You too, ye laurels, and you, ye myrtles, near,",
+          "indent": 0,
+          "lineNo": 76
+        },
+        {
+          "type": "verseLine",
+          "text": "For so your sweets ye mingle. Corydon,",
+          "indent": 0,
+          "lineNo": 77
+        },
+        {
+          "type": "verseLine",
+          "text": "You are a boor, nor heeds a whit your gifts",
+          "indent": 0,
+          "lineNo": 78
+        },
+        {
+          "type": "verseLine",
+          "text": "Alexis; no, nor would Iollas yield,",
+          "indent": 0,
+          "lineNo": 79
+        },
+        {
+          "type": "verseLine",
+          "text": "Should gifts decide the day. Alack! alack!",
+          "indent": 0,
+          "lineNo": 80
+        },
+        {
+          "type": "verseLine",
+          "text": "What misery have I brought upon my head!-",
+          "indent": 0,
+          "lineNo": 81
+        },
+        {
+          "type": "verseLine",
+          "text": "Loosed on the flowers Siroces to my bane,",
+          "indent": 0,
+          "lineNo": 82
+        },
+        {
+          "type": "verseLine",
+          "text": "And the wild boar upon my crystal springs!",
+          "indent": 0,
+          "lineNo": 83
+        },
+        {
+          "type": "verseLine",
+          "text": "Whom do you fly, infatuate? gods ere now,",
+          "indent": 0,
+          "lineNo": 84
+        },
+        {
+          "type": "verseLine",
+          "text": "And Dardan Paris, have made the woods their home.",
+          "indent": 0,
+          "lineNo": 85
+        },
+        {
+          "type": "verseLine",
+          "text": "Let Pallas keep the towers her hand hath built,",
+          "indent": 0,
+          "lineNo": 86
+        },
+        {
+          "type": "verseLine",
+          "text": "Us before all things let the woods delight.",
+          "indent": 0,
+          "lineNo": 87
+        },
+        {
+          "type": "verseLine",
+          "text": "The grim-eyed lioness pursues the wolf,",
+          "indent": 0,
+          "lineNo": 88
+        },
+        {
+          "type": "verseLine",
+          "text": "The wolf the she-goat, the she-goat herself",
+          "indent": 0,
+          "lineNo": 89
+        },
+        {
+          "type": "verseLine",
+          "text": "In wanton sport the flowering cytisus,",
+          "indent": 0,
+          "lineNo": 90
+        },
+        {
+          "type": "verseLine",
+          "text": "And Corydon Alexis, each led on",
+          "indent": 0,
+          "lineNo": 91
+        },
+        {
+          "type": "verseLine",
+          "text": "By their own longing. See, the ox comes home",
+          "indent": 0,
+          "lineNo": 92
+        },
+        {
+          "type": "verseLine",
+          "text": "With plough up-tilted, and the shadows grow",
+          "indent": 0,
+          "lineNo": 93
+        },
+        {
+          "type": "verseLine",
+          "text": "To twice their length with the departing sun,",
+          "indent": 0,
+          "lineNo": 94
+        },
+        {
+          "type": "verseLine",
+          "text": "Yet me love burns, for who can limit love?",
+          "indent": 0,
+          "lineNo": 95
+        },
+        {
+          "type": "verseLine",
+          "text": "Ah! Corydon, Corydon, what hath crazed your wit?",
+          "indent": 0,
+          "lineNo": 96
+        },
+        {
+          "type": "verseLine",
+          "text": "Your vine half-pruned hangs on the leafy elm;",
+          "indent": 0,
+          "lineNo": 97
+        },
+        {
+          "type": "verseLine",
+          "text": "Why haste you not to weave what need requires",
+          "indent": 0,
+          "lineNo": 98
+        },
+        {
+          "type": "verseLine",
+          "text": "Of pliant rush or osier? Scorned by this,",
+          "indent": 0,
+          "lineNo": 99
+        },
+        {
+          "type": "verseLine",
+          "text": "Elsewhere some new Alexis you will find.\"",
+          "indent": 0,
+          "lineNo": 100
+        }
+      ]
+    },
+    {
+      "seq": 3,
+      "id": "eclogue-eclogue-iii",
+      "heading": "Eclogue III",
+      "partTitle": "Eclogue III",
+      "blocks": [
+        {
+          "type": "verseLine",
+          "text": "MENALCAS, DAMOETAS, PALAEMON",
+          "indent": 0,
+          "lineNo": 10
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 11
+        },
+        {
+          "type": "verseLine",
+          "text": "Who owns the flock, Damoetas? Meliboeus?",
+          "indent": 0,
+          "lineNo": 12
+        },
+        {
+          "type": "verseLine",
+          "text": "Damoetas.",
+          "indent": 0,
+          "lineNo": 13
+        },
+        {
+          "type": "verseLine",
+          "text": "Nay, they are Aegon's sheep, of late by him",
+          "indent": 0,
+          "lineNo": 14
+        },
+        {
+          "type": "verseLine",
+          "text": "Committed to my care.",
+          "indent": 0,
+          "lineNo": 15
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 16
+        },
+        {
+          "type": "verseLine",
+          "text": "O every way",
+          "indent": 0,
+          "lineNo": 17
+        },
+        {
+          "type": "verseLine",
+          "text": "Unhappy sheep, unhappy flock! while he",
+          "indent": 0,
+          "lineNo": 18
+        },
+        {
+          "type": "verseLine",
+          "text": "Still courts Neaera, fearing lest her choice",
+          "indent": 0,
+          "lineNo": 19
+        },
+        {
+          "type": "verseLine",
+          "text": "Should fall on me, this hireling shepherd here",
+          "indent": 0,
+          "lineNo": 20
+        },
+        {
+          "type": "verseLine",
+          "text": "Wrings hourly twice their udders, from the flock",
+          "indent": 0,
+          "lineNo": 21
+        },
+        {
+          "type": "verseLine",
+          "text": "Filching the life-juice, from the lambs their milk.",
+          "indent": 0,
+          "lineNo": 22
+        },
+        {
+          "type": "verseLine",
+          "text": "Damoetas.",
+          "indent": 0,
+          "lineNo": 23
+        },
+        {
+          "type": "verseLine",
+          "text": "Hold! not so ready with your jeers at men!",
+          "indent": 0,
+          "lineNo": 24
+        },
+        {
+          "type": "verseLine",
+          "text": "We know who once, and in what shrine with you-",
+          "indent": 0,
+          "lineNo": 25
+        },
+        {
+          "type": "verseLine",
+          "text": "The he-goats looked aside- the light nymphs laughed-",
+          "indent": 0,
+          "lineNo": 26
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 27
+        },
+        {
+          "type": "verseLine",
+          "text": "Ay, then, I warrant, when they saw me slash",
+          "indent": 0,
+          "lineNo": 28
+        },
+        {
+          "type": "verseLine",
+          "text": "Micon's young vines and trees with spiteful hook.",
+          "indent": 0,
+          "lineNo": 29
+        },
+        {
+          "type": "verseLine",
+          "text": "Damoetas.",
+          "indent": 0,
+          "lineNo": 30
+        },
+        {
+          "type": "verseLine",
+          "text": "Or here by these old beeches, when you broke",
+          "indent": 0,
+          "lineNo": 31
+        },
+        {
+          "type": "verseLine",
+          "text": "The bow and arrows of Damon; for you chafed",
+          "indent": 0,
+          "lineNo": 32
+        },
+        {
+          "type": "verseLine",
+          "text": "When first you saw them given to the boy,",
+          "indent": 0,
+          "lineNo": 33
+        },
+        {
+          "type": "verseLine",
+          "text": "Cross-grained Menalcas, ay, and had you not",
+          "indent": 0,
+          "lineNo": 34
+        },
+        {
+          "type": "verseLine",
+          "text": "Done him some mischief, would have chafed to death.",
+          "indent": 0,
+          "lineNo": 35
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 36
+        },
+        {
+          "type": "verseLine",
+          "text": "With thieves so daring, what can masters do?",
+          "indent": 0,
+          "lineNo": 37
+        },
+        {
+          "type": "verseLine",
+          "text": "Did I not see you, rogue, in ambush lie",
+          "indent": 0,
+          "lineNo": 38
+        },
+        {
+          "type": "verseLine",
+          "text": "For Damon's goat, while loud Lycisca barked?",
+          "indent": 0,
+          "lineNo": 39
+        },
+        {
+          "type": "verseLine",
+          "text": "And when I cried, \"Where is he off to now?",
+          "indent": 0,
+          "lineNo": 40
+        },
+        {
+          "type": "verseLine",
+          "text": "Gather your flock together, Tityrus,\"",
+          "indent": 0,
+          "lineNo": 41
+        },
+        {
+          "type": "verseLine",
+          "text": "You hid behind the sedges.",
+          "indent": 0,
+          "lineNo": 42
+        },
+        {
+          "type": "verseLine",
+          "text": "Damoetas.",
+          "indent": 0,
+          "lineNo": 43
+        },
+        {
+          "type": "verseLine",
+          "text": "Well, was he",
+          "indent": 0,
+          "lineNo": 44
+        },
+        {
+          "type": "verseLine",
+          "text": "Whom I had conquered still to keep the goat.",
+          "indent": 0,
+          "lineNo": 45
+        },
+        {
+          "type": "verseLine",
+          "text": "Which in the piping-match my pipe had won!",
+          "indent": 0,
+          "lineNo": 46
+        },
+        {
+          "type": "verseLine",
+          "text": "You may not know it, but the goat was mine.",
+          "indent": 0,
+          "lineNo": 47
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 48
+        },
+        {
+          "type": "verseLine",
+          "text": "You out-pipe him? when had you ever pipe",
+          "indent": 0,
+          "lineNo": 49
+        },
+        {
+          "type": "verseLine",
+          "text": "Wax-welded? in the cross-ways used you not",
+          "indent": 0,
+          "lineNo": 50
+        },
+        {
+          "type": "verseLine",
+          "text": "On grating straw some miserable tune",
+          "indent": 0,
+          "lineNo": 51
+        },
+        {
+          "type": "verseLine",
+          "text": "To mangle?",
+          "indent": 0,
+          "lineNo": 52
+        },
+        {
+          "type": "verseLine",
+          "text": "Damoetas.",
+          "indent": 0,
+          "lineNo": 53
+        },
+        {
+          "type": "verseLine",
+          "text": "Well, then, shall we try our skill",
+          "indent": 0,
+          "lineNo": 54
+        },
+        {
+          "type": "verseLine",
+          "text": "Each against each in turn? Lest you be loth,",
+          "indent": 0,
+          "lineNo": 55
+        },
+        {
+          "type": "verseLine",
+          "text": "I pledge this heifer; every day she comes",
+          "indent": 0,
+          "lineNo": 56
+        },
+        {
+          "type": "verseLine",
+          "text": "Twice to the milking-pail, and feeds withal",
+          "indent": 0,
+          "lineNo": 57
+        },
+        {
+          "type": "verseLine",
+          "text": "Two young ones at her udder: say you now",
+          "indent": 0,
+          "lineNo": 58
+        },
+        {
+          "type": "verseLine",
+          "text": "What you will stake upon the match with me.",
+          "indent": 0,
+          "lineNo": 59
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 60
+        },
+        {
+          "type": "verseLine",
+          "text": "Naught from the flock I'll venture, for at home",
+          "indent": 0,
+          "lineNo": 61
+        },
+        {
+          "type": "verseLine",
+          "text": "I have a father and a step-dame harsh,",
+          "indent": 0,
+          "lineNo": 62
+        },
+        {
+          "type": "verseLine",
+          "text": "And twice a day both reckon up the flock,",
+          "indent": 0,
+          "lineNo": 63
+        },
+        {
+          "type": "verseLine",
+          "text": "And one withal the kids. But I will stake,",
+          "indent": 0,
+          "lineNo": 64
+        },
+        {
+          "type": "verseLine",
+          "text": "Seeing you are so mad, what you yourself",
+          "indent": 0,
+          "lineNo": 65
+        },
+        {
+          "type": "verseLine",
+          "text": "Will own more priceless far- two beechen cups",
+          "indent": 0,
+          "lineNo": 66
+        },
+        {
+          "type": "verseLine",
+          "text": "By the divine art of Alcimedon",
+          "indent": 0,
+          "lineNo": 67
+        },
+        {
+          "type": "verseLine",
+          "text": "Wrought and embossed, whereon a limber vine,",
+          "indent": 0,
+          "lineNo": 68
+        },
+        {
+          "type": "verseLine",
+          "text": "Wreathed round them by the graver's facile tool,",
+          "indent": 0,
+          "lineNo": 69
+        },
+        {
+          "type": "verseLine",
+          "text": "Twines over clustering ivy-berries pale.",
+          "indent": 0,
+          "lineNo": 70
+        },
+        {
+          "type": "verseLine",
+          "text": "Two figures, one Conon, in the midst he set,",
+          "indent": 0,
+          "lineNo": 71
+        },
+        {
+          "type": "verseLine",
+          "text": "And one- how call you him, who with his wand",
+          "indent": 0,
+          "lineNo": 72
+        },
+        {
+          "type": "verseLine",
+          "text": "Marked out for all men the whole round of heaven,",
+          "indent": 0,
+          "lineNo": 73
+        },
+        {
+          "type": "verseLine",
+          "text": "That they who reap, or stoop behind the plough,",
+          "indent": 0,
+          "lineNo": 74
+        },
+        {
+          "type": "verseLine",
+          "text": "Might know their several seasons? Nor as yet",
+          "indent": 0,
+          "lineNo": 75
+        },
+        {
+          "type": "verseLine",
+          "text": "Have I set lip to them, but lay them by.",
+          "indent": 0,
+          "lineNo": 76
+        },
+        {
+          "type": "verseLine",
+          "text": "Damoetas.",
+          "indent": 0,
+          "lineNo": 77
+        },
+        {
+          "type": "verseLine",
+          "text": "For me too wrought the same Alcimedon",
+          "indent": 0,
+          "lineNo": 78
+        },
+        {
+          "type": "verseLine",
+          "text": "A pair of cups, and round the handles wreathed",
+          "indent": 0,
+          "lineNo": 79
+        },
+        {
+          "type": "verseLine",
+          "text": "Pliant acanthus, Orpheus in the midst,",
+          "indent": 0,
+          "lineNo": 80
+        },
+        {
+          "type": "verseLine",
+          "text": "The forests following in his wake; nor yet",
+          "indent": 0,
+          "lineNo": 81
+        },
+        {
+          "type": "verseLine",
+          "text": "Have I set lip to them, but lay them by.",
+          "indent": 0,
+          "lineNo": 82
+        },
+        {
+          "type": "verseLine",
+          "text": "Matched with a heifer, who would prate of cups?",
+          "indent": 0,
+          "lineNo": 83
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 84
+        },
+        {
+          "type": "verseLine",
+          "text": "You shall not balk me now; where'er you bid,",
+          "indent": 0,
+          "lineNo": 85
+        },
+        {
+          "type": "verseLine",
+          "text": "I shall be with you; only let us have",
+          "indent": 0,
+          "lineNo": 86
+        },
+        {
+          "type": "verseLine",
+          "text": "For auditor- or see, to serve our turn,",
+          "indent": 0,
+          "lineNo": 87
+        },
+        {
+          "type": "verseLine",
+          "text": "Yonder Palaemon comes! In singing-bouts",
+          "indent": 0,
+          "lineNo": 88
+        },
+        {
+          "type": "verseLine",
+          "text": "I'll see you play the challenger no more.",
+          "indent": 0,
+          "lineNo": 89
+        },
+        {
+          "type": "verseLine",
+          "text": "Damoetas.",
+          "indent": 0,
+          "lineNo": 90
+        },
+        {
+          "type": "verseLine",
+          "text": "Out then with what you have; I shall not shrink,",
+          "indent": 0,
+          "lineNo": 91
+        },
+        {
+          "type": "verseLine",
+          "text": "Nor budge for any man: only do you,",
+          "indent": 0,
+          "lineNo": 92
+        },
+        {
+          "type": "verseLine",
+          "text": "Neighbour Palaemon, with your whole heart's skill-",
+          "indent": 0,
+          "lineNo": 93
+        },
+        {
+          "type": "verseLine",
+          "text": "For it is no slight matter-play your part.",
+          "indent": 0,
+          "lineNo": 94
+        },
+        {
+          "type": "verseLine",
+          "text": "Palaemon.",
+          "indent": 0,
+          "lineNo": 95
+        },
+        {
+          "type": "verseLine",
+          "text": "Say on then, since on the greensward we sit,",
+          "indent": 0,
+          "lineNo": 96
+        },
+        {
+          "type": "verseLine",
+          "text": "And now is burgeoning both field and tree;",
+          "indent": 0,
+          "lineNo": 97
+        },
+        {
+          "type": "verseLine",
+          "text": "Now is the forest green, and now the year",
+          "indent": 0,
+          "lineNo": 98
+        },
+        {
+          "type": "verseLine",
+          "text": "At fairest. Do you first, Damoetas, sing,",
+          "indent": 0,
+          "lineNo": 99
+        },
+        {
+          "type": "verseLine",
+          "text": "Then you, Menalcas, in alternate strain:",
+          "indent": 0,
+          "lineNo": 100
+        },
+        {
+          "type": "verseLine",
+          "text": "Alternate strains are to the Muses dear.",
+          "indent": 0,
+          "lineNo": 101
+        },
+        {
+          "type": "verseLine",
+          "text": "Damoetas.",
+          "indent": 0,
+          "lineNo": 102
+        },
+        {
+          "type": "verseLine",
+          "text": "\"From Jove the Muse began; Jove filleth all,",
+          "indent": 0,
+          "lineNo": 103
+        },
+        {
+          "type": "verseLine",
+          "text": "Makes the earth fruitful, for my songs hath care.\"",
+          "indent": 0,
+          "lineNo": 104
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 105
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Me Phoebus loves; for Phoebus his own gifts,",
+          "indent": 0,
+          "lineNo": 106
+        },
+        {
+          "type": "verseLine",
+          "text": "Bays and sweet-blushing hyacinths, I keep.\"",
+          "indent": 0,
+          "lineNo": 107
+        },
+        {
+          "type": "verseLine",
+          "text": "Damoetas.",
+          "indent": 0,
+          "lineNo": 108
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Gay Galatea throws an apple at me,",
+          "indent": 0,
+          "lineNo": 109
+        },
+        {
+          "type": "verseLine",
+          "text": "Then hies to the willows, hoping to be seen.\"",
+          "indent": 0,
+          "lineNo": 110
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 111
+        },
+        {
+          "type": "verseLine",
+          "text": "\"My dear Amyntas comes unasked to me;",
+          "indent": 0,
+          "lineNo": 112
+        },
+        {
+          "type": "verseLine",
+          "text": "Not Delia to my dogs is better known.\"",
+          "indent": 0,
+          "lineNo": 113
+        },
+        {
+          "type": "verseLine",
+          "text": "Damoetas.",
+          "indent": 0,
+          "lineNo": 114
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Gifts for my love I've found; mine eyes have marked",
+          "indent": 0,
+          "lineNo": 115
+        },
+        {
+          "type": "verseLine",
+          "text": "Where the wood-pigeons build their airy nests.\"",
+          "indent": 0,
+          "lineNo": 116
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 117
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Ten golden apples have I sent my boy,",
+          "indent": 0,
+          "lineNo": 118
+        },
+        {
+          "type": "verseLine",
+          "text": "All that I could, to-morrow as many more.\"",
+          "indent": 0,
+          "lineNo": 119
+        },
+        {
+          "type": "verseLine",
+          "text": "Damoetas.",
+          "indent": 0,
+          "lineNo": 120
+        },
+        {
+          "type": "verseLine",
+          "text": "\"What words to me, and uttered O how oft,",
+          "indent": 0,
+          "lineNo": 121
+        },
+        {
+          "type": "verseLine",
+          "text": "Hath Galatea spoke! waft some of them,",
+          "indent": 0,
+          "lineNo": 122
+        },
+        {
+          "type": "verseLine",
+          "text": "Ye winds, I pray you, for the gods to hear.\"",
+          "indent": 0,
+          "lineNo": 123
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 124
+        },
+        {
+          "type": "verseLine",
+          "text": "\"It profiteth me naught, Amyntas mine,",
+          "indent": 0,
+          "lineNo": 125
+        },
+        {
+          "type": "verseLine",
+          "text": "That in your very heart you spurn me not,",
+          "indent": 0,
+          "lineNo": 126
+        },
+        {
+          "type": "verseLine",
+          "text": "If, while you hunt the boar, I guard the nets.\"",
+          "indent": 0,
+          "lineNo": 127
+        },
+        {
+          "type": "verseLine",
+          "text": "Damoetas.",
+          "indent": 0,
+          "lineNo": 128
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Prithee, Iollas, for my birthday guest",
+          "indent": 0,
+          "lineNo": 129
+        },
+        {
+          "type": "verseLine",
+          "text": "Send me your Phyllis; when for the young crops",
+          "indent": 0,
+          "lineNo": 130
+        },
+        {
+          "type": "verseLine",
+          "text": "I slay my heifer, you yourself shall come.\"",
+          "indent": 0,
+          "lineNo": 131
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 132
+        },
+        {
+          "type": "verseLine",
+          "text": "\"I am all hers; she wept to see me go,",
+          "indent": 0,
+          "lineNo": 133
+        },
+        {
+          "type": "verseLine",
+          "text": "And, lingering on the word, 'farewell' she said,",
+          "indent": 0,
+          "lineNo": 134
+        },
+        {
+          "type": "verseLine",
+          "text": "'My beautiful Iollas, fare you well.'\"",
+          "indent": 0,
+          "lineNo": 135
+        },
+        {
+          "type": "verseLine",
+          "text": "Damoetas.",
+          "indent": 0,
+          "lineNo": 136
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Fell as the wolf is to the folded flock,",
+          "indent": 0,
+          "lineNo": 137
+        },
+        {
+          "type": "verseLine",
+          "text": "Rain to ripe corn, Sirocco to the trees,",
+          "indent": 0,
+          "lineNo": 138
+        },
+        {
+          "type": "verseLine",
+          "text": "The wrath of Amaryllis is to me.\"",
+          "indent": 0,
+          "lineNo": 139
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 140
+        },
+        {
+          "type": "verseLine",
+          "text": "\"As moisture to the corn, to ewes with young",
+          "indent": 0,
+          "lineNo": 141
+        },
+        {
+          "type": "verseLine",
+          "text": "Lithe willow, as arbute to the yeanling kids,",
+          "indent": 0,
+          "lineNo": 142
+        },
+        {
+          "type": "verseLine",
+          "text": "So sweet Amyntas, and none else, to me.\"",
+          "indent": 0,
+          "lineNo": 143
+        },
+        {
+          "type": "verseLine",
+          "text": "Damoetas.",
+          "indent": 0,
+          "lineNo": 144
+        },
+        {
+          "type": "verseLine",
+          "text": "\"My Muse, although she be but country-bred,",
+          "indent": 0,
+          "lineNo": 145
+        },
+        {
+          "type": "verseLine",
+          "text": "Is loved by Pollio: O Pierian Maids,",
+          "indent": 0,
+          "lineNo": 146
+        },
+        {
+          "type": "verseLine",
+          "text": "Pray you, a heifer for your reader feed!\"",
+          "indent": 0,
+          "lineNo": 147
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 148
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Pollio himself too doth new verses make:",
+          "indent": 0,
+          "lineNo": 149
+        },
+        {
+          "type": "verseLine",
+          "text": "Feed ye a bull now ripe to butt with horn,",
+          "indent": 0,
+          "lineNo": 150
+        },
+        {
+          "type": "verseLine",
+          "text": "And scatter with his hooves the flying sand.\"",
+          "indent": 0,
+          "lineNo": 151
+        },
+        {
+          "type": "verseLine",
+          "text": "Damoetas.",
+          "indent": 0,
+          "lineNo": 152
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Who loves thee, Pollio, may he thither come",
+          "indent": 0,
+          "lineNo": 153
+        },
+        {
+          "type": "verseLine",
+          "text": "Where thee he joys beholding; ay, for him",
+          "indent": 0,
+          "lineNo": 154
+        },
+        {
+          "type": "verseLine",
+          "text": "Let honey flow, the thorn-bush spices bear.\"",
+          "indent": 0,
+          "lineNo": 155
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 156
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Who hates not Bavius, let him also love",
+          "indent": 0,
+          "lineNo": 157
+        },
+        {
+          "type": "verseLine",
+          "text": "Thy songs, O Maevius, ay, and therewithal",
+          "indent": 0,
+          "lineNo": 158
+        },
+        {
+          "type": "verseLine",
+          "text": "Yoke foxes to his car, and he-goats milk.\"",
+          "indent": 0,
+          "lineNo": 159
+        },
+        {
+          "type": "verseLine",
+          "text": "Damoetas.",
+          "indent": 0,
+          "lineNo": 160
+        },
+        {
+          "type": "verseLine",
+          "text": "\"You, picking flowers and strawberries that grow",
+          "indent": 0,
+          "lineNo": 161
+        },
+        {
+          "type": "verseLine",
+          "text": "So near the ground, fly hence, boys, get you gone!",
+          "indent": 0,
+          "lineNo": 162
+        },
+        {
+          "type": "verseLine",
+          "text": "There's a cold adder lurking in the grass.\"",
+          "indent": 0,
+          "lineNo": 163
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 164
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Forbear, my sheep, to tread too near the brink;",
+          "indent": 0,
+          "lineNo": 165
+        },
+        {
+          "type": "verseLine",
+          "text": "Yon bank is ill to trust to; even now",
+          "indent": 0,
+          "lineNo": 166
+        },
+        {
+          "type": "verseLine",
+          "text": "The ram himself, see, dries his dripping fleece!\"",
+          "indent": 0,
+          "lineNo": 167
+        },
+        {
+          "type": "verseLine",
+          "text": "Damoetas.",
+          "indent": 0,
+          "lineNo": 168
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Back with the she-goats, Tityrus, grazing there",
+          "indent": 0,
+          "lineNo": 169
+        },
+        {
+          "type": "verseLine",
+          "text": "So near the river! I, when time shall serve,",
+          "indent": 0,
+          "lineNo": 170
+        },
+        {
+          "type": "verseLine",
+          "text": "Will take them all, and wash them in the pool.\"",
+          "indent": 0,
+          "lineNo": 171
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 172
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Boys, get your sheep together; if the heat,",
+          "indent": 0,
+          "lineNo": 173
+        },
+        {
+          "type": "verseLine",
+          "text": "As late it did, forestall us with the milk,",
+          "indent": 0,
+          "lineNo": 174
+        },
+        {
+          "type": "verseLine",
+          "text": "Vainly the dried-up udders shall we wring.\"",
+          "indent": 0,
+          "lineNo": 175
+        },
+        {
+          "type": "verseLine",
+          "text": "Damoetas.",
+          "indent": 0,
+          "lineNo": 176
+        },
+        {
+          "type": "verseLine",
+          "text": "\"How lean my bull amid the fattening vetch!",
+          "indent": 0,
+          "lineNo": 177
+        },
+        {
+          "type": "verseLine",
+          "text": "Alack! alack! for herdsman and for herd!",
+          "indent": 0,
+          "lineNo": 178
+        },
+        {
+          "type": "verseLine",
+          "text": "It is the self-same love that wastes us both.\"",
+          "indent": 0,
+          "lineNo": 179
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 180
+        },
+        {
+          "type": "verseLine",
+          "text": "\"These truly- nor is even love the cause-",
+          "indent": 0,
+          "lineNo": 181
+        },
+        {
+          "type": "verseLine",
+          "text": "Scarce have the flesh to keep their bones together",
+          "indent": 0,
+          "lineNo": 182
+        },
+        {
+          "type": "verseLine",
+          "text": "Some evil eye my lambkins hath bewitched.\"",
+          "indent": 0,
+          "lineNo": 183
+        },
+        {
+          "type": "verseLine",
+          "text": "Damoetas.",
+          "indent": 0,
+          "lineNo": 184
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Say in what clime- and you shall be withal",
+          "indent": 0,
+          "lineNo": 185
+        },
+        {
+          "type": "verseLine",
+          "text": "My great Apollo- the whole breadth of heaven",
+          "indent": 0,
+          "lineNo": 186
+        },
+        {
+          "type": "verseLine",
+          "text": "Opens no wider than three ells to view.\"",
+          "indent": 0,
+          "lineNo": 187
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 188
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Say in what country grow such flowers as bear",
+          "indent": 0,
+          "lineNo": 189
+        },
+        {
+          "type": "verseLine",
+          "text": "The names of kings upon their petals writ,",
+          "indent": 0,
+          "lineNo": 190
+        },
+        {
+          "type": "verseLine",
+          "text": "And you shall have fair Phyllis for your own.\"",
+          "indent": 0,
+          "lineNo": 191
+        },
+        {
+          "type": "verseLine",
+          "text": "Palaemon.",
+          "indent": 0,
+          "lineNo": 192
+        },
+        {
+          "type": "verseLine",
+          "text": "Not mine betwixt such rivals to decide:",
+          "indent": 0,
+          "lineNo": 193
+        },
+        {
+          "type": "verseLine",
+          "text": "You well deserve the heifer, so does he,",
+          "indent": 0,
+          "lineNo": 194
+        },
+        {
+          "type": "verseLine",
+          "text": "With all who either fear the sweets of love,",
+          "indent": 0,
+          "lineNo": 195
+        },
+        {
+          "type": "verseLine",
+          "text": "Or taste its bitterness. Now, boys, shut off",
+          "indent": 0,
+          "lineNo": 196
+        },
+        {
+          "type": "verseLine",
+          "text": "The sluices, for the fields have drunk their fill.",
+          "indent": 0,
+          "lineNo": 197
+        }
+      ]
+    },
+    {
+      "seq": 4,
+      "id": "eclogue-eclogue-iv",
+      "heading": "Eclogue IV",
+      "partTitle": "Eclogue IV",
+      "blocks": [
+        {
+          "type": "verseLine",
+          "text": "POLLIO",
+          "indent": 0,
+          "lineNo": 10
+        },
+        {
+          "type": "verseLine",
+          "text": "Muses of Sicily, essay we now",
+          "indent": 0,
+          "lineNo": 11
+        },
+        {
+          "type": "verseLine",
+          "text": "A somewhat loftier task! Not all men love",
+          "indent": 0,
+          "lineNo": 12
+        },
+        {
+          "type": "verseLine",
+          "text": "Coppice or lowly tamarisk: sing we woods,",
+          "indent": 0,
+          "lineNo": 13
+        },
+        {
+          "type": "verseLine",
+          "text": "Woods worthy of a Consul let them be.",
+          "indent": 0,
+          "lineNo": 14
+        },
+        {
+          "type": "verseLine",
+          "text": "Now the last age by Cumae's Sibyl sung",
+          "indent": 0,
+          "lineNo": 15
+        },
+        {
+          "type": "verseLine",
+          "text": "Has come and gone, and the majestic roll",
+          "indent": 0,
+          "lineNo": 16
+        },
+        {
+          "type": "verseLine",
+          "text": "Of circling centuries begins anew:",
+          "indent": 0,
+          "lineNo": 17
+        },
+        {
+          "type": "verseLine",
+          "text": "Justice returns, returns old Saturn's reign,",
+          "indent": 0,
+          "lineNo": 18
+        },
+        {
+          "type": "verseLine",
+          "text": "With a new breed of men sent down from heaven.",
+          "indent": 0,
+          "lineNo": 19
+        },
+        {
+          "type": "verseLine",
+          "text": "Only do thou, at the boy's birth in whom",
+          "indent": 0,
+          "lineNo": 20
+        },
+        {
+          "type": "verseLine",
+          "text": "The iron shall cease, the golden race arise,",
+          "indent": 0,
+          "lineNo": 21
+        },
+        {
+          "type": "verseLine",
+          "text": "Befriend him, chaste Lucina; 'tis thine own",
+          "indent": 0,
+          "lineNo": 22
+        },
+        {
+          "type": "verseLine",
+          "text": "Apollo reigns. And in thy consulate,",
+          "indent": 0,
+          "lineNo": 23
+        },
+        {
+          "type": "verseLine",
+          "text": "This glorious age, O Pollio, shall begin,",
+          "indent": 0,
+          "lineNo": 24
+        },
+        {
+          "type": "verseLine",
+          "text": "And the months enter on their mighty march.",
+          "indent": 0,
+          "lineNo": 25
+        },
+        {
+          "type": "verseLine",
+          "text": "Under thy guidance, whatso tracks remain",
+          "indent": 0,
+          "lineNo": 26
+        },
+        {
+          "type": "verseLine",
+          "text": "Of our old wickedness, once done away,",
+          "indent": 0,
+          "lineNo": 27
+        },
+        {
+          "type": "verseLine",
+          "text": "Shall free the earth from never-ceasing fear.",
+          "indent": 0,
+          "lineNo": 28
+        },
+        {
+          "type": "verseLine",
+          "text": "He shall receive the life of gods, and see",
+          "indent": 0,
+          "lineNo": 29
+        },
+        {
+          "type": "verseLine",
+          "text": "Heroes with gods commingling, and himself",
+          "indent": 0,
+          "lineNo": 30
+        },
+        {
+          "type": "verseLine",
+          "text": "Be seen of them, and with his father's worth",
+          "indent": 0,
+          "lineNo": 31
+        },
+        {
+          "type": "verseLine",
+          "text": "Reign o'er a world at peace. For thee, O boy,",
+          "indent": 0,
+          "lineNo": 32
+        },
+        {
+          "type": "verseLine",
+          "text": "First shall the earth, untilled, pour freely forth",
+          "indent": 0,
+          "lineNo": 33
+        },
+        {
+          "type": "verseLine",
+          "text": "Her childish gifts, the gadding ivy-spray",
+          "indent": 0,
+          "lineNo": 34
+        },
+        {
+          "type": "verseLine",
+          "text": "With foxglove and Egyptian bean-flower mixed,",
+          "indent": 0,
+          "lineNo": 35
+        },
+        {
+          "type": "verseLine",
+          "text": "And laughing-eyed acanthus. Of themselves,",
+          "indent": 0,
+          "lineNo": 36
+        },
+        {
+          "type": "verseLine",
+          "text": "Untended, will the she-goats then bring home",
+          "indent": 0,
+          "lineNo": 37
+        },
+        {
+          "type": "verseLine",
+          "text": "Their udders swollen with milk, while flocks afield",
+          "indent": 0,
+          "lineNo": 38
+        },
+        {
+          "type": "verseLine",
+          "text": "Shall of the monstrous lion have no fear.",
+          "indent": 0,
+          "lineNo": 39
+        },
+        {
+          "type": "verseLine",
+          "text": "Thy very cradle shall pour forth for thee",
+          "indent": 0,
+          "lineNo": 40
+        },
+        {
+          "type": "verseLine",
+          "text": "Caressing flowers. The serpent too shall die,",
+          "indent": 0,
+          "lineNo": 41
+        },
+        {
+          "type": "verseLine",
+          "text": "Die shall the treacherous poison-plant, and far",
+          "indent": 0,
+          "lineNo": 42
+        },
+        {
+          "type": "verseLine",
+          "text": "And wide Assyrian spices spring. But soon",
+          "indent": 0,
+          "lineNo": 43
+        },
+        {
+          "type": "verseLine",
+          "text": "As thou hast skill to read of heroes' fame,",
+          "indent": 0,
+          "lineNo": 44
+        },
+        {
+          "type": "verseLine",
+          "text": "And of thy father's deeds, and inly learn",
+          "indent": 0,
+          "lineNo": 45
+        },
+        {
+          "type": "verseLine",
+          "text": "What virtue is, the plain by slow degrees",
+          "indent": 0,
+          "lineNo": 46
+        },
+        {
+          "type": "verseLine",
+          "text": "With waving corn-crops shall to golden grow,",
+          "indent": 0,
+          "lineNo": 47
+        },
+        {
+          "type": "verseLine",
+          "text": "From the wild briar shall hang the blushing grape,",
+          "indent": 0,
+          "lineNo": 48
+        },
+        {
+          "type": "verseLine",
+          "text": "And stubborn oaks sweat honey-dew. Nathless",
+          "indent": 0,
+          "lineNo": 49
+        },
+        {
+          "type": "verseLine",
+          "text": "Yet shall there lurk within of ancient wrong",
+          "indent": 0,
+          "lineNo": 50
+        },
+        {
+          "type": "verseLine",
+          "text": "Some traces, bidding tempt the deep with ships,",
+          "indent": 0,
+          "lineNo": 51
+        },
+        {
+          "type": "verseLine",
+          "text": "Gird towns with walls, with furrows cleave the earth.",
+          "indent": 0,
+          "lineNo": 52
+        },
+        {
+          "type": "verseLine",
+          "text": "Therewith a second Tiphys shall there be,",
+          "indent": 0,
+          "lineNo": 53
+        },
+        {
+          "type": "verseLine",
+          "text": "Her hero-freight a second Argo bear;",
+          "indent": 0,
+          "lineNo": 54
+        },
+        {
+          "type": "verseLine",
+          "text": "New wars too shall arise, and once again",
+          "indent": 0,
+          "lineNo": 55
+        },
+        {
+          "type": "verseLine",
+          "text": "Some great Achilles to some Troy be sent.",
+          "indent": 0,
+          "lineNo": 56
+        },
+        {
+          "type": "verseLine",
+          "text": "Then, when the mellowing years have made thee man,",
+          "indent": 0,
+          "lineNo": 57
+        },
+        {
+          "type": "verseLine",
+          "text": "No more shall mariner sail, nor pine-tree bark",
+          "indent": 0,
+          "lineNo": 58
+        },
+        {
+          "type": "verseLine",
+          "text": "Ply traffic on the sea, but every land",
+          "indent": 0,
+          "lineNo": 59
+        },
+        {
+          "type": "verseLine",
+          "text": "Shall all things bear alike: the glebe no more",
+          "indent": 0,
+          "lineNo": 60
+        },
+        {
+          "type": "verseLine",
+          "text": "Shall feel the harrow's grip, nor vine the hook;",
+          "indent": 0,
+          "lineNo": 61
+        },
+        {
+          "type": "verseLine",
+          "text": "The sturdy ploughman shall loose yoke from steer,",
+          "indent": 0,
+          "lineNo": 62
+        },
+        {
+          "type": "verseLine",
+          "text": "Nor wool with varying colours learn to lie;",
+          "indent": 0,
+          "lineNo": 63
+        },
+        {
+          "type": "verseLine",
+          "text": "But in the meadows shall the ram himself,",
+          "indent": 0,
+          "lineNo": 64
+        },
+        {
+          "type": "verseLine",
+          "text": "Now with soft flush of purple, now with tint",
+          "indent": 0,
+          "lineNo": 65
+        },
+        {
+          "type": "verseLine",
+          "text": "Of yellow saffron, teach his fleece to shine.",
+          "indent": 0,
+          "lineNo": 66
+        },
+        {
+          "type": "verseLine",
+          "text": "While clothed in natural scarlet graze the lambs.",
+          "indent": 0,
+          "lineNo": 67
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Such still, such ages weave ye, as ye run,\"",
+          "indent": 0,
+          "lineNo": 68
+        },
+        {
+          "type": "verseLine",
+          "text": "Sang to their spindles the consenting Fates",
+          "indent": 0,
+          "lineNo": 69
+        },
+        {
+          "type": "verseLine",
+          "text": "By Destiny's unalterable decree.",
+          "indent": 0,
+          "lineNo": 70
+        },
+        {
+          "type": "verseLine",
+          "text": "Assume thy greatness, for the time draws nigh,",
+          "indent": 0,
+          "lineNo": 71
+        },
+        {
+          "type": "verseLine",
+          "text": "Dear child of gods, great progeny of Jove!",
+          "indent": 0,
+          "lineNo": 72
+        },
+        {
+          "type": "verseLine",
+          "text": "See how it totters- the world's orbed might,",
+          "indent": 0,
+          "lineNo": 73
+        },
+        {
+          "type": "verseLine",
+          "text": "Earth, and wide ocean, and the vault profound,",
+          "indent": 0,
+          "lineNo": 74
+        },
+        {
+          "type": "verseLine",
+          "text": "All, see, enraptured of the coming time!",
+          "indent": 0,
+          "lineNo": 75
+        },
+        {
+          "type": "verseLine",
+          "text": "Ah! might such length of days to me be given,",
+          "indent": 0,
+          "lineNo": 76
+        },
+        {
+          "type": "verseLine",
+          "text": "And breath suffice me to rehearse thy deeds,",
+          "indent": 0,
+          "lineNo": 77
+        },
+        {
+          "type": "verseLine",
+          "text": "Nor Thracian Orpheus should out-sing me then,",
+          "indent": 0,
+          "lineNo": 78
+        },
+        {
+          "type": "verseLine",
+          "text": "Nor Linus, though his mother this, and that",
+          "indent": 0,
+          "lineNo": 79
+        },
+        {
+          "type": "verseLine",
+          "text": "His sire should aid- Orpheus Calliope,",
+          "indent": 0,
+          "lineNo": 80
+        },
+        {
+          "type": "verseLine",
+          "text": "And Linus fair Apollo. Nay, though Pan,",
+          "indent": 0,
+          "lineNo": 81
+        },
+        {
+          "type": "verseLine",
+          "text": "With Arcady for judge, my claim contest,",
+          "indent": 0,
+          "lineNo": 82
+        },
+        {
+          "type": "verseLine",
+          "text": "With Arcady for judge great Pan himself",
+          "indent": 0,
+          "lineNo": 83
+        },
+        {
+          "type": "verseLine",
+          "text": "Should own him foiled, and from the field retire.",
+          "indent": 0,
+          "lineNo": 84
+        },
+        {
+          "type": "verseLine",
+          "text": "Begin to greet thy mother with a smile,",
+          "indent": 0,
+          "lineNo": 85
+        },
+        {
+          "type": "verseLine",
+          "text": "O baby-boy! ten months of weariness",
+          "indent": 0,
+          "lineNo": 86
+        },
+        {
+          "type": "verseLine",
+          "text": "For thee she bore: O baby-boy, begin!",
+          "indent": 0,
+          "lineNo": 87
+        },
+        {
+          "type": "verseLine",
+          "text": "For him, on whom his parents have not smiled,",
+          "indent": 0,
+          "lineNo": 88
+        },
+        {
+          "type": "verseLine",
+          "text": "Gods deem not worthy of their board or bed.",
+          "indent": 0,
+          "lineNo": 89
+        }
+      ]
+    },
+    {
+      "seq": 5,
+      "id": "eclogue-eclogue-v",
+      "heading": "Eclogue V",
+      "partTitle": "Eclogue V",
+      "blocks": [
+        {
+          "type": "verseLine",
+          "text": "MENALCAS, MOPSUS",
+          "indent": 0,
+          "lineNo": 10
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 11
+        },
+        {
+          "type": "verseLine",
+          "text": "Why, Mopsus, being both together met,",
+          "indent": 0,
+          "lineNo": 12
+        },
+        {
+          "type": "verseLine",
+          "text": "You skilled to breathe upon the slender reeds,",
+          "indent": 0,
+          "lineNo": 13
+        },
+        {
+          "type": "verseLine",
+          "text": "I to sing ditties, do we not sit down",
+          "indent": 0,
+          "lineNo": 14
+        },
+        {
+          "type": "verseLine",
+          "text": "Here where the elm-trees and the hazels blend?",
+          "indent": 0,
+          "lineNo": 15
+        },
+        {
+          "type": "verseLine",
+          "text": "Mopsus.",
+          "indent": 0,
+          "lineNo": 16
+        },
+        {
+          "type": "verseLine",
+          "text": "You are the elder, 'tis for me to bide",
+          "indent": 0,
+          "lineNo": 17
+        },
+        {
+          "type": "verseLine",
+          "text": "Your choice, Menalcas, whether now we seek",
+          "indent": 0,
+          "lineNo": 18
+        },
+        {
+          "type": "verseLine",
+          "text": "Yon shade that quivers to the changeful breeze,",
+          "indent": 0,
+          "lineNo": 19
+        },
+        {
+          "type": "verseLine",
+          "text": "Or the cave's shelter. Look you how the cave",
+          "indent": 0,
+          "lineNo": 20
+        },
+        {
+          "type": "verseLine",
+          "text": "Is with the wild vine's clusters over-laced!",
+          "indent": 0,
+          "lineNo": 21
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 22
+        },
+        {
+          "type": "verseLine",
+          "text": "None but Amyntas on these hills of ours",
+          "indent": 0,
+          "lineNo": 23
+        },
+        {
+          "type": "verseLine",
+          "text": "Can vie with you.",
+          "indent": 0,
+          "lineNo": 24
+        },
+        {
+          "type": "verseLine",
+          "text": "Mopsus.",
+          "indent": 0,
+          "lineNo": 25
+        },
+        {
+          "type": "verseLine",
+          "text": "What if he also strive",
+          "indent": 0,
+          "lineNo": 26
+        },
+        {
+          "type": "verseLine",
+          "text": "To out-sing Phoebus?",
+          "indent": 0,
+          "lineNo": 27
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 28
+        },
+        {
+          "type": "verseLine",
+          "text": "Do you first begin,",
+          "indent": 0,
+          "lineNo": 29
+        },
+        {
+          "type": "verseLine",
+          "text": "Good Mopsus, whether minded to sing aught",
+          "indent": 0,
+          "lineNo": 30
+        },
+        {
+          "type": "verseLine",
+          "text": "Of Phyllis and her loves, or Alcon's praise,",
+          "indent": 0,
+          "lineNo": 31
+        },
+        {
+          "type": "verseLine",
+          "text": "Or to fling taunts at Codrus. Come, begin,",
+          "indent": 0,
+          "lineNo": 32
+        },
+        {
+          "type": "verseLine",
+          "text": "While Tityrus watches o'er the grazing kids.",
+          "indent": 0,
+          "lineNo": 33
+        },
+        {
+          "type": "verseLine",
+          "text": "Mopsus.",
+          "indent": 0,
+          "lineNo": 34
+        },
+        {
+          "type": "verseLine",
+          "text": "Nay, then, I will essay what late I carved",
+          "indent": 0,
+          "lineNo": 35
+        },
+        {
+          "type": "verseLine",
+          "text": "On a green beech-tree's rind, playing by turns,",
+          "indent": 0,
+          "lineNo": 36
+        },
+        {
+          "type": "verseLine",
+          "text": "And marking down the notes; then afterward",
+          "indent": 0,
+          "lineNo": 37
+        },
+        {
+          "type": "verseLine",
+          "text": "Bid you Amyntas match them if he can.",
+          "indent": 0,
+          "lineNo": 38
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 39
+        },
+        {
+          "type": "verseLine",
+          "text": "As limber willow to pale olive yields,",
+          "indent": 0,
+          "lineNo": 40
+        },
+        {
+          "type": "verseLine",
+          "text": "As lowly Celtic nard to rose-buds bright,",
+          "indent": 0,
+          "lineNo": 41
+        },
+        {
+          "type": "verseLine",
+          "text": "So, to my mind, Amyntas yields to you.",
+          "indent": 0,
+          "lineNo": 42
+        },
+        {
+          "type": "verseLine",
+          "text": "But hold awhile, for to the cave we come.",
+          "indent": 0,
+          "lineNo": 43
+        },
+        {
+          "type": "verseLine",
+          "text": "Mopsus.",
+          "indent": 0,
+          "lineNo": 44
+        },
+        {
+          "type": "verseLine",
+          "text": "\"For Daphnis cruelly slain wept all the Nymphs-",
+          "indent": 0,
+          "lineNo": 45
+        },
+        {
+          "type": "verseLine",
+          "text": "Ye hazels, bear them witness, and ye streams-",
+          "indent": 0,
+          "lineNo": 46
+        },
+        {
+          "type": "verseLine",
+          "text": "When she, his mother, clasping in her arms",
+          "indent": 0,
+          "lineNo": 47
+        },
+        {
+          "type": "verseLine",
+          "text": "The hapless body of the son she bare,",
+          "indent": 0,
+          "lineNo": 48
+        },
+        {
+          "type": "verseLine",
+          "text": "To gods and stars unpitying, poured her plaint.",
+          "indent": 0,
+          "lineNo": 49
+        },
+        {
+          "type": "verseLine",
+          "text": "Then, Daphnis, to the cooling streams were none",
+          "indent": 0,
+          "lineNo": 50
+        },
+        {
+          "type": "verseLine",
+          "text": "That drove the pastured oxen, then no beast",
+          "indent": 0,
+          "lineNo": 51
+        },
+        {
+          "type": "verseLine",
+          "text": "Drank of the river, or would the grass-blade touch.",
+          "indent": 0,
+          "lineNo": 52
+        },
+        {
+          "type": "verseLine",
+          "text": "Nay, the wild rocks and woods then voiced the roar",
+          "indent": 0,
+          "lineNo": 53
+        },
+        {
+          "type": "verseLine",
+          "text": "Of Afric lions mourning for thy death.",
+          "indent": 0,
+          "lineNo": 54
+        },
+        {
+          "type": "verseLine",
+          "text": "Daphnis, 'twas thou bad'st yoke to Bacchus' car",
+          "indent": 0,
+          "lineNo": 55
+        },
+        {
+          "type": "verseLine",
+          "text": "Armenian tigresses, lead on the pomp",
+          "indent": 0,
+          "lineNo": 56
+        },
+        {
+          "type": "verseLine",
+          "text": "Of revellers, and with tender foliage wreathe",
+          "indent": 0,
+          "lineNo": 57
+        },
+        {
+          "type": "verseLine",
+          "text": "The bending spear-wands. As to trees the vine",
+          "indent": 0,
+          "lineNo": 58
+        },
+        {
+          "type": "verseLine",
+          "text": "Is crown of glory, as to vines the grape,",
+          "indent": 0,
+          "lineNo": 59
+        },
+        {
+          "type": "verseLine",
+          "text": "Bulls to the herd, to fruitful fields the corn,",
+          "indent": 0,
+          "lineNo": 60
+        },
+        {
+          "type": "verseLine",
+          "text": "So the one glory of thine own art thou.",
+          "indent": 0,
+          "lineNo": 61
+        },
+        {
+          "type": "verseLine",
+          "text": "When the Fates took thee hence, then Pales' self,",
+          "indent": 0,
+          "lineNo": 62
+        },
+        {
+          "type": "verseLine",
+          "text": "And even Apollo, left the country lone.",
+          "indent": 0,
+          "lineNo": 63
+        },
+        {
+          "type": "verseLine",
+          "text": "Where the plump barley-grain so oft we sowed,",
+          "indent": 0,
+          "lineNo": 64
+        },
+        {
+          "type": "verseLine",
+          "text": "There but wild oats and barren darnel spring;",
+          "indent": 0,
+          "lineNo": 65
+        },
+        {
+          "type": "verseLine",
+          "text": "For tender violet and narcissus bright",
+          "indent": 0,
+          "lineNo": 66
+        },
+        {
+          "type": "verseLine",
+          "text": "Thistle and prickly thorn uprear their heads.",
+          "indent": 0,
+          "lineNo": 67
+        },
+        {
+          "type": "verseLine",
+          "text": "Now, O ye shepherds, strew the ground with leaves,",
+          "indent": 0,
+          "lineNo": 68
+        },
+        {
+          "type": "verseLine",
+          "text": "And o'er the fountains draw a shady veil-",
+          "indent": 0,
+          "lineNo": 69
+        },
+        {
+          "type": "verseLine",
+          "text": "So Daphnis to his memory bids be done-",
+          "indent": 0,
+          "lineNo": 70
+        },
+        {
+          "type": "verseLine",
+          "text": "And rear a tomb, and write thereon this verse:",
+          "indent": 0,
+          "lineNo": 71
+        },
+        {
+          "type": "verseLine",
+          "text": "'I, Daphnis in the woods, from hence in fame",
+          "indent": 0,
+          "lineNo": 72
+        },
+        {
+          "type": "verseLine",
+          "text": "Am to the stars exalted, guardian once",
+          "indent": 0,
+          "lineNo": 73
+        },
+        {
+          "type": "verseLine",
+          "text": "Of a fair flock, myself more fair than they.'\"",
+          "indent": 0,
+          "lineNo": 74
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 75
+        },
+        {
+          "type": "verseLine",
+          "text": "So is thy song to me, poet divine,",
+          "indent": 0,
+          "lineNo": 76
+        },
+        {
+          "type": "verseLine",
+          "text": "As slumber on the grass to weary limbs,",
+          "indent": 0,
+          "lineNo": 77
+        },
+        {
+          "type": "verseLine",
+          "text": "Or to slake thirst from some sweet-bubbling rill",
+          "indent": 0,
+          "lineNo": 78
+        },
+        {
+          "type": "verseLine",
+          "text": "In summer's heat. Nor on the reeds alone,",
+          "indent": 0,
+          "lineNo": 79
+        },
+        {
+          "type": "verseLine",
+          "text": "But with thy voice art thou, thrice happy boy,",
+          "indent": 0,
+          "lineNo": 80
+        },
+        {
+          "type": "verseLine",
+          "text": "Ranked with thy master, second but to him.",
+          "indent": 0,
+          "lineNo": 81
+        },
+        {
+          "type": "verseLine",
+          "text": "Yet will I, too, in turn, as best I may,",
+          "indent": 0,
+          "lineNo": 82
+        },
+        {
+          "type": "verseLine",
+          "text": "Sing thee a song, and to the stars uplift",
+          "indent": 0,
+          "lineNo": 83
+        },
+        {
+          "type": "verseLine",
+          "text": "Thy Daphnis- Daphnis to the stars extol,",
+          "indent": 0,
+          "lineNo": 84
+        },
+        {
+          "type": "verseLine",
+          "text": "For me too Daphnis loved.",
+          "indent": 0,
+          "lineNo": 85
+        },
+        {
+          "type": "verseLine",
+          "text": "Mopsus.",
+          "indent": 0,
+          "lineNo": 86
+        },
+        {
+          "type": "verseLine",
+          "text": "Than such a boon",
+          "indent": 0,
+          "lineNo": 87
+        },
+        {
+          "type": "verseLine",
+          "text": "What dearer could I deem? the boy himself",
+          "indent": 0,
+          "lineNo": 88
+        },
+        {
+          "type": "verseLine",
+          "text": "Was worthy to be sung, and many a time",
+          "indent": 0,
+          "lineNo": 89
+        },
+        {
+          "type": "verseLine",
+          "text": "Hath Stimichon to me your singing praised.",
+          "indent": 0,
+          "lineNo": 90
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 91
+        },
+        {
+          "type": "verseLine",
+          "text": "\"In dazzling sheen with unaccustomed eyes",
+          "indent": 0,
+          "lineNo": 92
+        },
+        {
+          "type": "verseLine",
+          "text": "Daphnis stands rapt before Olympus' gate,",
+          "indent": 0,
+          "lineNo": 93
+        },
+        {
+          "type": "verseLine",
+          "text": "And sees beneath his feet the clouds and stars.",
+          "indent": 0,
+          "lineNo": 94
+        },
+        {
+          "type": "verseLine",
+          "text": "Wherefore the woods and fields, Pan, shepherd-folk,",
+          "indent": 0,
+          "lineNo": 95
+        },
+        {
+          "type": "verseLine",
+          "text": "And Dryad-maidens, thrill with eager joy;",
+          "indent": 0,
+          "lineNo": 96
+        },
+        {
+          "type": "verseLine",
+          "text": "Nor wolf with treacherous wile assails the flock,",
+          "indent": 0,
+          "lineNo": 97
+        },
+        {
+          "type": "verseLine",
+          "text": "Nor nets the stag: kind Daphnis loveth peace.",
+          "indent": 0,
+          "lineNo": 98
+        },
+        {
+          "type": "verseLine",
+          "text": "The unshorn mountains to the stars up-toss",
+          "indent": 0,
+          "lineNo": 99
+        },
+        {
+          "type": "verseLine",
+          "text": "Voices of gladness; ay, the very rocks,",
+          "indent": 0,
+          "lineNo": 100
+        },
+        {
+          "type": "verseLine",
+          "text": "The very thickets, shout and sing, 'A god,",
+          "indent": 0,
+          "lineNo": 101
+        },
+        {
+          "type": "verseLine",
+          "text": "A god is he, Menalcas \"Be thou kind,",
+          "indent": 0,
+          "lineNo": 102
+        },
+        {
+          "type": "verseLine",
+          "text": "Propitious to thine own. Lo! altars four,",
+          "indent": 0,
+          "lineNo": 103
+        },
+        {
+          "type": "verseLine",
+          "text": "Twain to thee, Daphnis, and to Phoebus twain",
+          "indent": 0,
+          "lineNo": 104
+        },
+        {
+          "type": "verseLine",
+          "text": "For sacrifice, we build; and I for thee",
+          "indent": 0,
+          "lineNo": 105
+        },
+        {
+          "type": "verseLine",
+          "text": "Two beakers yearly of fresh milk afoam,",
+          "indent": 0,
+          "lineNo": 106
+        },
+        {
+          "type": "verseLine",
+          "text": "And of rich olive-oil two bowls, will set;",
+          "indent": 0,
+          "lineNo": 107
+        },
+        {
+          "type": "verseLine",
+          "text": "And of the wine-god's bounty above all,",
+          "indent": 0,
+          "lineNo": 108
+        },
+        {
+          "type": "verseLine",
+          "text": "If cold, before the hearth, or in the shade",
+          "indent": 0,
+          "lineNo": 109
+        },
+        {
+          "type": "verseLine",
+          "text": "At harvest-time, to glad the festal hour,",
+          "indent": 0,
+          "lineNo": 110
+        },
+        {
+          "type": "verseLine",
+          "text": "From flasks of Ariusian grape will pour",
+          "indent": 0,
+          "lineNo": 111
+        },
+        {
+          "type": "verseLine",
+          "text": "Sweet nectar. Therewithal at my behest",
+          "indent": 0,
+          "lineNo": 112
+        },
+        {
+          "type": "verseLine",
+          "text": "Shall Lyctian Aegon and Damoetas sing,",
+          "indent": 0,
+          "lineNo": 113
+        },
+        {
+          "type": "verseLine",
+          "text": "And Alphesiboeus emulate in dance",
+          "indent": 0,
+          "lineNo": 114
+        },
+        {
+          "type": "verseLine",
+          "text": "The dancing Satyrs. This, thy service due,",
+          "indent": 0,
+          "lineNo": 115
+        },
+        {
+          "type": "verseLine",
+          "text": "Shalt thou lack never, both when we pay the Nymphs",
+          "indent": 0,
+          "lineNo": 116
+        },
+        {
+          "type": "verseLine",
+          "text": "Our yearly vows, and when with lustral rites",
+          "indent": 0,
+          "lineNo": 117
+        },
+        {
+          "type": "verseLine",
+          "text": "The fields we hallow. Long as the wild boar",
+          "indent": 0,
+          "lineNo": 118
+        },
+        {
+          "type": "verseLine",
+          "text": "Shall love the mountain-heights, and fish the streams,",
+          "indent": 0,
+          "lineNo": 119
+        },
+        {
+          "type": "verseLine",
+          "text": "While bees on thyme and crickets feed on dew,",
+          "indent": 0,
+          "lineNo": 120
+        },
+        {
+          "type": "verseLine",
+          "text": "Thy name, thy praise, thine honour, shall endure.",
+          "indent": 0,
+          "lineNo": 121
+        },
+        {
+          "type": "verseLine",
+          "text": "Even as to Bacchus and to Ceres, so",
+          "indent": 0,
+          "lineNo": 122
+        },
+        {
+          "type": "verseLine",
+          "text": "To thee the swain his yearly vows shall make;",
+          "indent": 0,
+          "lineNo": 123
+        },
+        {
+          "type": "verseLine",
+          "text": "And thou thereof, like them, shalt quittance claim.\"",
+          "indent": 0,
+          "lineNo": 124
+        },
+        {
+          "type": "verseLine",
+          "text": "Mopsus.",
+          "indent": 0,
+          "lineNo": 125
+        },
+        {
+          "type": "verseLine",
+          "text": "How, how repay thee for a song so rare?",
+          "indent": 0,
+          "lineNo": 126
+        },
+        {
+          "type": "verseLine",
+          "text": "For not the whispering south-wind on its way",
+          "indent": 0,
+          "lineNo": 127
+        },
+        {
+          "type": "verseLine",
+          "text": "So much delights me, nor wave-smitten beach,",
+          "indent": 0,
+          "lineNo": 128
+        },
+        {
+          "type": "verseLine",
+          "text": "Nor streams that race adown their bouldered beds.",
+          "indent": 0,
+          "lineNo": 129
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas.",
+          "indent": 0,
+          "lineNo": 130
+        },
+        {
+          "type": "verseLine",
+          "text": "First this frail hemlock-stalk to you I give,",
+          "indent": 0,
+          "lineNo": 131
+        },
+        {
+          "type": "verseLine",
+          "text": "Which taught me \"Corydon with love was fired",
+          "indent": 0,
+          "lineNo": 132
+        },
+        {
+          "type": "verseLine",
+          "text": "For fair Alexis,\" ay, and this beside,",
+          "indent": 0,
+          "lineNo": 133
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Who owns the flock?- Meliboeus?\"",
+          "indent": 0,
+          "lineNo": 134
+        },
+        {
+          "type": "verseLine",
+          "text": "Mopsus.",
+          "indent": 0,
+          "lineNo": 135
+        },
+        {
+          "type": "verseLine",
+          "text": "But take you",
+          "indent": 0,
+          "lineNo": 136
+        },
+        {
+          "type": "verseLine",
+          "text": "This shepherd's crook, which, howso hard he begged,",
+          "indent": 0,
+          "lineNo": 137
+        },
+        {
+          "type": "verseLine",
+          "text": "Antigenes, then worthy to be loved,",
+          "indent": 0,
+          "lineNo": 138
+        },
+        {
+          "type": "verseLine",
+          "text": "Prevailed not to obtain- with brass, you see,",
+          "indent": 0,
+          "lineNo": 139
+        },
+        {
+          "type": "verseLine",
+          "text": "And equal knots, Menalcas, fashioned fair!",
+          "indent": 0,
+          "lineNo": 140
+        }
+      ]
+    },
+    {
+      "seq": 6,
+      "id": "eclogue-eclogue-vi",
+      "heading": "Eclogue VI",
+      "partTitle": "Eclogue VI",
+      "blocks": [
+        {
+          "type": "verseLine",
+          "text": "TO VARUS",
+          "indent": 0,
+          "lineNo": 10
+        },
+        {
+          "type": "verseLine",
+          "text": "First my Thalia stooped in sportive mood",
+          "indent": 0,
+          "lineNo": 11
+        },
+        {
+          "type": "verseLine",
+          "text": "To Syracusan strains, nor blushed within",
+          "indent": 0,
+          "lineNo": 12
+        },
+        {
+          "type": "verseLine",
+          "text": "The woods to house her. When I sought to tell",
+          "indent": 0,
+          "lineNo": 13
+        },
+        {
+          "type": "verseLine",
+          "text": "Of battles and of kings, the Cynthian god",
+          "indent": 0,
+          "lineNo": 14
+        },
+        {
+          "type": "verseLine",
+          "text": "Plucked at mine ear and warned me: \"Tityrus,",
+          "indent": 0,
+          "lineNo": 15
+        },
+        {
+          "type": "verseLine",
+          "text": "Beseems a shepherd-wight to feed fat sheep,",
+          "indent": 0,
+          "lineNo": 16
+        },
+        {
+          "type": "verseLine",
+          "text": "But sing a slender song.\" Now, Varus, I-",
+          "indent": 0,
+          "lineNo": 17
+        },
+        {
+          "type": "verseLine",
+          "text": "For lack there will not who would laud thy deeds,",
+          "indent": 0,
+          "lineNo": 18
+        },
+        {
+          "type": "verseLine",
+          "text": "And treat of dolorous wars- will rather tune",
+          "indent": 0,
+          "lineNo": 19
+        },
+        {
+          "type": "verseLine",
+          "text": "To the slim oaten reed my silvan lay.",
+          "indent": 0,
+          "lineNo": 20
+        },
+        {
+          "type": "verseLine",
+          "text": "I sing but as vouchsafed me; yet even this",
+          "indent": 0,
+          "lineNo": 21
+        },
+        {
+          "type": "verseLine",
+          "text": "If, if but one with ravished eyes should read,",
+          "indent": 0,
+          "lineNo": 22
+        },
+        {
+          "type": "verseLine",
+          "text": "Of thee, O Varus, shall our tamarisks",
+          "indent": 0,
+          "lineNo": 23
+        },
+        {
+          "type": "verseLine",
+          "text": "And all the woodland ring; nor can there be",
+          "indent": 0,
+          "lineNo": 24
+        },
+        {
+          "type": "verseLine",
+          "text": "A page more dear to Phoebus, than the page",
+          "indent": 0,
+          "lineNo": 25
+        },
+        {
+          "type": "verseLine",
+          "text": "Where, foremost writ, the name of Varus stands.",
+          "indent": 0,
+          "lineNo": 26
+        },
+        {
+          "type": "verseLine",
+          "text": "Speed ye, Pierian Maids! Within a cave",
+          "indent": 0,
+          "lineNo": 27
+        },
+        {
+          "type": "verseLine",
+          "text": "Young Chromis and Mnasyllos chanced to see",
+          "indent": 0,
+          "lineNo": 28
+        },
+        {
+          "type": "verseLine",
+          "text": "Silenus sleeping, flushed, as was his wont,",
+          "indent": 0,
+          "lineNo": 29
+        },
+        {
+          "type": "verseLine",
+          "text": "With wine of yesterday. Not far aloof,",
+          "indent": 0,
+          "lineNo": 30
+        },
+        {
+          "type": "verseLine",
+          "text": "Slipped from his head, the garlands lay, and there",
+          "indent": 0,
+          "lineNo": 31
+        },
+        {
+          "type": "verseLine",
+          "text": "By its worn handle hung a ponderous cup.",
+          "indent": 0,
+          "lineNo": 32
+        },
+        {
+          "type": "verseLine",
+          "text": "Approaching- for the old man many a time",
+          "indent": 0,
+          "lineNo": 33
+        },
+        {
+          "type": "verseLine",
+          "text": "Had balked them both of a long hoped-for song-",
+          "indent": 0,
+          "lineNo": 34
+        },
+        {
+          "type": "verseLine",
+          "text": "Garlands to fetters turned, they bind him fast.",
+          "indent": 0,
+          "lineNo": 35
+        },
+        {
+          "type": "verseLine",
+          "text": "Then Aegle, fairest of the Naiad-band,",
+          "indent": 0,
+          "lineNo": 36
+        },
+        {
+          "type": "verseLine",
+          "text": "Aegle came up to the half-frightened boys,",
+          "indent": 0,
+          "lineNo": 37
+        },
+        {
+          "type": "verseLine",
+          "text": "Came, and, as now with open eyes he lay,",
+          "indent": 0,
+          "lineNo": 38
+        },
+        {
+          "type": "verseLine",
+          "text": "With juice of blood-red mulberries smeared him o'er,",
+          "indent": 0,
+          "lineNo": 39
+        },
+        {
+          "type": "verseLine",
+          "text": "Both brow and temples. Laughing at their guile,",
+          "indent": 0,
+          "lineNo": 40
+        },
+        {
+          "type": "verseLine",
+          "text": "And crying, \"Why tie the fetters? loose me, boys;",
+          "indent": 0,
+          "lineNo": 41
+        },
+        {
+          "type": "verseLine",
+          "text": "Enough for you to think you had the power;",
+          "indent": 0,
+          "lineNo": 42
+        },
+        {
+          "type": "verseLine",
+          "text": "Now list the songs you wish for- songs for you,",
+          "indent": 0,
+          "lineNo": 43
+        },
+        {
+          "type": "verseLine",
+          "text": "Another meed for her\" -forthwith began.",
+          "indent": 0,
+          "lineNo": 44
+        },
+        {
+          "type": "verseLine",
+          "text": "Then might you see the wild things of the wood,",
+          "indent": 0,
+          "lineNo": 45
+        },
+        {
+          "type": "verseLine",
+          "text": "With Fauns in sportive frolic beat the time,",
+          "indent": 0,
+          "lineNo": 46
+        },
+        {
+          "type": "verseLine",
+          "text": "And stubborn oaks their branchy summits bow.",
+          "indent": 0,
+          "lineNo": 47
+        },
+        {
+          "type": "verseLine",
+          "text": "Not Phoebus doth the rude Parnassian crag",
+          "indent": 0,
+          "lineNo": 48
+        },
+        {
+          "type": "verseLine",
+          "text": "So ravish, nor Orpheus so entrance the heights",
+          "indent": 0,
+          "lineNo": 49
+        },
+        {
+          "type": "verseLine",
+          "text": "Of Rhodope or Ismarus: for he sang",
+          "indent": 0,
+          "lineNo": 50
+        },
+        {
+          "type": "verseLine",
+          "text": "How through the mighty void the seeds were driven",
+          "indent": 0,
+          "lineNo": 51
+        },
+        {
+          "type": "verseLine",
+          "text": "Of earth, air, ocean, and of liquid fire,",
+          "indent": 0,
+          "lineNo": 52
+        },
+        {
+          "type": "verseLine",
+          "text": "How all that is from these beginnings grew,",
+          "indent": 0,
+          "lineNo": 53
+        },
+        {
+          "type": "verseLine",
+          "text": "And the young world itself took solid shape,",
+          "indent": 0,
+          "lineNo": 54
+        },
+        {
+          "type": "verseLine",
+          "text": "Then 'gan its crust to harden, and in the deep",
+          "indent": 0,
+          "lineNo": 55
+        },
+        {
+          "type": "verseLine",
+          "text": "Shut Nereus off, and mould the forms of things",
+          "indent": 0,
+          "lineNo": 56
+        },
+        {
+          "type": "verseLine",
+          "text": "Little by little; and how the earth amazed",
+          "indent": 0,
+          "lineNo": 57
+        },
+        {
+          "type": "verseLine",
+          "text": "Beheld the new sun shining, and the showers",
+          "indent": 0,
+          "lineNo": 58
+        },
+        {
+          "type": "verseLine",
+          "text": "Fall, as the clouds soared higher, what time the",
+          "indent": 0,
+          "lineNo": 59
+        },
+        {
+          "type": "verseLine",
+          "text": "woods",
+          "indent": 0,
+          "lineNo": 60
+        },
+        {
+          "type": "verseLine",
+          "text": "'Gan first to rise, and living things to roam",
+          "indent": 0,
+          "lineNo": 61
+        },
+        {
+          "type": "verseLine",
+          "text": "Scattered among the hills that knew them not.",
+          "indent": 0,
+          "lineNo": 62
+        },
+        {
+          "type": "verseLine",
+          "text": "Then sang he of the stones by Pyrrha cast,",
+          "indent": 0,
+          "lineNo": 63
+        },
+        {
+          "type": "verseLine",
+          "text": "Of Saturn's reign, and of Prometheus' theft,",
+          "indent": 0,
+          "lineNo": 64
+        },
+        {
+          "type": "verseLine",
+          "text": "And the Caucasian birds, and told withal",
+          "indent": 0,
+          "lineNo": 65
+        },
+        {
+          "type": "verseLine",
+          "text": "Nigh to what fountain by his comrades left",
+          "indent": 0,
+          "lineNo": 66
+        },
+        {
+          "type": "verseLine",
+          "text": "The mariners cried on Hylas till the shore",
+          "indent": 0,
+          "lineNo": 67
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Then Re-echoed \"Hylas, Hylas! soothed",
+          "indent": 0,
+          "lineNo": 68
+        },
+        {
+          "type": "verseLine",
+          "text": "Pasiphae with the love of her white bull-",
+          "indent": 0,
+          "lineNo": 69
+        },
+        {
+          "type": "verseLine",
+          "text": "Happy if cattle-kind had never been!-",
+          "indent": 0,
+          "lineNo": 70
+        },
+        {
+          "type": "verseLine",
+          "text": "O ill-starred maid, what frenzy caught thy soul",
+          "indent": 0,
+          "lineNo": 71
+        },
+        {
+          "type": "verseLine",
+          "text": "The daughters too of Proetus filled the fields",
+          "indent": 0,
+          "lineNo": 72
+        },
+        {
+          "type": "verseLine",
+          "text": "With their feigned lowings, yet no one of them",
+          "indent": 0,
+          "lineNo": 73
+        },
+        {
+          "type": "verseLine",
+          "text": "Of such unhallowed union e'er was fain",
+          "indent": 0,
+          "lineNo": 74
+        },
+        {
+          "type": "verseLine",
+          "text": "As with a beast to mate, though many a time",
+          "indent": 0,
+          "lineNo": 75
+        },
+        {
+          "type": "verseLine",
+          "text": "On her smooth forehead she had sought for horns,",
+          "indent": 0,
+          "lineNo": 76
+        },
+        {
+          "type": "verseLine",
+          "text": "And for her neck had feared the galling plough.",
+          "indent": 0,
+          "lineNo": 77
+        },
+        {
+          "type": "verseLine",
+          "text": "O ill-starred maid! thou roamest now the hills,",
+          "indent": 0,
+          "lineNo": 78
+        },
+        {
+          "type": "verseLine",
+          "text": "While on soft hyacinths he, his snowy side",
+          "indent": 0,
+          "lineNo": 79
+        },
+        {
+          "type": "verseLine",
+          "text": "Reposing, under some dark ilex now",
+          "indent": 0,
+          "lineNo": 80
+        },
+        {
+          "type": "verseLine",
+          "text": "Chews the pale herbage, or some heifer tracks",
+          "indent": 0,
+          "lineNo": 81
+        },
+        {
+          "type": "verseLine",
+          "text": "Amid the crowding herd. Now close, ye Nymphs,",
+          "indent": 0,
+          "lineNo": 82
+        },
+        {
+          "type": "verseLine",
+          "text": "Ye Nymphs of Dicte, close the forest-glades,",
+          "indent": 0,
+          "lineNo": 83
+        },
+        {
+          "type": "verseLine",
+          "text": "If haply there may chance upon mine eyes",
+          "indent": 0,
+          "lineNo": 84
+        },
+        {
+          "type": "verseLine",
+          "text": "The white bull's wandering foot-prints: him belike",
+          "indent": 0,
+          "lineNo": 85
+        },
+        {
+          "type": "verseLine",
+          "text": "Following the herd, or by green pasture lured,",
+          "indent": 0,
+          "lineNo": 86
+        },
+        {
+          "type": "verseLine",
+          "text": "Some kine may guide to the Gortynian stalls.",
+          "indent": 0,
+          "lineNo": 87
+        },
+        {
+          "type": "verseLine",
+          "text": "Then sings he of the maid so wonder-struck",
+          "indent": 0,
+          "lineNo": 88
+        },
+        {
+          "type": "verseLine",
+          "text": "With the apples of the Hesperids, and then",
+          "indent": 0,
+          "lineNo": 89
+        },
+        {
+          "type": "verseLine",
+          "text": "With moss-bound, bitter bark rings round the forms",
+          "indent": 0,
+          "lineNo": 90
+        },
+        {
+          "type": "verseLine",
+          "text": "Of Phaethon's fair sisters, from the ground",
+          "indent": 0,
+          "lineNo": 91
+        },
+        {
+          "type": "verseLine",
+          "text": "Up-towering into poplars. Next he sings",
+          "indent": 0,
+          "lineNo": 92
+        },
+        {
+          "type": "verseLine",
+          "text": "Of Gallus wandering by Permessus' stream,",
+          "indent": 0,
+          "lineNo": 93
+        },
+        {
+          "type": "verseLine",
+          "text": "And by a sister of the Muses led",
+          "indent": 0,
+          "lineNo": 94
+        },
+        {
+          "type": "verseLine",
+          "text": "To the Aonian mountains, and how all",
+          "indent": 0,
+          "lineNo": 95
+        },
+        {
+          "type": "verseLine",
+          "text": "The choir of Phoebus rose to greet him; how",
+          "indent": 0,
+          "lineNo": 96
+        },
+        {
+          "type": "verseLine",
+          "text": "The shepherd Linus, singer of songs divine,",
+          "indent": 0,
+          "lineNo": 97
+        },
+        {
+          "type": "verseLine",
+          "text": "Brow-bound with flowers and bitter parsley, spake:",
+          "indent": 0,
+          "lineNo": 98
+        },
+        {
+          "type": "verseLine",
+          "text": "\"These reeds the Muses give thee, take them thou,",
+          "indent": 0,
+          "lineNo": 99
+        },
+        {
+          "type": "verseLine",
+          "text": "Erst to the aged bard of Ascra given,",
+          "indent": 0,
+          "lineNo": 100
+        },
+        {
+          "type": "verseLine",
+          "text": "Wherewith in singing he was wont to draw",
+          "indent": 0,
+          "lineNo": 101
+        },
+        {
+          "type": "verseLine",
+          "text": "Time-rooted ash-trees from the mountain heights.",
+          "indent": 0,
+          "lineNo": 102
+        },
+        {
+          "type": "verseLine",
+          "text": "With these the birth of the Grynean grove",
+          "indent": 0,
+          "lineNo": 103
+        },
+        {
+          "type": "verseLine",
+          "text": "Be voiced by thee, that of no grove beside",
+          "indent": 0,
+          "lineNo": 104
+        },
+        {
+          "type": "verseLine",
+          "text": "Apollo more may boast him.\" Wherefore speak",
+          "indent": 0,
+          "lineNo": 105
+        },
+        {
+          "type": "verseLine",
+          "text": "Of Scylla, child of Nisus, who, 'tis said,",
+          "indent": 0,
+          "lineNo": 106
+        },
+        {
+          "type": "verseLine",
+          "text": "Her fair white loins with barking monsters girt",
+          "indent": 0,
+          "lineNo": 107
+        },
+        {
+          "type": "verseLine",
+          "text": "Vexed the Dulichian ships, and, in the deep",
+          "indent": 0,
+          "lineNo": 108
+        },
+        {
+          "type": "verseLine",
+          "text": "Swift-eddying whirlpool, with her sea-dogs tore",
+          "indent": 0,
+          "lineNo": 109
+        },
+        {
+          "type": "verseLine",
+          "text": "The trembling mariners? or how he told",
+          "indent": 0,
+          "lineNo": 110
+        },
+        {
+          "type": "verseLine",
+          "text": "Of the changed limbs of Tereus- what a feast,",
+          "indent": 0,
+          "lineNo": 111
+        },
+        {
+          "type": "verseLine",
+          "text": "What gifts, to him by Philomel were given;",
+          "indent": 0,
+          "lineNo": 112
+        },
+        {
+          "type": "verseLine",
+          "text": "How swift she sought the desert, with what wings",
+          "indent": 0,
+          "lineNo": 113
+        },
+        {
+          "type": "verseLine",
+          "text": "Hovered in anguish o'er her ancient home?",
+          "indent": 0,
+          "lineNo": 114
+        },
+        {
+          "type": "verseLine",
+          "text": "All that, of old, Eurotas, happy stream,",
+          "indent": 0,
+          "lineNo": 115
+        },
+        {
+          "type": "verseLine",
+          "text": "Heard, as Apollo mused upon the lyre,",
+          "indent": 0,
+          "lineNo": 116
+        },
+        {
+          "type": "verseLine",
+          "text": "And bade his laurels learn, Silenus sang;",
+          "indent": 0,
+          "lineNo": 117
+        },
+        {
+          "type": "verseLine",
+          "text": "Till from Olympus, loth at his approach,",
+          "indent": 0,
+          "lineNo": 118
+        },
+        {
+          "type": "verseLine",
+          "text": "Vesper, advancing, bade the shepherds tell",
+          "indent": 0,
+          "lineNo": 119
+        },
+        {
+          "type": "verseLine",
+          "text": "Their tale of sheep, and pen them in the fold.",
+          "indent": 0,
+          "lineNo": 120
+        }
+      ]
+    },
+    {
+      "seq": 7,
+      "id": "eclogue-eclogue-vii",
+      "heading": "Eclogue VII",
+      "partTitle": "Eclogue VII",
+      "blocks": [
+        {
+          "type": "verseLine",
+          "text": "MELIBOEUS, CORYDON, THYRSIS",
+          "indent": 0,
+          "lineNo": 10
+        },
+        {
+          "type": "verseLine",
+          "text": "Daphnis beneath a rustling ilex-tree",
+          "indent": 0,
+          "lineNo": 11
+        },
+        {
+          "type": "verseLine",
+          "text": "Had sat him down; Thyrsis and Corydon",
+          "indent": 0,
+          "lineNo": 12
+        },
+        {
+          "type": "verseLine",
+          "text": "Had gathered in the flock, Thyrsis the sheep,",
+          "indent": 0,
+          "lineNo": 13
+        },
+        {
+          "type": "verseLine",
+          "text": "And Corydon the she-goats swollen with milk-",
+          "indent": 0,
+          "lineNo": 14
+        },
+        {
+          "type": "verseLine",
+          "text": "Both in the flower of age, Arcadians both,",
+          "indent": 0,
+          "lineNo": 15
+        },
+        {
+          "type": "verseLine",
+          "text": "Ready to sing, and in like strain reply.",
+          "indent": 0,
+          "lineNo": 16
+        },
+        {
+          "type": "verseLine",
+          "text": "Hither had strayed, while from the frost I fend",
+          "indent": 0,
+          "lineNo": 17
+        },
+        {
+          "type": "verseLine",
+          "text": "My tender myrtles, the he-goat himself,",
+          "indent": 0,
+          "lineNo": 18
+        },
+        {
+          "type": "verseLine",
+          "text": "Lord of the flock; when Daphnis I espy!",
+          "indent": 0,
+          "lineNo": 19
+        },
+        {
+          "type": "verseLine",
+          "text": "Soon as he saw me, \"Hither haste,\" he cried,",
+          "indent": 0,
+          "lineNo": 20
+        },
+        {
+          "type": "verseLine",
+          "text": "\"O Meliboeus! goat and kids are safe;",
+          "indent": 0,
+          "lineNo": 21
+        },
+        {
+          "type": "verseLine",
+          "text": "And, if you have an idle hour to spare,",
+          "indent": 0,
+          "lineNo": 22
+        },
+        {
+          "type": "verseLine",
+          "text": "Rest here beneath the shade. Hither the steers",
+          "indent": 0,
+          "lineNo": 23
+        },
+        {
+          "type": "verseLine",
+          "text": "Will through the meadows, of their own free will,",
+          "indent": 0,
+          "lineNo": 24
+        },
+        {
+          "type": "verseLine",
+          "text": "Untended come to drink. Here Mincius hath",
+          "indent": 0,
+          "lineNo": 25
+        },
+        {
+          "type": "verseLine",
+          "text": "With tender rushes rimmed his verdant banks,",
+          "indent": 0,
+          "lineNo": 26
+        },
+        {
+          "type": "verseLine",
+          "text": "And from yon sacred oak with busy hum",
+          "indent": 0,
+          "lineNo": 27
+        },
+        {
+          "type": "verseLine",
+          "text": "The bees are swarming.\" What was I to do?",
+          "indent": 0,
+          "lineNo": 28
+        },
+        {
+          "type": "verseLine",
+          "text": "No Phyllis or Alcippe left at home",
+          "indent": 0,
+          "lineNo": 29
+        },
+        {
+          "type": "verseLine",
+          "text": "Had I, to shelter my new-weaned lambs,",
+          "indent": 0,
+          "lineNo": 30
+        },
+        {
+          "type": "verseLine",
+          "text": "And no slight matter was a singing-bout",
+          "indent": 0,
+          "lineNo": 31
+        },
+        {
+          "type": "verseLine",
+          "text": "'Twixt Corydon and Thyrsis. Howsoe'er,",
+          "indent": 0,
+          "lineNo": 32
+        },
+        {
+          "type": "verseLine",
+          "text": "I let my business wait upon their sport.",
+          "indent": 0,
+          "lineNo": 33
+        },
+        {
+          "type": "verseLine",
+          "text": "So they began to sing, voice answering voice",
+          "indent": 0,
+          "lineNo": 34
+        },
+        {
+          "type": "verseLine",
+          "text": "In strains alternate- for alternate strains",
+          "indent": 0,
+          "lineNo": 35
+        },
+        {
+          "type": "verseLine",
+          "text": "The Muses then were minded to recall-",
+          "indent": 0,
+          "lineNo": 36
+        },
+        {
+          "type": "verseLine",
+          "text": "First Corydon, then Thyrsis in reply.",
+          "indent": 0,
+          "lineNo": 37
+        },
+        {
+          "type": "verseLine",
+          "text": "Corydon.",
+          "indent": 0,
+          "lineNo": 38
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Libethrian Nymphs, who are my heart's delight,",
+          "indent": 0,
+          "lineNo": 39
+        },
+        {
+          "type": "verseLine",
+          "text": "Grant me, as doth my Codrus, so to sing-",
+          "indent": 0,
+          "lineNo": 40
+        },
+        {
+          "type": "verseLine",
+          "text": "Next to Apollo he- or if to this",
+          "indent": 0,
+          "lineNo": 41
+        },
+        {
+          "type": "verseLine",
+          "text": "We may not all attain, my tuneful pipe",
+          "indent": 0,
+          "lineNo": 42
+        },
+        {
+          "type": "verseLine",
+          "text": "Here on this sacred pine shall silent hang.\"",
+          "indent": 0,
+          "lineNo": 43
+        },
+        {
+          "type": "verseLine",
+          "text": "Thyrsis.",
+          "indent": 0,
+          "lineNo": 44
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Arcadian shepherds, wreathe with ivy-spray",
+          "indent": 0,
+          "lineNo": 45
+        },
+        {
+          "type": "verseLine",
+          "text": "Your budding poet, so that Codrus burst",
+          "indent": 0,
+          "lineNo": 46
+        },
+        {
+          "type": "verseLine",
+          "text": "With envy: if he praise beyond my due,",
+          "indent": 0,
+          "lineNo": 47
+        },
+        {
+          "type": "verseLine",
+          "text": "Then bind my brow with foxglove, lest his tongue",
+          "indent": 0,
+          "lineNo": 48
+        },
+        {
+          "type": "verseLine",
+          "text": "With evil omen blight the coming bard.\"",
+          "indent": 0,
+          "lineNo": 49
+        },
+        {
+          "type": "verseLine",
+          "text": "Corydon.",
+          "indent": 0,
+          "lineNo": 50
+        },
+        {
+          "type": "verseLine",
+          "text": "\"This bristling boar's head, Delian Maid, to thee,",
+          "indent": 0,
+          "lineNo": 51
+        },
+        {
+          "type": "verseLine",
+          "text": "With branching antlers of a sprightly stag,",
+          "indent": 0,
+          "lineNo": 52
+        },
+        {
+          "type": "verseLine",
+          "text": "Young Micon offers: if his luck but hold,",
+          "indent": 0,
+          "lineNo": 53
+        },
+        {
+          "type": "verseLine",
+          "text": "Full-length in polished marble, ankle-bound",
+          "indent": 0,
+          "lineNo": 54
+        },
+        {
+          "type": "verseLine",
+          "text": "With purple buskin, shall thy statue stand.\"",
+          "indent": 0,
+          "lineNo": 55
+        },
+        {
+          "type": "verseLine",
+          "text": "Thyrsis.",
+          "indent": 0,
+          "lineNo": 56
+        },
+        {
+          "type": "verseLine",
+          "text": "\"A bowl of milk, Priapus, and these cakes,",
+          "indent": 0,
+          "lineNo": 57
+        },
+        {
+          "type": "verseLine",
+          "text": "Yearly, it is enough for thee to claim;",
+          "indent": 0,
+          "lineNo": 58
+        },
+        {
+          "type": "verseLine",
+          "text": "Thou art the guardian of a poor man's plot.",
+          "indent": 0,
+          "lineNo": 59
+        },
+        {
+          "type": "verseLine",
+          "text": "Wrought for a while in marble, if the flock",
+          "indent": 0,
+          "lineNo": 60
+        },
+        {
+          "type": "verseLine",
+          "text": "At lambing time be filled,stand there in gold.\"",
+          "indent": 0,
+          "lineNo": 61
+        },
+        {
+          "type": "verseLine",
+          "text": "Corydon.",
+          "indent": 0,
+          "lineNo": 62
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Daughter of Nereus, Galatea mine,",
+          "indent": 0,
+          "lineNo": 63
+        },
+        {
+          "type": "verseLine",
+          "text": "Sweeter than Hybla-thyme, more white than swans,",
+          "indent": 0,
+          "lineNo": 64
+        },
+        {
+          "type": "verseLine",
+          "text": "Fairer than ivy pale, soon as the steers",
+          "indent": 0,
+          "lineNo": 65
+        },
+        {
+          "type": "verseLine",
+          "text": "Shall from their pasture to the stalls repair,",
+          "indent": 0,
+          "lineNo": 66
+        },
+        {
+          "type": "verseLine",
+          "text": "If aught for Corydon thou carest, come.\"",
+          "indent": 0,
+          "lineNo": 67
+        },
+        {
+          "type": "verseLine",
+          "text": "Thyrsis.",
+          "indent": 0,
+          "lineNo": 68
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Now may I seem more bitter to your taste",
+          "indent": 0,
+          "lineNo": 69
+        },
+        {
+          "type": "verseLine",
+          "text": "Than herb Sardinian, rougher than the broom,",
+          "indent": 0,
+          "lineNo": 70
+        },
+        {
+          "type": "verseLine",
+          "text": "More worthless than strewn sea-weed, if to-day",
+          "indent": 0,
+          "lineNo": 71
+        },
+        {
+          "type": "verseLine",
+          "text": "Hath not a year out-lasted! Fie for shame!",
+          "indent": 0,
+          "lineNo": 72
+        },
+        {
+          "type": "verseLine",
+          "text": "Go home, my cattle, from your grazing go!\"",
+          "indent": 0,
+          "lineNo": 73
+        },
+        {
+          "type": "verseLine",
+          "text": "Corydon.",
+          "indent": 0,
+          "lineNo": 74
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Ye mossy springs, and grass more soft than sleep,",
+          "indent": 0,
+          "lineNo": 75
+        },
+        {
+          "type": "verseLine",
+          "text": "And arbute green with thin shade sheltering you,",
+          "indent": 0,
+          "lineNo": 76
+        },
+        {
+          "type": "verseLine",
+          "text": "Ward off the solstice from my flock, for now",
+          "indent": 0,
+          "lineNo": 77
+        },
+        {
+          "type": "verseLine",
+          "text": "Comes on the burning summer, now the buds",
+          "indent": 0,
+          "lineNo": 78
+        },
+        {
+          "type": "verseLine",
+          "text": "Upon the limber vine-shoot 'gin to swell.\"",
+          "indent": 0,
+          "lineNo": 79
+        },
+        {
+          "type": "verseLine",
+          "text": "Thyrsis.",
+          "indent": 0,
+          "lineNo": 80
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Here is a hearth, and resinous logs, here fire",
+          "indent": 0,
+          "lineNo": 81
+        },
+        {
+          "type": "verseLine",
+          "text": "Unstinted, and doors black with ceaseless smoke.",
+          "indent": 0,
+          "lineNo": 82
+        },
+        {
+          "type": "verseLine",
+          "text": "Here heed we Boreas' icy breath as much",
+          "indent": 0,
+          "lineNo": 83
+        },
+        {
+          "type": "verseLine",
+          "text": "As the wolf heeds the number of the flock,",
+          "indent": 0,
+          "lineNo": 84
+        },
+        {
+          "type": "verseLine",
+          "text": "Or furious rivers their restraining banks.\"",
+          "indent": 0,
+          "lineNo": 85
+        },
+        {
+          "type": "verseLine",
+          "text": "Corydon.",
+          "indent": 0,
+          "lineNo": 86
+        },
+        {
+          "type": "verseLine",
+          "text": "\"The junipers and prickly chestnuts stand,",
+          "indent": 0,
+          "lineNo": 87
+        },
+        {
+          "type": "verseLine",
+          "text": "And 'neath each tree lie strewn their several fruits,",
+          "indent": 0,
+          "lineNo": 88
+        },
+        {
+          "type": "verseLine",
+          "text": "Now the whole world is smiling, but if fair",
+          "indent": 0,
+          "lineNo": 89
+        },
+        {
+          "type": "verseLine",
+          "text": "Alexis from these hill-slopes should away,",
+          "indent": 0,
+          "lineNo": 90
+        },
+        {
+          "type": "verseLine",
+          "text": "Even the rivers you would ; see run dry.\"",
+          "indent": 0,
+          "lineNo": 91
+        },
+        {
+          "type": "verseLine",
+          "text": "Thyrsis.",
+          "indent": 0,
+          "lineNo": 92
+        },
+        {
+          "type": "verseLine",
+          "text": "\"The field is parched, the grass-blades thirst to",
+          "indent": 0,
+          "lineNo": 93
+        },
+        {
+          "type": "verseLine",
+          "text": "death",
+          "indent": 0,
+          "lineNo": 94
+        },
+        {
+          "type": "verseLine",
+          "text": "In the faint air; Liber hath grudged the hills",
+          "indent": 0,
+          "lineNo": 95
+        },
+        {
+          "type": "verseLine",
+          "text": "His vine's o'er-shadowing: should my Phyllis come,",
+          "indent": 0,
+          "lineNo": 96
+        },
+        {
+          "type": "verseLine",
+          "text": "Green will be all the grove, and Jupiter",
+          "indent": 0,
+          "lineNo": 97
+        },
+        {
+          "type": "verseLine",
+          "text": "Descend in floods of fertilizing rain.\"",
+          "indent": 0,
+          "lineNo": 98
+        },
+        {
+          "type": "verseLine",
+          "text": "Corydon.",
+          "indent": 0,
+          "lineNo": 99
+        },
+        {
+          "type": "verseLine",
+          "text": "\"The poplar doth Alcides hold most dear,",
+          "indent": 0,
+          "lineNo": 100
+        },
+        {
+          "type": "verseLine",
+          "text": "The vine Iacchus, Phoebus his own bays,",
+          "indent": 0,
+          "lineNo": 101
+        },
+        {
+          "type": "verseLine",
+          "text": "And Venus fair the myrtle: therewithal",
+          "indent": 0,
+          "lineNo": 102
+        },
+        {
+          "type": "verseLine",
+          "text": "Phyllis doth hazels love, and while she loves,",
+          "indent": 0,
+          "lineNo": 103
+        },
+        {
+          "type": "verseLine",
+          "text": "Myrtle nor bay the hazel shall out-vie.\"",
+          "indent": 0,
+          "lineNo": 104
+        },
+        {
+          "type": "verseLine",
+          "text": "Thyrsis.",
+          "indent": 0,
+          "lineNo": 105
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Ash in the forest is most beautiful,",
+          "indent": 0,
+          "lineNo": 106
+        },
+        {
+          "type": "verseLine",
+          "text": "Pine in the garden, poplar by the stream,",
+          "indent": 0,
+          "lineNo": 107
+        },
+        {
+          "type": "verseLine",
+          "text": "Fir on the mountain-height; but if more oft",
+          "indent": 0,
+          "lineNo": 108
+        },
+        {
+          "type": "verseLine",
+          "text": "Thou'ldst come to me, fair Lycidas, to thee",
+          "indent": 0,
+          "lineNo": 109
+        },
+        {
+          "type": "verseLine",
+          "text": "Both forest-ash, and garden-pine should bow.\"",
+          "indent": 0,
+          "lineNo": 110
+        },
+        {
+          "type": "verseLine",
+          "text": "Meliboeus.",
+          "indent": 0,
+          "lineNo": 111
+        },
+        {
+          "type": "verseLine",
+          "text": "These I remember, and how Thyrsis strove",
+          "indent": 0,
+          "lineNo": 112
+        },
+        {
+          "type": "verseLine",
+          "text": "For victory in vain. From that time forth",
+          "indent": 0,
+          "lineNo": 113
+        },
+        {
+          "type": "verseLine",
+          "text": "Is Corydon still Corydon with us.",
+          "indent": 0,
+          "lineNo": 114
+        }
+      ]
+    },
+    {
+      "seq": 8,
+      "id": "eclogue-eclogue-viii",
+      "heading": "Eclogue VIII",
+      "partTitle": "Eclogue VIII",
+      "blocks": [
+        {
+          "type": "verseLine",
+          "text": "TO POLLIO, DAMON, ALPHESIBOEUS",
+          "indent": 0,
+          "lineNo": 10
+        },
+        {
+          "type": "verseLine",
+          "text": "Of Damon and Alphesiboeus now,",
+          "indent": 0,
+          "lineNo": 11
+        },
+        {
+          "type": "verseLine",
+          "text": "Those shepherd-singers at whose rival strains",
+          "indent": 0,
+          "lineNo": 12
+        },
+        {
+          "type": "verseLine",
+          "text": "The heifer wondering forgot to graze,",
+          "indent": 0,
+          "lineNo": 13
+        },
+        {
+          "type": "verseLine",
+          "text": "The lynx stood awe-struck, and the flowing streams,",
+          "indent": 0,
+          "lineNo": 14
+        },
+        {
+          "type": "verseLine",
+          "text": "Unwonted loiterers, stayed their course to hear-",
+          "indent": 0,
+          "lineNo": 15
+        },
+        {
+          "type": "verseLine",
+          "text": "How Damon and Alphesiboeus sang",
+          "indent": 0,
+          "lineNo": 16
+        },
+        {
+          "type": "verseLine",
+          "text": "Their pastoral ditties, will I tell the tale.",
+          "indent": 0,
+          "lineNo": 17
+        },
+        {
+          "type": "verseLine",
+          "text": "Thou, whether broad Timavus' rocky banks",
+          "indent": 0,
+          "lineNo": 18
+        },
+        {
+          "type": "verseLine",
+          "text": "Thou now art passing, or dost skirt the shore",
+          "indent": 0,
+          "lineNo": 19
+        },
+        {
+          "type": "verseLine",
+          "text": "Of the Illyrian main,- will ever dawn",
+          "indent": 0,
+          "lineNo": 20
+        },
+        {
+          "type": "verseLine",
+          "text": "That day when I thy deeds may celebrate,",
+          "indent": 0,
+          "lineNo": 21
+        },
+        {
+          "type": "verseLine",
+          "text": "Ever that day when through the whole wide world",
+          "indent": 0,
+          "lineNo": 22
+        },
+        {
+          "type": "verseLine",
+          "text": "I may renown thy verse- that verse alone",
+          "indent": 0,
+          "lineNo": 23
+        },
+        {
+          "type": "verseLine",
+          "text": "Of Sophoclean buskin worthy found?",
+          "indent": 0,
+          "lineNo": 24
+        },
+        {
+          "type": "verseLine",
+          "text": "With thee began, to thee shall end, the strain.",
+          "indent": 0,
+          "lineNo": 25
+        },
+        {
+          "type": "verseLine",
+          "text": "Take thou these songs that owe their birth to thee,",
+          "indent": 0,
+          "lineNo": 26
+        },
+        {
+          "type": "verseLine",
+          "text": "And deign around thy temples to let creep",
+          "indent": 0,
+          "lineNo": 27
+        },
+        {
+          "type": "verseLine",
+          "text": "This ivy-chaplet 'twixt the conquering bays.",
+          "indent": 0,
+          "lineNo": 28
+        },
+        {
+          "type": "verseLine",
+          "text": "Scarce had night's chilly shade forsook the sky",
+          "indent": 0,
+          "lineNo": 29
+        },
+        {
+          "type": "verseLine",
+          "text": "What time to nibbling sheep the dewy grass",
+          "indent": 0,
+          "lineNo": 30
+        },
+        {
+          "type": "verseLine",
+          "text": "Tastes sweetest, when, on his smooth shepherd-staff",
+          "indent": 0,
+          "lineNo": 31
+        },
+        {
+          "type": "verseLine",
+          "text": "Of olive leaning, Damon thus began.",
+          "indent": 0,
+          "lineNo": 32
+        },
+        {
+          "type": "verseLine",
+          "text": "Damon.",
+          "indent": 0,
+          "lineNo": 33
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Rise, Lucifer, and, heralding the light,",
+          "indent": 0,
+          "lineNo": 34
+        },
+        {
+          "type": "verseLine",
+          "text": "Bring in the genial day, while I make moan",
+          "indent": 0,
+          "lineNo": 35
+        },
+        {
+          "type": "verseLine",
+          "text": "Fooled by vain passion for a faithless bride,",
+          "indent": 0,
+          "lineNo": 36
+        },
+        {
+          "type": "verseLine",
+          "text": "For Nysa, and with this my dying breath",
+          "indent": 0,
+          "lineNo": 37
+        },
+        {
+          "type": "verseLine",
+          "text": "Call on the gods, though little it bestead-",
+          "indent": 0,
+          "lineNo": 38
+        },
+        {
+          "type": "verseLine",
+          "text": "The gods who heard her vows and heeded not.",
+          "indent": 0,
+          "lineNo": 39
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Begin, my flute, with me Maenalian lays.",
+          "indent": 0,
+          "lineNo": 40
+        },
+        {
+          "type": "verseLine",
+          "text": "Ever hath Maenalus his murmuring groves",
+          "indent": 0,
+          "lineNo": 41
+        },
+        {
+          "type": "verseLine",
+          "text": "And whispering pines, and ever hears the songs",
+          "indent": 0,
+          "lineNo": 42
+        },
+        {
+          "type": "verseLine",
+          "text": "Of love-lorn shepherds, and of Pan, who first",
+          "indent": 0,
+          "lineNo": 43
+        },
+        {
+          "type": "verseLine",
+          "text": "Brooked not the tuneful reed should idle lie.",
+          "indent": 0,
+          "lineNo": 44
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Begin, my flute, with me Maenalian lays.",
+          "indent": 0,
+          "lineNo": 45
+        },
+        {
+          "type": "verseLine",
+          "text": "Nysa to Mopsus given! what may not then",
+          "indent": 0,
+          "lineNo": 46
+        },
+        {
+          "type": "verseLine",
+          "text": "We lovers look for? soon shall we see mate",
+          "indent": 0,
+          "lineNo": 47
+        },
+        {
+          "type": "verseLine",
+          "text": "Griffins with mares, and in the coming age",
+          "indent": 0,
+          "lineNo": 48
+        },
+        {
+          "type": "verseLine",
+          "text": "Shy deer and hounds together come to drink.",
+          "indent": 0,
+          "lineNo": 49
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Begin, my flute, with me Maenalian lays.",
+          "indent": 0,
+          "lineNo": 50
+        },
+        {
+          "type": "verseLine",
+          "text": "Now, Mopsus, cut new torches, for they bring",
+          "indent": 0,
+          "lineNo": 51
+        },
+        {
+          "type": "verseLine",
+          "text": "Your bride along; now, bridegroom, scatter nuts:",
+          "indent": 0,
+          "lineNo": 52
+        },
+        {
+          "type": "verseLine",
+          "text": "Forsaking Oeta mounts the evening star!",
+          "indent": 0,
+          "lineNo": 53
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Begin, my flute, with me Maenalian lays.",
+          "indent": 0,
+          "lineNo": 54
+        },
+        {
+          "type": "verseLine",
+          "text": "O worthy of thy mate, while all men else",
+          "indent": 0,
+          "lineNo": 55
+        },
+        {
+          "type": "verseLine",
+          "text": "Thou scornest, and with loathing dost behold",
+          "indent": 0,
+          "lineNo": 56
+        },
+        {
+          "type": "verseLine",
+          "text": "My shepherd's pipe, my goats, my shaggy brow,",
+          "indent": 0,
+          "lineNo": 57
+        },
+        {
+          "type": "verseLine",
+          "text": "And untrimmed beard, nor deem'st that any god",
+          "indent": 0,
+          "lineNo": 58
+        },
+        {
+          "type": "verseLine",
+          "text": "For mortal doings hath regard or care.",
+          "indent": 0,
+          "lineNo": 59
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Begin, my flute, with me Maenalian lays.",
+          "indent": 0,
+          "lineNo": 60
+        },
+        {
+          "type": "verseLine",
+          "text": "Once with your mother, in our orchard-garth,",
+          "indent": 0,
+          "lineNo": 61
+        },
+        {
+          "type": "verseLine",
+          "text": "A little maid I saw you- I your guide-",
+          "indent": 0,
+          "lineNo": 62
+        },
+        {
+          "type": "verseLine",
+          "text": "Plucking the dewy apples. My twelfth year",
+          "indent": 0,
+          "lineNo": 63
+        },
+        {
+          "type": "verseLine",
+          "text": "I scarce had entered, and could barely reach",
+          "indent": 0,
+          "lineNo": 64
+        },
+        {
+          "type": "verseLine",
+          "text": "The brittle boughs. I looked, and I was lost;",
+          "indent": 0,
+          "lineNo": 65
+        },
+        {
+          "type": "verseLine",
+          "text": "A sudden frenzy swept my wits away.",
+          "indent": 0,
+          "lineNo": 66
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Begin, my flute, with me Maenalian lays.",
+          "indent": 0,
+          "lineNo": 67
+        },
+        {
+          "type": "verseLine",
+          "text": "Now know I what Love is: 'mid savage rocks",
+          "indent": 0,
+          "lineNo": 68
+        },
+        {
+          "type": "verseLine",
+          "text": "Tmaros or Rhodope brought forth the boy,",
+          "indent": 0,
+          "lineNo": 69
+        },
+        {
+          "type": "verseLine",
+          "text": "Or Garamantes in earth's utmost bounds-",
+          "indent": 0,
+          "lineNo": 70
+        },
+        {
+          "type": "verseLine",
+          "text": "No kin of ours, nor of our blood begot.",
+          "indent": 0,
+          "lineNo": 71
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Begin, my flute, with me Maenalian lays.",
+          "indent": 0,
+          "lineNo": 72
+        },
+        {
+          "type": "verseLine",
+          "text": "Fierce Love it was once steeled a mother's heart",
+          "indent": 0,
+          "lineNo": 73
+        },
+        {
+          "type": "verseLine",
+          "text": "With her own offspring's blood her hands to imbrue:",
+          "indent": 0,
+          "lineNo": 74
+        },
+        {
+          "type": "verseLine",
+          "text": "Mother, thou too wert cruel; say wert thou",
+          "indent": 0,
+          "lineNo": 75
+        },
+        {
+          "type": "verseLine",
+          "text": "More cruel, mother, or more ruthless he?",
+          "indent": 0,
+          "lineNo": 76
+        },
+        {
+          "type": "verseLine",
+          "text": "Ruthless the boy, thou, mother, cruel too.",
+          "indent": 0,
+          "lineNo": 77
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Begin, my flute, with me Maenalian lays.",
+          "indent": 0,
+          "lineNo": 78
+        },
+        {
+          "type": "verseLine",
+          "text": "Now let the wolf turn tail and fly the sheep,",
+          "indent": 0,
+          "lineNo": 79
+        },
+        {
+          "type": "verseLine",
+          "text": "Tough oaks bear golden apples, alder-trees",
+          "indent": 0,
+          "lineNo": 80
+        },
+        {
+          "type": "verseLine",
+          "text": "Bloom with narcissus-flower, the tamarisk",
+          "indent": 0,
+          "lineNo": 81
+        },
+        {
+          "type": "verseLine",
+          "text": "Sweat with rich amber, and the screech-owl vie",
+          "indent": 0,
+          "lineNo": 82
+        },
+        {
+          "type": "verseLine",
+          "text": "In singing with the swan: let Tityrus",
+          "indent": 0,
+          "lineNo": 83
+        },
+        {
+          "type": "verseLine",
+          "text": "Be Orpheus, Orpheus in the forest-glade,",
+          "indent": 0,
+          "lineNo": 84
+        },
+        {
+          "type": "verseLine",
+          "text": "Arion 'mid his dolphins on the deep.",
+          "indent": 0,
+          "lineNo": 85
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Begin, my flute, with me Maenalian lays.",
+          "indent": 0,
+          "lineNo": 86
+        },
+        {
+          "type": "verseLine",
+          "text": "Yea, be the whole earth to mid-ocean turned!",
+          "indent": 0,
+          "lineNo": 87
+        },
+        {
+          "type": "verseLine",
+          "text": "Farewell, ye woodlands I from the tall peak",
+          "indent": 0,
+          "lineNo": 88
+        },
+        {
+          "type": "verseLine",
+          "text": "Of yon aerial rock will headlong plunge",
+          "indent": 0,
+          "lineNo": 89
+        },
+        {
+          "type": "verseLine",
+          "text": "Into the billows: this my latest gift,",
+          "indent": 0,
+          "lineNo": 90
+        },
+        {
+          "type": "verseLine",
+          "text": "From dying lips bequeathed thee, see thou keep.",
+          "indent": 0,
+          "lineNo": 91
+        },
+        {
+          "type": "verseLine",
+          "text": "Cease now, my flute, now cease Maenalian lays.\"",
+          "indent": 0,
+          "lineNo": 92
+        },
+        {
+          "type": "verseLine",
+          "text": "Thus Damon: but do ye, Pierian Maids-",
+          "indent": 0,
+          "lineNo": 93
+        },
+        {
+          "type": "verseLine",
+          "text": "We cannot all do all things- tell me how",
+          "indent": 0,
+          "lineNo": 94
+        },
+        {
+          "type": "verseLine",
+          "text": "Alphesiboeus to his strain replied.",
+          "indent": 0,
+          "lineNo": 95
+        },
+        {
+          "type": "verseLine",
+          "text": "Alphesiboeus.",
+          "indent": 0,
+          "lineNo": 96
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Bring water, and with soft wool-fillet bind",
+          "indent": 0,
+          "lineNo": 97
+        },
+        {
+          "type": "verseLine",
+          "text": "These altars round about, and burn thereon",
+          "indent": 0,
+          "lineNo": 98
+        },
+        {
+          "type": "verseLine",
+          "text": "Rich vervain and male frankincense, that I",
+          "indent": 0,
+          "lineNo": 99
+        },
+        {
+          "type": "verseLine",
+          "text": "May strive with magic spells to turn astray",
+          "indent": 0,
+          "lineNo": 100
+        },
+        {
+          "type": "verseLine",
+          "text": "My lover's saner senses, whereunto",
+          "indent": 0,
+          "lineNo": 101
+        },
+        {
+          "type": "verseLine",
+          "text": "There lacketh nothing save the power of song.",
+          "indent": 0,
+          "lineNo": 102
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Draw from the town, my songs, draw Daphnis home.",
+          "indent": 0,
+          "lineNo": 103
+        },
+        {
+          "type": "verseLine",
+          "text": "Songs can the very moon draw down from heaven",
+          "indent": 0,
+          "lineNo": 104
+        },
+        {
+          "type": "verseLine",
+          "text": "Circe with singing changed from human form",
+          "indent": 0,
+          "lineNo": 105
+        },
+        {
+          "type": "verseLine",
+          "text": "The comrades of Ulysses, and by song",
+          "indent": 0,
+          "lineNo": 106
+        },
+        {
+          "type": "verseLine",
+          "text": "Is the cold meadow-snake, asunder burst.",
+          "indent": 0,
+          "lineNo": 107
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Draw from the town, my songs, draw Daphnis home.",
+          "indent": 0,
+          "lineNo": 108
+        },
+        {
+          "type": "verseLine",
+          "text": "These triple threads of threefold colour first",
+          "indent": 0,
+          "lineNo": 109
+        },
+        {
+          "type": "verseLine",
+          "text": "I twine about thee, and three times withal",
+          "indent": 0,
+          "lineNo": 110
+        },
+        {
+          "type": "verseLine",
+          "text": "Around these altars do thine image bear:",
+          "indent": 0,
+          "lineNo": 111
+        },
+        {
+          "type": "verseLine",
+          "text": "Uneven numbers are the god's delight.",
+          "indent": 0,
+          "lineNo": 112
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Draw from the town, my songs, draw Daphnis home.",
+          "indent": 0,
+          "lineNo": 113
+        },
+        {
+          "type": "verseLine",
+          "text": "Now, Amaryllis, ply in triple knots",
+          "indent": 0,
+          "lineNo": 114
+        },
+        {
+          "type": "verseLine",
+          "text": "The threefold colours; ply them fast, and say",
+          "indent": 0,
+          "lineNo": 115
+        },
+        {
+          "type": "verseLine",
+          "text": "This is the chain of Venus that I ply.",
+          "indent": 0,
+          "lineNo": 116
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Draw from the town, my songs, draw Daphnis home.",
+          "indent": 0,
+          "lineNo": 117
+        },
+        {
+          "type": "verseLine",
+          "text": "As by the kindling of the self-same fire",
+          "indent": 0,
+          "lineNo": 118
+        },
+        {
+          "type": "verseLine",
+          "text": "Harder this clay, this wax the softer grows,",
+          "indent": 0,
+          "lineNo": 119
+        },
+        {
+          "type": "verseLine",
+          "text": "So by my love may Daphnis; sprinkle meal,",
+          "indent": 0,
+          "lineNo": 120
+        },
+        {
+          "type": "verseLine",
+          "text": "And with bitumen burn the brittle bays.",
+          "indent": 0,
+          "lineNo": 121
+        },
+        {
+          "type": "verseLine",
+          "text": "Me Daphnis with his cruelty doth burn,",
+          "indent": 0,
+          "lineNo": 122
+        },
+        {
+          "type": "verseLine",
+          "text": "I to melt cruel Daphnis burn this bay.",
+          "indent": 0,
+          "lineNo": 123
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Draw from the town, my songs, draw Daphnis home.",
+          "indent": 0,
+          "lineNo": 124
+        },
+        {
+          "type": "verseLine",
+          "text": "As when some heifer, seeking for her steer",
+          "indent": 0,
+          "lineNo": 125
+        },
+        {
+          "type": "verseLine",
+          "text": "Through woodland and deep grove, sinks wearied out",
+          "indent": 0,
+          "lineNo": 126
+        },
+        {
+          "type": "verseLine",
+          "text": "On the green sedge beside a stream, love-lorn,",
+          "indent": 0,
+          "lineNo": 127
+        },
+        {
+          "type": "verseLine",
+          "text": "Nor marks the gathering night that calls her home-",
+          "indent": 0,
+          "lineNo": 128
+        },
+        {
+          "type": "verseLine",
+          "text": "As pines that heifer, with such love as hers",
+          "indent": 0,
+          "lineNo": 129
+        },
+        {
+          "type": "verseLine",
+          "text": "May Daphnis pine, and I not care to heal.",
+          "indent": 0,
+          "lineNo": 130
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Draw from the town, my songs, draw Daphnis home.",
+          "indent": 0,
+          "lineNo": 131
+        },
+        {
+          "type": "verseLine",
+          "text": "These relics once, dear pledges of himself,",
+          "indent": 0,
+          "lineNo": 132
+        },
+        {
+          "type": "verseLine",
+          "text": "The traitor left me, which, O earth, to thee",
+          "indent": 0,
+          "lineNo": 133
+        },
+        {
+          "type": "verseLine",
+          "text": "Here on this very threshold I commit-",
+          "indent": 0,
+          "lineNo": 134
+        },
+        {
+          "type": "verseLine",
+          "text": "Pledges that bind him to redeem the debt.",
+          "indent": 0,
+          "lineNo": 135
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Draw from the town, my songs, draw Daphnis home.",
+          "indent": 0,
+          "lineNo": 136
+        },
+        {
+          "type": "verseLine",
+          "text": "These herbs of bane to me did Moeris give,",
+          "indent": 0,
+          "lineNo": 137
+        },
+        {
+          "type": "verseLine",
+          "text": "In Pontus culled, where baneful herbs abound.",
+          "indent": 0,
+          "lineNo": 138
+        },
+        {
+          "type": "verseLine",
+          "text": "With these full oft have I seen Moeris change",
+          "indent": 0,
+          "lineNo": 139
+        },
+        {
+          "type": "verseLine",
+          "text": "To a wolf's form, and hide him in the woods,",
+          "indent": 0,
+          "lineNo": 140
+        },
+        {
+          "type": "verseLine",
+          "text": "Oft summon spirits from the tomb's recess,",
+          "indent": 0,
+          "lineNo": 141
+        },
+        {
+          "type": "verseLine",
+          "text": "And to new fields transport the standing corn.",
+          "indent": 0,
+          "lineNo": 142
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Draw from the town, my songs, draw Daphnis home.",
+          "indent": 0,
+          "lineNo": 143
+        },
+        {
+          "type": "verseLine",
+          "text": "Take ashes, Amaryllis, fetch them forth,",
+          "indent": 0,
+          "lineNo": 144
+        },
+        {
+          "type": "verseLine",
+          "text": "And o'er your head into the running brook",
+          "indent": 0,
+          "lineNo": 145
+        },
+        {
+          "type": "verseLine",
+          "text": "Fling them, nor look behind: with these will",
+          "indent": 0,
+          "lineNo": 146
+        },
+        {
+          "type": "verseLine",
+          "text": "Upon the heart of Daphnis make essay.",
+          "indent": 0,
+          "lineNo": 147
+        },
+        {
+          "type": "verseLine",
+          "text": "Nothing for gods, nothing for songs cares he.",
+          "indent": 0,
+          "lineNo": 148
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Draw from the town, my songs, draw Daphnis home.",
+          "indent": 0,
+          "lineNo": 149
+        },
+        {
+          "type": "verseLine",
+          "text": "Look, look I the very embers of themselves",
+          "indent": 0,
+          "lineNo": 150
+        },
+        {
+          "type": "verseLine",
+          "text": "Have caught the altar with a flickering flame,",
+          "indent": 0,
+          "lineNo": 151
+        },
+        {
+          "type": "verseLine",
+          "text": "While I delay to fetch them: may the sign",
+          "indent": 0,
+          "lineNo": 152
+        },
+        {
+          "type": "verseLine",
+          "text": "Prove lucky! something it must mean, for sure,",
+          "indent": 0,
+          "lineNo": 153
+        },
+        {
+          "type": "verseLine",
+          "text": "And Hylax on the threshold 'gins to bark!",
+          "indent": 0,
+          "lineNo": 154
+        },
+        {
+          "type": "verseLine",
+          "text": "May we believe it, or are lovers still",
+          "indent": 0,
+          "lineNo": 155
+        },
+        {
+          "type": "verseLine",
+          "text": "By their own fancies fooled?",
+          "indent": 0,
+          "lineNo": 156
+        },
+        {
+          "type": "verseLine",
+          "text": "Give o'er, my songs,",
+          "indent": 0,
+          "lineNo": 157
+        },
+        {
+          "type": "verseLine",
+          "text": "Daphnis is coming from the town, give o'er.\"",
+          "indent": 0,
+          "lineNo": 158
+        }
+      ]
+    },
+    {
+      "seq": 9,
+      "id": "eclogue-eclogue-ix",
+      "heading": "Eclogue IX",
+      "partTitle": "Eclogue IX",
+      "blocks": [
+        {
+          "type": "verseLine",
+          "text": "LYCIDAS, MOERIS",
+          "indent": 0,
+          "lineNo": 10
+        },
+        {
+          "type": "verseLine",
+          "text": "Lycidas.",
+          "indent": 0,
+          "lineNo": 11
+        },
+        {
+          "type": "verseLine",
+          "text": "Say whither, Moeris?- Make you for the town,",
+          "indent": 0,
+          "lineNo": 12
+        },
+        {
+          "type": "verseLine",
+          "text": "Or on what errand bent?",
+          "indent": 0,
+          "lineNo": 13
+        },
+        {
+          "type": "verseLine",
+          "text": "Moeris. O Lycidas,",
+          "indent": 0,
+          "lineNo": 14
+        },
+        {
+          "type": "verseLine",
+          "text": "We have lived to see, what never yet we feared,",
+          "indent": 0,
+          "lineNo": 15
+        },
+        {
+          "type": "verseLine",
+          "text": "An interloper own our little farm,",
+          "indent": 0,
+          "lineNo": 16
+        },
+        {
+          "type": "verseLine",
+          "text": "And say, \"Be off, you former husbandmen!",
+          "indent": 0,
+          "lineNo": 17
+        },
+        {
+          "type": "verseLine",
+          "text": "These fields are mine.\" Now, cowed and out of heart,",
+          "indent": 0,
+          "lineNo": 18
+        },
+        {
+          "type": "verseLine",
+          "text": "Since Fortune turns the whole world upside down,",
+          "indent": 0,
+          "lineNo": 19
+        },
+        {
+          "type": "verseLine",
+          "text": "We are taking him- ill luck go with the same!-'",
+          "indent": 0,
+          "lineNo": 20
+        },
+        {
+          "type": "verseLine",
+          "text": "These kids you see.",
+          "indent": 0,
+          "lineNo": 21
+        },
+        {
+          "type": "verseLine",
+          "text": "Lycidas.",
+          "indent": 0,
+          "lineNo": 22
+        },
+        {
+          "type": "verseLine",
+          "text": "But surely I had heard",
+          "indent": 0,
+          "lineNo": 23
+        },
+        {
+          "type": "verseLine",
+          "text": "That where the hills first draw from off the plain,",
+          "indent": 0,
+          "lineNo": 24
+        },
+        {
+          "type": "verseLine",
+          "text": "And the high ridge with gentle slope descends,",
+          "indent": 0,
+          "lineNo": 25
+        },
+        {
+          "type": "verseLine",
+          "text": "Down to the brook-side and the broken crests",
+          "indent": 0,
+          "lineNo": 26
+        },
+        {
+          "type": "verseLine",
+          "text": "Of yonder veteran beeches, all the land",
+          "indent": 0,
+          "lineNo": 27
+        },
+        {
+          "type": "verseLine",
+          "text": "Was by the songs of your Menalcas saved.",
+          "indent": 0,
+          "lineNo": 28
+        },
+        {
+          "type": "verseLine",
+          "text": "Moeris.",
+          "indent": 0,
+          "lineNo": 29
+        },
+        {
+          "type": "verseLine",
+          "text": "Heard it you had, and so the rumour ran,",
+          "indent": 0,
+          "lineNo": 30
+        },
+        {
+          "type": "verseLine",
+          "text": "But 'mid the clash of arms, my Lycidas,",
+          "indent": 0,
+          "lineNo": 31
+        },
+        {
+          "type": "verseLine",
+          "text": "Our songs avail no more than, as 'tis said,",
+          "indent": 0,
+          "lineNo": 32
+        },
+        {
+          "type": "verseLine",
+          "text": "Doves of Dodona when an eagle comes.",
+          "indent": 0,
+          "lineNo": 33
+        },
+        {
+          "type": "verseLine",
+          "text": "Nay, had I not, from hollow ilex-bole",
+          "indent": 0,
+          "lineNo": 34
+        },
+        {
+          "type": "verseLine",
+          "text": "Warned by a raven on the left, cut short",
+          "indent": 0,
+          "lineNo": 35
+        },
+        {
+          "type": "verseLine",
+          "text": "The rising feud, nor I, your Moeris here,",
+          "indent": 0,
+          "lineNo": 36
+        },
+        {
+          "type": "verseLine",
+          "text": "No, nor Menalcas, were alive to-day.",
+          "indent": 0,
+          "lineNo": 37
+        },
+        {
+          "type": "verseLine",
+          "text": "Lycidas.",
+          "indent": 0,
+          "lineNo": 38
+        },
+        {
+          "type": "verseLine",
+          "text": "Alack! could any of so foul a crime",
+          "indent": 0,
+          "lineNo": 39
+        },
+        {
+          "type": "verseLine",
+          "text": "Be guilty? Ah! how nearly, thyself,",
+          "indent": 0,
+          "lineNo": 40
+        },
+        {
+          "type": "verseLine",
+          "text": "Reft was the solace that we had in thee,",
+          "indent": 0,
+          "lineNo": 41
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas! Who then of the Nymphs had sung,",
+          "indent": 0,
+          "lineNo": 42
+        },
+        {
+          "type": "verseLine",
+          "text": "Or who with flowering herbs bestrewn the ground,",
+          "indent": 0,
+          "lineNo": 43
+        },
+        {
+          "type": "verseLine",
+          "text": "And o'er the fountains drawn a leafy veil?-",
+          "indent": 0,
+          "lineNo": 44
+        },
+        {
+          "type": "verseLine",
+          "text": "Who sung the stave I filched from you that day",
+          "indent": 0,
+          "lineNo": 45
+        },
+        {
+          "type": "verseLine",
+          "text": "To Amaryllis wending, our hearts' joy?-",
+          "indent": 0,
+          "lineNo": 46
+        },
+        {
+          "type": "verseLine",
+          "text": "\"While I am gone, 'tis but a little way,",
+          "indent": 0,
+          "lineNo": 47
+        },
+        {
+          "type": "verseLine",
+          "text": "Feed, Tityrus, my goats, and, having fed,",
+          "indent": 0,
+          "lineNo": 48
+        },
+        {
+          "type": "verseLine",
+          "text": "Drive to the drinking-pool, and, as you drive,",
+          "indent": 0,
+          "lineNo": 49
+        },
+        {
+          "type": "verseLine",
+          "text": "Beware the he-goat; with his horn he butts.\"",
+          "indent": 0,
+          "lineNo": 50
+        },
+        {
+          "type": "verseLine",
+          "text": "Moeris.",
+          "indent": 0,
+          "lineNo": 51
+        },
+        {
+          "type": "verseLine",
+          "text": "Ay, or to Varus that half-finished lay,",
+          "indent": 0,
+          "lineNo": 52
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Varus, thy name, so still our Mantua live-",
+          "indent": 0,
+          "lineNo": 53
+        },
+        {
+          "type": "verseLine",
+          "text": "Mantua to poor Cremona all too near-",
+          "indent": 0,
+          "lineNo": 54
+        },
+        {
+          "type": "verseLine",
+          "text": "Shall singing swans bear upward to the stars.\"",
+          "indent": 0,
+          "lineNo": 55
+        },
+        {
+          "type": "verseLine",
+          "text": "Lycidas.",
+          "indent": 0,
+          "lineNo": 56
+        },
+        {
+          "type": "verseLine",
+          "text": "So may your swarms Cyrnean yew-trees shun,",
+          "indent": 0,
+          "lineNo": 57
+        },
+        {
+          "type": "verseLine",
+          "text": "Your kine with cytisus their udders swell,",
+          "indent": 0,
+          "lineNo": 58
+        },
+        {
+          "type": "verseLine",
+          "text": "Begin, if aught you have. The Muses made",
+          "indent": 0,
+          "lineNo": 59
+        },
+        {
+          "type": "verseLine",
+          "text": "Me too a singer; I too have sung; the swains",
+          "indent": 0,
+          "lineNo": 60
+        },
+        {
+          "type": "verseLine",
+          "text": "Call me a poet, but I believe them not:",
+          "indent": 0,
+          "lineNo": 61
+        },
+        {
+          "type": "verseLine",
+          "text": "For naught of mine, or worthy Varius yet",
+          "indent": 0,
+          "lineNo": 62
+        },
+        {
+          "type": "verseLine",
+          "text": "Or Cinna deem I, but account myself",
+          "indent": 0,
+          "lineNo": 63
+        },
+        {
+          "type": "verseLine",
+          "text": "A cackling goose among melodious swans.",
+          "indent": 0,
+          "lineNo": 64
+        },
+        {
+          "type": "verseLine",
+          "text": "Moeris.",
+          "indent": 0,
+          "lineNo": 65
+        },
+        {
+          "type": "verseLine",
+          "text": "'Twas in my thought to do so, Lycidas;",
+          "indent": 0,
+          "lineNo": 66
+        },
+        {
+          "type": "verseLine",
+          "text": "Even now was I revolving silently",
+          "indent": 0,
+          "lineNo": 67
+        },
+        {
+          "type": "verseLine",
+          "text": "If this I could recall- no paltry song:",
+          "indent": 0,
+          "lineNo": 68
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Come, Galatea, what pleasure is 't to play",
+          "indent": 0,
+          "lineNo": 69
+        },
+        {
+          "type": "verseLine",
+          "text": "Amid the waves? Here glows the Spring, here earth",
+          "indent": 0,
+          "lineNo": 70
+        },
+        {
+          "type": "verseLine",
+          "text": "Beside the streams pours forth a thousand flowers;",
+          "indent": 0,
+          "lineNo": 71
+        },
+        {
+          "type": "verseLine",
+          "text": "Here the white poplar bends above the cave,",
+          "indent": 0,
+          "lineNo": 72
+        },
+        {
+          "type": "verseLine",
+          "text": "And the lithe vine weaves shadowy covert: come,",
+          "indent": 0,
+          "lineNo": 73
+        },
+        {
+          "type": "verseLine",
+          "text": "Leave the mad waves to beat upon the shore.\"",
+          "indent": 0,
+          "lineNo": 74
+        },
+        {
+          "type": "verseLine",
+          "text": "Lycidas.",
+          "indent": 0,
+          "lineNo": 75
+        },
+        {
+          "type": "verseLine",
+          "text": "What of the strain I heard you singing once",
+          "indent": 0,
+          "lineNo": 76
+        },
+        {
+          "type": "verseLine",
+          "text": "On a clear night alone? the notes I still",
+          "indent": 0,
+          "lineNo": 77
+        },
+        {
+          "type": "verseLine",
+          "text": "Remember, could I but recall the words.",
+          "indent": 0,
+          "lineNo": 78
+        },
+        {
+          "type": "verseLine",
+          "text": "Moeris.",
+          "indent": 0,
+          "lineNo": 79
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Why, Daphnis, upward gazing, do you mark",
+          "indent": 0,
+          "lineNo": 80
+        },
+        {
+          "type": "verseLine",
+          "text": "The ancient risings of the Signs? for look",
+          "indent": 0,
+          "lineNo": 81
+        },
+        {
+          "type": "verseLine",
+          "text": "Where Dionean Caesar's star comes forth",
+          "indent": 0,
+          "lineNo": 82
+        },
+        {
+          "type": "verseLine",
+          "text": "In heaven, to gladden all the fields with corn,",
+          "indent": 0,
+          "lineNo": 83
+        },
+        {
+          "type": "verseLine",
+          "text": "And to the grape upon the sunny slopes",
+          "indent": 0,
+          "lineNo": 84
+        },
+        {
+          "type": "verseLine",
+          "text": "Her colour bring! Now, the pears;",
+          "indent": 0,
+          "lineNo": 85
+        },
+        {
+          "type": "verseLine",
+          "text": "So shall your children's children pluck their fruit.",
+          "indent": 0,
+          "lineNo": 86
+        },
+        {
+          "type": "verseLine",
+          "text": "Time carries all things, even our wits, away.",
+          "indent": 0,
+          "lineNo": 87
+        },
+        {
+          "type": "verseLine",
+          "text": "Oft, as a boy, I sang the sun to rest,",
+          "indent": 0,
+          "lineNo": 88
+        },
+        {
+          "type": "verseLine",
+          "text": "But all those songs are from my memory fled,",
+          "indent": 0,
+          "lineNo": 89
+        },
+        {
+          "type": "verseLine",
+          "text": "And even his voice is failing Moeris now;",
+          "indent": 0,
+          "lineNo": 90
+        },
+        {
+          "type": "verseLine",
+          "text": "The wolves eyed Moeris first: but at your wish",
+          "indent": 0,
+          "lineNo": 91
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas will repeat them oft enow.",
+          "indent": 0,
+          "lineNo": 92
+        },
+        {
+          "type": "verseLine",
+          "text": "Lycidas.",
+          "indent": 0,
+          "lineNo": 93
+        },
+        {
+          "type": "verseLine",
+          "text": "Your pleas but linger out my heart's desire:",
+          "indent": 0,
+          "lineNo": 94
+        },
+        {
+          "type": "verseLine",
+          "text": "Now all the deep is into silence hushed,",
+          "indent": 0,
+          "lineNo": 95
+        },
+        {
+          "type": "verseLine",
+          "text": "And all the murmuring breezes sunk to sleep.",
+          "indent": 0,
+          "lineNo": 96
+        },
+        {
+          "type": "verseLine",
+          "text": "We are half-way thither, for Bianor's tomb",
+          "indent": 0,
+          "lineNo": 97
+        },
+        {
+          "type": "verseLine",
+          "text": "Begins to show: here, Moeris, where the hinds",
+          "indent": 0,
+          "lineNo": 98
+        },
+        {
+          "type": "verseLine",
+          "text": "Are lopping the thick leafage, let us sing.",
+          "indent": 0,
+          "lineNo": 99
+        },
+        {
+          "type": "verseLine",
+          "text": "Set down the kids, yet shall we reach the town;",
+          "indent": 0,
+          "lineNo": 100
+        },
+        {
+          "type": "verseLine",
+          "text": "Or, if we fear the night may gather rain",
+          "indent": 0,
+          "lineNo": 101
+        },
+        {
+          "type": "verseLine",
+          "text": "Ere we arrive, then singing let us go,",
+          "indent": 0,
+          "lineNo": 102
+        },
+        {
+          "type": "verseLine",
+          "text": "Our way to lighten; and, that we may thus",
+          "indent": 0,
+          "lineNo": 103
+        },
+        {
+          "type": "verseLine",
+          "text": "Go singing, I will case you of this load.",
+          "indent": 0,
+          "lineNo": 104
+        },
+        {
+          "type": "verseLine",
+          "text": "Moeris.",
+          "indent": 0,
+          "lineNo": 105
+        },
+        {
+          "type": "verseLine",
+          "text": "Cease, boy, and get we to the work in hand:",
+          "indent": 0,
+          "lineNo": 106
+        },
+        {
+          "type": "verseLine",
+          "text": "We shall sing better when himself is come.",
+          "indent": 0,
+          "lineNo": 107
+        }
+      ]
+    },
+    {
+      "seq": 10,
+      "id": "eclogue-eclogue-x",
+      "heading": "Eclogue X",
+      "partTitle": "Eclogue X",
+      "blocks": [
+        {
+          "type": "verseLine",
+          "text": "GALLUS",
+          "indent": 0,
+          "lineNo": 10
+        },
+        {
+          "type": "verseLine",
+          "text": "This now, the very latest of my toils,",
+          "indent": 0,
+          "lineNo": 11
+        },
+        {
+          "type": "verseLine",
+          "text": "Vouchsafe me, Arethusa! needs must I",
+          "indent": 0,
+          "lineNo": 12
+        },
+        {
+          "type": "verseLine",
+          "text": "Sing a brief song to Gallus- brief, but yet",
+          "indent": 0,
+          "lineNo": 13
+        },
+        {
+          "type": "verseLine",
+          "text": "Such as Lycoris' self may fitly read.",
+          "indent": 0,
+          "lineNo": 14
+        },
+        {
+          "type": "verseLine",
+          "text": "Who would not sing for Gallus? So, when thou",
+          "indent": 0,
+          "lineNo": 15
+        },
+        {
+          "type": "verseLine",
+          "text": "Beneath Sicanian billows glidest on,",
+          "indent": 0,
+          "lineNo": 16
+        },
+        {
+          "type": "verseLine",
+          "text": "May Doris blend no bitter wave with thine,",
+          "indent": 0,
+          "lineNo": 17
+        },
+        {
+          "type": "verseLine",
+          "text": "Begin! The love of Gallus be our theme,",
+          "indent": 0,
+          "lineNo": 18
+        },
+        {
+          "type": "verseLine",
+          "text": "And the shrewd pangs he suffered, while, hard by,",
+          "indent": 0,
+          "lineNo": 19
+        },
+        {
+          "type": "verseLine",
+          "text": "The flat-nosed she-goats browse the tender brush.",
+          "indent": 0,
+          "lineNo": 20
+        },
+        {
+          "type": "verseLine",
+          "text": "We sing not to deaf ears; no word of ours",
+          "indent": 0,
+          "lineNo": 21
+        },
+        {
+          "type": "verseLine",
+          "text": "But the woods echo it. What groves or lawns",
+          "indent": 0,
+          "lineNo": 22
+        },
+        {
+          "type": "verseLine",
+          "text": "Held you, ye Dryad-maidens, when for love-",
+          "indent": 0,
+          "lineNo": 23
+        },
+        {
+          "type": "verseLine",
+          "text": "Love all unworthy of a loss so dear-",
+          "indent": 0,
+          "lineNo": 24
+        },
+        {
+          "type": "verseLine",
+          "text": "Gallus lay dying? for neither did the slopes",
+          "indent": 0,
+          "lineNo": 25
+        },
+        {
+          "type": "verseLine",
+          "text": "Of Pindus or Parnassus stay you then,",
+          "indent": 0,
+          "lineNo": 26
+        },
+        {
+          "type": "verseLine",
+          "text": "No, nor Aonian Aganippe. Him",
+          "indent": 0,
+          "lineNo": 27
+        },
+        {
+          "type": "verseLine",
+          "text": "Even the laurels and the tamarisks wept;",
+          "indent": 0,
+          "lineNo": 28
+        },
+        {
+          "type": "verseLine",
+          "text": "For him, outstretched beneath a lonely rock,",
+          "indent": 0,
+          "lineNo": 29
+        },
+        {
+          "type": "verseLine",
+          "text": "Wept pine-clad Maenalus, and the flinty crags",
+          "indent": 0,
+          "lineNo": 30
+        },
+        {
+          "type": "verseLine",
+          "text": "Of cold Lycaeus. The sheep too stood around-",
+          "indent": 0,
+          "lineNo": 31
+        },
+        {
+          "type": "verseLine",
+          "text": "Of us they feel no shame, poet divine;",
+          "indent": 0,
+          "lineNo": 32
+        },
+        {
+          "type": "verseLine",
+          "text": "Nor of the flock be thou ashamed: even fair",
+          "indent": 0,
+          "lineNo": 33
+        },
+        {
+          "type": "verseLine",
+          "text": "Adonis by the rivers fed his sheep-",
+          "indent": 0,
+          "lineNo": 34
+        },
+        {
+          "type": "verseLine",
+          "text": "Came shepherd too, and swine-herd footing slow,",
+          "indent": 0,
+          "lineNo": 35
+        },
+        {
+          "type": "verseLine",
+          "text": "And, from the winter-acorns dripping-wet",
+          "indent": 0,
+          "lineNo": 36
+        },
+        {
+          "type": "verseLine",
+          "text": "Menalcas. All with one accord exclaim:",
+          "indent": 0,
+          "lineNo": 37
+        },
+        {
+          "type": "verseLine",
+          "text": "\"From whence this love of thine?\" Apollo came;",
+          "indent": 0,
+          "lineNo": 38
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Gallus, art mad?\" he cried, \"thy bosom's care",
+          "indent": 0,
+          "lineNo": 39
+        },
+        {
+          "type": "verseLine",
+          "text": "Another love is following.\"Therewithal",
+          "indent": 0,
+          "lineNo": 40
+        },
+        {
+          "type": "verseLine",
+          "text": "Silvanus came, with rural honours crowned;",
+          "indent": 0,
+          "lineNo": 41
+        },
+        {
+          "type": "verseLine",
+          "text": "The flowering fennels and tall lilies shook",
+          "indent": 0,
+          "lineNo": 42
+        },
+        {
+          "type": "verseLine",
+          "text": "Before him. Yea, and our own eyes beheld",
+          "indent": 0,
+          "lineNo": 43
+        },
+        {
+          "type": "verseLine",
+          "text": "Pan, god of Arcady, with blood-red juice",
+          "indent": 0,
+          "lineNo": 44
+        },
+        {
+          "type": "verseLine",
+          "text": "Of the elder-berry, and with vermilion, dyed.",
+          "indent": 0,
+          "lineNo": 45
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Wilt ever make an end?\" quoth he, \"behold",
+          "indent": 0,
+          "lineNo": 46
+        },
+        {
+          "type": "verseLine",
+          "text": "Love recks not aught of it: his heart no more",
+          "indent": 0,
+          "lineNo": 47
+        },
+        {
+          "type": "verseLine",
+          "text": "With tears is sated than with streams the grass,",
+          "indent": 0,
+          "lineNo": 48
+        },
+        {
+          "type": "verseLine",
+          "text": "Bees with the cytisus, or goats with leaves.\"",
+          "indent": 0,
+          "lineNo": 49
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Yet will ye sing, Arcadians, of my woes",
+          "indent": 0,
+          "lineNo": 50
+        },
+        {
+          "type": "verseLine",
+          "text": "Upon your mountains,\" sadly he replied-",
+          "indent": 0,
+          "lineNo": 51
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Arcadians, that alone have skill to sing.",
+          "indent": 0,
+          "lineNo": 52
+        },
+        {
+          "type": "verseLine",
+          "text": "O then how softly would my ashes rest,",
+          "indent": 0,
+          "lineNo": 53
+        },
+        {
+          "type": "verseLine",
+          "text": "If of my love, one day, your flutes should tell!",
+          "indent": 0,
+          "lineNo": 54
+        },
+        {
+          "type": "verseLine",
+          "text": "And would that I, of your own fellowship,",
+          "indent": 0,
+          "lineNo": 55
+        },
+        {
+          "type": "verseLine",
+          "text": "Or dresser of the ripening grape had been,",
+          "indent": 0,
+          "lineNo": 56
+        },
+        {
+          "type": "verseLine",
+          "text": "Or guardian of the flock! for surely then,",
+          "indent": 0,
+          "lineNo": 57
+        },
+        {
+          "type": "verseLine",
+          "text": "Let Phyllis, or Amyntas, or who else,",
+          "indent": 0,
+          "lineNo": 58
+        },
+        {
+          "type": "verseLine",
+          "text": "Bewitch me- what if swart Amyntas be?",
+          "indent": 0,
+          "lineNo": 59
+        },
+        {
+          "type": "verseLine",
+          "text": "Dark is the violet, dark the hyacinth-",
+          "indent": 0,
+          "lineNo": 60
+        },
+        {
+          "type": "verseLine",
+          "text": "Among the willows, 'neath the limber vine,",
+          "indent": 0,
+          "lineNo": 61
+        },
+        {
+          "type": "verseLine",
+          "text": "Reclining would my love have lain with me,",
+          "indent": 0,
+          "lineNo": 62
+        },
+        {
+          "type": "verseLine",
+          "text": "Phyllis plucked garlands, or Amyntas sung.",
+          "indent": 0,
+          "lineNo": 63
+        },
+        {
+          "type": "verseLine",
+          "text": "Here are cool springs, soft mead and grove, Lycoris;",
+          "indent": 0,
+          "lineNo": 64
+        },
+        {
+          "type": "verseLine",
+          "text": "Here might our lives with time have worn away.",
+          "indent": 0,
+          "lineNo": 65
+        },
+        {
+          "type": "verseLine",
+          "text": "But me mad love of the stern war-god holds",
+          "indent": 0,
+          "lineNo": 66
+        },
+        {
+          "type": "verseLine",
+          "text": "Armed amid weapons and opposing foes.",
+          "indent": 0,
+          "lineNo": 67
+        },
+        {
+          "type": "verseLine",
+          "text": "Whilst thou- Ah! might I but believe it not!-",
+          "indent": 0,
+          "lineNo": 68
+        },
+        {
+          "type": "verseLine",
+          "text": "Alone without me, and from home afar,",
+          "indent": 0,
+          "lineNo": 69
+        },
+        {
+          "type": "verseLine",
+          "text": "Look'st upon Alpine snows and frozen Rhine.",
+          "indent": 0,
+          "lineNo": 70
+        },
+        {
+          "type": "verseLine",
+          "text": "Ah! may the frost not hurt thee, may the sharp",
+          "indent": 0,
+          "lineNo": 71
+        },
+        {
+          "type": "verseLine",
+          "text": "And jagged ice not wound thy tender feet!",
+          "indent": 0,
+          "lineNo": 72
+        },
+        {
+          "type": "verseLine",
+          "text": "I will depart, re-tune the songs I framed",
+          "indent": 0,
+          "lineNo": 73
+        },
+        {
+          "type": "verseLine",
+          "text": "In verse Chalcidian to the oaten reed",
+          "indent": 0,
+          "lineNo": 74
+        },
+        {
+          "type": "verseLine",
+          "text": "Of the Sicilian swain. Resolved am I",
+          "indent": 0,
+          "lineNo": 75
+        },
+        {
+          "type": "verseLine",
+          "text": "In the woods, rather, with wild beasts to couch,",
+          "indent": 0,
+          "lineNo": 76
+        },
+        {
+          "type": "verseLine",
+          "text": "And bear my doom, and character my love",
+          "indent": 0,
+          "lineNo": 77
+        },
+        {
+          "type": "verseLine",
+          "text": "Upon the tender tree-trunks: they will grow,",
+          "indent": 0,
+          "lineNo": 78
+        },
+        {
+          "type": "verseLine",
+          "text": "And you, my love, grow with them. And meanwhile",
+          "indent": 0,
+          "lineNo": 79
+        },
+        {
+          "type": "verseLine",
+          "text": "I with the Nymphs will haunt Mount Maenalus,",
+          "indent": 0,
+          "lineNo": 80
+        },
+        {
+          "type": "verseLine",
+          "text": "Or hunt the keen wild boar. No frost so cold",
+          "indent": 0,
+          "lineNo": 81
+        },
+        {
+          "type": "verseLine",
+          "text": "But I will hem with hounds thy forest-glades,",
+          "indent": 0,
+          "lineNo": 82
+        },
+        {
+          "type": "verseLine",
+          "text": "Parthenius. Even now, methinks, I range",
+          "indent": 0,
+          "lineNo": 83
+        },
+        {
+          "type": "verseLine",
+          "text": "O'er rocks, through echoing groves, and joy to launch",
+          "indent": 0,
+          "lineNo": 84
+        },
+        {
+          "type": "verseLine",
+          "text": "Cydonian arrows from a Parthian bow.-",
+          "indent": 0,
+          "lineNo": 85
+        },
+        {
+          "type": "verseLine",
+          "text": "As if my madness could find healing thus,",
+          "indent": 0,
+          "lineNo": 86
+        },
+        {
+          "type": "verseLine",
+          "text": "Or that god soften at a mortal's grief!",
+          "indent": 0,
+          "lineNo": 87
+        },
+        {
+          "type": "verseLine",
+          "text": "Now neither Hamadryads, no, nor songs",
+          "indent": 0,
+          "lineNo": 88
+        },
+        {
+          "type": "verseLine",
+          "text": "Delight me more: ye woods, away with you!",
+          "indent": 0,
+          "lineNo": 89
+        },
+        {
+          "type": "verseLine",
+          "text": "No pangs of ours can change him; not though we",
+          "indent": 0,
+          "lineNo": 90
+        },
+        {
+          "type": "verseLine",
+          "text": "In the mid-frost should drink of Hebrus' stream,",
+          "indent": 0,
+          "lineNo": 91
+        },
+        {
+          "type": "verseLine",
+          "text": "And in wet winters face Sithonian snows,",
+          "indent": 0,
+          "lineNo": 92
+        },
+        {
+          "type": "verseLine",
+          "text": "Or, when the bark of the tall elm-tree bole",
+          "indent": 0,
+          "lineNo": 93
+        },
+        {
+          "type": "verseLine",
+          "text": "Of drought is dying, should, under Cancer's Sign,",
+          "indent": 0,
+          "lineNo": 94
+        },
+        {
+          "type": "verseLine",
+          "text": "In Aethiopian deserts drive our flocks.",
+          "indent": 0,
+          "lineNo": 95
+        },
+        {
+          "type": "verseLine",
+          "text": "Love conquers all things; yield we too to love!\"",
+          "indent": 0,
+          "lineNo": 96
+        },
+        {
+          "type": "verseLine",
+          "text": "These songs, Pierian Maids, shall it suffice",
+          "indent": 0,
+          "lineNo": 97
+        },
+        {
+          "type": "verseLine",
+          "text": "Your poet to have sung, the while he sat,",
+          "indent": 0,
+          "lineNo": 98
+        },
+        {
+          "type": "verseLine",
+          "text": "And of slim mallow wove a basket fine:",
+          "indent": 0,
+          "lineNo": 99
+        },
+        {
+          "type": "verseLine",
+          "text": "To Gallus ye will magnify their worth,",
+          "indent": 0,
+          "lineNo": 100
+        },
+        {
+          "type": "verseLine",
+          "text": "Gallus, for whom my love grows hour by hour,",
+          "indent": 0,
+          "lineNo": 101
+        },
+        {
+          "type": "verseLine",
+          "text": "As the green alder shoots in early Spring.",
+          "indent": 0,
+          "lineNo": 102
+        },
+        {
+          "type": "verseLine",
+          "text": "Come, let us rise: the shade is wont to be",
+          "indent": 0,
+          "lineNo": 103
+        },
+        {
+          "type": "verseLine",
+          "text": "Baneful to singers; baneful is the shade",
+          "indent": 0,
+          "lineNo": 104
+        },
+        {
+          "type": "verseLine",
+          "text": "Cast by the juniper, crops sicken too",
+          "indent": 0,
+          "lineNo": 105
+        },
+        {
+          "type": "verseLine",
+          "text": "In shade. Now homeward, having fed your fill-",
+          "indent": 0,
+          "lineNo": 106
+        },
+        {
+          "type": "verseLine",
+          "text": "Eve's star is rising-go, my she-goats, go.",
+          "indent": 0,
+          "lineNo": 107
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 10,
+    "paragraphCount": 0,
+    "wordCount": 8333
+  }
+}

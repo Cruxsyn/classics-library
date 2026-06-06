@@ -1,0 +1,3378 @@
+{
+  "id": "Euripides/iphi_aul",
+  "author": "Euripides",
+  "authorKey": "Euripides",
+  "title": "Iphigenia At Aulis",
+  "translator": null,
+  "language": "Greek",
+  "written": "410 BCE",
+  "sourceNote": null,
+  "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "ambiguous: 0.455 long unterminated interior lines, median line length 58.0, 0.000 explicit breaks; defaulted to prose",
+  "textModeStats": {
+    "lineCount": 1283,
+    "paragraphCount": 24,
+    "interiorLineCount": 1259,
+    "medianLineLength": 58.0,
+    "meanLineLength": 46.30319563522993,
+    "longInteriorLineRatio": 0.5504368546465449,
+    "unterminatedInteriorLineRatio": 0.7084988085782367,
+    "longUnterminatedInteriorLineRatio": 0.4551231135822081,
+    "explicitBreakLineRatio": 0.0,
+    "unmarkedLineRatio": 0.9820732657833203
+  },
+  "landingUrl": "https://classics.mit.edu/Euripides/iphi_aul.html",
+  "textUrls": [
+    "https://classics.mit.edu/Euripides/iphi_aul.html"
+  ],
+  "txtUrl": "https://classics.mit.edu/Euripides/iphi_aul.pl.txt",
+  "sections": [
+    {
+      "seq": 1,
+      "id": "iphi_aul-iphigenia-at-aulis",
+      "heading": "Iphigenia At Aulis",
+      "partTitle": "Iphigenia At Aulis",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Dramatis Personae",
+          "lineStart": 10
+        },
+        {
+          "type": "para",
+          "text": "Agamemnon Attendant, an old man Chorus of Women of Chalcis Menelaus Clytaemnestra Iphigenia Achilles Scene The sea-coast at Aulis. Enter AGAMEMNON and ATTENDANT.",
+          "lineStart": 11
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 19
+        },
+        {
+          "type": "para",
+          "text": "Old man, come hither and stand before my dwelling.",
+          "lineStart": 20
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 21
+        },
+        {
+          "type": "para",
+          "text": "I come; what new schemes now, king Agamemnon?",
+          "lineStart": 22
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 23
+        },
+        {
+          "type": "para",
+          "text": "Thou shalt hear.",
+          "lineStart": 24
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 25
+        },
+        {
+          "type": "para",
+          "text": "I am all eagerness. 'Tis little enough sleep old age allows me and keenly it watches o'er my eyes.",
+          "lineStart": 26
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 28
+        },
+        {
+          "type": "para",
+          "text": "What can that star be, steering his course yonder?",
+          "lineStart": 29
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 30
+        },
+        {
+          "type": "para",
+          "text": "Sirius, still shooting o'er the zenith on his way near the Pleiads' sevenfold track.",
+          "lineStart": 31
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 33
+        },
+        {
+          "type": "para",
+          "text": "The birds are still at any rate and the sea is calm; hushed are the winds, and silence broods o'er this narrow firth.",
+          "lineStart": 34
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 36
+        },
+        {
+          "type": "para",
+          "text": "Then why art thou outside thy tent, why so restless, my lord Agamemnon? All is yet quiet here in Aulis, the watch on the walls is not yet astir. Let us go in.",
+          "lineStart": 37
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 40
+        },
+        {
+          "type": "para",
+          "text": "I envy thee, old man, aye, and every man who leads a life secure, unknown and unrenowned; but little I envy those in office.",
+          "lineStart": 41
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 43
+        },
+        {
+          "type": "para",
+          "text": "And yet 'tis there we place the be-all and end-all of existence.",
+          "lineStart": 44
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 45
+        },
+        {
+          "type": "para",
+          "text": "Aye, but that is where the danger comes; and ambition, sweet though it seems, brings sorrow with its near approach. At one time the unsatisfied claims of Heaven upset our life, at another the numerous peevish fancies of our subjects shatter it.",
+          "lineStart": 46
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 50
+        },
+        {
+          "type": "para",
+          "text": "I like not these sentiments in one who is a chief. It was not to enjoy all blessings that Atreus begot thee, O Agamemnon; but thou must needs experience joy and sorrow alike, mortal as thou art. E'en though thou like it not, this is what the gods decree; but thou, after letting thy taper spread its light abroad, writest the letter which is still in thy hands and then erasest the same words again, sealing and re-opening the scroll, then flinging the tablet to the ground with floods of tears and leaving nothing undone in thy aimless behaviour to stamp thee mad. What is it troubles thee? what news is there affecting thee, my liege? Come, share with me thy story; to a loyal and trusty heart wilt thou be telling it; for Tyndareus sent me that day to form part of thy wife's dowry and to wait upon the bride with loyalty.",
+          "lineStart": 51
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 63
+        },
+        {
+          "type": "para",
+          "text": "Leda, the daughter of Thestius, had three children, maidens, Phoebe, Clytaemnestra my wife, and Helen; this last it was who had for wooers the foremost of the favoured sons of Hellas; but terrible threats of spilling his rival's blood were uttered by each of them, should he fail to win the maid. Now the matter filled Tyndareus, her father, with perplexity; at length this thought occurred to him; the suitors should swear unto each other and join right hands thereon and pour libations with burnt sacrifice, binding themselves by this curse, \"Whoever wins the child of Tyndareus for wife, him will we assist, in case a rival takes her from his house and goes his way, robbing her husband of his rights; and we will march against that man in armed array and raze his city to the ground, Hellene no less than barbarian.\"",
+          "lineStart": 64
+        },
+        {
+          "type": "para",
+          "text": "Now when they had once pledged their word and old Tyndareus with no small cleverness had beguiled them by his shrewd device, he allowed his daughter to choose from among her suitors the one towards whom the breath of love might fondly waft her. Her choice fell on Menelaus; would she had never taken him! Anon there came to Lacedaemon from Phrygia's folk the man who, legend says, adjudged the goddesses' dispute; in robes of gorgeous hue, ablaze with gold, in true barbaric pomp; and he, finding Menelaus gone from home, carried Helen off with him to his steading on Ida, a willing paramour. Goaded to frenzy Menelaus flew through Hellas, invoking the ancient oath exacted by Tyndareus and declaring the duty of helping the injured husband. Whereat the chivalry of Hellas, brandishing their spears and donning their harness, came hither to the narrow straits of Aulis with armaments of ships and troops, with many a steed and many a car, and they chose me to captain them all for the sake of Menelaus, since I was his brother. Would that some other had gained that distinction instead of me! But after the army was gathered and come together, we still remained at Aulis weather-bound; and Calchas, the seer, bade us in our perplexity sacrifice my own begotten child Iphigenia to Artemis, whose home is in this land, declaring that if we offered her, we should sail and sack the Phrygians' capital, but if we forbore, this was not for us. When I heard this, I commanded Talthybius with loud proclamation to disband the whole host, as I could never bear to slay daughter of mine. Whereupon my brother, bringing every argument to bear, persuaded me at last to face the crime; so I wrote in a folded scroll and sent to my wife, bidding her despatch our daughter to me on the pretence of wedding Achilles, it the same time magnifying his exalted rank and saying that he refused to sail with the Achaeans, unless a bride of our lineage should go to Phthia. Yes, this was the inducement I offered my wife, inventing, as I did, a sham marriage for the maiden. Of all the Achaeans we alone know the real truth, Calchas, Odysseus, Menelaus and myself; but that which I then decided wrongly, I now rightly countermand again in this scroll, which thou, old man, hast found me opening and resealing beneath the shade of night. Up now and away with this missive to Argos, and I will tell thee by word of mouth all that is written herein, the contents of the folded scroll, for thou art loyal to my wife and house.",
+          "lineStart": 76
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 111
+        },
+        {
+          "type": "para",
+          "text": "Say on and make it plain, that what my tongue utters may accord with what thou hast written.",
+          "lineStart": 112
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 114
+        },
+        {
+          "type": "para",
+          "text": "\"Daughter of Leda, in addition to my first letter I now send thee word not to despatch thy daughter to Euboea's embosomed wing, to the to the waveless bay of Aulis; for after all we wiltlelebrate our child's wedding at another time.\"",
+          "lineStart": 115
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 119
+        },
+        {
+          "type": "para",
+          "text": "And how will Achilles, cheated of his bride, curb the fury of his indignation against thee and thy wife?",
+          "lineStart": 120
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 122
+        },
+        {
+          "type": "para",
+          "text": "Here also is a danger.",
+          "lineStart": 123
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 124
+        },
+        {
+          "type": "para",
+          "text": "Tell me what thou meanest.",
+          "lineStart": 125
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 126
+        },
+        {
+          "type": "para",
+          "text": "It is but his name, not himself, that Achilles is lending, knowing nothing of the marriage or of my scheming or my professed readiness to betroth my daughter to him for a husband's embrace.",
+          "lineStart": 127
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 130
+        },
+        {
+          "type": "para",
+          "text": "A dreadful venture thine king Agamemnon! thou that, by promise of thy daughter's hand to the son of the goddess, wert for bringing the maid hither to be sacrificed for the Danai.",
+          "lineStart": 131
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 134
+        },
+        {
+          "type": "para",
+          "text": "Woe is me! ah woe! I am utterly distraught; bewilderment comes o'er me. Away hurry thy steps, yielding nothing to old age.",
+          "lineStart": 135
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 137
+        },
+        {
+          "type": "para",
+          "text": "In haste I go, my liege.",
+          "lineStart": 138
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 139
+        },
+        {
+          "type": "para",
+          "text": "Sit not down by woodland founts; scorn the witcheries of sleep.",
+          "lineStart": 140
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 141
+        },
+        {
+          "type": "para",
+          "text": "Hush!",
+          "lineStart": 142
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 143
+        },
+        {
+          "type": "para",
+          "text": "And when thou passest any place where roads diverge, cast thine eyes all round,-taking heed that no mule-wain pass by on rolling wheels, bearing my daughter hither to the ships of the Danai, and thou see it not.",
+          "lineStart": 144
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 147
+        },
+        {
+          "type": "para",
+          "text": "It shall be so.",
+          "lineStart": 148
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 149
+        },
+        {
+          "type": "para",
+          "text": "Start then from the bolted gates, and if thou meet the escort, start them back again, and drive at full speed to the abodes of the Cyclopes.",
+          "lineStart": 150
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 152
+        },
+        {
+          "type": "para",
+          "text": "But tell me, how shall my message find credit with thy wife or child?",
+          "lineStart": 153
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 155
+        },
+        {
+          "type": "para",
+          "text": "Preserve the seal which thou bearest on this scroll. Away! already the dawn is growing grey, lighting the lamp of day yonder and the fire of the sun's four steeds; help me in my trouble. Exit ATTENDANT. None of mortals is prosperous or happy to the last, for none was ever born to a painless life. Exit AGAMEMNON. Enter CHORUS OF WOMEN OF CHALCIS.",
+          "lineStart": 156
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 164
+        },
+        {
+          "type": "para",
+          "text": "To the sandy beach of sea-coast Aulis I came after a voyage through the tides of Euripus, leaving Chalcis on its narrow firth, my city which feedeth the waters of far-famed Arethusa near the sea, that I might behold the army of the Achaeans and the ships rowed by those god-like heroes; for our husbands tell us that fair-haired Menelaus and high-born Agamemnon are leading them to Troy on a thousand ships in quest of the lady Helen, whom herdsman Paris carried off from the banks of reedy Eurotas-his guerdon from Aphrodite, when that queen of Cyprus entered beauty's lists with Hera and Pallas at the gushing fount.",
+          "lineStart": 165
+        },
+        {
+          "type": "para",
+          "text": "Through the grove of-Artemis, rich with sacrifice, I sped my course, the red blush mantling on my cheeks from maiden modesty, in my eagerness to see the soldiers' camp, the tents of the mail-clad Danai, and their gathered steeds. Two chieftains there I saw met together in council; one was Aias, son of Oileus; the other Aias, son of Telamon, crown of glory to the men of Salamis; and I saw Protesilaus and Palamedes, sprung from the son of Poseidon, sitting there amusing themselves with intricate figures at draughts; Diomedes too at his favourite sport of hurling quoits; and Meriones, the War-god's son, a marvel to mankind, stood at his side; likewise I beheld the offspring of Laertes, who came from his island hills, and with him Nireus, handsomest of all Achaeans; Achilles next, that nimble runner, swift on his feet as the wind, whom Thetis bore and Chiron trained; him I saw upon the beach, racing in full armour along the shingle and straining every nerve to beat a team of four horses, as he sped round the track on foot; and Eumelus, the grandson of Pheres, their driver, was shouting when I saw him. goading on his goodly steeds, with their bits of chased goldwork; whereof the centre pair, that bore the yoke, had dappled coats picked out with white, while the trace-horses, on the outside, facing the turning-post in the course, were bays with spotted fetlocks. Close beside them Peleus' son leapt on his way, in all his harness, keeping abreast the rail by the axle-box.",
+          "lineStart": 174
+        },
+        {
+          "type": "para",
+          "text": "Next I sought the countless fleet, a wonder to behold, that I might fill my girlish eyes with gazing, a sweet delight. 'the warlike Myrmidons from Phthia held the right wing with fifty swift cruisers, upon whose sterns, right at the ends, stood Nereid goddesses in golden-effigy, the ensign of Achilles' armament. Near these were moored the Argive ships in equal numbers, o'er which Mecisteus' son, whom Taulaus his grandsire reared, and Sthenelus, son of Capaneus, were in command; next in order, Theseus' son was stationed at the head of sixty ships from Attica, having the goddess Pallas set in a winged car drawn by steeds with solid hoof, a lucky sight for mariners. Then I saw Boeotia's fleet of fifty sails decked with ensigns; these had Cadmus at the stern holding a golden dragon at the beaks of the vessels, and earth-born Leitus was their admiral. Likewise there were ships from Phocis; and from Locris came the son of Oileus with an equal contingent, leaving famed Thronium's citadel; and from Mycenae, the Cyclopes' town, Atreus' son sent a hundred wellmanned galleys, his brother being with him in command, as friend with friend, that Hellas might exact on her, who had fled her home to wed a foreigner. Also I saw upon Gerenian Nestor's prows twelve from Pylos the sign of his neighbor Alpheus, four-footed like a bull. Moreover there was a squadron of Aenianian sail under King and next the lords of Elis, stationed near'-them, whom all the people named Epeians; and Eurytus was lord of these; likewise he led the Taphian warriors with the white oar-blades, the subjects of Meges, son of Phyleus, who had left the isles of the Echinades, where sailors cannot land. Lastly, Aias, reared in Salamis, was joining his right wing to the left of those near whom he was posted, closing the line with his outermost ships-twelve barques obedient to the helm-as I heard and then saw the crews; no safe return shall he obtain, who bringeth his barbaric boats to grapple Aias. There I saw the naval armament, but some things I heard at home about the gathered host, whereof I still have a recollection. Enter MENELAUS and ATTENDANT.",
+          "lineStart": 195
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 225
+        },
+        {
+          "type": "para",
+          "text": "As MENELAUS wrests a letter from him Strange daring thine, Menelaus, where thou hast no right.",
+          "lineStart": 226
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 228
+        },
+        {
+          "type": "para",
+          "text": "Stand back! thou carriest loyalty to thy master too far.",
+          "lineStart": 229
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 230
+        },
+        {
+          "type": "para",
+          "text": "The very reproach thou hast for me is to my credit.",
+          "lineStart": 231
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 232
+        },
+        {
+          "type": "para",
+          "text": "Thou shalt rue it, if thou meddle in matters that concern thee not.",
+          "lineStart": 233
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 235
+        },
+        {
+          "type": "para",
+          "text": "Thou hadst no right to open a letter, which I was carrying.",
+          "lineStart": 236
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 237
+        },
+        {
+          "type": "para",
+          "text": "No, nor thou to be carrying sorrow to all Hellas.",
+          "lineStart": 238
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 239
+        },
+        {
+          "type": "para",
+          "text": "Argue that point with others, but surrender that letter to me.",
+          "lineStart": 240
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 242
+        },
+        {
+          "type": "para",
+          "text": "I shall not let go.",
+          "lineStart": 243
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 244
+        },
+        {
+          "type": "para",
+          "text": "Nor yet will I let loose my hold.",
+          "lineStart": 245
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 246
+        },
+        {
+          "type": "para",
+          "text": "Why then, this staff of mine will be dabbling thy head with blood ere long.",
+          "lineStart": 247
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 249
+        },
+        {
+          "type": "para",
+          "text": "To die in my master's cause were a noble death.",
+          "lineStart": 250
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 251
+        },
+        {
+          "type": "para",
+          "text": "Let go! thou art too wordy for a slave.",
+          "lineStart": 252
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 253
+        },
+        {
+          "type": "para",
+          "text": "Seeing AGAMEMNON approaching Master, he is wronging me; he snatched thy letter violently from my grasp, Agamemnon, and will not heed the claims of right. Enter AGAMEMNON.",
+          "lineStart": 254
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 258
+        },
+        {
+          "type": "para",
+          "text": "How now? what means this uproar at the gates, this indecent brawling?",
+          "lineStart": 259
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 261
+        },
+        {
+          "type": "para",
+          "text": "My tale, not his, has the better right to be spoken.",
+          "lineStart": 262
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 263
+        },
+        {
+          "type": "para",
+          "text": "Thou, Menelaus! what quarrel hast thou with this man, why art thou haling him hence? Exit ATTENDANT.",
+          "lineStart": 264
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 267
+        },
+        {
+          "type": "para",
+          "text": "Look me in the face! Be that the prelude to my story.",
+          "lineStart": 268
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 269
+        },
+        {
+          "type": "para",
+          "text": "Shall I, the son of Atreus, close my eyes from fear?",
+          "lineStart": 270
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 271
+        },
+        {
+          "type": "para",
+          "text": "Seest thou this scroll, the bearer of a shameful message?",
+          "lineStart": 272
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 273
+        },
+        {
+          "type": "para",
+          "text": "I see it, yes; and first of all surrender it.",
+          "lineStart": 274
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 275
+        },
+        {
+          "type": "para",
+          "text": "No, not till I have shewn its contents to all the Danai.",
+          "lineStart": 276
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 277
+        },
+        {
+          "type": "para",
+          "text": "What! hast thou broken the seal and dost know already what thou shouldst never have known?",
+          "lineStart": 278
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 280
+        },
+        {
+          "type": "para",
+          "text": "Yes, I opened it and know to thy sorrow the secret machinations of thy heart.",
+          "lineStart": 281
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 283
+        },
+        {
+          "type": "para",
+          "text": "Where didst thou catch my servant? Ye gods what a shameless heart thou hast!",
+          "lineStart": 284
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 286
+        },
+        {
+          "type": "para",
+          "text": "I was awaiting thy daughter's arrival at the camp from Argos.",
+          "lineStart": 287
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 288
+        },
+        {
+          "type": "para",
+          "text": "What right hast thou to watch my doings? Is not this a of shamelessness?",
+          "lineStart": 289
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 290
+        },
+        {
+          "type": "para",
+          "text": "My wish to do it gave the spur, for I am no slave to thee.",
+          "lineStart": 291
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 292
+        },
+        {
+          "type": "para",
+          "text": "Infamous! Am I not to be allowed the management of my own house?",
+          "lineStart": 293
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 294
+        },
+        {
+          "type": "para",
+          "text": "No, for thou thinkest crooked thoughts, one thing now, another formerly, and something different presently.",
+          "lineStart": 295
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 297
+        },
+        {
+          "type": "para",
+          "text": "Most exquisite refining on evil themes! A hateful thing the tongue of cleverness!",
+          "lineStart": 298
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 300
+        },
+        {
+          "type": "para",
+          "text": "Aye, but a mind unstable is an unjust possession, disloyal to friends. Now I am anxious to test thee, and seek not thou from rage to turn aside from the truth, nor will I on my part overstrain the case. Thou rememberest when thou wert all eagerness to captain the Danai against Troy, making a pretence of declining, though eager for it in thy heart; how humble thou wert then! taking each man by the hand and keeping open doors for every fellow townsman who cared to enter, affording each in turn a chance to speak with thee, even though some desired it not, seeking by these methods to purchase popularity from all bidders; then when thou hadst secured the command, there came a change over thy manners; thou wert no longer so cordial before to whilom friends, but hard of access, seldom to be found at home. But the man of real worth ought not to change his manners in the hour of prosperity, but should then show himself most staunch to friends, when his own good fortune can help them most effectually. This was the first cause I had to reprove thee, for it was here I first discovered thy villainy; but afterwards, when thou camest to Aulis with all the gathered hosts of Hellas, thou wert of no account; no! the want of a favourable breeze filled thee with consternation at the chance dealt out by Heaven. Anon the Danai began demanding that thou shouldst send the fleet away instead of vainly toiling on at Aulis; what dismay and confusion was then depicted in thy looks, to think that thou, with a thousand ships at thy command, hadst not occupied the plains of Priam with thy armies! And thou wouldst ask my counsel, \"What am I to do? what scheme can I devise. where find one?\" to save thyself being stripped of thy command and losing thy fair fame. Next when Calchas bade thee offer thy daughter in sacrifice to Artemis, declaring that the Danai should then sail, thou wert overjoyed, and didst gladly undertake to offer the maid, and of thine own accord-never allege compulsion!-thou art sending word to thy wife to despatch thy daughter hither on pretence of wedding Achilles. This is the same air that heard thee say it; and after all thou turnest round and hast been caught recasting thy letter to this effect, \"I will no longer be my daughter's murderer.\" Exactly so! Countless others have gone through this phase in their conduct of public affairs; they make an effort while in power, and then retire dishonourably, sometimes owing to the senselessness of the citizens, sometimes deservedly, because they are too feeble of themselves to maintain their watch upon the state. For my part, I am more sorry for our unhappy Hellas, whose purpose was to read these worthless foreigners a lesson, while now she will let them escape and mock her, thanks to thee and thy daughter. May I never then appoint a man to rule my country or lead its warriors because his kinship! Ability what the general must have; since any man, with ordinary intelligence, can govern a state.",
+          "lineStart": 301
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 342
+        },
+        {
+          "type": "para",
+          "text": "For brethren to come to words and blows, whene'er they disagree, is terrible.",
+          "lineStart": 343
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 345
+        },
+        {
+          "type": "para",
+          "text": "I wish to rebuke thee in turn, briefly, not lifting mine eyes too high in shameless wise, but in more sober fashion, as a brother; for it is a good man's way to be considerate. Prithee, why this burst of fury, these bloodshot eyes? who wrongs thee? what is it thou wantest? Thou art fain to win a virtuous bride. Well, I cannot supply thee; for she, whom thou once hadst, was ill controlled by thee. Am I then, a man who never went astray, to suffer for thy sins? or is it my popularity that galls thee? No! it is the longing thou hast to keep a fair wife in thy embrace, casting reason and honour to the winds. A bad man's pleasures are like himself Am I mad, if I change to wiser counsels, after previously deciding amiss? Thine is the madness rather in wishing to recover a wicked wife, once thou hadst lost her-a stroke of Heaven-sent luck. Those foolish suitors swore that oath to Tyndareus in their longing to wed; but Hope was the goddess that led them on, I trow, and she it was that brought it about rather then thou and thy mightiness. So take the field with them; they are ready for it in the folly of their hearts; for the deity is not without insight, but is able to discern where oaths have been wrongly pledged or forcibly extorted. I will not slay my children, nor shall thy interests be prospered by justice in thy vengeance for a worthless wife, while I am left wasting, night and day, in sorrow for what I did to one of my own flesh and blood, contrary to all law and justice. There is thy answer shortly' given, clear and easy to understand; and if thou wilt not come to thy senses, I shall do the best for myself.",
+          "lineStart": 346
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 369
+        },
+        {
+          "type": "para",
+          "text": "This differs from thy previous declaration, but there is good in it-thy child's reprieve.",
+          "lineStart": 370
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 372
+        },
+        {
+          "type": "para",
+          "text": "Ah me, how sad my lot! I have no friends then after all.",
+          "lineStart": 373
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 374
+        },
+        {
+          "type": "para",
+          "text": "Friends thou hast, if thou seek not their destruction.",
+          "lineStart": 375
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 376
+        },
+        {
+          "type": "para",
+          "text": "Where wilt thou find any proof that thou art sprung from the same sire as I?",
+          "lineStart": 377
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 379
+        },
+        {
+          "type": "para",
+          "text": "Thy moderation, not thy madness do I share by nature.",
+          "lineStart": 380
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 381
+        },
+        {
+          "type": "para",
+          "text": "Friends should sympathize with friends in sorrow.",
+          "lineStart": 382
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 383
+        },
+        {
+          "type": "para",
+          "text": "Claim my help by kindly service, not by paining me.",
+          "lineStart": 384
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 385
+        },
+        {
+          "type": "para",
+          "text": "So thou hast no mind to share this trouble with Hellas?",
+          "lineStart": 386
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 387
+        },
+        {
+          "type": "para",
+          "text": "No, Hellas is diseased like thee according to some god's design.",
+          "lineStart": 388
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 389
+        },
+        {
+          "type": "para",
+          "text": "Go vaunt thee then on thy sceptre, after betraying thine own brother! while seek some different means and other friends. Enter MESSENGER.",
+          "lineStart": 390
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MESSENGER",
+          "lineStart": 393
+        },
+        {
+          "type": "para",
+          "text": "Agamemnon, lord of all Hellenes! I am come and bring thee thy daughter, whom thou didst call Iphigenia in thy home; and her mother, thy wife Clytemnestra, is with her, and the child Orestes, a sight to gladden thee after thy long absence from thy palace; but, as they had been travelling long and far, they are now refreshing their tender feet at the waters of a fair spring, they and their horses, for we turned these loose in the grassy meadow to browse their fill; but I am come as their forerunner to prepare thee for their reception; for the army knows already of thy daughter's arrival, so quickly did the rumour spread; and all the folk are running together to the sight, that they may see thy child; for Fortune's favourites enjoy a worldwide fame and have all eyes fixed on them. \"Is it a wedding?\" some ask, \"or what is happening? or has king Agamemnon from fond yearning summoned his daughter hither?\" From others thou wouldst have heard: \"They are presenting the maiden to Artemis, queen of Aulis, previous to marriage; who can the bridegroom be, that is to lead her home?\"",
+          "lineStart": 394
+        },
+        {
+          "type": "para",
+          "text": "Come, then, begin the rites-that is the next step-by getting the baskets ready; crown your heads; prepare the wedding-hymn, thou and prince Menelaus with thee; let flutes resound throughout the tents with noise of dancer's feet; for this is a happy day, that is come for the maid.",
+          "lineStart": 409
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 413
+        },
+        {
+          "type": "para",
+          "text": "Thou hast my thanks; now go within; for the rest it will be well, as Fate proceeds. Exit MESSENGER. Ah, woe is me! unhappy wretch, what can I say? where shall I begin? Into what cruel straits have I been plunged! Fortune has outwitted me, proving far cleverer than any cunning of mine. What an advantage humble birth possesses! for it is easy for her sons to weep and tell out all their sorrows; while to the high-born man come these same sorrows, but we have dignity throned o'er our life and are the people's slaves. I, for instance, am ashamed to weep, nor less, poor wretch, to check my tears at the awful pass to which I am brought. Oh! what am I to tell my wife? how shall I welcome her? with what face meet her? for she too has undone me by coming uninvited in this my hour of sorrow; yet it was but natural she should come with her daughter to prepare the bride and perform the fondest duties, where she will discover my villainy. And for this poor maid-why maid? Death, methinks, will soon make her his bride-how I pity her! Thus will she plead to me, I trow: \"My father will thou slay me? Be such the wedding thou thyself mayst find, and whosoever is a friend to thee!\" while Orestes, from his station near us, will cry in childish accents, inarticulate, yet fraught with meaning. Alas! to what utter ruin Paris, the son of Priam, the cause of these troubles, has brought me by his union with Helen!",
+          "lineStart": 414
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 435
+        },
+        {
+          "type": "para",
+          "text": "I pity her myself, in such wise as a woman, and she a stranger, may bemoan the misfortunes of royalty.",
+          "lineStart": 436
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 438
+        },
+        {
+          "type": "para",
+          "text": "Offering his hand Thy hand, brother! let me grasp it.",
+          "lineStart": 439
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 441
+        },
+        {
+          "type": "para",
+          "text": "I give it; thine is the victory, mine the sorrow.",
+          "lineStart": 442
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 443
+        },
+        {
+          "type": "para",
+          "text": "By Pelops our reputed grandsire and Atreus our father I swear to tell thee the truth from my heart, without any covert purpose, but only what I think. The sight of thee in tears made me pity thee, and in return I shed a tear for thee myself; I withdraw from my former proposals, ceasing to be a cause of fear to thee; yea, and I will put myself in thy present position; and I counsel thee, slay not thy child nor prefer my interests to thine; for it is not just that thou shouldst grieve, while I am glad, or that thy children should die, while mine still see the light of day. What is it, after all, I seek? If I am set on marriage, could I not find a bride as choice elsewhere? Was I to lose a brother-the last I should have lost-to win a Helen, getting bad for good? I was mad, impetuous as a youth, till I perceived, on closer view, what slaying children really meant. Moreover I am filled with compassion for the hapless maiden, doomed to bleed that I may wed, when I reflect that we are kin. What has thy daughter to do with Helen? Let the army be disbanded and leave Aulis; dry those streaming eyes, brother, and provoke me not to tears. Whatever concern thou hast in oracles that affect thy child, let it be none of mine; into thy hands I resign my share therein. A sudden change, thou'lt say, from my fell proposals! A natural course for me; affection for my brother caused the change. These are the ways of a man not void of virtue, to pursue on each occasion what is best.",
+          "lineStart": 444
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 465
+        },
+        {
+          "type": "para",
+          "text": "A generous speech, worthy of Tantalus, the son of Zeus! Thou dost not shame thy ancestry.",
+          "lineStart": 466
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 468
+        },
+        {
+          "type": "para",
+          "text": "I thank thee, Menelaus, for this unexpected suggestion; 'tis an honourable proposal, worthy of thee.",
+          "lineStart": 469
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 471
+        },
+        {
+          "type": "para",
+          "text": "Sometimes love, sometimes the selfishness of their families causes a quarrel between brothers; I loathe a relationship of this kind which is bitterness to both.",
+          "lineStart": 472
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 475
+        },
+        {
+          "type": "para",
+          "text": "'Tis useless, for circumstances compel me to carry out the murderous sacrifice of my daughter.",
+          "lineStart": 476
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 478
+        },
+        {
+          "type": "para",
+          "text": "How so? who will compel thee to slay thine own child?",
+          "lineStart": 479
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 480
+        },
+        {
+          "type": "para",
+          "text": "The whole Achaean army here assembled.",
+          "lineStart": 481
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 482
+        },
+        {
+          "type": "para",
+          "text": "Not if thou send her back to Argos.",
+          "lineStart": 483
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 484
+        },
+        {
+          "type": "para",
+          "text": "I might do that unnoticed, but there will be another thing I cannot.",
+          "lineStart": 485
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 487
+        },
+        {
+          "type": "para",
+          "text": "What is that? Thou must not fear the mob too much.",
+          "lineStart": 488
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 489
+        },
+        {
+          "type": "para",
+          "text": "Calchas will tell the Argive host his oracles.",
+          "lineStart": 490
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 491
+        },
+        {
+          "type": "para",
+          "text": "Not if he be killed ere that-an easy matter.",
+          "lineStart": 492
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 493
+        },
+        {
+          "type": "para",
+          "text": "The whole tribe of seers is a curse with its ambition.",
+          "lineStart": 494
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 495
+        },
+        {
+          "type": "para",
+          "text": "Yes, and good for nothing and useless, when amongst us.",
+          "lineStart": 496
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 497
+        },
+        {
+          "type": "para",
+          "text": "Has the thought, which is rising in my mind, no terrors for thee?",
+          "lineStart": 498
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 500
+        },
+        {
+          "type": "para",
+          "text": "How can I understand thy meaning, unless thou declare it?",
+          "lineStart": 501
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 502
+        },
+        {
+          "type": "para",
+          "text": "The son of Sisyphus knows all.",
+          "lineStart": 503
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 504
+        },
+        {
+          "type": "para",
+          "text": "Odysseus cannot possibly hurt us.",
+          "lineStart": 505
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 506
+        },
+        {
+          "type": "para",
+          "text": "He was ever shifty by nature, siding with the mob.",
+          "lineStart": 507
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 508
+        },
+        {
+          "type": "para",
+          "text": "True, he is enslaved by the love of popularity, a fearful evil.",
+          "lineStart": 509
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 510
+        },
+        {
+          "type": "para",
+          "text": "Bethink thee then, will he not arise among the Argives and tell them the oracles that Calchas delivered, saying of me that I undertook to offer Artemis a victim, and after all am proving false? Then, when he has carried the army away with him, he will bid the Argives slay us and sacrifice the maiden; and if I escape to Argos, they will come and destroy the place, razing it to the ground, Cyclopean walls and all. That is my trouble. Woe is me! to what straits Heaven has brought me at this pass! Take one precaution for me, Menelaus, as thou goest through the host, that Clytemnestra learn this not, till I have taken my child and devoted her to death, that my affliction may be attended with the fewest tears. Turning to the CHORUS And you, ye stranger dames, keep silence. Exeunt AGAMEMNON and MENELAUS.",
+          "lineStart": 511
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 525
+        },
+        {
+          "type": "para",
+          "text": "Happy they who find the goddess come in moderate might, sharing with self-restraint in Aphrodite's gift of marriage and enjoying calm and rest from frenzied passions, wilerein the Love-god, golden-haired, stretches his charmed bow with arrows twain, and one is aimed at happiness, the other at life's confusion. O lady Cypris, queen of beauty! far from my bridal bower I ban the last. Be mine delight in moderation and pure desires, and may I have a share in love, but shun excess therein",
+          "lineStart": 526
+        },
+        {
+          "type": "para",
+          "text": "Men's natures vary, and their habits differ, but true virtue is always manifest. Likewise the training that comes of education conduces greatly to virtue; for not only is modesty wisdom, but it has also the rare grace of seeing by its better judgment what is right; whereby glory, ever young, is shed o'er life by reputation. A great thing it is to follow virtue's footsteps-for women in their secret loves; while in men again an inborn sense of order, shown in countless ways, adds to a city's greatness.",
+          "lineStart": 533
+        },
+        {
+          "type": "para",
+          "text": "Thou camest, O Paris, to the place where thou wert reared to herd the kine amid the white heifers of Ida, piping in foreign strain and breathing on thy reeds an echo of the Phrygian airs Olympus played. Full-uddered cows were browsing at the spot where that verdict 'twixt goddesses was awaiting thee the cause of thy going to Hellas to stand before the ivory palace, kindling love in Helen's tranced eyes and feeling its flutter in thine own breast; whence the fiend of strife brought Hellas with her chivalry and ships to the towers of Troy.",
+          "lineStart": 541
+        },
+        {
+          "type": "para",
+          "text": "Oh! great is the bliss the great enjoy. Behold Iphigenia, the king's royal child, and Clytaemnestra, the daughter of Tyndareus; how proud their lineage! how high their pinnacle of fortune! These mighty ones, whom wealth attends, are very gods in the eyes of less favoured folk.",
+          "lineStart": 549
+        },
+        {
+          "type": "para",
+          "text": "Halt we here, maidens of Chalcis, and lift the queen from her chariot to the ground without stumbling, supporting her gently in our arms, with kind intent, that the renowned daughter of Agamemnon but just arrived may feel no fear; strangers ourselves, avoid we aught that may disturb or frighten the strangers from Argos. Enter CLYTAEMNESTRA and IPHIGENIA.",
+          "lineStart": 554
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 560
+        },
+        {
+          "type": "para",
+          "text": "I take this as a lucky omen, thy kindness and auspicious greeting, and have good hope that it is to a happy marriage I conduct the bride. To Attendants Take from the chariot the dowry I am bringing for my daughter and convey it within with careful heed.",
+          "lineStart": 561
+        },
+        {
+          "type": "para",
+          "text": "My daughter, leave the horse-drawn car, planting thy faltering footstep delicately. To the CHORUS Maidens, take her in your arms and lift her from the chariot, and let one of you give me the support of her hand, that I may quit my seat in the carriage with fitting grace.",
+          "lineStart": 566
+        },
+        {
+          "type": "para",
+          "text": "Some or you stand at the horses' heads; for the horse has a timid eye, easily frightened; here take this child Orestes, son of Agamemnon, babe as he still is.",
+          "lineStart": 572
+        },
+        {
+          "type": "para",
+          "text": "What! sleeping, little one, tired out by thy ride in the chariot? Awake to bless thy sister's wedding; for thou, my gallant boy, shalt get by this marriage a kinsman gallant as thyself, the Nereid's godlike offspring. Come hither to thy mother, my daughter, Iphigenia, and seat thyself beside me, and stationed near show my happiness to these strangers; yes, come hither and welcome the sire thou lovest so dearly.",
+          "lineStart": 575
+        },
+        {
+          "type": "para",
+          "text": "Hail! my honoured lord, king Agamemnon! we have obeyed thy commands and are come. Enter AGAMEMNON.",
+          "lineStart": 581
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 584
+        },
+        {
+          "type": "para",
+          "text": "Throwing herself into AGAMEMNON'S arms Be not wroth with me, mother, if I run from thy side and throw myself on my father's breast.",
+          "lineStart": 585
+        },
+        {
+          "type": "para",
+          "text": "O my father! I long to outrun others and embrace thee after this long while; for I yearn to see thy face; be not wroth with me.",
+          "lineStart": 588
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 590
+        },
+        {
+          "type": "para",
+          "text": "Thou mayst do so, daughter; for of all the children I have born, thou hast ever loved thy father best.",
+          "lineStart": 591
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 593
+        },
+        {
+          "type": "para",
+          "text": "I see thee, father, joyfully after a long season.",
+          "lineStart": 594
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 595
+        },
+        {
+          "type": "para",
+          "text": "And I thy father thee; thy words do equal duty for both of us.",
+          "lineStart": 596
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 598
+        },
+        {
+          "type": "para",
+          "text": "All hail, father! thou didst well in bringing me hither to thee.",
+          "lineStart": 599
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 601
+        },
+        {
+          "type": "para",
+          "text": "I know not how I am to say yes or no to that, my child.",
+          "lineStart": 602
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 603
+        },
+        {
+          "type": "para",
+          "text": "Ha! how wildly thou art looking, spite of thy joy at seeing me.",
+          "lineStart": 604
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 606
+        },
+        {
+          "type": "para",
+          "text": "A man has many cares when he is king and general too.",
+          "lineStart": 607
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 608
+        },
+        {
+          "type": "para",
+          "text": "Be mine, all mine to-day; turn not unto moody thoughts.",
+          "lineStart": 609
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 610
+        },
+        {
+          "type": "para",
+          "text": "Why so I am, all thine to-day; I have no other thought.",
+          "lineStart": 611
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 612
+        },
+        {
+          "type": "para",
+          "text": "Then smooth thy knitted brow, unbend and smile.",
+          "lineStart": 613
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 614
+        },
+        {
+          "type": "para",
+          "text": "Lo! my child, my joy at seeing thee is even as it is.",
+          "lineStart": 615
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 616
+        },
+        {
+          "type": "para",
+          "text": "And hast thou then the tear-drop streaming from thy eyes?",
+          "lineStart": 617
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 618
+        },
+        {
+          "type": "para",
+          "text": "Ave, for long is the absence from each other, that awalts us.",
+          "lineStart": 619
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 620
+        },
+        {
+          "type": "para",
+          "text": "I know not, dear father mine, I know not of what thou art speaking.",
+          "lineStart": 621
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 622
+        },
+        {
+          "type": "para",
+          "text": "Thou art moving my pity all the more by speaking so sensibly.",
+          "lineStart": 623
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 624
+        },
+        {
+          "type": "para",
+          "text": "My words shall turn to senselessness, if that will cheer thee more.",
+          "lineStart": 625
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 627
+        },
+        {
+          "type": "para",
+          "text": "Aside Ah, woe is me! this silence is too much. To IPHIGENIA Thou hast my thanks.",
+          "lineStart": 628
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 632
+        },
+        {
+          "type": "para",
+          "text": "Stay with thy children at home, father.",
+          "lineStart": 633
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 634
+        },
+        {
+          "type": "para",
+          "text": "My own wish! but to my sorrow I may not humour it.",
+          "lineStart": 635
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 636
+        },
+        {
+          "type": "para",
+          "text": "Ruin seize their warring and the woes of Menelaus!",
+          "lineStart": 637
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 638
+        },
+        {
+          "type": "para",
+          "text": "First will that, which has been my life-long ruin, bring ruin unto others.",
+          "lineStart": 639
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 641
+        },
+        {
+          "type": "para",
+          "text": "How long thou wert absent in the bays of Aulis!",
+          "lineStart": 642
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 643
+        },
+        {
+          "type": "para",
+          "text": "Aye, and there is still a hindrance to my sending the army forward.",
+          "lineStart": 644
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 646
+        },
+        {
+          "type": "para",
+          "text": "Where do men say the Phrygians live, father?",
+          "lineStart": 647
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 648
+        },
+        {
+          "type": "para",
+          "text": "In a land where I would Paris, the son of Priam, ne'er had dwelt.",
+          "lineStart": 649
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 651
+        },
+        {
+          "type": "para",
+          "text": "'Tis a long voyage thou art bound on, father, after thou leavest me.",
+          "lineStart": 652
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 654
+        },
+        {
+          "type": "para",
+          "text": "Thou wilt meet thy father again, my daughter.",
+          "lineStart": 655
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 656
+        },
+        {
+          "type": "para",
+          "text": "Ah! would it were seemly that thou shouldst take me as a fellow-voyager!",
+          "lineStart": 657
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 658
+        },
+        {
+          "type": "para",
+          "text": "Thou too hast a voyage to make to a haven where thou wilt remember thy father.",
+          "lineStart": 659
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 661
+        },
+        {
+          "type": "para",
+          "text": "Shall I sail thither with my mother or alone?",
+          "lineStart": 662
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 663
+        },
+        {
+          "type": "para",
+          "text": "All alone, without father or mother.",
+          "lineStart": 664
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 665
+        },
+        {
+          "type": "para",
+          "text": "What! hast thou found me a new home, father!",
+          "lineStart": 666
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 667
+        },
+        {
+          "type": "para",
+          "text": "Enough of this! 'tis not for girls to know such things.",
+          "lineStart": 668
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 669
+        },
+        {
+          "type": "para",
+          "text": "Speed home from Troy, I pray thee, father, as soon as thou hast triumphed there.",
+          "lineStart": 670
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 672
+        },
+        {
+          "type": "para",
+          "text": "There is a sacrifice have first to offer here.",
+          "lineStart": 673
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 674
+        },
+        {
+          "type": "para",
+          "text": "Yea, 'tis thy duty to heed religion with aid of holy rites.",
+          "lineStart": 675
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 676
+        },
+        {
+          "type": "para",
+          "text": "Thou wilt witness it, for thou wilt be standing near the laver.",
+          "lineStart": 677
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "IPHIGENIA",
+          "lineStart": 678
+        },
+        {
+          "type": "para",
+          "text": "Am I to lead the dance then round the altar, father?",
+          "lineStart": 679
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 680
+        },
+        {
+          "type": "para",
+          "text": "Aside I count thee happier than myself because thou knowest nothing. To IPHIGENIA Go within into the presence of maidens, after thou hast given me thy hand and one sad kiss, on the eve of thy lengthy sojourn far from thy father's side.",
+          "lineStart": 681
+        },
+        {
+          "type": "para",
+          "text": "Bosom, cheek, and golden hair! ah, how grievous ye have found Helen and the Phrygians' city! I can no more; the tears come welling to my eyes, the moment I touch thee. Exit IPHIGENIA. Turning to CLYTAEMNESTRA Herein I crave thy pardon, daughter of Leda, if I showed excessive grief at the thought of resigning my daughter to Achilles; for though we are sending her to taste of bliss, still it wrings a parent's heart, when he, the father who has toiled so hard for them, commits his children to the homes of strangers.",
+          "lineStart": 688
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 698
+        },
+        {
+          "type": "para",
+          "text": "I am not so void of sense; bethink thee, I shall go through this as well, when I lead the maiden from the chamber to the sound of the marriage-hymn; wherefore I chide thee not; but custom will combine with time to make the smart grow less.",
+          "lineStart": 699
+        },
+        {
+          "type": "para",
+          "text": "As touching him, to whom thou hast betrothed our daughter, I know his name, 'tis true, but would fain learn his lineage and the land of his birth.",
+          "lineStart": 703
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 706
+        },
+        {
+          "type": "para",
+          "text": "There was one Aegina, the daughter of Asopus.",
+          "lineStart": 707
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 708
+        },
+        {
+          "type": "para",
+          "text": "Who wedded her? some mortal or a god?",
+          "lineStart": 709
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 710
+        },
+        {
+          "type": "para",
+          "text": "Zeus, and she bare Aeacus, the prince of Cenone.",
+          "lineStart": 711
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 712
+        },
+        {
+          "type": "para",
+          "text": "What son of Aeacus secured his father's halls?",
+          "lineStart": 713
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 714
+        },
+        {
+          "type": "para",
+          "text": "Peleus, who wedded the daughter of Nereus.",
+          "lineStart": 715
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 716
+        },
+        {
+          "type": "para",
+          "text": "With the god's consent, or when he had taken her in spite of gods?",
+          "lineStart": 717
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 719
+        },
+        {
+          "type": "para",
+          "text": "Zeus betrothed her, and her guardian gave consent.",
+          "lineStart": 720
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 721
+        },
+        {
+          "type": "para",
+          "text": "Where did he marry her? amid the billows of the sea?",
+          "lineStart": 722
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 723
+        },
+        {
+          "type": "para",
+          "text": "In Chiron's home, at sacred Pelion's foot.",
+          "lineStart": 724
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 725
+        },
+        {
+          "type": "para",
+          "text": "What! the abode ascribed to the race of Centaurs?",
+          "lineStart": 726
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 727
+        },
+        {
+          "type": "para",
+          "text": "It was there the gods celebrated the marriage feast of Peleus.",
+          "lineStart": 728
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 729
+        },
+        {
+          "type": "para",
+          "text": "Did Thetis or his father train Achilles?",
+          "lineStart": 730
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 731
+        },
+        {
+          "type": "para",
+          "text": "Chiron brought him up, to prevent his learning the ways of the wicked.",
+          "lineStart": 732
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 734
+        },
+        {
+          "type": "para",
+          "text": "Ah wise the teacher, still wiser the father, who intrusted his son to such hands.",
+          "lineStart": 735
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 737
+        },
+        {
+          "type": "para",
+          "text": "Such is the future husband of thy daughter.",
+          "lineStart": 738
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 739
+        },
+        {
+          "type": "para",
+          "text": "A blameless lord; but what city in Hellas is his?",
+          "lineStart": 740
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 741
+        },
+        {
+          "type": "para",
+          "text": "He dwells on the banks of the river Apidanus, in the borders of Phthia.",
+          "lineStart": 742
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 744
+        },
+        {
+          "type": "para",
+          "text": "Wilt thou convey our daughter thither?",
+          "lineStart": 745
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 746
+        },
+        {
+          "type": "para",
+          "text": "He who takes her to himself will see to that.",
+          "lineStart": 747
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 748
+        },
+        {
+          "type": "para",
+          "text": "Happiness attend the pair! Which day will he marry her?",
+          "lineStart": 749
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 750
+        },
+        {
+          "type": "para",
+          "text": "As soon as the full moon comes to give its blessing.",
+          "lineStart": 751
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 752
+        },
+        {
+          "type": "para",
+          "text": "Hast thou already offered the goddess a sacrifice to usher in the maiden's marriage?",
+          "lineStart": 753
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 755
+        },
+        {
+          "type": "para",
+          "text": "I am about to do so; that is the very thing I was engaged in.",
+          "lineStart": 756
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 757
+        },
+        {
+          "type": "para",
+          "text": "Wilt thou celebrate the marriage-feast thereafter?",
+          "lineStart": 758
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 759
+        },
+        {
+          "type": "para",
+          "text": "Yes, when I have offered a sacrifice required by Heaven of me.",
+          "lineStart": 760
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 762
+        },
+        {
+          "type": "para",
+          "text": "But where am I to make ready the feast for the women?",
+          "lineStart": 763
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 764
+        },
+        {
+          "type": "para",
+          "text": "Here beside our gallant Argive ships.",
+          "lineStart": 765
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 766
+        },
+        {
+          "type": "para",
+          "text": "Finely here! but still I must; good come of it for all that!",
+          "lineStart": 767
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 768
+        },
+        {
+          "type": "para",
+          "text": "I will tell thee, lady, what to do; so obey me now.",
+          "lineStart": 769
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 770
+        },
+        {
+          "type": "para",
+          "text": "Wherein? for I was ever wont to yield thee obedience.",
+          "lineStart": 771
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 772
+        },
+        {
+          "type": "para",
+          "text": "Here, where the bridegroom is, will!",
+          "lineStart": 773
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 774
+        },
+        {
+          "type": "para",
+          "text": "Which of my duties will ye perform in the mother's absence?",
+          "lineStart": 775
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 776
+        },
+        {
+          "type": "para",
+          "text": "Give thy child away with help of Danai.",
+          "lineStart": 777
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 778
+        },
+        {
+          "type": "para",
+          "text": "And where am I to be the while?",
+          "lineStart": 779
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 780
+        },
+        {
+          "type": "para",
+          "text": "Get thee to Argos, and take care of thy unwedded daughters.",
+          "lineStart": 781
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 782
+        },
+        {
+          "type": "para",
+          "text": "And leave my child? Then who will raise her bridal torch?",
+          "lineStart": 783
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 784
+        },
+        {
+          "type": "para",
+          "text": "I will provide the proper wedding torch.",
+          "lineStart": 785
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 786
+        },
+        {
+          "type": "para",
+          "text": "That is not the custom; but thou thinkest lightly of these things.",
+          "lineStart": 787
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 789
+        },
+        {
+          "type": "para",
+          "text": "It is not good thou shouldst be alone among a soldier-crowd.",
+          "lineStart": 790
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 791
+        },
+        {
+          "type": "para",
+          "text": "It is good that a mother should give her own child away.",
+          "lineStart": 792
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 793
+        },
+        {
+          "type": "para",
+          "text": "Aye, and that those maidens at home should not be left alone.",
+          "lineStart": 794
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 795
+        },
+        {
+          "type": "para",
+          "text": "They are in safe keeping, pent in their maiden-bowers.",
+          "lineStart": 796
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 797
+        },
+        {
+          "type": "para",
+          "text": "Obey.",
+          "lineStart": 798
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 799
+        },
+        {
+          "type": "para",
+          "text": "Nay, by the goddess-queen of Argos! go, manage matters out of doors; but in the house it is my place to decide what is proper for maidens at their wedding. Exit.",
+          "lineStart": 800
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 803
+        },
+        {
+          "type": "para",
+          "text": "Woe is me! my efforts are baffled; I am disappointed in my hope, anxious as I was to get my wife out of sight; foiled at every point, I form my plots and subtle schemes against my best-beloved. But I will go, in spite of all, with Calchas the priest, to inquire the goddess's good pleasure, fraught with ill-luck as it is to me, and with trouble to Hellas. He who is wise should keep in his house a good and useful wife or none at all. Exit.",
+          "lineStart": 804
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 812
+        },
+        {
+          "type": "para",
+          "text": "They say the Hellenes' gathered host will come in arms aboard their ships to Simois with its silver eddies, even to Ilium, the plain of Troy beloved by Phoebus; where famed Cassandra, I am told, whene'er the god's resistless prophecies inspire her, wildly tosses her golden tresses, wreathed with crown of verdant bay. And on the towers of Troy and round her walls shall Trojans stand, when sea-borne troops with brazen shields row in on shapely ships to the channels of the Simois, eager to take Helen, the sister of that heavenly pair whom Zeus begat, from Priam, and bear her back to Hellas by toil of Achaea's shields and spears; encircling Pergamus, the Phrygians' town, with murderous war around her stone-built towers, dragging men's heads backward to cut their throats, and sacking the citadel of Troy from roof to base, a cause of many tears to maids and Priam's wife; and Helen, the daughter of Zeus, shall weep in bitter grief, because she left her lord.",
+          "lineStart": 813
+        },
+        {
+          "type": "para",
+          "text": "Oh! ne'er may there appear to me or to my children's children the prospect which the wealthy Lydian dames and Phrygia's brides will have, as at their looms they hold converse: \"Say who will pluck this fair blossom from her ruined country, tightening his grasp on lovely tresses till the tears flow? 'Tis all through thee, the offspring of the long-necked swan; if indeed it be a true report that Leda bare thee to a winged bird, when Zeus transformed himself thereto, or whether, in the pages of the poets, fables have carried these tales to men's ears idly, out of season.\" Enter ACHILLES.",
+          "lineStart": 827
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 836
+        },
+        {
+          "type": "para",
+          "text": "Where in these tents is Achaea's general? Which of his servants will announce to him that Achilles, the son of Peleus, is at his gates seeking him? For this delay at the Euripus is not the same for all of us; there be some, for instance, who, though still unwed, have left their houses desolate and are idling here upon the beach, while others are married and have children; so strange the longing for this expedition that has fallen on their hearts by Heaven's will. My own just plea must I declare, and whoso else hath any wish will speak for himself. Though I have left Pharsalia and Peleus, still I linger here by reason of these light breezes at the Euripus, restraining my Myrmidons, while they are ever instant with me saying, \"Why do we tarry, Achilles? how much longer must we count the days to the start for Ilium? do something, if thou art so minded; else lead home thy men, and wait not for the tardy action of these Atridae.\" Enter CLYTAEMNESTRA.",
+          "lineStart": 837
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 851
+        },
+        {
+          "type": "para",
+          "text": "Hail to thee, son of the Nereid goddess! I heard thy voice from within the tent and therefore came forth.",
+          "lineStart": 852
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 854
+        },
+        {
+          "type": "para",
+          "text": "O modesty revered! who can this lady be whom I behold, so richly dowered with beauty's gifts?",
+          "lineStart": 855
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 857
+        },
+        {
+          "type": "para",
+          "text": "No wonder thou knowest me not, seeing I am one thou hast never before set eyes on; I praise thy reverent address to modesty.",
+          "lineStart": 858
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 860
+        },
+        {
+          "type": "para",
+          "text": "Who art thou, and wherefore art thou come to the mustering of the Danai-thou, a woman, to a fenced camp of men?",
+          "lineStart": 861
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 863
+        },
+        {
+          "type": "para",
+          "text": "The daughter of Leda I; my name Clytaemnestra; and my husband king Agamemnon.",
+          "lineStart": 864
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 866
+        },
+        {
+          "type": "para",
+          "text": "Well and shortly answered on all important points! but it ill befits that I should stand talking to women.",
+          "lineStart": 867
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 869
+        },
+        {
+          "type": "para",
+          "text": "Stay; why seek to fly? Give me thy hand, a prelude to a happy marriage.",
+          "lineStart": 870
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 872
+        },
+        {
+          "type": "para",
+          "text": "What is it thou sayest? I give thee my hand? Were I to lay a finger where I have no right, I could ne'er meet Agamemnon's eye.",
+          "lineStart": 873
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 875
+        },
+        {
+          "type": "para",
+          "text": "The best of rights hast thou, seeing it is my child thou wilt wed, O son of the sea-goddess, whom Nereus begat.",
+          "lineStart": 876
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 878
+        },
+        {
+          "type": "para",
+          "text": "What wedding dost thou speak of? words fail me, lady; can thy wits have gone astray and art thou inventing this?",
+          "lineStart": 879
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 881
+        },
+        {
+          "type": "para",
+          "text": "All men are naturally shy in the presence of new relations, when these remind them of their wedding.",
+          "lineStart": 882
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 884
+        },
+        {
+          "type": "para",
+          "text": "Lady, I have never wooed daughter of thine, nor have the sons of Atreus ever mentioned marriage to me.",
+          "lineStart": 885
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 887
+        },
+        {
+          "type": "para",
+          "text": "What can it mean? thy turn now to marvel at my words, for thine are passing strange to me.",
+          "lineStart": 888
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 890
+        },
+        {
+          "type": "para",
+          "text": "Hazard a guess; that we can both do in this matter; for it may be we are both correct in our statements.",
+          "lineStart": 891
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 893
+        },
+        {
+          "type": "para",
+          "text": "What! have I suffered such indignity? The marriage I am courting has no reality, it seems; I am ashamed of it.",
+          "lineStart": 894
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 896
+        },
+        {
+          "type": "para",
+          "text": "Some one perhaps has made a mock of thee and me; pay no heed thereto; make light of it.",
+          "lineStart": 897
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 899
+        },
+        {
+          "type": "para",
+          "text": "Farewell; I can no longer face thee with unfaltering eyes, after being made a liar and suffering this indignity.",
+          "lineStart": 900
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 902
+        },
+        {
+          "type": "para",
+          "text": "'Tis \"farewell\" too I bid thee, lady; and now I go within the tent to seek thy husband.",
+          "lineStart": 903
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 905
+        },
+        {
+          "type": "para",
+          "text": "Calling through the tent-door Stranger of the race of Aeacus, stay awhile! Ho there! thee I mean, O goddess-born, and thee, daughter of Leda.",
+          "lineStart": 906
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 909
+        },
+        {
+          "type": "para",
+          "text": "Who is it calling through the half-opened door? what fear his voice betrays!",
+          "lineStart": 910
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 912
+        },
+        {
+          "type": "para",
+          "text": "A slave am I; of that I am not proud, for fortune permits it not.",
+          "lineStart": 913
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 915
+        },
+        {
+          "type": "para",
+          "text": "Whose slave art thou? not mine; for mine and Agamemnon's goods are separate.",
+          "lineStart": 916
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 918
+        },
+        {
+          "type": "para",
+          "text": "I belong to this lady who stands before the tent, a gift to her from Tyndareus her father.",
+          "lineStart": 919
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 921
+        },
+        {
+          "type": "para",
+          "text": "I am waiting; tell me, if thou art desirous, why thou hast stayed me.",
+          "lineStart": 922
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 924
+        },
+        {
+          "type": "para",
+          "text": "Are ye really all alone here at the door?",
+          "lineStart": 925
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 926
+        },
+        {
+          "type": "para",
+          "text": "To us alone wilt thou address thyself; come forth from the king's tent.",
+          "lineStart": 927
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 929
+        },
+        {
+          "type": "para",
+          "text": "Coming out O Fortune and my own foresight, preserve whom I desire!",
+          "lineStart": 930
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 932
+        },
+        {
+          "type": "para",
+          "text": "That speech will save them-in the future; it has a certain pompous air.",
+          "lineStart": 933
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 935
+        },
+        {
+          "type": "para",
+          "text": "Delay not for the sake of touching my right hand, if there is aught that thou wouldst say to me.",
+          "lineStart": 936
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 938
+        },
+        {
+          "type": "para",
+          "text": "Well, thou knowest my character and my devotion to thee and thy children.",
+          "lineStart": 939
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 941
+        },
+        {
+          "type": "para",
+          "text": "I know thou hast grown old in the service of my house.",
+          "lineStart": 942
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 943
+        },
+        {
+          "type": "para",
+          "text": "Likewise thou knowest it was in thy dowry king Agamemnon received me.",
+          "lineStart": 944
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 946
+        },
+        {
+          "type": "para",
+          "text": "Yes, thou camest to Argos with me, and hast been mine this long time past.",
+          "lineStart": 947
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 949
+        },
+        {
+          "type": "para",
+          "text": "True; and though I bear thee all goodwill, I like not thy lord so well.",
+          "lineStart": 950
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 952
+        },
+        {
+          "type": "para",
+          "text": "Come, come, unfold whate'er thou hast to say.",
+          "lineStart": 953
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 954
+        },
+        {
+          "type": "para",
+          "text": "Her father, he that begat her, is on the point of slaying thy daughter with his own hand.",
+          "lineStart": 955
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 957
+        },
+        {
+          "type": "para",
+          "text": "How? Out upon thy story, old dotard! thou art mad.",
+          "lineStart": 958
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 959
+        },
+        {
+          "type": "para",
+          "text": "Severing with a sword the hapless maid's white throat.",
+          "lineStart": 960
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 961
+        },
+        {
+          "type": "para",
+          "text": "Ah, woe is me! Is my husband haply mad?",
+          "lineStart": 962
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 963
+        },
+        {
+          "type": "para",
+          "text": "Nay; sane, except where thou and thy daughter are concerned; there he is mad.",
+          "lineStart": 964
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 966
+        },
+        {
+          "type": "para",
+          "text": "What is his reason? what vengeful fiend impels him?",
+          "lineStart": 967
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 968
+        },
+        {
+          "type": "para",
+          "text": "Oracles-at least so Calchas says, in order that the host may start",
+          "lineStart": 969
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 971
+        },
+        {
+          "type": "para",
+          "text": "Whither? Woe is me, and woe is thee, thy father's destined victim!",
+          "lineStart": 972
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 974
+        },
+        {
+          "type": "para",
+          "text": "To the halls of Dardanus, that Menelaus may recover Helen.",
+          "lineStart": 975
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 976
+        },
+        {
+          "type": "para",
+          "text": "So Helen's return then was fated to affect Iphigenia?",
+          "lineStart": 977
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 978
+        },
+        {
+          "type": "para",
+          "text": "Thou knowest all; her father is about to offer thy child to Artemis.",
+          "lineStart": 979
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 981
+        },
+        {
+          "type": "para",
+          "text": "But that marriage-what pretext had it for bringing me from home?",
+          "lineStart": 982
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 984
+        },
+        {
+          "type": "para",
+          "text": "An inducement to thee to bring thy daughter cheerfully, to wed her to Achilles.",
+          "lineStart": 985
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 987
+        },
+        {
+          "type": "para",
+          "text": "On a deadly errand art thou come, my daughter, both thou, and I, thy mother.",
+          "lineStart": 988
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 990
+        },
+        {
+          "type": "para",
+          "text": "Piteous the lot of both of you-and fearful Agamemnon's venture.",
+          "lineStart": 991
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 992
+        },
+        {
+          "type": "para",
+          "text": "Alas! I am undone; my eyes can no longer stem their tears.",
+          "lineStart": 993
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 994
+        },
+        {
+          "type": "para",
+          "text": "What more natural than to weep the loss of thy children?",
+          "lineStart": 995
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 996
+        },
+        {
+          "type": "para",
+          "text": "Whence, old man, dost say thou hadst this news?",
+          "lineStart": 997
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 998
+        },
+        {
+          "type": "para",
+          "text": "I had started to carry thee a letter referring to the former writing.",
+          "lineStart": 999
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1001
+        },
+        {
+          "type": "para",
+          "text": "Forbidding or combining to urge my bringing the child to her death?",
+          "lineStart": 1002
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 1004
+        },
+        {
+          "type": "para",
+          "text": "Nay, forbidding it, for thy lord was then in his sober senses.",
+          "lineStart": 1005
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1006
+        },
+        {
+          "type": "para",
+          "text": "How comes it then, if thou wert really bringing me a letter, that thou dost not now deliver into my hands?",
+          "lineStart": 1007
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ATTENDANT",
+          "lineStart": 1009
+        },
+        {
+          "type": "para",
+          "text": "Menelaus snatched it from me-he who caused this trouble.",
+          "lineStart": 1010
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1011
+        },
+        {
+          "type": "para",
+          "text": "Dost thou hear that, son of Peleus, the Nereid's child?",
+          "lineStart": 1012
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 1013
+        },
+        {
+          "type": "para",
+          "text": "I have been listening to the tale of thy sufferings, and I am indignant to think I was used as a tool.",
+          "lineStart": 1014
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1016
+        },
+        {
+          "type": "para",
+          "text": "They will slay my child; they have tricked her with thy marriage.",
+          "lineStart": 1017
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 1018
+        },
+        {
+          "type": "para",
+          "text": "Like thee I blame thy lord, nor do I view it with mere indifference.",
+          "lineStart": 1019
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1020
+        },
+        {
+          "type": "para",
+          "text": "No longer will I let shame prevent my kneeling to thee, a mortal to one goddess-born; why do I affect reserve? whose interests should I consult before my child's? Throwing herself before ACHILLES Oh! help me, goddess-born, in my sore distress, and her that was called thy bride-in vain, 'tis true, yet called she was. For thee it was I wreathed her head and led her forth as if to marriage, but now it is to slaughter I am bringing her. On thee will come reproach because thou didst not help her; for though not wedded to her, yet wert thou the loving husband of my hapless maid in name at any rate. By thy beard, right hand, and mother too I do implore thee; for thy name it was that worked my ruin, and thou art bound to stand by that. Except thy knees I have no altar whereunto to fly; and not a friend stands at my side. Thou hast heard the cruel abandoned scheme of Agamemnon; and I, a woman, am come, as thou seest, to a camp of lawless sailor-folk, bold in evil's cause, though useful when they list; wherefore if thou boldly stretch forth thine arm in my behalf, our safety is assured; but if thou withhold it, we are lost.",
+          "lineStart": 1021
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1038
+        },
+        {
+          "type": "para",
+          "text": "A wondrous thing is motherhood, carrying with it a potent spell, wherein all share, so that for their children's sake they will endure affliction.",
+          "lineStart": 1039
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 1041
+        },
+        {
+          "type": "para",
+          "text": "My proud spirit is stirred to range aloft, but it has learnt to grieve in misfortune and rejoice in high prosperity with equal moderation. For these are the men who can count on ordering all their life aright by wisdom's rules. True, there are cases where 'tis pleasant not to be too wise, but there are others, where some store of wisdom helps. Brought up in godly Chiron's halls myself, I learnt to keep a single heart; and provided the Atridae lead aright, I will obey them; but when they cease therefrom, no more will I obey. Nay, but here and in Troy I will show the freedom of my nature, and, as far as in me lies, do honour to Ares with my spear. Thee, lady, who hast suffered so cruelly from thy nearest and dearest, will I, by every effort in a young man's power, set right, investing thee with that amount of pity, and never shall thy daughter, after being once called my bride, die by her father's hand; for I will not lend myself to thy husband's subtle tricks; no! for it will be my name that kills thy child, although it wieldeth not the steel. Thy own husband is the actual cause, but I shall no longer be guiltless, if, because of me and my marriage, this maiden perishes, she that hath suffered past endurance and been the victim of affronts most strangely undeserved. So am I made the poorest wretch in Argos; I a thing of naught, and Menelaus counting for a man! No son of Peleus I, but the issue of a vengeful fiend, if my name shall serve thy husband for the murder. Nay! by Nereus, who begat my mother Thetis, in his home amid the flowing waves, never shall king Agamemnon touch thy daughter, no! not even to the laying of a finger-tip upon her robe; else will Sipylus, that frontier town of barbarism, the cradle of those chieftains' line, be henceforth a city indeed, while Phthia's name will nowhere find mention. Calchas, the seer, shall rue beginning the sacrifice with his barley-meal and lustral water. Why, what is a seer? A man who with luck tells the truth sometimes, with frequent falsehoods, but when his luck deserts him, collapses then and there. It is not to secure a bride that I have spoken thus-there be maids unnumbered eager to have my love-no! but king Agamemnon has put an insult on me; he should have asked my leave to use my name as a means to catch the child, for it was I chiefly who induced Clytaemnestra to betroth her daughter to me; verily I had yielded this to Hellas, if that was where our going to Ilium broke down; I would never have refused to further my fellow soldiers' common interest. But, as it is, I am as naught in the eyes of those chieftains, and little they reck of treating me well or ill. My sword shall soon know if any one is to snatch thy daughter from me, for then will I make it reek with the bloody stains of slaughter, ere it reach Phrygia. Calm thyself then; as a god in his might I appeared to thee, without being so, but such will I show myself for all that.",
+          "lineStart": 1042
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1083
+        },
+        {
+          "type": "para",
+          "text": "Son of Peleus, thy words are alike worthy of thee and that sea-born deity, the holy goddess.",
+          "lineStart": 1084
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1086
+        },
+        {
+          "type": "para",
+          "text": "Ah! would I could find words to utter thy praise without excess, and yet not lose the graciousness thereof by stinting it; for when the good are praised, they have a feeling, as it were, of hatred for those who in their praise exceed the mean. But I am ashamed of intruding a tale of woe, since my affliction touches myself alone and thou art not affected by troubles of mine; but still it looks well for the man of worth to assist the unfortunate, even when he is not connected with them. Wherefore pity us, for our sufferings cry for pity; in the first place, I have harboured an idle hope in thinking to have thee wed my daughter; and next, perhaps, the slaying of my child will be to thee an evil omen in thy wooing hereafter, against which thou must guard thyself. Thy words were good, both first and last; for if thou will it so, my daughter will be saved. Wilt have her clasp thy knees in suppliant wise? 'Tis no maid's part; yet if it seem good to thee, why come she shall with the modest look of free-born maid; but if I shall obtain the self-same end from thee without ker coming, then let her abide within, for there is dignity in her reserve; still reserve must only go as far as the case allows.",
+          "lineStart": 1087
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 1104
+        },
+        {
+          "type": "para",
+          "text": "Bring not thou thy daughter out for me to see, lady, nor let us incur the reproach of the ignorant; for an army, when gathered together without domestic duties to employ it, loves the evil gossip of malicious tongues. After all, should ye supplicate me, ye will attain a like result as if I had ne'er been supplicated; for I am myself engaged in a mighty struggle to rid you of your troubles. One thing be sure thou hast heard; I will not tell a lie; if I do that or idly mock thee, may I die, but live if I preserve the maid.",
+          "lineStart": 1105
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1113
+        },
+        {
+          "type": "para",
+          "text": "Bless thee for ever succouring the distressed!",
+          "lineStart": 1114
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 1115
+        },
+        {
+          "type": "para",
+          "text": "Hearken then to me, that the matter may succeed.",
+          "lineStart": 1116
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1117
+        },
+        {
+          "type": "para",
+          "text": "What is thy proposal? for hear thee I must.",
+          "lineStart": 1118
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 1119
+        },
+        {
+          "type": "para",
+          "text": "Let us once more urge her father to a better frame of mind.",
+          "lineStart": 1120
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1121
+        },
+        {
+          "type": "para",
+          "text": "He is something of a coward, and fears the army too much.",
+          "lineStart": 1122
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 1123
+        },
+        {
+          "type": "para",
+          "text": "Still argument o'erthroweth argument.",
+          "lineStart": 1124
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1125
+        },
+        {
+          "type": "para",
+          "text": "Cold hope indeed; but tell me what I must do.",
+          "lineStart": 1126
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 1127
+        },
+        {
+          "type": "para",
+          "text": "Entreat him first not to slay his children, and if he is stubborn, come to me. Fir if he consents to thy request, my intervention need go no further, since this consent insures thy safety. I too shall show myself in a better light to my friend, and the army will not blame me, if I arrange the matter by reason rather than force; while, should things turn out well, the result will prove satisfactory both to thee and thy friends, even without my interference.",
+          "lineStart": 1128
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1135
+        },
+        {
+          "type": "para",
+          "text": "How sensibly thou speakest! I must act as seemeth best to thee; but should I fail of my object, where am I to see thee again? whither must I turn my wretched steps and find thee ready to champion my distress?",
+          "lineStart": 1136
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ACHILLES",
+          "lineStart": 1139
+        },
+        {
+          "type": "para",
+          "text": "I am keeping watch to guard thee, where occasion calls, that none see thee passing through the host of Danai with that scared look. Shame not thy father's house; for Tyndareus deserveth not to be ill spoken of, being a mighty man in Hellas.",
+          "lineStart": 1140
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1144
+        },
+        {
+          "type": "para",
+          "text": "'Tis even so. Command me; I must play the slave to thee. If there are gods, thou for thy righteous dealing wilt find them favourable; if there are none, what need to toil? Exeunt ACHILLES and CLYTAEMNESTRA.",
+          "lineStart": 1145
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1149
+        },
+        {
+          "type": "para",
+          "text": "What wedding-hymn was that which raised its strains to the sound of Libyan flutes, to the music of the dancer's lyre, and the note of the pipe of reeds?",
+          "lineStart": 1150
+        },
+        {
+          "type": "para",
+          "text": "'Twas in the day Pieria's fair-tressed choir came o'er the slopes of Pelion to the marriage-feast of Peleus, beating the ground with print of golden sandals at the banquet of the gods, and hymning in dulcet strains the praise of Thetis and the son of Aeacus, o'er the Centaurs' hill, down through the woods of Pelion.",
+          "lineStart": 1153
+        },
+        {
+          "type": "para",
+          "text": "There was the Dardanian boy, Phrygian Ganymede, whom Zeus delights to honour, drawing off the wine he mixed in the depths of golden bowls; while, along the gleaming sand, the fifty daughters of Nereus graced the marriage with their dancing, circling in a mazy ring.",
+          "lineStart": 1158
+        },
+        {
+          "type": "para",
+          "text": "Came too the revel-rout of Centaurs, mounted on horses, to the feast of the gods and the mixing-bowl of Bacchus, leaning on fir-trees, with wreaths of green foliage round their heads; and loudly cried the prophet Chiron, skilled in arts inspired by Phoebus; \"Daughter of Nereus, thou shalt bear a son\"-whose name he gave-\"a dazzling light to Thessaly; for he shall come with an army of spearmen to the far-famed land of Priam, to set it in a blaze, his body cased in a suit of golden mail forged by Hephaestus, a gift from his goddess-mother, even from Thetis who bore him.\"",
+          "lineStart": 1162
+        },
+        {
+          "type": "para",
+          "text": "Then shed the gods a blessing on the marriage of the high-born bride, who was first of Nereus' daughters, and on the wedding of Peleus. But thee, will Argives crown, wreathing the lovely tresses of thy hair, like a dappled mountain hind brought from some rocky cave or a heifer undefiled, and staining with blood thy human throat; though thou wert never reared like these amid the piping and whistling of herdsmen, but at thy mother's side, to be decked one day by her as the bride of a son of Inachus. Where now does the face of modesty or virtue avail aught? seeing that godlessness holds sway, and virtue is neglected by men and thrust behind them, lawlessness o'er law prevailing, and mortals no longer making common cause to keep the jealousy of gods from reaching them.",
+          "lineStart": 1171
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1182
+        },
+        {
+          "type": "para",
+          "text": "Reappearing from the tent I have come from the tent to look out for my husband, who went away and left its shelter long ago; while that poor child, my daughter, hearing of the death her father designs for her, is in tears, uttering in many keys her piteous lamentation. Catching sight of AGAMEMNON It Seems I was speaking of one not far away; for there is Agamemnon, who will soon be detected in the commission of a crime against his own child. Enter AGAMEMNON.",
+          "lineStart": 1183
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1192
+        },
+        {
+          "type": "para",
+          "text": "Daughter of Leda, 'tis lucky I have found thee outside the tent, to discuss with thee in our daughter's absence subjects not suited for the ears of maidens on the eve of marriage.",
+          "lineStart": 1193
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1196
+        },
+        {
+          "type": "para",
+          "text": "What, pray, is dependent on the present crisis?",
+          "lineStart": 1197
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1198
+        },
+        {
+          "type": "para",
+          "text": "Send the maiden out to join her father, for the lustral water stands there ready, and barley-meal to scatter with the hand on the cleansing flame, and heifers to be slain in honour of the goddess Artemis, to usher in the marriage, their black blood spouting from them.",
+          "lineStart": 1199
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1203
+        },
+        {
+          "type": "para",
+          "text": "Though fair the words thou usest, I know not how I am to name thy deeds in terms of praise.",
+          "lineStart": 1204
+        },
+        {
+          "type": "para",
+          "text": "Come forth, my daughter; full well thou knowest what is in thy father's mind; take the child Orestes, thy brother, and bring him with thee in the folds of thy robe. Enter IPHIGENIA. Behold chold she comes, in obedience to thy summons. Myself will speak the rest alike for her and me.",
+          "lineStart": 1206
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1212
+        },
+        {
+          "type": "para",
+          "text": "My child, why weepest thou and no longer lookest cheerfully? why art thou fixing thine eyes upon the ground and holding thy robe before them?",
+          "lineStart": 1213
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1216
+        },
+        {
+          "type": "para",
+          "text": "Alas! with which of my woes shall I begin? for I may treat them all as first, or put them last or midway anywhere.",
+          "lineStart": 1217
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1219
+        },
+        {
+          "type": "para",
+          "text": "How now? I find you all alike, confusion and alarm in every eye.",
+          "lineStart": 1220
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1222
+        },
+        {
+          "type": "para",
+          "text": "My husband, answer frankly the questions I ask thee.",
+          "lineStart": 1223
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1224
+        },
+        {
+          "type": "para",
+          "text": "There is no necessity to order me; I am willing to be questioned.",
+          "lineStart": 1225
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1226
+        },
+        {
+          "type": "para",
+          "text": "Dost thou mean to slay thy child and mine?",
+          "lineStart": 1227
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1228
+        },
+        {
+          "type": "para",
+          "text": "Starting Ha! these are heartless words, unwarranted suspicions!",
+          "lineStart": 1229
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1231
+        },
+        {
+          "type": "para",
+          "text": "Peace! answer me that question first.",
+          "lineStart": 1232
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1233
+        },
+        {
+          "type": "para",
+          "text": "Put a fair question and thou shalt have a fair answer.",
+          "lineStart": 1234
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1235
+        },
+        {
+          "type": "para",
+          "text": "I have no other questions to put; give me no other answers.",
+          "lineStart": 1236
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1237
+        },
+        {
+          "type": "para",
+          "text": "O fate revered, O destiny, and fortune mine!",
+          "lineStart": 1238
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1239
+        },
+        {
+          "type": "para",
+          "text": "Aye, and mine and this maid's too; the three share one bad fortune.",
+          "lineStart": 1240
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1242
+        },
+        {
+          "type": "para",
+          "text": "Whom have I injured?",
+          "lineStart": 1243
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1244
+        },
+        {
+          "type": "para",
+          "text": "Dost thou ask me this question? A thought like that itself amounts to thoughtlessness.",
+          "lineStart": 1245
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1247
+        },
+        {
+          "type": "para",
+          "text": "Ruined! my secret out!",
+          "lineStart": 1248
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1249
+        },
+        {
+          "type": "para",
+          "text": "I know all; I have heard what thou art bent on doing to me. Thy very silence and those frequent groans are a confession; tire not thyself by telling it.",
+          "lineStart": 1250
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "AGAMEMNON",
+          "lineStart": 1253
+        },
+        {
+          "type": "para",
+          "text": "Lo! I am silent; for, if I tell thee a falsehood, needs must I add effrontery to misfortune.",
+          "lineStart": 1254
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CLYTAEMNESTRA",
+          "lineStart": 1256
+        },
+        {
+          "type": "para",
+          "text": "Well, listen; for I will now unfold my meaning and no longer employ dark riddles. In the first place-to reproach thee first with this-it was not of my own free will but by force that thou didst take and wed me, after slaying Tantalus, my former husband, and dashing my babe on the ground alive, when thou hadst torn him from my breast with brutal violence. Then, when those two sons of Zeus, who were likewise my brothers, came flashing on horseback to war with thee, Tyndareus, my aged sire, rescued thee because of thy suppliant prayers, and thou in turn hadst me to wife. Once reconciled to thee upon this footing, thou wilt bear me witness I have been a blameless wife to thee and thy family, chaste in love, an honour to thy house, that so thy coming in might be with joy and thy going out with gladness. And 'tis seldom a man secures a wife like this, though the getting of a worthless woman is no rarity.",
+          "lineStart": 1257
+        },
+        {
+          "type": "para",
+          "text": "Besides three daughters, of one of whom thou art heartlessly depriving me, I am the mother of this son of thine. If anyone asks thee thy reason for slaying her, tell me, what wilt thou say? or must say it for thee? \"It is that Menelaus may recover Helen.\" An honourable exchange, indeed, to pay a wicked woman's price in children's lives! 'Tis buying what we most detest with what we hold most dear. Again, if thou go forth with the host, leaving me in thy halls, and art long absent at Troy, what will my feelings be at home, dost think? when I behold each vacant chair and her chamber now deserted, and then sit down alone in tears, making ceaseless lamentation for her, \"Ah! my child, he that begat thee hath slain thee himself, he and no one else, nor was it by another's hand...to thy home, after leaving such a price to be paid; for it needs now but a trifling pretext for me and the daughters remaining to give thee the reception it is right thou shouldst receive. I adjure thee by the gods, compel me not to sin against thee, nor sin thyself. Go to; suppose thou sacrifice the child; what prayer wilt thou utter, when 'tis done? what will the blessing be that thou wilt invoke upon thyself as thou art slaying our daughter? an ill returning maybe, seeing the disgrace that speeds thy going forth. Is it right that I should pray for any luck to attend thee? Surely we should deem the gods devoid of sense, if we harboured a kindly feeling towards murderers. Shalt thou embrace thy children on thy coming back to Argos? Nay, thou hast no right. Will any child of thing e'er face thee, if thou have surrendered one of them to death? Has this ever entered into thy calculations, or does thy one duty consist in carrying a sceptre about and marching at the head of an army? when thou mightest have made this fair proposal among",
+          "lineStart": 1270
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 315,
+    "wordCount": 10865
+  }
+}

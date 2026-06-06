@@ -1,0 +1,61 @@
+{
+  "id": "Aristotle/aristot.vir",
+  "author": "Aristotle",
+  "authorKey": "Aristotle",
+  "title": "Virtues and Vices",
+  "translator": "H. Rackham",
+  "language": "Greek",
+  "written": null,
+  "sourceNote": "From the Perseus Project",
+  "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "ambiguous: only 0 interior citation lines; defaulted to prose",
+  "textModeStats": {
+    "lineCount": 3,
+    "paragraphCount": 3,
+    "interiorLineCount": 0,
+    "medianLineLength": 17.0,
+    "meanLineLength": 184.0,
+    "longInteriorLineRatio": 0.0,
+    "unterminatedInteriorLineRatio": 0.0,
+    "longUnterminatedInteriorLineRatio": 0.0,
+    "explicitBreakLineRatio": 0.0,
+    "unmarkedLineRatio": 0.3333333333333333
+  },
+  "landingUrl": "https://classics.mit.edu/Aristotle/aristot.vir.html",
+  "textUrls": [
+    "https://classics.mit.edu/Aristotle/aristot.vir.html"
+  ],
+  "txtUrl": null,
+  "sections": [
+    {
+      "seq": 1,
+      "id": "aristot.vir-virtues-and-vices",
+      "heading": "Virtues and Vices",
+      "partTitle": "Virtues and Vices",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Virtues and Vices",
+          "lineStart": 1
+        },
+        {
+          "type": "para",
+          "text": "By Aristotle",
+          "lineStart": 2
+        },
+        {
+          "type": "para",
+          "text": "Translated by H. Rackham This work is only provided via the Perseus Project at Tufts University. You may begin reading the English translation as well as the Greek version and a Greek version with morphological links . If you have any questions about the Perseus Project texts in the Internet Classics Archive, including the Perseus Project copyright notice , please consult the help pages . Please direct any inquiries about the texts themselves to the Perseus Project Webmaster at webmaster@perseus.tufts.edu. © 1994-2009",
+          "lineStart": 3
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 2,
+    "wordCount": 86
+  }
+}

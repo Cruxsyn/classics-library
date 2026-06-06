@@ -1,0 +1,2594 @@
+{
+  "id": "Euripides/orestes",
+  "author": "Euripides",
+  "authorKey": "Euripides",
+  "title": "Orestes",
+  "translator": "E. P. Coleridge",
+  "language": "Greek",
+  "written": "408 BCE",
+  "sourceNote": null,
+  "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "ambiguous: 0.391 long unterminated interior lines, median line length 49.0, 0.000 explicit breaks; defaulted to prose",
+  "textModeStats": {
+    "lineCount": 877,
+    "paragraphCount": 30,
+    "interiorLineCount": 847,
+    "medianLineLength": 49.0,
+    "meanLineLength": 41.826681870011406,
+    "longInteriorLineRatio": 0.46989374262101535,
+    "unterminatedInteriorLineRatio": 0.6942148760330579,
+    "longUnterminatedInteriorLineRatio": 0.3907910271546635,
+    "explicitBreakLineRatio": 0.0,
+    "unmarkedLineRatio": 0.9669327251995439
+  },
+  "landingUrl": "https://classics.mit.edu/Euripides/orestes.html",
+  "textUrls": [
+    "https://classics.mit.edu/Euripides/orestes.html"
+  ],
+  "txtUrl": "https://classics.mit.edu/Euripides/orestes.pl.txt",
+  "sections": [
+    {
+      "seq": 1,
+      "id": "orestes-orestes",
+      "heading": "Orestes",
+      "partTitle": "Orestes",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Dramatis Personae",
+          "lineStart": 10
+        },
+        {
+          "type": "para",
+          "text": "ELECTRA, daughter of Agamemnon and Clytemnestra HELEN, wife of MENELAUS CHORUS OF ARGIVE MAIDENS ORESTES, brother of ELECTRA MENELAUS, brother of Agamemnon; King of Argos PYLADES, friend Of ORESTES MESSENGER, formerly servant of Agamemnon HERMIONE, daughter of MENELAUS and HELEN A PHRYGIAN EUNUCH, in HELEN'S retinue APOLLO TYNDAREUS, father of Clytemnestra Scene Before the royal palace at Argos. It is the sixth day after the murder of Clytemnestra and Aegisthus. ELECTRA is discovered alone. ORESTES lies sleeping on a couch in the background.",
+          "lineStart": 11
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 23
+        },
+        {
+          "type": "para",
+          "text": "There is naught so terrible to describe, be it physical pain or heaven-sent affliction, that man's nature may not have to bear the burden of it. Tantalus, they say, once so prosperous,-and I am not now taunting him with his misfortunes,-Tantalus, the reputed son of Zeus, hangs suspended in mid air, quailing at the crag which looms above his head; paying this penalty, they say, for the shameful weakness he displayed in failing to keep a bridle on his lips, when admitted by gods, though he was but mortal, to share the honours of their feasts like one of them.",
+          "lineStart": 24
+        },
+        {
+          "type": "para",
+          "text": "He it was that begat Pelops, the father of Atreus, for whom the goddess, when she had carded her wool, spun a web of strife, even to the making of war with his own brother Thyestes. But why need I repeat that hideous tale?",
+          "lineStart": 32
+        },
+        {
+          "type": "para",
+          "text": "Well, Atreus slew Thyestes' children and feasted him on them; but,-passing over intermediate events-from Atreus and Aerope of Crete sprang Agamemnon, that famous chief,-if his was really fame,-and Menelaus. Now it was this Menelaus who married Helen, Heaven's abhorrence; while his brother, King Agamemnon, took Clytemnestra to wife, name of note in Hellas, and we three daughters were his issue, Chrysothemis, Iphigenia, and myself Electra; also a son Orestes; all of that one accursed mother, who slew her lord, after snaring him in a robe that had no outlet. Her reason a maiden's lips may not declare, and so leave that unexplained for the world to guess at. What need for me to charge Phoebus with wrong-doing, though he instigated Orestes to slay his own mother, a deed that few approved; still it was his obedience to the god that made him slay her; I, too, feebly as a woman would, shared in the deed of blood, as did Pylades who helped us to bring it about.",
+          "lineStart": 36
+        },
+        {
+          "type": "para",
+          "text": "After this my poor Orestes fell sick of a cruel wasting disease; upon his couch he lies prostrated, and it is his mother's blood that goads him into frenzied fits; this I say, from dread of naming those goddesses, whose terrors are chasing him before them,-even the Eumenides. 'Tis now the sixth day since the body of his murdered mother was committed to the cleansing fire; since then no food has passed his lips, nor hath he washed his skin; but wrapped in his cloak he weeps in his lucid moments, whenever the fever leaves him; other whiles he bounds headlong from his couch, as colt when it is loosed from the yoke. Moreover, this city of Argos has decreed that no man give us shelter at his fireside or speak to matricides like us; yea, and this is the fateful day on which Argos will decide our sentence, whether we are both to die by stoning, or to whet the steel and plunge it in our necks. There is, 'tis true, one hope of escape still left us; Menelaus has landed from Troy; his fleet now crowds the haven of Nauplia where he is come to anchor, returned at last from Troy after ceaseless wanderings; but Helen, that \"lady of sorrows,\" as she styles herself, hath he sent on to our palace, carefully waiting for the night, lest any of those parents whose sons were slain beneath the walls of Troy, might see her if she went by day, and set to stoning her. Within she sits, weeping for her sister and the calamities of her family, and yet she hath still some solace in her woe; for Hermione, the child she left at home in the hour she sailed for Troys-the maid whom Menelaus brought from Sparta and entrusted to my mother's keeping,-is still a cause of joy to her and a reason to forget her sorrows.",
+          "lineStart": 50
+        },
+        {
+          "type": "para",
+          "text": "I, meantime, am watching each approach, against the moment I see Menelaus arriving; for unless we find some safety there, we have but feeble anchor to ride on otherwise.",
+          "lineStart": 74
+        },
+        {
+          "type": "para",
+          "text": "A helpless thing, an unlucky house! HELEN enters from the palace.",
+          "lineStart": 77
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HELEN",
+          "lineStart": 79
+        },
+        {
+          "type": "para",
+          "text": "Daughter of Clytemnestra and Agamemnon, hapless Electra, too long now left a maid unwed! how is it with thee and thy brother, this ill-starred Orestes who slew his mother! Speak; for referring the sin as I do to Phoebus, I incur no pollution by letting thee accost me; and yet am truly sorry for the fate of my sister Clytenmestra, on whom I ne'er set eyes after I was driven by heaven-sent frenzy to sail on my disastrous voyage to Ilium; but now that I am parted from her I bewail our misfortunes.",
+          "lineStart": 80
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 87
+        },
+        {
+          "type": "para",
+          "text": "Prithee, Helen, why should I speak of that which thine own eyes can see the son of Agamemnon in his misery?",
+          "lineStart": 88
+        },
+        {
+          "type": "para",
+          "text": "Beside his wretched corpse I sit, a sleepless sentinel; for corpse he is, so faint his breath; not that I reproach him with his sufferings; but thou art highly blest and thy husband too, and ye are come upon us in the hour of adversity.",
+          "lineStart": 90
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HELEN",
+          "lineStart": 94
+        },
+        {
+          "type": "para",
+          "text": "How long hath he been laid thus upon his couch?",
+          "lineStart": 95
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 96
+        },
+        {
+          "type": "para",
+          "text": "Ever since he spilt his mother's blood-.",
+          "lineStart": 97
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HELEN",
+          "lineStart": 98
+        },
+        {
+          "type": "para",
+          "text": "Unhappy wretch! unhappy mother! what a death she died!",
+          "lineStart": 99
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 100
+        },
+        {
+          "type": "para",
+          "text": "Unhappy enough to succumb to his misery.",
+          "lineStart": 101
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HELEN",
+          "lineStart": 102
+        },
+        {
+          "type": "para",
+          "text": "Prithee, maiden, wilt hear me a moment?",
+          "lineStart": 103
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 104
+        },
+        {
+          "type": "para",
+          "text": "Aye, with such small leisure as this watching o'er a brother leaves.",
+          "lineStart": 105
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HELEN",
+          "lineStart": 107
+        },
+        {
+          "type": "para",
+          "text": "Wilt go for me to my sister's tomb?",
+          "lineStart": 108
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 109
+        },
+        {
+          "type": "para",
+          "text": "Wouldst have me seek my mother's tomb? And why?",
+          "lineStart": 110
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HELEN",
+          "lineStart": 111
+        },
+        {
+          "type": "para",
+          "text": "To carry an offering of hair and a libation from me.",
+          "lineStart": 112
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 113
+        },
+        {
+          "type": "para",
+          "text": "Art forbidden then to go to the tombs of those thou lovest?",
+          "lineStart": 114
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HELEN",
+          "lineStart": 115
+        },
+        {
+          "type": "para",
+          "text": "Nay, but I am ashamed to show myself in Argos.",
+          "lineStart": 116
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 117
+        },
+        {
+          "type": "para",
+          "text": "A late repentance surely for one who left her home so shamefully then.",
+          "lineStart": 118
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HELEN",
+          "lineStart": 120
+        },
+        {
+          "type": "para",
+          "text": "Thou hast told the truth, but thy telling is not kind to me.",
+          "lineStart": 121
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 122
+        },
+        {
+          "type": "para",
+          "text": "What is this supposed modesty before the eyes of Mycenae that possesses thee?",
+          "lineStart": 123
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HELEN",
+          "lineStart": 125
+        },
+        {
+          "type": "para",
+          "text": "I am afraid of the fathers of those who lie dead beneath the walls of Ilium.",
+          "lineStart": 126
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 128
+        },
+        {
+          "type": "para",
+          "text": "Good cause for fear; thy name is on every tongue in Argos.",
+          "lineStart": 129
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HELEN",
+          "lineStart": 130
+        },
+        {
+          "type": "para",
+          "text": "Then free me of my fear and grant me this boon.",
+          "lineStart": 131
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 132
+        },
+        {
+          "type": "para",
+          "text": "I could not bear to face my mother's grave.",
+          "lineStart": 133
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HELEN",
+          "lineStart": 134
+        },
+        {
+          "type": "para",
+          "text": "And yet 'twere shame indeed to send these offerings by a servant's hand.",
+          "lineStart": 135
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 137
+        },
+        {
+          "type": "para",
+          "text": "Then why not send thy daughter Hermione?",
+          "lineStart": 138
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HELEN",
+          "lineStart": 139
+        },
+        {
+          "type": "para",
+          "text": "'Tis not seemly for a tender maid to make her way amongst a crowd.",
+          "lineStart": 140
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 142
+        },
+        {
+          "type": "para",
+          "text": "And yet she would thus be repaying her dead foster-mother's care.",
+          "lineStart": 143
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "HELEN",
+          "lineStart": 145
+        },
+        {
+          "type": "para",
+          "text": "True; thou hast convinced me, maiden. Yes, I will send my daughter; for thou art right. Calling Hermione, my child, come forth before the palace; HERMIONE and attendants come out of the palace. take these libations and these tresses of mine in thy hands, and go pour round Clytemnestra's tomb a mingled cup of honey, milk, and frothing wine; then stand upon the heaped-up grave, and proclaim therefrom, \"Helen, thy sister, sends thee these libations as her gift, fearing herself to approach thy tomb from terror of the Argive mob\"; and bid her harbour kindly thoughts towards me and thee and my husband; towards these two wretched sufferers, too, whom Heaven hath afflicted. Likewise promise that I will pay in full whatever funeral gifts are due from me to a sister. Now go, my child, and tarry not; and soon as thou hast made the offering at the tomb, bethink thee of thy return. HELEN goes into the palace as HERMIONE and her attendants depart with the offerings.",
+          "lineStart": 146
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 163
+        },
+        {
+          "type": "para",
+          "text": "O human nature, what a grievous curse thou art in this world! and what salvation, too, to those who have a goodly heritage therein!",
+          "lineStart": 164
+        },
+        {
+          "type": "para",
+          "text": "Did ye mark how she cut off her hair only at the ends, careful to preserve its beauty? 'Tis the same woman as of old. May Heaven's hate pursue thee! for thou hast proved the ruin of me and my poor brother and all Hellas.",
+          "lineStart": 167
+        },
+        {
+          "type": "para",
+          "text": "Alack! here are my friends once more, coming to unite their plaintive dirge with mine; they will soon put an end to my brother's peaceful sleep and cause my tears to flow when I see his frenzied fit. The CHORUS OF ARGIVE MAIDENS enters quietly. The following lines between ELECTRA and the CHORUS are chanted responsively. Good friends, step softly; not a sound; not a whisper! for though this kindness is well-meant, rouse him and I shall rue it.",
+          "lineStart": 171
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 178
+        },
+        {
+          "type": "para",
+          "text": "Hush! hush! let your footsteps fall lightly! not a sound! not whisper!",
+          "lineStart": 179
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 181
+        },
+        {
+          "type": "para",
+          "text": "Further, further from his couch! I beseech ye.",
+          "lineStart": 182
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 183
+        },
+        {
+          "type": "para",
+          "text": "There! there! I obey.",
+          "lineStart": 184
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 185
+        },
+        {
+          "type": "para",
+          "text": "Hush! hush! good friend, I pray. Soft as the breath of slender reedy pipe be thy every accent!",
+          "lineStart": 186
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 188
+        },
+        {
+          "type": "para",
+          "text": "Hark, how soft and low I drop my voice!",
+          "lineStart": 189
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 190
+        },
+        {
+          "type": "para",
+          "text": "Yes, lower thy voice e'en thus; approach now, softly, softly! Tell me what reason ye had for coming at all. 'Tis so long since he laid him down to sleep.",
+          "lineStart": 191
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 194
+        },
+        {
+          "type": "para",
+          "text": "How is it with him? Impart thy news, dear lady. Is it weal or woe I am to tell?",
+          "lineStart": 195
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 197
+        },
+        {
+          "type": "para",
+          "text": "He is still alive, but his moans grow feeble.",
+          "lineStart": 198
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 199
+        },
+        {
+          "type": "para",
+          "text": "What sayest thou? Turning to ORESTES Poor wretch!",
+          "lineStart": 200
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 203
+        },
+        {
+          "type": "para",
+          "text": "Awake him from the deep sweet slumber he is now enjoying and thou wilt cause his death.",
+          "lineStart": 204
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 206
+        },
+        {
+          "type": "para",
+          "text": "Ah, poor sufferer! victim of Heaven's vengeful hate!",
+          "lineStart": 207
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 208
+        },
+        {
+          "type": "para",
+          "text": "Ah, misery! It seems it was a wicked utterance by a wicked god delivered, the day that Loxias from his seat upon the tripod of Themis decreed my mother's most unnatural murder.",
+          "lineStart": 209
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 212
+        },
+        {
+          "type": "para",
+          "text": "He stirs beneath his robe! Dost see?",
+          "lineStart": 213
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 214
+        },
+        {
+          "type": "para",
+          "text": "Alas! I do; thy noisy words have roused him from his sleep.",
+          "lineStart": 215
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 216
+        },
+        {
+          "type": "para",
+          "text": "Nay, methinks he slumbers still.",
+          "lineStart": 217
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 218
+        },
+        {
+          "type": "para",
+          "text": "Begone! quit the house! retrace thy footsteps! a truce to this din!",
+          "lineStart": 219
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 221
+        },
+        {
+          "type": "para",
+          "text": "He sleeps. Thou art right.",
+          "lineStart": 222
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 223
+        },
+        {
+          "type": "para",
+          "text": "O Night, majestic queen, giver of sleep to toiling men, rise from the abyss of Erebus and wing thy way to the palace of Agamemnon! For beneath our load of misery and woe we sink, aye, sink oppressed.",
+          "lineStart": 224
+        },
+        {
+          "type": "para",
+          "text": "There! To the CHORUS that noise again! Be still and keep that high-pitched voice of thine away from his couch; suffer him to enjoy his sleep in peace!",
+          "lineStart": 228
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 232
+        },
+        {
+          "type": "para",
+          "text": "Tell me, what end awaits his troubles?",
+          "lineStart": 233
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 234
+        },
+        {
+          "type": "para",
+          "text": "Death, death; what else? for he does not even miss his food.",
+          "lineStart": 235
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 236
+        },
+        {
+          "type": "para",
+          "text": "Why, then his doom is full in view.",
+          "lineStart": 237
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 238
+        },
+        {
+          "type": "para",
+          "text": "Phoebus marked us out as his victims by imposing a foul unnatural task, even the shedding of the blood of our mother, who slew our sire.",
+          "lineStart": 239
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 241
+        },
+        {
+          "type": "para",
+          "text": "'Twas just, but 'twas not well.",
+          "lineStart": 242
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 243
+        },
+        {
+          "type": "para",
+          "text": "Dead, dead, O mother mine! and thou hast slain a father and these the children of thy womb; for we are dead or as the dead. Yes, thou art in thy grave, and more than half my life is spent in weeping and wailing and midnight lamentations; oh, look on me! a maid unwed, unblest with babes, I drag out a joyless existence as if for ever.",
+          "lineStart": 244
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 249
+        },
+        {
+          "type": "para",
+          "text": "My daughter Electra, from thy near station there see whether thy brother hath not passed away without thy knowing it; for I like not his utter prostration.",
+          "lineStart": 250
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 253
+        },
+        {
+          "type": "para",
+          "text": "awaking refreshed Sweet charm of sleep! saviour in sickness! how dear to me thy coming was! how needed! All hail, majestic power, oblivion of woe! How wise this goddess is, how earnestly invoked by every suffering soul! Addressing ELECTRA Whence came I hither? How is it I am here? for I have lost all previous recollection and remember nothing.",
+          "lineStart": 254
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 261
+        },
+        {
+          "type": "para",
+          "text": "Dearest brother, how glad I was to see thee fall asleep! Wouldst have me take thee in my arms and lift thy body?",
+          "lineStart": 262
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 264
+        },
+        {
+          "type": "para",
+          "text": "Take, oh! take me in thy arms, and from this sufferer's mouth and eyes wipe off the flakes of foam.",
+          "lineStart": 265
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 267
+        },
+        {
+          "type": "para",
+          "text": "Ah! 'tis a service I love; nor do I scorn with sister's hand to tend a brother's limbs.",
+          "lineStart": 268
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 270
+        },
+        {
+          "type": "para",
+          "text": "Prop me up, thy side to mine; brush the matted hair from off my face, for I see but dimly.",
+          "lineStart": 271
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 273
+        },
+        {
+          "type": "para",
+          "text": "Ah, poor head! how squalid are thy locks become! How wild thy look from remaining so long uncleansed!",
+          "lineStart": 274
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 276
+        },
+        {
+          "type": "para",
+          "text": "Lay me once more upon the couch; when my fit leaves me, I am all unnerved, unstrung.",
+          "lineStart": 277
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 279
+        },
+        {
+          "type": "para",
+          "text": "as she lays him down Welcome to the sick man is his couch, for painful though it be to take thereto, yet is it necessary.",
+          "lineStart": 280
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 283
+        },
+        {
+          "type": "para",
+          "text": "Set me upright once again, turn me round; it is their helplessness makes the sick so hard to please.",
+          "lineStart": 284
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 286
+        },
+        {
+          "type": "para",
+          "text": "Wilt put thy feet upon the ground and take a step at last? Change is always pleasant.",
+          "lineStart": 287
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 289
+        },
+        {
+          "type": "para",
+          "text": "That will I; for that has a semblance of health; and that seeming, though it be far from the reality, is preferable to this.",
+          "lineStart": 290
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 292
+        },
+        {
+          "type": "para",
+          "text": "Hear me then, O brother mine, while yet the avenging fiends permit thee to use thy senses.",
+          "lineStart": 293
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 295
+        },
+        {
+          "type": "para",
+          "text": "Hast news to tell? so it be good, thou dost me a kindness; but if it tend to my hurt, lo! I have sorrow enough.",
+          "lineStart": 296
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 298
+        },
+        {
+          "type": "para",
+          "text": "Menelaus, thy father's brother, is arrived; in Nauplia his fleet lies at anchor.",
+          "lineStart": 299
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 301
+        },
+        {
+          "type": "para",
+          "text": "Ha! is he come to cast a ray of light upon our gloom, a man of our own kin who owes our sire a debt of gratitude?",
+          "lineStart": 302
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 304
+        },
+        {
+          "type": "para",
+          "text": "Yes, he is come, and is bringing Helen with him from the walls of Troy; accept this as a sure proof of what I say.",
+          "lineStart": 305
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 307
+        },
+        {
+          "type": "para",
+          "text": "Had he returned alone in safety, he were more to be envied; for if he is bringing his wife with him, he is bringing a load of evil.",
+          "lineStart": 308
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 310
+        },
+        {
+          "type": "para",
+          "text": "Tyndareus begat a race of daughters notorious for the shame they earned, infamous throughout Hellas.",
+          "lineStart": 311
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 313
+        },
+        {
+          "type": "para",
+          "text": "Be thou then different from that evil brood, for well thou mayest, and that not only in profession, but also in heart.",
+          "lineStart": 314
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 316
+        },
+        {
+          "type": "para",
+          "text": "Ah! brother, thine eye is growing wild, and in a moment art thou passing from thy recent saneness back to frenzy.",
+          "lineStart": 317
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 319
+        },
+        {
+          "type": "para",
+          "text": "starting up wildly Mother, I implore thee! let not loose on me those maidens with their bloodshot eyes and snaky hair. Ha! see, see where they approach to leap upon me!",
+          "lineStart": 320
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 323
+        },
+        {
+          "type": "para",
+          "text": "Lie still, poor sufferer, on thy couch; thine eye sees none of the things which thy fancy paints so clear.",
+          "lineStart": 324
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 326
+        },
+        {
+          "type": "para",
+          "text": "O Phoebus! they will kill me, yon hounds of hell, death's priestesses with glaring eyes, terrific goddesses.",
+          "lineStart": 327
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 329
+        },
+        {
+          "type": "para",
+          "text": "I will not let thee go; but with arms twined round thee will prevent thy piteous tossing to and fro.",
+          "lineStart": 330
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 332
+        },
+        {
+          "type": "para",
+          "text": "Loose me! thou art one of those fiends that plague me, and art gripping me by the waist to hurl my body into Tartarus.",
+          "lineStart": 333
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 335
+        },
+        {
+          "type": "para",
+          "text": "Woe is me! what succour can I find, seeing that we have Heaven's forces set against us?",
+          "lineStart": 336
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 338
+        },
+        {
+          "type": "para",
+          "text": "Give me my horn-tipped bow, Apollo's gift, wherewith that god declared that I should defend myself against these goddesses, if ever they sought to scare me with wild transports of madness.",
+          "lineStart": 339
+        },
+        {
+          "type": "para",
+          "text": "A mortal hand will wound one of these goddesses, unless she vanish from my sight. Do ye not heed me, or mark the feathered shaft of my far-shooting bow ready to wing its flight? What! do ye linger still? Spread your pinions, skim the sky, and blame those oracles of Phoebus.",
+          "lineStart": 342
+        },
+        {
+          "type": "para",
+          "text": "Ah! why am I raving, panting, gasping? Whither, oh! whither have leapt from off my couch? Once more the storm is past; I see a calm.",
+          "lineStart": 346
+        },
+        {
+          "type": "para",
+          "text": "Sister, why weepest thou, thy head wrapped in thy robe? I am ashamed that I should make thee a partner in my sufferings and distress a maid like thee through sickness of mine. Cease to fret for my troubles; for though thou didst consent to it, yet 'twas I that spilt our mother's blood. 'Tis Loxias I blame, for urging me on to do a deed most damned, encouraging me with words but no real help; for I am sure that, had I asked my father to his face whether I was to slay my mother, he would have implored me oft and earnestly by this beard never to plunge a murderer's sword into my mother's breast, since he would not thereby regain his life, whilst I, poor wretch, should be doomed to drain this cup of sorrow.",
+          "lineStart": 349
+        },
+        {
+          "type": "para",
+          "text": "E'en as it is, dear sister, unveil thy face and cease to weep, despite our abject misery; and whensoe'er thou seest me give way to despair, be it thine to calm and soothe the terrors and distorted fancies of my brain; likewise when sorrow comes to thee, I must be at thy side and give the words of comfort; for to help our friends like this is a gracious task.",
+          "lineStart": 360
+        },
+        {
+          "type": "para",
+          "text": "Seek thy chamber now, poor sister; lie down and close awhile thy sleepless eyes; take food and bathe thy body; for if thou leave me or fall sick from nursing me, my doom is sealed; for thou art the only champion I now have, by all the rest deserted, as thou seest.",
+          "lineStart": 366
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ELECTRA",
+          "lineStart": 370
+        },
+        {
+          "type": "para",
+          "text": "I leave thee! never! With thee I am resolved to live and die; for 'tis the same; if thou diest, what can I, a woman, do? How shall I escape alone, reft of brother, sire, and friends?",
+          "lineStart": 371
+        },
+        {
+          "type": "para",
+          "text": "Still if it be thy pleasure, I must do thy bidding. But lay thee down upon thy couch, and pay not too great heed to the terrors and alarms that scare thee from thy rest; lie still upon thy pallet bed; for e'en though one be not sick but only fancy it, this is a source of weariness and perplexity to mortals. ELECTRA enters the palace, as ORESTES lies back upon his couch.",
+          "lineStart": 374
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 381
+        },
+        {
+          "type": "para",
+          "text": "singing strophe Ah! ye goddesses terrific, swiftly careering on outspread pinions, whose lot it is 'mid tears and groans to hold revel not with Bacchic rites; ye avenging spirits swarthy-hued, that dart along the spacious firmament, exacting a penalty for blood, a penalty for murder, to you I make my suppliant prayer: suffer the son of Agamemnon to forget his wild whirling frenzy!",
+          "lineStart": 382
+        },
+        {
+          "type": "para",
+          "text": "Ah, woe for the troublous task! which thou, poor wretch, didst strive to compass to thy ruin, listening to the voice prophetic, proclaimed aloud by Phoebus from the tripod throughout his sanctuary, where is a secret spot they call \"the navel of the earth.\" antistrophe O Zeus! What pity will be shown? what deadly struggle is here at hand, hurrying thee on o'er thy path of woe, a victim on whom some fiend is heaping tribulation, by bringing on thy house thy mother's bloodshed which drives thee raving mad? I weep for thee, for thee I weep.",
+          "lineStart": 390
+        },
+        {
+          "type": "para",
+          "text": "Great prosperity abideth not amongst mankind; but some power divine, shaking it to and fro like the sail of a swift galley, plunges it deep in the waves of grievous affliction, boisterous and deadly as the waves of the sea. For what new family am I henceforth to honour by preference other than that which sprung from a marriage divine, even from Tantalus?",
+          "lineStart": 398
+        },
+        {
+          "type": "para",
+          "text": "Behold a king draws near, prince Menelaus! From his magnificence 'tis plain to see that he is a scion of the race of Tantalus.",
+          "lineStart": 404
+        },
+        {
+          "type": "para",
+          "text": "All hail! thou that didst sail with a thousand ships to Asia's strand, and by Heaven's help accomplish all thy heart's desire, making good-fortune a friend to thyself. MENELAUS and his retinue enter.",
+          "lineStart": 407
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 411
+        },
+        {
+          "type": "para",
+          "text": "All hail, my home! Some joy I feel on seeing thee again on my return from Troy, some sorrow too the sight recalls; for never yet have I beheld a house more closely encircled by the net of dire affliction.",
+          "lineStart": 412
+        },
+        {
+          "type": "para",
+          "text": "Concerning Agamemnon's fate and the awful death he died at his wife's hands I learnt as I was trying to put in at Malea, when the sailors' seer from out the waves, unerring Glaucus, Nereus' spokesman, brought the news to me; for he stationed himself in full view by our ship and thus addressed me. \"Yonder, Menelaus, lies thy brother slain, plunged in a fatal bath, the last his wife will ever give him\"; filling high the cup of tears for me and my brave crew. Arrived at Nauplia, my wife already, on the point of starting hither, I was dreaming of folding Orestes, Agamemnon's son, and his mother in a fond embrace, as if 'twere well with them, when I heard a mariner relate the murder of the daughter of Tyndareus. Tell me then, good girls, where to find the son of Agamemnon, the daring author of that fearful crime; for he was but a babe in Clytemnestra's arms that day I left my home to go to Troy, so that I should not recognize him, e'en were I to see him.",
+          "lineStart": 416
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 430
+        },
+        {
+          "type": "para",
+          "text": "staggering towards him from the couch Behold the object of thy inquiry, Menelaus; this is Orestes. To the will I of mine own accord relate my sufferings. But as the prelude to my speech I clasp thy knees in suppliant wise, seeking thus to tie to thee the prayer of lips that lack the suppliant's bough; save me, for thou art arrived at the very crisis of my trouble.",
+          "lineStart": 431
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 437
+        },
+        {
+          "type": "para",
+          "text": "Ye gods! what do I see? what death's-head greets my sight?",
+          "lineStart": 438
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 439
+        },
+        {
+          "type": "para",
+          "text": "Thou art right; I am dead through misery, though I still gaze upon the sun.",
+          "lineStart": 440
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 442
+        },
+        {
+          "type": "para",
+          "text": "How wild the look thy unkempt hair gives thee, poor wretch!",
+          "lineStart": 443
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 444
+        },
+        {
+          "type": "para",
+          "text": "'Tis not my looks, but my deeds that torture me.",
+          "lineStart": 445
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 446
+        },
+        {
+          "type": "para",
+          "text": "How terribly thy tearless eyeballs glare!",
+          "lineStart": 447
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 448
+        },
+        {
+          "type": "para",
+          "text": "My body is vanished and gone, though my name hath not yet deserted me.",
+          "lineStart": 449
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 451
+        },
+        {
+          "type": "para",
+          "text": "Unsightly apparition, so different from what I expected!",
+          "lineStart": 452
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 453
+        },
+        {
+          "type": "para",
+          "text": "In me behold a man that hath slain his hapless mother.",
+          "lineStart": 454
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 455
+        },
+        {
+          "type": "para",
+          "text": "I have heard all; be chary of thy tale of woe.",
+          "lineStart": 456
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 457
+        },
+        {
+          "type": "para",
+          "text": "I will; but the deity is lavish of woe to me.",
+          "lineStart": 458
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 459
+        },
+        {
+          "type": "para",
+          "text": "What ails thee? what is thy deadly sickness?",
+          "lineStart": 460
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 461
+        },
+        {
+          "type": "para",
+          "text": "My conscience; I know that I am guilty of an awful crime.",
+          "lineStart": 462
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 463
+        },
+        {
+          "type": "para",
+          "text": "Explain thyself; wisdom is shown in clearness, not in obscurity.",
+          "lineStart": 464
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 465
+        },
+        {
+          "type": "para",
+          "text": "'Tis grief that is my chief complaint.",
+          "lineStart": 466
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 467
+        },
+        {
+          "type": "para",
+          "text": "True; she is a goddess dire; yet are there cures for her.",
+          "lineStart": 468
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 469
+        },
+        {
+          "type": "para",
+          "text": "Mad transports too, and the vengeance due to a mother's blood.",
+          "lineStart": 470
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 471
+        },
+        {
+          "type": "para",
+          "text": "When did thy fit begin? which day was it?",
+          "lineStart": 472
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 473
+        },
+        {
+          "type": "para",
+          "text": "On the day I was heaping the mound o'er my poor mother's grave,",
+          "lineStart": 474
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 475
+        },
+        {
+          "type": "para",
+          "text": "When thou wast in the house, or watching by the pyre?",
+          "lineStart": 476
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 477
+        },
+        {
+          "type": "para",
+          "text": "As I was waiting by night to gather up her bones.",
+          "lineStart": 478
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 479
+        },
+        {
+          "type": "para",
+          "text": "What news, slave of Helen, creature from Ida?",
+          "lineStart": 480
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHRYGIAN",
+          "lineStart": 481
+        },
+        {
+          "type": "para",
+          "text": "Ah me for Ilium, for Ilium, the city of Phrygia, and for Ida's holy hill with fruitful soil! in foreign accents hear me raise a plaintive strain over thee, whose ruin luckless Helen caused,-that lovely child whom Leda bore to a feathered swan, to be a curse to Apollo's towers of polished stone. Ah! well-a-day! woe to Dardania for the wailings wrung from it by the steeds that bought his minion Ganymede for Zeus.",
+          "lineStart": 482
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 488
+        },
+        {
+          "type": "para",
+          "text": "Tell us plainly exactly what happened in the house, for till now have been guessing at what I do not clearly understand.",
+          "lineStart": 489
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHRYGIAN",
+          "lineStart": 491
+        },
+        {
+          "type": "para",
+          "text": "\"Ah, for Linus! woe is him!\" That is what barbarians say in their eastern tongue as a prelude to the dirge of death, whene'er royal blood is spilt upon the ground by deadly iron blades.",
+          "lineStart": 492
+        },
+        {
+          "type": "para",
+          "text": "To tell thee exactly what happened: there came into the palace two lion-like men of Hellas, twins in nature; your famous chief was sire of one, 'twas said; the other was the son of Strophius; a crafty knave was he, like to Odysseus, subtle, silent, but staunch to his friends, daring enough for any valiant deed, versed in war and blood-thirsty as a serpent. Ruin seize him for his quiet plotting, the villain!",
+          "lineStart": 495
+        },
+        {
+          "type": "para",
+          "text": "In they came, their eyes bedimmed with tears, and took their seats in all humility near the chair of the lady whom Paris the archer once wedded, one on this side, one on that, to right and left, with weapons on them; and both threw their suppliant arms round the knees of Helen; whereon her Phrygian servants started to their feet in wild alarm, each in his terror calling to his fellow, \"Beware of treachery!\" To some there seemed no cause, but others thought that the viper who had slain his mother, was entangling the daughter of Tyndareus in the toils of his snare.",
+          "lineStart": 501
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 509
+        },
+        {
+          "type": "para",
+          "text": "And where wert thou the while? fled long before in terror?",
+          "lineStart": 510
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHRYGIAN",
+          "lineStart": 511
+        },
+        {
+          "type": "para",
+          "text": "It happened that I, in Phrygian style, was wafting the breeze past Helen's curls with a round feather-fan, stationed before her face; and she the while, as eastern ladies use, was twisting flax on her distaff with her fingers, but letting her yarn fall on the floor, for she was minded to embroider purple raiment as an offering from the Trojan spoils, a gift for Clytemnestra at her tomb.",
+          "lineStart": 512
+        },
+        {
+          "type": "para",
+          "text": "Then to the Spartan maid Orestes spake, \"Daughter of Zeus, quit thy chair and cross the floor to a seat at the old altar of Pelops, our ancestor, to hear something I have to say.\" Therewith he led the way and she followed, little guessing his designs. Meantime his accomplice, the Phocian miscreant, was off on other business. \"Out of my way! Well, Phrygians always were cowards.\" So he shut them up in different parts of the house, some in the stables, others in private chambers, one here, one there, disposing of them severally at a distance from their mistress.",
+          "lineStart": 518
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 526
+        },
+        {
+          "type": "para",
+          "text": "What happened next?",
+          "lineStart": 527
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHRYGIAN",
+          "lineStart": 528
+        },
+        {
+          "type": "para",
+          "text": "Mother of Ida, mighty parent! Oh! the murderous scenes and lawless wickedness that I witnessed in the royal palace! They drew forth swords from under their purple cloaks, each darting his eye all round him in either direction to see that none was near, and then, like boars that range the hills, they stood at bay before her, crying, \"Thou must die; it is thy craven husband that will slay thee, because he betrayed his brother's son to death in Argos.\" But she with piercing screams brought down her snow-white arm upon her bosom and loudly smote on her poor head; then turned her steps in flight, shod in her golden shoon; but Orestes, outstripping her slippered feet, clutched his fingers in her hair and bending back her neck on to her left shoulder was on the point of driving the grim steel into her throat.",
+          "lineStart": 529
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 541
+        },
+        {
+          "type": "para",
+          "text": "Where were those Phrygians in the house to help her then?",
+          "lineStart": 542
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHRYGIAN",
+          "lineStart": 543
+        },
+        {
+          "type": "para",
+          "text": "With a loud cry we battered down the doors and doorposts of the rooms we had been penned in, by means of bars, and ran to her assistance from every direction, one arming himself with stones, another with javelins, a third having a drawn sword; but Pylades came to meet us, all undaunted, like Hector of Troy or Ajax triple-plumed, as I saw him on the threshold of Priam's palace; and we met point to point. But then it became most manifest how inferior we Phrygians were to the warriors of Hellas in martial prowess. There was one man flying, another slain, a third wounded, yet another craving mercy to stave off death; but we escaped under cover of the darkness: while some were falling, others staggering, and some laid low in death. And just as her unhappy mother sunk to the ground to die, came luckless Hermione to the palace; whereon those twain, like Bacchanals when they drop their wands and seize a mountain-cub, rushed and seized her; then turned again to the daughter of Zeus to slay her; but lo! she had vanished from the room, passing right through the house by magic spells or wizards'arts or heavenly fraud; O Zeus and earth, O day and night!",
+          "lineStart": 544
+        },
+        {
+          "type": "para",
+          "text": "What happened afterwards I know not, for I stole out of the palace and ran away. So Menelaus went through all his toil and trouble to recover his wife Helen from Troy to no purpose. ORESTES comes out of the palace.",
+          "lineStart": 560
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 564
+        },
+        {
+          "type": "para",
+          "text": "Behold another strange sight succeeding its predecessors; I see Orestes sword in hand before the palace, advancing with excited steps.",
+          "lineStart": 565
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 567
+        },
+        {
+          "type": "para",
+          "text": "Where is he who fled from the palace to escape my sword?",
+          "lineStart": 568
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHRYGIAN",
+          "lineStart": 569
+        },
+        {
+          "type": "para",
+          "text": "falling at the feet Of ORESTES Before thee I prostrate myself, O prince, and do obeisance in my foreign way.",
+          "lineStart": 570
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 573
+        },
+        {
+          "type": "para",
+          "text": "'Tis not Ilium that is now the scene, but the land of Argos.",
+          "lineStart": 574
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHRYGIAN",
+          "lineStart": 575
+        },
+        {
+          "type": "para",
+          "text": "No matter where, the wise love life more than death.",
+          "lineStart": 576
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 577
+        },
+        {
+          "type": "para",
+          "text": "I suppose that shouting of thine was not for Menelaus to come to the rescue?",
+          "lineStart": 578
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHRYGIAN",
+          "lineStart": 580
+        },
+        {
+          "type": "para",
+          "text": "Oh no! it was to help thee I called out, for thou art more deserving.",
+          "lineStart": 581
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 583
+        },
+        {
+          "type": "para",
+          "text": "Was it a just fate that overtook the daughter of Tyndareus?",
+          "lineStart": 584
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHRYGIAN",
+          "lineStart": 585
+        },
+        {
+          "type": "para",
+          "text": "Most just, though she had had throats to die with.",
+          "lineStart": 586
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 587
+        },
+        {
+          "type": "para",
+          "text": "Thy cowardice makes thee glib; these are not thy real sentiments.",
+          "lineStart": 588
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHRYGIAN",
+          "lineStart": 589
+        },
+        {
+          "type": "para",
+          "text": "Why, surely she deserved it for the havoc she made of Hellas as well as Troy?",
+          "lineStart": 590
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 592
+        },
+        {
+          "type": "para",
+          "text": "Swear thou art not saying this to humour me, or I will slay thee.",
+          "lineStart": 593
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHRYGIAN",
+          "lineStart": 595
+        },
+        {
+          "type": "para",
+          "text": "By my life I swear,-an oath likely to be true in my case.",
+          "lineStart": 596
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 597
+        },
+        {
+          "type": "para",
+          "text": "Did every Phrygian in Troy show the same terror of steel as thou dost?",
+          "lineStart": 598
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHRYGIAN",
+          "lineStart": 600
+        },
+        {
+          "type": "para",
+          "text": "Oh, take thy sword away! held so near it throws a horrid gleam of blood.",
+          "lineStart": 601
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 603
+        },
+        {
+          "type": "para",
+          "text": "Art thou afraid of being turned to a stone, as if it were a Gorgon thou seest?",
+          "lineStart": 604
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHRYGIAN",
+          "lineStart": 606
+        },
+        {
+          "type": "para",
+          "text": "To a stone, no! but to a corpse; that Gorgon's head is not within my ken.",
+          "lineStart": 607
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 609
+        },
+        {
+          "type": "para",
+          "text": "A slave, and so fearful of death, which will release thee from trouble!",
+          "lineStart": 610
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHRYGIAN",
+          "lineStart": 612
+        },
+        {
+          "type": "para",
+          "text": "Bond or free, every one is glad to gaze upon the light.",
+          "lineStart": 613
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 614
+        },
+        {
+          "type": "para",
+          "text": "Well said! thy shrewdness saves thee; go within.",
+          "lineStart": 615
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHRYGIAN",
+          "lineStart": 616
+        },
+        {
+          "type": "para",
+          "text": "Thou wilt not kill me after all?",
+          "lineStart": 617
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 618
+        },
+        {
+          "type": "para",
+          "text": "Thou art spared!",
+          "lineStart": 619
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHRYGIAN",
+          "lineStart": 620
+        },
+        {
+          "type": "para",
+          "text": "O gracious words!",
+          "lineStart": 621
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 622
+        },
+        {
+          "type": "para",
+          "text": "Come, I shall change my mind-",
+          "lineStart": 623
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PHRYGIAN",
+          "lineStart": 624
+        },
+        {
+          "type": "para",
+          "text": "Ill-omened utterance!",
+          "lineStart": 625
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 626
+        },
+        {
+          "type": "para",
+          "text": "Thou fool dost think I could endure to plunge my sword in throat of thine, thou that neither art woman nor amongst men hast any place? The reason I left the palace was to gag thy noisy tongue; for Argos is quickly roused, once it hears a cry to the rescue. As for Menelaus, we are not afraid of measuring swords with him; no! he may go upon his way proud of the golden ringlets on his shoulders; for if, to avenge the slaying of Helen, he gathers the Argives and leads them against the palace, refusing to attempt the rescue of me, my sister, and Pylades my fellow-conspirator, he shall have two corpses to behold, his daughter's as well as his wife's. The PHRYGIAN departs as ORESTES re-enters the palace.",
+          "lineStart": 627
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 637
+        },
+        {
+          "type": "para",
+          "text": "singing Ah! fortune, fortune! again and yet again the house is entering on a fearful contest for the race of Atreus.",
+          "lineStart": 638
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST SEMI-CHORUS",
+          "lineStart": 641
+        },
+        {
+          "type": "para",
+          "text": "chanting What are we to do? carry tidings to the town, or hold our peace?",
+          "lineStart": 642
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND SEMI-CHORUS",
+          "lineStart": 644
+        },
+        {
+          "type": "para",
+          "text": "chanting It is safer to keep silence, friends.",
+          "lineStart": 645
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST SEMI-CHORUS",
+          "lineStart": 647
+        },
+        {
+          "type": "para",
+          "text": "chanting Look, look at that sudden rush of smoke to the sky in front of the palace, telling its tale in advance!",
+          "lineStart": 648
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND SEMI-CHORUS",
+          "lineStart": 651
+        },
+        {
+          "type": "para",
+          "text": "chanting They are kindling torches to fire the halls of Tantalus; they do not shrink even from murder.",
+          "lineStart": 652
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 655
+        },
+        {
+          "type": "para",
+          "text": "singing God holds the issue in his hand, to give to mortal men what end he will. Some mighty power is his; it was through a vengeful fiend that this family started on its career of murder, by hurling Myrtilus from the chariot.",
+          "lineStart": 656
+        },
+        {
+          "type": "para",
+          "text": "But lo! I see Menelaus approaching the palace in hot haste; no doubt he has heard what is happening here. What ho! within, descendants of Atreus, make haste and secure the doors with bars. A man in luck is a dangerous adversary for luckless wretches like thyself, Orestes. ORESTES and PYLADES appear on the roof, holding HERMIONE. MENELAUS and his attendants enter.",
+          "lineStart": 661
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 667
+        },
+        {
+          "type": "para",
+          "text": "Strange news of violent deeds done by a pair of savages,-men I do not call them,-has brought me hither. What I heard was that my wife was not killed after all, but had vanished out of sight,-an idle rumour doubtless, brought to me by some dupe of his own terror; a ruse perhaps of the matricide to turn the laugh against me.",
+          "lineStart": 668
+        },
+        {
+          "type": "para",
+          "text": "Throw wide the palace doors! My orders to my servants are that they force the doors, that I may rescue my child at any rate from the hands of the murderers and recover my poor wife's corpse, that dear partner whose slayers must die with her by my arm.",
+          "lineStart": 673
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 677
+        },
+        {
+          "type": "para",
+          "text": "from the roof Ho, fellow! Keep thy fingers off those bolts, thou Menelaus, who vauntest thyself so high; else will I tear off the ancient parapet, the work of masons, and shatter thy skull with this coping-stone. The doors are bolted and barred, which will prevent thy entrance to the palace and thy eagerness to bring aid.",
+          "lineStart": 678
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 684
+        },
+        {
+          "type": "para",
+          "text": "Ha! what now? I see a blaze of torches and men standing at bay on the house-top yonder, with a sword held at my daughter's throat.",
+          "lineStart": 685
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 687
+        },
+        {
+          "type": "para",
+          "text": "Wouldst question me or hear me speak?",
+          "lineStart": 688
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 689
+        },
+        {
+          "type": "para",
+          "text": "Neither; but I suppose I must hear thee.",
+          "lineStart": 690
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 691
+        },
+        {
+          "type": "para",
+          "text": "Well, if thou art anxious to know, I intend to slay thy daughter.",
+          "lineStart": 692
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 693
+        },
+        {
+          "type": "para",
+          "text": "After slaying Helen, art thou bent on adding another murder?",
+          "lineStart": 694
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 695
+        },
+        {
+          "type": "para",
+          "text": "I would I had compassed that, instead of being duped by the gods!",
+          "lineStart": 696
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 698
+        },
+        {
+          "type": "para",
+          "text": "Dost thou deny having slain her, saying this out of wanton insult?",
+          "lineStart": 699
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 701
+        },
+        {
+          "type": "para",
+          "text": "Yes, I do deny it to my sorrow. Would God-",
+          "lineStart": 702
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 703
+        },
+        {
+          "type": "para",
+          "text": "Would God-what? Thou provokest my fears.",
+          "lineStart": 704
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 705
+        },
+        {
+          "type": "para",
+          "text": "I had hurled to Hades the pollution of Hellas!",
+          "lineStart": 706
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 707
+        },
+        {
+          "type": "para",
+          "text": "Surrender my wife's dead body, that I may bury her.",
+          "lineStart": 708
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 709
+        },
+        {
+          "type": "para",
+          "text": "Ask the gods for her; but thy daughter I will slay.",
+          "lineStart": 710
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 711
+        },
+        {
+          "type": "para",
+          "text": "This matricide is bent on adding murder to murder.",
+          "lineStart": 712
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 713
+        },
+        {
+          "type": "para",
+          "text": "This champion of his sire, betrayed by thee to death.",
+          "lineStart": 714
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 715
+        },
+        {
+          "type": "para",
+          "text": "Art thou not content with the stain of the mother's blood which is on thee?",
+          "lineStart": 716
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 718
+        },
+        {
+          "type": "para",
+          "text": "I should not grow tired if I had these wicked women to slay for ever.",
+          "lineStart": 719
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 721
+        },
+        {
+          "type": "para",
+          "text": "Art thou too, Pylades, a partner in this bloody work?",
+          "lineStart": 722
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 723
+        },
+        {
+          "type": "para",
+          "text": "His silence says he is; so my saying it will suffice.",
+          "lineStart": 724
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 725
+        },
+        {
+          "type": "para",
+          "text": "Not without thy ruing it, unless thou take wings and fly.",
+          "lineStart": 726
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 727
+        },
+        {
+          "type": "para",
+          "text": "Fly we never will, but will fire the palace.",
+          "lineStart": 728
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 729
+        },
+        {
+          "type": "para",
+          "text": "What! wilt thou destroy the home of thy ancestors?",
+          "lineStart": 730
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 731
+        },
+        {
+          "type": "para",
+          "text": "To prevent thee getting it I will, offering this maid in sacrifice upon its flames.",
+          "lineStart": 732
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 734
+        },
+        {
+          "type": "para",
+          "text": "Kill her, for thou wilt be punished by me for such a murder.",
+          "lineStart": 735
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 736
+        },
+        {
+          "type": "para",
+          "text": "Agreed.",
+          "lineStart": 737
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 738
+        },
+        {
+          "type": "para",
+          "text": "No, no! refrain!",
+          "lineStart": 739
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 740
+        },
+        {
+          "type": "para",
+          "text": "Silence! thy sufferings are just; endure them.",
+          "lineStart": 741
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 742
+        },
+        {
+          "type": "para",
+          "text": "Pray, is it just that thou shouldst live?",
+          "lineStart": 743
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 744
+        },
+        {
+          "type": "para",
+          "text": "And rule a kingdom, yes.",
+          "lineStart": 745
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 746
+        },
+        {
+          "type": "para",
+          "text": "A kingdom-where?",
+          "lineStart": 747
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 748
+        },
+        {
+          "type": "para",
+          "text": "Here in Pelasgian Argos.",
+          "lineStart": 749
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 750
+        },
+        {
+          "type": "para",
+          "text": "Thou art so well qualified to handle sacred water!",
+          "lineStart": 751
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 752
+        },
+        {
+          "type": "para",
+          "text": "And, pray, why not?",
+          "lineStart": 753
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 754
+        },
+        {
+          "type": "para",
+          "text": "And to slay victims before battle!",
+          "lineStart": 755
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 756
+        },
+        {
+          "type": "para",
+          "text": "Well, art thou?",
+          "lineStart": 757
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 758
+        },
+        {
+          "type": "para",
+          "text": "Yes, my hands are clean.",
+          "lineStart": 759
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 760
+        },
+        {
+          "type": "para",
+          "text": "But not thy heart.",
+          "lineStart": 761
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 762
+        },
+        {
+          "type": "para",
+          "text": "Who would speak to thee?",
+          "lineStart": 763
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 764
+        },
+        {
+          "type": "para",
+          "text": "Every man that loves his father.",
+          "lineStart": 765
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 766
+        },
+        {
+          "type": "para",
+          "text": "And the man who honours his mother?",
+          "lineStart": 767
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 768
+        },
+        {
+          "type": "para",
+          "text": "He's a happy man.",
+          "lineStart": 769
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 770
+        },
+        {
+          "type": "para",
+          "text": "Thou didst not honour thine, at any rate.",
+          "lineStart": 771
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 772
+        },
+        {
+          "type": "para",
+          "text": "No, for I delight not in your wicked women.",
+          "lineStart": 773
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 774
+        },
+        {
+          "type": "para",
+          "text": "Remove that sword from my daughter's throat.",
+          "lineStart": 775
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 776
+        },
+        {
+          "type": "para",
+          "text": "Thou art wrong.",
+          "lineStart": 777
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 778
+        },
+        {
+          "type": "para",
+          "text": "What! wilt slay her?",
+          "lineStart": 779
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 780
+        },
+        {
+          "type": "para",
+          "text": "Right once more.",
+          "lineStart": 781
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 782
+        },
+        {
+          "type": "para",
+          "text": "Ah me! what can I do?",
+          "lineStart": 783
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 784
+        },
+        {
+          "type": "para",
+          "text": "Go to the Argives and persuade them-",
+          "lineStart": 785
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 786
+        },
+        {
+          "type": "para",
+          "text": "To what?",
+          "lineStart": 787
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 788
+        },
+        {
+          "type": "para",
+          "text": "Entreat the city that we may not die.",
+          "lineStart": 789
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 790
+        },
+        {
+          "type": "para",
+          "text": "Otherwise, will ye slay my child?",
+          "lineStart": 791
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 792
+        },
+        {
+          "type": "para",
+          "text": "That is the alternative.",
+          "lineStart": 793
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 794
+        },
+        {
+          "type": "para",
+          "text": "Alas for thee, Helen!",
+          "lineStart": 795
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 796
+        },
+        {
+          "type": "para",
+          "text": "And is it not \"alas!\" for me?",
+          "lineStart": 797
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 798
+        },
+        {
+          "type": "para",
+          "text": "I brought her back from Troy only for thee to butcher.",
+          "lineStart": 799
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 800
+        },
+        {
+          "type": "para",
+          "text": "Would I had!",
+          "lineStart": 801
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 802
+        },
+        {
+          "type": "para",
+          "text": "After troubles innumerable.",
+          "lineStart": 803
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 804
+        },
+        {
+          "type": "para",
+          "text": "Except where I was concerned.",
+          "lineStart": 805
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 806
+        },
+        {
+          "type": "para",
+          "text": "Dread treatment mine!",
+          "lineStart": 807
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 808
+        },
+        {
+          "type": "para",
+          "text": "The reason being thy refusal to help me then?",
+          "lineStart": 809
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 810
+        },
+        {
+          "type": "para",
+          "text": "Thou hast me.",
+          "lineStart": 811
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 812
+        },
+        {
+          "type": "para",
+          "text": "Thy own cowardice has. Calling from the roof to ELECTRA Ho there! fire the palace from beneath, Electra; and, Pylades, my trusty friend, kindle the parapet of yonder walls. The palace is seen to be ablaze.",
+          "lineStart": 813
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 818
+        },
+        {
+          "type": "para",
+          "text": "Help, help, ye Danai! gird on your harness and come, ye dwellers in knightly Argos! for here is a fellow trying to wrest his life from your whole city, though he has caused pollution by shedding his mother's blood. APOLLO appears from above with HELEN.",
+          "lineStart": 819
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "APOLLO",
+          "lineStart": 823
+        },
+        {
+          "type": "para",
+          "text": "Menelaus, calm thy excited mood; I am Phoebus, the son of Latona, who draw nigh to call thee by name, and thou no less, Orestes, who, sword in hand, art keeping guard on yonder maid, that thou mayst hear what have come to say. Helen, whom all thy eagerness failed to destroy, when thou wert seeking to anger Menelaus, is here as ye see in the enfolding air, rescued from death instead of slain by thee. 'Twas I that saved her and snatched her from beneath thy sword at the bidding of her father Zeus; for she his child must put on immortality, and take her place with Castor and Polydeuces in the bosom of the sky, a saviour to mariners. Choose thee then another bride and take her to thy home, for the gods by means of Helen's loveliness embroiled Troy and Hellas, causing death thereby, that they might lighten mother Earth of the outrage done her by the increase of man's number. Such is Helen's end.",
+          "lineStart": 824
+        },
+        {
+          "type": "para",
+          "text": "But as for thee, Orestes, thou must cross the frontier of this land and dwell for one whole year on Parrhasian soil, which from thy flight thither shall be called the land of Orestes by Azanians and Arcadians; and when thou returnest thence to the city of Athens, submit to be brought to trial by \"the Avenging Three\" for thy mother's murder, for the gods will be umpires between you and will pass a most righteous sentence on thee upon the hill of Ares, where thou art to win thy case. Likewise, it is ordained, Orestes, that thou shalt wed Hermione, at whose neck thou art pointing thy sword; Neoptolemus shall never marry her, though he thinks he will; for his death is fated to o'ertake him by a Delphian sword, when he claims satisfaction of me for the death of his father Achilles. Bestow thy sister's hand on Pylades, to whom thou didst formerly promise her; the life awaiting him henceforth is one of bliss.",
+          "lineStart": 837
+        },
+        {
+          "type": "para",
+          "text": "Menelaus, leave Orestes to rule Argos; go thou and reign oer Sparta, keeping it as the dowry of a wife, who till this day ne'er ceased exposing thee to toils innumerable. Between Orestes and the citizens, I, who forced his mother's murder on him, will bring about a reconciliation.",
+          "lineStart": 850
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 854
+        },
+        {
+          "type": "para",
+          "text": "Hail to thee, prophetic Loxias, for these thy utterances! Thou art not a lying prophet after all, but a true seer; and yet there came a dreadful thought into my heart that it was some fiend I had listened to, when seemed to hear thy voice; but all is ending well, and I obey thy word. There! I release Hermione from a violent death and agree to make her my wife whenever her father gives consent.",
+          "lineStart": 855
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 861
+        },
+        {
+          "type": "para",
+          "text": "All hail, Helen, daughter of Zeus! I wish thee joy of thy home in heaven's happy courts. To thee, Orestes, I betroth my daughter according to the word of Phoebus, and good luck attend thee, a noble wooer nobly wived, and me the parent of thy bride!",
+          "lineStart": 862
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "APOLLO",
+          "lineStart": 866
+        },
+        {
+          "type": "para",
+          "text": "Repair each one to the place appointed by me; reconcile all strife.",
+          "lineStart": 867
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "MENELAUS",
+          "lineStart": 869
+        },
+        {
+          "type": "para",
+          "text": "Obedience is a duty.",
+          "lineStart": 870
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORESTES",
+          "lineStart": 871
+        },
+        {
+          "type": "para",
+          "text": "I think thus also, Menelaus; so here I make a truce with sorrow and with thy oracles, O Loxias.",
+          "lineStart": 872
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "APOLLO",
+          "lineStart": 874
+        },
+        {
+          "type": "para",
+          "text": "chanting Go your ways, and honour Peace, most fair of goddesses; I, meantime, will escort Helen to the mansions of Zeus, soon as I reach the star-lit firmament. There, seated side by side with Hera and Hebe, the bride of Heracles, she shall be honoured by men with drink-offerings as a goddess for ever, sharing with those Zeus-born sons of Tyndareus their empire o'er the sea, for the good of mariners. APOLLO and HELEN vanish.",
+          "lineStart": 875
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 883
+        },
+        {
+          "type": "para",
+          "text": "chanting Hail! majestic Victory, still in thy keeping hold my life and ne'er withhold the crown!",
+          "lineStart": 884
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 247,
+    "wordCount": 6848
+  }
+}

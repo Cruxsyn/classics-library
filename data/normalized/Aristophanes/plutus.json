@@ -1,0 +1,5336 @@
+{
+  "id": "Aristophanes/plutus",
+  "author": "Aristophanes",
+  "authorKey": "Aristophanes",
+  "title": "Plutus",
+  "translator": null,
+  "language": "Greek",
+  "written": "380 BCE",
+  "sourceNote": null,
+  "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "ambiguous: 0.270 long unterminated interior lines, median line length 25.0, 0.001 explicit breaks; defaulted to prose",
+  "textModeStats": {
+    "lineCount": 1456,
+    "paragraphCount": 2,
+    "interiorLineCount": 1454,
+    "medianLineLength": 25.0,
+    "meanLineLength": 33.8021978021978,
+    "longInteriorLineRatio": 0.3342503438789546,
+    "unterminatedInteriorLineRatio": 0.6396148555708391,
+    "longUnterminatedInteriorLineRatio": 0.2696011004126547,
+    "explicitBreakLineRatio": 0.0006868131868131869,
+    "unmarkedLineRatio": 0.9986263736263736
+  },
+  "landingUrl": "https://classics.mit.edu/Aristophanes/plutus.html",
+  "textUrls": [
+    "https://classics.mit.edu/Aristophanes/plutus.html"
+  ],
+  "txtUrl": "https://classics.mit.edu/Aristophanes/plutus.pl.txt",
+  "sections": [
+    {
+      "seq": 1,
+      "id": "plutus-plutus",
+      "heading": "Plutus",
+      "partTitle": "Plutus",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Dramatis Personae",
+          "lineStart": 10
+        },
+        {
+          "type": "para",
+          "text": "CHREMYLUS CARIO, Servant of Chremylus PLUTUS, God of Riches BLEPSIDEMUS, friend of Chremylus POVERTY WIFE OF CHREMYLUS A JUST MAN AN INFORMER AN OLD WOMAN A YOUTH HERMES A PRIEST OF ZEUS CHORUS OF RUSTICS Scene The Orchestra represents a public square in Athens. In the background is the house of CHREMYLUS. A ragged old blind man enters, followed by CHREMYLUS and his slave CARIO.",
+          "lineStart": 11
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 25
+        },
+        {
+          "type": "para",
+          "text": "What an unhappy fate, great gods, to be the slave of a fool! A servant may give the best of advice, but if his master does not follow it, the pool slave must inevitably have his share in the disaster; for fortune does not allow him to dispose of his own body, it belongs to his master who has bought it. Alas! 'tis the way of the world. But the god, Apollo, in tragic style whose oracles the Pythian priestess on her golden tripod makes known to us, deserves my censure, for surely he is a physician and a cunning diviner; and yet my master is leaving his temple infected with mere madness and insists on following a blind man. Is this not opposed to all good sense? It is for us, who see clearly, to guide those who don't; whereas he clings to the trail of a blind fellow and compels me to do the same without answering my questions with ever a word. To CHREMYLUS Aye, master, unless you tell me why we are following this unknown fellow, I will not be silent, but I will worry and torment you, for you cannot beat me because of my sacred chaplet of laurel.",
+          "lineStart": 26
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 44
+        },
+        {
+          "type": "para",
+          "text": "No, but if you worry me I will take off your chaplets, and then you will only get a sounder thrashing.",
+          "lineStart": 45
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 47
+        },
+        {
+          "type": "para",
+          "text": "That's an old song! I am going to leave you no peace till you have told me who this man is; and if I ask it, it's entirely because of my interest in you.",
+          "lineStart": 48
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 51
+        },
+        {
+          "type": "para",
+          "text": "Well, be it so. I will reveal it to you as being the most faithful and the most rascally of all my servants. I honoured the gods and did what was right, and yet I was none the less poor and unfortunate.",
+          "lineStart": 52
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 55
+        },
+        {
+          "type": "para",
+          "text": "I know it but too well.",
+          "lineStart": 56
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 57
+        },
+        {
+          "type": "para",
+          "text": "Others amassed wealth-the sacrilegious, the demagogues, the informers, indeed every sort of rascal.",
+          "lineStart": 58
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 60
+        },
+        {
+          "type": "para",
+          "text": "I believe you.",
+          "lineStart": 61
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 62
+        },
+        {
+          "type": "para",
+          "text": "Therefore I came to consult the oracle of the god, not on my own account, for my unfortunate life is nearing its end, but for my only son; I wanted to ask Apollo if it was necessary for him to become a thorough knave and renounce his virtuous principles, since that seemed to me to be the only way to succeed in life.",
+          "lineStart": 63
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 68
+        },
+        {
+          "type": "para",
+          "text": "with ironic gravity And with what responding tones did the sacred tripod resound?",
+          "lineStart": 69
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 71
+        },
+        {
+          "type": "para",
+          "text": "You shall know. The god ordered me in plain terms to follow the first man I should meet upon leaving the temple and to persuade him to accompany me home.",
+          "lineStart": 72
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 75
+        },
+        {
+          "type": "para",
+          "text": "And who was the first one you met?",
+          "lineStart": 76
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 77
+        },
+        {
+          "type": "para",
+          "text": "This blind man.",
+          "lineStart": 78
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 79
+        },
+        {
+          "type": "para",
+          "text": "And you are stupid enough not to understand the meaning of such an answer! Why, the god was advising you thereby, and that in the clearest possible way, to bring up your son according to the fashion of your country.",
+          "lineStart": 80
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 84
+        },
+        {
+          "type": "para",
+          "text": "What makes you think that?",
+          "lineStart": 85
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 86
+        },
+        {
+          "type": "para",
+          "text": "Is it not evident to the blind, that nowadays to do nothing that is right is the best way to get on?",
+          "lineStart": 87
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 89
+        },
+        {
+          "type": "para",
+          "text": "No, that is not the meaning of the oracle; there must be another that is nobler. If this blind man would tell us who he is and why and with what object he has led us here, we should no doubt understand what our oracle really does mean.",
+          "lineStart": 90
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 94
+        },
+        {
+          "type": "para",
+          "text": "to PLUTUS Come, tell us at once who you are, or I shall give effect to my threat. He menaces him. And quick too, be quick, I say.",
+          "lineStart": 95
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 100
+        },
+        {
+          "type": "para",
+          "text": "I'll thrash you.",
+          "lineStart": 101
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 102
+        },
+        {
+          "type": "para",
+          "text": "to CHREMYLUS Do you understand who he says he is?",
+          "lineStart": 103
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 105
+        },
+        {
+          "type": "para",
+          "text": "It's to you and not to me that he replies thus: your mode of questioning him was ill-advised. To PLUTUS Come, friend, if you care to oblige an honest man, answer me.",
+          "lineStart": 106
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 110
+        },
+        {
+          "type": "para",
+          "text": "I'll knock you down.",
+          "lineStart": 111
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 112
+        },
+        {
+          "type": "para",
+          "text": "sarcastically Ah! what a pleasant fellow and what a delightful prophecy the god has given you!",
+          "lineStart": 113
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 116
+        },
+        {
+          "type": "para",
+          "text": "to PLUTUS By Demeter, you'll have no reason to laugh presently.",
+          "lineStart": 117
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 119
+        },
+        {
+          "type": "para",
+          "text": "If you don't speak, you wretch, I will surely do you an ill turn.",
+          "lineStart": 120
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 122
+        },
+        {
+          "type": "para",
+          "text": "Friends, take yourselves off and leave me.",
+          "lineStart": 123
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 124
+        },
+        {
+          "type": "para",
+          "text": "That we very certainly shan't.",
+          "lineStart": 125
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 126
+        },
+        {
+          "type": "para",
+          "text": "This, master, is the best thing to do. I'll undertake to secure him the most frightful death; I will lead him to the verge of a precipice and then leave him there, so that he'll break his neck when he pitches over.",
+          "lineStart": 127
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 131
+        },
+        {
+          "type": "para",
+          "text": "Well then, seize him right away. CARIO does so.",
+          "lineStart": 132
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 134
+        },
+        {
+          "type": "para",
+          "text": "Oh, no! Have mercy!",
+          "lineStart": 135
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 136
+        },
+        {
+          "type": "para",
+          "text": "Will thou speak then?",
+          "lineStart": 137
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 138
+        },
+        {
+          "type": "para",
+          "text": "But if you learn who I am, I know well that you will ill-use me and will let me go again.",
+          "lineStart": 139
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 141
+        },
+        {
+          "type": "para",
+          "text": "I call the gods to witness that you have naught to fear if you will only speak.",
+          "lineStart": 142
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 144
+        },
+        {
+          "type": "para",
+          "text": "Well then, first unhand me.",
+          "lineStart": 145
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 146
+        },
+        {
+          "type": "para",
+          "text": "There! we set you free.",
+          "lineStart": 147
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 148
+        },
+        {
+          "type": "para",
+          "text": "Listen then, since I must reveal what I had intended to keep a secret. I am Plutus.",
+          "lineStart": 149
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 151
+        },
+        {
+          "type": "para",
+          "text": "Oh! you wretched rascal! You Plutus all the while, and you never said so!",
+          "lineStart": 152
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 154
+        },
+        {
+          "type": "para",
+          "text": "You, Plutus, and in this piteous guise! Oh, Phoebus Apollo! oh, ye gods of heaven and hell! Oh, Zeus! is it really and truly as you say?",
+          "lineStart": 155
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 158
+        },
+        {
+          "type": "para",
+          "text": "Yes.",
+          "lineStart": 159
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 160
+        },
+        {
+          "type": "para",
+          "text": "Plutus' very own self?",
+          "lineStart": 161
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 162
+        },
+        {
+          "type": "para",
+          "text": "His own very self and none other.",
+          "lineStart": 163
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 164
+        },
+        {
+          "type": "para",
+          "text": "But tell me, how come you're so squalid?",
+          "lineStart": 165
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 166
+        },
+        {
+          "type": "para",
+          "text": "I have just left Patrocles' house, who has not had a bath since his birth.",
+          "lineStart": 167
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 169
+        },
+        {
+          "type": "para",
+          "text": "But your infirmity; how did that happen? Tell me.",
+          "lineStart": 170
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 171
+        },
+        {
+          "type": "para",
+          "text": "Zeus inflicted it on me, because of his jealousy of-mankind. When I was young, I threatened him that I would only go to the just, the wise, the men of ordered life; to prevent my distinguishing these, he struck me with blindness' so much does he envy the good!",
+          "lineStart": 172
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 176
+        },
+        {
+          "type": "para",
+          "text": "And yet, it's only the upright and just who honour him.",
+          "lineStart": 177
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 178
+        },
+        {
+          "type": "para",
+          "text": "Quite true.",
+          "lineStart": 179
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 180
+        },
+        {
+          "type": "para",
+          "text": "Therefore, if ever you recovered your sight, you would shun the wicked?",
+          "lineStart": 181
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 183
+        },
+        {
+          "type": "para",
+          "text": "Undoubtedly.",
+          "lineStart": 184
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 185
+        },
+        {
+          "type": "para",
+          "text": "You would visit the good?",
+          "lineStart": 186
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 187
+        },
+        {
+          "type": "para",
+          "text": "Assuredly. It is a very long time since I saw them.",
+          "lineStart": 188
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 189
+        },
+        {
+          "type": "para",
+          "text": "to the audience That's not astonishing. I, who see clearly, don't see a single one.",
+          "lineStart": 190
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 192
+        },
+        {
+          "type": "para",
+          "text": "Now let me leave you, for I have told you everything.",
+          "lineStart": 193
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 194
+        },
+        {
+          "type": "para",
+          "text": "No, certainly not! we shall fasten ourselves on to you faster than ever.",
+          "lineStart": 195
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 197
+        },
+        {
+          "type": "para",
+          "text": "Did I not tell you, you were going to plague me?",
+          "lineStart": 198
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 199
+        },
+        {
+          "type": "para",
+          "text": "Oh! I adjure you, believe what I say and don't leave me; for you will seek in vain for a more honest man than myself.",
+          "lineStart": 200
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 202
+        },
+        {
+          "type": "para",
+          "text": "There is only one man more worthy; and that is I.",
+          "lineStart": 203
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 204
+        },
+        {
+          "type": "para",
+          "text": "All talk like this, but as soon as they secure my favours and grow rich, their wickedness knows no bounds.",
+          "lineStart": 205
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 207
+        },
+        {
+          "type": "para",
+          "text": "And yet all men are not wicked.",
+          "lineStart": 208
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 209
+        },
+        {
+          "type": "para",
+          "text": "All. There's no exception.",
+          "lineStart": 210
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 211
+        },
+        {
+          "type": "para",
+          "text": "You shall pay for that opinion.",
+          "lineStart": 212
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 213
+        },
+        {
+          "type": "para",
+          "text": "Listen to what happiness there is in store for you, if you but stay with us. I have hope; aye, I have good hope with the god's help to deliver you from that blindness, in fact to restore your sight.",
+          "lineStart": 214
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 217
+        },
+        {
+          "type": "para",
+          "text": "Oh! do nothing of the kind, for I don't wish to recover it.",
+          "lineStart": 218
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 219
+        },
+        {
+          "type": "para",
+          "text": "What's that you say?",
+          "lineStart": 220
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 221
+        },
+        {
+          "type": "para",
+          "text": "This fellow hugs his own misery.",
+          "lineStart": 222
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 223
+        },
+        {
+          "type": "para",
+          "text": "If you were mad enough to cure me, and Zeus heard of it, he would overwhelm me with his anger.",
+          "lineStart": 224
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 226
+        },
+        {
+          "type": "para",
+          "text": "And is he not doing this now by leaving you to grope your wandering way?",
+          "lineStart": 227
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 229
+        },
+        {
+          "type": "para",
+          "text": "I don't know; but I'm horribly afraid of him.",
+          "lineStart": 230
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 231
+        },
+        {
+          "type": "para",
+          "text": "Indeed? Ah! you are the biggest poltroon of all the gods! Why, Zeus with his throne and his lightnings would not be worth an obolus if you recovered your sight, were it but for a few moments.",
+          "lineStart": 232
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 235
+        },
+        {
+          "type": "para",
+          "text": "Impious man, don't talk like that.",
+          "lineStart": 236
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 237
+        },
+        {
+          "type": "para",
+          "text": "Fear nothing! I will prove to you that you are far more powerful and mightier than he.",
+          "lineStart": 238
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 240
+        },
+        {
+          "type": "para",
+          "text": "I mightier than he?",
+          "lineStart": 241
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 242
+        },
+        {
+          "type": "para",
+          "text": "Aye, by heaven! To CARIO For instance, what is the basis of the power that Zeus wields over the other gods?",
+          "lineStart": 243
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 247
+        },
+        {
+          "type": "para",
+          "text": "Money; he has so much of it.",
+          "lineStart": 248
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 249
+        },
+        {
+          "type": "para",
+          "text": "And who gives it to him?",
+          "lineStart": 250
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 251
+        },
+        {
+          "type": "para",
+          "text": "pointing to Plutus This fellow.",
+          "lineStart": 252
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 254
+        },
+        {
+          "type": "para",
+          "text": "If sacrifices are offered to him, is not Plutus their cause?",
+          "lineStart": 255
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 256
+        },
+        {
+          "type": "para",
+          "text": "Undoubtedly, for it's wealth that all demand and clamour most loudly for.",
+          "lineStart": 257
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 259
+        },
+        {
+          "type": "para",
+          "text": "Thus it's Plutus who is the fount of all the honours rendered to Zeus, whose worship he can wither up at the root, if it so pleases him.",
+          "lineStart": 260
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 262
+        },
+        {
+          "type": "para",
+          "text": "And how so?",
+          "lineStart": 263
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 264
+        },
+        {
+          "type": "para",
+          "text": "Not an ox, nor a cake, nor indeed anything at all could be offered, if you did not wish it.",
+          "lineStart": 265
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 267
+        },
+        {
+          "type": "para",
+          "text": "Why?",
+          "lineStart": 268
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 269
+        },
+        {
+          "type": "para",
+          "text": "Why? but what means are there to buy anything if you are not there to give the money? Hence if Zeus should cause you any trouble, you will destroy his power without other help.",
+          "lineStart": 270
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 273
+        },
+        {
+          "type": "para",
+          "text": "So it's because of me that sacrifices are offered to him?",
+          "lineStart": 274
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 275
+        },
+        {
+          "type": "para",
+          "text": "Most assuredly. Whatever is dazzling, beautiful or charming in the eyes of mankind, comes from you. Does not everything depend on wealth?",
+          "lineStart": 276
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 278
+        },
+        {
+          "type": "para",
+          "text": "I myself was bought for a few coins; if I'm a slave, it's only because I was not rich.",
+          "lineStart": 279
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 281
+        },
+        {
+          "type": "para",
+          "text": "And what of the Corinthian whores? If a poor man offers them proposals, they do not listen; but if it be a rich one, instantly they turn their arses to him.",
+          "lineStart": 282
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 285
+        },
+        {
+          "type": "para",
+          "text": "It's the same with the lads; they care not for love, to them money means everything.",
+          "lineStart": 286
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 288
+        },
+        {
+          "type": "para",
+          "text": "You speak of male whores; yet some of them are honest, and it's not money they ask of their patrons.",
+          "lineStart": 289
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 291
+        },
+        {
+          "type": "para",
+          "text": "What then?",
+          "lineStart": 292
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 293
+        },
+        {
+          "type": "para",
+          "text": "A fine horse, a pack of hounds.",
+          "lineStart": 294
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 295
+        },
+        {
+          "type": "para",
+          "text": "Yes, they would blush to ask for money and cleverly disguise their shame.",
+          "lineStart": 296
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 298
+        },
+        {
+          "type": "para",
+          "text": "It is in you that every art, all human inventions, have had their origin; it is through you that one man sits cutting leather in his shop.",
+          "lineStart": 299
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 302
+        },
+        {
+          "type": "para",
+          "text": "That another fashions iron or wood.",
+          "lineStart": 303
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 304
+        },
+        {
+          "type": "para",
+          "text": "That yet another chases the gold he has received from you.",
+          "lineStart": 305
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 306
+        },
+        {
+          "type": "para",
+          "text": "That one is a fuller.",
+          "lineStart": 307
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 308
+        },
+        {
+          "type": "para",
+          "text": "That the other washes wool.",
+          "lineStart": 309
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 310
+        },
+        {
+          "type": "para",
+          "text": "That this one is a tanner.",
+          "lineStart": 311
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 312
+        },
+        {
+          "type": "para",
+          "text": "And that other sells onions.",
+          "lineStart": 313
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 314
+        },
+        {
+          "type": "para",
+          "text": "And if the adulterer, caught red-handed, is depilated, it's on account of you.",
+          "lineStart": 315
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 317
+        },
+        {
+          "type": "para",
+          "text": "Oh! great gods! I knew naught of all this!",
+          "lineStart": 318
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 319
+        },
+        {
+          "type": "para",
+          "text": "to CHREMYLUS Is it not he who lends the Great King all his pride? Is it not he who draws the citizens to the Assembly?",
+          "lineStart": 320
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 323
+        },
+        {
+          "type": "para",
+          "text": "And tell me, is it not you who equip the triremes?",
+          "lineStart": 324
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 325
+        },
+        {
+          "type": "para",
+          "text": "And who feed our mercenaries at Corinth? Are not you the cause of Pamphilus' sufferings?",
+          "lineStart": 326
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 328
+        },
+        {
+          "type": "para",
+          "text": "And of the needle-seller's with Pamphilus?",
+          "lineStart": 329
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 330
+        },
+        {
+          "type": "para",
+          "text": "It is not because of you that Agyrrhius farts so loudly?",
+          "lineStart": 331
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 332
+        },
+        {
+          "type": "para",
+          "text": "And that Philepsius rolls off his fables? That troops are sent to succour the Egyptians? And that Lais is kept by Philonides?",
+          "lineStart": 333
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 335
+        },
+        {
+          "type": "para",
+          "text": "That the tower of Timotheus...",
+          "lineStart": 336
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 337
+        },
+        {
+          "type": "para",
+          "text": "To CARIO ...May it fall upon your head! To PLUTUS In short, Plutus, it is through you that everything is done; you must realize that you are the sole cause both of good and evil.",
+          "lineStart": 338
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 343
+        },
+        {
+          "type": "para",
+          "text": "In war, it's the flag under which you serve that victory favours.",
+          "lineStart": 344
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 345
+        },
+        {
+          "type": "para",
+          "text": "What! I can do so many things by myself and unaided?",
+          "lineStart": 346
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 347
+        },
+        {
+          "type": "para",
+          "text": "And many others besides; wherefore men are never tired of your gifts. They get weary of all else,-of love...",
+          "lineStart": 348
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 350
+        },
+        {
+          "type": "para",
+          "text": "Bread.",
+          "lineStart": 351
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 352
+        },
+        {
+          "type": "para",
+          "text": "Music.",
+          "lineStart": 353
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 354
+        },
+        {
+          "type": "para",
+          "text": "Sweetmeats.",
+          "lineStart": 355
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 356
+        },
+        {
+          "type": "para",
+          "text": "Honours.",
+          "lineStart": 357
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 358
+        },
+        {
+          "type": "para",
+          "text": "Cakes.",
+          "lineStart": 359
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 360
+        },
+        {
+          "type": "para",
+          "text": "Battles.",
+          "lineStart": 361
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 362
+        },
+        {
+          "type": "para",
+          "text": "Figs.",
+          "lineStart": 363
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 364
+        },
+        {
+          "type": "para",
+          "text": "Ambition.",
+          "lineStart": 365
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 366
+        },
+        {
+          "type": "para",
+          "text": "Gruel.",
+          "lineStart": 367
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 368
+        },
+        {
+          "type": "para",
+          "text": "Military advancement.",
+          "lineStart": 369
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 370
+        },
+        {
+          "type": "para",
+          "text": "Lentil soup.",
+          "lineStart": 371
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 372
+        },
+        {
+          "type": "para",
+          "text": "But of you they never tire. If a man has thirteen talents, he has all the greater ardour to possess sixteen; if that wish is achieved, he will want forty or will complain that he knows not how to make both ends meet.",
+          "lineStart": 373
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 377
+        },
+        {
+          "type": "para",
+          "text": "All this, I suppose, is very true; there is but one point that makes me feel a bit uneasy.",
+          "lineStart": 378
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 380
+        },
+        {
+          "type": "para",
+          "text": "And that is?",
+          "lineStart": 381
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 382
+        },
+        {
+          "type": "para",
+          "text": "How could I use this power, which you say I have?",
+          "lineStart": 383
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 384
+        },
+        {
+          "type": "para",
+          "text": "Ah! they were quite right who said there's nothing more timorous than Plutus",
+          "lineStart": 385
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 387
+        },
+        {
+          "type": "para",
+          "text": "No, no; it was a thief who calumniated me. Having broken into a house, he found everything locked up and could take nothing, so he dubbed my prudence fear.",
+          "lineStart": 388
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 391
+        },
+        {
+          "type": "para",
+          "text": "Don't be disturbed; if you support me zealously, I'll make you more sharp-sighted than Lynceus.",
+          "lineStart": 392
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 394
+        },
+        {
+          "type": "para",
+          "text": "And how should you be able to do that, you. who are but a mortal?",
+          "lineStart": 395
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 396
+        },
+        {
+          "type": "para",
+          "text": "I have great hope, after the answer Apollo gave me, shaking his sacred laurels the while.",
+          "lineStart": 397
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 399
+        },
+        {
+          "type": "para",
+          "text": "Is he in the plot then?",
+          "lineStart": 400
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 401
+        },
+        {
+          "type": "para",
+          "text": "Surely.",
+          "lineStart": 402
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 403
+        },
+        {
+          "type": "para",
+          "text": "Take care what you say.",
+          "lineStart": 404
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 405
+        },
+        {
+          "type": "para",
+          "text": "Never fear, friend; for, be well assured, that if it has to cost me my life, I will carry out what I have in my head.",
+          "lineStart": 406
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 408
+        },
+        {
+          "type": "para",
+          "text": "And I will help you, if you permit it.",
+          "lineStart": 409
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 410
+        },
+        {
+          "type": "para",
+          "text": "We shall have many other helpers as well-all the worthy folk who are wanting for bread.",
+          "lineStart": 411
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 413
+        },
+        {
+          "type": "para",
+          "text": "Ah! they'll prove sorry helpers.",
+          "lineStart": 414
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 415
+        },
+        {
+          "type": "para",
+          "text": "No, not so, once they've grown rich. But you, Cario, run quick...",
+          "lineStart": 416
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 417
+        },
+        {
+          "type": "para",
+          "text": "Where?",
+          "lineStart": 418
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 419
+        },
+        {
+          "type": "para",
+          "text": "...to call my comrades, the other husbandmen (you'll probably find the poor fellows toiling away in the fields,) that each of them may come here to take his share of the gifts of Plutus.",
+          "lineStart": 420
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 423
+        },
+        {
+          "type": "para",
+          "text": "I'm off. But let someone come from the house to take this morsel of meat.",
+          "lineStart": 424
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 426
+        },
+        {
+          "type": "para",
+          "text": "I'll see to that; you run your hardest. As for you, Plutus, the most excellent of all the gods, come in here with me; this is the house you must fill with riches to-day, by fair means or foul.",
+          "lineStart": 427
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 430
+        },
+        {
+          "type": "para",
+          "text": "I don't at all like going into other folks' houses in this manner; I have never got any good from it. If I got inside a miser's house, straightway he would bury me deep underground; if some honest fellow among his friends came to ask him for the smallest coin, he would deny ever having seen me. Then if I went to a fool's house, he would sacrifice in dicing and wenching, and very soon I should be completely stripped and pitched out of doors.",
+          "lineStart": 431
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 438
+        },
+        {
+          "type": "para",
+          "text": "That's because you have never met a man who knew how to avoid the two extremes; moderation is the strong point in my character. I love saving as much as anybody, and I know how to spend, when it's needed. But let us go in; I want to make you known to my wife and to my only son, whom I love most of all after yourself.",
+          "lineStart": 439
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 444
+        },
+        {
+          "type": "para",
+          "text": "I'm quite sure of that.",
+          "lineStart": 445
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 446
+        },
+        {
+          "type": "para",
+          "text": "Why should I hide the truth from you? They enter CHREMYLUS' house.",
+          "lineStart": 447
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 449
+        },
+        {
+          "type": "para",
+          "text": "to the CHORUS, which has followed him in Come, you active workers, who, like my master, eat nothing but garlic and the poorest food, you who are his friends and his neighbours, hasten your steps, hurry yourselves; there's not a moment to lose; this is the critical hour, when your presence and your support are needed by him.",
+          "lineStart": 450
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 455
+        },
+        {
+          "type": "para",
+          "text": "Why, don't you see we are speeding as fast as men can, who are already enfeebled by age? But do you deem it fitting to make us run like this before ever telling us why your master has called us?",
+          "lineStart": 456
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 459
+        },
+        {
+          "type": "para",
+          "text": "I've grown hoarse with the telling, but you won't listen. My master is going to drag you all out of the stupid, sapless life you are leading and ensure you, one full of all delights.",
+          "lineStart": 460
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 463
+        },
+        {
+          "type": "para",
+          "text": "And how is he going to manage that?",
+          "lineStart": 464
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 465
+        },
+        {
+          "type": "para",
+          "text": "My poor friends, he has brought with him a disgusting old fellow, all bent and wrinkled, with a most pitiful appearance, bald and toothless; upon my word, I even believe he is circumcised like some vile barbarian.",
+          "lineStart": 466
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 469
+        },
+        {
+          "type": "para",
+          "text": "This news is worth its weight in gold! What are you saying? Repeat it to me; no doubt it means he is bringing back a heap of wealth.",
+          "lineStart": 470
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 472
+        },
+        {
+          "type": "para",
+          "text": "No, but a heap of all the infirmities attendant on old age.",
+          "lineStart": 473
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 474
+        },
+        {
+          "type": "para",
+          "text": "If you are tricking us, you shall pay us for it. Beware of our sticks!",
+          "lineStart": 475
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 477
+        },
+        {
+          "type": "para",
+          "text": "Do you deem me so brazen as all that, and my words mere lies?",
+          "lineStart": 478
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 479
+        },
+        {
+          "type": "para",
+          "text": "What serious airs the rascal puts on! Look! his legs are already shrieking, \"oh! oh!\" They are asking for the shackles and wedges.",
+          "lineStart": 480
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 482
+        },
+        {
+          "type": "para",
+          "text": "It's in the tomb that it's your lot to judge. Why don't you go there? Charon has given you your ticket.",
+          "lineStart": 483
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 485
+        },
+        {
+          "type": "para",
+          "text": "Plague take you! you cursed rascal, who rail at us and have not even the heart to tell us why your master has made us come. We were pressed for time and tired out, yet we came with all haste, and in our hurry we have passed by lots of wild onions without even gathering them.",
+          "lineStart": 486
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 490
+        },
+        {
+          "type": "para",
+          "text": "I will no longer conceal the truth from you. Friends, it's Plutus whom my master brings, Plutus, who will give you riches.",
+          "lineStart": 491
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 493
+        },
+        {
+          "type": "para",
+          "text": "What! we shall really all become rich?",
+          "lineStart": 494
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 495
+        },
+        {
+          "type": "para",
+          "text": "Aye, certainly; you will then be Midases, provided you grow ass's ears.",
+          "lineStart": 496
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 498
+        },
+        {
+          "type": "para",
+          "text": "What joy, what happiness! If what you tell me is true, I long to dance with delight.",
+          "lineStart": 499
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 501
+        },
+        {
+          "type": "para",
+          "text": "singing, with appropriate gestures And I too, threttanelo! want to imitate the Cyclops and lead your troop by stamping like this. Do you, my dear little ones, cry, aye, cry again and bleat forth the plaintive song of the sheep and of the stinking goats; follow me like lascivious goats with their tools out.",
+          "lineStart": 502
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 507
+        },
+        {
+          "type": "para",
+          "text": "Singing, to the same tune and with similar mimicry As for us, threttanelo! we will seek you, dear Cyclops, bleating, and if we find you with your wallet full of fresh herbs, all disgusting in your filth, sodden with wine and sleeping in the midst of your sheep, we will seize a great flaming stake and burn out your eye.",
+          "lineStart": 508
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 513
+        },
+        {
+          "type": "para",
+          "text": "I will copy that Circe of Corinth, whose potent philtres compelled the companions of Philonides like swine to swallow balls of dung, which she herself had kneaded with her hands; and do you too grunt with joy and follow your mother, my little pigs.",
+          "lineStart": 514
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 518
+        },
+        {
+          "type": "para",
+          "text": "Oh! Circe with the potent philtress, who besmear your companions so filthily, what pleasure I shall have in imitating the son of Laertes! I will hang you up by your balls, I will rub your nose with dung like a goat, and like Aristyllus you shall say through your half-opened lips, \"Follow your mother, my little pigs.\"",
+          "lineStart": 519
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 524
+        },
+        {
+          "type": "para",
+          "text": "Enough of tomfoolery, assume a grave demeanour; unknown to my master I am going to take bread and meat; and when I have fed well, I shall resume my work. Interlude of dancing by the CHORUS.",
+          "lineStart": 525
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 529
+        },
+        {
+          "type": "para",
+          "text": "coming out of his house To say, \"Hail! my dear neighbours!\" is an old form of greeting and well worn with use; so therefore I embrace you, because you have not crept like tortoises, but have come rushing here in all haste. Now help me to watch carefully and closely over the god.",
+          "lineStart": 530
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 535
+        },
+        {
+          "type": "para",
+          "text": "Be at ease. You shall see with what martial zeal I will guard him. What! we jostle each other at the Assembly for three obols, and am I going to let Plutus in person be stolen from me?",
+          "lineStart": 536
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 539
+        },
+        {
+          "type": "para",
+          "text": "But I see Blepsidemus; by his bearing and his haste I can readily see he knows or suspects something.",
+          "lineStart": 540
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 542
+        },
+        {
+          "type": "para",
+          "text": "What has happened then? Whence, how has Chremylus suddenly grown rich? I don't believe a word of it. Nevertheless, nothing but his sudden fortune was being talked about in the barber-shops. But I am above all surprised that his good fortune has not made him forget his friends; that is not the usual way!",
+          "lineStart": 543
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 548
+        },
+        {
+          "type": "para",
+          "text": "By the gods, Blepsidemus, I will hide nothing from you. To-day things are better than yesterday; let us share, for are you not my friend?",
+          "lineStart": 549
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 551
+        },
+        {
+          "type": "para",
+          "text": "Have you really grown rich as they say?",
+          "lineStart": 552
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 553
+        },
+        {
+          "type": "para",
+          "text": "I shall be soon, if the god agrees to it. But there is still some risk to run.",
+          "lineStart": 554
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 556
+        },
+        {
+          "type": "para",
+          "text": "What risk?",
+          "lineStart": 557
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 558
+        },
+        {
+          "type": "para",
+          "text": "Well...",
+          "lineStart": 559
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 560
+        },
+        {
+          "type": "para",
+          "text": "Tell me, quick!",
+          "lineStart": 561
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 562
+        },
+        {
+          "type": "para",
+          "text": "If we succeed, we are happy for ever, but if we fail, it is all over with us.",
+          "lineStart": 563
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 565
+        },
+        {
+          "type": "para",
+          "text": "It's a bad business, and one that doesn't please me! To grow rich all at once and yet to be fearful! ah! I suspect something that's little good.",
+          "lineStart": 566
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 569
+        },
+        {
+          "type": "para",
+          "text": "What do you mean?",
+          "lineStart": 570
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 571
+        },
+        {
+          "type": "para",
+          "text": "No doubt you have just stolen some gold and silver from some temple and are repenting.",
+          "lineStart": 572
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 574
+        },
+        {
+          "type": "para",
+          "text": "Nay! heaven preserve me from that!",
+          "lineStart": 575
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 576
+        },
+        {
+          "type": "para",
+          "text": "A truce to idle phrases! the thing is only too apparent, my friend.",
+          "lineStart": 577
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 579
+        },
+        {
+          "type": "para",
+          "text": "Don't suspect such a thing of me.",
+          "lineStart": 580
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 581
+        },
+        {
+          "type": "para",
+          "text": "Alas! then there is no honest man! not one, that can resist the attraction of gold!",
+          "lineStart": 582
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 584
+        },
+        {
+          "type": "para",
+          "text": "By Demeter, you have no common sense.",
+          "lineStart": 585
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 586
+        },
+        {
+          "type": "para",
+          "text": "aside How he has changed!",
+          "lineStart": 587
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 589
+        },
+        {
+          "type": "para",
+          "text": "But, good gods, you are mad, my dear fellow!",
+          "lineStart": 590
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 591
+        },
+        {
+          "type": "para",
+          "text": "aside His very look is distraught; he has done some crime!",
+          "lineStart": 592
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 594
+        },
+        {
+          "type": "para",
+          "text": "Ah! I know the tune you are playing now; you think I have stolen, and want your share.",
+          "lineStart": 595
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 597
+        },
+        {
+          "type": "para",
+          "text": "My share of what, pray?",
+          "lineStart": 598
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 599
+        },
+        {
+          "type": "para",
+          "text": "You are beside the mark; the thing is quite otherwise.",
+          "lineStart": 600
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 601
+        },
+        {
+          "type": "para",
+          "text": "Perhaps it's not a theft, but some piece of knavery!",
+          "lineStart": 602
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 603
+        },
+        {
+          "type": "para",
+          "text": "You are insane!",
+          "lineStart": 604
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 605
+        },
+        {
+          "type": "para",
+          "text": "What? You have done no man an injury?",
+          "lineStart": 606
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 607
+        },
+        {
+          "type": "para",
+          "text": "No! assuredly not I",
+          "lineStart": 608
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 609
+        },
+        {
+          "type": "para",
+          "text": "But, great gods, what am I to think? You won't tell me the truth.",
+          "lineStart": 610
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 612
+        },
+        {
+          "type": "para",
+          "text": "You accuse me without really knowing anything.",
+          "lineStart": 613
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 614
+        },
+        {
+          "type": "para",
+          "text": "Listen, friend, no doubt the matter can yet be hushed up, before it gets noised abroad, at trifling expense; I will buy the orators' silence.",
+          "lineStart": 615
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 617
+        },
+        {
+          "type": "para",
+          "text": "Aye, you will lay out three minae and, as my friend, you will reckon twelve against me.",
+          "lineStart": 618
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 620
+        },
+        {
+          "type": "para",
+          "text": "I know someone who will come and seat himself at the foot of the tribunal, holding a supplicant's bough in his hand and surrounded by his wife and children, for all the world like the Heraclidae of Pamphilus.",
+          "lineStart": 621
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 624
+        },
+        {
+          "type": "para",
+          "text": "Not at all, poor fool! But, thanks to me, worthy folk alone shall be rich henceforth.",
+          "lineStart": 625
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 627
+        },
+        {
+          "type": "para",
+          "text": "What are you saying? Have you then stolen so much as all that?",
+          "lineStart": 628
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 629
+        },
+        {
+          "type": "para",
+          "text": "Oh your insults will be the death of me.",
+          "lineStart": 630
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 631
+        },
+        {
+          "type": "para",
+          "text": "You're the one who is courting death.",
+          "lineStart": 632
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 633
+        },
+        {
+          "type": "para",
+          "text": "Not so, you wretch, since I have Plutus.",
+          "lineStart": 634
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 635
+        },
+        {
+          "type": "para",
+          "text": "You have Plutus? Which one?",
+          "lineStart": 636
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 637
+        },
+        {
+          "type": "para",
+          "text": "The god himself.",
+          "lineStart": 638
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 639
+        },
+        {
+          "type": "para",
+          "text": "And where is he?",
+          "lineStart": 640
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 641
+        },
+        {
+          "type": "para",
+          "text": "There.",
+          "lineStart": 642
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 643
+        },
+        {
+          "type": "para",
+          "text": "Where?",
+          "lineStart": 644
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 645
+        },
+        {
+          "type": "para",
+          "text": "Indoors.",
+          "lineStart": 646
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 647
+        },
+        {
+          "type": "para",
+          "text": "Indoors?",
+          "lineStart": 648
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 649
+        },
+        {
+          "type": "para",
+          "text": "Aye, certainly.",
+          "lineStart": 650
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 651
+        },
+        {
+          "type": "para",
+          "text": "Get you gone! Plutus in your house?",
+          "lineStart": 652
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 653
+        },
+        {
+          "type": "para",
+          "text": "Yes, by the gods I",
+          "lineStart": 654
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 655
+        },
+        {
+          "type": "para",
+          "text": "Are you telling the truth?",
+          "lineStart": 656
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 657
+        },
+        {
+          "type": "para",
+          "text": "I am.",
+          "lineStart": 658
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 659
+        },
+        {
+          "type": "para",
+          "text": "Swear it by Hestia.",
+          "lineStart": 660
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 661
+        },
+        {
+          "type": "para",
+          "text": "I swear it by Posidon.",
+          "lineStart": 662
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 663
+        },
+        {
+          "type": "para",
+          "text": "The god of the sea?",
+          "lineStart": 664
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 665
+        },
+        {
+          "type": "para",
+          "text": "Yes, and by all the other Posidons, such there be.",
+          "lineStart": 666
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 667
+        },
+        {
+          "type": "para",
+          "text": "And you don't send him to us, to your friends?",
+          "lineStart": 668
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 669
+        },
+        {
+          "type": "para",
+          "text": "We've not got to that point yet.",
+          "lineStart": 670
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 671
+        },
+        {
+          "type": "para",
+          "text": "What do you say? Is there no chance of sharing?",
+          "lineStart": 672
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 673
+        },
+        {
+          "type": "para",
+          "text": "Why, no. We must first.",
+          "lineStart": 674
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 675
+        },
+        {
+          "type": "para",
+          "text": "Do what?",
+          "lineStart": 676
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 677
+        },
+        {
+          "type": "para",
+          "text": "...restore him his sight.",
+          "lineStart": 678
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 679
+        },
+        {
+          "type": "para",
+          "text": "Restore whom his sight? Speak!",
+          "lineStart": 680
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 681
+        },
+        {
+          "type": "para",
+          "text": "Plutus. It must be done, no matter how.",
+          "lineStart": 682
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 683
+        },
+        {
+          "type": "para",
+          "text": "Is he then really blind?",
+          "lineStart": 684
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 685
+        },
+        {
+          "type": "para",
+          "text": "Yes, undoubtedly.",
+          "lineStart": 686
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 687
+        },
+        {
+          "type": "para",
+          "text": "I am no longer surprised he never came to me.",
+          "lineStart": 688
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 689
+        },
+        {
+          "type": "para",
+          "text": "If it please the gods, he'll come there now.",
+          "lineStart": 690
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 691
+        },
+        {
+          "type": "para",
+          "text": "Must we not go and seek a physician?",
+          "lineStart": 692
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 693
+        },
+        {
+          "type": "para",
+          "text": "Seek physicians at Athens? Nay! there's no art where there's no fee.",
+          "lineStart": 694
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 696
+        },
+        {
+          "type": "para",
+          "text": "running his eyes over the audience Let's look carefully.",
+          "lineStart": 697
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 699
+        },
+        {
+          "type": "para",
+          "text": "after a thorough survey There is not one.",
+          "lineStart": 700
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 702
+        },
+        {
+          "type": "para",
+          "text": "It's a positive fact; I don't know of one.",
+          "lineStart": 703
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 704
+        },
+        {
+          "type": "para",
+          "text": "But I have thought the matter well over, and the best thing is to make Plutus lie in the Temple of Asclepius.",
+          "lineStart": 705
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 707
+        },
+        {
+          "type": "para",
+          "text": "Unquestionably that's the very best thing. Hurry and lead him away to the temple.",
+          "lineStart": 708
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 710
+        },
+        {
+          "type": "para",
+          "text": "I am going there.",
+          "lineStart": 711
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 712
+        },
+        {
+          "type": "para",
+          "text": "Then hurry up.",
+          "lineStart": 713
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 714
+        },
+        {
+          "type": "para",
+          "text": "That's just what I am doing. They are just leaving when POVERTY comes running in; she is a picture of squalor and the two men recoil in horror.",
+          "lineStart": 715
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 718
+        },
+        {
+          "type": "para",
+          "text": "Unwise, perverse, unholy men! What are you daring to do, you pitiful, wretched mortals? Whither are you flying? Stop! I command it!",
+          "lineStart": 719
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 721
+        },
+        {
+          "type": "para",
+          "text": "Oh! great gods!",
+          "lineStart": 722
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 723
+        },
+        {
+          "type": "para",
+          "text": "My arm shall destroy you, you infamous beings! Such an attempt is not to be borne; neither man nor god has ever dared the like. You shall die!",
+          "lineStart": 724
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 727
+        },
+        {
+          "type": "para",
+          "text": "And who are you? Oh! what a ghastly pallor!",
+          "lineStart": 728
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 729
+        },
+        {
+          "type": "para",
+          "text": "Perhaps it's some Erinys, some Fury, from the theatre; there's a kind of wild tragic look in her eyes.",
+          "lineStart": 730
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 732
+        },
+        {
+          "type": "para",
+          "text": "But she has no torch.",
+          "lineStart": 733
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 734
+        },
+        {
+          "type": "para",
+          "text": "Let's knock her down!",
+          "lineStart": 735
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 736
+        },
+        {
+          "type": "para",
+          "text": "Who do you think I am?",
+          "lineStart": 737
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 738
+        },
+        {
+          "type": "para",
+          "text": "Some wine-shop keeper or egg-woman. Otherwise you would not have shrieked so loud at us, who have done nothing to you.",
+          "lineStart": 739
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 741
+        },
+        {
+          "type": "para",
+          "text": "Indeed? And have you not done me the most deadly injury by seeking to banish me from every country?",
+          "lineStart": 742
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 744
+        },
+        {
+          "type": "para",
+          "text": "Why, have you not got the Barathrum left? But who are you? Answer me quickly!",
+          "lineStart": 745
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 747
+        },
+        {
+          "type": "para",
+          "text": "I am one that will punish you this very day for having wanted to make me disappear from here.",
+          "lineStart": 748
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 750
+        },
+        {
+          "type": "para",
+          "text": "Might it be the tavern-keeper in my neighbourhood, who is always cheating me in measure?",
+          "lineStart": 751
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 753
+        },
+        {
+          "type": "para",
+          "text": "I am Poverty, who have lived with you for so many years.",
+          "lineStart": 754
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 755
+        },
+        {
+          "type": "para",
+          "text": "Oh! great Apollo! oh, ye gods! whither shall I fly? He starts to run away.",
+          "lineStart": 756
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 758
+        },
+        {
+          "type": "para",
+          "text": "Here! what are you doing! You coward! Are going to leave me here?",
+          "lineStart": 759
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 761
+        },
+        {
+          "type": "para",
+          "text": "still running Not I.",
+          "lineStart": 762
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 764
+        },
+        {
+          "type": "para",
+          "text": "Stop then! Are two men to run away from one woman?",
+          "lineStart": 765
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 766
+        },
+        {
+          "type": "para",
+          "text": "But, you wretch, it's Poverty, the most fearful monster that ever drew breath.",
+          "lineStart": 767
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 769
+        },
+        {
+          "type": "para",
+          "text": "Stay where you are, I beg of you.",
+          "lineStart": 770
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 771
+        },
+        {
+          "type": "para",
+          "text": "No no! a thousand times, no!",
+          "lineStart": 772
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 773
+        },
+        {
+          "type": "para",
+          "text": "Could we do anything worse than leave the god in the lurch and fly before this woman without so much as ever offering to fight?",
+          "lineStart": 774
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 776
+        },
+        {
+          "type": "para",
+          "text": "But what weapons have we? Are we in a condition to show fight? Where is the breastplate, the buckler, that this wretch has not pawned?",
+          "lineStart": 777
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 779
+        },
+        {
+          "type": "para",
+          "text": "Be at ease. Plutus will readily triumph over her threats unaided.",
+          "lineStart": 780
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 781
+        },
+        {
+          "type": "para",
+          "text": "Dare you reply, you scoundrels, you who are caught red-handed at the most horrible crime?",
+          "lineStart": 782
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 784
+        },
+        {
+          "type": "para",
+          "text": "As for you, you cursed jade, you pursue me with your abuse, though I have never done you the slightest harm.",
+          "lineStart": 785
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 787
+        },
+        {
+          "type": "para",
+          "text": "Do you think it is doing me no harm to restore Plutus to the use of his eyes?",
+          "lineStart": 788
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 790
+        },
+        {
+          "type": "para",
+          "text": "Is this doing you harm, that we shower blessings on all men?",
+          "lineStart": 791
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 792
+        },
+        {
+          "type": "para",
+          "text": "And what do you think will ensure their happiness?",
+          "lineStart": 793
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 794
+        },
+        {
+          "type": "para",
+          "text": "Ah! first of all we shall drive you out of Greece.",
+          "lineStart": 795
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 796
+        },
+        {
+          "type": "para",
+          "text": "Drive me out? Could you do mankind a greater harm?",
+          "lineStart": 797
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 798
+        },
+        {
+          "type": "para",
+          "text": "Yes-if I gave up my intention to deliver them from you.",
+          "lineStart": 799
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 800
+        },
+        {
+          "type": "para",
+          "text": "Well, let us discuss this point first. I propose to show that I am the sole cause of all your blessings, and that your safety depends on me alone. If I don't succeed, then do what you like to me.",
+          "lineStart": 801
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 804
+        },
+        {
+          "type": "para",
+          "text": "How dare you talk like this, you impudent hussy?",
+          "lineStart": 805
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 806
+        },
+        {
+          "type": "para",
+          "text": "Agree to hear me and I think it will be very easy for me to prove that you are entirely on the wrong road, when you want to make the just men wealthy.",
+          "lineStart": 807
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 810
+        },
+        {
+          "type": "para",
+          "text": "Oh! cudgel and rope's end, come to my help!",
+          "lineStart": 811
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 812
+        },
+        {
+          "type": "para",
+          "text": "Why such wrath and these shouts, before you hear my arguments?",
+          "lineStart": 813
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 814
+        },
+        {
+          "type": "para",
+          "text": "But who could listen to such words without exclaiming?",
+          "lineStart": 815
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 816
+        },
+        {
+          "type": "para",
+          "text": "Any man of sense.",
+          "lineStart": 817
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 818
+        },
+        {
+          "type": "para",
+          "text": "But if you lose your case, what punishment will you submit to?",
+          "lineStart": 819
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 821
+        },
+        {
+          "type": "para",
+          "text": "Choose what you will.",
+          "lineStart": 822
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 823
+        },
+        {
+          "type": "para",
+          "text": "That's all right.",
+          "lineStart": 824
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 825
+        },
+        {
+          "type": "para",
+          "text": "You shall suffer the same if you are beaten!",
+          "lineStart": 826
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 827
+        },
+        {
+          "type": "para",
+          "text": "Do you think twenty deaths a sufficiently large stake?",
+          "lineStart": 828
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 829
+        },
+        {
+          "type": "para",
+          "text": "Good enough for her, but for us two would suffice.",
+          "lineStart": 830
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 831
+        },
+        {
+          "type": "para",
+          "text": "You won't escape, for is there indeed a single valid argument to oppose me with?",
+          "lineStart": 832
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 834
+        },
+        {
+          "type": "para",
+          "text": "To beat her in this debate, you must call upon all your wits. Make no allowances and show no weakness!",
+          "lineStart": 835
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 837
+        },
+        {
+          "type": "para",
+          "text": "It is right that the good should be happy, that the wicked and the impious, on the other hand, should be miserable; that is a truth, I believe, which no one will gainsay. To realize this condition of things is a proposal as great as it is noble and useful in every respect, and we have found a means of attaining the object of our wishes. If Plutus recovers his sight and ceases from wandering about unseeing and at random, he will go to seek the just men and never leave them again; he will shun the perverse and ungodly; so, thanks to him, all men will become honest, rich and pious. Can anything better be conceived for the public weal?",
+          "lineStart": 838
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 847
+        },
+        {
+          "type": "para",
+          "text": "Of a certainty, no! I bear witness to that. It is not even necessary she should reply.",
+          "lineStart": 848
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 850
+        },
+        {
+          "type": "para",
+          "text": "Does it not seem that everything is extravagance in the world, or rather madness, when you watch the way things go? A crowd of rogues enjoy blessings they have won by sheer injustice, while more honest folks are miserable, die of hunger, and spend their whole lives with you. Now, if Plutus became clear-sighted again and drove out Poverty, it would be the greatest blessing possible for the human race.",
+          "lineStart": 851
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 857
+        },
+        {
+          "type": "para",
+          "text": "Here are two old men, whose brains are easy to confuse, who assist each other to talk rubbish and drivel to their hearts' content. But if your wishes were realized, your profit would be great! Let Plutus recover his sight and divide his favours out equally to all, and none will ply either trade or art any longer; all toil would be done away with. Who would wish to hammer iron, build ships, sew, turn, cut up leather, bake bricks, bleach linen, tan hides, or break up the soil of the earth with the plough and garner the gifts of Demeter, if he could live in idleness and free from all this work?",
+          "lineStart": 858
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 867
+        },
+        {
+          "type": "para",
+          "text": "What nonsense all this is! All these trades which you just mention will be plied by our slaves.",
+          "lineStart": 868
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 870
+        },
+        {
+          "type": "para",
+          "text": "Your slaves! And by what means will these slaves be got?",
+          "lineStart": 871
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 872
+        },
+        {
+          "type": "para",
+          "text": "We will buy them.",
+          "lineStart": 873
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 874
+        },
+        {
+          "type": "para",
+          "text": "But first say, who will sell them, if everyone is rich?",
+          "lineStart": 875
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 876
+        },
+        {
+          "type": "para",
+          "text": "Some greedy dealer from Thessaly-the land which supplies so many.",
+          "lineStart": 877
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 879
+        },
+        {
+          "type": "para",
+          "text": "But if your system is applied, there won't be a single slave-dealer left. What rich man would risk his life to devote himself to this traffic? You will have to toil, to dig and submit yourself to all kinds of hard labour; so that your life would be more wretched even than it is now.",
+          "lineStart": 880
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 884
+        },
+        {
+          "type": "para",
+          "text": "May this prediction fall upon yourself!",
+          "lineStart": 885
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 886
+        },
+        {
+          "type": "para",
+          "text": "You will not be able to sleep in a bed, for no more will ever be manufactured; nor on carpets, for who would weave them, if he had gold? When you bring a young bride to your dwelling, you will have no essences wherewith to perfume her, nor rich embroidered cloaks dyed with dazzling colours in which to clothe her. And yet what is the use of being rich, if you are to be deprived of all these enjoyments? On the other hand, you have all that you need in abundance, thanks to me; to the artisan I am like a severe mistress, who forces him by need and poverty to seek the means of earning his livelihood.",
+          "lineStart": 887
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 896
+        },
+        {
+          "type": "para",
+          "text": "And what good thing can you give us, unless it be burns in the bath, and swarms of brats and old women who cry with hunger, and clouds uncountable of lice, gnats and flies, which hover about the wretch's head, trouble him, awake him and say, \"You will be hungry, but get up!\" Besides, to possess a rag in place of a mantle, a pallet of rushes swarming with bugs, that do not let you close your eyes, for a bed; a rotten piece of matting for a coverlet; a big stone for a pillow, on which to lay your head; to eat mallow roots instead of bread, and leaves of withered radish instead of cake; to have nothing but the cover of a broken jug for a stool, the stave of a cask, and broken at that, for a kneading-trough, that is the life you make for us! Are these the mighty benefits with which you pretend to load mankind?",
+          "lineStart": 897
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 909
+        },
+        {
+          "type": "para",
+          "text": "It's not my life that you describe,; you are attacking the existence beggars lead.",
+          "lineStart": 910
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 912
+        },
+        {
+          "type": "para",
+          "text": "Is Beggary not Poverty's sister?",
+          "lineStart": 913
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 914
+        },
+        {
+          "type": "para",
+          "text": "Thrasybulus and Dionysius are one and the same according to you. No, my life is not like that and never will be. The beggar, whom you have depicted to us, never possesses anything. The poor man lives thriftily and attentive to his work: he has not got too much, but he does not lack what he really needs.",
+          "lineStart": 915
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 920
+        },
+        {
+          "type": "para",
+          "text": "Oh! what a happy life, by Demeter! to live sparingly, to toil incessantly and not to leave enough to pay for a tomb!",
+          "lineStart": 921
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 923
+        },
+        {
+          "type": "para",
+          "text": "That's it! jest, jeer, and never talk seriously! But what you don't know is this, that men with me are worth more, both in mind and body, than with Plutus. With him they are gouty, big-bellied, heavy of limb and scandalously stout; with me they are thin, wasp-waisted, and terrible to the foe.",
+          "lineStart": 924
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 929
+        },
+        {
+          "type": "para",
+          "text": "No doubt it's by starving them that you give them that waspish waist.",
+          "lineStart": 930
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 932
+        },
+        {
+          "type": "para",
+          "text": "As for behaviour, I will prove to you that modesty dwells with me and insolence with Plutus.",
+          "lineStart": 933
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 935
+        },
+        {
+          "type": "para",
+          "text": "Oh the sweet modesty of stealing and burglary.",
+          "lineStart": 936
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 937
+        },
+        {
+          "type": "para",
+          "text": "Look at the orators in our republics; as long as they are poor, both state and people can only praise their uprightness; but once they are fattened on the public funds, they conceive a hatred for justice, plan intrigues against the people and attack the democracy.",
+          "lineStart": 938
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 942
+        },
+        {
+          "type": "para",
+          "text": "That is absolutely true, although your tongue is very vile. But it matters not, so don't put on those triumphant airs; you shall not be punished any the less for having tried to persuade me that poverty is worth more than wealth.",
+          "lineStart": 943
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 947
+        },
+        {
+          "type": "para",
+          "text": "Not being able to refute my arguments, you chatter at random and exert yourself to no purpose.",
+          "lineStart": 948
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 950
+        },
+        {
+          "type": "para",
+          "text": "Then tell me this, why does all mankind flee from you?",
+          "lineStart": 951
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 952
+        },
+        {
+          "type": "para",
+          "text": "Because I make them better. Children do the very same; they flee from the wise counsels of their fathers. So difficult is it to see one's true interest.",
+          "lineStart": 953
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 956
+        },
+        {
+          "type": "para",
+          "text": "Will you say that Zeus cannot discern what is best? Well, he takes Plutus to himself...",
+          "lineStart": 957
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 960
+        },
+        {
+          "type": "para",
+          "text": "...and banishes Poverty to the earth.",
+          "lineStart": 961
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 962
+        },
+        {
+          "type": "para",
+          "text": "Ah me! how purblind you are, you old fellows of the days of Cronus! Why, Zeus is poor, and I will clearly prove it to you. In the Olympic games, which he founded, and to which he convokes the whole of Greece every four years, why does he only crown the victorious athletes with wild olive? If he were rich he would give them gold.",
+          "lineStart": 963
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 968
+        },
+        {
+          "type": "para",
+          "text": "That's the way he shows that he clings to his wealth; he is sparing with it, won't part with any portion of it, only bestows baubles on the victors and keeps his money for himself.",
+          "lineStart": 969
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 972
+        },
+        {
+          "type": "para",
+          "text": "But wealth coupled to such sordid greed is yet more shameful than poverty.",
+          "lineStart": 973
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 975
+        },
+        {
+          "type": "para",
+          "text": "May Zeus destroy you, both you and your chaplet of wild olive!",
+          "lineStart": 976
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 977
+        },
+        {
+          "type": "para",
+          "text": "Thus you dare to maintain that Poverty is not the fount of all blessings!",
+          "lineStart": 978
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 980
+        },
+        {
+          "type": "para",
+          "text": "Ask Hecate whether it is better to be rich or starving; she will tell you that the rich send her a meal every month and that the poor make it disappear before it is even served. But go and hang yourself and don't breathe another syllable. I will not be convinced against my will.",
+          "lineStart": 981
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 985
+        },
+        {
+          "type": "para",
+          "text": "\"Oh! citizens of Argos! do you hear what he says?\"",
+          "lineStart": 986
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 987
+        },
+        {
+          "type": "para",
+          "text": "Invoke Pauson, your boon companion, rather.",
+          "lineStart": 988
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 989
+        },
+        {
+          "type": "para",
+          "text": "Alas! what is to become of me?",
+          "lineStart": 990
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 991
+        },
+        {
+          "type": "para",
+          "text": "Get you gone, be off quick and a pleasant journey to you.",
+          "lineStart": 992
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 993
+        },
+        {
+          "type": "para",
+          "text": "But where shall I go?",
+          "lineStart": 994
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 995
+        },
+        {
+          "type": "para",
+          "text": "To gaol; but hurry up, let us put an end to this.",
+          "lineStart": 996
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POVERTY",
+          "lineStart": 997
+        },
+        {
+          "type": "para",
+          "text": "as she departs One day you will recall me.",
+          "lineStart": 998
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 1000
+        },
+        {
+          "type": "para",
+          "text": "Then you can return; but disappear for the present. I prefer to be rich; you are free to knock your head against the walls in your rage.",
+          "lineStart": 1001
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 1003
+        },
+        {
+          "type": "para",
+          "text": "And I too welcome wealth. I want, when I leave the bath all perfumed with essences, to feast bravely with my wife and children and to fart in the faces of toilers and Poverty.",
+          "lineStart": 1004
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 1007
+        },
+        {
+          "type": "para",
+          "text": "So that hussy has gone at last! But let us make haste to put Plutus to bed in the Temple of Asclepius.",
+          "lineStart": 1008
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "BLEPSIDEMUS",
+          "lineStart": 1010
+        },
+        {
+          "type": "para",
+          "text": "Let us make haste; else some bothering fellow may again come to interrupt us.",
+          "lineStart": 1011
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CREMYLUS",
+          "lineStart": 1013
+        },
+        {
+          "type": "para",
+          "text": "loudly Cario, bring the coverlets and all that I have got ready from the house; let us conduct the god to the temple, taking care to observe all the proper rites. CARIO comes out of the house with a bundle under one arm and leading PLUTUS with the other. CHREMYLUS and BLEPSIDEMUS join him and all four of them depart. Interlude of dancing by the CHORUS.",
+          "lineStart": 1014
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1022
+        },
+        {
+          "type": "para",
+          "text": "Oh! you old fellows, who used to dip out the broth served to the poor at the festival of Theseus with little pieces of bread hollowed like a spoon, how worthy of envy is your fate! How happy you are, both you and all just men!",
+          "lineStart": 1023
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1027
+        },
+        {
+          "type": "para",
+          "text": "My good fellow, what has happened to your friends? You seem the bearer of good tidings.",
+          "lineStart": 1028
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1030
+        },
+        {
+          "type": "para",
+          "text": "What joy-for my master and even more for Plutus! The god has regained his sight; his eyes sparkle with the greatest brilliancy, thanks to the benevolent care of Asclepius.",
+          "lineStart": 1031
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1034
+        },
+        {
+          "type": "para",
+          "text": "Oh! what transports of joy! oh! what shouts of gladness!",
+          "lineStart": 1035
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1036
+        },
+        {
+          "type": "para",
+          "text": "Aye! one is compelled to rejoice, whether one will or not.",
+          "lineStart": 1037
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1038
+        },
+        {
+          "type": "para",
+          "text": "I will sing to the honour of Asclepius, the son of illustrious Zeus, with a resounding voice; he is the beneficent star which men adore.",
+          "lineStart": 1039
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS' WIFE",
+          "lineStart": 1041
+        },
+        {
+          "type": "para",
+          "text": "coming out of the house What mean these shouts? Is there good news? With what impatience have I been waiting in the house, and for so long too!",
+          "lineStart": 1042
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1045
+        },
+        {
+          "type": "para",
+          "text": "Quick! quick, some wine, mistress. And drink some yourself, aside it's much to your taste. I bring you all blessings in a lump.",
+          "lineStart": 1046
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1049
+        },
+        {
+          "type": "para",
+          "text": "Where are they?",
+          "lineStart": 1050
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1051
+        },
+        {
+          "type": "para",
+          "text": "In my words, as you are going to see.",
+          "lineStart": 1052
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1053
+        },
+        {
+          "type": "para",
+          "text": "Have done with trifling! come, speak.",
+          "lineStart": 1054
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1055
+        },
+        {
+          "type": "para",
+          "text": "Listen, I am going to tell you everything from the feet to the head.",
+          "lineStart": 1056
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1058
+        },
+        {
+          "type": "para",
+          "text": "Oh! don't throw anything at my head.",
+          "lineStart": 1059
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1060
+        },
+        {
+          "type": "para",
+          "text": "Not even the happiness that has come to you?",
+          "lineStart": 1061
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1062
+        },
+        {
+          "type": "para",
+          "text": "No, no, nothing ... to annoy me.",
+          "lineStart": 1063
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1064
+        },
+        {
+          "type": "para",
+          "text": "Having arrived near to the temple with our patient, then so unfortunate, but now at the apex of happiness, of blessedness, we first led him down to the sea to purify him.",
+          "lineStart": 1065
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1068
+        },
+        {
+          "type": "para",
+          "text": "Ah! what a singular pleasure for an old man to bathe in the cold seawater!",
+          "lineStart": 1069
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1071
+        },
+        {
+          "type": "para",
+          "text": "in the manner of the tragic messenger Then we repaired to the temple of the god. Once the wafers and the various offerings had been consecrated upon the altar, and the cake of wheaten-meal had been banded over to the devouring Hephaestus, we made Plutus lie on a couch according to the rite, and each of us prepared himself a bed of leaves.",
+          "lineStart": 1072
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1078
+        },
+        {
+          "type": "para",
+          "text": "Had any other folk come to beseech the deity?",
+          "lineStart": 1079
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1080
+        },
+        {
+          "type": "para",
+          "text": "Yes. Firstly, Neoclides, who is blind, but steals much better than those who see clearly; then many others attacked by complaints of all kinds. The lights were put out and the priest enjoined us to sleep, especially recommending us to keep silent should we hear any noise. There we were all lying down quite quietly. I could not sleep; I was thinking of a certain stew-pan full of pap placed close to an old woman and just behind her head. I had a furious longing to slip towards that side. But just as I was lifting my head, I noticed the priest, who was sweeping off both the cakes and the figs on the sacred table; then he made the round of the altars and sanctified the cakes that remained, by stowing them away in a bag. I therefore resolved to follow such a pious example and made straight for the pap.",
+          "lineStart": 1081
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1093
+        },
+        {
+          "type": "para",
+          "text": "You rogue! and had you no fear of the god?",
+          "lineStart": 1094
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1095
+        },
+        {
+          "type": "para",
+          "text": "Aye, indeed! I feared that the god with his crown on his head might have been near the stew-pan before me. I said to myself, \"Like priest, like god.\" On hearing the noise I made the old woman put out her hand, but I hissed and bit it, just as a sacred serpent might have done. Quick she drew back her hand, slipped down into the bed with her head beneath the coverlets and never moved again; only she let flee a fart in her fear which stank worse than a weasel. As for myself, I swallowed a goodly portion of the pap and, having made a good feed, went back to bed.",
+          "lineStart": 1096
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1104
+        },
+        {
+          "type": "para",
+          "text": "And did not the god come?",
+          "lineStart": 1105
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1106
+        },
+        {
+          "type": "para",
+          "text": "He did not tarry; and when he was near us, oh! dear! such a good joke happened. My belly was quite blown up, and I let a thunderous fart!",
+          "lineStart": 1107
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1110
+        },
+        {
+          "type": "para",
+          "text": "Doubtless the god pulled a wry face?",
+          "lineStart": 1111
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1112
+        },
+        {
+          "type": "para",
+          "text": "No, but Iaso blushed a little and Panacea turned her head away, holding her nose; my farts are not perfume.",
+          "lineStart": 1113
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1115
+        },
+        {
+          "type": "para",
+          "text": "And what did the god do?",
+          "lineStart": 1116
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1117
+        },
+        {
+          "type": "para",
+          "text": "He paid not the slightest heed.",
+          "lineStart": 1118
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1119
+        },
+        {
+          "type": "para",
+          "text": "He must then be a pretty coarse kind of god?",
+          "lineStart": 1120
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1121
+        },
+        {
+          "type": "para",
+          "text": "I don't say that, but he's used to tasting stools.",
+          "lineStart": 1122
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1123
+        },
+        {
+          "type": "para",
+          "text": "Impudent knave, go on with you!",
+          "lineStart": 1124
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1125
+        },
+        {
+          "type": "para",
+          "text": "Then I hid myself in my bed all a-tremble. Asclepius did the round of the patients and examined them all with great attention; then a slave placed beside him a stone mortar, a pestle and a little box.",
+          "lineStart": 1126
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1129
+        },
+        {
+          "type": "para",
+          "text": "Of stone?",
+          "lineStart": 1130
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1131
+        },
+        {
+          "type": "para",
+          "text": "No, not of stone.",
+          "lineStart": 1132
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1133
+        },
+        {
+          "type": "para",
+          "text": "But how could you see all this, you arch-rascal, when you say you were hiding all the time?",
+          "lineStart": 1134
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1136
+        },
+        {
+          "type": "para",
+          "text": "Why, great gods, through my cloak, for it's not without holes! He first prepared an ointment for Neoclides; he threw three heads of Tenian garlic into the mortar, pounded them with an admixture of fig-tree sap and lentisk, moistened the whole with Sphettian vinegar, and, turning back the patient's eyelids, applied his salve to the interior of the eyes, so that the pain might be more excruciating. Neoclides shrieked, howled, sprang towards the foot of his bed and wanted to bolt, but the god laughed and said to him, \"Keep where you are with your salve; by doing this you will not go and perjure yourself before the Assembly.\"",
+          "lineStart": 1137
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1146
+        },
+        {
+          "type": "para",
+          "text": "What a wise god and what a friend to our city",
+          "lineStart": 1147
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1148
+        },
+        {
+          "type": "para",
+          "text": "Thereupon he came and seated himself at the head of Plutus' bed, took a perfectly clean rag and wiped his eyelids; Panacea covered his head and face with a purple cloth, while the god whistled, and two enormous snakes came rushing from the sanctuary.",
+          "lineStart": 1149
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1153
+        },
+        {
+          "type": "para",
+          "text": "Great gods!",
+          "lineStart": 1154
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1155
+        },
+        {
+          "type": "para",
+          "text": "They slipped gently beneath the purple cloth and, as far as I could judge, licked the patient's eyelids; for, in less time than even you need, mistress, to drain down ten beakers of wine, Plutus rose up; be could see. I clapped my hands with joy and awoke my master, and the god immediately disappeared with the serpents into the sanctuary. As for those who were lying near Plutus, you can imagine that they embraced him tenderly. Dawn broke and not one of them had closed an eye. As for myself, I did not cease thanking the god who had so quickly restored to Plutus his sight and had made Neoclides blinder than ever.",
+          "lineStart": 1156
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1165
+        },
+        {
+          "type": "para",
+          "text": "Oh! thou great Asclepius! How mighty is thy power! To CARIO But tell me, where is Plutus now?",
+          "lineStart": 1166
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1170
+        },
+        {
+          "type": "para",
+          "text": "He is approaching, escorted by an immense crowd. The rich, whose wealth is ill-gotten, are knitting their brows and shooting at him looks of fierce hate, while the just folk, who led a wretched existence, embrace him and grasp his hand in the transport of their joy; they follow in his wake, their heads wreathed with garlands, laughing and blessing their deliverer; the old men make the earth resound as they walk together keeping time. Come, all of you, all, down to the very least, dance, leap and form yourselves into a chorus; no longer do you risk being told, when you go home. \"There is no meal in the bag.\"",
+          "lineStart": 1171
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1180
+        },
+        {
+          "type": "para",
+          "text": "And I, by Hecate! I will string you a garland of cakes for the good tidings you have brought me.",
+          "lineStart": 1181
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1183
+        },
+        {
+          "type": "para",
+          "text": "Hurry, make haste then; our friends are close at hand.",
+          "lineStart": 1184
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1185
+        },
+        {
+          "type": "para",
+          "text": "I will go indoors to fetch some gifts of welcome, to celebrate these eyes that have just been opened. She goes back into the house.",
+          "lineStart": 1186
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1189
+        },
+        {
+          "type": "para",
+          "text": "Meantime I am going forth to meet them. Exit Interlude of dancing by the CHORUS.",
+          "lineStart": 1190
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 1193
+        },
+        {
+          "type": "para",
+          "text": "I adore thee, oh! thou divine sun, and thee I greet, thou city, the beloved of Pallas: be welcome, thou land of Cecrops, which hast received me. Alas! what manner of men I associated with! I blush to think of it. While, on the other hand, I shunned those who deserved my friendship; I knew neither the vices of the ones nor the virtues of the others. A two-fold mistake, and in both cases equally fatal! Ah! what a misfortune was mine! But I want to change everything; and in the future I mean to prove to mankind that, if I gave to the wicked, it was against my will.",
+          "lineStart": 1194
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHREMYLUS",
+          "lineStart": 1202
+        },
+        {
+          "type": "para",
+          "text": "to the wings Get you gone! Oh! what a lot of friends spring into being when you are fortunate! They dig me with their elbows and bruise my shins to prove their affection. Each one wants to greet me. What a crowd of old fellows thronged round me on the market-place!",
+          "lineStart": 1203
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1208
+        },
+        {
+          "type": "para",
+          "text": "Oh! thou, who art dearest of all to me, and thou too, be welcome! Allow me, Plutus, to shower these gifts of welcome over you in due accord with custom.",
+          "lineStart": 1209
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 1212
+        },
+        {
+          "type": "para",
+          "text": "No. This is the first house I enter after having regained my sight; I shall take nothing from it, for it is my place rather to give.",
+          "lineStart": 1213
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1215
+        },
+        {
+          "type": "para",
+          "text": "Do you refuse these gifts?",
+          "lineStart": 1216
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PLUTUS",
+          "lineStart": 1217
+        },
+        {
+          "type": "para",
+          "text": "I will accept them at your fireside, as custom requires. Besides, we shall thus avoid a ridiculous scene; it is not meet that the poet should throw dried figs and dainties to the spectators; it is a vulgar trick to make them laugh.",
+          "lineStart": 1218
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "WIFE",
+          "lineStart": 1222
+        },
+        {
+          "type": "para",
+          "text": "You are right. Look! yonder's Dexinicus, who was already getting to his feet to catch the figs as they flew past him. Interlude of dancing by the CHORUS.",
+          "lineStart": 1223
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1226
+        },
+        {
+          "type": "para",
+          "text": "How pleasant it is, friends, to live well, especially when it costs nothing! What a deluge of blessings flood our household, and that too without our having wronged a single soul! Ah! what a delightful thing is wealth! The bin is full of white flour and the wine-jars run over with fragrant liquor; all the chests are crammed with gold and silver, it is a sight to see; the tank is full of oil, the phials with perfumes, and the garret with dried figs. Vinegar flasks, plates, stew-pots and all the platters are of brass; our rotten old wooden trenchers for the fish have to-day become dishes of silver; even the thunder-mug is of ivory. We others, the slaves, we play at odd and even with gold pieces, and carry luxury so far that we no longer wipe our arses with stones, but use garlic stalks instead. My master, at this moment, is crowned with flowers and sacrificing a pig, a goat and ram; it's the smoke that has driven me out, for I could no longer endure it, it hurt my eyes so. A JUST MAN enters, followed by a small slave-lad who carries a thread-bare cloak and a pair of badly worn sandals.",
+          "lineStart": 1227
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1243
+        },
+        {
+          "type": "para",
+          "text": "Come, my child, come with me. Let us go and find the god.",
+          "lineStart": 1244
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1245
+        },
+        {
+          "type": "para",
+          "text": "Who's this?",
+          "lineStart": 1246
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1247
+        },
+        {
+          "type": "para",
+          "text": "A man who was once wretched, but now is happy.",
+          "lineStart": 1248
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1249
+        },
+        {
+          "type": "para",
+          "text": "A just man then?",
+          "lineStart": 1250
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1251
+        },
+        {
+          "type": "para",
+          "text": "That's right.",
+          "lineStart": 1252
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1253
+        },
+        {
+          "type": "para",
+          "text": "Well! what do you want?",
+          "lineStart": 1254
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1255
+        },
+        {
+          "type": "para",
+          "text": "I come to thank the god for all the blessings he has showered on me. My father had left me a fairly decent fortune, and I helped those of my friends who were in want; it was, to my thinking, the most useful thing I could do with my fortune.",
+          "lineStart": 1256
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1260
+        },
+        {
+          "type": "para",
+          "text": "And you were quickly ruined?",
+          "lineStart": 1261
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1262
+        },
+        {
+          "type": "para",
+          "text": "Quite.",
+          "lineStart": 1263
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1264
+        },
+        {
+          "type": "para",
+          "text": "And since then you have been living in misery?",
+          "lineStart": 1265
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1266
+        },
+        {
+          "type": "para",
+          "text": "Quite; I thought I could count, in case of need, upon the friends whose property I had helped, but they turned their backs upon me and pretended not to see me.",
+          "lineStart": 1267
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1270
+        },
+        {
+          "type": "para",
+          "text": "They laughed at you, that's obvious.",
+          "lineStart": 1271
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1272
+        },
+        {
+          "type": "para",
+          "text": "Quite. With my empty coffers, I had no more friends. But my lot has changed, and so I come to the god to make him the acts of gratitude that are his due.",
+          "lineStart": 1273
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1276
+        },
+        {
+          "type": "para",
+          "text": "But why are you bringing this old cloak, which your slave is carrying! Tell me.",
+          "lineStart": 1277
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1279
+        },
+        {
+          "type": "para",
+          "text": "I wish to dedicate it to the god.",
+          "lineStart": 1280
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1281
+        },
+        {
+          "type": "para",
+          "text": "Were you initiated into the Great Mysteries in that cloak?",
+          "lineStart": 1282
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1283
+        },
+        {
+          "type": "para",
+          "text": "No, but I shivered in it for thirteen years.",
+          "lineStart": 1284
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1285
+        },
+        {
+          "type": "para",
+          "text": "And this footwear?",
+          "lineStart": 1286
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1287
+        },
+        {
+          "type": "para",
+          "text": "These also are my winter companions.",
+          "lineStart": 1288
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1289
+        },
+        {
+          "type": "para",
+          "text": "And you wish to dedicate them too?",
+          "lineStart": 1290
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1291
+        },
+        {
+          "type": "para",
+          "text": "Certainly.",
+          "lineStart": 1292
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1293
+        },
+        {
+          "type": "para",
+          "text": "Fine presents to offer to the god! An INFORMER enters, followed by a witness.",
+          "lineStart": 1294
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1296
+        },
+        {
+          "type": "para",
+          "text": "before he sees CARIO Alas! alas! I am a lost man. Ah! thrice, four, five, twelve times, or rather ten thousand times unhappy fate! Why, why must fortune deal me such rough blows?",
+          "lineStart": 1297
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1301
+        },
+        {
+          "type": "para",
+          "text": "Oh, Apollo, my tutelary! oh! ye favourable gods! what has overtaken this man?",
+          "lineStart": 1302
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1304
+        },
+        {
+          "type": "para",
+          "text": "to CARIO Ah! am I not deserving of pity? I have lost everything; this cursed god has stripped me bare. Ah! if there be justice in heaven, he shall be struck blind again,",
+          "lineStart": 1305
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1309
+        },
+        {
+          "type": "para",
+          "text": "I think I know what's the matter. If this man is unfortunate, it's because he's of little account and small honesty; and indeed he looks it too.",
+          "lineStart": 1310
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1313
+        },
+        {
+          "type": "para",
+          "text": "Then, by Zeus! his plight is but just.",
+          "lineStart": 1314
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1315
+        },
+        {
+          "type": "para",
+          "text": "He promised that if he recovered his sight, he would enrich us all unaided; whereas he has ruined more than one.",
+          "lineStart": 1316
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1318
+        },
+        {
+          "type": "para",
+          "text": "But whom has he thus ill-used?",
+          "lineStart": 1319
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1320
+        },
+        {
+          "type": "para",
+          "text": "Me.",
+          "lineStart": 1321
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1322
+        },
+        {
+          "type": "para",
+          "text": "You were doubtless a villainous thief then.",
+          "lineStart": 1323
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1324
+        },
+        {
+          "type": "para",
+          "text": "No, it is rather you yourselves who were such wretches; I am certain you have got my money.",
+          "lineStart": 1325
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1327
+        },
+        {
+          "type": "para",
+          "text": "Ha! by Demeter! an informer! What impudence! He's ravenously hungry, that's certain.",
+          "lineStart": 1328
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1330
+        },
+        {
+          "type": "para",
+          "text": "You shall follow me this very instant to the market-place, where the torture of the wheel shall force the confession of your misdeeds from you.",
+          "lineStart": 1331
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1334
+        },
+        {
+          "type": "para",
+          "text": "with a threatening gesture Watch out, now!",
+          "lineStart": 1335
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1337
+        },
+        {
+          "type": "para",
+          "text": "By Zeus the Deliverer, what gratitude all Greeks owe to Plutus, if he destroys these vile informers!",
+          "lineStart": 1338
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1340
+        },
+        {
+          "type": "para",
+          "text": "You are laughing at me. Well, then I denounce you as their accomplice. Where did you steal that new cloak from? Yesterday I saw you with one utterly worn out.",
+          "lineStart": 1341
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1344
+        },
+        {
+          "type": "para",
+          "text": "I fear you not, thanks to this ring, for which I paid Eudemus a drachma.",
+          "lineStart": 1345
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1347
+        },
+        {
+          "type": "para",
+          "text": "Ah! there's no ring to preserve you from the informer's bite.",
+          "lineStart": 1348
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1349
+        },
+        {
+          "type": "para",
+          "text": "The insolent wretches! But, my fine jokers, you have not told me what you are up to here. Nothing good, I'm sure of that.",
+          "lineStart": 1350
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1352
+        },
+        {
+          "type": "para",
+          "text": "Nothing of any good for you, be sure of that.",
+          "lineStart": 1353
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1354
+        },
+        {
+          "type": "para",
+          "text": "By Zeus! it's at my expense that you are about to dine.",
+          "lineStart": 1355
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1356
+        },
+        {
+          "type": "para",
+          "text": "You and your witness, I hope you both burst...",
+          "lineStart": 1357
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1358
+        },
+        {
+          "type": "para",
+          "text": "With an empty belly.",
+          "lineStart": 1359
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1360
+        },
+        {
+          "type": "para",
+          "text": "You deny it? I reckon, you villains, that there is much salt fish and roast meat in this house. He sniffs elaborately.",
+          "lineStart": 1361
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1364
+        },
+        {
+          "type": "para",
+          "text": "Can you smell anything, rascal?",
+          "lineStart": 1365
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1366
+        },
+        {
+          "type": "para",
+          "text": "The cold, perhaps.",
+          "lineStart": 1367
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1368
+        },
+        {
+          "type": "para",
+          "text": "Can such outrages be home, oh, Zeus! Ye gods! how cruel it is to see me treated thus, when I am such an honest fellow and such a good citizen!",
+          "lineStart": 1369
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1372
+        },
+        {
+          "type": "para",
+          "text": "You an honest man! you a good citizen!",
+          "lineStart": 1373
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1374
+        },
+        {
+          "type": "para",
+          "text": "A better one than any.",
+          "lineStart": 1375
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1376
+        },
+        {
+          "type": "para",
+          "text": "Ah! well then, answer my questions.",
+          "lineStart": 1377
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1378
+        },
+        {
+          "type": "para",
+          "text": "Concerning what?",
+          "lineStart": 1379
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1380
+        },
+        {
+          "type": "para",
+          "text": "Are you a husbandman?",
+          "lineStart": 1381
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1382
+        },
+        {
+          "type": "para",
+          "text": "D'ye take me for a fool?",
+          "lineStart": 1383
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1384
+        },
+        {
+          "type": "para",
+          "text": "A merchant?",
+          "lineStart": 1385
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1386
+        },
+        {
+          "type": "para",
+          "text": "I assume the title, when it serves me.",
+          "lineStart": 1387
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1388
+        },
+        {
+          "type": "para",
+          "text": "Do you ply any trade?",
+          "lineStart": 1389
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1390
+        },
+        {
+          "type": "para",
+          "text": "No, most assuredly not!",
+          "lineStart": 1391
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1392
+        },
+        {
+          "type": "para",
+          "text": "Then how do you live, if you do nothing?",
+          "lineStart": 1393
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1394
+        },
+        {
+          "type": "para",
+          "text": "I superintend public and private business.",
+          "lineStart": 1395
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1396
+        },
+        {
+          "type": "para",
+          "text": "You do? And by what right, pray?",
+          "lineStart": 1397
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1398
+        },
+        {
+          "type": "para",
+          "text": "Because it pleases me to do so.",
+          "lineStart": 1399
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1400
+        },
+        {
+          "type": "para",
+          "text": "Like a thief you sneak yourself in where you have no business. You are hated by all and you claim to be an honest man.",
+          "lineStart": 1401
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1403
+        },
+        {
+          "type": "para",
+          "text": "What, you fool? I have not the right to dedicate myself entirely to my country's service?",
+          "lineStart": 1404
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1406
+        },
+        {
+          "type": "para",
+          "text": "Is the country served by vile intrigue?",
+          "lineStart": 1407
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1408
+        },
+        {
+          "type": "para",
+          "text": "It is served by watching that the established law is observed-by allowing no one to violate it.",
+          "lineStart": 1409
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1411
+        },
+        {
+          "type": "para",
+          "text": "That's the duty of the tribunals; they are established to that end.",
+          "lineStart": 1412
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1414
+        },
+        {
+          "type": "para",
+          "text": "And who is the prosecutor before the dicasts?",
+          "lineStart": 1415
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1416
+        },
+        {
+          "type": "para",
+          "text": "Whoever wishes to be.",
+          "lineStart": 1417
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1418
+        },
+        {
+          "type": "para",
+          "text": "Well then, it is I who choose to be prosecutor; and thus all public affairs fall within my province.",
+          "lineStart": 1419
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1421
+        },
+        {
+          "type": "para",
+          "text": "I pity Athens for being in such vile clutches. But would you not prefer to live quietly and free from all care and anxiety?",
+          "lineStart": 1422
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1424
+        },
+        {
+          "type": "para",
+          "text": "To do nothing is to live an animal's life.",
+          "lineStart": 1425
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1426
+        },
+        {
+          "type": "para",
+          "text": "Thus you will not change your mode of life?",
+          "lineStart": 1427
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1428
+        },
+        {
+          "type": "para",
+          "text": "No, though they gave me Plutus himself and the silphium of Battus.",
+          "lineStart": 1429
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1431
+        },
+        {
+          "type": "para",
+          "text": "to the INFORMER Come, quick, off with your cloak. The INFORMER does not move.",
+          "lineStart": 1432
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1435
+        },
+        {
+          "type": "para",
+          "text": "Hi! friend! it's you they are speaking to.",
+          "lineStart": 1436
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1437
+        },
+        {
+          "type": "para",
+          "text": "Off with your shoes. The INFORMER still remains motionless.",
+          "lineStart": 1438
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "JUST MAN",
+          "lineStart": 1440
+        },
+        {
+          "type": "para",
+          "text": "I say, all this is addressed to you.",
+          "lineStart": 1441
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1442
+        },
+        {
+          "type": "para",
+          "text": "defiantly Very well! let one of you come near me, if he dares.",
+          "lineStart": 1443
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1445
+        },
+        {
+          "type": "para",
+          "text": "I dare. He strips the INFORMER of his cloak and shoes. The witness runs away.",
+          "lineStart": 1446
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1449
+        },
+        {
+          "type": "para",
+          "text": "Alas! I am robbed of my clothes in full daylight.",
+          "lineStart": 1450
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1451
+        },
+        {
+          "type": "para",
+          "text": "That's what comes of meddling with other folk's business and living at their expense.",
+          "lineStart": 1452
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1454
+        },
+        {
+          "type": "para",
+          "text": "over his shoulder to the departing witness You see what is happening; I call you to witness.",
+          "lineStart": 1455
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1457
+        },
+        {
+          "type": "para",
+          "text": "laughing Look how the witness whom you brought is taking to his heels.",
+          "lineStart": 1458
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1460
+        },
+        {
+          "type": "para",
+          "text": "Great gods! I am all alone and they assault me.",
+          "lineStart": 1461
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1462
+        },
+        {
+          "type": "para",
+          "text": "Shout away!",
+          "lineStart": 1463
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "INFORMER",
+          "lineStart": 1464
+        },
+        {
+          "type": "para",
+          "text": "Oh! woe, woe is me!",
+          "lineStart": 1465
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CARIO",
+          "lineStart": 1466
+        },
+        {
+          "type": "para",
+          "text": "Give me that old ragged cloak, that I may",
+          "lineStart": 1467
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 481,
+    "wordCount": 9384
+  }
+}

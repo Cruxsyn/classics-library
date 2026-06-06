@@ -1,0 +1,3006 @@
+{
+  "id": "Plato/sophist",
+  "author": "Plato",
+  "authorKey": "Plato",
+  "title": "Sophist",
+  "translator": "Benjamin Jowett",
+  "language": "Greek",
+  "written": "360 BCE",
+  "sourceNote": null,
+  "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "hard-wrapped prose: 0.866 long unterminated interior lines, median line length 55.0, 0.563 unmarked continuation lines",
+  "textModeStats": {
+    "lineCount": 1359,
+    "paragraphCount": 591,
+    "interiorLineCount": 768,
+    "medianLineLength": 55.0,
+    "meanLineLength": 45.02501839587932,
+    "longInteriorLineRatio": 0.89453125,
+    "unterminatedInteriorLineRatio": 0.9661458333333334,
+    "longUnterminatedInteriorLineRatio": 0.8658854166666666,
+    "explicitBreakLineRatio": 0.0029433406916850625,
+    "unmarkedLineRatio": 0.5629139072847682
+  },
+  "landingUrl": "https://classics.mit.edu/Plato/sophist.html",
+  "textUrls": [
+    "https://classics.mit.edu/Plato/sophist.html"
+  ],
+  "txtUrl": "https://classics.mit.edu/Plato/sophist.1b.txt",
+  "sections": [
+    {
+      "seq": 1,
+      "id": "sophist-sophist",
+      "heading": "Sophist",
+      "partTitle": "Sophist",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Persons of the Dialogue",
+          "lineStart": 10
+        },
+        {
+          "type": "para",
+          "text": "THEODORUS THEAETETUS SOCRATES An ELEATIC STRANGER, whom Theodorus and Theaetetus bring with them The younger SOCRATES, who is a silent auditor",
+          "lineStart": 11
+        },
+        {
+          "type": "para",
+          "text": "Theodorus. Here we are, Socrates, true to our agreement of yesterday; and we bring with us a stranger from Elea, who is a disciple of Parmenides and Zeno, and a true philosopher.",
+          "lineStart": 17
+        },
+        {
+          "type": "para",
+          "text": "Socrates. Is he not rather a god, Theodorus, who comes to us in the disguise of a stranger? For Homer says that all the gods, and especially the god of strangers, are companions of the meek and just, and visit the good and evil among men. And may not your companion be one of those higher powers, a cross-examining deity, who has come to spy out our weakness in argument, and to cross-examine us?",
+          "lineStart": 20
+        },
+        {
+          "type": "para",
+          "text": "Theod. Nay, Socrates, he is not one of the disputatious sort-he is too good for that. And, in my opinion, he is not a god at all; but divine he certainly is, for this is a title which I should give to all philosophers.",
+          "lineStart": 26
+        },
+        {
+          "type": "para",
+          "text": "Soc. Capital, my friend! and I may add that they are almost as hard to be discerned as the gods. For the true philosophers, and such as are not merely made up for the occasion, appear in various forms unrecognized by the ignorance of men, and they \"hover about cities,\" as Homer declares, looking from above upon human life; and some think nothing of them, and others can never think enough; and sometimes they appear as statesmen, and sometimes as sophists; and then, again, to many they seem to be no better than madmen. I should like to ask our Eleatic friend, if he would tell us, what is thought about them in Italy, and to whom the terms are applied.",
+          "lineStart": 30
+        },
+        {
+          "type": "para",
+          "text": "Theod. What terms?",
+          "lineStart": 40
+        },
+        {
+          "type": "para",
+          "text": "Soc. Sophist, statesman, philosopher.",
+          "lineStart": 41
+        },
+        {
+          "type": "para",
+          "text": "Theod. What is your difficulty about them, and what made you ask?",
+          "lineStart": 42
+        },
+        {
+          "type": "para",
+          "text": "Soc. I want to know whether by his countrymen they are regarded as one or two; or do they, as the names are three, distinguish also three kinds, and assign one to each name?",
+          "lineStart": 44
+        },
+        {
+          "type": "para",
+          "text": "Theod. I dare say that the Stranger will not object to discuss the question. What do you say, Stranger?",
+          "lineStart": 47
+        },
+        {
+          "type": "para",
+          "text": "Stranger. I am far from objecting, Theodorus, nor have I any difficulty in replying that by us they are regarded as three. But to define precisely the nature of each of them is by no means a slight or easy task.",
+          "lineStart": 49
+        },
+        {
+          "type": "para",
+          "text": "Theod. You have happened to light, Socrates, almost on the very question which we were asking our friend before we came hither, and he excused himself to us, as he does now you; although he admitted that the matter had been fully discussed, and that he remembered the answer.",
+          "lineStart": 53
+        },
+        {
+          "type": "para",
+          "text": "Soc. Then do not, Stranger, deny us the first favour which we ask of you: I am sure that you will not, and therefore I shall only beg of you to say whether you like and are accustomed to make a long oration on a subject which you want to explain to another, or to proceed by the method of question and answer. I remember hearing a very noble discussion in which Parmenides employed the latter of the two methods, when I was a young man, and he was far advanced in years.",
+          "lineStart": 58
+        },
+        {
+          "type": "para",
+          "text": "Str. I prefer to talk with another when he responds pleasantly, and is light in hand; if not, I would rather have my own say.",
+          "lineStart": 65
+        },
+        {
+          "type": "para",
+          "text": "Soc. Any one of the present company will respond kindly to you, and you can choose whom you like of them; I should recommend you to take a young person-Theaetetus, for example-unless you have a preference for some one else.",
+          "lineStart": 68
+        },
+        {
+          "type": "para",
+          "text": "Str. I feel ashamed, Socrates, being a new comer into your society, instead of talking a little and hearing others talk, to be spinning out a long soliloquy or address, as if I wanted to show off. For the true answer will certainly be a very long one, a great deal longer than might be expected from such a short and simple question. At the same time, I fear that I may seem rude and ungracious if I refuse your courteous request, especially after what you have said. For I certainly cannot object to your proposal, that Theaetetus should respond, having already conversed with him myself, and being recommended by you to take him.",
+          "lineStart": 72
+        },
+        {
+          "type": "para",
+          "text": "Theaetetus. But are you sure, Stranger, that this will be quite so acceptable to the rest of the company as Socrates imagines?",
+          "lineStart": 81
+        },
+        {
+          "type": "para",
+          "text": "Str. You hear them applauding, Theaetetus; after that, there is nothing more to be said. Well then, I am to argue with you, and if you tire of the argument, you may complain of your friends and not of me.",
+          "lineStart": 84
+        },
+        {
+          "type": "para",
+          "text": "Theaet. I do not think that I shall tire, and if I do, I shall get my friend here, young Socrates, the namesake of the elder Socrates, to help; he is about my own age, and my partner at the gymnasium, and is constantly accustomed to work with me.",
+          "lineStart": 88
+        },
+        {
+          "type": "para",
+          "text": "Str. Very good; you can decide about that for yourself as we proceed. Meanwhile you and I will begin together and enquire into the nature of the Sophist, first of the three: I should like you to make out what he is and bring him to light in a discussion; for at present we are only agreed about the name, but of the thing to which we both apply the name possibly you have one notion and I another; whereas we ought always to come to an understanding about the thing itself in terms of a definition, and not merely about the name minus the definition. Now the tribe of Sophists which we are investigating is not easily caught or defined; and the world has long ago agreed, that if great subjects are to be adequately treated, they must be studied in the lesser and easier instances of them before we proceed to the greatest of all. And as I know that the tribe of Sophists is troublesome and hard to be caught, I should recommend that we practise beforehand the method which is to be applied to him on some simple and smaller thing, unless you can suggest a better way.",
+          "lineStart": 92
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Indeed I cannot.",
+          "lineStart": 107
+        },
+        {
+          "type": "para",
+          "text": "Str. Then suppose that we work out some lesser example which will be a pattern of the greater?",
+          "lineStart": 108
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Good.",
+          "lineStart": 110
+        },
+        {
+          "type": "para",
+          "text": "Str. What is there which is well known and not great, and is yet as susceptible of definition as any larger thing? Shall I say an angler? He is familiar to all of us, and not a very interesting or important person.",
+          "lineStart": 111
+        },
+        {
+          "type": "para",
+          "text": "Theaet. He is not.",
+          "lineStart": 115
+        },
+        {
+          "type": "para",
+          "text": "Str. Yet I suspect that he will furnish us with the sort of definition and line of enquiry which we want.",
+          "lineStart": 116
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Very good.",
+          "lineStart": 118
+        },
+        {
+          "type": "para",
+          "text": "Str. Let us begin by asking whether he is a man having art or not having art, but some other power.",
+          "lineStart": 119
+        },
+        {
+          "type": "para",
+          "text": "Theaet. He is clearly a man of art.",
+          "lineStart": 121
+        },
+        {
+          "type": "para",
+          "text": "Str. And of arts there are two kinds?",
+          "lineStart": 122
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What are they?",
+          "lineStart": 123
+        },
+        {
+          "type": "para",
+          "text": "Str. There is agriculture, and the tending of mortal creatures, and the art of constructing or moulding vessels, and there is the art of imitation-all these may be appropriately called by a single name.",
+          "lineStart": 124
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What do you mean? And what is the name?",
+          "lineStart": 128
+        },
+        {
+          "type": "para",
+          "text": "Str. He who brings into existence something that did not exist before is said to be a producer, and that which is brought into existence is said to be produced.",
+          "lineStart": 130
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 133
+        },
+        {
+          "type": "para",
+          "text": "Str. And all the arts which were just now mentioned are characterized by this power of producing?",
+          "lineStart": 134
+        },
+        {
+          "type": "para",
+          "text": "Theaet. They are.",
+          "lineStart": 136
+        },
+        {
+          "type": "para",
+          "text": "Str. Then let us sum them up under the name of productive or creative art.",
+          "lineStart": 137
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Very good.",
+          "lineStart": 139
+        },
+        {
+          "type": "para",
+          "text": "Str. Next follows the whole class of learning and cognition; then comes trade, fighting, hunting. And since none of these produces anything, but is only engaged in conquering by word or deed, or in preventing others from conquering, things which exist and have been already produced-in each and all of these branches there appears to be an art which may be called acquisitive.",
+          "lineStart": 140
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes, that is the proper name.",
+          "lineStart": 146
+        },
+        {
+          "type": "para",
+          "text": "Str. Seeing, then, that all arts are either acquisitive or creative, in which class shall we place the art of the angler?",
+          "lineStart": 147
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Clearly in the acquisitive class.",
+          "lineStart": 150
+        },
+        {
+          "type": "para",
+          "text": "Str. And the acquisitive may be subdivided into two parts: there is exchange, which is voluntary and is effected by gifts, hire, purchase; and the other part of acquisitive, which takes by force of word or deed, may be termed conquest?",
+          "lineStart": 151
+        },
+        {
+          "type": "para",
+          "text": "Theaet. That is implied in what has been said.",
+          "lineStart": 155
+        },
+        {
+          "type": "para",
+          "text": "Str. And may not conquest be again subdivided?",
+          "lineStart": 157
+        },
+        {
+          "type": "para",
+          "text": "Theaet. How?",
+          "lineStart": 158
+        },
+        {
+          "type": "para",
+          "text": "Str. Open force may; be called fighting, and secret force may have the general name of hunting?",
+          "lineStart": 159
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes.",
+          "lineStart": 161
+        },
+        {
+          "type": "para",
+          "text": "Str. And there is no reason why the art of hunting should not be further divided.",
+          "lineStart": 162
+        },
+        {
+          "type": "para",
+          "text": "Theaet. How would you make the division?",
+          "lineStart": 164
+        },
+        {
+          "type": "para",
+          "text": "Str. Into the hunting of living and of lifeless prey.",
+          "lineStart": 165
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes, if both kinds exist.",
+          "lineStart": 167
+        },
+        {
+          "type": "para",
+          "text": "Str. Of course they exist; but the hunting after lifeless things having no special name, except some sorts of diving, and other small matters, may be omitted; the hunting after living things may be called animal hunting.",
+          "lineStart": 168
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes.",
+          "lineStart": 172
+        },
+        {
+          "type": "para",
+          "text": "Str. And animal hunting may be truly said to have two divisions, land-animal hunting, which has many kinds and names, and water-animals hunting, or the hunting after animals who swim?",
+          "lineStart": 173
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 176
+        },
+        {
+          "type": "para",
+          "text": "Str. And of swimming animals, one class lives on the wing and the other in the water?",
+          "lineStart": 177
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 179
+        },
+        {
+          "type": "para",
+          "text": "Str. Fowling is the general term under which the hunting of all birds is included.",
+          "lineStart": 180
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 182
+        },
+        {
+          "type": "para",
+          "text": "Str. The hunting of animals who live in the water has the general name of fishing.",
+          "lineStart": 183
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes.",
+          "lineStart": 185
+        },
+        {
+          "type": "para",
+          "text": "Str. And this sort of hunting may be further divided also into two principal kinds?",
+          "lineStart": 186
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What are they?",
+          "lineStart": 188
+        },
+        {
+          "type": "para",
+          "text": "Str. There is one kind which takes them in nets, another which takes them by a blow.",
+          "lineStart": 189
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What do you mean, and how do you distinguish them?",
+          "lineStart": 191
+        },
+        {
+          "type": "para",
+          "text": "Str. As to the first kind-all that surrounds and encloses anything to prevent egress, may be rightly called an enclosure.",
+          "lineStart": 193
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Very true.",
+          "lineStart": 196
+        },
+        {
+          "type": "para",
+          "text": "Str. For which reason twig baskets, casting nets, nooses, creels, and the like may all be termed \"enclosures\"?",
+          "lineStart": 197
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 199
+        },
+        {
+          "type": "para",
+          "text": "Str. And therefore this first kind of capture may be called by us capture with enclosures, or something of that sort?",
+          "lineStart": 200
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes.",
+          "lineStart": 203
+        },
+        {
+          "type": "para",
+          "text": "Str. The other kind, which is practised by a blow with hooks and three pronged spears, when summed up under one name, may be called striking, unless you, Theaetetus, can find some better name?",
+          "lineStart": 204
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Never mind the name-what you suggest will do very well.",
+          "lineStart": 208
+        },
+        {
+          "type": "para",
+          "text": "Str. There is one mode of striking, which is done at night, and by the light of a fire, and is by the hunters themselves called firing, or spearing by firelight.",
+          "lineStart": 210
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 213
+        },
+        {
+          "type": "para",
+          "text": "Str. And the fishing by day is called by the general name of barbing because the spears, too, are barbed at the point.",
+          "lineStart": 214
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes, that is the term.",
+          "lineStart": 217
+        },
+        {
+          "type": "para",
+          "text": "Str. Of this barb-fishing, that which strikes the fish Who is below from above is called spearing, because this is the way in which the three-pronged spears are mostly used.",
+          "lineStart": 218
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes, it is often called so.",
+          "lineStart": 221
+        },
+        {
+          "type": "para",
+          "text": "Str. Then now there is only one kind remaining.",
+          "lineStart": 222
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What is that?",
+          "lineStart": 224
+        },
+        {
+          "type": "para",
+          "text": "Str. When a hook is used, and the fish is not struck in any chance part of his body-he as be is with the spear, but only about the head and mouth, and is then drawn out from below upwards with reeds and rods:-What is the right name of that mode of fish, Theaetetus?",
+          "lineStart": 225
+        },
+        {
+          "type": "para",
+          "text": "Theaet. I suspect that we have now discovered the object of our search.",
+          "lineStart": 230
+        },
+        {
+          "type": "para",
+          "text": "Str. Then now you and I have come to an understanding not only about the name of the angler's art, but about the definition of the thing itself. One half of all art was acquisitive-half of all the art acquisitive art was conquest or taking by force, half of this was hunting, and half of hunting was hunting animals, half of this was hunting water animals-of this again, the under half was fishing, half of fishing was striking; a part of striking was fishing with a barb, and one half of this again, being the kind which strikes with a hook and draws the fish from below upwards, is the art which we have been seeking, and which from the nature of the operation is denoted angling or drawing up (aspalienutike, anaspasthai).",
+          "lineStart": 232
+        },
+        {
+          "type": "para",
+          "text": "Theaet. The result has been quite satisfactorily brought out.",
+          "lineStart": 243
+        },
+        {
+          "type": "para",
+          "text": "Str. And now, following this pattern, let us endeavour to find out what a Sophist is.",
+          "lineStart": 245
+        },
+        {
+          "type": "para",
+          "text": "Theaet. By all means.",
+          "lineStart": 247
+        },
+        {
+          "type": "para",
+          "text": "Str. The first question about the angler was, whether he was a skilled artist or unskilled?",
+          "lineStart": 248
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 250
+        },
+        {
+          "type": "para",
+          "text": "Str. And shall we call our new friend unskilled, or a thorough master of his craft?",
+          "lineStart": 251
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly not unskilled, for his name, as, indeed, you imply, must surely express his nature.",
+          "lineStart": 253
+        },
+        {
+          "type": "para",
+          "text": "Str. Then he must be supposed to have some art.",
+          "lineStart": 255
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What art?",
+          "lineStart": 257
+        },
+        {
+          "type": "para",
+          "text": "Str. By heaven, they are cousins! it never occurred to us.",
+          "lineStart": 258
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Who are cousins?",
+          "lineStart": 260
+        },
+        {
+          "type": "para",
+          "text": "Str. The angler and the Sophist.",
+          "lineStart": 261
+        },
+        {
+          "type": "para",
+          "text": "Theaet. In what way are they related?",
+          "lineStart": 262
+        },
+        {
+          "type": "para",
+          "text": "Str. They both appear to me to be hunters.",
+          "lineStart": 263
+        },
+        {
+          "type": "para",
+          "text": "Theaet. How the Sophist? Of the other we have spoken.",
+          "lineStart": 264
+        },
+        {
+          "type": "para",
+          "text": "Str. You remember our division of hunting, into hunting after swimming animals and land animals?",
+          "lineStart": 266
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes.",
+          "lineStart": 268
+        },
+        {
+          "type": "para",
+          "text": "Str. And you remember that we subdivided the swimming and left the land animals, saying that there were many kinds of them?",
+          "lineStart": 269
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 272
+        },
+        {
+          "type": "para",
+          "text": "Str. Thus far, then, the Sophist and the angler, starting from the art of acquiring, take the same road?",
+          "lineStart": 273
+        },
+        {
+          "type": "para",
+          "text": "Theaet. So it would appear.",
+          "lineStart": 275
+        },
+        {
+          "type": "para",
+          "text": "Str. Their paths diverge when they reach the art of animal hunting; the one going to the seashore, and to the rivers and to the lakes, and angling for the animals which are in them.",
+          "lineStart": 276
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Very true.",
+          "lineStart": 279
+        },
+        {
+          "type": "para",
+          "text": "Str. While the other goes to land and water of another sort-rivers of wealth and broad meadow-lands of generous youth; and he also is intending to take the animals which are in them.",
+          "lineStart": 280
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What do you mean?",
+          "lineStart": 283
+        },
+        {
+          "type": "para",
+          "text": "Str. Of hunting on land there are two principal divisions.",
+          "lineStart": 284
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What are they?",
+          "lineStart": 286
+        },
+        {
+          "type": "para",
+          "text": "Str. One is the hunting of tame, and the other of wild animals.",
+          "lineStart": 287
+        },
+        {
+          "type": "para",
+          "text": "Theaet. But are tame animals ever hunted?",
+          "lineStart": 289
+        },
+        {
+          "type": "para",
+          "text": "Str. Yes, if you include man under tame animals. But if you like you may say that there are no tame animals, or that, if there are, man is not among them; or you may say that man is a tame animal but is not hunted-you shall decide which of these alternatives you prefer.",
+          "lineStart": 290
+        },
+        {
+          "type": "para",
+          "text": "Theaet. I should say, Stranger, that man is a tame animal, and I admit that he is hunted.",
+          "lineStart": 295
+        },
+        {
+          "type": "para",
+          "text": "Str. Then let us divide the hunting of tame animals into two parts.",
+          "lineStart": 297
+        },
+        {
+          "type": "para",
+          "text": "Theaet. How shall we make the division?",
+          "lineStart": 299
+        },
+        {
+          "type": "para",
+          "text": "Str. Let us define piracy, man-stealing, tyranny, the whole military art, by one name, as hunting with violence.",
+          "lineStart": 300
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Very good.",
+          "lineStart": 302
+        },
+        {
+          "type": "para",
+          "text": "Str. But the art of the lawyer, of the popular orator, and the art of conversation may be called in one word the art of persuasion.",
+          "lineStart": 303
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 306
+        },
+        {
+          "type": "para",
+          "text": "Str. And of persuasion, there may be said to be two kinds?",
+          "lineStart": 307
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What are they?",
+          "lineStart": 309
+        },
+        {
+          "type": "para",
+          "text": "Str. One is private, and the other public.",
+          "lineStart": 310
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes; each of them forms a class.",
+          "lineStart": 311
+        },
+        {
+          "type": "para",
+          "text": "Str. And of private hunting, one sort receives hire, and the other brings gifts.",
+          "lineStart": 312
+        },
+        {
+          "type": "para",
+          "text": "Theaet. I do not understand you.",
+          "lineStart": 314
+        },
+        {
+          "type": "para",
+          "text": "Str. You seem never to have observed the manner in which lovers hunt.",
+          "lineStart": 315
+        },
+        {
+          "type": "para",
+          "text": "Theaet. To what do you refer?",
+          "lineStart": 317
+        },
+        {
+          "type": "para",
+          "text": "Str. I mean that they lavish gifts on those whom they hunt in addition to other inducements.",
+          "lineStart": 318
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Most true.",
+          "lineStart": 320
+        },
+        {
+          "type": "para",
+          "text": "Str. Let us admit this, then, to be the amatory art.",
+          "lineStart": 321
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 323
+        },
+        {
+          "type": "para",
+          "text": "Str. But that sort of hireling whose conversation is pleasing and who baits his hook only with pleasure and exacts nothing but his maintenance in return, we should all, if I am not mistaken, describe as possessing flattery or an art of making things pleasant.",
+          "lineStart": 324
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 328
+        },
+        {
+          "type": "para",
+          "text": "Str. And that sort, which professes to form acquaintances only for the sake of virtue, and demands a reward in the shape of money, may be fairly called by another name?",
+          "lineStart": 329
+        },
+        {
+          "type": "para",
+          "text": "Theaet. To be sure.",
+          "lineStart": 332
+        },
+        {
+          "type": "para",
+          "text": "Str. And what is the name? Will you tell me?",
+          "lineStart": 333
+        },
+        {
+          "type": "para",
+          "text": "Theaet. It is obvious enough; for I believe that we have discovered the Sophist: which is, as I conceive, the proper name for the class described.",
+          "lineStart": 335
+        },
+        {
+          "type": "para",
+          "text": "Str. Then now, Theaetetus, his art may be traced as a branch of the appropriative, acquisitive family-which hunts animals,-living-land-tame animals; which hunts man,-privately-for hire,-taking money in exchange-having the semblance of education; and this is termed Sophistry, and is a hunt after young men of wealth and rank-such is the conclusion.",
+          "lineStart": 338
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Just so.",
+          "lineStart": 343
+        },
+        {
+          "type": "para",
+          "text": "Str. Let us take another branch of his genealogy; for he is a professor of a great and many sided art; and if we look back at what has preceded we see that he presents another aspect, besides that of which we are speaking.",
+          "lineStart": 344
+        },
+        {
+          "type": "para",
+          "text": "Theaet. In what respect?",
+          "lineStart": 348
+        },
+        {
+          "type": "para",
+          "text": "Str. There were two sorts of acquisitive art; the one concerned with hunting, the other with exchange.",
+          "lineStart": 349
+        },
+        {
+          "type": "para",
+          "text": "Theaet. There were.",
+          "lineStart": 351
+        },
+        {
+          "type": "para",
+          "text": "Str. And of the art of exchange there are two divisions, the one of giving, and the other of selling.",
+          "lineStart": 352
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Let us assume that.",
+          "lineStart": 354
+        },
+        {
+          "type": "para",
+          "text": "Str. Next, will suppose the art of selling to be divided into two parts.",
+          "lineStart": 355
+        },
+        {
+          "type": "para",
+          "text": "Theaet. How?",
+          "lineStart": 357
+        },
+        {
+          "type": "para",
+          "text": "Str. There is one part which is distinguished as the sale of a man's own productions; another, which is the exchange of the works of others.",
+          "lineStart": 358
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 361
+        },
+        {
+          "type": "para",
+          "text": "Str. And is not that part of exchange which takes place in the city, being about half of the whole, termed retailing?",
+          "lineStart": 362
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes.",
+          "lineStart": 364
+        },
+        {
+          "type": "para",
+          "text": "Str. And that which exchanges the goods of one city for those of another by selling and buying is the exchange of the merchant?",
+          "lineStart": 365
+        },
+        {
+          "type": "para",
+          "text": "Theaet. To be sure.",
+          "lineStart": 368
+        },
+        {
+          "type": "para",
+          "text": "Str. And you are aware that this exchange of the merchant is of two kinds: it is partly concerned with food for the use of the body, and partly with the food of the soul which is bartered and received in exchange for money.",
+          "lineStart": 369
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What do you mean?",
+          "lineStart": 373
+        },
+        {
+          "type": "para",
+          "text": "Str. You want to know what is the meaning of food for the soul; the other kind you surely understand.",
+          "lineStart": 374
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes.",
+          "lineStart": 376
+        },
+        {
+          "type": "para",
+          "text": "Str. Take music in general and painting and marionette playing and many other things, which are purchased in one city, and carried away and sold in another-wares of the soul which are hawked about either for the sake of instruction or amusement;-may not he who takes them about and sells them be quite as truly called a merchant as he who sells meats and drinks?",
+          "lineStart": 377
+        },
+        {
+          "type": "para",
+          "text": "Theaet. To be sure he may.",
+          "lineStart": 383
+        },
+        {
+          "type": "para",
+          "text": "Str. And would you not call by the same name him who buys up knowledge and goes about from city to city exchanging his wares for money?",
+          "lineStart": 384
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly I should.",
+          "lineStart": 387
+        },
+        {
+          "type": "para",
+          "text": "Str. Of this merchandise of the soul, may not one part be fairly termed the art of display? And there is another part which is certainly not less ridiculous, but being a trade in learning must be called by some name germane to the matter?",
+          "lineStart": 388
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 392
+        },
+        {
+          "type": "para",
+          "text": "Str. The latter should have two names,-one descriptive of the sale of the knowledge of virtue, and the other of the sale of other kinds of knowledge.",
+          "lineStart": 393
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Of course.",
+          "lineStart": 396
+        },
+        {
+          "type": "para",
+          "text": "Str. The name of art-seller corresponds well enough to the latter; but you must try and tell me the name of the other.",
+          "lineStart": 397
+        },
+        {
+          "type": "para",
+          "text": "Theaet. He must be the Sophist, whom we are seeking; no other name can possibly be right.",
+          "lineStart": 400
+        },
+        {
+          "type": "para",
+          "text": "Str. No other; and so this trader in virtue again turns out to be our friend the Sophist, whose art may now be traced from the art of acquisition through exchange, trade, merchandise, to a merchandise of the soul which is concerned with speech and the knowledge of virtue.",
+          "lineStart": 402
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Quite true.",
+          "lineStart": 407
+        },
+        {
+          "type": "para",
+          "text": "Str. And there may be a third reappearance of him;-for he may have settled down in a city, and may fabricate as well as buy these same wares, intending to live by selling them, and he would still be called a Sophist?",
+          "lineStart": 408
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 412
+        },
+        {
+          "type": "para",
+          "text": "Str. Then that part of acquisitive art which exchanges, and of exchange which either sells a man's own productions or retails those of others; as the case may be, and in either way sells the knowledge of virtue, you would again term Sophistry?",
+          "lineStart": 413
+        },
+        {
+          "type": "para",
+          "text": "Theaet. I must, if I am to keep pace with the argument.",
+          "lineStart": 417
+        },
+        {
+          "type": "para",
+          "text": "Str. Let us consider once more whether there may not be yet another aspect of sophistry.",
+          "lineStart": 419
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What is it?",
+          "lineStart": 421
+        },
+        {
+          "type": "para",
+          "text": "Str. In the acquisitive there was a subdivision of the combative or fighting art.",
+          "lineStart": 422
+        },
+        {
+          "type": "para",
+          "text": "Theaet. There was.",
+          "lineStart": 424
+        },
+        {
+          "type": "para",
+          "text": "Str. Perhaps we had better divide it.",
+          "lineStart": 425
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What shall be the divisions?",
+          "lineStart": 426
+        },
+        {
+          "type": "para",
+          "text": "Str. There shall be one division of the competitive, and another of the pugnacious.",
+          "lineStart": 427
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Very good.",
+          "lineStart": 429
+        },
+        {
+          "type": "para",
+          "text": "Str. That part of the pugnacious which is contest of bodily strength may be properly called by some such name as violent.",
+          "lineStart": 430
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 433
+        },
+        {
+          "type": "para",
+          "text": "Str. And when the war is one of words, it may be termed controversy?",
+          "lineStart": 434
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes.",
+          "lineStart": 436
+        },
+        {
+          "type": "para",
+          "text": "Str. And controversy may be of two kinds.",
+          "lineStart": 437
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What are they?",
+          "lineStart": 438
+        },
+        {
+          "type": "para",
+          "text": "Str. When long speeches are answered by long speeches, and there is public discussion about the just and unjust, that is forensic controversy.",
+          "lineStart": 439
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes.",
+          "lineStart": 442
+        },
+        {
+          "type": "para",
+          "text": "Str. And there is a private sort of controversy, which is cut up into questions and answers, and this is commonly called disputation?",
+          "lineStart": 443
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes, that is the name.",
+          "lineStart": 446
+        },
+        {
+          "type": "para",
+          "text": "Str. And of disputation, that sort which is only a discussion about contracts, and is carried on at random, and without rules-art, is recognized by the reasoning faculty to be a distinct class, but has hitherto had no distinctive name, and does not deserve to receive one from us.",
+          "lineStart": 447
+        },
+        {
+          "type": "para",
+          "text": "Theaet. No; for the different sorts of it are too minute and heterogeneous.",
+          "lineStart": 452
+        },
+        {
+          "type": "para",
+          "text": "Str. But that which proceeds by rules of art to dispute about justice and injustice in their own nature, and about things in general, we have been accustomed to call argumentation (Eristic)?",
+          "lineStart": 454
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 457
+        },
+        {
+          "type": "para",
+          "text": "Str. And of argumentation, one sort wastes money, and the other makes money.",
+          "lineStart": 458
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Very true.",
+          "lineStart": 460
+        },
+        {
+          "type": "para",
+          "text": "Str. Suppose we try and give to each of these two classes a name.",
+          "lineStart": 461
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Let us do so.",
+          "lineStart": 463
+        },
+        {
+          "type": "para",
+          "text": "Str. I should say that the habit which leads a man to neglect his own affairs for the pleasure of conversation, of which the style is far from being agreeable to the majority of his hearers, may be fairly termed loquacity: such is my opinion.",
+          "lineStart": 464
+        },
+        {
+          "type": "para",
+          "text": "Theaet. That is the common name for it.",
+          "lineStart": 468
+        },
+        {
+          "type": "para",
+          "text": "Str. But now who the other is, who makes money out of private disputation, it is your turn to say.",
+          "lineStart": 469
+        },
+        {
+          "type": "para",
+          "text": "Theaet. There is only one true answer: he is the wonderful Sophist, of whom we are in pursuit, and who reappears again for the fourth time.",
+          "lineStart": 471
+        },
+        {
+          "type": "para",
+          "text": "Str. Yes, and with a fresh pedigree, for he is the money-making species of the Eristic, disputatious, controversial. pugnacious, combative, acquisitive family, as the argument has already proven.",
+          "lineStart": 474
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 477
+        },
+        {
+          "type": "para",
+          "text": "Str. How true was the observation that he was a many-sided animal, and not to be caught with one hand, as they say!",
+          "lineStart": 478
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Then you must catch him with two.",
+          "lineStart": 481
+        },
+        {
+          "type": "para",
+          "text": "Str. Yes, we must, if we can. And therefore let us try, another track in our pursuit of him: You are aware that there are certain menial occupations which have names among servants?",
+          "lineStart": 483
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes, there are many such; which of them do you mean?",
+          "lineStart": 486
+        },
+        {
+          "type": "para",
+          "text": "Str. I mean such as sifting, straining, winnowing, threshing.",
+          "lineStart": 488
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 490
+        },
+        {
+          "type": "para",
+          "text": "Str. And besides these there are a great many more, such as carding, spinning, adjusting the warp and the woof; and thousands of similar expressions are used in the arts.",
+          "lineStart": 491
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Of what are they to be patterns, and what are we going to do with them all?",
+          "lineStart": 494
+        },
+        {
+          "type": "para",
+          "text": "Str. I think that in all of these there is implied a notion of division.",
+          "lineStart": 496
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes.",
+          "lineStart": 498
+        },
+        {
+          "type": "para",
+          "text": "Str. Then if, as I was saying, there is one art which includes all of them, ought not that art to have one name?",
+          "lineStart": 499
+        },
+        {
+          "type": "para",
+          "text": "Theaes. And what is the name of the art?",
+          "lineStart": 501
+        },
+        {
+          "type": "para",
+          "text": "Str. The art of discerning or discriminating.",
+          "lineStart": 502
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Very good.",
+          "lineStart": 503
+        },
+        {
+          "type": "para",
+          "text": "Str. Think whether you cannot divide this.",
+          "lineStart": 504
+        },
+        {
+          "type": "para",
+          "text": "Theaet. I should have to think a long while.",
+          "lineStart": 506
+        },
+        {
+          "type": "para",
+          "text": "Str. In all the previously named processes either like has been separated from like or the better from the worse.",
+          "lineStart": 508
+        },
+        {
+          "type": "para",
+          "text": "Theaet. I see now what you mean. Str, There is no name for the first kind of separation; of the second, which throws away the worse and preserves the better, I do know a name.",
+          "lineStart": 510
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What is it?",
+          "lineStart": 514
+        },
+        {
+          "type": "para",
+          "text": "Str. Every discernment or discrimination of that kind, as I have observed, is called a purification.",
+          "lineStart": 515
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes, that is the usual expression.",
+          "lineStart": 517
+        },
+        {
+          "type": "para",
+          "text": "Str. And any one may see that purification is of two kinds.",
+          "lineStart": 518
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Perhaps so, if he were allowed time to think; but I do not see at this moment.",
+          "lineStart": 520
+        },
+        {
+          "type": "para",
+          "text": "Str. There are many purifications of bodies which may with propriety be comprehended under a single name.",
+          "lineStart": 522
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What are they, and what is their name?",
+          "lineStart": 524
+        },
+        {
+          "type": "para",
+          "text": "Str. There is the purification of living bodies in their inward and in their outward parts, of which the former is duly effected by medicine and gymnastic, the latter by the not very dignified art of the bath-man; and there is the purification of inanimate substances-to this the arts of fulling and of furbishing in general attend in a number of minute particulars, having a variety of names which are thought ridiculous.",
+          "lineStart": 526
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Very true.",
+          "lineStart": 533
+        },
+        {
+          "type": "para",
+          "text": "Str. There can be no doubt that they are thought ridiculous, Theaetetus; but then the dialectical art never considers whether the benefit to be derived from the purge is greater or less than that to be derived from the sponge, and has not more interest in the one than in the other; her endeavour is to know what is and is not kindred in all arts, with a view to the acquisition of intelligence; and having this in view, she honours them all alike, and when she makes comparisons, she counts one of them not a whit more ridiculous than another; nor does she esteem him who adduces as his example of hunting, the general's art, at all more decorous than another who cites that of the vermin-destroyer, but only as the greater pretender of the two. And as to your question concerning the name which was to comprehend all these arts of purification, whether of animate or inanimate bodies, the art of dialectic is in no wise particular about fine words, if she maybe only allowed to have a general name for all other purifications, binding them up together and separating them off from the purification of the soul or intellect. For this is the purification at which she wants to arrive, and this we should understand to be her aim.",
+          "lineStart": 534
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes, I understand; and I agree that there are two sorts of purification and that one of them is concerned with the soul, and that there is another which is concerned with the body.",
+          "lineStart": 551
+        },
+        {
+          "type": "para",
+          "text": "Str. Excellent; and now listen to what I am going to say, and try to divide further the first of the two.",
+          "lineStart": 555
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Whatever line of division you suggest, I will endeavour to assist you.",
+          "lineStart": 557
+        },
+        {
+          "type": "para",
+          "text": "Str. Do we admit that virtue is distinct from vice in the soul?",
+          "lineStart": 559
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 561
+        },
+        {
+          "type": "para",
+          "text": "Str. And purification was to leave the good and to cast out whatever is bad?",
+          "lineStart": 562
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 564
+        },
+        {
+          "type": "para",
+          "text": "Str. Then any taking away of evil from the soul may be properly called purification?",
+          "lineStart": 565
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes.",
+          "lineStart": 567
+        },
+        {
+          "type": "para",
+          "text": "Str. And in the soul there are two kinds of evil.",
+          "lineStart": 568
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What are they?",
+          "lineStart": 570
+        },
+        {
+          "type": "para",
+          "text": "Str. The one may be compared to disease in the body, the other to deformity.",
+          "lineStart": 571
+        },
+        {
+          "type": "para",
+          "text": "Theaet. I do not understand.",
+          "lineStart": 573
+        },
+        {
+          "type": "para",
+          "text": "Str. Perhaps you have never reflected that disease and discord are the same.",
+          "lineStart": 574
+        },
+        {
+          "type": "para",
+          "text": "Theaet. To this, again, I know not what I should reply.",
+          "lineStart": 576
+        },
+        {
+          "type": "para",
+          "text": "Str. Do you not conceive discord to be a dissolution of kindred clements, originating in some disagreement?",
+          "lineStart": 578
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Just that.",
+          "lineStart": 580
+        },
+        {
+          "type": "para",
+          "text": "Str. And is deformity anything but the want of measure, which is always unsightly?",
+          "lineStart": 581
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Exactly.",
+          "lineStart": 583
+        },
+        {
+          "type": "para",
+          "text": "Str. And do we not see that opinion is opposed to desire, pleasure to anger, reason to pain, and that all these elements are opposed to one another in the souls of bad men?",
+          "lineStart": 584
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 587
+        },
+        {
+          "type": "para",
+          "text": "Str. And yet they must all be akin?",
+          "lineStart": 588
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Of course.",
+          "lineStart": 589
+        },
+        {
+          "type": "para",
+          "text": "Str. Then we shall be right in calling vice a discord and disease of the soul?",
+          "lineStart": 590
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Most true.",
+          "lineStart": 592
+        },
+        {
+          "type": "para",
+          "text": "Str. And when things having motion, an aiming at an appointed mark, continually miss their aim and glance aside, shall we say that this is the effect of symmetry among them, or of the want of symmetry?",
+          "lineStart": 593
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Clearly of the want of symmetry.",
+          "lineStart": 597
+        },
+        {
+          "type": "para",
+          "text": "Str. But surely we know that no soul is voluntarily ignorant of anything?",
+          "lineStart": 598
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly not.",
+          "lineStart": 600
+        },
+        {
+          "type": "para",
+          "text": "Str. And what is ignorance but the aberration of a mind which is bent on truth, and in which the process of understanding is perverted?",
+          "lineStart": 601
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 604
+        },
+        {
+          "type": "para",
+          "text": "Str. Then we are to regard an unintelligent soul as deformed and devoid of symmetry?",
+          "lineStart": 605
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Very true.",
+          "lineStart": 607
+        },
+        {
+          "type": "para",
+          "text": "Str. Then there are these two kinds of evil in the soul-the one which is generally called vice, and is obviously a disease of the soul...",
+          "lineStart": 608
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes.",
+          "lineStart": 611
+        },
+        {
+          "type": "para",
+          "text": "Str. And there is the other, which they call ignorance, and which, because existing only in the soul, they will not allow to be vice.",
+          "lineStart": 612
+        },
+        {
+          "type": "para",
+          "text": "Theaet. I certainly admit what I at first disputed-that there are two kinds of vice in the soul, and that we ought to consider cowardice, intemperance, and injustice to be alike forms of disease in the soul, and ignorance, of which there are all sorts of varieties, to be deformity.",
+          "lineStart": 615
+        },
+        {
+          "type": "para",
+          "text": "Str. And in the case of the body are there not two arts, which have to do with the two bodily states?",
+          "lineStart": 620
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What are they?",
+          "lineStart": 622
+        },
+        {
+          "type": "para",
+          "text": "Str. There is gymnastic, which has to do with deformity, and medicine, which has to do with disease.",
+          "lineStart": 623
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 625
+        },
+        {
+          "type": "para",
+          "text": "Str. And where there is insolence and injustice and cowardice, is not chastisement the art which is most required?",
+          "lineStart": 626
+        },
+        {
+          "type": "para",
+          "text": "Theaet. That certainly appears to be the opinion of mankind.",
+          "lineStart": 628
+        },
+        {
+          "type": "para",
+          "text": "Str. Again, of the various kinds of ignorance, may not instruction be rightly said to be the remedy?",
+          "lineStart": 630
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 632
+        },
+        {
+          "type": "para",
+          "text": "Str. And of the art of instruction, shall we say that there is one or many kinds? At any rate there are two principal ones. Think.",
+          "lineStart": 633
+        },
+        {
+          "type": "para",
+          "text": "Theaet. I will.",
+          "lineStart": 636
+        },
+        {
+          "type": "para",
+          "text": "Str. I believe that I can see how we shall soonest arrive at the answer to this question.",
+          "lineStart": 637
+        },
+        {
+          "type": "para",
+          "text": "Theaet. How?",
+          "lineStart": 639
+        },
+        {
+          "type": "para",
+          "text": "Str. If we can discover a line which divides ignorance into two halves. For a division of ignorance into two parts will certainly imply that the art of instruction is also twofold, answering to the two divisions of ignorance.",
+          "lineStart": 640
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Well, and do you see what you are looking for?",
+          "lineStart": 644
+        },
+        {
+          "type": "para",
+          "text": "Str. I do seem to myself to see one very large and bad sort of ignorance which is quite separate, and may be weighed in the scale against all other sorts of ignorance put together.",
+          "lineStart": 646
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What is it?",
+          "lineStart": 649
+        },
+        {
+          "type": "para",
+          "text": "Str. When a person supposes that he knows, and does not know this appears to be the great source of all the errors of the intellect.",
+          "lineStart": 650
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 653
+        },
+        {
+          "type": "para",
+          "text": "Str. And this, if I am not mistaken, is the kind of ignorance which specially earns the title of stupidity.",
+          "lineStart": 654
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 656
+        },
+        {
+          "type": "para",
+          "text": "Str. What name, then, shall be given to the sort of instruction which gets rid of this?",
+          "lineStart": 657
+        },
+        {
+          "type": "para",
+          "text": "Theaet. The instruction which you mean, Stranger, is, I should imagine, not the teaching of handicraft arts, but what, thanks to us, has been termed education in this part the world.",
+          "lineStart": 659
+        },
+        {
+          "type": "para",
+          "text": "Str. Yes, Theaetetus, and by nearly all Hellenes. But we have still to consider whether education admits of any further division.",
+          "lineStart": 662
+        },
+        {
+          "type": "para",
+          "text": "Theaet. We have.",
+          "lineStart": 665
+        },
+        {
+          "type": "para",
+          "text": "Str. I think that there is a point at which such a division is possible.",
+          "lineStart": 666
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Where?",
+          "lineStart": 668
+        },
+        {
+          "type": "para",
+          "text": "Str. Of education, one method appears to be rougher, and another smoother.",
+          "lineStart": 669
+        },
+        {
+          "type": "para",
+          "text": "Theaet. How are we to distinguish the two?",
+          "lineStart": 671
+        },
+        {
+          "type": "para",
+          "text": "Str. There is the time-honoured mode which our fathers commonly practised towards their sons, and which is still adopted by many-either of roughly reproving their errors, or of gently advising them; which varieties may be correctly included under the general term of admonition.",
+          "lineStart": 673
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 678
+        },
+        {
+          "type": "para",
+          "text": "Str. But whereas some appear to have arrived at the conclusion that all ignorance is involuntary, and that no one who thinks himself wise is willing to learn any of those things in which he is conscious of his own cleverness, and that the admonitory sort of instruction gives much trouble and does little good-",
+          "lineStart": 679
+        },
+        {
+          "type": "para",
+          "text": "Theaet. There they are quite right.",
+          "lineStart": 684
+        },
+        {
+          "type": "para",
+          "text": "Str. Accordingly, they set to work to eradicate the spirit of conceit in another way.",
+          "lineStart": 685
+        },
+        {
+          "type": "para",
+          "text": "Theaet. In what way?",
+          "lineStart": 687
+        },
+        {
+          "type": "para",
+          "text": "Str. They cross-examine a man's words, when he thinks that he is saying something and is really saying nothing, and easily convict him of inconsistencies in his opinions; these they then collect by the dialectical process, and placing them side by side, show that they contradict one another about the same things, in relation to the same things, and in the same respect. He, seeing this, is angry with himself, and grows gentle towards others, and thus is entirely delivered from great prejudices and harsh notions, in a way which is most amusing to the hearer, and produces the most lasting good effect on the person who is the subject of the operation. For as the physician considers that the body will receive no benefit from taking food until the internal obstacles have been removed, so the purifier of the soul is conscious that his patient will receive no benefit from the application of knowledge until he is refuted, and from refutation learns modesty; he must be purged of his prejudices first and made to think that he knows only what he knows, and no more.",
+          "lineStart": 688
+        },
+        {
+          "type": "para",
+          "text": "Theaet. That is certainly the best and wisest state of mind.",
+          "lineStart": 703
+        },
+        {
+          "type": "para",
+          "text": "Str. For all these reasons, Theaetetus, we must admit that refutation is the greatest and chiefest of purifications, and he who has not been refuted, though he be the Great King himself, is in an awful state of impurity; he is uninstructed and deformed in those things in which he who would be truly blessed ought to be fairest and purest.",
+          "lineStart": 705
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Very true.",
+          "lineStart": 710
+        },
+        {
+          "type": "para",
+          "text": "Str. And who are the ministers of this art? I am afraid to say the Sophists.",
+          "lineStart": 711
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Why?",
+          "lineStart": 713
+        },
+        {
+          "type": "para",
+          "text": "Str. Lest we should assign to them too high a prerogative.",
+          "lineStart": 714
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yet the Sophist has a certain likeness to our minister of purification.",
+          "lineStart": 716
+        },
+        {
+          "type": "para",
+          "text": "Str. Yes, the same sort of likeness which a wolf, who is the fiercest of animals, has to a dog, who is the gentlest. But he who would not be found tripping, ought to be very careful in this matter of comparisons, for they are most slippery things. Nevertheless, let us assume that the Sophists are the men. I say this provisionally, for I think that the line which divides them will be marked enough if proper care is taken.",
+          "lineStart": 718
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Likely enough.",
+          "lineStart": 725
+        },
+        {
+          "type": "para",
+          "text": "Str. Let us grant, then, that from the discerning art comes purification, and from purification let there be separated off a part which is concerned with the soul; of this mental purification instruction is a portion, and of instruction education, and of education, that refutation of vain conceit which has been discovered in the present argument; and let this be called by you and me the nobly-descended art of Sophistry.",
+          "lineStart": 726
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Very well; and yet, considering the number of forms in which he has presented himself, I begin to doubt how I can with any truth or confidence describe the real nature of the Sophist.",
+          "lineStart": 733
+        },
+        {
+          "type": "para",
+          "text": "Str. You naturally feel perplexed; and yet I think that he must be still more perplexed in his attempt to escape us, for as the proverb says, when every way is blocked, there is no escape; now, then, is the time of all others to set upon him.",
+          "lineStart": 737
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 741
+        },
+        {
+          "type": "para",
+          "text": "Str. First let us wait a moment and recover breath, and while we are resting, we may reckon up in how many forms he has appeared. In the first place, he was discovered to be a paid hunter after wealth and youth.",
+          "lineStart": 742
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes.",
+          "lineStart": 746
+        },
+        {
+          "type": "para",
+          "text": "Str. In the second place, he was a merchant in the goods of the soul.",
+          "lineStart": 747
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 749
+        },
+        {
+          "type": "para",
+          "text": "Str. In the third place, he has turned out to be a retailer of the same sort of wares.",
+          "lineStart": 750
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes; and in the fourth place, he himself manufactured the learned wares which he sold.",
+          "lineStart": 752
+        },
+        {
+          "type": "para",
+          "text": "Str. Quite right; I will try and remember the fifth myself. He belonged to the fighting class, and was further distinguished as a hero of debate, who professed the eristic art.",
+          "lineStart": 754
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 757
+        },
+        {
+          "type": "para",
+          "text": "Str. The sixth point was doubtful, and yet we at last agreed that he was a purger of souls, who cleared away notions obstructive to knowledge.",
+          "lineStart": 758
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Very true.",
+          "lineStart": 761
+        },
+        {
+          "type": "para",
+          "text": "Str. Do you not see that when the professor of any art has one name and many kinds of knowledge, there must be something wrong? The multiplicity of names which is applied to him shows that the common principle to which all these branches of knowledge are tending, is not understood.",
+          "lineStart": 762
+        },
+        {
+          "type": "para",
+          "text": "Theaet. I should imagine this to be the case.",
+          "lineStart": 767
+        },
+        {
+          "type": "para",
+          "text": "Str. At any rate we will understand him, and no indolence shall prevent us. Let us begin again, then, and re-examine some of our statements concerning the Sophist; there was one thing which appeared to me especially characteristic of him.",
+          "lineStart": 769
+        },
+        {
+          "type": "para",
+          "text": "Theaet. To what are you referring?",
+          "lineStart": 773
+        },
+        {
+          "type": "para",
+          "text": "Str. We were saying of him, if I am not mistaken, that he was a disputer?",
+          "lineStart": 774
+        },
+        {
+          "type": "para",
+          "text": "Theaet. We were.",
+          "lineStart": 776
+        },
+        {
+          "type": "para",
+          "text": "Str. And does he not also teach others the art of disputation?",
+          "lineStart": 777
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly he does.",
+          "lineStart": 779
+        },
+        {
+          "type": "para",
+          "text": "Str. And about what does he profess that he teaches men to dispute? To begin at the beginning-Does he make them able to dispute about divine things, which are invisible to men in general?",
+          "lineStart": 780
+        },
+        {
+          "type": "para",
+          "text": "Theaet. At any rate, he is said to do so.",
+          "lineStart": 783
+        },
+        {
+          "type": "para",
+          "text": "Str. And what do you say of the visible things in heaven and earth, and the like?",
+          "lineStart": 785
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly he disputes, and teaches to dispute about them.",
+          "lineStart": 787
+        },
+        {
+          "type": "para",
+          "text": "Str. Then, again, in private conversation, when any universal assertion is made about generation and essence, we know that such persons are tremendous argufiers, and are able to impart their own skill to others.",
+          "lineStart": 789
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Undoubtedly.",
+          "lineStart": 793
+        },
+        {
+          "type": "para",
+          "text": "Str. And do they not profess to make men able to dispute about law and about politics in general?",
+          "lineStart": 794
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Why, no one would have anything to say to them, if they did not make these professions.",
+          "lineStart": 796
+        },
+        {
+          "type": "para",
+          "text": "Str. In all and every art, what the craftsman ought to say in answer to any question is written down in a popular form, and he who likes may learn.",
+          "lineStart": 798
+        },
+        {
+          "type": "para",
+          "text": "Theaet. I suppose that you are referring to the precepts of Protagoras about wrestling and the other arts?",
+          "lineStart": 801
+        },
+        {
+          "type": "para",
+          "text": "Str. Yes, my friend, and about a good many other things. In a word, is not the art of disputation a power of disputing about all things?",
+          "lineStart": 803
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly; there does not seem to be much which is left out.",
+          "lineStart": 806
+        },
+        {
+          "type": "para",
+          "text": "Str. But oh! my dear youth, do you suppose this possible? for perhaps your young eyes may see things which to our duller sight do not appear.",
+          "lineStart": 808
+        },
+        {
+          "type": "para",
+          "text": "Theaet. To what are you alluding? I do not think that I understand your present question.",
+          "lineStart": 811
+        },
+        {
+          "type": "para",
+          "text": "Str. I ask whether anybody can understand all things.",
+          "lineStart": 813
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Happy would mankind be if such a thing were possible!",
+          "lineStart": 815
+        },
+        {
+          "type": "para",
+          "text": "Soc. But how can any one who is ignorant dispute in a rational manner against him who knows?",
+          "lineStart": 817
+        },
+        {
+          "type": "para",
+          "text": "Theaet. He cannot.",
+          "lineStart": 819
+        },
+        {
+          "type": "para",
+          "text": "Str. Then why has the sophistical art such a mysterious power?",
+          "lineStart": 820
+        },
+        {
+          "type": "para",
+          "text": "Theaet. To what do you refer?",
+          "lineStart": 822
+        },
+        {
+          "type": "para",
+          "text": "Str. How do the Sophists make young men believe in their supreme and universal wisdom? For if they neither disputed nor were thought to dispute rightly, or being thought to do so were deemed no wiser for their controversial skill, then, to quote your own observation, no one would give them money or be willing to learn their art.",
+          "lineStart": 823
+        },
+        {
+          "type": "para",
+          "text": "Theaet. They certainly would not.",
+          "lineStart": 828
+        },
+        {
+          "type": "para",
+          "text": "Str. But they are willing.",
+          "lineStart": 829
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes, they are.",
+          "lineStart": 830
+        },
+        {
+          "type": "para",
+          "text": "Str. Yes, and the reason, as I should imagine, is that they are supposed to have knowledge of those things about which they dispute?",
+          "lineStart": 831
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 834
+        },
+        {
+          "type": "para",
+          "text": "Str. And they dispute about all things?",
+          "lineStart": 835
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 836
+        },
+        {
+          "type": "para",
+          "text": "Str. And therefore, to their disciples, they appear to be all-wise?",
+          "lineStart": 837
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 839
+        },
+        {
+          "type": "para",
+          "text": "Str. But they are not; for that was shown to be impossible.",
+          "lineStart": 840
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Impossible, of course.",
+          "lineStart": 842
+        },
+        {
+          "type": "para",
+          "text": "Str. Then the Sophist has been shown to have a sort of conjectural or apparent knowledge only of all things, which is not the truth?",
+          "lineStart": 843
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Exactly; no better description of him could be given.",
+          "lineStart": 846
+        },
+        {
+          "type": "para",
+          "text": "Str. Let us now take an illustration, which will still more clearly explain his nature.",
+          "lineStart": 848
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What is it?",
+          "lineStart": 850
+        },
+        {
+          "type": "para",
+          "text": "Str. I will tell you, and you shall answer me, giving your very closest attention. Suppose that a person were to profess, not that he could speak or dispute, but that he knew how to make and do all things, by a single art.",
+          "lineStart": 851
+        },
+        {
+          "type": "para",
+          "text": "Theaet. All things?",
+          "lineStart": 855
+        },
+        {
+          "type": "para",
+          "text": "Str. I see that you do not understand the first word that I utter, for you do not understand the meaning of \"all.\"",
+          "lineStart": 856
+        },
+        {
+          "type": "para",
+          "text": "Theaet. No, I do not.",
+          "lineStart": 858
+        },
+        {
+          "type": "para",
+          "text": "Str. Under all things, I include you and me, and also animals and trees.",
+          "lineStart": 859
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What do you mean?",
+          "lineStart": 861
+        },
+        {
+          "type": "para",
+          "text": "Str. Suppose a person to say that he will make you and me, and all creatures.",
+          "lineStart": 862
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What would he mean by \"making\"? He cannot be a husbandman;-for you said that he is a maker of animals.",
+          "lineStart": 864
+        },
+        {
+          "type": "para",
+          "text": "Str. Yes; and I say that he is also the maker of the sea, and the earth, and the heavens, and the gods, and of all other things; and, further, that he can make them in no time, and sell them for a few pence.",
+          "lineStart": 866
+        },
+        {
+          "type": "para",
+          "text": "Theaet. That must be a jest.",
+          "lineStart": 870
+        },
+        {
+          "type": "para",
+          "text": "Str. And when a man says that he knows all things, and can teach them to another at a small cost, and in a short time, is not that a jest?",
+          "lineStart": 871
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 874
+        },
+        {
+          "type": "para",
+          "text": "Str. And is there any more artistic or graceful form of jest than imitation?",
+          "lineStart": 875
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly not; and imitation is a very comprehensive term, which includes under one class the most diverse sorts of things.",
+          "lineStart": 877
+        },
+        {
+          "type": "para",
+          "text": "Str. We know, of course, that he who professes by one art to make all things is really a painter, and by the painter's art makes resemblances of real things which have the same name with them; and he can deceive the less intelligent sort of young children, to whom he shows his pictures at a distance, into the belief that he has the absolute power of making whatever he likes.",
+          "lineStart": 880
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 886
+        },
+        {
+          "type": "para",
+          "text": "Str. And may there not be supposed to be an imitative art of reasoning? Is it not possible to enchant the hearts of young men by words poured through their ears, when they are still at a distance from the truth of facts, by exhibiting to them fictitious arguments, and making them think that they are true, and that the speaker is the wisest of men in all things?",
+          "lineStart": 887
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes; why should there not be another such art?",
+          "lineStart": 893
+        },
+        {
+          "type": "para",
+          "text": "Str. But as time goes on, and their hearers advance in years, and come into closer contact with realities, and have learnt by sad experience to see and feel the truth of things, are not the greater part of them compelled to change many opinions which they formerly entertained, so that the great appears small to them, and the easy difficult, and all their dreamy speculations are overturned by the facts of life?",
+          "lineStart": 895
+        },
+        {
+          "type": "para",
+          "text": "Theaet. That is my view, as far as I can judge, although, at my age, I may be one of those who see things at a distance only.",
+          "lineStart": 901
+        },
+        {
+          "type": "para",
+          "text": "Str. And the wish of all of us, who are your friends, is and always will be to bring you as near to the truth as we can without the sad reality. And now I should like you to tell me, whether the Sophist is not visibly a magician and imitator of true being; or are we still disposed to think that he may have a true knowledge of the various matters about which he disputes?",
+          "lineStart": 904
+        },
+        {
+          "type": "para",
+          "text": "Theaet. But how can he, Stranger? Is there any doubt, after what has been said, that he is to be located in one of the divisions of children's play?",
+          "lineStart": 910
+        },
+        {
+          "type": "para",
+          "text": "Str. Then we must place him in the class of magicians and mimics.",
+          "lineStart": 913
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly we must.",
+          "lineStart": 915
+        },
+        {
+          "type": "para",
+          "text": "Str. And now our business is not to let the animal out, for we have got him in a sort of dialectical net, and there is one thing which he decidedly will not escape.",
+          "lineStart": 916
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What is that?",
+          "lineStart": 919
+        },
+        {
+          "type": "para",
+          "text": "Str. The inference that he is a juggler.",
+          "lineStart": 920
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Precisely my own opinion of him.",
+          "lineStart": 921
+        },
+        {
+          "type": "para",
+          "text": "Str. Then, clearly, we ought as soon as possible to divide the image-making art, and go down into the net, and, if the Sophist does not run away from us, to seize him according to orders and deliver him over to reason, who is the lord of the hunt, and proclaim the capture of him; and if he creeps into the recesses of the imitative art, and secretes himself in one of them, to divide again and follow him up until in some sub-section of imitation he is caught. For our method of tackling each and all is one which neither he nor any other creature will ever escape in triumph.",
+          "lineStart": 922
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Well said; and let us do as you propose.",
+          "lineStart": 931
+        },
+        {
+          "type": "para",
+          "text": "Str. Well, then, pursuing the same analytic method as before, I think that I can discern two divisions of the imitative art, but I am not as yet able to see in which of them the desired form is to be found.",
+          "lineStart": 933
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Will you tell me first what are two divisions of which you are speaking?",
+          "lineStart": 937
+        },
+        {
+          "type": "para",
+          "text": "Str. One is the art of likeness-making;-generally a likeness of anything is made by producing a copy which is executed according to the proportions of the original, similar in length and breadth and depth, each thing receiving also its appropriate colour.",
+          "lineStart": 939
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Is not this always the aim of imitation?",
+          "lineStart": 943
+        },
+        {
+          "type": "para",
+          "text": "Str. Not always; in works either of sculpture or of painting, which are of any magnitude, there is a certain degree of deception; -for artists were to give the true proportions of their fair works, the upper part, which is farther off, would appear to be out of proportion in comparison with the lower, which is nearer; and so they give up the truth in their images and make only the proportions which appear to be beautiful, disregarding the real ones.",
+          "lineStart": 945
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Quite true.",
+          "lineStart": 952
+        },
+        {
+          "type": "para",
+          "text": "Str. And that which being other is also like, may we not fairly call a likeness or image?",
+          "lineStart": 953
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes.",
+          "lineStart": 955
+        },
+        {
+          "type": "para",
+          "text": "Str. And may we not, as I did just now, call that part of the imitative art which is concerned with making such images the art of likeness making?",
+          "lineStart": 956
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Let that be the name.",
+          "lineStart": 959
+        },
+        {
+          "type": "para",
+          "text": "Str. And what shall we call those resemblances of the beautiful, which appear such owing to the unfavourable position of the spectator, whereas if a person had the power of getting a correct view of works of such magnitude, they would appear not even like that to which they profess to be like? May we not call these \"appearances,\" since they appear only and are not really like?",
+          "lineStart": 960
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 966
+        },
+        {
+          "type": "para",
+          "text": "Str. There is a great deal of this kind of thing in painting, and in all imitation.",
+          "lineStart": 967
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Of course.",
+          "lineStart": 969
+        },
+        {
+          "type": "para",
+          "text": "Str. And may we not fairly call the sort of art, which produces an appearance and not an image, phantastic art?",
+          "lineStart": 970
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Most fairly.",
+          "lineStart": 972
+        },
+        {
+          "type": "para",
+          "text": "Str. These then are the two kinds of image making-the art of making likenesses, and phantastic or the art of making appearances?",
+          "lineStart": 973
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 976
+        },
+        {
+          "type": "para",
+          "text": "Str. I was doubtful before in which of them I should place the Sophist, nor am I even now able to see clearly; verily he is a wonderful and inscrutable creature. And now in the cleverest manner he has got into an impossible place.",
+          "lineStart": 977
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes, he has.",
+          "lineStart": 981
+        },
+        {
+          "type": "para",
+          "text": "Str. Do you speak advisedly, or are you carried away at the moment by the habit of assenting into giving a hasty answer?",
+          "lineStart": 982
+        },
+        {
+          "type": "para",
+          "text": "Theaet. May I ask to what you are referring?",
+          "lineStart": 985
+        },
+        {
+          "type": "para",
+          "text": "Str. My dear friend, we are engaged in a very difficult speculation-there can be no doubt of that; for how a thing can appear and seem, and not be, or how a man can say a thing which is not true, has always been and still remains a very perplexing question. Can any one say or think that falsehood really exists, and avoid being caught in a contradiction? Indeed, Theaetetus, the task is a difficult one.",
+          "lineStart": 986
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Why?",
+          "lineStart": 992
+        },
+        {
+          "type": "para",
+          "text": "Str. He who says that falsehood exists has the audacity to assert the being of not-being; for this is implied in the possibility of falsehood. But, my boy, in the days when I was a boy, the great Parmenides protested against this doctrine, and to the end of his life he continued to inculcate the same lesson-always repeating both in verse and out of verse:",
+          "lineStart": 993
+        },
+        {
+          "type": "para",
+          "text": "Keep your mind from this way of enquiry, for never will you show that not-being is Such is his testimony, which is confirmed by the very expression when sifted a little. Would you object to begin with the consideration of the words themselves?",
+          "lineStart": 999
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Never mind about me; I am only desirous that you should carry on the argument in the best way, and that you should take me with you.",
+          "lineStart": 1003
+        },
+        {
+          "type": "para",
+          "text": "Str. Very good; and now say, do we venture to utter the forbidden word \"not-being\"?",
+          "lineStart": 1006
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly we do.",
+          "lineStart": 1008
+        },
+        {
+          "type": "para",
+          "text": "Str. Let us be serious then, and consider the question neither in strife nor play: suppose that one of the hearers of Parmenides was asked, \"To is the term 'not-being' to be applied?\"-do you know what sort of object he would single out in reply, and what answer he would make to the enquirer?",
+          "lineStart": 1009
+        },
+        {
+          "type": "para",
+          "text": "Theaet. That is a difficult question, and one not to be answered at all by a person like myself.",
+          "lineStart": 1014
+        },
+        {
+          "type": "para",
+          "text": "Str. There is at any rate no difficulty in seeing that the predicate \"not-being\" is not applicable to any being.",
+          "lineStart": 1016
+        },
+        {
+          "type": "para",
+          "text": "Theaet. None, certainly.",
+          "lineStart": 1018
+        },
+        {
+          "type": "para",
+          "text": "Str. And if not to being, then not to something.",
+          "lineStart": 1019
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Of course not.",
+          "lineStart": 1021
+        },
+        {
+          "type": "para",
+          "text": "Str. It is also plain, that in speaking of something we speak of being, for to speak of an abstract something naked and isolated from all being is impossible.",
+          "lineStart": 1022
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Impossible.",
+          "lineStart": 1025
+        },
+        {
+          "type": "para",
+          "text": "Str. You mean by assenting to imply that he who says something must say some one thing?",
+          "lineStart": 1026
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes.",
+          "lineStart": 1028
+        },
+        {
+          "type": "para",
+          "text": "Str. Some in the singular (ti) you would say is the sign of one, some in the dual (tine) of two, some in the plural (tines) of many?",
+          "lineStart": 1029
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Exactly.",
+          "lineStart": 1032
+        },
+        {
+          "type": "para",
+          "text": "Str. Then he who says \"not something\" must say absolutely nothing.",
+          "lineStart": 1033
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Most assuredly.",
+          "lineStart": 1035
+        },
+        {
+          "type": "para",
+          "text": "Str. And as we cannot admit that a man speaks and says nothing, he who says \"not-being\" does not speak at all.",
+          "lineStart": 1036
+        },
+        {
+          "type": "para",
+          "text": "Theaet. The difficulty of the argument can no further go.",
+          "lineStart": 1038
+        },
+        {
+          "type": "para",
+          "text": "Str. Not yet, my friend, is the time for such a word; for there still remains of all perplexities the first and greatest, touching the very foundation of the matter.",
+          "lineStart": 1040
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What do you mean? Do not be afraid to speak.",
+          "lineStart": 1043
+        },
+        {
+          "type": "para",
+          "text": "Str. To that which is, may be attributed some other thing which is?",
+          "lineStart": 1045
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 1047
+        },
+        {
+          "type": "para",
+          "text": "Str. But can anything which is, be attributed to that which is not?",
+          "lineStart": 1048
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Impossible.",
+          "lineStart": 1050
+        },
+        {
+          "type": "para",
+          "text": "Str. And all number is to be reckoned among things which are?",
+          "lineStart": 1051
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes, surely number, if anything, has a real existence.",
+          "lineStart": 1053
+        },
+        {
+          "type": "para",
+          "text": "Str. Then we must not attempt to attribute to not-being number either in the singular or plural?",
+          "lineStart": 1055
+        },
+        {
+          "type": "para",
+          "text": "Theaet. The argument implies that we should be wrong in doing so.",
+          "lineStart": 1057
+        },
+        {
+          "type": "para",
+          "text": "Str. But how can a man either express in words or even conceive in thought things which are not or a thing which is not without number?",
+          "lineStart": 1059
+        },
+        {
+          "type": "para",
+          "text": "Theaet. How indeed?",
+          "lineStart": 1062
+        },
+        {
+          "type": "para",
+          "text": "Str. When we speak of things which are not attributing plurality to not-being?",
+          "lineStart": 1063
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 1065
+        },
+        {
+          "type": "para",
+          "text": "Str. But, on the other hand, when we say \"what is not,\" do we not attribute unity?",
+          "lineStart": 1066
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Manifestly.",
+          "lineStart": 1068
+        },
+        {
+          "type": "para",
+          "text": "Str. Nevertheless, we maintain that you may not and ought not to attribute being to not-being?",
+          "lineStart": 1069
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Most true.",
+          "lineStart": 1071
+        },
+        {
+          "type": "para",
+          "text": "Str. Do you see, then, that not-being in itself can neither be spoken, uttered, or thought, but that it is unthinkable, unutterable, unspeakable, indescribable?",
+          "lineStart": 1072
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Quite true.",
+          "lineStart": 1075
+        },
+        {
+          "type": "para",
+          "text": "Str. But, if so, I was wrong in telling you just now that the difficulty which was coming is the greatest of all.",
+          "lineStart": 1076
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What! is there a greater still behind?",
+          "lineStart": 1078
+        },
+        {
+          "type": "para",
+          "text": "Str. Well, I am surprised, after what has been said already, that you do not see the difficulty in which he who would refute the notion of not-being is involved. For he is compelled to contradict himself as soon as he makes the attempt.",
+          "lineStart": 1080
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What do you mean? Speak more clearly.",
+          "lineStart": 1084
+        },
+        {
+          "type": "para",
+          "text": "Str. Do not expect clearness from me. For I, who maintain that not-being has no part either in the one or many, just now spoke and am still speaking of not-being as one; for I say \"not-being.\" Do you understand?",
+          "lineStart": 1086
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes.",
+          "lineStart": 1090
+        },
+        {
+          "type": "para",
+          "text": "Str. And a little while ago I said that not-being is unutterable, unspeakable, indescribable: do you follow?",
+          "lineStart": 1091
+        },
+        {
+          "type": "para",
+          "text": "Theaet. I do after a fashion.",
+          "lineStart": 1093
+        },
+        {
+          "type": "para",
+          "text": "Str. When I introduced the word \"is,\" did I not contradict what I said before?",
+          "lineStart": 1094
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Clearly.",
+          "lineStart": 1096
+        },
+        {
+          "type": "para",
+          "text": "Str. And in using the singular verb, did I not speak of not-being as one?",
+          "lineStart": 1097
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes.",
+          "lineStart": 1099
+        },
+        {
+          "type": "para",
+          "text": "Str. And when I spoke of not-being as indescribable and unspeakable and unutterable, in using each of these words in the singular, did I not refer to not-being as one?",
+          "lineStart": 1100
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 1103
+        },
+        {
+          "type": "para",
+          "text": "Str. And yet we say that, strictly speaking, it should not be defined as one or many, and should not even be called \"it,\" for the use of the word \"it\" would imply a form of unity.",
+          "lineStart": 1104
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Quite true.",
+          "lineStart": 1107
+        },
+        {
+          "type": "para",
+          "text": "Str. How, then, can any one put any faith in me? For now, as always, I am unequal to the refutation of not-being. And therefore, as I was saying, do not look to me for the right way of speaking about not-being; but come, let us try the experiment with you.",
+          "lineStart": 1108
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What do you mean?",
+          "lineStart": 1113
+        },
+        {
+          "type": "para",
+          "text": "Str. Make a noble effort, as becomes youth, and endeavour with all your might to speak of not-being in a right manner, without introducing into it either existence or unity or plurality.",
+          "lineStart": 1114
+        },
+        {
+          "type": "para",
+          "text": "Theaet. It would be a strange boldness in me which would attempt the task when I see you thus discomfited.",
+          "lineStart": 1117
+        },
+        {
+          "type": "para",
+          "text": "Str. Say no more of ourselves; but until we find some one or other who can speak of not-being without number, we must acknowledge that the Sophist is a clever rogue who will not be got out of his hole.",
+          "lineStart": 1119
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Most true.",
+          "lineStart": 1123
+        },
+        {
+          "type": "para",
+          "text": "Str. And if we say to him that he professes an art of making appearances, he will grapple with us and retort our argument upon ourselves; and when we call him an image-maker he will say, \"Pray what do you mean at all by an image?\" -and I should like to know, Theaetetus, how we can possibly answer the younker's question?",
+          "lineStart": 1124
+        },
+        {
+          "type": "para",
+          "text": "Theaet. We shall doubtless tell him of the images which are reflected in water or in mirrors; also of sculptures, pictures, and other duplicates.",
+          "lineStart": 1129
+        },
+        {
+          "type": "para",
+          "text": "Str. I see, Theaetetus, that you have never made the acquaintance of the Sophist.",
+          "lineStart": 1132
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Why do you think so?",
+          "lineStart": 1134
+        },
+        {
+          "type": "para",
+          "text": "Str. He will make believe to have his eyes shut, or to have none.",
+          "lineStart": 1135
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What do you mean?",
+          "lineStart": 1137
+        },
+        {
+          "type": "para",
+          "text": "Str. When you tell him of something existing in a mirror, or in sculpture, and address him as though he had eyes, he will laugh you to scorn, and will pretend that he knows nothing of mirrors and streams, or of sight at all; he will say that he is asking about an idea.",
+          "lineStart": 1138
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What can he mean?",
+          "lineStart": 1143
+        },
+        {
+          "type": "para",
+          "text": "Str. The common notion pervading all these objects, which you speak of as many, and yet call by the single name of image, as though it were the unity under which they were all included. How will you maintain your ground against him?",
+          "lineStart": 1144
+        },
+        {
+          "type": "para",
+          "text": "Theaet. How. Stranger, can I describe an image except as something fashioned in the likeness of the true?",
+          "lineStart": 1148
+        },
+        {
+          "type": "para",
+          "text": "Str. And do you mean this something to be some other true thing, or what do you mean?",
+          "lineStart": 1150
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly not another true thing, but only a resemblance.",
+          "lineStart": 1152
+        },
+        {
+          "type": "para",
+          "text": "Str. And you mean by true that which really is?",
+          "lineStart": 1154
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes.",
+          "lineStart": 1156
+        },
+        {
+          "type": "para",
+          "text": "Str. And the not true is that which is the opposite of the true?",
+          "lineStart": 1157
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Exactly.",
+          "lineStart": 1159
+        },
+        {
+          "type": "para",
+          "text": "Str. A resemblance, then, is not really real, if, as you say, not true?",
+          "lineStart": 1160
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Nay, but it is in a certain sense.",
+          "lineStart": 1162
+        },
+        {
+          "type": "para",
+          "text": "Str. You mean to say, not in a true sense?",
+          "lineStart": 1163
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes; it is in reality only an image.",
+          "lineStart": 1164
+        },
+        {
+          "type": "para",
+          "text": "Str. Then what we call an image is in reality really unreal.",
+          "lineStart": 1166
+        },
+        {
+          "type": "para",
+          "text": "Theaet. In what a strange complication of being and not-being we are involved!",
+          "lineStart": 1168
+        },
+        {
+          "type": "para",
+          "text": "Str. Strange! I should think so. See how, by his reciprocation of opposites, the many-headed Sophist has compelled us, quite against our will, to admit the existence of not-being.",
+          "lineStart": 1170
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes, indeed, I see.",
+          "lineStart": 1173
+        },
+        {
+          "type": "para",
+          "text": "Str. The difficulty is how to define his art without falling into a contradiction.",
+          "lineStart": 1174
+        },
+        {
+          "type": "para",
+          "text": "Theaet. How do you mean? And where does the danger lie?",
+          "lineStart": 1176
+        },
+        {
+          "type": "para",
+          "text": "Str. When we say that he deceives us with an illusion, and that his art is illusory, do we mean that our soul is led by his art to think falsely, or what do we mean?",
+          "lineStart": 1178
+        },
+        {
+          "type": "para",
+          "text": "Theaet. There is nothing else to be said.",
+          "lineStart": 1181
+        },
+        {
+          "type": "para",
+          "text": "Str. Again, false opinion is that form of opinion which thinks the opposite of the truth:-You would assent?",
+          "lineStart": 1182
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly.",
+          "lineStart": 1184
+        },
+        {
+          "type": "para",
+          "text": "Str. You mean to say that false opinion thinks what is not?",
+          "lineStart": 1185
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Of course.",
+          "lineStart": 1187
+        },
+        {
+          "type": "para",
+          "text": "Str. Does false opinion think that things which are not are not, or that in a certain sense they are?",
+          "lineStart": 1188
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Things that are not must be imagined to exist in a certain sense, if any degree of falsehood is to be possible.",
+          "lineStart": 1190
+        },
+        {
+          "type": "para",
+          "text": "Str. And does not false opinion also think that things which most certainly exist do not exist at all?",
+          "lineStart": 1193
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Yes.",
+          "lineStart": 1195
+        },
+        {
+          "type": "para",
+          "text": "Str. And here, again, is falsehood?",
+          "lineStart": 1196
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Falsehood-yes.",
+          "lineStart": 1197
+        },
+        {
+          "type": "para",
+          "text": "Str. And in like manner, a false proposition will be deemed to be one which are, the nonexistence of things which are, and the existence of things which are not.",
+          "lineStart": 1198
+        },
+        {
+          "type": "para",
+          "text": "Theaet. There is no other way in which a false proposition can arise.",
+          "lineStart": 1201
+        },
+        {
+          "type": "para",
+          "text": "Str. There is not; but the Sophist will deny these statements. And indeed how can any rational man assent to them, when the very expressions which we have just used were before acknowledged by us to be unutterable, unspeakable, indescribable, unthinkable? Do you see his point, Theaetetus?",
+          "lineStart": 1203
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Of course he will say that we are contradicting ourselves when we hazard the assertion, that falsehood exists in opinion and in words; for in maintaining this, we are compelled over and over again to assert being of not-being, which we admitted just now to be an utter impossibility.",
+          "lineStart": 1208
+        },
+        {
+          "type": "para",
+          "text": "Str. How well you remember! And now it is high time to hold a consultation as to what we ought to do about the Sophist; for if we persist in looking for him in the class of false workers and magicians, you see that the handles for objection and the difficulties which will arise are very numerous and obvious.",
+          "lineStart": 1213
+        },
+        {
+          "type": "para",
+          "text": "Theaet. They are indeed.",
+          "lineStart": 1218
+        },
+        {
+          "type": "para",
+          "text": "Str. We have gone through but a very small portion of them, and they are really infinite.",
+          "lineStart": 1219
+        },
+        {
+          "type": "para",
+          "text": "Theaet. If that is the case, we cannot possibly catch the Sophist.",
+          "lineStart": 1221
+        },
+        {
+          "type": "para",
+          "text": "Str. Shall we then be so faint-hearted as to give him up?",
+          "lineStart": 1223
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly not, I should say, if we can get the slightest hold upon him.",
+          "lineStart": 1225
+        },
+        {
+          "type": "para",
+          "text": "Str. Will you then forgive me, and, as your words imply, not be altogether displeased if I flinch a little from the grasp of such a sturdy argument?",
+          "lineStart": 1227
+        },
+        {
+          "type": "para",
+          "text": "Theaet. To be sure I will.",
+          "lineStart": 1230
+        },
+        {
+          "type": "para",
+          "text": "Str. I have a yet more urgent request to make.",
+          "lineStart": 1231
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Which is-?",
+          "lineStart": 1233
+        },
+        {
+          "type": "para",
+          "text": "Str. That you will promise not to regard me as a parricide.",
+          "lineStart": 1234
+        },
+        {
+          "type": "para",
+          "text": "Theaet. And why?",
+          "lineStart": 1236
+        },
+        {
+          "type": "para",
+          "text": "Str. Because, in self-defence, I must test the philosophy of my father Parmenides, and try to prove by main force, that in a certain sense not-being is, and that being, on the other hand, is not.",
+          "lineStart": 1237
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Some attempt of the kind is clearly needed.",
+          "lineStart": 1241
+        },
+        {
+          "type": "para",
+          "text": "Str. Yes, a blind man, as they say, might see that, and, unless these questions are decided in one way or another, no one when he speaks false words, or false opinion, or idols, or images or imitations or appearances, or about the arts which are concerned with them; can avoid falling into ridiculous contradictions.",
+          "lineStart": 1243
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Most true.",
+          "lineStart": 1248
+        },
+        {
+          "type": "para",
+          "text": "Str. And therefore I must venture to lay hands on my father's argument; for if I am to be over-scrupulous, I shall have to give the matter up.",
+          "lineStart": 1249
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Nothing in the world should ever induce us to do so.",
+          "lineStart": 1252
+        },
+        {
+          "type": "para",
+          "text": "Str. I have a third little request which I wish to make.",
+          "lineStart": 1254
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What is it?",
+          "lineStart": 1256
+        },
+        {
+          "type": "para",
+          "text": "Str. You heard me-say what-I have always felt and still feel-that I have no heart for this argument?",
+          "lineStart": 1257
+        },
+        {
+          "type": "para",
+          "text": "Theaet. I did.",
+          "lineStart": 1259
+        },
+        {
+          "type": "para",
+          "text": "Str. I tremble at the thought of what I have said, and expect that you will deem me mad, when you hear of my sudden changes and shiftings; let me therefore observe, that I am examining the question entirely out of regard for you.",
+          "lineStart": 1260
+        },
+        {
+          "type": "para",
+          "text": "Theaet. There is no reason for you to fear that I shall impute any impropriety to you, if you attempt this refutation and proof; take heart, therefore, and proceed.",
+          "lineStart": 1264
+        },
+        {
+          "type": "para",
+          "text": "Str. And where shall I begin the perilous enterprise? I think that the road which I must take is-",
+          "lineStart": 1267
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Which?-Let me hear.",
+          "lineStart": 1269
+        },
+        {
+          "type": "para",
+          "text": "Str. I think that we had better, first of all, consider the points which at present are regard as self-evident, lest we may have fallen into some confusion, and be too ready to assent to one another, fancying that we are quite clear about them.",
+          "lineStart": 1270
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Say more distinctly what you mean.",
+          "lineStart": 1274
+        },
+        {
+          "type": "para",
+          "text": "Str. I think that Parmenides, and all ever yet undertook to determine the number and nature of existences, talked to us in rather a light and easy strain.",
+          "lineStart": 1276
+        },
+        {
+          "type": "para",
+          "text": "Theaet. How?",
+          "lineStart": 1279
+        },
+        {
+          "type": "para",
+          "text": "Str. As if we had been children, to whom they repeated each his own mythus or story;-one said that there were three principles, and that at one time there was war between certain of them; and then again there was peace, and they were married and begat children, and brought them up; and another spoke of two principles,-a moist and a dry, or a hot and a cold, and made them marry and cohabit. The Eleatics, however, in our part of the world, say that things are many in name, but in nature one; this is their mythus, which goes back to Xenophanes, and is even older. Then there are Ionian, and in more recent times Sicilian muses, who have arrived at the conclusion that to unite the two principles is safer, and to say that being is one and many, and that these are held together by enmity and friendship, ever parting, ever meeting, as the-severer Muses assert, while the gentler ones do not insist on the perpetual strife and peace, but admit a relaxation and alternation of them; peace and unity sometimes prevailing under the sway of Aphrodite, and then again plurality and war, by reason of a principle of strife. Whether any of them spoke the truth in all this is hard to determine; besides, antiquity and famous men should have reverence, and not be liable to accusations; so serious; Yet one thing may be said of them without offence-",
+          "lineStart": 1280
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What thing?",
+          "lineStart": 1299
+        },
+        {
+          "type": "para",
+          "text": "Str. That they went on their several ways disdaining to notice people like ourselves; they did not care whether they took us with them, or left us behind them.",
+          "lineStart": 1300
+        },
+        {
+          "type": "para",
+          "text": "Theaet. How do you mean?",
+          "lineStart": 1303
+        },
+        {
+          "type": "para",
+          "text": "Str. I mean to say, that when they talk of one, two, or more elements, which are or have become or are becoming, or again of heat mingling with cold, assuming in some other part of their works separations and mixtures,-tell me, Theaetetus, do you understand what they mean by these expressions? When I was a younger man, I used to fancy that I understood quite well what was meant by the term \"not-being,\" which is our present subject of dispute; and now you see in what a fix we are about it.",
+          "lineStart": 1304
+        },
+        {
+          "type": "para",
+          "text": "Theaet. I see.",
+          "lineStart": 1312
+        },
+        {
+          "type": "para",
+          "text": "Str. And very likely we have been getting into the same perplexity about \"being,\" and yet may fancy that when anybody utters the word, we understand him quite easily, although we do not know about not-being. But we may be; equally ignorant of both.",
+          "lineStart": 1313
+        },
+        {
+          "type": "para",
+          "text": "Theaet. I dare say.",
+          "lineStart": 1317
+        },
+        {
+          "type": "para",
+          "text": "Str. And the same may be said of all the terms just mentioned.",
+          "lineStart": 1318
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 1320
+        },
+        {
+          "type": "para",
+          "text": "Str. The consideration of most of them may be deferred; but we had better now discuss the chief captain and leader of them.",
+          "lineStart": 1321
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Of what are you speaking? You clearly think that we must first investigate what people mean by the word \"being.\"",
+          "lineStart": 1324
+        },
+        {
+          "type": "para",
+          "text": "Str. You follow close at heels, Theaetetus. For the right method, I conceive, will be to call into our presence the dualistic philosophers and to interrogate them. \"Come,\" we will say, \"Ye, who affirm that hot and cold or any other two principles are the universe, what is this term which you apply to both of them, and what do you mean when you say that both and each of them 'are'? How are we to understand the word 'are'? Upon your view, are we to suppose that there is a third principle over and above the other two-three in all, and not two? For clearly you cannot say that one of the two principles is being, and yet attribute being equally to both of them; for, if you did, whichever of the two is identified with being, will comprehend the other; and so they will be one and not two.\"",
+          "lineStart": 1327
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Very true.",
+          "lineStart": 1339
+        },
+        {
+          "type": "para",
+          "text": "Str. But perhaps you mean to give the name of \"being\" to both of them together?",
+          "lineStart": 1340
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Quite likely. Str. \"Then, friends,\" we shall reply to them, \"the answer is plainly that the two will still be resolved into one.\"",
+          "lineStart": 1342
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Most true. Str. \"Since then, we are in a difficulty, please to tell us what you mean, when you speak of being; for there can be no doubt that you always from the first understood your own meaning, whereas we once thought that we understood you, but now we are in a great strait. Please to begin by explaining this matter to us, and let us no longer fancy that we understand you, when we entirely misunderstand you.\" There will be no impropriety in our demanding an answer to this question, either of the dualists or of the pluralists?",
+          "lineStart": 1345
+        },
+        {
+          "type": "para",
+          "text": "Theaet. Certainly not.",
+          "lineStart": 1354
+        },
+        {
+          "type": "para",
+          "text": "Str. And what about the assertors of the oneness of the all-must we not endeavour to ascertain from them what they mean by \"being\"?",
+          "lineStart": 1355
+        },
+        {
+          "type": "para",
+          "text": "Theaet. By all means.",
+          "lineStart": 1358
+        },
+        {
+          "type": "para",
+          "text": "Str. Then let them answer this question: One, you say, alone is? \"Yes,\" they will reply.",
+          "lineStart": 1359
+        },
+        {
+          "type": "para",
+          "text": "Theaet. True.",
+          "lineStart": 1361
+        },
+        {
+          "type": "para",
+          "text": "Str. And there is something which you call \"being\"? Theaet. \"Yes.\"",
+          "lineStart": 1362
+        },
+        {
+          "type": "para",
+          "text": "Str. And is being the same as one, and do you apply two names to the same thing?",
+          "lineStart": 1365
+        },
+        {
+          "type": "para",
+          "text": "Theaet. What will be their answer, Stranger?",
+          "lineStart": 1367
+        },
+        {
+          "type": "para",
+          "text": "Str. It is clear, Theaetetus, that he who asserts the unity",
+          "lineStart": 1368
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 591,
+    "wordCount": 11424
+  }
+}

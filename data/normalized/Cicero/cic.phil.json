@@ -1,0 +1,56 @@
+{
+  "id": "Cicero/cic.phil",
+  "author": "Cicero",
+  "authorKey": "Cicero",
+  "title": "Philippics",
+  "translator": null,
+  "language": "Latin",
+  "written": null,
+  "sourceNote": "From the Perseus Project",
+  "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "ambiguous: only 1 interior citation lines; defaulted to prose",
+  "textModeStats": {
+    "lineCount": 3,
+    "paragraphCount": 2,
+    "interiorLineCount": 1,
+    "medianLineLength": 10.0,
+    "meanLineLength": 172.33333333333334,
+    "longInteriorLineRatio": 0.0,
+    "unterminatedInteriorLineRatio": 1.0,
+    "longUnterminatedInteriorLineRatio": 0.0,
+    "explicitBreakLineRatio": 0.0,
+    "unmarkedLineRatio": 0.6666666666666666
+  },
+  "landingUrl": "https://classics.mit.edu/Cicero/cic.phil.html",
+  "textUrls": [
+    "https://classics.mit.edu/Cicero/cic.phil.html"
+  ],
+  "txtUrl": null,
+  "sections": [
+    {
+      "seq": 1,
+      "id": "cic.phil-philippics",
+      "heading": "Philippics",
+      "partTitle": "Philippics",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Philippics",
+          "lineStart": 1
+        },
+        {
+          "type": "para",
+          "text": "By Cicero This work is only provided via the Perseus Project at Tufts University. You may begin reading the English translation as well as the Latin version and a Latin version with morphological links . If you have any questions about the Perseus Project texts in the Internet Classics Archive, including the Perseus Project copyright notice , please consult the help pages . Please direct any inquiries about the texts themselves to the Perseus Project Webmaster at webmaster@perseus.tufts.edu. © 1994-2009",
+          "lineStart": 2
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 1,
+    "wordCount": 80
+  }
+}

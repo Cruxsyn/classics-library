@@ -1,0 +1,34 @@
+{
+  "id": "Isocrates/isoc.13",
+  "author": "Isocrates",
+  "authorKey": "Isocrates",
+  "title": "Against the Sophists",
+  "translator": "George Norlin",
+  "language": "Greek",
+  "written": null,
+  "sourceNote": "From the Perseus Project",
+  "shape": "multi",
+  "textMode": "prose",
+  "textModeReason": "ambiguous: only 0 interior citation lines; defaulted to prose",
+  "textModeStats": {
+    "lineCount": 0,
+    "paragraphCount": 0,
+    "interiorLineCount": 0,
+    "medianLineLength": 0.0,
+    "meanLineLength": 0.0,
+    "longInteriorLineRatio": 0.0,
+    "unterminatedInteriorLineRatio": 0.0,
+    "longUnterminatedInteriorLineRatio": 0.0,
+    "explicitBreakLineRatio": 0.0,
+    "unmarkedLineRatio": 0.0
+  },
+  "landingUrl": "https://classics.mit.edu/Isocrates/isoc.13.html",
+  "textUrls": [],
+  "txtUrl": null,
+  "sections": [],
+  "stats": {
+    "sectionCount": 0,
+    "paragraphCount": 0,
+    "wordCount": 0
+  }
+}

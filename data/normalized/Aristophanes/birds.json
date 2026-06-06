@@ -1,0 +1,4664 @@
+{
+  "id": "Aristophanes/birds",
+  "author": "Aristophanes",
+  "authorKey": "Aristophanes",
+  "title": "The Birds",
+  "translator": null,
+  "language": "Greek",
+  "written": "414 BCE",
+  "sourceNote": null,
+  "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "ambiguous: 0.306 long unterminated interior lines, median line length 30.0, 0.001 explicit breaks; defaulted to prose",
+  "textModeStats": {
+    "lineCount": 1408,
+    "paragraphCount": 4,
+    "interiorLineCount": 1404,
+    "medianLineLength": 30.0,
+    "meanLineLength": 36.97301136363637,
+    "longInteriorLineRatio": 0.38746438746438744,
+    "unterminatedInteriorLineRatio": 0.6545584045584045,
+    "longUnterminatedInteriorLineRatio": 0.30626780626780625,
+    "explicitBreakLineRatio": 0.0007102272727272727,
+    "unmarkedLineRatio": 0.9971590909090909
+  },
+  "landingUrl": "https://classics.mit.edu/Aristophanes/birds.html",
+  "textUrls": [
+    "https://classics.mit.edu/Aristophanes/birds.html"
+  ],
+  "txtUrl": "https://classics.mit.edu/Aristophanes/birds.pl.txt",
+  "sections": [
+    {
+      "seq": 1,
+      "id": "birds-the-birds",
+      "heading": "The Birds",
+      "partTitle": "The Birds",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Dramatis Personae",
+          "lineStart": 10
+        },
+        {
+          "type": "para",
+          "text": "EUELPIDES PITHETAERUS TROCHILUS, Servant to Epops Epops (the Hoopoe) A BIRD A HERALD A PRIEST A POET AN ORACLE-MONGER METON, a Geometrician AN INSPECTOR A DEALER IN DECREES IRIS A PARRICIDE CINESIAS, a Dithyrambic Poet AN INFORMER PROMETHEUS POSIDON TRIBALLUS HERACLES SLAVES OF PITHETAERUS MESSENGERS CHORUS OF BIRDS Scene A wild and desolate region; only thickets, rocks, and a single tree are seen. EUELPIDES and PITHETAERUS enter, each with a bird in his hand.",
+          "lineStart": 11
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 35
+        },
+        {
+          "type": "para",
+          "text": "to his jay Do you think I should walk straight for yon tree?",
+          "lineStart": 36
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 38
+        },
+        {
+          "type": "para",
+          "text": "to his crow Cursed beast, what are you croaking to me?...to retrace my steps?",
+          "lineStart": 39
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 41
+        },
+        {
+          "type": "para",
+          "text": "Why, you wretch, we are wandering at random, we are exerting ourselves only to return to the same spot; we're wasting our time.",
+          "lineStart": 42
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 44
+        },
+        {
+          "type": "para",
+          "text": "To think that I should trust to this crow, which has made me cover more than a thousand furlongs!",
+          "lineStart": 45
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 47
+        },
+        {
+          "type": "para",
+          "text": "And that I, in obedience to this jay, should have worn my toes down to the nails!",
+          "lineStart": 48
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 50
+        },
+        {
+          "type": "para",
+          "text": "If only I knew where we were....",
+          "lineStart": 51
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 52
+        },
+        {
+          "type": "para",
+          "text": "Could you find your country again from here?",
+          "lineStart": 53
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 54
+        },
+        {
+          "type": "para",
+          "text": "No, I feel quite sure I could not, any more than could Execestides find his.",
+          "lineStart": 55
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 57
+        },
+        {
+          "type": "para",
+          "text": "Alas!",
+          "lineStart": 58
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 59
+        },
+        {
+          "type": "para",
+          "text": "Aye, aye, my friend, it's surely the road of \"alases\" we are following.",
+          "lineStart": 60
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 62
+        },
+        {
+          "type": "para",
+          "text": "That Philocrates, the bird-seller, played us a scurvy trick, when he pretended these two guides could help us to find Tereus, the Epops, who is a bird, without being born of one. He has indeed sold us this jay, a true son of Tharrhelides, for an obolus, and this crow for three, but what can they do? Why, nothing whatever but bite and scratch! To his jay What's the matter with you then, that you keep opening your beak? Do you want us to fling ourselves headlong down these rocks? There is no road that way.",
+          "lineStart": 63
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 73
+        },
+        {
+          "type": "para",
+          "text": "Not even the vestige of a trail in any direction",
+          "lineStart": 74
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 75
+        },
+        {
+          "type": "para",
+          "text": "And what does the crow say about the road to follow?",
+          "lineStart": 76
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 77
+        },
+        {
+          "type": "para",
+          "text": "By Zeus, it no longer croaks the same thing it did.",
+          "lineStart": 78
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 79
+        },
+        {
+          "type": "para",
+          "text": "And which way does it tell us to go now?",
+          "lineStart": 80
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 81
+        },
+        {
+          "type": "para",
+          "text": "It says that, by dint of gnawing, it will devour my fingers.",
+          "lineStart": 82
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 83
+        },
+        {
+          "type": "para",
+          "text": "What misfortune is ours! we strain every nerve to get to the crows, do everything we can to that end, and we cannot find our way! Yes, spectators, our madness is quite different from that of Sacas. He is not a citizen, and would fain be one at any cost; we, on the contrary, born of an honourable tribe and family and living in the midst of our fellow-citizens, we have fled from our country as hard as ever we could go. It's not that we hate it; we recognize it to be great and rich, likewise that everyone has the right to ruin himself paying taxes; but the crickets only chirrup among the fig-trees for a month or two, whereas the Athenians spend their whole lives in chanting forth judgments from their law-courts. That is why we started off with a basket, a stew-pot and some myrtle boughs! and have come to seek a quiet country in which to settle. We are going to Tereus, the Epops, to learn from him, whether, in his aerial flights, he has noticed some town of this kind.",
+          "lineStart": 84
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 98
+        },
+        {
+          "type": "para",
+          "text": "Here! look!",
+          "lineStart": 99
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 100
+        },
+        {
+          "type": "para",
+          "text": "What's the matter?",
+          "lineStart": 101
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 102
+        },
+        {
+          "type": "para",
+          "text": "Why, the crow has been directing me to something up there for some time now.",
+          "lineStart": 103
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 105
+        },
+        {
+          "type": "para",
+          "text": "And the jay is also opening it beak and craning its neck to show me I know not what. Clearly, there are some birds about here. We shall soon know, if we kick up a noise to start them.",
+          "lineStart": 106
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 109
+        },
+        {
+          "type": "para",
+          "text": "Do you know what to do? Knock your leg against this rock.",
+          "lineStart": 110
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 111
+        },
+        {
+          "type": "para",
+          "text": "And you your head to double the noise.",
+          "lineStart": 112
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 113
+        },
+        {
+          "type": "para",
+          "text": "Well then use a stone instead; take one and hammer with it.",
+          "lineStart": 114
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 115
+        },
+        {
+          "type": "para",
+          "text": "Good idea! He does so. Ho there, within! Slave! slave!",
+          "lineStart": 116
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 119
+        },
+        {
+          "type": "para",
+          "text": "What's that, friend! You say, \"slave,\" to summon Epops? It would be much better to shout, \"Epops, Epops!",
+          "lineStart": 120
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 122
+        },
+        {
+          "type": "para",
+          "text": "Well then, Epops! Must I knock again? Epops!",
+          "lineStart": 123
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TROCHILUS",
+          "lineStart": 124
+        },
+        {
+          "type": "para",
+          "text": "rushing out of a thicket Who's there? Who calls my master?",
+          "lineStart": 125
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 127
+        },
+        {
+          "type": "para",
+          "text": "in terror Apollo the Deliverer! what an enormous beak! He defecates. In the confusion both the jay and the crow fly away.",
+          "lineStart": 128
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TROCHILUS",
+          "lineStart": 132
+        },
+        {
+          "type": "para",
+          "text": "equally frightened Good god! they are bird-catchers.",
+          "lineStart": 133
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 135
+        },
+        {
+          "type": "para",
+          "text": "reassuring himself But is it so terrible? Wouldn't it be better to explain things?",
+          "lineStart": 136
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TROCHILUS",
+          "lineStart": 138
+        },
+        {
+          "type": "para",
+          "text": "also reassuring himself You're done for.",
+          "lineStart": 139
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 141
+        },
+        {
+          "type": "para",
+          "text": "But we are not men.",
+          "lineStart": 142
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TROCHILUS",
+          "lineStart": 143
+        },
+        {
+          "type": "para",
+          "text": "What are you, then?",
+          "lineStart": 144
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 145
+        },
+        {
+          "type": "para",
+          "text": "defecating also I am the Fearling, an African bird.",
+          "lineStart": 146
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TROCHILUS",
+          "lineStart": 148
+        },
+        {
+          "type": "para",
+          "text": "You talk nonsense.",
+          "lineStart": 149
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 150
+        },
+        {
+          "type": "para",
+          "text": "Well, then, just ask it of my feet.",
+          "lineStart": 151
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TROCHILUS",
+          "lineStart": 152
+        },
+        {
+          "type": "para",
+          "text": "And this other one, what bird is it? To PITHETAERUS Speak up",
+          "lineStart": 153
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 156
+        },
+        {
+          "type": "para",
+          "text": "weakly I? I am a Crapple, from the land of the pheasants.",
+          "lineStart": 157
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 159
+        },
+        {
+          "type": "para",
+          "text": "But you yourself, in the name of the gods! what animal are you?",
+          "lineStart": 160
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TROCHILUS",
+          "lineStart": 162
+        },
+        {
+          "type": "para",
+          "text": "Why, I am a slave-bird.",
+          "lineStart": 163
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 164
+        },
+        {
+          "type": "para",
+          "text": "Why, have you been conquered by a cock?",
+          "lineStart": 165
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TROCHILUS",
+          "lineStart": 166
+        },
+        {
+          "type": "para",
+          "text": "No, but when my master was turned into a hoopoe, he begged me to become a bird also, to follow and to serve him.",
+          "lineStart": 167
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 169
+        },
+        {
+          "type": "para",
+          "text": "Does a bird need a servant, then?",
+          "lineStart": 170
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TROCHILUS",
+          "lineStart": 171
+        },
+        {
+          "type": "para",
+          "text": "That's no doubt because he was once a man. At times he wants to eat a dish of sardines from Phalerum; I seize my dish and fly to fetch him some. Again he wants some pea-soup; I seize a ladle and a pot and run to get it.",
+          "lineStart": 172
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 176
+        },
+        {
+          "type": "para",
+          "text": "This is, then, truly a running-bird. Come, Trochilus, do us the kindness to call your master.",
+          "lineStart": 177
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TROCHILUS",
+          "lineStart": 179
+        },
+        {
+          "type": "para",
+          "text": "Why, he has just fallen asleep after a feed of myrtle-berries and a few grubs.",
+          "lineStart": 180
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 182
+        },
+        {
+          "type": "para",
+          "text": "Never mind; wake him up.",
+          "lineStart": 183
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "TROCHILUS",
+          "lineStart": 184
+        },
+        {
+          "type": "para",
+          "text": "I an; certain he will be angry. However, I will wake him to please you. He goes back into the thicket.",
+          "lineStart": 185
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 188
+        },
+        {
+          "type": "para",
+          "text": "as soon as TROCHILUS is out of sight You cursed brute! why, I am almost dead with terror!",
+          "lineStart": 189
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 191
+        },
+        {
+          "type": "para",
+          "text": "Oh! my god! it was sheer fear that made me lose my jay.",
+          "lineStart": 192
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 193
+        },
+        {
+          "type": "para",
+          "text": "Ah! you big coward! were you so frightened that you let go your jay?",
+          "lineStart": 194
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 196
+        },
+        {
+          "type": "para",
+          "text": "And did you not lose your crow, when you fell sprawling on the ground? Tell me that.",
+          "lineStart": 197
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 199
+        },
+        {
+          "type": "para",
+          "text": "Not at all.",
+          "lineStart": 200
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 201
+        },
+        {
+          "type": "para",
+          "text": "Where is it, then?",
+          "lineStart": 202
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 203
+        },
+        {
+          "type": "para",
+          "text": "It flew away.",
+          "lineStart": 204
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 205
+        },
+        {
+          "type": "para",
+          "text": "And you did not let it go? Oh! you brave fellow!",
+          "lineStart": 206
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 207
+        },
+        {
+          "type": "para",
+          "text": "from within Open the thicket, that I may go out! He comes out of the thicket.",
+          "lineStart": 208
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 211
+        },
+        {
+          "type": "para",
+          "text": "By Heracles! what a creature! what plumage! What means this triple crest?",
+          "lineStart": 212
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 214
+        },
+        {
+          "type": "para",
+          "text": "Who wants me?",
+          "lineStart": 215
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 216
+        },
+        {
+          "type": "para",
+          "text": "banteringly The twelve great gods have used you ill, it seems.",
+          "lineStart": 217
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 219
+        },
+        {
+          "type": "para",
+          "text": "Are you twitting me about my feathers? I have been a man, strangers.",
+          "lineStart": 220
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 221
+        },
+        {
+          "type": "para",
+          "text": "It's not you we are jeering at.",
+          "lineStart": 222
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 223
+        },
+        {
+          "type": "para",
+          "text": "At what, then?",
+          "lineStart": 224
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 225
+        },
+        {
+          "type": "para",
+          "text": "Why, it's your beak that looks so ridiculous to us.",
+          "lineStart": 226
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 227
+        },
+        {
+          "type": "para",
+          "text": "This is how Sophocles outrages me in his tragedies. Know, I once was Tereus.",
+          "lineStart": 228
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 230
+        },
+        {
+          "type": "para",
+          "text": "You were Tereus, and what are you now? a bird or a peacock?",
+          "lineStart": 231
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 232
+        },
+        {
+          "type": "para",
+          "text": "I am a bird.",
+          "lineStart": 233
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 234
+        },
+        {
+          "type": "para",
+          "text": "Then where are your feathers? I don't see any.",
+          "lineStart": 235
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 236
+        },
+        {
+          "type": "para",
+          "text": "They have fallen off.",
+          "lineStart": 237
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 238
+        },
+        {
+          "type": "para",
+          "text": "Through illness?",
+          "lineStart": 239
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 240
+        },
+        {
+          "type": "para",
+          "text": "No. All birds moult their feathers, you know, every winter, and others grow in their place. But tell me, who are you?",
+          "lineStart": 241
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 243
+        },
+        {
+          "type": "para",
+          "text": "We? We are mortals.",
+          "lineStart": 244
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 245
+        },
+        {
+          "type": "para",
+          "text": "From what country?",
+          "lineStart": 246
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 247
+        },
+        {
+          "type": "para",
+          "text": "From the land of the beautful galleys.",
+          "lineStart": 248
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 249
+        },
+        {
+          "type": "para",
+          "text": "Are you dicasts?",
+          "lineStart": 250
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 251
+        },
+        {
+          "type": "para",
+          "text": "No, if anything, we are anti-dicasts.",
+          "lineStart": 252
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 253
+        },
+        {
+          "type": "para",
+          "text": "Is that kind of seed sown among you?",
+          "lineStart": 254
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 255
+        },
+        {
+          "type": "para",
+          "text": "You have to look hard to find even a little in our fields.",
+          "lineStart": 256
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 257
+        },
+        {
+          "type": "para",
+          "text": "What brings you here?",
+          "lineStart": 258
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 259
+        },
+        {
+          "type": "para",
+          "text": "We wish to pay you a visit.",
+          "lineStart": 260
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 261
+        },
+        {
+          "type": "para",
+          "text": "What for?",
+          "lineStart": 262
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 263
+        },
+        {
+          "type": "para",
+          "text": "Because you formerly were a man, like we are, formerly you had debts, as we have, formerly you did not want to pay them, like ourselves; furthermore, being turned into a bird, you have when flying seen all lands and seas. Thus you have all human knowledge as well as that of birds. And hence we have come to you to beg you to direct us to some cosy town, in which one can repose as if on thick coverlets.",
+          "lineStart": 264
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 270
+        },
+        {
+          "type": "para",
+          "text": "And are you looking for a greater city than Athens?",
+          "lineStart": 271
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 272
+        },
+        {
+          "type": "para",
+          "text": "No, not a greater, but one more pleasant to live in.",
+          "lineStart": 273
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 274
+        },
+        {
+          "type": "para",
+          "text": "Then you are looking for an aristocratic country.",
+          "lineStart": 275
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 276
+        },
+        {
+          "type": "para",
+          "text": "I? Not at all! I hold the son of Scellias in horror.",
+          "lineStart": 277
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 278
+        },
+        {
+          "type": "para",
+          "text": "But, after all, what sort of city would please you best?",
+          "lineStart": 279
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 280
+        },
+        {
+          "type": "para",
+          "text": "A place where the following would be the most important business: transacted.-Some friend would come knocking at the door quite early in the morning saying, \"By Olympian Zeus, be at my house early. as soon as you have bathed, and bring your children too. I am giving a feast, so don't fail, or else don't cross my threshold when I am in distress.\"",
+          "lineStart": 281
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 286
+        },
+        {
+          "type": "para",
+          "text": "Ah! that's what may be called being fond of hardships! To PITHETAERUS And what say you?",
+          "lineStart": 287
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 291
+        },
+        {
+          "type": "para",
+          "text": "My tastes are similar.",
+          "lineStart": 292
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 293
+        },
+        {
+          "type": "para",
+          "text": "And they are?",
+          "lineStart": 294
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 295
+        },
+        {
+          "type": "para",
+          "text": "I want a town where the father of a handsome lad will stop in the street and say to me reproachfully as if I had failed him, \"Ah! Is this well done, Stilbonides? You met my son coming from the bath after the gymnasium and you neither spoke to him, nor kissed him, nor took him with you, nor ever once felt his balls. Would anyone call you an old friend of mine?\"",
+          "lineStart": 296
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 302
+        },
+        {
+          "type": "para",
+          "text": "Ah! wag, I see you are fond of suffering. But there is a city of delights such as you want. It's on the Red Sea.",
+          "lineStart": 303
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 305
+        },
+        {
+          "type": "para",
+          "text": "Oh, no. Not a sea-port, where some fine morning the Salaminian galley can appear, bringing a process-server along. Have you no Greek town you can propose to us?",
+          "lineStart": 306
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 309
+        },
+        {
+          "type": "para",
+          "text": "Why not choose Lepreum in Elis for your settlement?",
+          "lineStart": 310
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 311
+        },
+        {
+          "type": "para",
+          "text": "By Zeus! I could not look at Lepreum without disgust, because of Melanthius.",
+          "lineStart": 312
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 314
+        },
+        {
+          "type": "para",
+          "text": "Then, again, there is the Opuntian Locris, where you could live.",
+          "lineStart": 315
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 317
+        },
+        {
+          "type": "para",
+          "text": "I would not be Opuntian for a talent. But come, what is it like to live with the birds? You should know pretty well.",
+          "lineStart": 318
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 320
+        },
+        {
+          "type": "para",
+          "text": "Why, it's not a disagreeable life. In the first place, one has no purse.",
+          "lineStart": 321
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 323
+        },
+        {
+          "type": "para",
+          "text": "That does away with a lot of roguery.",
+          "lineStart": 324
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 325
+        },
+        {
+          "type": "para",
+          "text": "For food the gardens yield us white sesame, myrtle-berries, poppies and mint.",
+          "lineStart": 326
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 328
+        },
+        {
+          "type": "para",
+          "text": "Why, 'tis the life of the newly-wed indeed.",
+          "lineStart": 329
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 330
+        },
+        {
+          "type": "para",
+          "text": "Ha! I am beginning to see a great plan, which will transfer the supreme power to the birds, if you will but take my advice.",
+          "lineStart": 331
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 333
+        },
+        {
+          "type": "para",
+          "text": "Take your advice? In what way?",
+          "lineStart": 334
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 335
+        },
+        {
+          "type": "para",
+          "text": "In what way? Well, firstly, do not fly in all directions with open beak; it is not dignified. Among us, when we see a thoughtless man, we ask, \"What sort of bird is this?\" and Teleas answers, \"It's a man who has no brain, a bird that has lost his head, a creature you cannot catch, for it never remains in any one place.\"",
+          "lineStart": 336
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 341
+        },
+        {
+          "type": "para",
+          "text": "By Zeus himself! your jest hits the mark. What then is to be done?",
+          "lineStart": 342
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 344
+        },
+        {
+          "type": "para",
+          "text": "Found a city.",
+          "lineStart": 345
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 346
+        },
+        {
+          "type": "para",
+          "text": "We birds? But what sort of city should we build?",
+          "lineStart": 347
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 348
+        },
+        {
+          "type": "para",
+          "text": "Oh, really, really! you talk like such a fool! Look down.",
+          "lineStart": 349
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 350
+        },
+        {
+          "type": "para",
+          "text": "I am looking.",
+          "lineStart": 351
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 352
+        },
+        {
+          "type": "para",
+          "text": "Now look up.",
+          "lineStart": 353
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 354
+        },
+        {
+          "type": "para",
+          "text": "I am looking.",
+          "lineStart": 355
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 356
+        },
+        {
+          "type": "para",
+          "text": "Turn your head round.",
+          "lineStart": 357
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 358
+        },
+        {
+          "type": "para",
+          "text": "Ah! it will be pleasant for me if I end in twisting my neck of!",
+          "lineStart": 359
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 361
+        },
+        {
+          "type": "para",
+          "text": "What have you seen?",
+          "lineStart": 362
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 363
+        },
+        {
+          "type": "para",
+          "text": "The clouds and the sky.",
+          "lineStart": 364
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 365
+        },
+        {
+          "type": "para",
+          "text": "Very well! is not this the pole of the birds then?",
+          "lineStart": 366
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 367
+        },
+        {
+          "type": "para",
+          "text": "How their pole?",
+          "lineStart": 368
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 369
+        },
+        {
+          "type": "para",
+          "text": "Or, if you like it, their place. And since it turns and passes through the whole universe, it is called 'pole.' If you build and fortify it, you will turn your pole into a city. In this way you will reign over mankind as you do over the grasshoppers and you will cause the gods to die of rabid hunger",
+          "lineStart": 370
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 375
+        },
+        {
+          "type": "para",
+          "text": "How so?",
+          "lineStart": 376
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 377
+        },
+        {
+          "type": "para",
+          "text": "The air is between earth and heaven. When we want to go to Delphi, we ask the Boeotians for leave of passage; in the same way, when men sacrifice to the gods, unless the latter pay you tribute, you exercise the right of every nation towards strangers and don't allow the smoke of the sacrifices to pass through your city and territory.",
+          "lineStart": 378
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 383
+        },
+        {
+          "type": "para",
+          "text": "By earth! by snares! by network! by cages! I never heard of anything more cleverly conceived; and, if the other birds approve, I am going to build the city along with you.",
+          "lineStart": 384
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 387
+        },
+        {
+          "type": "para",
+          "text": "Who will explain the matter to them?",
+          "lineStart": 388
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 389
+        },
+        {
+          "type": "para",
+          "text": "You must yourself. Before I came they were quite ignorant, but since have lived with them I have taught them to speak.",
+          "lineStart": 390
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 392
+        },
+        {
+          "type": "para",
+          "text": "But how can they be gathered together?",
+          "lineStart": 393
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 394
+        },
+        {
+          "type": "para",
+          "text": "Easily. I will hasten down to the thicket to waken my dear Procne and as soon as they hear our voices, they will come to us hot wing.",
+          "lineStart": 395
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 397
+        },
+        {
+          "type": "para",
+          "text": "My dear bird, lose no time, please! Fly at once into the thicket and awaken Procne. EPOPS rushes into the thicket.",
+          "lineStart": 398
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 401
+        },
+        {
+          "type": "para",
+          "text": "from within; singing Chase off drowsy sleep, dear companion. Let the sacred hymn gush from thy divine throat in melodious strains; roll forth in soft cadence your refreshing melodies to bewail the fate of Itys, which has been the cause of so many tears to us both. Your pure notes rise through the thick leaves of the yew-tree right up to the throne of Zeus, where Phoebus listens to you, Phoebus with his golden hair. And his ivory lyre responds to your plaintive accents; he gathers the choir of the gods and from their immortal lips pours forth a sacred chant of blessed voices. The flute is played behind the scene, imitating the song of the nightingale.",
+          "lineStart": 402
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 413
+        },
+        {
+          "type": "para",
+          "text": "Oh! by Zeus! what a throat that little bird possesses. He has filled the whole thicket with honey-sweet melody!",
+          "lineStart": 414
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 416
+        },
+        {
+          "type": "para",
+          "text": "Hush!",
+          "lineStart": 417
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 418
+        },
+        {
+          "type": "para",
+          "text": "What's the matter?",
+          "lineStart": 419
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 420
+        },
+        {
+          "type": "para",
+          "text": "Be still!",
+          "lineStart": 421
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 422
+        },
+        {
+          "type": "para",
+          "text": "What for?",
+          "lineStart": 423
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 424
+        },
+        {
+          "type": "para",
+          "text": "Epops is going to sing again.",
+          "lineStart": 425
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 426
+        },
+        {
+          "type": "para",
+          "text": "in the thicket, singing Epopopoi popoi popopopoi popoi, here, here, quick, quick, quick, my comrades in the air; all you who pillage the fertile lands of the husbandmen, the numberless tribes who gather and devour the barley seeds, the swift flying race that sings so sweetly. And you whose gentle twitter resounds through the fields with the little cry of tiotictiotiotiotiotiotio; and you who hop about the branches of the ivy in the gardens; the mountain birds, who feed on the wild olive-berries or the arbutus, hurry to come at my call, trioto, trioto, totobrix; you also, who snap up the sharp-stinging gnats in the marshy vales, and you who dwell in the fine plain of Marathon, all damp with dew, and you, the francolin with speckled wings; you too, the halcyons, who flit over the swelling waves of the sea, come hither to hear the tidings; let all the tribes of long-necked birds assemble here; know that a clever old man has come to us, bringing an entirely new idea and proposing great reforms. Let all come to the debate here, here, here, here. Torotorotorotorotix, kikkabau, kikkabau, torotorotorolililix.",
+          "lineStart": 427
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 443
+        },
+        {
+          "type": "para",
+          "text": "Can you see any bird?",
+          "lineStart": 444
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 445
+        },
+        {
+          "type": "para",
+          "text": "By Phoebus, no! and yet I am straining my eyesight to scan the sky.",
+          "lineStart": 446
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 448
+        },
+        {
+          "type": "para",
+          "text": "It was hardly worth Epops' while to go and bury himself in the thicket like a hatching plover.",
+          "lineStart": 449
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "A BIRD",
+          "lineStart": 451
+        },
+        {
+          "type": "para",
+          "text": "entering Torotix, torotix.",
+          "lineStart": 452
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 454
+        },
+        {
+          "type": "para",
+          "text": "Wait, friend, there's a bird.",
+          "lineStart": 455
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 456
+        },
+        {
+          "type": "para",
+          "text": "By Zeus, it is a bird, but what kind? Isn't it a peacock?",
+          "lineStart": 457
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 458
+        },
+        {
+          "type": "para",
+          "text": "as EPOPS comes out of the thicket Epops will tell us. What is this bird?",
+          "lineStart": 459
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 461
+        },
+        {
+          "type": "para",
+          "text": "It's not one of those you are used to seeing; it's a bird from the marshes.",
+          "lineStart": 462
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 464
+        },
+        {
+          "type": "para",
+          "text": "Oh! oh! but he is very handsome with his wings as crimson as flame.",
+          "lineStart": 465
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 467
+        },
+        {
+          "type": "para",
+          "text": "Undoubtedly; indeed he is called flamingo.",
+          "lineStart": 468
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 469
+        },
+        {
+          "type": "para",
+          "text": "excitedly Hi! I say! You!",
+          "lineStart": 470
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 472
+        },
+        {
+          "type": "para",
+          "text": "What are you shouting for?",
+          "lineStart": 473
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 474
+        },
+        {
+          "type": "para",
+          "text": "Why, here's another bird.",
+          "lineStart": 475
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 476
+        },
+        {
+          "type": "para",
+          "text": "Aye, indeed; this one's a foreign bird too. To EPOPS What is this bird from beyond the mountains with a look as solemn as it is stupid?",
+          "lineStart": 477
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 482
+        },
+        {
+          "type": "para",
+          "text": "He is called the Mede.",
+          "lineStart": 483
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 484
+        },
+        {
+          "type": "para",
+          "text": "The Mede! But, by Heracles, how, if a Mede, has he flown here without a camel?",
+          "lineStart": 485
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 487
+        },
+        {
+          "type": "para",
+          "text": "Here's another bird with a crest. From here on, the numerous birds that make up the CHORUS keep rushing in.",
+          "lineStart": 488
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 491
+        },
+        {
+          "type": "para",
+          "text": "Ah! that's curious. I say, Epops, you are not the only one of your kind then?",
+          "lineStart": 492
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 494
+        },
+        {
+          "type": "para",
+          "text": "This bird is the son of Philocles, who is the son of Epops; so that, you see, I am his grandfather; just as one might say, Hipponicus, the son of Callias, who is the son of Hipponicus.",
+          "lineStart": 495
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 498
+        },
+        {
+          "type": "para",
+          "text": "Then this bird is Callias! Why, what a lot of his feathers he has lost!",
+          "lineStart": 499
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 501
+        },
+        {
+          "type": "para",
+          "text": "That's because he is honest; so the informers set upon him and the women too pluck out his feathers.",
+          "lineStart": 502
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 504
+        },
+        {
+          "type": "para",
+          "text": "By Posidon, do you see that many-coloured bird? What is his name?",
+          "lineStart": 505
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 507
+        },
+        {
+          "type": "para",
+          "text": "This one? That's the glutton.",
+          "lineStart": 508
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 509
+        },
+        {
+          "type": "para",
+          "text": "Is there another glutton besides Cleonymus? But why, if he is Cleonymus, has he not thrown away his crest? But what is the meaning of all these crests? Have these birds come to contend for the double stadium prize?",
+          "lineStart": 510
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 514
+        },
+        {
+          "type": "para",
+          "text": "They are like the Carians, who cling to the crests of their mountains for greater safety.",
+          "lineStart": 515
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 517
+        },
+        {
+          "type": "para",
+          "text": "Oh, Posidon! look what awful swarms of birds are gathering here!",
+          "lineStart": 518
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 520
+        },
+        {
+          "type": "para",
+          "text": "By Phoebus! what a cloud! The entrance to the stage is no longer visible, so closely do they fly together.",
+          "lineStart": 521
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 523
+        },
+        {
+          "type": "para",
+          "text": "Here is the partridge.",
+          "lineStart": 524
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 525
+        },
+        {
+          "type": "para",
+          "text": "Why, there is the francolin.",
+          "lineStart": 526
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 527
+        },
+        {
+          "type": "para",
+          "text": "There is the poachard.",
+          "lineStart": 528
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 529
+        },
+        {
+          "type": "para",
+          "text": "Here is the kingfisher. To EPOPS What's that bird behind the king fisher?",
+          "lineStart": 530
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 533
+        },
+        {
+          "type": "para",
+          "text": "That's the barber.",
+          "lineStart": 534
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 535
+        },
+        {
+          "type": "para",
+          "text": "What? a bird a barber?",
+          "lineStart": 536
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 537
+        },
+        {
+          "type": "para",
+          "text": "Why, Sporgilus is one.",
+          "lineStart": 538
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 539
+        },
+        {
+          "type": "para",
+          "text": "Here comes the owl.",
+          "lineStart": 540
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 541
+        },
+        {
+          "type": "para",
+          "text": "And who is it brings an owl to Athens?",
+          "lineStart": 542
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 543
+        },
+        {
+          "type": "para",
+          "text": "pointing to the various species Here is the magpie, the turtle-dove, the swallow, the horned-owl, the buzzard, the pigeon, the falcon, the ring-dove, the cuckoo, the red-foot, the red-cap, the purple-cap. the kestrel, the diver, the ousel, the osprey, the woodpecker...",
+          "lineStart": 544
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 548
+        },
+        {
+          "type": "para",
+          "text": "Oh! what a lot of birds!",
+          "lineStart": 549
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 550
+        },
+        {
+          "type": "para",
+          "text": "Oh! what a lot of blackbirds!",
+          "lineStart": 551
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 552
+        },
+        {
+          "type": "para",
+          "text": "How they scold, how they come rushing up! What a noise! what a noise!",
+          "lineStart": 553
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 555
+        },
+        {
+          "type": "para",
+          "text": "Can they be bearing us ill-will?",
+          "lineStart": 556
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 557
+        },
+        {
+          "type": "para",
+          "text": "Oh! there! there! they are opening their beaks and staring at us.",
+          "lineStart": 558
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 560
+        },
+        {
+          "type": "para",
+          "text": "Why, so they are.",
+          "lineStart": 561
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 562
+        },
+        {
+          "type": "para",
+          "text": "Popopopopopo. Where is he who called me? Where am I to find him?",
+          "lineStart": 563
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 565
+        },
+        {
+          "type": "para",
+          "text": "I have been waiting for you a long while! I never fail in my word to my friends.",
+          "lineStart": 566
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 568
+        },
+        {
+          "type": "para",
+          "text": "Tititititititi. What good news have you for me?",
+          "lineStart": 569
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 570
+        },
+        {
+          "type": "para",
+          "text": "Something that concerns our common safety, and that is just as pleasant as it is to the point. Two men, who are subtle reasoners, have come here to seek me.",
+          "lineStart": 571
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 574
+        },
+        {
+          "type": "para",
+          "text": "Where? How? What are you saying?",
+          "lineStart": 575
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 576
+        },
+        {
+          "type": "para",
+          "text": "I say, two old men have come from the abode of humans to propose a vast and splendid scheme to us.",
+          "lineStart": 577
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 579
+        },
+        {
+          "type": "para",
+          "text": "Oh! it's a horrible, unheard-of crime! What are you saying?",
+          "lineStart": 580
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 581
+        },
+        {
+          "type": "para",
+          "text": "Never let my words scare you.",
+          "lineStart": 582
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 583
+        },
+        {
+          "type": "para",
+          "text": "What have you done to me?",
+          "lineStart": 584
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 585
+        },
+        {
+          "type": "para",
+          "text": "I have welcomed two men, who wish to live with us.",
+          "lineStart": 586
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 587
+        },
+        {
+          "type": "para",
+          "text": "And you have dared to do that!",
+          "lineStart": 588
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 589
+        },
+        {
+          "type": "para",
+          "text": "Yes, and I am delighted at having done so.",
+          "lineStart": 590
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 591
+        },
+        {
+          "type": "para",
+          "text": "And are they already with us?",
+          "lineStart": 592
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 593
+        },
+        {
+          "type": "para",
+          "text": "Just as much as I am.",
+          "lineStart": 594
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 595
+        },
+        {
+          "type": "para",
+          "text": "singing Ah! ah! we are betrayed; 'tis sacrilege! Our friend, he who picked up corn-seeds in the same plains as ourselves, has violated our ancient laws; he has broken the oaths that bind all birds; he has laid a snare for me, he has handed us over to the attacks of that impious race which, throughout all time, has never ceased to war against us.",
+          "lineStart": 596
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 602
+        },
+        {
+          "type": "para",
+          "text": "As for this traitorous bird, we will decide his case later, but the two old men shall be punished forthwith; we are going to tear them to pieces.",
+          "lineStart": 603
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 606
+        },
+        {
+          "type": "para",
+          "text": "It's all over with us.",
+          "lineStart": 607
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 608
+        },
+        {
+          "type": "para",
+          "text": "You are the sole cause of all our trouble. Why did you bring me from down yonder?",
+          "lineStart": 609
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 611
+        },
+        {
+          "type": "para",
+          "text": "To have you with me.",
+          "lineStart": 612
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 613
+        },
+        {
+          "type": "para",
+          "text": "Say rather to have me melt into tears.",
+          "lineStart": 614
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 615
+        },
+        {
+          "type": "para",
+          "text": "Go on! you are talking nonsense. How will you weep with your eyes pecked out?",
+          "lineStart": 616
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 618
+        },
+        {
+          "type": "para",
+          "text": "singing Io! io! forward to the attack, throw yourselves upon the foe, spill his blood; take to your wings and surround them on all sides. Woe to them! let us get to work with our beaks, let us devour them. Nothing can save them from our wrath, neither the mountain forests, nor the clouds that float in the sky, nor the foaming deep.",
+          "lineStart": 619
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 625
+        },
+        {
+          "type": "para",
+          "text": "Come, peck, tear to ribbons. Where is the chief of the cohort? Let him engage the right wing. They rush at the two Athenians.",
+          "lineStart": 626
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 629
+        },
+        {
+          "type": "para",
+          "text": "This is the fatal moment. Where shall I fly to, unfortunate wretch that am?",
+          "lineStart": 630
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 632
+        },
+        {
+          "type": "para",
+          "text": "Wait! Stay here!",
+          "lineStart": 633
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 634
+        },
+        {
+          "type": "para",
+          "text": "That they may tear me to pieces?",
+          "lineStart": 635
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 636
+        },
+        {
+          "type": "para",
+          "text": "And how do you think to escape them?",
+          "lineStart": 637
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 638
+        },
+        {
+          "type": "para",
+          "text": "I don't know at all.",
+          "lineStart": 639
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 640
+        },
+        {
+          "type": "para",
+          "text": "Come, I will tell you. We must stop and fight them. Let us arm ourselves with these stew-pots.",
+          "lineStart": 641
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 643
+        },
+        {
+          "type": "para",
+          "text": "Why with the stew-pots?",
+          "lineStart": 644
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 645
+        },
+        {
+          "type": "para",
+          "text": "The owl will not attack us then.",
+          "lineStart": 646
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 647
+        },
+        {
+          "type": "para",
+          "text": "But do you see all those hooked claws?",
+          "lineStart": 648
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 649
+        },
+        {
+          "type": "para",
+          "text": "Take the spit and pierce the foe on your side.",
+          "lineStart": 650
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 651
+        },
+        {
+          "type": "para",
+          "text": "And how about my eyes?",
+          "lineStart": 652
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 653
+        },
+        {
+          "type": "para",
+          "text": "Protect them with this dish or this vinegar-pot.",
+          "lineStart": 654
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 655
+        },
+        {
+          "type": "para",
+          "text": "Oh! what cleverness! what inventive genius! You are a great general, even greater than Nicias, where stratagem is concerned.",
+          "lineStart": 656
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 658
+        },
+        {
+          "type": "para",
+          "text": "Forward, forward, charge with your beaks! Come, no delay. Tear, pluck, strike, flay them, and first of all smash the stew-pot.",
+          "lineStart": 659
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 661
+        },
+        {
+          "type": "para",
+          "text": "stepping in front of the CHORUS Oh, most cruel of all animals, why tear these two men to pieces, why kill them? What have they done to you? They belong to the same tribe, to the same family as my wife.",
+          "lineStart": 662
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 666
+        },
+        {
+          "type": "para",
+          "text": "Are wolves to be spared? Are they not our most mortal foes? So let us punish them.",
+          "lineStart": 667
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 669
+        },
+        {
+          "type": "para",
+          "text": "If they are your foes by nature, they are your friends in heart, and they come here to give you useful advice.",
+          "lineStart": 670
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 672
+        },
+        {
+          "type": "para",
+          "text": "Advice or a useful word from their lips, from them, the enemies of my forebears?",
+          "lineStart": 673
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 675
+        },
+        {
+          "type": "para",
+          "text": "The wise can often profit by the lessons of a foe, for caution is the mother of safety. It is just such a thing as one will not learn from a friend and which an enemy compels you to know. To begin with, it's the foe and not the friend that taught cities to build high walls, to equip long vessels of war; and it's this knowledge that protects our children, our slaves and our wealth.",
+          "lineStart": 676
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 682
+        },
+        {
+          "type": "para",
+          "text": "Well then, I agree, let us first hear them, for that is best; one can even learn something in an enemy's school.",
+          "lineStart": 683
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 685
+        },
+        {
+          "type": "para",
+          "text": "to EUELPIDES Their wrath seems to cool. Draw back a little.",
+          "lineStart": 686
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 688
+        },
+        {
+          "type": "para",
+          "text": "It's only justice, and you will thank me later.",
+          "lineStart": 689
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 690
+        },
+        {
+          "type": "para",
+          "text": "Never have we opposed your advice up to now.",
+          "lineStart": 691
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 692
+        },
+        {
+          "type": "para",
+          "text": "They are in a more peaceful mood,-put down your stew-pot and your two dishes; spit in hand, doing duty for a spear, let us mount guard inside the camp close to the pot and watch in our arsenal closely; for we must not fly.",
+          "lineStart": 693
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 697
+        },
+        {
+          "type": "para",
+          "text": "You are right. But where shall we be buried, if we die?",
+          "lineStart": 698
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 699
+        },
+        {
+          "type": "para",
+          "text": "In the Ceramicus; for, to get a public funeral, we shall tell the Strategi that we fell at Orneae, fighting the country's foes.",
+          "lineStart": 700
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 702
+        },
+        {
+          "type": "para",
+          "text": "Return to your ranks and lay down your courage beside your wrath as the hoplites do. Then let us ask these men who they are, whence they come, and with what intent. Here, Epops, answer me.",
+          "lineStart": 703
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 706
+        },
+        {
+          "type": "para",
+          "text": "Are you calling me? What do you want of me?",
+          "lineStart": 707
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 708
+        },
+        {
+          "type": "para",
+          "text": "Who are they? From what country?",
+          "lineStart": 709
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 710
+        },
+        {
+          "type": "para",
+          "text": "Strangers, who have come from Greece, the land of the wise.",
+          "lineStart": 711
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 712
+        },
+        {
+          "type": "para",
+          "text": "And what fate has led them hither to the land of the birds?",
+          "lineStart": 713
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 714
+        },
+        {
+          "type": "para",
+          "text": "Their love for you and their wish to share your kind of life; to dwell and remain with you always.",
+          "lineStart": 715
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 717
+        },
+        {
+          "type": "para",
+          "text": "Indeed, and what are their plans?",
+          "lineStart": 718
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 719
+        },
+        {
+          "type": "para",
+          "text": "They are wonderful, incredible, unheard of.",
+          "lineStart": 720
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 721
+        },
+        {
+          "type": "para",
+          "text": "Why, do they think to see some advantage that determines them to settle here? Are they hoping with our help to triumph over their foes or to be useful to their friends?",
+          "lineStart": 722
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 725
+        },
+        {
+          "type": "para",
+          "text": "They speak of benefits so great it is impossible either to describe or conceive them; all shall be yours, all that we see here, there, above and below us; this they vouch for.",
+          "lineStart": 726
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 729
+        },
+        {
+          "type": "para",
+          "text": "Are they mad?",
+          "lineStart": 730
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 731
+        },
+        {
+          "type": "para",
+          "text": "They are the sanest people in the world.",
+          "lineStart": 732
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 733
+        },
+        {
+          "type": "para",
+          "text": "Clever men?",
+          "lineStart": 734
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 735
+        },
+        {
+          "type": "para",
+          "text": "The slyest of foxes, cleverness its very self, men of the world, cunning, the cream of knowing folk.",
+          "lineStart": 736
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 738
+        },
+        {
+          "type": "para",
+          "text": "Tell them to speak and speak quickly; why, as I listen to you, I am beside myself with delight.",
+          "lineStart": 739
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 741
+        },
+        {
+          "type": "para",
+          "text": "to two attendants Here, you there, take all these weapons and hang them up inside dose to the fire, near the figure of the god who presides there and under his protection; to PITHETAERUS as for you, address the birds, tell them why I have gathered them together.",
+          "lineStart": 742
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 748
+        },
+        {
+          "type": "para",
+          "text": "Not I, by Apollo, unless they agree with me as the little ape of an armourer agreed with his wife, not to bite me, nor pull me by the balls, nor shove things into my...",
+          "lineStart": 749
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 752
+        },
+        {
+          "type": "para",
+          "text": "bending over and pointing his finger at his anus Do you mean this?",
+          "lineStart": 753
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 755
+        },
+        {
+          "type": "para",
+          "text": "No, I mean my eyes.",
+          "lineStart": 756
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 757
+        },
+        {
+          "type": "para",
+          "text": "Agreed.",
+          "lineStart": 758
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 759
+        },
+        {
+          "type": "para",
+          "text": "Swear it.",
+          "lineStart": 760
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 761
+        },
+        {
+          "type": "para",
+          "text": "I swear it and, if I keep my promise, let judges and spectators give me the victory unanimously.",
+          "lineStart": 762
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 764
+        },
+        {
+          "type": "para",
+          "text": "It is a bargain.",
+          "lineStart": 765
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 766
+        },
+        {
+          "type": "para",
+          "text": "And if I break my word, may I succeed by one vote only.",
+          "lineStart": 767
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 768
+        },
+        {
+          "type": "para",
+          "text": "as HERALD Hearken, ye people! Hoplites, pick up your weapons and return to your firesides; do not fail to read the decrees of dismissal we have posted.",
+          "lineStart": 769
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 772
+        },
+        {
+          "type": "para",
+          "text": "singing Man is a truly cunning creature, but nevertheless explain. Perhaps you are going to show me some good way to extend my power, some way that I have not had the wit to find out and which you have discovered. Speak! 'tis to your own interest as well as to mine, for if you secure me some advantage, I will surely share it with you.",
+          "lineStart": 773
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 779
+        },
+        {
+          "type": "para",
+          "text": "But what object can have induced you to come among us? Speak boldly, for I shall not break the truce,-until you have told us all.",
+          "lineStart": 780
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 782
+        },
+        {
+          "type": "para",
+          "text": "I am bursting with desire to speak; I have already mixed the dough of my address and nothing prevents me from kneading it....Slave! bring the chaplet and water, which you must pour over my hands. Be quick!",
+          "lineStart": 783
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 786
+        },
+        {
+          "type": "para",
+          "text": "Is it a question of feasting? What does it all mean?",
+          "lineStart": 787
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 788
+        },
+        {
+          "type": "para",
+          "text": "By Zeus, no! but I am hunting for fine, tasty words to break down the hardness of their hearts. To the CHORUS I grieve so much for you, who at one time were kings...",
+          "lineStart": 789
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 793
+        },
+        {
+          "type": "para",
+          "text": "We kings? Over whom?",
+          "lineStart": 794
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 795
+        },
+        {
+          "type": "para",
+          "text": "...of all that exists, firstly of me and of this man, even of Zeus himself. Your race is older than Saturn, the Titans and the Earth.",
+          "lineStart": 796
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 798
+        },
+        {
+          "type": "para",
+          "text": "What, older than the Earth!",
+          "lineStart": 799
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 800
+        },
+        {
+          "type": "para",
+          "text": "By Phoebus, yes.",
+          "lineStart": 801
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 802
+        },
+        {
+          "type": "para",
+          "text": "By Zeus, but I never knew that before!",
+          "lineStart": 803
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 804
+        },
+        {
+          "type": "para",
+          "text": "That's because you are ignorant and heedless, and have never read your Aesop. He is the one who tells us that the lark was born before all other creatures, indeed before the Earth; his father died of sickness, but the Earth did not exist then; he remained unburied for five days, when the bird in its dilemma decided, for want of a better place, to entomb its father in its own head.",
+          "lineStart": 805
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 811
+        },
+        {
+          "type": "para",
+          "text": "So that the lark's father is buried at Cephalae.",
+          "lineStart": 812
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 813
+        },
+        {
+          "type": "para",
+          "text": "Hence, if they existed before the Earth, before the gods, the kingship belongs to them by right of priority.",
+          "lineStart": 814
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 816
+        },
+        {
+          "type": "para",
+          "text": "Undoubtedly, but sharpen your beak well; Zeus won't be in a hurry to hand over his sceptre to the woodpecker.",
+          "lineStart": 817
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 819
+        },
+        {
+          "type": "para",
+          "text": "It was not the gods, but the birds, who were formerly the masters and kings over men; of this I have a thousand proofs. First of all, I will point you to the cock, who governed the Persians before all other monarchs, before Darius and Megabazus. It's in memory of his reign that he is called the Persian bird.",
+          "lineStart": 820
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 825
+        },
+        {
+          "type": "para",
+          "text": "For this reason also, even to-day, he alone of all the birds wears his tiara straight on his head, like the Great King.",
+          "lineStart": 826
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 828
+        },
+        {
+          "type": "para",
+          "text": "He was so strong, so great, so feared, that even now, on account of his ancient power, everyone jumps out of bed as soon as ever he crows at daybreak. Blacksmiths, potters, tanners, shoemakers, bathmen, corndealers, lyre-makers and armourers, all put on their shoes and go to work before it is daylight.",
+          "lineStart": 829
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 834
+        },
+        {
+          "type": "para",
+          "text": "I can tell you something about that. It was the cock's fault that I lost a splendid tunic of Phrygian wool. I was at a feast in town, given to celebrate the birth of a child; I had drunk pretty freely and had just fallen asleep, when a cock, I suppose in a greater hurry than the rest, began to crow. I thought it was dawn and set out for Halimus. I had hardly got beyond the walls, when a footpad struck me in the back with his bludgeon; down I went and wanted to shout, but he had already made off with my mantle.",
+          "lineStart": 835
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 843
+        },
+        {
+          "type": "para",
+          "text": "Formerly also the kite was ruler and king over the Greeks.",
+          "lineStart": 844
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 845
+        },
+        {
+          "type": "para",
+          "text": "The Greeks?",
+          "lineStart": 846
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 847
+        },
+        {
+          "type": "para",
+          "text": "And when he was king, he was the one who first taught them to fall on their knees before the kites.",
+          "lineStart": 848
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 850
+        },
+        {
+          "type": "para",
+          "text": "By Zeus! that's what I did myself one day on seeing a kite; but at the moment I was on my knees, and leaning backwards with mouth agape, I bolted an obolus and was forced to carry my meal-sack home empty.",
+          "lineStart": 851
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 854
+        },
+        {
+          "type": "para",
+          "text": "The cuckoo was king of Egypt and of the whole of Phoenicia. When he called out \"cuckoo,\" all the Phoenicians hurried to the fields to reap their wheat and their barley.",
+          "lineStart": 855
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 858
+        },
+        {
+          "type": "para",
+          "text": "Hence no doubt the proverb, \"Cuckoo! cuckoo! go to the fields, ye circumcised.\"",
+          "lineStart": 859
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 861
+        },
+        {
+          "type": "para",
+          "text": "So powerful were the birds that the kings of Grecian cities, Agamemnon, Menelaus, for instance, carried a bird on the tip of their sceptres, who had his share of all presents.",
+          "lineStart": 862
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 865
+        },
+        {
+          "type": "para",
+          "text": "That I didn't know and was much astonished when I saw Priam come upon the stage in the tragedies with a bird, which kept watching Lysicrates to see if he got any present.",
+          "lineStart": 866
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 869
+        },
+        {
+          "type": "para",
+          "text": "But the strongest proof of all is that Zeus, who now reigns, is represented as standing with an eagle on his head as a symbol of his royalty; his daughter has an owl, and Phoebus, as his servant, has a hawk.",
+          "lineStart": 870
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 873
+        },
+        {
+          "type": "para",
+          "text": "By Demeter, the point is well taken. But what are all these birds doing in heaven?",
+          "lineStart": 874
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 876
+        },
+        {
+          "type": "para",
+          "text": "When anyone sacrifices and, according to the rite, offers the entrails to the gods, these birds take their share before Zeus. Formerly men always swore by the birds and never by the gods.",
+          "lineStart": 877
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 880
+        },
+        {
+          "type": "para",
+          "text": "And even now Lampon swears by the goose whenever he wishes to deceive someone.",
+          "lineStart": 881
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 883
+        },
+        {
+          "type": "para",
+          "text": "Thus it is clear that you were once great and sacred, but now you are looked upon as slaves, as fools, as Maneses; stones are thrown at you as at raving madmen, even in holy places. A crowd of bird-catchers sets snares, traps, limed twigs and nets of all sorts for you; you are caught, you are sold in heaps and the buyers finger you over to be certain you are fat. Again, if they would but serve you up simply roasted; but they rasp cheese into a mixture of oil, vinegar and laserwort, to which another sweet and greasy sauce is added, and the whole is poured scalding hot over your back, for all the world as if you were diseased meat.",
+          "lineStart": 884
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 893
+        },
+        {
+          "type": "para",
+          "text": "singing Man, your words have made my heart bleed; I have groaned over the treachery of our fathers, who knew not how to transmit to us the high rank they held from their forefathers. But 'tis a benevolent Genius, a happy Fate, that sends you to us; you shall be our deliverer and I place the destiny of my little ones and my own in your hands with every confidence.",
+          "lineStart": 894
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 900
+        },
+        {
+          "type": "para",
+          "text": "But hasten to tell me what must be done; we should not be worthy to live, if we did not seek to regain our royalty by every possible means.",
+          "lineStart": 901
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 903
+        },
+        {
+          "type": "para",
+          "text": "First I advise that the birds gather together in one city and that they build a wall of great bricks, like that at Babylon, round the plains of the air and the whole region of space that divides earth from heaven.",
+          "lineStart": 904
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 908
+        },
+        {
+          "type": "para",
+          "text": "Oh, Cebriones! oh, Porphyrion! what a terribly strong place!",
+          "lineStart": 909
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 910
+        },
+        {
+          "type": "para",
+          "text": "Then, when this has been well done and completed, you demand back the empire from Zeus; if he will not agree, if he refuses and does not at once confess himself beaten, you declare a sacred war against him and forbid the gods henceforward to pass through your country with their tools up, as hitherto, for the purpose of laying their Alcmenas, their Alopes, or their Semeles! if they try to pass through, you put rings on their tools so that they can't make love any longer. You send another messenger to mankind, who will proclaim to them that the birds are kings, that for the future they must first of all sacrifice to them, and only afterwards to the gods; that it is fitting to appoint to each deity the bird that has most in common with it. For instance, are they sacrificing to Aphrodite, let them at the same time offer barley to the coot; are they immolating a sheep to Posidon, let them consecrate wheat in honour of the duck; if a steer is being offered to Heracles, let honey-cakes be dedicated to the gull; if a goat is being slain for King Zeus, there is a King-Bird, the wren, to whom the sacrifice of a male gnat is due before Zeus himself even.",
+          "lineStart": 911
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 927
+        },
+        {
+          "type": "para",
+          "text": "This notion of an immolated gnat delights me! And now let the great Zeus thunder!",
+          "lineStart": 928
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 930
+        },
+        {
+          "type": "para",
+          "text": "But how will mankind recognize us as gods and not as jays? Us, who have wings and fly?",
+          "lineStart": 931
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 933
+        },
+        {
+          "type": "para",
+          "text": "You talk rubbish! Hermes is a god and has wings and flies, and so do many other gods. First of all, Victory flies with golden wings, Eros is undoubtedly winged too, and Iris is compared by Homer to a timorous dove.",
+          "lineStart": 934
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 938
+        },
+        {
+          "type": "para",
+          "text": "But will not Zeus thunder and send his winged bolts against us?",
+          "lineStart": 939
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 941
+        },
+        {
+          "type": "para",
+          "text": "If men in their blindness do not recognize us as gods and so continue to worship the dwellers in Olympus?",
+          "lineStart": 942
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 944
+        },
+        {
+          "type": "para",
+          "text": "Then a cloud of sparrows greedy for corn must descend upon their fields and eat up all their seeds; we shall see then if Demeter will mete them out any wheat.",
+          "lineStart": 945
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 948
+        },
+        {
+          "type": "para",
+          "text": "By Zeus, she'll take good care she does not, and you will see her inventing a thousand excuses.",
+          "lineStart": 949
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 951
+        },
+        {
+          "type": "para",
+          "text": "The crows too will prove your divinity to them by pecking out the eyes of their flocks and of their draught-oxen; and then let Apollo cure them, since he is a physician and is paid for the purpose.",
+          "lineStart": 952
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 955
+        },
+        {
+          "type": "para",
+          "text": "Oh! don't do that! Wait first until I have sold my two young bullocks.",
+          "lineStart": 956
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 958
+        },
+        {
+          "type": "para",
+          "text": "If on the other hand they recognize that you are God, the principle of life, that. you are Earth, Saturn, Posidon, they shall be loaded with benefits.",
+          "lineStart": 959
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 962
+        },
+        {
+          "type": "para",
+          "text": "Name me one of these then.",
+          "lineStart": 963
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 964
+        },
+        {
+          "type": "para",
+          "text": "Firstly, the locusts shall not eat up their vine-blossoms; a legion of owls and kestrels will devour them. Moreover, the gnats and the gallbugs shall no longer ravage the figs; a flock of thrushes shall swallow the whole host down to the very last.",
+          "lineStart": 965
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 969
+        },
+        {
+          "type": "para",
+          "text": "And how shall we give wealth to mankind? This is their strongest passion.",
+          "lineStart": 970
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 972
+        },
+        {
+          "type": "para",
+          "text": "When they consult the omens, you will point them to the richest mines, you will reveal the paying ventures to the diviner, and not another shipwreck will happen or sailor perish.",
+          "lineStart": 973
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 976
+        },
+        {
+          "type": "para",
+          "text": "No more shall perish? How is that?",
+          "lineStart": 977
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 978
+        },
+        {
+          "type": "para",
+          "text": "When the auguries are examined before starting on a voyage, some bird will not fail to say, \"Don't start! there will be a storm,\" or else, \"Go! you will make a most profitable venture.\"",
+          "lineStart": 979
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 982
+        },
+        {
+          "type": "para",
+          "text": "I shall buy a trading-vessel and go to sea, I will not stay with you.",
+          "lineStart": 983
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 985
+        },
+        {
+          "type": "para",
+          "text": "You will discover treasures to them, which were buried in former times, for you know them. Do not all men say, \"None knows where my treasure lies, unless perchance it be some bird.\"",
+          "lineStart": 986
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 989
+        },
+        {
+          "type": "para",
+          "text": "I shall sell my boat and buy a spade to unearth the vessels.",
+          "lineStart": 990
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 991
+        },
+        {
+          "type": "para",
+          "text": "And how are we to give them health, which belongs to the gods?",
+          "lineStart": 992
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 993
+        },
+        {
+          "type": "para",
+          "text": "If they are happy, is not that the chief thing towards health? The miserable man is never well.",
+          "lineStart": 994
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 996
+        },
+        {
+          "type": "para",
+          "text": "Old Age also dwells in Olympus. How will they get at it? Must they die in early youth?",
+          "lineStart": 997
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 999
+        },
+        {
+          "type": "para",
+          "text": "Why, the birds, by Zeus, will add three hundred years to their life.",
+          "lineStart": 1000
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1002
+        },
+        {
+          "type": "para",
+          "text": "From whom will they take them?",
+          "lineStart": 1003
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1004
+        },
+        {
+          "type": "para",
+          "text": "From whom? Why, from themselves. Don't you know the cawing crow lives five times as long as a man?",
+          "lineStart": 1005
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 1007
+        },
+        {
+          "type": "para",
+          "text": "Ah! ah! these are far better kings for us than Zeus!",
+          "lineStart": 1008
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1009
+        },
+        {
+          "type": "para",
+          "text": "solemnly Far better, are they not? And firstly, we shall not have to build them temples of hewn stone, closed with gates of gold; they will dwell amongst the bushes and in the thickets of green oak; the most venerated of birds will have no other temple than the foliage of the olive tree; we shall not go to Delphi or to Ammon to sacrifice; but standing erect in the midst of arbutus and wild olives and holding forth our hands filled with wheat and barley, we shall pray them to admit us to a share of the blessings they enjoy and shall at once obtain them for a few grains of wheat.",
+          "lineStart": 1010
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1019
+        },
+        {
+          "type": "para",
+          "text": "Old man, whom I detested, you are now to me the dearest of all; never shall I, if I can help it, fail to follow your advice.",
+          "lineStart": 1020
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1022
+        },
+        {
+          "type": "para",
+          "text": "singing Inspirited by your words, I threaten my rivals the gods, and I swear that if you march in alliance with me against the gods and are faithful to our just, loyal and sacred bond, we shall soon have shattered their sceptre,",
+          "lineStart": 1023
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1027
+        },
+        {
+          "type": "para",
+          "text": "We shall charge ourselves with the performance of everything that requires force; that which demands thought and deliberation shall be yours to supply.",
+          "lineStart": 1028
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 1031
+        },
+        {
+          "type": "para",
+          "text": "By Zeus! it's no longer the time to delay and loiter like Nicias; let us act as promptly as possible.... In the first place, come, enter my nest built of brushwood and blades of straw, and tell me your names.",
+          "lineStart": 1032
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1035
+        },
+        {
+          "type": "para",
+          "text": "That is soon done; my name is Pithetaerus, and his, Euelpides, of the deme Crioa.",
+          "lineStart": 1036
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 1038
+        },
+        {
+          "type": "para",
+          "text": "Good! and good luck to you.",
+          "lineStart": 1039
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1040
+        },
+        {
+          "type": "para",
+          "text": "We accept the omen.",
+          "lineStart": 1041
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 1042
+        },
+        {
+          "type": "para",
+          "text": "Come in here.",
+          "lineStart": 1043
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1044
+        },
+        {
+          "type": "para",
+          "text": "Very well, you are the one who must lead us and introduce us.",
+          "lineStart": 1045
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 1046
+        },
+        {
+          "type": "para",
+          "text": "Come then. He starts to fly away.",
+          "lineStart": 1047
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1049
+        },
+        {
+          "type": "para",
+          "text": "stopping himself Oh! my god! do come back here. Hi! tell us how we are to follow you. You can fly, but we cannot.",
+          "lineStart": 1050
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 1053
+        },
+        {
+          "type": "para",
+          "text": "Well, well.",
+          "lineStart": 1054
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1055
+        },
+        {
+          "type": "para",
+          "text": "Remember Aesop's fables. It is told there that the fox fared very badly, because he had made an alliance with the eagle.",
+          "lineStart": 1056
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 1058
+        },
+        {
+          "type": "para",
+          "text": "Be at ease. You shall eat a certain root and wings will grow on your shoulders.",
+          "lineStart": 1059
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1061
+        },
+        {
+          "type": "para",
+          "text": "Then let us enter. Xanthias and Manodorus, pick up our baggage.",
+          "lineStart": 1062
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1063
+        },
+        {
+          "type": "para",
+          "text": "Hi! Epops! do you hear me?",
+          "lineStart": 1064
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 1065
+        },
+        {
+          "type": "para",
+          "text": "What's the matter?",
+          "lineStart": 1066
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1067
+        },
+        {
+          "type": "para",
+          "text": "Take them off to dine well and call your mate, the melodious Procne, whose songs are worthy of the Muses; she will delight our leisure moments.",
+          "lineStart": 1068
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1071
+        },
+        {
+          "type": "para",
+          "text": "Oh! I conjure you, accede to their wish; for this delightful bird will leave her rushes at the sound of your voice; for the sake of the gods, let her come here, so that we may contemplate the nightingale.",
+          "lineStart": 1072
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 1075
+        },
+        {
+          "type": "para",
+          "text": "Let is be as you desire. Come forth, Procne, show yourself to these strangers. PROCNE appears; she resembles a young flute-girl.",
+          "lineStart": 1076
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1079
+        },
+        {
+          "type": "para",
+          "text": "Oh! great Zeus! what a beautiful little bird! what a dainty form! what brilliant plumage! Do you know how dearly I should like to get between her thighs?",
+          "lineStart": 1080
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 1083
+        },
+        {
+          "type": "para",
+          "text": "She is dazzling all over with gold, like a young girl. Oh! how I should like to kiss her!",
+          "lineStart": 1084
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1086
+        },
+        {
+          "type": "para",
+          "text": "Why, wretched man, she has two little sharp points on her beak!",
+          "lineStart": 1087
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 1088
+        },
+        {
+          "type": "para",
+          "text": "I would treat her like an egg, the shell of which we remove before eating it; I would take off her mask and then kiss her pretty face.",
+          "lineStart": 1089
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 1091
+        },
+        {
+          "type": "para",
+          "text": "Let us go in.",
+          "lineStart": 1092
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1093
+        },
+        {
+          "type": "para",
+          "text": "Lead the way, and may success attend us. EPOPS goes into the thicket, followed by PITHETAERUS and EUELPIDES.",
+          "lineStart": 1094
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1097
+        },
+        {
+          "type": "para",
+          "text": "singing Lovable golden bird, whom I cherish above all others, you, whom I associate with all my songs, nightingale, you have come, you have come, to show yourself to me and to charm me with your notes. Come, you, who play spring melodies upon the harmonious flute, lead off our anapests. The CHORUS turns and faces the audience.",
+          "lineStart": 1098
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1104
+        },
+        {
+          "type": "para",
+          "text": "Weak mortals, chained to the earth, creatures of clay as frail as the foliage of the woods, you unfortunate race, whose life is but darkness, as unreal as a shadow, the illusion of a dream, hearken to us, who are immortal beings, ethereal, ever young and occupied with eternal thoughts, for we shall teach you about all celestial matters; you shall know thoroughly what is the nature of the birds, what the origin of the gods, of the rivers, of Erebus, and Chaos; thanks to us, even Prodicus will envy you your knowledge.",
+          "lineStart": 1105
+        },
+        {
+          "type": "para",
+          "text": "At the beginning there was only Chaos, Night, dark Erebus, and deep Tartarus. Earth, the air and heaven had no existence. Firstly, black-winged Night laid a germless egg in the bosom of the infinite deeps of Erebus, and from this, after the revolution of long ages, sprang the graceful Eros with his glittering golden wings, swift as the whirlwinds of the tempest. He mated in deep Tartarus with dark Chaos, winged like himself, and thus hatched forth our race, which was the first to see the light. That of the Immortals did not exist until Eros had brought together all the ingredients of the world, and from their marriage Heaven, Ocean, Earth and the imperishable race of blessed gods sprang into being. Thus our origin is very much older than that of the dwellers in Olympus. We are the offspring of Eros; there are a thousand proofs to show it. We have wings and we lend assistance to lovers. How many handsome youths, who had sworn to remain insensible, have opened their thighs because of our power and have yielded themselves to their lovers when almost at the end of their youth, being led away by the gift of a quail, a waterfowl, a goose, or a cock.",
+          "lineStart": 1113
+        },
+        {
+          "type": "para",
+          "text": "And what important services do not the birds render to mortals! First of all, they mark the seasons for them, springtime, winter, and autumn. Does the screaming crane migrate to Libya,-it warns the husbandman to sow, the pilot to take his ease beside his tiller hung up in his dwelling, and Orestes to weave a tunic, so that the rigorous cold may not drive him any more to strip other folk. When the kite reappears, he tells of the return of spring and of the period when the fleece of the sheep must be clipped. Is the swallow in sight? All hasten to sell their warm tunic and to buy some light clothing. We are your Ammon, Delphi, Dodona, your Phoebus Apollo. Before undertaking anything, whether a business transaction, a marriage, or the purchase of food, you consult the birds by reading the omens, and you give this name of omen to all signs that tell of the future. With you a word is an omen, you call a sneeze an omen, a meeting an omen, an unknown sound an omen, a slave or an ass an omen. Is it not clear that we are a prophetic Apollo to you? More and more rapidly from here on. If you recognize us as gods, we shall be your divining Muses, through us you will know the winds and the seasons, summer, winter, and the temperate months. We shall not withdraw ourselves to the highest clouds like Zeus, but shall be among you and shall give to you and to your children and the children of your children, health and wealth, long life, peace, youth, laughter, songs and feasts; in short, you will all be so well off, that you will be weary and cloyed with enjoyment.",
+          "lineStart": 1129
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "FIRST SEMI-CHORUS",
+          "lineStart": 1152
+        },
+        {
+          "type": "para",
+          "text": "singing Oh, rustic Muse of such varied note, tiotiotiotiotiotinx, I sing with you in the groves and on the mountain tops, tiotiotiotinx. I poured forth sacred strains from my golden throat in honour of the god Pan, tiotiotiotinx, from the top of the thickly leaved ash, and my voice mingles with the mighty choirs who extol Cybele on the mountain tops, totototototototototinx. 'Tis to our concerts that Phrynichus comes to pillage like a bee the ambrosia of his songs, the sweetness of which so charms the ear, tiotiotiotinx.",
+          "lineStart": 1153
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF FIRST SEMI-CHORUS",
+          "lineStart": 1161
+        },
+        {
+          "type": "para",
+          "text": "If there is one of you spectators who wishes to spend the rest of his life quietly among the birds, let him come to us. All that is disgraceful and forbidden by law on earth is on the contrary honourable among us, the birds. For instance, among you it's a crime to beat your father, but with us it's an estimable deed; it's considered fine to run straight at your father and hit him, saying, \"Come, lift your spur if you want to fight.\" The runaway slave, whom you brand, is only a spotted francolin with us. Are you Phrygian like Spintharus? Among us you would be the Phrygian bird, the goldfinch, of the race of Philemon. Are you a slave and a Carian like Execestides? Among us you can create yourself fore-fathers; you can always find relations. Does the son of Pisias want to betray the gates of the city to the foe? Let him become a partridge, the fitting offspring of his father; among us there is no shame in escaping as cleverly as a partridge.",
+          "lineStart": 1162
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "SECOND SEMI-CHORUS",
+          "lineStart": 1175
+        },
+        {
+          "type": "para",
+          "text": "singing So the swans on the banks of the Hebrus, tiotiotiotiotiotinx, mingle their voices to serenade Apollo, tiotiotiotinx, flapping their wings the while, tiotiotiotinx; their notes reach beyond the clouds of heaven; they startle the various tribes of the beasts; a windles sky calms the waves, totototototototototinx; all Olympus resounds, and astonishment seizes its rulers; the Olympian graces and Muses cry aloud the strain, tiotiotiotinx.",
+          "lineStart": 1176
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF SECOND SEMI-CHORUS",
+          "lineStart": 1183
+        },
+        {
+          "type": "para",
+          "text": "There is nothing more useful nor more pleasant than to have wings. To begin with, just let us suppose a spectator to be dying with hunger and to be weary of the choruses of the tragic poets; if he were winged, he would fly off, go home to dine and come back with his stomach filled. Some Patroclides, needing to take a crap, would not have to spill it out on his cloak, but could fly off, satisfy his requirements, let a few farts and, having recovered his breath, return. If one of you, it matters not who, had adulterous relations and saw the husband of his mistress in the seats of the senators, he might stretch his wings, fly to her, and, having laid her, resume his place. Is it not the most priceless gift of all, to be winged? Look at Diitrephes! His wings were only wicker-work ones, and yet he got himself chosen Phylarch and then Hipparch; from being nobody, he has risen to be famous; he's now the finest gilded cock of his tribe. PITHETAERUS and EUELPIDES return; they now have wings.",
+          "lineStart": 1184
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1199
+        },
+        {
+          "type": "para",
+          "text": "Halloa! What's this? By Zeus! I never saw anything so funny in all my life.",
+          "lineStart": 1200
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 1202
+        },
+        {
+          "type": "para",
+          "text": "What makes you laugh?",
+          "lineStart": 1203
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1204
+        },
+        {
+          "type": "para",
+          "text": "Your little wings. D'you know what you look like? Like a goose painted by some dauber.",
+          "lineStart": 1205
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 1207
+        },
+        {
+          "type": "para",
+          "text": "And you look like a close-shaven blackbird.",
+          "lineStart": 1208
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1209
+        },
+        {
+          "type": "para",
+          "text": "We ourselves asked for this transformation, and, as Aeschylus has it, \"These are no borrowed feathers, but truly our own.\"",
+          "lineStart": 1210
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EPOPS",
+          "lineStart": 1212
+        },
+        {
+          "type": "para",
+          "text": "Come now, what must be done?",
+          "lineStart": 1213
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1214
+        },
+        {
+          "type": "para",
+          "text": "First give our city a great and famous name, then sacrifice to the gods.",
+          "lineStart": 1215
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 1217
+        },
+        {
+          "type": "para",
+          "text": "I think so too.",
+          "lineStart": 1218
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1219
+        },
+        {
+          "type": "para",
+          "text": "Let's see. What shall our city be called?",
+          "lineStart": 1220
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1221
+        },
+        {
+          "type": "para",
+          "text": "Will you have a high-sounding Laconian name? Shall we call it Sparta?",
+          "lineStart": 1222
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 1224
+        },
+        {
+          "type": "para",
+          "text": "What! call my town Sparta? Why, I would not use esparto for my bed, even though I had nothing but bands of rushes.",
+          "lineStart": 1225
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1227
+        },
+        {
+          "type": "para",
+          "text": "Well then, what name can you suggest?",
+          "lineStart": 1228
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 1229
+        },
+        {
+          "type": "para",
+          "text": "Some name borrowed from the clouds, from these lofty regions in which we dwell-in short, some well-known name.",
+          "lineStart": 1230
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1232
+        },
+        {
+          "type": "para",
+          "text": "Do you like Nephelococcygia?",
+          "lineStart": 1233
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1234
+        },
+        {
+          "type": "para",
+          "text": "Oh! capital! truly that's a brilliant thought!",
+          "lineStart": 1235
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 1236
+        },
+        {
+          "type": "para",
+          "text": "Is it in Nephelococcygia that all the wealth of Theogenes and most of Aeschines' is?",
+          "lineStart": 1237
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1239
+        },
+        {
+          "type": "para",
+          "text": "No, it's rather the plain of Phlegra, where the gods withered the pride of the sons of the Earth with their shafts.",
+          "lineStart": 1240
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1242
+        },
+        {
+          "type": "para",
+          "text": "Oh! what a splendid city! But what god shall be its patron? for whom shall we weave the peplus?",
+          "lineStart": 1243
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 1245
+        },
+        {
+          "type": "para",
+          "text": "Why not choose Athene Polias?",
+          "lineStart": 1246
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1247
+        },
+        {
+          "type": "para",
+          "text": "Oh! what a well-ordered town it would be to have a female deity armed from head to foot, while Clisthenes was spinning!",
+          "lineStart": 1248
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1250
+        },
+        {
+          "type": "para",
+          "text": "Who then shall guard the Pelargicon?",
+          "lineStart": 1251
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1252
+        },
+        {
+          "type": "para",
+          "text": "A bird.",
+          "lineStart": 1253
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "LEADER OF THE CHORUS",
+          "lineStart": 1254
+        },
+        {
+          "type": "para",
+          "text": "One of us? What kind of bird?",
+          "lineStart": 1255
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1256
+        },
+        {
+          "type": "para",
+          "text": "A bird of Persian strain, who is everywhere proclaimed to be the bravest of all, a true chick of Ares.",
+          "lineStart": 1257
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 1259
+        },
+        {
+          "type": "para",
+          "text": "Oh! noble chick!",
+          "lineStart": 1260
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1261
+        },
+        {
+          "type": "para",
+          "text": "Because he is a god well suited to live on the rocks. Come! into the air with you to help the workers who are building the wall; carry up rubble, strip yourself to mix the mortar, take up the hod, tumble down the ladder, if you like, post sentinels, keep the fire smouldering beneath the ashes, go round the walls, bell in hand, and go to sleep up there yourself then despatch two heralds, one to the gods above, the other to mankind on earth and come back here.",
+          "lineStart": 1262
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "EUELPIDES",
+          "lineStart": 1269
+        },
+        {
+          "type": "para",
+          "text": "As for yourself, remain here, and may the plague take you for a troublesome fellow! He departs.",
+          "lineStart": 1270
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1273
+        },
+        {
+          "type": "para",
+          "text": "Go, friend, go where I send you, for without you my orders cannot be obeyed. For myself, I want to sacrifice to the new god, and I am going to summon the priest who must preside at the ceremony. Slaves! slaves! bring forward the basket and the lustral water.",
+          "lineStart": 1274
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "CHORUS",
+          "lineStart": 1278
+        },
+        {
+          "type": "para",
+          "text": "singing I do as you do, and I wish as you wish, and I implore you to address powerful and solemn prayers to the gods, and in addition to immolate a sheep as a token of our gratitude. Let us sing the Pythian chant in honour of the god, and let Chaeris accompany our voices.",
+          "lineStart": 1279
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1284
+        },
+        {
+          "type": "para",
+          "text": "Enough! but, by Heracles! what is this? Great gods! I have seen many prodigious things, but I never saw a muzzled raven. The PRIEST arrives. Priest! it's high time! Sacrifice to the new gods.",
+          "lineStart": 1285
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRIEST",
+          "lineStart": 1290
+        },
+        {
+          "type": "para",
+          "text": "I begin, but where is the man with the basket? Pray to the Hestia of the birds, to the kite, who presides over the hearth, and to all the god and goddess-birds who dwell in Olympus...",
+          "lineStart": 1291
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1294
+        },
+        {
+          "type": "para",
+          "text": "Oh! Hawk, the sacred guardian of Sunium, oh, god of the storks!",
+          "lineStart": 1295
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRIEST",
+          "lineStart": 1296
+        },
+        {
+          "type": "para",
+          "text": "...to the swan of Delos, to Leto the mother of the quails, and to Artemis, the goldfinch...",
+          "lineStart": 1297
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1300
+        },
+        {
+          "type": "para",
+          "text": "It's no longer Artemis Colaenis, but Artemis the goldfinch.",
+          "lineStart": 1301
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRIEST",
+          "lineStart": 1302
+        },
+        {
+          "type": "para",
+          "text": "...to Bacchus, the finch and Cybele, the ostrich and mother of the gods and mankind...",
+          "lineStart": 1303
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1305
+        },
+        {
+          "type": "para",
+          "text": "Oh! sovereign ostrich Cybele, mother of Cleocritus!",
+          "lineStart": 1306
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRIEST",
+          "lineStart": 1307
+        },
+        {
+          "type": "para",
+          "text": "...to grant health and safety to the Nephelococcygians as well as to the dwellers in Chios...",
+          "lineStart": 1308
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1310
+        },
+        {
+          "type": "para",
+          "text": "The dwellers in Chios! Ah! I am delighted they should be thus mentioned on all occasions.",
+          "lineStart": 1311
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PRIEST",
+          "lineStart": 1313
+        },
+        {
+          "type": "para",
+          "text": "...to the heroes, the birds, to the sons of heroes, to the porphyrion, the pelican, the spoon-bill, the redbreast, the grouse, the peacock, the horned-owl, the teal, the bittern, the heron, the stormy petrel, the fig-pecker, the titmouse...",
+          "lineStart": 1314
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1318
+        },
+        {
+          "type": "para",
+          "text": "Stop! stop! you drive me crazy with your endless list. Why, wretch, to what sacred feast are you inviting the vultures and the sea-eagles? Don't you see that a single kite could easily carry off the lot at once? Begone, you and your fillets and all; I shall know how to complete the sacrifice by myself. The PRIEST departs. It is imperative that I sing another sacred chant for the rite of the lustral water, and that I invoke the immortals, or at least one of them, provided always that you have some suitable food to offer him; from what I see here, in the shape of gifts, there is naught whatever but horn and hair.",
+          "lineStart": 1319
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1329
+        },
+        {
+          "type": "para",
+          "text": "Let us address our sacrifices and our prayers to the winged gods. A POET enters.",
+          "lineStart": 1330
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POET",
+          "lineStart": 1333
+        },
+        {
+          "type": "para",
+          "text": "Oh, Muse! celebrate happy Nephelococcygia in your hymns.",
+          "lineStart": 1334
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1335
+        },
+        {
+          "type": "para",
+          "text": "What have we here? Where did you come from, tell me? Who are you?",
+          "lineStart": 1336
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POET",
+          "lineStart": 1338
+        },
+        {
+          "type": "para",
+          "text": "I am he whose language is sweeter than honey, the zealous slave of the Muses, as Homer has it.",
+          "lineStart": 1339
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1341
+        },
+        {
+          "type": "para",
+          "text": "You a slave! and yet you wear your hair long?",
+          "lineStart": 1342
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POET",
+          "lineStart": 1343
+        },
+        {
+          "type": "para",
+          "text": "No, but the fact is all we poets are the assiduous slaves of the Muses, according to Homer.",
+          "lineStart": 1344
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1346
+        },
+        {
+          "type": "para",
+          "text": "In truth your little cloak is quite holy too through zeal! But, poet, what ill wind drove you here?",
+          "lineStart": 1347
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POET",
+          "lineStart": 1349
+        },
+        {
+          "type": "para",
+          "text": "I have composed verses in honour of your Nephelococcygia, a host of splendid dithyrambs and parthenia worthy of Simonides himself.",
+          "lineStart": 1350
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1352
+        },
+        {
+          "type": "para",
+          "text": "And when did you compose them? How long since?",
+          "lineStart": 1353
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POET",
+          "lineStart": 1354
+        },
+        {
+          "type": "para",
+          "text": "Oh! 'tis long, aye, very long, that I have sung in honour of this city.",
+          "lineStart": 1355
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1357
+        },
+        {
+          "type": "para",
+          "text": "But I am only celebrating its foundation with this sacrifice; I have only just named it, as is done with little babies.",
+          "lineStart": 1358
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POET",
+          "lineStart": 1360
+        },
+        {
+          "type": "para",
+          "text": "\"Just as the chargers fly with the speed of the wind, so does the voice of the Muses take its flight. Oh! thou noble founder of the town of Aetna, thou, whose name recalls the holy sacrifices, make us such gift as thy generous heart shall suggest.\" He puts out his hand.",
+          "lineStart": 1361
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1366
+        },
+        {
+          "type": "para",
+          "text": "He will drive us silly if we do not get rid of him by some present. To the PRIEST'S acolyte Here! you, who have a fur as well as your tunic, take it off and give it to this clever poet. Come, take this fur; you look to me to be shivering with cold.",
+          "lineStart": 1367
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POET",
+          "lineStart": 1373
+        },
+        {
+          "type": "para",
+          "text": "My Muse will gladly accept this gift; but engrave these verses of Pindar's on your mind.",
+          "lineStart": 1374
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1376
+        },
+        {
+          "type": "para",
+          "text": "Oh! what a pest! It's impossible then to get rid of him!",
+          "lineStart": 1377
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POET",
+          "lineStart": 1378
+        },
+        {
+          "type": "para",
+          "text": "\"Straton wanders among the Scythian nomads, but has no linen garment. He is sad at only wearing an animal's pelt and no tunic.\" Do you get what I mean?",
+          "lineStart": 1379
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1382
+        },
+        {
+          "type": "para",
+          "text": "I understand that you want me to offer you a tunic. Hi! you, to the acolyte take off yours; we must help the poet....Come, you, take it and get out.",
+          "lineStart": 1383
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "POET",
+          "lineStart": 1387
+        },
+        {
+          "type": "para",
+          "text": "I am going, and these are the verses that I address to this city: \"Phoebus of the golden throne, celebrate this shivery, freezing city; I have travelled through fruitful and snow-covered plains. Tralala! Tralala!\" He departs.",
+          "lineStart": 1388
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1392
+        },
+        {
+          "type": "para",
+          "text": "What are you chanting us about frosts? Thanks to the tunic, you no longer fear them. Ah! by Zeus! I could not have believed this cursed fellow could so soon have learnt the way to our city. To a slave Come, take the lustral water and circle the altar. Let all keep silence! An ORACLE-MONGER enters.",
+          "lineStart": 1393
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORACLE-MONGER",
+          "lineStart": 1400
+        },
+        {
+          "type": "para",
+          "text": "Let not the goat be sacrificed.",
+          "lineStart": 1401
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1402
+        },
+        {
+          "type": "para",
+          "text": "Who are you?",
+          "lineStart": 1403
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORACLE-MONGER",
+          "lineStart": 1404
+        },
+        {
+          "type": "para",
+          "text": "Who am I? An oracle-monger.",
+          "lineStart": 1405
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1406
+        },
+        {
+          "type": "para",
+          "text": "Get out!",
+          "lineStart": 1407
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORACLE-MONGER",
+          "lineStart": 1408
+        },
+        {
+          "type": "para",
+          "text": "Wretched man, insult not sacred things. For there is an oracle of Bacis, which exactly applies to Nephelococcygia.",
+          "lineStart": 1409
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1411
+        },
+        {
+          "type": "para",
+          "text": "Why did you not reveal it to me before I founded my city?",
+          "lineStart": 1412
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORACLE-MONGER",
+          "lineStart": 1413
+        },
+        {
+          "type": "para",
+          "text": "The divine spirit was against it.",
+          "lineStart": 1414
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1415
+        },
+        {
+          "type": "para",
+          "text": "Well, I suppose there's nothing to do but hear the terms of the oracle.",
+          "lineStart": 1416
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORACLE-MONGER",
+          "lineStart": 1418
+        },
+        {
+          "type": "para",
+          "text": "\"But when the wolves and the white crows shall dwell together between Corinth and Sicyon...\"",
+          "lineStart": 1419
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PITHETAERUS",
+          "lineStart": 1421
+        },
+        {
+          "type": "para",
+          "text": "But how do the Corinthians concern me?",
+          "lineStart": 1422
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ORACLE-MONGER",
+          "lineStart": 1423
+        },
+        {
+          "type": "para",
+          "text": "It is the regions of the air that Bacis indicates in this manner.",
+          "lineStart": 1424
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 421,
+    "wordCount": 9742
+  }
+}
