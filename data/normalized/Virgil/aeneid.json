@@ -8,6 +8,20 @@
   "written": "19 BCE",
   "sourceNote": null,
   "shape": "multi",
+  "textMode": "verse",
+  "textModeReason": "verse: 0.001 long unterminated interior lines, median line length 43.0, 0.982 explicit poetic line breaks",
+  "textModeStats": {
+    "lineCount": 13932,
+    "paragraphCount": 13,
+    "interiorLineCount": 13919,
+    "medianLineLength": 43.0,
+    "meanLineLength": 42.49511915015791,
+    "longInteriorLineRatio": 0.0012931963503125224,
+    "unterminatedInteriorLineRatio": 0.5031252245132553,
+    "longUnterminatedInteriorLineRatio": 0.0009339751418923774,
+    "explicitBreakLineRatio": 0.9824145851277635,
+    "unmarkedLineRatio": 0.01751363766867643
+  },
   "landingUrl": "https://classics.mit.edu/Virgil/aeneid.html",
   "textUrls": [
     "https://classics.mit.edu/Virgil/aeneid.1.i.html",

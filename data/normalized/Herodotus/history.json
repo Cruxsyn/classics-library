@@ -8,6 +8,20 @@
   "written": "440 BCE",
   "sourceNote": null,
   "shape": "multi",
+  "textMode": "prose",
+  "textModeReason": "hard-wrapped prose: 0.928 long unterminated interior lines, median line length 72.0, 0.913 unmarked continuation lines",
+  "textModeStats": {
+    "lineCount": 9802,
+    "paragraphCount": 818,
+    "interiorLineCount": 8984,
+    "medianLineLength": 72.0,
+    "meanLineLength": 67.60314221587431,
+    "longInteriorLineRatio": 0.9874220837043634,
+    "unterminatedInteriorLineRatio": 0.9385574354407836,
+    "longUnterminatedInteriorLineRatio": 0.9276491540516474,
+    "explicitBreakLineRatio": 0.004896959804121608,
+    "unmarkedLineRatio": 0.9125688634972454
+  },
   "landingUrl": "https://classics.mit.edu/Herodotus/history.html",
   "textUrls": [
     "https://classics.mit.edu/Herodotus/history.1.i.html",

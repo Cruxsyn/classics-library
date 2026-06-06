@@ -12,7 +12,7 @@ def fixture(name: str) -> str:
     return (FIXTURES / name).read_text(encoding="utf-8")
 
 
-def test_iliad_multi_verse_roman_sections() -> None:
+def test_iliad_multi_prose_roman_sections() -> None:
     landing = parse_landing_html(
         fixture("homer_iliad.html"),
         "https://classics.mit.edu/Homer/iliad.html",
@@ -26,13 +26,42 @@ def test_iliad_multi_verse_roman_sections() -> None:
     assert landing.sections[-1].seq == 24
     assert landing.sections[-1].href == "iliad.24.xxiv.html"
 
-    parsed = parse_text_page(fixture("homer_iliad_1_i.html"), is_verse=True, section_heading="Book I")
+    parsed = parse_text_page(fixture("homer_iliad_1_i.html"), section_heading="Book I")
     assert parsed["partTitle"] == "Book I"
+    assert parsed["textMode"] == "prose"
     verse_lines = [block for block in parsed["blocks"] if block["type"] == "verseLine"]
-    assert verse_lines
-    assert verse_lines[0]["lineNo"] == 10
-    assert verse_lines[0]["text"].startswith("Sing, O goddess")
+    paras = [block for block in parsed["blocks"] if block["type"] == "para"]
+    assert not verse_lines
+    assert paras
+    assert paras[0]["lineStart"] == 10
+    assert len(paras[0]["text"]) > 200
+    assert paras[0]["text"].count(".") >= 2
+    assert "countless ills upon the Achaeans" in paras[0]["text"]
 
+
+def test_aeneid_excerpt_stays_verse() -> None:
+    parsed = parse_text_page(fixture("virgil_aeneid_1_i_excerpt.html"), section_heading="Book I")
+
+    assert parsed["textMode"] == "verse"
+    verse_lines = [block for block in parsed["blocks"] if block["type"] == "verseLine"]
+    assert len(verse_lines) == 25
+    assert verse_lines[0]["lineNo"] == 10
+    assert verse_lines[0]["text"] == "Arms, and the man I sing, who, forc'd by fate,"
+    assert not any(block["type"] == "para" for block in parsed["blocks"])
+
+
+def test_blockquote_tags_do_not_swallow_anchored_lines() -> None:
+    html = """
+    <HTML><BODY><A NAME="start"></A>
+    <A NAME="10"></A><B>SPEAKER</B>
+    <A NAME="11"></A><BLOCKQUOTE>First measured line,
+    <A NAME="12"></A><BR>Second measured line;
+    <A NAME="13"></A><BR>Third measured line.</BLOCKQUOTE>
+    <A NAME="end"></A></BODY></HTML>
+    """
+
+    parsed = parse_text_page(html, is_verse=True, section_heading="Synthetic")
+    assert [block["lineNo"] for block in parsed["blocks"]] == [10, 11, 12, 13]
 
 def test_artwar_single_page_headings_and_prose_labels() -> None:
     landing = parse_landing_html(

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-06T00:48:26+00:00",
+  "generatedAt": "2026-06-06T01:05:08+00:00",
   "works": [
     {
       "id": "Aeschylus/agamemnon",
@@ -12,7 +12,7 @@
       "written": "458 BCE",
       "shape": "single",
       "sectionCount": 1,
-      "wordCount": 10415,
+      "wordCount": 10390,
       "cover": null,
       "readerUrl": "/Aeschylus/agamemnon/",
       "tags": []
@@ -102,7 +102,7 @@
       "written": "ca. 500 BCE",
       "shape": "multi",
       "sectionCount": 4,
-      "wordCount": 20924,
+      "wordCount": 27647,
       "cover": null,
       "readerUrl": "/Confucius/analects/",
       "tags": []
@@ -117,7 +117,7 @@
       "written": "431 BCE",
       "shape": "single",
       "sectionCount": 1,
-      "wordCount": 12364,
+      "wordCount": 12357,
       "cover": null,
       "readerUrl": "/Euripides/medea/",
       "tags": []
@@ -222,7 +222,7 @@
       "written": null,
       "shape": "single",
       "sectionCount": 1,
-      "wordCount": 9344,
+      "wordCount": 9335,
       "cover": null,
       "readerUrl": "/Sophocles/oedipus/",
       "tags": []

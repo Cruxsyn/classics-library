@@ -8,6 +8,20 @@
   "written": "431 BCE",
   "sourceNote": null,
   "shape": "multi",
+  "textMode": "prose",
+  "textModeReason": "hard-wrapped prose: 0.949 long unterminated interior lines, median line length 72.0, 0.938 unmarked continuation lines",
+  "textModeStats": {
+    "lineCount": 7472,
+    "paragraphCount": 468,
+    "interiorLineCount": 7004,
+    "medianLineLength": 72.0,
+    "meanLineLength": 86.31785331905782,
+    "longInteriorLineRatio": 0.9952884066247858,
+    "unterminatedInteriorLineRatio": 0.9527412906910337,
+    "longUnterminatedInteriorLineRatio": 0.9488863506567675,
+    "explicitBreakLineRatio": 0.00040149892933618843,
+    "unmarkedLineRatio": 0.9380353319057816
+  },
   "landingUrl": "https://classics.mit.edu/Thucydides/pelopwar.html",
   "textUrls": [
     "https://classics.mit.edu/Thucydides/pelopwar.1.first.html",

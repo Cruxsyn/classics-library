@@ -8,6 +8,20 @@
   "written": "360 BCE",
   "sourceNote": null,
   "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "hard-wrapped prose: 0.885 long unterminated interior lines, median line length 71.0, 0.876 unmarked continuation lines",
+  "textModeStats": {
+    "lineCount": 1126,
+    "paragraphCount": 107,
+    "interiorLineCount": 1019,
+    "medianLineLength": 71.0,
+    "meanLineLength": 89.46181172291297,
+    "longInteriorLineRatio": 0.9489695780176644,
+    "unterminatedInteriorLineRatio": 0.9067713444553483,
+    "longUnterminatedInteriorLineRatio": 0.8851815505397449,
+    "explicitBreakLineRatio": 0.03019538188277087,
+    "unmarkedLineRatio": 0.8756660746003553
+  },
   "landingUrl": "https://classics.mit.edu/Plato/symposium.html",
   "textUrls": [
     "https://classics.mit.edu/Plato/symposium.html"
@@ -28,8 +42,28 @@
         },
         {
           "type": "para",
-          "text": "APOLLODORUS, who repeats to his companion the dialogue which he had heard from Aristodemus, and had already once narrated to Glaucon PHAEDRUS PAUSANIAS ERYXIMACHUS ARISTOPHANES AGATHON SOCRATES ALCIBIADES A TROOP OF REVELLERS Scene The House of Agathon. Concerning the things about which you ask to be informed I believe that I am not ill-prepared with an answer. For the day before yesterday I was coming from my own home at Phalerum to the city, and one of my acquaintance, who had caught a sight of me from behind, hind, out playfully in the distance, said: Apollodorus, O thou Phalerian man, halt! So I did as I was bid; and then he said, I was looking for you, Apollodorus, only just now, that I might ask you about the speeches in praise of love, which were delivered by Socrates, Alcibiades, and others, at Agathon's supper. Phoenix, the son of Philip, told another person who told me of them; his narrative was very indistinct, but he said that you knew, and I wish that you would give me an account of them. Who, if not you, should be the reporter of the words of your friend? And first tell me, he said, were you present at this meeting? Your informant, Glaucon, I said, must have been very indistinct indeed, if you imagine that the occasion was recent; or that I could have been of the party. Why, yes, he replied, I thought so. Impossible: I said. Are you ignorant that for many years Agathon has not resided at Athens; and not three have elapsed since I became acquainted with Socrates, and have made it my daily business to know all that he says and does. There was a time when I was running about the world, fancying myself to be well employed, but I was really a most wretched thing, no better than you are now. I thought that I ought to do anything rather than be a philosopher.",
+          "text": "APOLLODORUS, who repeats to his companion the dialogue which he had heard from Aristodemus, and had already once narrated to Glaucon PHAEDRUS PAUSANIAS ERYXIMACHUS ARISTOPHANES AGATHON SOCRATES ALCIBIADES A TROOP OF REVELLERS Scene The House of Agathon.",
           "lineStart": 11
+        },
+        {
+          "type": "para",
+          "text": "Concerning the things about which you ask to be informed I believe that I am not ill-prepared with an answer. For the day before yesterday I was coming from my own home at Phalerum to the city, and one of my acquaintance, who had caught a sight of me from behind, hind, out playfully in the distance, said: Apollodorus, O thou Phalerian man, halt! So I did as I was bid; and then he said, I was looking for you, Apollodorus, only just now, that I might ask you about the speeches in praise of love, which were delivered by Socrates, Alcibiades, and others, at Agathon's supper. Phoenix, the son of Philip, told another person who told me of them; his narrative was very indistinct, but he said that you knew, and I wish that you would give me an account of them. Who, if not you, should be the reporter of the words of your friend? And first tell me, he said, were you present at this meeting?",
+          "lineStart": 22
+        },
+        {
+          "type": "para",
+          "text": "Your informant, Glaucon, I said, must have been very indistinct indeed, if you imagine that the occasion was recent; or that I could have been of the party.",
+          "lineStart": 35
+        },
+        {
+          "type": "para",
+          "text": "Why, yes, he replied, I thought so.",
+          "lineStart": 38
+        },
+        {
+          "type": "para",
+          "text": "Impossible: I said. Are you ignorant that for many years Agathon has not resided at Athens; and not three have elapsed since I became acquainted with Socrates, and have made it my daily business to know all that he says and does. There was a time when I was running about the world, fancying myself to be well employed, but I was really a most wretched thing, no better than you are now. I thought that I ought to do anything rather than be a philosopher.",
+          "lineStart": 39
         },
         {
           "type": "para",
@@ -546,7 +580,7 @@
   ],
   "stats": {
     "sectionCount": 1,
-    "paragraphCount": 103,
+    "paragraphCount": 107,
     "wordCount": 19058
   }
 }

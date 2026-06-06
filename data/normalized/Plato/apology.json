@@ -8,6 +8,20 @@
   "written": null,
   "sourceNote": null,
   "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "hard-wrapped prose: 0.924 long unterminated interior lines, median line length 72.0, 0.909 unmarked continuation lines",
+  "textModeStats": {
+    "lineCount": 860,
+    "paragraphCount": 79,
+    "interiorLineCount": 781,
+    "medianLineLength": 72.0,
+    "meanLineLength": 67.4953488372093,
+    "longInteriorLineRatio": 0.9961587708066582,
+    "unterminatedInteriorLineRatio": 0.9282970550576184,
+    "longUnterminatedInteriorLineRatio": 0.9244558258642765,
+    "explicitBreakLineRatio": 0.0,
+    "unmarkedLineRatio": 0.9093023255813953
+  },
   "landingUrl": "https://classics.mit.edu/Plato/apology.html",
   "textUrls": [
     "https://classics.mit.edu/Plato/apology.html"

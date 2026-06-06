@@ -8,6 +8,20 @@
   "written": "350 BCE",
   "sourceNote": null,
   "shape": "multi",
+  "textMode": "prose",
+  "textModeReason": "hard-wrapped prose: 0.891 long unterminated interior lines, median line length 71.0, 0.894 unmarked continuation lines",
+  "textModeStats": {
+    "lineCount": 1225,
+    "paragraphCount": 132,
+    "interiorLineCount": 1093,
+    "medianLineLength": 71.0,
+    "meanLineLength": 65.46367346938776,
+    "longInteriorLineRatio": 0.9688929551692589,
+    "unterminatedInteriorLineRatio": 0.9011893870082343,
+    "longUnterminatedInteriorLineRatio": 0.8911253430924062,
+    "explicitBreakLineRatio": 0.0008163265306122449,
+    "unmarkedLineRatio": 0.8938775510204081
+  },
   "landingUrl": "https://classics.mit.edu/Aristotle/poetics.html",
   "textUrls": [
     "https://classics.mit.edu/Aristotle/poetics.1.1.html",

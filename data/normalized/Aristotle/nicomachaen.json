@@ -8,6 +8,20 @@
   "written": "350 BCE",
   "sourceNote": null,
   "shape": "multi",
+  "textMode": "prose",
+  "textModeReason": "hard-wrapped prose: 0.923 long unterminated interior lines, median line length 72.0, 0.924 unmarked continuation lines",
+  "textModeStats": {
+    "lineCount": 6699,
+    "paragraphCount": 490,
+    "interiorLineCount": 6209,
+    "medianLineLength": 72.0,
+    "meanLineLength": 68.33512464546948,
+    "longInteriorLineRatio": 0.9903366081494605,
+    "unterminatedInteriorLineRatio": 0.9310678047994846,
+    "longUnterminatedInteriorLineRatio": 0.9225318086648414,
+    "explicitBreakLineRatio": 0.0025376921928646065,
+    "unmarkedLineRatio": 0.9244663382594417
+  },
   "landingUrl": "https://classics.mit.edu/Aristotle/nicomachaen.html",
   "textUrls": [
     "https://classics.mit.edu/Aristotle/nicomachaen.1.i.html",

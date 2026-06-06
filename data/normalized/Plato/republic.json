@@ -8,6 +8,20 @@
   "written": "360 BCE",
   "sourceNote": null,
   "shape": "multi",
+  "textMode": "prose",
+  "textModeReason": "hard-wrapped prose: 0.737 long unterminated interior lines, median line length 68.0, 0.654 unmarked continuation lines",
+  "textModeStats": {
+    "lineCount": 12201,
+    "paragraphCount": 2204,
+    "interiorLineCount": 9997,
+    "medianLineLength": 68.0,
+    "meanLineLength": 53.22153921809688,
+    "longInteriorLineRatio": 0.7721316394918476,
+    "unterminatedInteriorLineRatio": 0.7638291487446234,
+    "longUnterminatedInteriorLineRatio": 0.7374212263679104,
+    "explicitBreakLineRatio": 0.1662978444389804,
+    "unmarkedLineRatio": 0.6539627899352513
+  },
   "landingUrl": "https://classics.mit.edu/Plato/republic.html",
   "textUrls": [
     "https://classics.mit.edu/Plato/republic.1.introduction.html",
@@ -159,7 +173,8 @@
       "partTitle": "Book I",
       "blocks": [
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - GLAUCON",
           "lineStart": 10
         },
@@ -179,7 +194,8 @@
           "lineStart": 26
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - POLEMARCHUS - GLAUCON - ADEIMANTUS",
           "lineStart": 29
         },
@@ -219,7 +235,8 @@
           "lineStart": 54
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Glaucon - CEPHALUS - SOCRATES",
           "lineStart": 57
         },
@@ -299,7 +316,8 @@
           "lineStart": 176
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Cephalus - SOCRATES - POLEMARCHUS",
           "lineStart": 179
         },
@@ -319,7 +337,8 @@
           "lineStart": 185
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - POLEMARCHUS",
           "lineStart": 188
         },
@@ -614,7 +633,8 @@
           "lineStart": 429
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - POLEMARCHUS - THRASYMACHUS",
           "lineStart": 436
         },
@@ -674,7 +694,8 @@
           "lineStart": 488
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - THRASYMACHUS - GLAUCON",
           "lineStart": 490
         },
@@ -789,7 +810,8 @@
           "lineStart": 586
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - CLEITOPHON - POLEMARCHUS - THRASYMACHUS",
           "lineStart": 587
         },
@@ -824,7 +846,8 @@
           "lineStart": 604
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - THRASYMACHUS",
           "lineStart": 605
         },
@@ -1054,7 +1077,8 @@
           "lineStart": 872
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - GLAUCON",
           "lineStart": 880
         },
@@ -1099,7 +1123,8 @@
           "lineStart": 930
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - GLAUCON - THRASYMACHUS",
           "lineStart": 937
         },
@@ -1452,7 +1477,8 @@
       "partTitle": "Book II",
       "blocks": [
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - GLAUCON",
           "lineStart": 10
         },
@@ -1532,7 +1558,8 @@
           "lineStart": 141
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - GLAUCON",
           "lineStart": 172
         },
@@ -1622,7 +1649,8 @@
           "lineStart": 348
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - ADEIMANTUS",
           "lineStart": 392
         },
@@ -1842,7 +1870,8 @@
           "lineStart": 592
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - GLAUCON",
           "lineStart": 605
         },
@@ -2047,7 +2076,8 @@
           "lineStart": 797
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - ADEIMANTUS",
           "lineStart": 804
         },
@@ -2360,7 +2390,8 @@
       "partTitle": "Book III",
       "blocks": [
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - ADEIMANTUS",
           "lineStart": 10
         },
@@ -2925,7 +2956,8 @@
           "lineStart": 544
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - GLAUCON",
           "lineStart": 549
         },
@@ -3628,7 +3660,8 @@
       "partTitle": "Book IV",
       "blocks": [
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Adeimantus - SOCRATES",
           "lineStart": 10
         },
@@ -3943,7 +3976,8 @@
           "lineStart": 345
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - GLAUCON",
           "lineStart": 353
         },
@@ -4801,7 +4835,8 @@
       "partTitle": "Book V",
       "blocks": [
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - GLAUCON - ADEIMANTUS",
           "lineStart": 10
         },
@@ -4831,7 +4866,8 @@
           "lineStart": 47
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - ADEIMANTUS - GLAUCON - THRASYMACHUS",
           "lineStart": 49
         },
@@ -6089,7 +6125,8 @@
       "partTitle": "Book VI",
       "blocks": [
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - GLAUCON",
           "lineStart": 10
         },
@@ -6269,7 +6306,8 @@
           "lineStart": 157
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - ADEIMANTUS",
           "lineStart": 159
         },
@@ -6939,7 +6977,8 @@
           "lineStart": 957
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Glaucon - SOCRATES",
           "lineStart": 960
         },
@@ -7177,7 +7216,8 @@
       "partTitle": "Book VII",
       "blocks": [
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - GLAUCON",
           "lineStart": 10
         },
@@ -8175,7 +8215,8 @@
       "partTitle": "Book VIII",
       "blocks": [
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - GLAUCON",
           "lineStart": 10
         },
@@ -8330,7 +8371,8 @@
           "lineStart": 219
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - ADEIMANTUS",
           "lineStart": 222
         },
@@ -9338,7 +9380,8 @@
       "partTitle": "Book IX",
       "blocks": [
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - ADEIMANTUS",
           "lineStart": 10
         },
@@ -9523,7 +9566,8 @@
           "lineStart": 231
         },
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - GLAUCON",
           "lineStart": 234
         },
@@ -10316,7 +10360,8 @@
       "partTitle": "Book X",
       "blocks": [
         {
-          "type": "para",
+          "type": "heading",
+          "level": 3,
           "text": "Socrates - GLAUCON",
           "lineStart": 10
         },
@@ -11135,7 +11180,7 @@
   ],
   "stats": {
     "sectionCount": 11,
-    "paragraphCount": 2204,
+    "paragraphCount": 2173,
     "wordCount": 122688
   }
 }

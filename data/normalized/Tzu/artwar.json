@@ -8,6 +8,20 @@
   "written": null,
   "sourceNote": null,
   "shape": "single",
+  "textMode": "prose",
+  "textModeReason": "hard-wrapped prose: 0.902 long unterminated interior lines, median line length 57.0, 0.663 unmarked continuation lines",
+  "textModeStats": {
+    "lineCount": 1171,
+    "paragraphCount": 396,
+    "interiorLineCount": 775,
+    "medianLineLength": 57.0,
+    "meanLineLength": 50.78138343296328,
+    "longInteriorLineRatio": 0.9548387096774194,
+    "unterminatedInteriorLineRatio": 0.9470967741935484,
+    "longUnterminatedInteriorLineRatio": 0.9019354838709678,
+    "explicitBreakLineRatio": 0.0,
+    "unmarkedLineRatio": 0.6626814688300597
+  },
   "landingUrl": "https://classics.mit.edu/Tzu/artwar.html",
   "textUrls": [
     "https://classics.mit.edu/Tzu/artwar.html"

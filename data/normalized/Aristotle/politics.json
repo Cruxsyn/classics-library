@@ -8,6 +8,20 @@
   "written": "350 BCE",
   "sourceNote": null,
   "shape": "multi",
+  "textMode": "prose",
+  "textModeReason": "hard-wrapped prose: 0.918 long unterminated interior lines, median line length 72.0, 0.944 unmarked continuation lines",
+  "textModeStats": {
+    "lineCount": 6926,
+    "paragraphCount": 395,
+    "interiorLineCount": 6531,
+    "medianLineLength": 72.0,
+    "meanLineLength": 68.71628645682934,
+    "longInteriorLineRatio": 0.9820854386770785,
+    "unterminatedInteriorLineRatio": 0.9216046547236257,
+    "longUnterminatedInteriorLineRatio": 0.9182361047312816,
+    "explicitBreakLineRatio": 0.0,
+    "unmarkedLineRatio": 0.9441235922610454
+  },
   "landingUrl": "https://classics.mit.edu/Aristotle/politics.html",
   "textUrls": [
     "https://classics.mit.edu/Aristotle/politics.1.one.html",
