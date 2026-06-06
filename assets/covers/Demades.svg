@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Demades</title>
+  <desc id="desc">Monogram cover for Demades</desc>
+  <rect width="600" height="900" fill="#8F4A36"/>
+  <rect x="28" y="28" width="544" height="844" rx="18" fill="none" stroke="#F4ECD8" stroke-opacity="0.36" stroke-width="2"/>
+  <circle cx="300" cy="438" r="204" fill="#2A1A1C" fill-opacity="0.18"/>
+  <text x="300" y="472" text-anchor="middle" dominant-baseline="middle" fill="#F4ECD8" font-family="Newsreader, Georgia, 'Times New Roman', serif" font-size="188" font-weight="600" letter-spacing="8">D</text>
+  <text x="300" y="812" text-anchor="middle" fill="#F4ECD8" fill-opacity="0.76" font-family="Newsreader, Georgia, 'Times New Roman', serif" font-size="30" letter-spacing="2">CLASSICS</text>
+</svg>

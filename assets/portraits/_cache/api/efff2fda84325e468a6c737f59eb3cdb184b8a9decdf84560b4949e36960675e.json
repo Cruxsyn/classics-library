@@ -1,0 +1,2643 @@
+{
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo&iiprop=extmetadata%7Curl&iiextmetadatafilter=LicenseShortName%7CLicense%7CLicenseUrl%7CArtist%7CCredit%7CAttributionRequired%7CUsageTerms&iiurlwidth=960&titles=File%3A%28contorniate_M%C3%A9daillon_Horace_Rome_%28...%29Horace_%280065-0008_btv1b11343890r_1_%28cropped%29.jpg%7CFile%3AAeschines_bust.jpg%7CFile%3AAesop_pushkin01.jpg%7CFile%3AAlbert_Joseph_Moore_-_A_Musician_-_Google_Art_Project.jpg%7CFile%3AApollonius.png%7CFile%3AApuleuis.jpg%7CFile%3AAristotle_Altemps_Inv8575.jpg%7CFile%3AAugustus_of_Prima_Porta.jpg%7CFile%3AAulus_Hirtius_aureus_Gallica_14824_avers.jpg%7CFile%3ABibliotheke_des_Apollodor.JPG%7CFile%3ABust_of_Aristophanes.jpg%7CFile%3ABust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg%7CFile%3ABust_of_Hesiod_%28%3F%29-Ancient_Roman_busts_in_the_Neues_Museum.jpg%7CFile%3ABust_of_Pindar.jpg%7CFile%3ABust_of_Xenophon.jpg%7CFile%3ABusto_de_Lucano%2C_Cordoba.JPG%7CFile%3AConfucius_Tang_Dynasty.jpg%7CFile%3ADemosthenes_Polyeuctos_Louvre_Ma237_n01.jpg%7CFile%3ADiodoro_siculo_-_storico_di_Agira.jpg%7CFile%3AEpicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece_%28cropped%29.jpg%7CFile%3AEpikouros_BM_1843.jpg%7CFile%3AEuripide_%28cropped%29.jpg%7CFile%3AGalenus.jpg%7CFile%3AHakim_Omar_Khayam_-_panoramio.jpg%7CFile%3AHerma_of_Aeschylus%2C_Klas08.jpg%7CFile%3AHippocrates.jpg%7CFile%3AHomer_At_the_British_Museum_2024_%283x4_cropped%29.jpg%7CFile%3AHypereides_Ny_Carlsberg_Glyptotek_IN1967.jpg%7CFile%3AImaginary_depiction_of_the_poet_Firdausi._Folio_from_a_Khavarannama_%28The_Book_of_the_East%29_of_ibn_Husam_al-Din%2C_1476-1486_%28cropped%29.jpg%7CFile%3AIsocrates_pushkin.jpg%7CFile%3AJoseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28cropped%29.jpg%7CFile%3AJusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg%7CFile%3ALao+Tzu+-+Project+Gutenberg+eText+15250.jpg%7CFile%3ALucretius_pointing_to_the_casus.jpg%7CFile%3ALycurgus_of_Athens.jpg%7CFile%3AMSR-ra-61-b-1-DM.jpg%7CFile%3AMarble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg%7CFile%3AOvid_by_an_anonymous_sculptor.jpg%7CFile%3AParc_de_Versailles%2C_Rond-Point_des_Philosophes%2C_Lysias%2C_Jean_Dedieu_inv1850n%C2%B09452_03.jpg%7CFile%3APausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg%7CFile%3APlato_Silanion_Musei_Capitolini_MC1377.png%7CFile%3APlotinos.jpg%7CFile%3APortrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz%2C_latins_et_payens.jpg%7CFile%3APortrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg%7CFile%3AQuintus+Smyrnaeus%2C+Posthomerica%2C+Vaticanus+Ottobonianus+graecus+103.jpg%7CFile%3ARetrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg%7CFile%3ASaadi_by_Hossein_Behzad_%28Inverted%29.jpg%7CFile%3ASophocles_pushkin.jpg%7CFile%3AStrabo.jpg%7CFile%3AThucydides_pushkin01.jpg",
+  "status_code": 200,
+  "fetched_with": "ClassicsLibrary/1.0 (super.croox@gmail.com)",
+  "body": {
+    "batchcomplete": true,
+    "query": {
+      "normalized": [
+        {
+          "fromencoded": false,
+          "from": "File:(contorniate_Médaillon_Horace_Rome_(...)Horace_(0065-0008_btv1b11343890r_1_(cropped).jpg",
+          "to": "File:(contorniate Médaillon Horace Rome (...)Horace (0065-0008 btv1b11343890r 1 (cropped).jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Aeschines_bust.jpg",
+          "to": "File:Aeschines bust.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Aesop_pushkin01.jpg",
+          "to": "File:Aesop pushkin01.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Albert_Joseph_Moore_-_A_Musician_-_Google_Art_Project.jpg",
+          "to": "File:Albert Joseph Moore - A Musician - Google Art Project.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Aristotle_Altemps_Inv8575.jpg",
+          "to": "File:Aristotle Altemps Inv8575.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Augustus_of_Prima_Porta.jpg",
+          "to": "File:Augustus of Prima Porta.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Aulus_Hirtius_aureus_Gallica_14824_avers.jpg",
+          "to": "File:Aulus Hirtius aureus Gallica 14824 avers.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Bibliotheke_des_Apollodor.JPG",
+          "to": "File:Bibliotheke des Apollodor.JPG"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Bust_of_Aristophanes.jpg",
+          "to": "File:Bust of Aristophanes.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Bust_of_Cicero_(1st-cent._BC)_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+          "to": "File:Bust of Cicero (1st-cent. BC) - Palazzo Nuovo - Musei Capitolini - Rome 2016.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Bust_of_Hesiod_(?)-Ancient_Roman_busts_in_the_Neues_Museum.jpg",
+          "to": "File:Bust of Hesiod (?)-Ancient Roman busts in the Neues Museum.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Bust_of_Pindar.jpg",
+          "to": "File:Bust of Pindar.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Bust_of_Xenophon.jpg",
+          "to": "File:Bust of Xenophon.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Busto_de_Lucano,_Cordoba.JPG",
+          "to": "File:Busto de Lucano, Cordoba.JPG"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Confucius_Tang_Dynasty.jpg",
+          "to": "File:Confucius Tang Dynasty.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg",
+          "to": "File:Demosthenes Polyeuctos Louvre Ma237 n01.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Diodoro_siculo_-_storico_di_Agira.jpg",
+          "to": "File:Diodoro siculo - storico di Agira.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Epicteti_Enchiridion_Latinis_versibus_adumbratum_(Oxford_1715)_frontispiece_(cropped).jpg",
+          "to": "File:Epicteti Enchiridion Latinis versibus adumbratum (Oxford 1715) frontispiece (cropped).jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Epikouros_BM_1843.jpg",
+          "to": "File:Epikouros BM 1843.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Euripide_(cropped).jpg",
+          "to": "File:Euripide (cropped).jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Hakim_Omar_Khayam_-_panoramio.jpg",
+          "to": "File:Hakim Omar Khayam - panoramio.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Herma_of_Aeschylus,_Klas08.jpg",
+          "to": "File:Herma of Aeschylus, Klas08.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Homer_At_the_British_Museum_2024_(3x4_cropped).jpg",
+          "to": "File:Homer At the British Museum 2024 (3x4 cropped).jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Hypereides_Ny_Carlsberg_Glyptotek_IN1967.jpg",
+          "to": "File:Hypereides Ny Carlsberg Glyptotek IN1967.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Imaginary_depiction_of_the_poet_Firdausi._Folio_from_a_Khavarannama_(The_Book_of_the_East)_of_ibn_Husam_al-Din,_1476-1486_(cropped).jpg",
+          "to": "File:Imaginary depiction of the poet Firdausi. Folio from a Khavarannama (The Book of the East) of ibn Husam al-Din, 1476-1486 (cropped).jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Isocrates_pushkin.jpg",
+          "to": "File:Isocrates pushkin.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Joseph,_son_of_Gorian,_called_Flavius_Josephus_(cropped).jpg",
+          "to": "File:Joseph, son of Gorian, called Flavius Josephus (cropped).jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg",
+          "to": "File:Jusepe de Ribera - Euclid - 2001.26 - J. Paul Getty Museum.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Lucretius_pointing_to_the_casus.jpg",
+          "to": "File:Lucretius pointing to the casus.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Lycurgus_of_Athens.jpg",
+          "to": "File:Lycurgus of Athens.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Marble_bust_of_Herodotos_MET_DT11742_(cropped).jpg",
+          "to": "File:Marble bust of Herodotos MET DT11742 (cropped).jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Ovid_by_an_anonymous_sculptor.jpg",
+          "to": "File:Ovid by an anonymous sculptor.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Parc_de_Versailles,_Rond-Point_des_Philosophes,_Lysias,_Jean_Dedieu_inv1850n°9452_03.jpg",
+          "to": "File:Parc de Versailles, Rond-Point des Philosophes, Lysias, Jean Dedieu inv1850n°9452 03.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Pausanias,_Florence,_BML,_Plut._56.11.jpg",
+          "to": "File:Pausanias, Florence, BML, Plut. 56.11.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Plato_Silanion_Musei_Capitolini_MC1377.png",
+          "to": "File:Plato Silanion Musei Capitolini MC1377.png"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz,_latins_et_payens.jpg",
+          "to": "File:Portrait of Porphyry of Tyre from Les vrais pourtraits et vies des hommes illustres grecz, latins et payens.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Portrait_of_a_philosopher,_maybe_Plutarch,_2nd_century_BC,_AM_Delphi,_0135.jpg",
+          "to": "File:Portrait of a philosopher, maybe Plutarch, 2nd century BC, AM Delphi, 0135.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Retrato_de_Julio_César_(26724093101)_(cropped).jpg",
+          "to": "File:Retrato de Julio César (26724093101) (cropped).jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Saadi_by_Hossein_Behzad_(Inverted).jpg",
+          "to": "File:Saadi by Hossein Behzad (Inverted).jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Sophocles_pushkin.jpg",
+          "to": "File:Sophocles pushkin.jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Thucydides_pushkin01.jpg",
+          "to": "File:Thucydides pushkin01.jpg"
+        }
+      ],
+      "pages": [
+        {
+          "pageid": 164808,
+          "ns": 6,
+          "title": "File:Hippocrates.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hippocrates.jpg",
+              "thumbwidth": 483,
+              "thumbheight": 710,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hippocrates.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hippocrates.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=164808",
+              "extmetadata": {
+                "Artist": {
+                  "value": "<bdi><a href=\"//commons.wikimedia.org/wiki/Category:Unidentified_engravers\" title=\"Category:Unidentified engravers\">Unidentified engraver</a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<p>1881 Young Persons' Cyclopedia of Persons and Places\n</p>\nUpload by <a href=\"https://en.wikipedia.org/wiki/User:RedWolf\" class=\"extiw\" title=\"en:User:RedWolf\">RedWolf</a> 05:45, Jan 10, 2005 (UTC)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 187363,
+          "ns": 6,
+          "title": "File:Lao Tzu - Project Gutenberg eText 15250.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Lao_Tzu_-_Project_Gutenberg_eText_15250.jpg",
+              "thumbwidth": 361,
+              "thumbheight": 512,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Lao_Tzu_-_Project_Gutenberg_eText_15250.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lao_Tzu_-_Project_Gutenberg_eText_15250.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=187363",
+              "extmetadata": {
+                "Credit": {
+                  "value": "Page 72 of Edward Theodore Chalmers Werner's <i><a rel=\"nofollow\" class=\"external text\" href=\"http://www.gutenberg.org/etext/15250\">Myths and Legends of China</a></i> on Project Gutenberg",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 581572,
+          "ns": 6,
+          "title": "File:Strabo.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Strabo.jpg/960px-Strabo.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1159,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Strabo.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Strabo.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Strabo.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=581572",
+              "extmetadata": {
+                "Credit": {
+                  "value": "Original uploads comes from <a rel=\"nofollow\" class=\"external text\" href=\"https://library.si.edu/image-gallery/73448\">Potraits from the Dibner Library of the History and Science of Technology</a>. Updated upload from the original scan from the book <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/lesvraispourtrai01thev/page/n189/mode/2up\">André Thevet, Les vrais pourtraits et vies des hommes illustres, chap. 35, page 76</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Andr%C3%A9_Thevet\" class=\"extiw\" title=\"w:en:André Thevet\"><span title=\"French priest, writer and explorer (1516–1590)\">André Thévet</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 857482,
+          "ns": 6,
+          "title": "File:Confucius Tang Dynasty.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Confucius_Tang_Dynasty.jpg",
+              "thumbwidth": 350,
+              "thumbheight": 640,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Confucius_Tang_Dynasty.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Confucius_Tang_Dynasty.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=857482",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://i.pinimg.com/originals/77/95/19/7795198cc338e4642d2ce7ac965458b2.jpg\">https://i.pinimg.com/originals/77/95/19/7795198cc338e4642d2ce7ac965458b2.jpg</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/Wu_Daozi\" class=\"mw-redirect\" title=\"Wu Daozi\">Wu Daozi</a>, 685-758, Tang Dynasty.",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 1359807,
+          "ns": 6,
+          "title": "File:Aristotle Altemps Inv8575.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/960px-Aristotle_Altemps_Inv8575.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1285,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1359807",
+              "extmetadata": {
+                "Artist": {
+                  "value": "<bdi>After <a href=\"https://en.wikipedia.org/wiki/en:Lysippos\" class=\"extiw\" title=\"w:en:Lysippos\"><span title=\"4th-century BC Greek sculptor\">Lysippos</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Jastrow</a> (2006)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 1447258,
+          "ns": 6,
+          "title": "File:Epikouros BM 1843.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/960px-Epikouros_BM_1843.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1440,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1920px-Epikouros_BM_1843.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Epikouros_BM_1843.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Epikouros_BM_1843.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1447258",
+              "extmetadata": {
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown artist<span style=\"display: none;\">Unknown artist</span></div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Marie-Lan Nguyen</a> (2011)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 1659353,
+          "ns": 6,
+          "title": "File:Plotinos.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Plotinos.jpg",
+              "thumbwidth": 569,
+              "thumbheight": 681,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Plotinos.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Plotinos.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1659353",
+              "extmetadata": {
+                "Credit": {
+                  "value": "Ostiense Museum, Ostia Antica - ROME, Italy",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 1861907,
+          "ns": 6,
+          "title": "File:Aeschines bust.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Aeschines_bust.jpg",
+              "thumbwidth": 535,
+              "thumbheight": 1000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Aeschines_bust.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aeschines_bust.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1861907",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:ChrisO\" title=\"User:ChrisO\">ChrisO</a> (<span class=\"int-own-work\" lang=\"en\">Own work</span>)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 5545991,
+          "ns": 6,
+          "title": "File:Aesop pushkin01.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Aesop_pushkin01.jpg/960px-Aesop_pushkin01.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1447,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/6/63/Aesop_pushkin01.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Aesop_pushkin01.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aesop_pushkin01.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5545991",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Shakko\" title=\"User:Shakko\">user:shakko</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 5573891,
+          "ns": 6,
+          "title": "File:Sophocles pushkin.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Sophocles_pushkin.jpg",
+              "thumbwidth": 779,
+              "thumbheight": 1058,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Sophocles_pushkin.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sophocles_pushkin.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5573891",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Shakko\" title=\"User:Shakko\">user:shakko</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 5573948,
+          "ns": 6,
+          "title": "File:Thucydides pushkin01.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Thucydides_pushkin01.jpg",
+              "thumbwidth": 775,
+              "thumbheight": 1077,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Thucydides_pushkin01.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Thucydides_pushkin01.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5573948",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Shakko\" title=\"User:Shakko\">user:shakko</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 5574036,
+          "ns": 6,
+          "title": "File:Isocrates pushkin.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Isocrates_pushkin.jpg/960px-Isocrates_pushkin.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1388,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Isocrates_pushkin.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Isocrates_pushkin.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Isocrates_pushkin.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5574036",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Shakko\" title=\"User:Shakko\">user:shakko</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 7024061,
+          "ns": 6,
+          "title": "File:Busto de Lucano, Cordoba.JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Busto_de_Lucano%2C_Cordoba.JPG/960px-Busto_de_Lucano%2C_Cordoba.JPG",
+              "thumbwidth": 960,
+              "thumbheight": 1338,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Busto_de_Lucano%2C_Cordoba.JPG/1920px-Busto_de_Lucano%2C_Cordoba.JPG"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Busto_de_Lucano%2C_Cordoba.JPG",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Busto_de_Lucano,_Cordoba.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7024061",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Cruccone\" title=\"User:Cruccone\">Cruccone</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/3.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 15570886,
+          "ns": 6,
+          "title": "File:Parc de Versailles, Rond-Point des Philosophes, Lysias, Jean Dedieu inv1850n°9452 03.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Parc_de_Versailles%2C_Rond-Point_des_Philosophes%2C_Lysias%2C_Jean_Dedieu_inv1850n%C2%B09452_03.jpg/960px-Parc_de_Versailles%2C_Rond-Point_des_Philosophes%2C_Lysias%2C_Jean_Dedieu_inv1850n%C2%B09452_03.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1440,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Parc_de_Versailles%2C_Rond-Point_des_Philosophes%2C_Lysias%2C_Jean_Dedieu_inv1850n%C2%B09452_03.jpg/1920px-Parc_de_Versailles%2C_Rond-Point_des_Philosophes%2C_Lysias%2C_Jean_Dedieu_inv1850n%C2%B09452_03.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Parc_de_Versailles%2C_Rond-Point_des_Philosophes%2C_Lysias%2C_Jean_Dedieu_inv1850n%C2%B09452_03.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Parc_de_Versailles,_Rond-Point_des_Philosophes,_Lysias,_Jean_Dedieu_inv1850n%C2%B09452_03.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15570886",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<p><a href=\"//commons.wikimedia.org/wiki/User:Coyau\" title=\"User:Coyau\">Coyau</a>\n</p>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 16005305,
+          "ns": 6,
+          "title": "File:Apuleuis.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Apuleuis.jpg/960px-Apuleuis.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 722,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Apuleuis.jpg/1920px-Apuleuis.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Apuleuis.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Apuleuis.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16005305",
+              "extmetadata": {
+                "Credit": {
+                  "value": "Front cover of <i><a rel=\"nofollow\" class=\"external text\" href=\"https://books.google.com/books?id=fOq28aY4QUUC&amp;printsec=frontcover&amp;source=gbs_atb#v=onepage&amp;q&amp;f=false\">The Fortunes of Apuleius and The Golden Ass: A Study in Transmission and Reception</a></i> by Julia Haig Gaisser (2008) <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/9780691131368\" title=\"Special:BookSources/9780691131368\">9780691131368</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 16306340,
+          "ns": 6,
+          "title": "File:Demosthenes Polyeuctos Louvre Ma237 n01.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg/960px-Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1440,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg/1920px-Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16306340",
+              "extmetadata": {
+                "Artist": {
+                  "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q3395557\" class=\"extiw\" title=\"d:Q3395557\"><span title=\"ancient Greek sculptor\">Polyeuctus</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Marie-Lan Nguyen</a> (2011)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.5",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.5",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.5",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-2.5",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 20275527,
+          "ns": 6,
+          "title": "File:Bibliotheke des Apollodor.JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bibliotheke_des_Apollodor.JPG/960px-Bibliotheke_des_Apollodor.JPG",
+              "thumbwidth": 960,
+              "thumbheight": 1601,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bibliotheke_des_Apollodor.JPG"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bibliotheke_des_Apollodor.JPG",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bibliotheke_des_Apollodor.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=20275527",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/stream/bibliothequedap00unkngoog#page/n11/mode/2up\">https://archive.org/stream/bibliothequedap00unkngoog#page/n11/mode/2up</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Apollodor",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 21942528,
+          "ns": 6,
+          "title": "File:Albert Joseph Moore - A Musician - Google Art Project.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Albert_Joseph_Moore_-_A_Musician_-_Google_Art_Project.jpg/960px-Albert_Joseph_Moore_-_A_Musician_-_Google_Art_Project.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 695,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Albert_Joseph_Moore_-_A_Musician_-_Google_Art_Project.jpg/1920px-Albert_Joseph_Moore_-_A_Musician_-_Google_Art_Project.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Albert_Joseph_Moore_-_A_Musician_-_Google_Art_Project.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Albert_Joseph_Moore_-_A_Musician_-_Google_Art_Project.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21942528",
+              "extmetadata": {
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Albert_Joseph_Moore\" class=\"extiw\" title=\"w:en:Albert Joseph Moore\"><span title=\"English artist (1841–1893)\">Albert Joseph Moore</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/FQGrdWhydeFscg\">FQGrdWhydeFscg at Google Cultural Institute</a> maximum zoom level",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 34791154,
+          "ns": 6,
+          "title": "File:Diodoro siculo - storico di Agira.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Diodoro_siculo_-_storico_di_Agira.jpg",
+              "thumbwidth": 334,
+              "thumbheight": 347,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Diodoro_siculo_-_storico_di_Agira.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Diodoro_siculo_-_storico_di_Agira.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34791154",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://digilander.iol.it/agira1/diodorosiculo.htm\">fonte</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 40855568,
+          "ns": 6,
+          "title": "File:Galenus.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Galenus.jpg",
+              "thumbwidth": 469,
+              "thumbheight": 776,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Galenus.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Galenus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40855568",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2812%2960846-0/fulltext\">The Lancet</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Georg Paul Busch (engraver)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 48321203,
+          "ns": 6,
+          "title": "File:Jusepe de Ribera - Euclid - 2001.26 - J. Paul Getty Museum.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg/960px-Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1302,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg/1920px-Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48321203",
+              "extmetadata": {
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Jusepe_de_Ribera\" class=\"extiw\" title=\"w:en:Jusepe de Ribera\"><span title=\"Spanish painter (1591–1652)\">Jusepe de Ribera</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.getty.edu/art/collection/objects/130406/jusepe-de-ribera-euclid-spanish-about-1630-1635/\">J. Paul Getty Museum</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 48539122,
+          "ns": 6,
+          "title": "File:Quintus Smyrnaeus, Posthomerica, Vaticanus Ottobonianus graecus 103.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Quintus_Smyrnaeus%2C_Posthomerica%2C_Vaticanus_Ottobonianus_graecus_103.jpg/960px-Quintus_Smyrnaeus%2C_Posthomerica%2C_Vaticanus_Ottobonianus_graecus_103.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1370,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Quintus_Smyrnaeus%2C_Posthomerica%2C_Vaticanus_Ottobonianus_graecus_103.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Quintus_Smyrnaeus%2C_Posthomerica%2C_Vaticanus_Ottobonianus_graecus_103.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Quintus_Smyrnaeus,_Posthomerica,_Vaticanus_Ottobonianus_graecus_103.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48539122",
+              "extmetadata": {
+                "Credit": {
+                  "value": "2d copy",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Quintus_Smyrnaeus\" class=\"extiw\" title=\"w:en:Quintus Smyrnaeus\"><span title=\"4th-century Greek poet\">Quintus Smyrnaeus</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 53959809,
+          "ns": 6,
+          "title": "File:Bust of Cicero (1st-cent. BC) - Palazzo Nuovo - Musei Capitolini - Rome 2016.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/960px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1440,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/1920px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bust_of_Cicero_(1st-cent._BC)_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=53959809",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><big>José Luiz</big></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 55909539,
+          "ns": 6,
+          "title": "File:Hakim Omar Khayam - panoramio.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hakim_Omar_Khayam_-_panoramio.jpg",
+              "thumbwidth": 915,
+              "thumbheight": 1083,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hakim_Omar_Khayam_-_panoramio.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hakim_Omar_Khayam_-_panoramio.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55909539",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20161024154356/http://www.panoramio.com/photo/85093358\">https://web.archive.org/web/20161024154356/http://www.panoramio.com/photo/85093358</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161024154400/http://www.panoramio.com/user/1317158?with_photo_id=85093358\">Alireza Javaheri</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/3.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 56233390,
+          "ns": 6,
+          "title": "File:Portrait of a philosopher, maybe Plutarch, 2nd century BC, AM Delphi, 0135.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+              "thumbwidth": 799,
+              "thumbheight": 1199,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_philosopher,_maybe_Plutarch,_2nd_century_BC,_AM_Delphi,_0135.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=56233390",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Zde\" title=\"User:Zde\">Zde</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 68366219,
+          "ns": 6,
+          "title": "File:Herma of Aeschylus, Klas08.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Herma_of_Aeschylus%2C_Klas08.jpg/960px-Herma_of_Aeschylus%2C_Klas08.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1421,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Herma_of_Aeschylus%2C_Klas08.jpg/1920px-Herma_of_Aeschylus%2C_Klas08.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Herma_of_Aeschylus%2C_Klas08.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Herma_of_Aeschylus,_Klas08.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=68366219",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Zde\" title=\"User:Zde\">Zde</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 70241491,
+          "ns": 6,
+          "title": "File:Pausanias, Florence, BML, Plut. 56.11.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg/960px-Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1353,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg/1920px-Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pausanias,_Florence,_BML,_Plut._56.11.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=70241491",
+              "extmetadata": {
+                "Credit": {
+                  "value": "2d copy",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Pausanias_(geographer)\" class=\"extiw\" title=\"w:en:Pausanias (geographer)\"><span title=\"ancient Greek geographer, travel writer and mythographer\">Pausanias</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 80510834,
+          "ns": 6,
+          "title": "File:Aulus Hirtius aureus Gallica 14824 avers.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aulus_Hirtius_aureus_Gallica_14824_avers.jpg/960px-Aulus_Hirtius_aureus_Gallica_14824_avers.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 960,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aulus_Hirtius_aureus_Gallica_14824_avers.jpg/1920px-Aulus_Hirtius_aureus_Gallica_14824_avers.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Aulus_Hirtius_aureus_Gallica_14824_avers.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Aulus_Hirtius_aureus_Gallica_14824_avers.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=80510834",
+              "extmetadata": {
+                "Credit": {
+                  "value": "This file comes from <a rel=\"nofollow\" class=\"external text\" href=\"https://gallica.bnf.fr/\">Gallica Digital Library</a> and is available under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://gallica.bnf.fr/ark:/12148/btv1b10453449j\">btv1b10453449j</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 86149304,
+          "ns": 6,
+          "title": "File:Hypereides Ny Carlsberg Glyptotek IN1967.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hypereides_Ny_Carlsberg_Glyptotek_IN1967.jpg/960px-Hypereides_Ny_Carlsberg_Glyptotek_IN1967.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1205,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hypereides_Ny_Carlsberg_Glyptotek_IN1967.jpg/1920px-Hypereides_Ny_Carlsberg_Glyptotek_IN1967.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Hypereides_Ny_Carlsberg_Glyptotek_IN1967.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hypereides_Ny_Carlsberg_Glyptotek_IN1967.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=86149304",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Marie-Lan Nguyen</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 91281949,
+          "ns": 6,
+          "title": "File:Retrato de Julio César (26724093101) (cropped).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/960px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1304,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Retrato_de_Julio_C%C3%A9sar_(26724093101)_(cropped).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91281949",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/elgolem/26724093101/\">Retrato de Julio César</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/8146925@N08\">Ángel M. Felicísimo</a> from Mérida, España",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 92588067,
+          "ns": 6,
+          "title": "File:Lycurgus of Athens.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Lycurgus_of_Athens.jpg",
+              "thumbwidth": 858,
+              "thumbheight": 1300,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Lycurgus_of_Athens.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lycurgus_of_Athens.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92588067",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://staikoslibraries.gr/en/faces/item/446-lykoyrgos.html\">https://staikoslibraries.gr/en/faces/item/446-lykoyrgos.html</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "J.wilkes",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 93178865,
+          "ns": 6,
+          "title": "File:Ovid by an anonymous sculptor.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ovid_by_an_anonymous_sculptor.jpg/960px-Ovid_by_an_anonymous_sculptor.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1280,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ovid_by_an_anonymous_sculptor.jpg/1920px-Ovid_by_an_anonymous_sculptor.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Ovid_by_an_anonymous_sculptor.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ovid_by_an_anonymous_sculptor.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93178865",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Lucasaw&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Lucasaw (page does not exist)\">Lucasaw</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 93437400,
+          "ns": 6,
+          "title": "File:Bust of Hesiod (?)-Ancient Roman busts in the Neues Museum.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bust_of_Hesiod_%28%3F%29-Ancient_Roman_busts_in_the_Neues_Museum.jpg",
+              "thumbwidth": 744,
+              "thumbheight": 1280,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bust_of_Hesiod_%28%3F%29-Ancient_Roman_busts_in_the_Neues_Museum.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bust_of_Hesiod_(%3F)-Ancient_Roman_busts_in_the_Neues_Museum.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93437400",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Yair-haklai\" title=\"User:Yair-haklai\">Yair Haklai</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 94123897,
+          "ns": 6,
+          "title": "File:Bust of Aristophanes.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bust_of_Aristophanes.jpg/960px-Bust_of_Aristophanes.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1399,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bust_of_Aristophanes.jpg/1920px-Bust_of_Aristophanes.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Bust_of_Aristophanes.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bust_of_Aristophanes.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94123897",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Atrinax&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Atrinax (page does not exist)\">Alexander Mayatsky</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 97131451,
+          "ns": 6,
+          "title": "File:MSR-ra-61-b-1-DM.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/960px-MSR-ra-61-b-1-DM.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1280,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/1920px-MSR-ra-61-b-1-DM.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/MSR-ra-61-b-1-DM.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:MSR-ra-61-b-1-DM.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97131451",
+              "extmetadata": {
+                "Credit": {
+                  "value": "Photothèque du musée Saint-Raymond",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Daniel Martin",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 115708819,
+          "ns": 6,
+          "title": "File:Marble bust of Herodotos MET DT11742 (cropped).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/960px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1281,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/1920px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Marble_bust_of_Herodotos_MET_DT11742_(cropped).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=115708819",
+              "extmetadata": {
+                "Credit": {
+                  "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 117241058,
+          "ns": 6,
+          "title": "File:Bust of Pindar.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bust_of_Pindar.jpg/960px-Bust_of_Pindar.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1422,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bust_of_Pindar.jpg/1920px-Bust_of_Pindar.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Bust_of_Pindar.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bust_of_Pindar.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117241058",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:NikonZ7II\" title=\"User:NikonZ7II\">NikonZ7II</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 127341911,
+          "ns": 6,
+          "title": "File:Lucretius pointing to the casus.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Lucretius_pointing_to_the_casus.jpg/960px-Lucretius_pointing_to_the_casus.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1565,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Lucretius_pointing_to_the_casus.jpg/1920px-Lucretius_pointing_to_the_casus.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Lucretius_pointing_to_the_casus.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lucretius_pointing_to_the_casus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=127341911",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<i>T. Lucretius Carus of the Nature of Things</i> (<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/tlucretiuscaruso01lucr/page/n5/mode/2up\">https://archive.org/details/tlucretiuscaruso01lucr/page/n5/mode/2up</a>)",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Designed by “T. C.” (possibly Thomas Creech, died 1700); drawn and engraved by M. Burghers",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 128303246,
+          "ns": 6,
+          "title": "File:Saadi by Hossein Behzad (Inverted).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Saadi_by_Hossein_Behzad_%28Inverted%29.jpg",
+              "thumbwidth": 757,
+              "thumbheight": 1080,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Saadi_by_Hossein_Behzad_%28Inverted%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Saadi_by_Hossein_Behzad_(Inverted).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128303246",
+              "extmetadata": {
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hossein_Behzad\" class=\"extiw\" title=\"w:en:Hossein Behzad\"><span title=\"Iranian painter (1894–1968)\">Hossein Behzad</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "This file was derived from:  <a href=\"//commons.wikimedia.org/wiki/File:%D8%B3%D8%B9%D8%AF%DB%8C_%D8%A7%D8%AB%D8%B1_%D8%AD%D8%B3%DB%8C%D9%86_%D8%A8%D9%87%D8%B2%D8%A7%D8%AF.jpg\" title=\"File:سعدی اثر حسین بهزاد.jpg\">سعدی اثر حسین بهزاد.jpg</a>: <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:%D8%B3%D8%B9%D8%AF%DB%8C_%D8%A7%D8%AB%D8%B1_%D8%AD%D8%B3%DB%8C%D9%86_%D8%A8%D9%87%D8%B2%D8%A7%D8%AF.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%D8%B3%D8%B9%D8%AF%DB%8C_%D8%A7%D8%AB%D8%B1_%D8%AD%D8%B3%DB%8C%D9%86_%D8%A8%D9%87%D8%B2%D8%A7%D8%AF.jpg/60px-%D8%B3%D8%B9%D8%AF%DB%8C_%D8%A7%D8%AB%D8%B1_%D8%AD%D8%B3%DB%8C%D9%86_%D8%A8%D9%87%D8%B2%D8%A7%D8%AF.jpg\" decoding=\"async\" width=\"50\" height=\"71\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/%D8%B3%D8%B9%D8%AF%DB%8C_%D8%A7%D8%AB%D8%B1_%D8%AD%D8%B3%DB%8C%D9%86_%D8%A8%D9%87%D8%B2%D8%A7%D8%AF.jpg/120px-%D8%B3%D8%B9%D8%AF%DB%8C_%D8%A7%D8%AB%D8%B1_%D8%AD%D8%B3%DB%8C%D9%86_%D8%A8%D9%87%D8%B2%D8%A7%D8%AF.jpg 2x\" data-file-width=\"757\" data-file-height=\"1080\"></a></span><br>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 130344084,
+          "ns": 6,
+          "title": "File:Epicteti Enchiridion Latinis versibus adumbratum (Oxford 1715) frontispiece (cropped).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece_%28cropped%29.jpg/960px-Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece_%28cropped%29.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1409,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece_%28cropped%29.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece_%28cropped%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Epicteti_Enchiridion_Latinis_versibus_adumbratum_(Oxford_1715)_frontispiece_(cropped).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=130344084",
+              "extmetadata": {
+                "Artist": {
+                  "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q18811422\" class=\"extiw\" title=\"d:Q18811422\"><span title=\"portrait painter (1650–1708)\">William Sonmans</span></a></bdi> / <bdi><a href=\"https://en.wikipedia.org/wiki/en:Michael_Burghers\" class=\"extiw\" title=\"w:en:Michael Burghers\"><span title=\"Dutch engraver\">Michael Burghers</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/File:Epicteti_Enchiridion_Latinis_versibus_adumbratum_(Oxford_1715)_frontispiece.jpg\" title=\"File:Epicteti Enchiridion Latinis versibus adumbratum (Oxford 1715) frontispiece.jpg\">File:Epicteti Enchiridion Latinis versibus adumbratum (Oxford 1715) frontispiece.jpg</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 138613551,
+          "ns": 6,
+          "title": "File:(contorniate Médaillon Horace Rome (...)Horace (0065-0008 btv1b11343890r 1 (cropped).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%28contorniate_M%C3%A9daillon_Horace_Rome_%28...%29Horace_%280065-0008_btv1b11343890r_1_%28cropped%29.jpg/960px-%28contorniate_M%C3%A9daillon_Horace_Rome_%28...%29Horace_%280065-0008_btv1b11343890r_1_%28cropped%29.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 966,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/7/77/%28contorniate_M%C3%A9daillon_Horace_Rome_%28...%29Horace_%280065-0008_btv1b11343890r_1_%28cropped%29.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/%28contorniate_M%C3%A9daillon_Horace_Rome_%28...%29Horace_%280065-0008_btv1b11343890r_1_%28cropped%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:(contorniate_M%C3%A9daillon_Horace_Rome_(...)Horace_(0065-0008_btv1b11343890r_1_(cropped).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=138613551",
+              "extmetadata": {
+                "Credit": {
+                  "value": "(1) <a rel=\"nofollow\" class=\"external free\" href=\"https://gallica.bnf.fr/ark:/12148/btv1b11343890r.r=monnroimp%20contorniateHorace%20Horace?rk=107296;4\">https://gallica.bnf.fr/ark:/12148/btv1b11343890r.r=monnroimp%20contorniateHorace%20Horace?rk=107296;4</a> (2) <a rel=\"nofollow\" class=\"external free\" href=\"https://gallica.bnf.fr/ark:/12148/btv1b113438916.r=monnroimp%20contorniateHorace%20Horace?rk=42918;4\">https://gallica.bnf.fr/ark:/12148/btv1b113438916.r=monnroimp%20contorniateHorace%20Horace?rk=42918;4</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 151400501,
+          "ns": 6,
+          "title": "File:Euripide (cropped).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Euripide_%28cropped%29.jpg/960px-Euripide_%28cropped%29.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1295,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Euripide_%28cropped%29.jpg/1920px-Euripide_%28cropped%29.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Euripide_%28cropped%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Euripide_(cropped).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151400501",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:NikonZ7II\" title=\"User:NikonZ7II\">NikonZ7II</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 153003928,
+          "ns": 6,
+          "title": "File:Plato Silanion Musei Capitolini MC1377.png",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/960px-Plato_Silanion_Musei_Capitolini_MC1377.png",
+              "thumbwidth": 960,
+              "thumbheight": 1440,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/1920px-Plato_Silanion_Musei_Capitolini_MC1377.png"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153003928",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<p><a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Marie-Lan Nguyen</a>\n</p>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 157922864,
+          "ns": 6,
+          "title": "File:Bust of Xenophon.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bust_of_Xenophon.jpg/960px-Bust_of_Xenophon.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1449,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bust_of_Xenophon.jpg/1920px-Bust_of_Xenophon.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bust_of_Xenophon.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bust_of_Xenophon.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157922864",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/carolemage/53387950886/\">https://www.flickr.com/photos/carolemage/53387950886/</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/carolemage/\">Carole Raddato</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-sa-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 162446554,
+          "ns": 6,
+          "title": "File:Portrait of Porphyry of Tyre from Les vrais pourtraits et vies des hommes illustres grecz, latins et payens.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz%2C_latins_et_payens.jpg/960px-Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz%2C_latins_et_payens.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1161,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz%2C_latins_et_payens.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz%2C_latins_et_payens.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz,_latins_et_payens.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162446554",
+              "extmetadata": {
+                "Credit": {
+                  "value": "Cropped from <a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/lesvraispourtrai01thev/page/n197/mode/2up\">https://archive.org/details/lesvraispourtrai01thev/page/n197/mode/2up</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 164710011,
+          "ns": 6,
+          "title": "File:Augustus of Prima Porta.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Augustus_of_Prima_Porta.jpg/960px-Augustus_of_Prima_Porta.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1440,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Augustus_of_Prima_Porta.jpg/1920px-Augustus_of_Prima_Porta.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Augustus_of_Prima_Porta.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Augustus_of_Prima_Porta.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=164710011",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Justin_Benttinen\" title=\"User:Justin Benttinen\">Justin Benttinen</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 177122059,
+          "ns": 6,
+          "title": "File:Joseph, son of Gorian, called Flavius Josephus (cropped).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28cropped%29.jpg/960px-Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28cropped%29.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1280,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/7/73/Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28cropped%29.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28cropped%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Joseph,_son_of_Gorian,_called_Flavius_Josephus_(cropped).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=177122059",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://digitalcollections.nypl.org/items/510d47da-f9a1-a3d9-e040-e00a18064a99\">https://digitalcollections.nypl.org/items/510d47da-f9a1-a3d9-e040-e00a18064a99</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Scan by NYPL",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 177514617,
+          "ns": 6,
+          "title": "File:Apollonius.png",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Apollonius.png",
+              "thumbwidth": 484,
+              "thumbheight": 516,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Apollonius.png",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Apollonius.png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=177514617",
+              "extmetadata": {
+                "Credit": {
+                  "value": "This simply is a manual upload on Commons of an image found at the Esperanto language Wikipedia (<a class=\"external free\" href=\"https://eo.wikipedia.org/wiki/Dosiero:Apollonius_of_Perga.png\">https://eo.wikipedia.org/wiki/Dosiero:Apollonius_of_Perga.png</a>). Reasons for preferring this solution rather than just transferring the file will be detailed.",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "This has been described as an illustration from \"The Universal Historical Dictionary\" by George Crabb (Baldwin, 1825).",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 186232416,
+          "ns": 6,
+          "title": "File:Imaginary depiction of the poet Firdausi. Folio from a Khavarannama (The Book of the East) of ibn Husam al-Din, 1476-1486 (cropped).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Imaginary_depiction_of_the_poet_Firdausi._Folio_from_a_Khavarannama_%28The_Book_of_the_East%29_of_ibn_Husam_al-Din%2C_1476-1486_%28cropped%29.jpg",
+              "thumbwidth": 448,
+              "thumbheight": 532,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Imaginary_depiction_of_the_poet_Firdausi._Folio_from_a_Khavarannama_%28The_Book_of_the_East%29_of_ibn_Husam_al-Din%2C_1476-1486_%28cropped%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Imaginary_depiction_of_the_poet_Firdausi._Folio_from_a_Khavarannama_(The_Book_of_the_East)_of_ibn_Husam_al-Din,_1476-1486_(cropped).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=186232416",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.metmuseum.org/art/collection/search/451327\">Metropolitan Museum of Art</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "ca. 1476–86 artist",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 193130675,
+          "ns": 6,
+          "title": "File:Homer At the British Museum 2024 (3x4 cropped).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Homer_At_the_British_Museum_2024_%283x4_cropped%29.jpg/960px-Homer_At_the_British_Museum_2024_%283x4_cropped%29.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1281,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Homer_At_the_British_Museum_2024_%283x4_cropped%29.jpg/1920px-Homer_At_the_British_Museum_2024_%283x4_cropped%29.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Homer_At_the_British_Museum_2024_%283x4_cropped%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Homer_At_the_British_Museum_2024_(3x4_cropped).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=193130675",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Photograph by <a href=\"//commons.wikimedia.org/wiki/User:Mike_Peel\" title=\"User:Mike Peel\">Mike Peel</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://www.mikepeel.net/\">www.mikepeel.net</a>).",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

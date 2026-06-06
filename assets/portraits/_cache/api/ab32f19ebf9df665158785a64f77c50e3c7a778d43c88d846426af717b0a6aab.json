@@ -1,0 +1,192 @@
+{
+  "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=pageimages%7Cpageprops&piprop=original%7Cthumbnail%7Cname&pithumbsize=960&titles=Quintus+Smyrnaeus%7CSaadi+Shirazi%7CSophocles%7CStrabo%7CTacitus%7CThucydides%7CSun+Tzu%7CVirgil%7CXenophon",
+  "status_code": 200,
+  "fetched_with": "ClassicsLibrary/1.0 (super.croox@gmail.com)",
+  "body": {
+    "batchcomplete": true,
+    "query": {
+      "pages": [
+        {
+          "pageid": 26984,
+          "ns": 0,
+          "title": "Sophocles",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/Sophocles_pushkin.jpg",
+            "width": 779,
+            "height": 1058
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/Sophocles_pushkin.jpg",
+            "width": 779,
+            "height": 1058
+          },
+          "pageimage": "Sophocles_pushkin.jpg",
+          "pageprops": {
+            "page_image_free": "Sophocles_pushkin.jpg",
+            "wikibase-badge-Q17437798": "",
+            "wikibase-shortdesc": "5th-century BC Athenian tragic playwright",
+            "wikibase_item": "Q7235"
+          }
+        },
+        {
+          "pageid": 30864,
+          "ns": 0,
+          "title": "Thucydides",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Thucydides_pushkin01.jpg",
+            "width": 775,
+            "height": 1077
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Thucydides_pushkin01.jpg",
+            "width": 775,
+            "height": 1077
+          },
+          "pageimage": "Thucydides_pushkin01.jpg",
+          "pageprops": {
+            "page_image_free": "Thucydides_pushkin01.jpg",
+            "wikibase-shortdesc": "5th-century BC Athenian historian and general",
+            "wikibase_item": "Q41683"
+          }
+        },
+        {
+          "pageid": 32359,
+          "ns": 0,
+          "title": "Virgil",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Virgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg/960px-Virgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg",
+            "width": 960,
+            "height": 978
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/15/Virgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg",
+            "width": 2596,
+            "height": 2645
+          },
+          "pageimage": "Virgil_mosaic_in_the_Bardo_National_Museum_(Tunis)_(12241228546).jpg",
+          "pageprops": {
+            "page_image_free": "Virgil_mosaic_in_the_Bardo_National_Museum_(Tunis)_(12241228546).jpg",
+            "wikibase-shortdesc": "1st-century-BC Roman poet",
+            "wikibase_item": "Q1398"
+          }
+        },
+        {
+          "pageid": 34155,
+          "ns": 0,
+          "title": "Xenophon",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bust_of_Xenophon.jpg/960px-Bust_of_Xenophon.jpg",
+            "width": 960,
+            "height": 1449
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bust_of_Xenophon.jpg",
+            "width": 3264,
+            "height": 4928
+          },
+          "pageimage": "Bust_of_Xenophon.jpg",
+          "pageprops": {
+            "page_image_free": "Bust_of_Xenophon.jpg",
+            "wikibase-shortdesc": "Greek philosopher, historian, and soldier (c.430–355/354 BC)",
+            "wikibase_item": "Q129772"
+          }
+        },
+        {
+          "pageid": 51825,
+          "ns": 0,
+          "title": "Sun Tzu",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/%E5%90%B4%E5%8F%B8%E9%A9%AC%E5%AD%99%E6%AD%A6.jpg",
+            "width": 276,
+            "height": 300
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/%E5%90%B4%E5%8F%B8%E9%A9%AC%E5%AD%99%E6%AD%A6.jpg",
+            "width": 276,
+            "height": 300
+          },
+          "pageimage": "吴司马孙武.jpg",
+          "pageprops": {
+            "page_image_free": "吴司马孙武.jpg",
+            "wikibase-shortdesc": "Chinese general (544–496 BC)",
+            "wikibase_item": "Q37151"
+          }
+        },
+        {
+          "pageid": 52121,
+          "ns": 0,
+          "title": "Strabo",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Strabo.jpg/960px-Strabo.jpg",
+            "width": 960,
+            "height": 1159
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Strabo.jpg",
+            "width": 1657,
+            "height": 2001
+          },
+          "pageimage": "Strabo.jpg",
+          "pageprops": {
+            "page_image_free": "Strabo.jpg",
+            "wikibase-shortdesc": "Greek geographer, philosopher and historian (64/63 BC–c.24 AD)",
+            "wikibase_item": "Q45936"
+          }
+        },
+        {
+          "pageid": 213884,
+          "ns": 0,
+          "title": "Quintus Smyrnaeus",
+          "pageprops": {
+            "defaultsort": "Quintus Smyrnaeus",
+            "wikibase-shortdesc": "4th-century Greek poet",
+            "wikibase_item": "Q352702"
+          }
+        },
+        {
+          "pageid": 7270459,
+          "ns": 0,
+          "title": "Saadi Shirazi",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/4/42/Saadi_by_Hossein_Behzad_%28Inverted%29.jpg",
+            "width": 757,
+            "height": 1080
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/4/42/Saadi_by_Hossein_Behzad_%28Inverted%29.jpg",
+            "width": 757,
+            "height": 1080
+          },
+          "pageimage": "Saadi_by_Hossein_Behzad_(Inverted).jpg",
+          "pageprops": {
+            "defaultsort": "Saadi",
+            "page_image_free": "Saadi_by_Hossein_Behzad_(Inverted).jpg",
+            "wikibase-shortdesc": "Persian poet (1210–c.1291)",
+            "wikibase_item": "Q170302"
+          }
+        },
+        {
+          "pageid": 19594563,
+          "ns": 0,
+          "title": "Tacitus",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wien-_Parlament-Tacitus.jpg/960px-Wien-_Parlament-Tacitus.jpg",
+            "width": 960,
+            "height": 1267
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Wien-_Parlament-Tacitus.jpg",
+            "width": 1952,
+            "height": 2576
+          },
+          "pageimage": "Wien-_Parlament-Tacitus.jpg",
+          "pageprops": {
+            "page_image_free": "Wien-_Parlament-Tacitus.jpg",
+            "wikibase-shortdesc": "Roman historian and senator (56–120)",
+            "wikibase_item": "Q2161"
+          }
+        }
+      ]
+    }
+  }
+}

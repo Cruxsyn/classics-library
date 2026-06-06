@@ -1,0 +1,217 @@
+{
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo&iiprop=extmetadata%7Curl&iiextmetadatafilter=LicenseShortName%7CLicense%7CLicenseUrl%7CArtist%7CCredit%7CAttributionRequired%7CUsageTerms&iiurlwidth=960&titles=File%3ATitus-Livius-Austrian-Parliament-Building.jpg%7CFile%3AVirgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg%7CFile%3AWien-_Parlament-Tacitus.jpg%7CFile%3A%E5%90%B4%E5%8F%B8%E9%A9%AC%E5%AD%99%E6%AD%A6.jpg",
+  "status_code": 200,
+  "fetched_with": "ClassicsLibrary/1.0 (super.croox@gmail.com)",
+  "body": {
+    "batchcomplete": true,
+    "query": {
+      "normalized": [
+        {
+          "fromencoded": false,
+          "from": "File:Virgil_mosaic_in_the_Bardo_National_Museum_(Tunis)_(12241228546).jpg",
+          "to": "File:Virgil mosaic in the Bardo National Museum (Tunis) (12241228546).jpg"
+        },
+        {
+          "fromencoded": false,
+          "from": "File:Wien-_Parlament-Tacitus.jpg",
+          "to": "File:Wien- Parlament-Tacitus.jpg"
+        }
+      ],
+      "pages": [
+        {
+          "pageid": 8806766,
+          "ns": 6,
+          "title": "File:Wien- Parlament-Tacitus.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wien-_Parlament-Tacitus.jpg/960px-Wien-_Parlament-Tacitus.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1267,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wien-_Parlament-Tacitus.jpg/1920px-Wien-_Parlament-Tacitus.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Wien-_Parlament-Tacitus.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wien-_Parlament-Tacitus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8806766",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Pe-Jo\" title=\"User:Pe-Jo\">Pe-Jo</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 39115301,
+          "ns": 6,
+          "title": "File:Virgil mosaic in the Bardo National Museum (Tunis) (12241228546).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Virgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg/960px-Virgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 978,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Virgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg/1920px-Virgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Virgil_mosaic_in_the_Bardo_National_Museum_%28Tunis%29_%2812241228546%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Virgil_mosaic_in_the_Bardo_National_Museum_(Tunis)_(12241228546).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=39115301",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/badwyer/12241228546/\">IMG_4632</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/87285231@N04\">Boyd Dwyer</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 57088337,
+          "ns": 6,
+          "title": "File:吴司马孙武.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/%E5%90%B4%E5%8F%B8%E9%A9%AC%E5%AD%99%E6%AD%A6.jpg",
+              "thumbwidth": 276,
+              "thumbheight": 300,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/%E5%90%B4%E5%8F%B8%E9%A9%AC%E5%AD%99%E6%AD%A6.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E5%90%B4%E5%8F%B8%E9%A9%AC%E5%AD%99%E6%AD%A6.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57088337",
+              "extmetadata": {
+                "Credit": {
+                  "value": "Qing Palace Collection Picture Book. Beijing: Palace Museum Press. 1994.",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        {
+          "pageid": 121512287,
+          "ns": 6,
+          "title": "File:Titus-Livius-Austrian-Parliament-Building.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/960px-Titus-Livius-Austrian-Parliament-Building.jpg",
+              "thumbwidth": 960,
+              "thumbheight": 1359,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/1920px-Titus-Livius-Austrian-Parliament-Building.jpg"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Titus-Livius-Austrian-Parliament-Building.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=121512287",
+              "extmetadata": {
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:Acediscovery\" title=\"User:Acediscovery\">Acediscovery</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1026 @@
+{
+  "url": "https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=pageimages%7Cpageprops&piprop=original%7Cthumbnail%7Cname&pithumbsize=960&titles=Aeschines%7CAeschylus%7CAesop%7CAndocides%7CAntiphon+%28orator%29%7CMarcus+Aurelius%7CPseudo-Apollodorus%7CApollonius+of+Rhodes%7CApuleius%7CAristophanes%7CAristotle%7CAugustus%7CBacchylides%7CJulius+Caesar%7CLucretius%7CCicero%7CConfucius%7CDemades%7CDemosthenes%7CDinarchus%7CDiodorus+Siculus%7CEpictetus%7CEpicurus%7CEuclid%7CEuripides%7CFerdowsi%7CGalen%7CHerodotus%7CHesiod%7CHippocrates%7CAulus+Hirtius%7CHomer%7CHorace%7CHypereides%7CIsaeus%7CIsocrates%7CJosephus%7COmar+Khayyam%7CLaozi%7CLivy%7CLucan%7CLycurgus+of+Athens%7CLysias%7COvid%7CPausanias+%28geographer%29%7CPindar%7CPlato%7CPlotinus%7CPlutarch%7CPorphyry+%28philosopher%29",
+  "status_code": 200,
+  "fetched_with": "ClassicsLibrary/1.0 (super.croox@gmail.com)",
+  "body": {
+    "batchcomplete": true,
+    "query": {
+      "redirects": [
+        {
+          "from": "Porphyry (philosopher)",
+          "to": "Porphyry of Tyre"
+        },
+        {
+          "from": "Pseudo-Apollodorus",
+          "to": "Bibliotheca (Apollodorus)"
+        }
+      ],
+      "pages": [
+        {
+          "pageid": 308,
+          "ns": 0,
+          "title": "Aristotle",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/960px-Aristotle_Altemps_Inv8575.jpg",
+            "width": 960,
+            "height": 1285
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg",
+            "width": 1700,
+            "height": 2275
+          },
+          "pageimage": "Aristotle_Altemps_Inv8575.jpg",
+          "pageprops": {
+            "page_image_free": "Aristotle_Altemps_Inv8575.jpg",
+            "wikibase-badge-Q17437798": "",
+            "wikibase-shortdesc": "Ancient Greek philosopher and polymath (384–322 BC)",
+            "wikibase_item": "Q868"
+          }
+        },
+        {
+          "pageid": 1028,
+          "ns": 0,
+          "title": "Aristophanes",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bust_of_Aristophanes.jpg/960px-Bust_of_Aristophanes.jpg",
+            "width": 960,
+            "height": 1399
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/0/08/Bust_of_Aristophanes.jpg",
+            "width": 2335,
+            "height": 3402
+          },
+          "pageimage": "Bust_of_Aristophanes.jpg",
+          "pageprops": {
+            "defaultsort": "Aristophanes",
+            "page_image_free": "Bust_of_Aristophanes.jpg",
+            "wikibase-shortdesc": "Classical Athenian comic playwright (c. 446 – c. 386 BC)",
+            "wikibase_item": "Q43353"
+          }
+        },
+        {
+          "pageid": 1273,
+          "ns": 0,
+          "title": "Augustus",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Augustus_of_Prima_Porta.jpg/960px-Augustus_of_Prima_Porta.jpg",
+            "width": 960,
+            "height": 1440
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Augustus_of_Prima_Porta.jpg",
+            "width": 5437,
+            "height": 8156
+          },
+          "pageimage": "Augustus_of_Prima_Porta.jpg",
+          "pageprops": {
+            "page_image_free": "Augustus_of_Prima_Porta.jpg",
+            "wikibase-badge-Q17437796": "",
+            "wikibase-shortdesc": "Roman emperor from 27 BC to AD 14",
+            "wikibase_item": "Q1405"
+          }
+        },
+        {
+          "pageid": 1752,
+          "ns": 0,
+          "title": "Andocides",
+          "pageprops": {
+            "wikibase-shortdesc": "Greek logographer and orator (c.440–c.390 BC)",
+            "wikibase_item": "Q391654"
+          }
+        },
+        {
+          "pageid": 1789,
+          "ns": 0,
+          "title": "Apuleius",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Apuleuis.jpg/960px-Apuleuis.jpg",
+            "width": 960,
+            "height": 722
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/73/Apuleuis.jpg",
+            "width": 3446,
+            "height": 2593
+          },
+          "pageimage": "Apuleuis.jpg",
+          "pageprops": {
+            "page_image_free": "Apuleuis.jpg",
+            "wikibase-shortdesc": "2nd-century Numidian Latin-language writer, rhetorician and philosopher",
+            "wikibase_item": "Q170512"
+          }
+        },
+        {
+          "pageid": 2023,
+          "ns": 0,
+          "title": "Aeschylus",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Herma_of_Aeschylus%2C_Klas08.jpg/960px-Herma_of_Aeschylus%2C_Klas08.jpg",
+            "width": 960,
+            "height": 1421
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Herma_of_Aeschylus%2C_Klas08.jpg",
+            "width": 2181,
+            "height": 3229
+          },
+          "pageimage": "Herma_of_Aeschylus,_Klas08.jpg",
+          "pageprops": {
+            "defaultsort": "Aeschylus",
+            "page_image_free": "Herma_of_Aeschylus,_Klas08.jpg",
+            "wikibase-shortdesc": "5th-century BC Athenian Greek tragedian",
+            "wikibase_item": "Q40939"
+          }
+        },
+        {
+          "pageid": 5823,
+          "ns": 0,
+          "title": "Confucius",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/5/54/Confucius_Tang_Dynasty.jpg",
+            "width": 350,
+            "height": 640
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/5/54/Confucius_Tang_Dynasty.jpg",
+            "width": 350,
+            "height": 640
+          },
+          "pageimage": "Confucius_Tang_Dynasty.jpg",
+          "pageprops": {
+            "page_image_free": "Confucius_Tang_Dynasty.jpg",
+            "wikibase-shortdesc": "Chinese philosopher (c. 551 – c. 479 BCE)",
+            "wikibase_item": "Q4604"
+          }
+        },
+        {
+          "pageid": 6046,
+          "ns": 0,
+          "title": "Cicero",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/960px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+            "width": 960,
+            "height": 1440
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+            "width": 3456,
+            "height": 5184
+          },
+          "pageimage": "Bust_of_Cicero_(1st-cent._BC)_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+          "pageprops": {
+            "page_image_free": "Bust_of_Cicero_(1st-cent._BC)_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+            "wikibase-shortdesc": "Roman statesman and lawyer (106–43 BC)",
+            "wikibase_item": "Q1541"
+          }
+        },
+        {
+          "pageid": 9331,
+          "ns": 0,
+          "title": "Euclid",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg/960px-Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg",
+            "width": 960,
+            "height": 1302
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg",
+            "width": 3174,
+            "height": 4306
+          },
+          "pageimage": "Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg",
+          "pageprops": {
+            "page_image_free": "Jusepe_de_Ribera_-_Euclid_-_2001.26_-_J._Paul_Getty_Museum.jpg",
+            "toc": "",
+            "wikibase-shortdesc": "Ancient Greek mathematician (fl. 300 BC)",
+            "wikibase_item": "Q8747"
+          }
+        },
+        {
+          "pageid": 9808,
+          "ns": 0,
+          "title": "Euripides",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Euripide_%28cropped%29.jpg/960px-Euripide_%28cropped%29.jpg",
+            "width": 960,
+            "height": 1295
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Euripide_%28cropped%29.jpg",
+            "width": 6173,
+            "height": 8324
+          },
+          "pageimage": "Euripide_(cropped).jpg",
+          "pageprops": {
+            "page_image_free": "Euripide_(cropped).jpg",
+            "wikibase-shortdesc": "5th-century BC Athenian playwright",
+            "wikibase_item": "Q48305"
+          }
+        },
+        {
+          "pageid": 10073,
+          "ns": 0,
+          "title": "Epicurus",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/960px-Epikouros_BM_1843.jpg",
+            "width": 960,
+            "height": 1440
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/8/88/Epikouros_BM_1843.jpg",
+            "width": 2533,
+            "height": 3800
+          },
+          "pageimage": "Epikouros_BM_1843.jpg",
+          "pageprops": {
+            "defaultsort": "Epicurus",
+            "page_image_free": "Epikouros_BM_1843.jpg",
+            "wikibase-badge-Q17437798": "",
+            "wikibase-shortdesc": "Ancient Greek philosopher (341–270 BC",
+            "wikibase_item": "Q43216"
+          }
+        },
+        {
+          "pageid": 10407,
+          "ns": 0,
+          "title": "Epictetus",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece_%28cropped%29.jpg/960px-Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece_%28cropped%29.jpg",
+            "width": 960,
+            "height": 1409
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece_%28cropped%29.jpg",
+            "width": 1859,
+            "height": 2729
+          },
+          "pageimage": "Epicteti_Enchiridion_Latinis_versibus_adumbratum_(Oxford_1715)_frontispiece_(cropped).jpg",
+          "pageprops": {
+            "page_image_free": "Epicteti_Enchiridion_Latinis_versibus_adumbratum_(Oxford_1715)_frontispiece_(cropped).jpg",
+            "wikibase-shortdesc": "Greek Stoic philosopher (c. 50 – c. 135)",
+            "wikibase_item": "Q183144"
+          }
+        },
+        {
+          "pageid": 12326,
+          "ns": 0,
+          "title": "Galen",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/Galenus.jpg",
+            "width": 469,
+            "height": 776
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/Galenus.jpg",
+            "width": 469,
+            "height": 776
+          },
+          "pageimage": "Galenus.jpg",
+          "pageprops": {
+            "page_image_free": "Galenus.jpg",
+            "wikibase-shortdesc": "Greek physician, surgeon, and philosopher (c. 129–216 AD)",
+            "wikibase_item": "Q8778"
+          }
+        },
+        {
+          "pageid": 13486,
+          "ns": 0,
+          "title": "Hippocrates",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hippocrates.jpg",
+            "width": 483,
+            "height": 710
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hippocrates.jpg",
+            "width": 483,
+            "height": 710
+          },
+          "pageimage": "Hippocrates.jpg",
+          "pageprops": {
+            "defaultsort": "Hippocrates",
+            "page_image_free": "Hippocrates.jpg",
+            "wikibase-shortdesc": "Ancient Greek physician (c. 460 – c. 370 BCE)",
+            "wikibase_item": "Q5264"
+          }
+        },
+        {
+          "pageid": 13574,
+          "ns": 0,
+          "title": "Herodotus",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg/960px-Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "width": 960,
+            "height": 1281
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg",
+            "width": 2232,
+            "height": 2978
+          },
+          "pageimage": "Marble_bust_of_Herodotos_MET_DT11742_(cropped).jpg",
+          "pageprops": {
+            "page_image_free": "Marble_bust_of_Herodotos_MET_DT11742_(cropped).jpg",
+            "wikibase-shortdesc": "Greek historian and geographer (c. 484–c. 425 BC)",
+            "wikibase_item": "Q26825"
+          }
+        },
+        {
+          "pageid": 13633,
+          "ns": 0,
+          "title": "Homer",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Homer_At_the_British_Museum_2024_%283x4_cropped%29.jpg/960px-Homer_At_the_British_Museum_2024_%283x4_cropped%29.jpg",
+            "width": 960,
+            "height": 1281
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Homer_At_the_British_Museum_2024_%283x4_cropped%29.jpg",
+            "width": 3222,
+            "height": 4298
+          },
+          "pageimage": "Homer_At_the_British_Museum_2024_(3x4_cropped).jpg",
+          "pageprops": {
+            "page_image_free": "Homer_At_the_British_Museum_2024_(3x4_cropped).jpg",
+            "wikibase-shortdesc": "Ancient Greek poet",
+            "wikibase_item": "Q6691"
+          }
+        },
+        {
+          "pageid": 13693,
+          "ns": 0,
+          "title": "Horace",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%28contorniate_M%C3%A9daillon_Horace_Rome_%28...%29Horace_%280065-0008_btv1b11343890r_1_%28cropped%29.jpg/960px-%28contorniate_M%C3%A9daillon_Horace_Rome_%28...%29Horace_%280065-0008_btv1b11343890r_1_%28cropped%29.jpg",
+            "width": 960,
+            "height": 966
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/77/%28contorniate_M%C3%A9daillon_Horace_Rome_%28...%29Horace_%280065-0008_btv1b11343890r_1_%28cropped%29.jpg",
+            "width": 1024,
+            "height": 1030
+          },
+          "pageimage": "(contorniate_Médaillon_Horace_Rome_(...)Horace_(0065-0008_btv1b11343890r_1_(cropped).jpg",
+          "pageprops": {
+            "page_image_free": "(contorniate_Médaillon_Horace_Rome_(...)Horace_(0065-0008_btv1b11343890r_1_(cropped).jpg",
+            "wikibase-shortdesc": "Roman lyric poet (65–8 BC)",
+            "wikibase_item": "Q6197"
+          }
+        },
+        {
+          "pageid": 13700,
+          "ns": 0,
+          "title": "Hesiod",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bust_of_Hesiod_%28%3F%29-Ancient_Roman_busts_in_the_Neues_Museum.jpg",
+            "width": 744,
+            "height": 1280
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bust_of_Hesiod_%28%3F%29-Ancient_Roman_busts_in_the_Neues_Museum.jpg",
+            "width": 744,
+            "height": 1280
+          },
+          "pageimage": "Bust_of_Hesiod_(?)-Ancient_Roman_busts_in_the_Neues_Museum.jpg",
+          "pageprops": {
+            "page_image_free": "Bust_of_Hesiod_(?)-Ancient_Roman_busts_in_the_Neues_Museum.jpg",
+            "wikibase-shortdesc": "Ancient Greek poet of the archaic period",
+            "wikibase_item": "Q44233"
+          }
+        },
+        {
+          "pageid": 15924,
+          "ns": 0,
+          "title": "Julius Caesar",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/960px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+            "width": 960,
+            "height": 1304
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+            "width": 1752,
+            "height": 2379
+          },
+          "pageimage": "Retrato_de_Julio_César_(26724093101)_(cropped).jpg",
+          "pageprops": {
+            "defaultsort": "Julius Caesar, Gaius",
+            "page_image_free": "Retrato_de_Julio_César_(26724093101)_(cropped).jpg",
+            "wikibase-shortdesc": "Roman general and dictator (100–44 BC)",
+            "wikibase_item": "Q1048"
+          }
+        },
+        {
+          "pageid": 16494,
+          "ns": 0,
+          "title": "Josephus",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28cropped%29.jpg/960px-Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28cropped%29.jpg",
+            "width": 960,
+            "height": 1280
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/73/Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28cropped%29.jpg",
+            "width": 1312,
+            "height": 1749
+          },
+          "pageimage": "Joseph,_son_of_Gorian,_called_Flavius_Josephus_(cropped).jpg",
+          "pageprops": {
+            "page_image_free": "Joseph,_son_of_Gorian,_called_Flavius_Josephus_(cropped).jpg",
+            "wikibase-shortdesc": "Roman–Jewish historian and military leader (c. 37 – c. 100)",
+            "wikibase_item": "Q134461"
+          }
+        },
+        {
+          "pageid": 18049,
+          "ns": 0,
+          "title": "Livy",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg/960px-Titus-Livius-Austrian-Parliament-Building.jpg",
+            "width": 960,
+            "height": 1359
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Titus-Livius-Austrian-Parliament-Building.jpg",
+            "width": 2200,
+            "height": 3114
+          },
+          "pageimage": "Titus-Livius-Austrian-Parliament-Building.jpg",
+          "pageprops": {
+            "defaultsort": "Livy",
+            "page_image_free": "Titus-Livius-Austrian-Parliament-Building.jpg",
+            "wikibase-shortdesc": "Roman historian (59 BC – AD 17)",
+            "wikibase_item": "Q2039"
+          }
+        },
+        {
+          "pageid": 20155,
+          "ns": 0,
+          "title": "Marcus Aurelius",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/960px-MSR-ra-61-b-1-DM.jpg",
+            "width": 960,
+            "height": 1280
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/MSR-ra-61-b-1-DM.jpg",
+            "width": 3000,
+            "height": 4000
+          },
+          "pageimage": "MSR-ra-61-b-1-DM.jpg",
+          "pageprops": {
+            "defaultsort": "Marcus Aurelius",
+            "page_image_free": "MSR-ra-61-b-1-DM.jpg",
+            "wikibase-badge-Q17437798": "",
+            "wikibase-shortdesc": "Stoic philosopher, Roman emperor from 161 to 180",
+            "wikibase_item": "Q1430"
+          }
+        },
+        {
+          "pageid": 22954,
+          "ns": 0,
+          "title": "Plato",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png/960px-Plato_Silanion_Musei_Capitolini_MC1377.png",
+            "width": 960,
+            "height": 1440
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Plato_Silanion_Musei_Capitolini_MC1377.png",
+            "width": 2400,
+            "height": 3600
+          },
+          "pageimage": "Plato_Silanion_Musei_Capitolini_MC1377.png",
+          "pageprops": {
+            "page_image_free": "Plato_Silanion_Musei_Capitolini_MC1377.png",
+            "wikibase-shortdesc": "Greek philosopher",
+            "wikibase_item": "Q859"
+          }
+        },
+        {
+          "pageid": 24517,
+          "ns": 0,
+          "title": "Plutarch",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "width": 799,
+            "height": 1199
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Portrait_of_a_philosopher%2C_maybe_Plutarch%2C_2nd_century_BC%2C_AM_Delphi%2C_0135.jpg",
+            "width": 799,
+            "height": 1199
+          },
+          "pageimage": "Portrait_of_a_philosopher,_maybe_Plutarch,_2nd_century_BC,_AM_Delphi,_0135.jpg",
+          "pageprops": {
+            "page_image_free": "Portrait_of_a_philosopher,_maybe_Plutarch,_2nd_century_BC,_AM_Delphi,_0135.jpg",
+            "wikibase-shortdesc": "Greek philosopher and historian (c. AD 40 – 120s)",
+            "wikibase_item": "Q41523"
+          }
+        },
+        {
+          "pageid": 37145,
+          "ns": 0,
+          "title": "Lucretius",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Lucretius_pointing_to_the_casus.jpg/960px-Lucretius_pointing_to_the_casus.jpg",
+            "width": 960,
+            "height": 1565
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Lucretius_pointing_to_the_casus.jpg",
+            "width": 1965,
+            "height": 3204
+          },
+          "pageimage": "Lucretius_pointing_to_the_casus.jpg",
+          "pageprops": {
+            "page_image_free": "Lucretius_pointing_to_the_casus.jpg",
+            "wikibase-shortdesc": "1st-century BC Roman poet and philosopher",
+            "wikibase_item": "Q47154"
+          }
+        },
+        {
+          "pageid": 37802,
+          "ns": 0,
+          "title": "Ovid",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ovid_by_an_anonymous_sculptor.jpg/960px-Ovid_by_an_anonymous_sculptor.jpg",
+            "width": 960,
+            "height": 1280
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Ovid_by_an_anonymous_sculptor.jpg",
+            "width": 3024,
+            "height": 4032
+          },
+          "pageimage": "Ovid_by_an_anonymous_sculptor.jpg",
+          "pageprops": {
+            "page_image_free": "Ovid_by_an_anonymous_sculptor.jpg",
+            "wikibase-shortdesc": "Roman poet (43 BC – AD 17/18)",
+            "wikibase_item": "Q7198"
+          }
+        },
+        {
+          "pageid": 38422,
+          "ns": 0,
+          "title": "Plotinus",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Plotinos.jpg",
+            "width": 569,
+            "height": 681
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Plotinos.jpg",
+            "width": 569,
+            "height": 681
+          },
+          "pageimage": "Plotinos.jpg",
+          "pageprops": {
+            "page_image_free": "Plotinos.jpg",
+            "wikibase-shortdesc": "Hellenistic Greek philosopher (c. 204/5 – 270)",
+            "wikibase_item": "Q134189"
+          }
+        },
+        {
+          "pageid": 46605,
+          "ns": 0,
+          "title": "Demosthenes",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg/960px-Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg",
+            "width": 960,
+            "height": 1440
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/9/94/Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg",
+            "width": 2623,
+            "height": 3935
+          },
+          "pageimage": "Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg",
+          "pageprops": {
+            "defaultsort": "Demosthenes",
+            "page_image_free": "Demosthenes_Polyeuctos_Louvre_Ma237_n01.jpg",
+            "wikibase-shortdesc": "Classical Athenian statesman and orator (384–322 BC)",
+            "wikibase_item": "Q117253"
+          }
+        },
+        {
+          "pageid": 53926,
+          "ns": 0,
+          "title": "Lucan",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Busto_de_Lucano%2C_Cordoba.JPG/960px-Busto_de_Lucano%2C_Cordoba.JPG",
+            "width": 960,
+            "height": 1338
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Busto_de_Lucano%2C_Cordoba.JPG",
+            "width": 2059,
+            "height": 2869
+          },
+          "pageimage": "Busto_de_Lucano,_Cordoba.JPG",
+          "pageprops": {
+            "defaultsort": "Lucanus, Marcus Annaeus",
+            "page_image_free": "Busto_de_Lucano,_Cordoba.JPG",
+            "wikibase-shortdesc": "Roman poet (AD 39–65)",
+            "wikibase_item": "Q188646"
+          }
+        },
+        {
+          "pageid": 58231,
+          "ns": 0,
+          "title": "Bacchylides",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Albert_Joseph_Moore_-_A_Musician_-_Google_Art_Project.jpg/960px-Albert_Joseph_Moore_-_A_Musician_-_Google_Art_Project.jpg",
+            "width": 960,
+            "height": 695
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/3/33/Albert_Joseph_Moore_-_A_Musician_-_Google_Art_Project.jpg",
+            "width": 3469,
+            "height": 2512
+          },
+          "pageimage": "Albert_Joseph_Moore_-_A_Musician_-_Google_Art_Project.jpg",
+          "pageprops": {
+            "defaultsort": "Bacchylides",
+            "page_image_free": "Albert_Joseph_Moore_-_A_Musician_-_Google_Art_Project.jpg",
+            "wikibase-shortdesc": "Greek lyric poet (c. 518 – c. 451 BC)",
+            "wikibase_item": "Q310681"
+          }
+        },
+        {
+          "pageid": 65119,
+          "ns": 0,
+          "title": "Laozi",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Laozi_%28Chinese_characters%29.svg/960px-Laozi_%28Chinese_characters%29.svg.png",
+            "width": 960,
+            "height": 1179
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/9/91/Laozi_%28Chinese_characters%29.svg",
+            "width": 105,
+            "height": 129
+          },
+          "pageimage": "Laozi_(Chinese_characters).svg",
+          "pageprops": {
+            "page_image_free": "Laozi_(Chinese_characters).svg",
+            "wikibase-shortdesc": "Semi-legendary Chinese philosopher, founder of Taoism",
+            "wikibase_item": "Q9333"
+          }
+        },
+        {
+          "pageid": 79616,
+          "ns": 0,
+          "title": "Pindar",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bust_of_Pindar.jpg/960px-Bust_of_Pindar.jpg",
+            "width": 960,
+            "height": 1422
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Bust_of_Pindar.jpg",
+            "width": 5856,
+            "height": 8676
+          },
+          "pageimage": "Bust_of_Pindar.jpg",
+          "pageprops": {
+            "page_image_free": "Bust_of_Pindar.jpg",
+            "wikibase-shortdesc": "5th-century BC Greek lyric poet",
+            "wikibase_item": "Q134929"
+          }
+        },
+        {
+          "pageid": 85577,
+          "ns": 0,
+          "title": "Bibliotheca (Apollodorus)",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Bibliotheke_des_Apollodor.JPG/960px-Bibliotheke_des_Apollodor.JPG",
+            "width": 960,
+            "height": 1601
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bibliotheke_des_Apollodor.JPG",
+            "width": 997,
+            "height": 1663
+          },
+          "pageimage": "Bibliotheke_des_Apollodor.JPG",
+          "pageprops": {
+            "displaytitle": "<i>Bibliotheca</i> (Apollodorus)",
+            "page_image_free": "Bibliotheke_des_Apollodor.JPG",
+            "wikibase-shortdesc": "Compendium of Greek myths and heroic legends",
+            "wikibase_item": "Q817383"
+          }
+        },
+        {
+          "pageid": 92550,
+          "ns": 0,
+          "title": "Omar Khayyam",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hakim_Omar_Khayam_-_panoramio.jpg",
+            "width": 915,
+            "height": 1083
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hakim_Omar_Khayam_-_panoramio.jpg",
+            "width": 915,
+            "height": 1083
+          },
+          "pageimage": "Hakim_Omar_Khayam_-_panoramio.jpg",
+          "pageprops": {
+            "defaultsort": "Khayyam, Omar",
+            "page_image_free": "Hakim_Omar_Khayam_-_panoramio.jpg",
+            "wikibase-shortdesc": "Persian polymath and poet (1048–1131)",
+            "wikibase_item": "Q35900"
+          }
+        },
+        {
+          "pageid": 99425,
+          "ns": 0,
+          "title": "Diodorus Siculus",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Diodoro_siculo_-_storico_di_Agira.jpg",
+            "width": 334,
+            "height": 347
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Diodoro_siculo_-_storico_di_Agira.jpg",
+            "width": 334,
+            "height": 347
+          },
+          "pageimage": "Diodoro_siculo_-_storico_di_Agira.jpg",
+          "pageprops": {
+            "defaultsort": "Diodorus Siculus",
+            "page_image_free": "Diodoro_siculo_-_storico_di_Agira.jpg",
+            "wikibase-shortdesc": "1st-century BC Greek historian",
+            "wikibase_item": "Q171241"
+          }
+        },
+        {
+          "pageid": 100090,
+          "ns": 0,
+          "title": "Hypereides",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hypereides_Ny_Carlsberg_Glyptotek_IN1967.jpg/960px-Hypereides_Ny_Carlsberg_Glyptotek_IN1967.jpg",
+            "width": 960,
+            "height": 1205
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Hypereides_Ny_Carlsberg_Glyptotek_IN1967.jpg",
+            "width": 3984,
+            "height": 5000
+          },
+          "pageimage": "Hypereides_Ny_Carlsberg_Glyptotek_IN1967.jpg",
+          "pageprops": {
+            "page_image_free": "Hypereides_Ny_Carlsberg_Glyptotek_IN1967.jpg",
+            "wikibase-shortdesc": "Athenian logographer (c. 390 – 322 BC)",
+            "wikibase_item": "Q314447"
+          }
+        },
+        {
+          "pageid": 168260,
+          "ns": 0,
+          "title": "Isocrates",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Isocrates_pushkin.jpg/960px-Isocrates_pushkin.jpg",
+            "width": 960,
+            "height": 1388
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Isocrates_pushkin.jpg",
+            "width": 1747,
+            "height": 2525
+          },
+          "pageimage": "Isocrates_pushkin.jpg",
+          "pageprops": {
+            "page_image_free": "Isocrates_pushkin.jpg",
+            "wikibase-shortdesc": "Greek rhetorician and writer (436–338 BC)",
+            "wikibase_item": "Q221182"
+          }
+        },
+        {
+          "pageid": 193580,
+          "ns": 0,
+          "title": "Ferdowsi",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Imaginary_depiction_of_the_poet_Firdausi._Folio_from_a_Khavarannama_%28The_Book_of_the_East%29_of_ibn_Husam_al-Din%2C_1476-1486_%28cropped%29.jpg",
+            "width": 448,
+            "height": 532
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Imaginary_depiction_of_the_poet_Firdausi._Folio_from_a_Khavarannama_%28The_Book_of_the_East%29_of_ibn_Husam_al-Din%2C_1476-1486_%28cropped%29.jpg",
+            "width": 448,
+            "height": 532
+          },
+          "pageimage": "Imaginary_depiction_of_the_poet_Firdausi._Folio_from_a_Khavarannama_(The_Book_of_the_East)_of_ibn_Husam_al-Din,_1476-1486_(cropped).jpg",
+          "pageprops": {
+            "defaultsort": "Ferdowsi",
+            "page_image_free": "Imaginary_depiction_of_the_poet_Firdausi._Folio_from_a_Khavarannama_(The_Book_of_the_East)_of_ibn_Husam_al-Din,_1476-1486_(cropped).jpg",
+            "wikibase-shortdesc": "Persian poet (940–1025)",
+            "wikibase_item": "Q43459"
+          }
+        },
+        {
+          "pageid": 314182,
+          "ns": 0,
+          "title": "Apollonius of Rhodes",
+          "pageprops": {
+            "defaultsort": "Apollonius Of Rhodes",
+            "wikibase-shortdesc": "3rd-century BC Greek epic poet",
+            "wikibase_item": "Q192638"
+          }
+        },
+        {
+          "pageid": 329367,
+          "ns": 0,
+          "title": "Aulus Hirtius",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aulus_Hirtius_aureus_Gallica_14824_avers.jpg/960px-Aulus_Hirtius_aureus_Gallica_14824_avers.jpg",
+            "width": 960,
+            "height": 960
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Aulus_Hirtius_aureus_Gallica_14824_avers.jpg",
+            "width": 2026,
+            "height": 2026
+          },
+          "pageimage": "Aulus_Hirtius_aureus_Gallica_14824_avers.jpg",
+          "pageprops": {
+            "defaultsort": "Hirtius, Aulus",
+            "page_image_free": "Aulus_Hirtius_aureus_Gallica_14824_avers.jpg",
+            "wikibase-shortdesc": "Roman Republican politician and consul in the 1st century BC",
+            "wikibase_item": "Q354990"
+          }
+        },
+        {
+          "pageid": 401605,
+          "ns": 0,
+          "title": "Aeschines",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/0/07/Aeschines_bust.jpg",
+            "width": 535,
+            "height": 1000
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/0/07/Aeschines_bust.jpg",
+            "width": 535,
+            "height": 1000
+          },
+          "pageimage": "Aeschines_bust.jpg",
+          "pageprops": {
+            "defaultsort": "Aeschines",
+            "page_image_free": "Aeschines_bust.jpg",
+            "wikibase-shortdesc": "Greek orator and statesman (389 BC-314 BC)",
+            "wikibase_item": "Q317089"
+          }
+        },
+        {
+          "pageid": 416255,
+          "ns": 0,
+          "title": "Pausanias (geographer)",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg/960px-Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg",
+            "width": 960,
+            "height": 1353
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/2/26/Pausanias%2C_Florence%2C_BML%2C_Plut._56.11.jpg",
+            "width": 2343,
+            "height": 3302
+          },
+          "pageimage": "Pausanias,_Florence,_BML,_Plut._56.11.jpg",
+          "pageprops": {
+            "defaultsort": "Pausanias",
+            "page_image_free": "Pausanias,_Florence,_BML,_Plut._56.11.jpg",
+            "wikibase-shortdesc": "2nd-century AD Greek geographer",
+            "wikibase_item": "Q192931"
+          }
+        },
+        {
+          "pageid": 493166,
+          "ns": 0,
+          "title": "Lysias",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Parc_de_Versailles%2C_Rond-Point_des_Philosophes%2C_Lysias%2C_Jean_Dedieu_inv1850n%C2%B09452_03.jpg/960px-Parc_de_Versailles%2C_Rond-Point_des_Philosophes%2C_Lysias%2C_Jean_Dedieu_inv1850n%C2%B09452_03.jpg",
+            "width": 960,
+            "height": 1440
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Parc_de_Versailles%2C_Rond-Point_des_Philosophes%2C_Lysias%2C_Jean_Dedieu_inv1850n%C2%B09452_03.jpg",
+            "width": 2304,
+            "height": 3456
+          },
+          "pageimage": "Parc_de_Versailles,_Rond-Point_des_Philosophes,_Lysias,_Jean_Dedieu_inv1850n°9452_03.jpg",
+          "pageprops": {
+            "page_image_free": "Parc_de_Versailles,_Rond-Point_des_Philosophes,_Lysias,_Jean_Dedieu_inv1850n°9452_03.jpg",
+            "wikibase-shortdesc": "Athenian speechwriter (c. 445–c. 380 BC)",
+            "wikibase_item": "Q310164"
+          }
+        },
+        {
+          "pageid": 493219,
+          "ns": 0,
+          "title": "Demades",
+          "pageprops": {
+            "wikibase-shortdesc": "Athenian orator and demagogue",
+            "wikibase_item": "Q211430"
+          }
+        },
+        {
+          "pageid": 493225,
+          "ns": 0,
+          "title": "Dinarchus",
+          "pageprops": {
+            "wikibase-shortdesc": "4th-century BC Greek speechwriter",
+            "wikibase_item": "Q473421"
+          }
+        },
+        {
+          "pageid": 507012,
+          "ns": 0,
+          "title": "Antiphon (orator)",
+          "pageprops": {
+            "defaultsort": "Antiphon",
+            "wikibase-shortdesc": "5th-century BC Athenian orator",
+            "wikibase_item": "Q335560"
+          }
+        },
+        {
+          "pageid": 794399,
+          "ns": 0,
+          "title": "Porphyry of Tyre",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz%2C_latins_et_payens.jpg/960px-Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz%2C_latins_et_payens.jpg",
+            "width": 960,
+            "height": 1161
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz%2C_latins_et_payens.jpg",
+            "width": 1687,
+            "height": 2041
+          },
+          "pageimage": "Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz,_latins_et_payens.jpg",
+          "pageprops": {
+            "defaultsort": "Porphyry",
+            "page_image_free": "Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz,_latins_et_payens.jpg",
+            "wikibase-shortdesc": "3rd-century Phoenician Neoplatonist philosopher",
+            "wikibase_item": "Q203445"
+          }
+        },
+        {
+          "pageid": 840643,
+          "ns": 0,
+          "title": "Isaeus",
+          "pageprops": {
+            "wikibase-shortdesc": "4th-century BC Greek orator",
+            "wikibase_item": "Q365097"
+          }
+        },
+        {
+          "pageid": 3094469,
+          "ns": 0,
+          "title": "Lycurgus of Athens",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/17/Lycurgus_of_Athens.jpg",
+            "width": 858,
+            "height": 1300
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/17/Lycurgus_of_Athens.jpg",
+            "width": 858,
+            "height": 1300
+          },
+          "pageimage": "Lycurgus_of_Athens.jpg",
+          "pageprops": {
+            "page_image_free": "Lycurgus_of_Athens.jpg",
+            "wikibase-shortdesc": "4th century BC Greek politician and orator",
+            "wikibase_item": "Q373685"
+          }
+        },
+        {
+          "pageid": 20012109,
+          "ns": 0,
+          "title": "Aesop",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Aesop_pushkin01.jpg/960px-Aesop_pushkin01.jpg",
+            "width": 960,
+            "height": 1447
+          },
+          "original": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/6/63/Aesop_pushkin01.jpg",
+            "width": 973,
+            "height": 1467
+          },
+          "pageimage": "Aesop_pushkin01.jpg",
+          "pageprops": {
+            "defaultsort": "Aesop",
+            "page_image_free": "Aesop_pushkin01.jpg",
+            "wikibase-shortdesc": "Ancient Greek storyteller (620–564 BCE)",
+            "wikibase_item": "Q43423"
+          }
+        }
+      ]
+    }
+  }
+}
