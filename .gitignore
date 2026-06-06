@@ -25,3 +25,6 @@ pretext/logs/
 
 # OS/editor noise
 .DS_Store
+
+# per-work cover sidecars (intermediate; merged into catalog/book_covers.json)
+assets/book-covers/**/*.json
