@@ -1,0 +1,12 @@
+[project]
+name = "books"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "httpx>=0.28.1",
+    "lxml>=6.1.1",
+    "pillow>=12.2.0",
+    "pretext==2.41.0",
+    "pytest>=9.0.3",
+]

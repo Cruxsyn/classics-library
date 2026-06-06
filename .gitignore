@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node
+node_modules/
+
+# Pipeline data and generated assets
+data/raw/*
+!data/raw/.gitkeep
+output/
+/generated-assets/
+pretext/generated-assets/*
+!pretext/generated-assets/.gitkeep
+pretext/.cache/
+
+# PreTeXt build logs
+pretext/logs/
+
+# OS/editor noise
+.DS_Store

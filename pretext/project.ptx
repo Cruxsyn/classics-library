@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Minimal PreTeXt project manifest for generated library books. -->
+<project ptx-version="2" source="source" publication="publication" output-dir="generated-assets">
+  <targets>
+    <target name="html" format="html" source="main.ptx" publication="publication.ptx" output-dir="html" />
+  </targets>
+</project>

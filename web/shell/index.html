@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Virtual Library</title>
+    <script>
+      (() => {
+        try {
+          const saved = localStorage.getItem('library:theme:v1');
+          if (saved === 'light' || saved === 'dark' || saved === 'sepia') {
+            document.documentElement.dataset.theme = saved;
+          } else {
+            document.documentElement.removeAttribute('data-theme');
+          }
+        } catch {
+          document.documentElement.removeAttribute('data-theme');
+        }
+      })();
+    </script>
+    <link rel="stylesheet" href="../styles/tokens.css" />
+    <link rel="stylesheet" href="../styles/library.css" />
+    <link rel="stylesheet" href="./shell.css" />
+  </head>
+  <body>
+    <main id="library" aria-labelledby="library-title">
+      <h1 id="library-title">Virtual Library</h1>
+      <p>Classic works will appear here after the catalog pipeline lands.</p>
+    </main>
+    <script type="module" src="./shell.ts"></script>
+  </body>
+</html>

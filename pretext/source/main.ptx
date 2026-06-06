@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <book xml:id="virtual-library">
+    <title>Virtual Library</title>
+    <chapter xml:id="foundation-placeholder">
+      <title>Foundation Placeholder</title>
+      <p>Generated classic works will be added by later pipeline briefs.</p>
+    </chapter>
+  </book>
+</pretext>
