@@ -450,20 +450,6 @@ body.pretext div.line.indent-3 {
   margin-inline-start: 4.5em;
 }
 
-body.pretext div.line[data-reader-line-number]::before {
-  position: absolute;
-  inset-inline-start: -3.2rem;
-  min-inline-size: 2.2rem;
-  color: var(--muted);
-  content: attr(data-reader-line-number);
-  font-family: var(--font-ui);
-  font-size: .68rem;
-  font-variant-numeric: tabular-nums;
-  letter-spacing: .02em;
-  opacity: .64;
-  text-align: end;
-  text-indent: 0;
-}
 
 body.pretext .reader-has-bookmark::before,
 body.pretext .reader-has-bookmark-line::after {
