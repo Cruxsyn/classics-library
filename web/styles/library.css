@@ -655,12 +655,14 @@ html[data-theme='dark'] .reader-chrome {
   background: var(--surface);
   color: var(--text);
   box-shadow: 18px 0 50px rgba(0, 0, 0, .18);
+  pointer-events: none;
   transform: translateX(-103%);
   transition: transform 210ms ease;
 }
 
 .reader-drawer.is-open {
   transform: translateX(0);
+  pointer-events: auto;
 }
 
 .reader-drawer__header,

@@ -6,6 +6,10 @@ __pycache__/
 
 # Node
 node_modules/
+test-results/
+playwright-report/
+blob-report/
+
 
 # Pipeline data and generated assets
 data/raw/*
