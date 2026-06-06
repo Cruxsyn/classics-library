@@ -236,6 +236,54 @@ body.pretext #ptx-content > section {
   padding-inline: clamp(18px, 4vw, 54px);
 }
 
+/* Section / chapter navigation cards on division landing pages — centered on
+   screen within the reading measure, styled as on-brand cards (PreTeXt's
+   default leaves them as left-aligned full-width bars). */
+body.pretext nav.summary-links {
+  max-inline-size: var(--reader-measure);
+  margin-inline: auto;
+}
+body.pretext nav.summary-links > ul {
+  list-style: none;
+  margin: 1.75rem auto 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+body.pretext nav.summary-links > ul > li {
+  margin: 0;
+}
+body.pretext nav.summary-links > ul > li > a {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: 0.5em;
+  text-align: center;
+  padding: 14px 20px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-card, 6px);
+  background: var(--surface);
+  color: var(--text);
+  font-family: var(--font-display);
+  font-size: 1.125rem;
+  text-decoration: none;
+  box-shadow: none;
+  transition: border-color 160ms ease, background-color 160ms ease, transform 160ms ease;
+}
+body.pretext nav.summary-links > ul > li > a:hover {
+  border-color: var(--accent);
+  background: var(--accent-tint);
+  transform: translateY(-1px);
+}
+body.pretext nav.summary-links > ul > li > a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+body.pretext nav.summary-links .codenumber {
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+
 body.pretext section.book,
 body.pretext section.chapter,
 body.pretext section.section {
