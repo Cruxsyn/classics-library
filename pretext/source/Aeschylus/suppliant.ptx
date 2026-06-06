@@ -1,0 +1,1439 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="aeschylus-suppliant">
+    <title>The Suppliants</title>
+    <chapter xml:id="suppliant-the-suppliants">
+      <title>The Suppliants</title>
+      <poem xml:id="suppliant-the-suppliants-poem-1">
+        <stanza xml:id="suppliant-the-suppliants-stanza-1-1">
+          <line>Dramatis Personae</line>
+          <line>DANAUS</line>
+          <line>THE KING OF ARGOS</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>CHORUS OF THE DAUGHTERS OF DANAUS</line>
+          <line>Attendants</line>
+          <line>Scene A sacred precinct near the shore in Argos. Several statues of the gods can be seen, as well as a large altar. As the play opens, DANAUS, and his fifty daughters, the maidens who compose the CHORUS, enter. Their costumes have an oriental richness about them not characteristic of the strictly Greek. They carry also the wands of suppliants. The CHORUS is singing.</line>
+          <line>CHORUS</line>
+          <line>Zeus! Lord and guard of suppliant hands</line>
+          <line>Look down benign on us who crave</line>
+          <line>Thine aid-whom winds and waters drave</line>
+          <line>From where, through drifting shifting sands,</line>
+          <line>Pours Nilus to the wave.</line>
+          <line>From where the green land, god-possest,</line>
+          <line>Closes and fronts the Syrian waste,</line>
+          <line>We flee as exiles, yet unbanned</line>
+          <line>By murder's sentence from our land;</line>
+          <line>But-since Aegyptus had decreed</line>
+          <line>His sons should wed his brother's seed,-</line>
+          <line>Ourselves we tore from bonds abhorred,</line>
+          <line>From wedlock not of heart but hand,</line>
+          <line>Nor brooked to call a kinsman lord!</line>
+          <line>And Danaus, our sire and guide,</line>
+          <line>The king of counsel, pond'ring well</line>
+          <line>The dice of fortune as they fell,</line>
+          <line>Out of two griefs the kindlier chose,</line>
+          <line>And bade us fly, with him beside,</line>
+          <line>Heedless what winds or waves arose,</line>
+          <line>And o'er the wide sea waters haste,</line>
+          <line>Until to Argos' shore at last</line>
+          <line>Our wandering pinnace came-</line>
+          <line>Argos, the immemorial home</line>
+          <line>Of her from whom we boast to come-</line>
+          <line>Io, the ox-horned maiden, whom,</line>
+          <line>After long wandering, woe, and scathe,</line>
+          <line>Zeus with a touch, a mystic breath,</line>
+          <line>Made mother of our name.</line>
+          <line>Therefore, of all the lands of earth,</line>
+          <line>On this most gladly step we forth,</line>
+          <line>And in our hands aloft we bear-</line>
+          <line>Sole weapon for a suppliant's wear-</line>
+          <line>The olive-shoot, with wool enwound!</line>
+          <line>City, and land, and waters wan</line>
+          <line>Of Inachus, and gods most high,</line>
+          <line>And ye who, deep beneath the ground,</line>
+          <line>Bring vengeance weird on mortal man,</line>
+          <line>Powers of the grave, on you we cry!</line>
+          <line>And unto Zeus the Saviour, guard</line>
+          <line>Of mortals' holy purity!</line>
+          <line>Receive ye us-keep watch and ward</line>
+          <line>Above the suppliant maiden band!</line>
+          <line>Chaste be the heart of this your land</line>
+          <line>Towards the weak! but, ere the throng,</line>
+          <line>The wanton swarm, from Egypt sprung,</line>
+          <line>Leap forth upon the silted shore,</line>
+          <line>Thrust back their swift-rowed bark again,</line>
+          <line>Repel them, urge them to the main!</line>
+          <line>And there, 'mid storm and lightning's shine,</line>
+          <line>And scudding drift and thunder's roar,</line>
+          <line>Deep death be theirs, in stormy brine!</line>
+          <line>Before they foully grasp and win</line>
+          <line>Us, maiden-children of their kin,</line>
+          <line>And climb the couch by law denied,</line>
+          <line>And wrong each weak reluctant bride. strophe</line>
+          <line>And now on her I call,</line>
+          <line>Mine ancestress, who far on Egypt's shore</line>
+          <line>A young cow's semblance wore,-</line>
+          <line>A maiden once, by Hera's malice changed!</line>
+          <line>And then on him withal,</line>
+          <line>Who, as amid the flowers the grazing creature ranged,</line>
+          <line>Was in her by a breath of Zeus conceived;</line>
+          <line>And, as the hour of birth drew nigh,</line>
+          <line>By fate fulfilled, unto the light he came;-</line>
+          <line>And Epaphus for name,</line>
+          <line>Born from the touch of Zeus, the child received antistrophe</line>
+          <line>On him, on him I cry,</line>
+          <line>And him for patron hold-</line>
+          <line>While in this grassy vale I stand,</line>
+          <line>Where lo roamed of old!</line>
+          <line>And here, recounting all her toil and pain,</line>
+          <line>Signs will I show to those who rule the land</line>
+          <line>That I am child of hers; and all shall understand,</line>
+          <line>Hearing the doubtful tale of the dim past made plain. strophe</line>
+          <line>And, ere the end shall be,</line>
+          <line>Each man the truth of what I tell shall see.</line>
+          <line>And if there dwell hard by</line>
+          <line>One skilled to read from bird-notes augury,</line>
+          <line>That man, when through his ears shall thrill our tearful</line>
+          <line>wail,</line>
+          <line>Shall deem he hears the voice, the plaintive tale</line>
+          <line>Of her, the piteous spouse of Tereus, lord of guile-</line>
+          <line>Whom the hawk harries yet, the mourning nightingale. antistrophe</line>
+          <line>She, from her happy home and fair streams scared away,</line>
+          <line>Wails wild and sad for haunts beloved erewhile.</line>
+          <line>Yea, and for Itylus-ah, well-a-day!</line>
+          <line>Slain by her own, his mother's hand,</line>
+          <line>Maddened by lustful wrong, the deed by Tereus planned! strophe</line>
+          <line>Like her I wail and wail, in soft lonian tones,</line>
+          <line>And as she wastes, even so</line>
+          <line>Wastes my soft cheek, once ripe with Nilus' suns,</line>
+          <line>And all my heart dissolves in utter woe.</line>
+          <line>Sad flowers of grief I cull,</line>
+          <line>Fleeing from kinsmen's love unmerciful-</line>
+          <line>Yea, from the clutching hands, the wanton crowd,</line>
+          <line>I sped across the waves, from Egypt's land of cloud. antistrophe</line>
+          <line>Gods of the ancient cradle of my race,</line>
+          <line>Hear me, just gods! With righteous grace</line>
+          <line>On me, on me look down!</line>
+          <line>Grant not to youth its heart's unchaste desire,</line>
+          <line>But, swiftly spurning lust's unholy fire,</line>
+          <line>Bless only love and willing wedlock's crown!</line>
+          <line>The war-worn fliers from the battle's wrack</line>
+          <line>Find refuge at the hallowed altar-side,</line>
+          <line>The sanctuary divine,-</line>
+          <line>Ye gods! such refuge unto me provide-</line>
+          <line>Such sanctuary be mine! strophe 4</line>
+          <line>Though the deep will of Zeus be hard to track,</line>
+          <line>Yet doth it flame and glance,</line>
+          <line>A beacon in the dark, 'mid clouds of chance</line>
+          <line>That wrap mankind. antistrophe 4</line>
+          <line>Yea, though the counsel fall, undone it shall not lie,</line>
+          <line>Whate'er be shaped and fixed within Zeus' ruling</line>
+          <line>mind-</line>
+          <line>Dark as a solemn grove, with sombre leafage shaded,</line>
+          <line>His paths of purpose wind,</line>
+          <line>A marvel to man's eye. strophe 5</line>
+          <line>Smitten by him, from towering hopes degraded,</line>
+          <line>Mortals lie low and still.-</line>
+          <line>Tireless and effortless, works forth its will</line>
+          <line>The arm divine!</line>
+          <line>God from His holy seat, in calm of unarmed power,</line>
+          <line>Brings forth the deed, at its appointed hour! antistrophe</line>
+          <line>Let Him look down on mortal wantonness!</line>
+          <line>Lo! how the youthful stock of Belus' line</line>
+          <line>Craves for me, uncontrolled-</line>
+          <line>With greed and madness bold-</line>
+          <line>Urged on by passion's shunless stress-</line>
+          <line>And, cheated, learns too late the prey has 'scaped their hold! strophe</line>
+          <line>Ah, listen, listen to my grievous tale,</line>
+          <line>My sorrow's words, my shrill and tearful cries!</line>
+          <line>Ah woe, ah woe!</line>
+          <line>Loud with lament the accents rise,</line>
+          <line>And from my living lips my own sad dirges flow! refrain</line>
+          <line>O Apian land of hill and dale,</line>
+          <line>Thou kennest yet, O land, this faltered foreign</line>
+          <line>wail-</line>
+          <line>Have mercy, hear my prayer!</line>
+          <line>Lo, how again, again, rend and tear</line>
+          <line>My woven raiment, and from off my hair</line>
+          <line>Cast the Sidonian veil! antistrophe 6</line>
+          <line>Ah, but if fortune smile, if death be driven away,</line>
+          <line>Vowed rites, with eager haste, we to the gods will</line>
+          <line>pay!</line>
+          <line>Alas, alas again!</line>
+          <line>O whither drift the waves? and who shall loose the pain? refrain</line>
+          <line>O Apian land of hill and dale,</line>
+          <line>Thou kennest yet, O land, this faltered foreign</line>
+          <line>wail</line>
+          <line>Have mercy, hear my prayer!</line>
+          <line>Lo, how again, again, I rend and tear</line>
+          <line>My woven raiment, and from off my hair</line>
+          <line>Cast the Sidonian veil! strophe 7</line>
+          <line>The wafting oar, the bark with woven sail,</line>
+          <line>From which the sea foamed back,</line>
+          <line>Sped me, unharmed of storms, along the breeze's</line>
+          <line>track-</line>
+          <line>Be it unblamed of me!</line>
+          <line>But ah, the end, the end of my emprise!</line>
+          <line>May He, the Father, with all-seeing eyes,</line>
+          <line>Grant me that end to see! refrain 2</line>
+          <line>Grant that henceforth unstained as heretofore</line>
+          <line>I may escape the forced embrace</line>
+          <line>Of those proud children of the race</line>
+          <line>That sacred Io bore. antistrophe 7</line>
+          <line>And thou, O maiden-goddess chaste and pure-</line>
+          <line>Queen of the inner fane-</line>
+          <line>Look of thy grace on me, O Artemis,</line>
+          <line>Thy willing suppliant-thine, thine it is;,</line>
+          <line>Who from the lustful onslaught fled secure,</line>
+          <line>To grant that I too without stain</line>
+          <line>The shelter of thy purity may gain! refrain</line>
+          <line>Grant that henceforth unstained as heretofore</line>
+          <line>I may escape the forced embrace</line>
+          <line>Of those proud children of the race</line>
+          <line>That sacred Io bore! strophe 8</line>
+          <line>Yet if this may not be,</line>
+          <line>We, the dark race sun-smitten, we</line>
+          <line>Will speed with suppliant wands</line>
+          <line>To Zeus who rules below, with hospitable hands</line>
+          <line>Who welcomes all the dead from all the lands:</line>
+          <line>Yea, by our own hands strangled, we will go,</line>
+          <line>Spurned by Olympian gods, unto the gods below! refrain</line>
+          <line>Zeus, hear and save!</line>
+          <line>The searching, poisonous hate, that Io vexed and</line>
+          <line>drave,</line>
+          <line>Was of a goddess: well I know</line>
+          <line>The bitter ire, the wrathful woe</line>
+          <line>Of Hera, queen of heaven-</line>
+          <line>A storm, a storm her breath, whereby we yet are driven! antistrophe</line>
+          <line>Bethink thee, what dispraise</line>
+          <line>Of Zeus himself mankind will raise,</line>
+          <line>If now he turn his face averted from our cries!</line>
+          <line>If now, dishonoured and alone,</line>
+          <line>The ox-horned maiden's race shall be undone,</line>
+          <line>Children of Epaphus, his own begotten son-</line>
+          <line>Zeus, listen from on high!-to thee our prayers arise. refrain</line>
+          <line>Zeus, hear and save!</line>
+          <line>The searching poisonous hate, that lo vexed and</line>
+          <line>drave,</line>
+          <line>Was of a goddess: well I know</line>
+          <line>The bitter ire, the wrathful woe</line>
+          <line>Of Hera, queen of heaven-</line>
+          <line>A storm, a storm her breath, whereby we yet are driven!</line>
+          <line>After the CHORUS has finished its song and dance, DANAUS comes</line>
+          <line>forward.</line>
+          <line>DANAUS</line>
+          <line>Children, be wary-wary he with whom</line>
+          <line>Ye come, your trusty sire and steersman old:</line>
+          <line>And that same caution hold I here on land,</line>
+          <line>And bid you hoard my words, inscribing them</line>
+          <line>On memory's tablets. Lo, I see afar</line>
+          <line>Dust, voiceless herald of a host, arise;</line>
+          <line>And hark, within their griding sockets ring</line>
+          <line>Axles of hurrying wheels! I see approach,</line>
+          <line>Borne in curved cars, by speeding horses drawn,</line>
+          <line>A speared and shielded band. The chiefs, perchance.</line>
+          <line>Of this their land are hitherward intent</line>
+          <line>To look on us, of whom they yet have heard</line>
+          <line>By messengers alone. But come who may,</line>
+          <line>And come he peaceful or in ravening wrath</line>
+          <line>Spurred on his path, 'twere best, in any case,</line>
+          <line>Damsels, to cling unto this altar-mound</line>
+          <line>Made sacred to their gods of festival,-</line>
+          <line>A shrine is stronger than a tower to save,</line>
+          <line>A shield that none may cleave. Step swift thereto,</line>
+          <line>And in your left hands hold with reverence</line>
+          <line>The white-crowned wands of suppliance, the sign</line>
+          <line>Beloved of Zeus, compassion's lord, and speak</line>
+          <line>To those that question you, words meek and low</line>
+          <line>And piteous, as beseems your stranger state,</line>
+          <line>Clearly avowing of this flight of yours</line>
+          <line>The bloodless cause; and on your utterance</line>
+          <line>See to it well that modesty attend;</line>
+          <line>From downcast eyes, from brows of pure control,</line>
+          <line>Let chastity look forth; nor, when ye speak,</line>
+          <line>Be voluble nor eager-they that dwell</line>
+          <line>Within this land are sternly swift to chide.</line>
+          <line>And be your words submissive: heed this well;</line>
+          <line>For weak ye are, outcasts on stranger lands,</line>
+          <line>And froward talk beseems not strengthless hands.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>O father, warily to us aware</line>
+          <line>Thy words are spoken, and thy wisdom's hest</line>
+          <line>My mind shall hoard, with Zeus our sire to aid.</line>
+          <line>DANAUS</line>
+          <line>Even so-with gracious aspect let him aid.</line>
+          <line>LEADER</line>
+          <line>Fain were I now to seat me by thy side-</line>
+          <line>DANAUS</line>
+          <line>Now dally not, but put our thought in act.</line>
+          <line>LEADER</line>
+          <line>Zeus, pity our distress, or e'er we die.</line>
+          <line>DANAUS</line>
+          <line>If so he will, your toils to joy will turn.</line>
+          <line>LEADER</line>
+          <line>Lo, on this shrine, the semblance of a bird.</line>
+          <line>DANAUS</line>
+          <line>Zeus' bird of dawn it is; invoke the sign.</line>
+          <line>LEADER</line>
+          <line>Thus I invoke the saving rays of morn.</line>
+          <line>DANAUS</line>
+          <line>Next, bright Apollo, exiled once from heaven.</line>
+          <line>LEADER</line>
+          <line>The exiled god will pity our exile.</line>
+          <line>DANAUS</line>
+          <line>Yea, may he pity, giving grace and aid.</line>
+          <line>LEADER</line>
+          <line>Whom next invoke I, of these other gods?</line>
+          <line>DANAUS</line>
+          <line>Lo, here a trident, symbol of a god.</line>
+          <line>LEADER</line>
+          <line>Who gave sea-safety; may he bless on land!</line>
+          <line>DANAUS</line>
+          <line>This next is Hermes, carved in Grecian wise.</line>
+          <line>LEADER</line>
+          <line>Then let him herald help to freedom won.</line>
+          <line>DANAUS</line>
+          <line>Lastly, adore this altar consecrate</line>
+          <line>To many lesser gods in one; then crouch</line>
+          <line>On holy ground, a flock of doves that flee,</line>
+          <line>Scared by no alien hawks, a kin not kind,</line>
+          <line>Hateful, and fain of love more hateful still,</line>
+          <line>Foul is the bird that rends another bird,</line>
+          <line>And foul the men who hale unwilling maids,</line>
+          <line>From sire unwilling, to the bridal bed.</line>
+          <line>Never on earth, nor in the lower world,</line>
+          <line>Shall lewdness such as theirs escape the ban:</line>
+          <line>There too, if men say right, a God there is</line>
+          <line>Who upon dead men turns their sin to doom,</line>
+          <line>To final doom. Take heed, draw hitherward,</line>
+          <line>That from this hap your safety ye may win.</line>
+          <line>The KING OF ARGOS enters, followed by his attendants and</line>
+          <line>soldiers.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Speak-of what land are ye? No Grecian band</line>
+          <line>Is this to whom I speak, with Eastern robes</line>
+          <line>And wrappings richly dight: no Argive maid,</line>
+          <line>No woman in all Greece such garb doth wear,</line>
+          <line>This too gives marvel, how unto this land,</line>
+          <line>Unheralded, unfriended, without guide,</line>
+          <line>And without fear, ye came? yet wands I see,</line>
+          <line>True sign of suppliance, by you laid down</line>
+          <line>On shrines of these our gods of festival.</line>
+          <line>No land but Greece can rede such signs aright.</line>
+          <line>Much else there is, conjecture well might guess,</line>
+          <line>But let words teach the man who stands to hear.</line>
+          <line>LEADER</line>
+          <line>True is the word thou spakest of my garb;</line>
+          <line>But speak I unto thee as citizen,</line>
+          <line>Or Hermes' wandbearer, or chieftain king?</line>
+          <line>THE KING OF ARGOS</line>
+          <line>For that, take heart and answer without</line>
+          <line>fear.</line>
+          <line>I am Pelasgus, ruler of this land,</line>
+          <line>Child of Palaichthon, whom the earth brought forth;</line>
+          <line>And, rightly named from me, the race who reap</line>
+          <line>This country's harvests are Pelasgian called.</line>
+          <line>And o'er the wide and westward-stretching land,</line>
+          <line>Through which the lucent wave of Strymon flows,</line>
+          <line>I rule; Perrhaebia's land my boundary is</line>
+          <line>Northward, and Pindus' further slopes, that watch</line>
+          <line>Paeonia, and Dodona's mountain ridge.</line>
+          <line>West, east, the limit of the washing seas</line>
+          <line>Restrains my rule-the interspace is mine.</line>
+          <line>But this whereon we stand is Apian land,</line>
+          <line>Styled so of old from the great healer's name;</line>
+          <line>For Apis, coming from Naupactus' shore</line>
+          <line>Beyond the strait, child of Apollo's self</line>
+          <line>And like him seer and healer, cleansed this land</line>
+          <line>From man-devouring monsters, whoin the earth,</line>
+          <line>Stained with pollution of old bloodshedding,</line>
+          <line>Brought forth in malice, beasts of ravening jaws,</line>
+          <line>A grisly throng of serpents manifold.</line>
+          <line>And healings of their hurt, by knife and charm,</line>
+          <line>Apis devised, unblamed of Argive men,</line>
+          <line>And in their prayers found honour, for reward.</line>
+          <line>-Lo, thou hast heard the tokens that I give:</line>
+          <line>Speak now thy race, and tell a forthright tale;</line>
+          <line>In sooth, this people loves not many words.</line>
+          <line>LEADER</line>
+          <line>Short is my word and clear. Of Argive race</line>
+          <line>We come, from her, the ox-horned maiden who</line>
+          <line>Erst bare the sacred child. My word shall give</line>
+          <line>Whate'er can stablish this my soothfast tale.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>O stranger maids, I may not trust this word,</line>
+          <line>That ye have share in this our Argive race.</line>
+          <line>No likeness of our country do ye bear,</line>
+          <line>But semblance as of Libyan womankind.</line>
+          <line>Even such a stock by Nilus' banks might grow;</line>
+          <line>Yea, and the Cyprian stamp, in female forms,</line>
+          <line>Shows, to the life, what males impressed the same.</line>
+          <line>And, furthermore, of roving Indian maids</line>
+          <line>Whose camping-grounds by Aethiopia lie,</line>
+          <line>And camels burdened even as mules, and bearing</line>
+          <line>Riders, as horses bear, mine ears have heard;</line>
+          <line>And tales of flesh-devouring mateless maids</line>
+          <line>Called Amazons: to these, if bows ye bare,</line>
+          <line>I most had deemed you like. Speak further yet,</line>
+          <line>That of your Argive birth the truth I learn.</line>
+          <line>LEADER</line>
+          <line>Here in this Argive land-so runs the tale-</line>
+          <line>Io was priestess once of Hera's fane.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Yea, truth it is, and far this word prevails:</line>
+          <line>Is't said that Zeus with mortal mingled love?</line>
+          <line>LEADER</line>
+          <line>Ay, and that Hera that embrace surmised.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>How issued then this strife of those on high?</line>
+          <line>LEADER</line>
+          <line>By Hera's will, a heifer she became.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Held Zeus aloof then from the horned beast?</line>
+          <line>LEADER</line>
+          <line>'Tis said, he loved, in semblance of a bull.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>And his stern consort, did she aught thereon?</line>
+          <line>LEADER</line>
+          <line>One myriad-eyed she set, the heifer's guard.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>How namest thou this herdsman many-eyed?</line>
+          <line>LEADER</line>
+          <line>Argus, the child of Earth, whom Hermes slew.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Still did the goddess vex the beast ill-starred?</line>
+          <line>LEADER</line>
+          <line>She wrought a gadfly with a goading sting.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Thus drave she Io hence, to roam afar?</line>
+          <line>LEADER</line>
+          <line>Yea-this thy word coheres exact with mine.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Then to Canopus and to Memphis came she?</line>
+          <line>LEADER</line>
+          <line>And by Zeus' hand was touched, and bare a</line>
+          <line>child.</line>
+          <line>THE KING of ARGOS</line>
+          <line>Who vaunts him the Zeus-mated creature's son?</line>
+          <line>LEADER</line>
+          <line>Epaphus, named rightly from the saving touch.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>And whom in turn did Epaphus beget?</line>
+          <line>LEADER</line>
+          <line>Libya, with name of a wide land endowed.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>And who from her was born unto the race?</line>
+          <line>LEADER</line>
+          <line>Belus: from him two sons, my father one.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Speak now to me his name, this greybeard wise.</line>
+          <line>LEADER</line>
+          <line>Danaus; his brother fifty sons begat.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Grudge not, in telling, his name too to tell.</line>
+          <line>LEADER</line>
+          <line>Aegyptus: thou my lineage old hast heard-</line>
+          <line>Strive then to aid a kindred Argive band.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Yea of a truth, in backward scope of time,</line>
+          <line>Of Argive race ye seem: but say what chance</line>
+          <line>Fell on you, goading you from home and land?</line>
+          <line>LEADER</line>
+          <line>Lord of Pelasgian men, calamity</line>
+          <line>Is manifold and diverse; as of birds</line>
+          <line>Feather from feather differs, so of men</line>
+          <line>The woes are sundry. Who had dared foretell</line>
+          <line>That this our sudden flight, this hate and fear</line>
+          <line>Of loathly wedlock, would on Argos' shore</line>
+          <line>Set forth a race of kindred lineage?</line>
+          <line>THE KING OF ARGOS</line>
+          <line>What crave ye of these gods of festival,</line>
+          <line>Holding up newly-plucked white-tufted boughs?</line>
+          <line>LEADER</line>
+          <line>Ne'er to be slaves unto Aegyptus' race.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Doth your own hate, or doth the law forbid?</line>
+          <line>LEADER</line>
+          <line>Not as our lords, but as unloved, we chide them.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>'Tis from such wedlock that advancement comes,</line>
+          <line>LEADER</line>
+          <line>How easy is it, from the weak to turn!</line>
+          <line>THE KING OF ARGOS</line>
+          <line>How then toward you can I be conscience-clear?</line>
+          <line>LEADER</line>
+          <line>Deny us, though Aegyptus' race demand.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>A heavy task thou namest, a rash war.</line>
+          <line>LEADER</line>
+          <line>But Justice champions them who strike for her.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Yea, if their side was from the outset hers.</line>
+          <line>LEADER</line>
+          <line>Revere the gods thus crowned, who steer the State.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Awe thrills me, seeing these shrines with leafage crowned.</line>
+          <line>The whole CHORUS now sings its responses to the KING.</line>
+          <line>CHORUS</line>
+          <line>strophe 1</line>
+          <line>Yea, stern the wrath of Zeus, the suppliants' lord.</line>
+          <line>Child of Palaichthon, royal chief</line>
+          <line>Of thy Pelasgians, hear!</line>
+          <line>Bow down thine heart to my relief-</line>
+          <line>A fugitive, a suppliant, swift with fear,</line>
+          <line>A creature whom the wild wolves chase</line>
+          <line>O'er toppling crags; in piteous case</line>
+          <line>Aloud, afar she lows,</line>
+          <line>Calling the herdsman's trusty arm to save her from her foes!</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Lo, with bowed heads beside our city shrines</line>
+          <line>Ye sit 'neath shade of new-plucked olive-boughs.</line>
+          <line>Our distant kin's resentment Heaven forefend!</line>
+          <line>Let not this hap, unhoped and unforeseen,</line>
+          <line>Bring war on us: for strife we covet not.</line>
+          <line>CHORUS</line>
+          <line>antistrophe 1</line>
+          <line>Justice, the daughter of right-dealing Zeus,</line>
+          <line>Justice, the queen of suppliants, look down,</line>
+          <line>That this our plight no ill may loose</line>
+          <line>Upon your town!</line>
+          <line>This word, even from the young, let age and wisdom</line>
+          <line>learn:</line>
+          <line>If thou to suppliants show grace,</line>
+          <line>Thou shalt not lack Heaven's grace in turn,</line>
+          <line>So long as virtue's gifts on heavenly shrines have place.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Not at my private hearth ye sit and sue;</line>
+          <line>And if the city bear a common stain,</line>
+          <line>Be it the common toil to cleanse the same:</line>
+          <line>Therefore no pledge, no promise will I give,</line>
+          <line>Ere counsel with the commonwealth be held.</line>
+          <line>CHORUS</line>
+          <line>strophe 2</line>
+          <line>Nay, but the source of sway, the city's self, art thou,</line>
+          <line>A power unjudged! thine, only thine,</line>
+          <line>To rule the right of hearth and shrine!</line>
+          <line>Before thy throne and sceptre all men bow!</line>
+          <line>Thou, in all causes lord, beware the curse divine!</line>
+          <line>THE KING OF ARGOS</line>
+          <line>May that curse fall upon mine enemies!</line>
+          <line>I cannot aid you without risk of scathe,</line>
+          <line>Nor scorn your prayers-unmerciful it were.</line>
+          <line>Perplexed, distraught I stand, and fear alike</line>
+          <line>The twofold chance, to do or not to do.</line>
+          <line>CHORUS</line>
+          <line>antistrophe 2</line>
+          <line>Have heed of him who looketh from on high,</line>
+          <line>The guard of woeful mortals, whosoe'er</line>
+          <line>Unto their fellows cry,</line>
+          <line>And find no pity, find no justice there.</line>
+          <line>Abiding in his wrath, the suppliants' lord</line>
+          <line>Doth smite, unmoved by cries, unbent by prayerful word.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>But if Aegyptus' children grasp you here,</line>
+          <line>Claiming, their country's right, to hold you theirs</line>
+          <line>As next of kin, who dares to counter this?</line>
+          <line>Plead ye your country's laws, if plead ye may,</line>
+          <line>That upon you they lay no lawful hand.</line>
+          <line>CHORUS</line>
+          <line>strophe 3</line>
+          <line>Let me not fall, O nevermore,</line>
+          <line>A prey into the young men's hand;</line>
+          <line>Rather than wed whom I abhor,</line>
+          <line>By pilot-stars I flee this land;</line>
+          <line>O king, take justice to thy side,</line>
+          <line>And with the righteous powers decide!</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Hard is the cause-make me not judge thereof.</line>
+          <line>Already I have vowed it, to do nought</line>
+          <line>Save after counsel with my people ta'en,</line>
+          <line>King though I be; that ne'er in after time,</line>
+          <line>If ill fate chance, my people then may say-</line>
+          <line>In aid of strangers thou the State hast slain.</line>
+          <line>CHORUS</line>
+          <line>antistrophe 3</line>
+          <line>Zeus, lord of kinship, rules at will</line>
+          <line>The swaying balance, and surveys</line>
+          <line>Evil and good; to men of ill</line>
+          <line>Gives evil, and to good men praise,</line>
+          <line>And thou-since true those scales do sway-</line>
+          <line>Shalt thou from justice shrink away?</line>
+          <line>THE KING OF ARGOS</line>
+          <line>A deep, a saving counsel here there needs-</line>
+          <line>An eye that like a diver to the depth</line>
+          <line>Of dark perplexity can pass and see,</line>
+          <line>Undizzied, unconfused. First must we care</line>
+          <line>That to the State and to ourselves this thing</line>
+          <line>Shall bring no ruin; next, that wrangling hands</line>
+          <line>Shall grasp you not as prey, nor we ourselves</line>
+          <line>Betray you thus embracing sacred shrines,</line>
+          <line>Nor make the avenging all-destroying god,</line>
+          <line>Who not in hell itself sets dead men free,</line>
+          <line>A grievous inmate, an abiding bane.</line>
+          <line>-Spake I not right, of saving counsel's need?</line>
+          <line>CHORUS</line>
+          <line>strophe 4</line>
+          <line>Yea, counsel take and stand to aid</line>
+          <line>At justice' side and mine.</line>
+          <line>Betray not me, the timorous maid</line>
+          <line>Whom far beyond the brine</line>
+          <line>A godless violence cast forth forlorn. antistrophe</line>
+          <line>O King, wilt thou behold-</line>
+          <line>Lord of this land, wilt thou behold me torn</line>
+          <line>From altars manifold?</line>
+          <line>Bethink thee of the young men's wrath and lust,</line>
+          <line>Hold off their evil pride; strophe 5</line>
+          <line>Steel not thyself to see the suppliant thrust</line>
+          <line>From hallowed statues' side,</line>
+          <line>Haled by the frontlet on my forehead bound,</line>
+          <line>As steeds are led, and drawn</line>
+          <line>By hands that drag from shrine and altar-mound</line>
+          <line>My vesture's fringed lawn. antistrophe</line>
+          <line>Know thou that whether for Aegyptus' race</line>
+          <line>Thou dost their wish fulfil,</line>
+          <line>Or for the gods and for each holy place-</line>
+          <line>Be thy choice good or ill,</line>
+          <line>Blow is with blow requited, grace with grace.</line>
+          <line>Such is Zeus' righteous will.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Yea, I have pondered: from the sea of doubt</line>
+          <line>Here drives at length the bark of thought ashore;</line>
+          <line>Landward with screw and windlass haled, and firm,</line>
+          <line>Clamped to her props, she lies. The need is stern;</line>
+          <line>With men or gods a mighty strife we strive</line>
+          <line>Perforce, and either hap in grief concludes.</line>
+          <line>For, if a house be sacked, new wealth for old</line>
+          <line>Not hard it is to win-if Zeus the lord</line>
+          <line>Of treasure favour-more than quits the loss,</line>
+          <line>Enough to pile the store of wealth full high;</line>
+          <line>Or if a tongue shoot forth untimely speech,</line>
+          <line>Bitter and strong to goad a man to wrath,</line>
+          <line>Soft words there be to soothe that wrath away:</line>
+          <line>But what device shall make the war of kin</line>
+          <line>Bloodless? that woe, the blood of many beasts,</line>
+          <line>And victims manifold to many gods,</line>
+          <line>Alone can cure. Right glad I were to shun</line>
+          <line>This strife, and am more fain of ignorance</line>
+          <line>Than of the wisdom of a woe endured.</line>
+          <line>The gods send better than my soul foretells!</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>Of many cries for mercy, hear the end.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Say on, then, for it shall not 'scape mine ear.</line>
+          <line>LEADER</line>
+          <line>Girdles we have, and bands that bind our robes.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Even so; such things beseem a woman's wear.</line>
+          <line>LEADER</line>
+          <line>Know, then, with these a fair device there is-</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Speak, then: what utterance doth this foretell?</line>
+          <line>LEADER</line>
+          <line>Unless to us thou givest pledge secure</line>
+          <line>THE KING OF ARGOS</line>
+          <line>What can thy girdles' craft achieve for thee?</line>
+          <line>LEADER</line>
+          <line>Strange votive tablets shall these statues deck.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Mysterious thy resolve-avow it clear.</line>
+          <line>LEADER</line>
+          <line>Swiftly to hang me on these sculptured gods!</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Thy word is as a lash to urge my heart.</line>
+          <line>LEADER</line>
+          <line>Thou seest truth, for I have cleared thine eyes.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Yea, and woes manifold, invincible,</line>
+          <line>A crowd of ills, sweep on me torrent-like.</line>
+          <line>My bark goes forth upon a sea of troubles</line>
+          <line>Unfathomed, ill to traverse, harbourless.</line>
+          <line>For if my deed shall match not your demand,</line>
+          <line>Dire, beyond shot of speech, shall be the bane</line>
+          <line>Your death's pollution leaves unto this land.</line>
+          <line>Yet if against your kin, Aegyptus' race,</line>
+          <line>Before our gates I front the doom of war,</line>
+          <line>Will not the city's loss be sore? Shall men</line>
+          <line>For women's sake incarnadine the ground?</line>
+          <line>But yet the wrath of Zeus, the suppliants' lord,</line>
+          <line>I needs must fear: most awful unto man</line>
+          <line>The terror of his anger. Thou, old man,</line>
+          <line>The father of these maidens, gather up</line>
+          <line>Within your arms these wands of suppliance,</line>
+          <line>And lay them at the altars manifold</line>
+          <line>Of all our country's gods, that all the town</line>
+          <line>Know, by this sign, that ye come here to sue.</line>
+          <line>Nor, in thy haste, do thou say aught of me.</line>
+          <line>Swift is this folk to censure those who rule;</line>
+          <line>But, if they see these signs of suppliance,</line>
+          <line>It well may chance that each will pity you,</line>
+          <line>And loathe the young men's violent pursuit;</line>
+          <line>And thus a fairer favour you may find:</line>
+          <line>For, to the helpless, each man's heart is kind.</line>
+          <line>DANAUS</line>
+          <line>To us, beyond gifts manifold it is</line>
+          <line>To find a champion thus compassionate;</line>
+          <line>Yet send with me attendants, of thy folk,</line>
+          <line>Rightly to guide me, that I duly find</line>
+          <line>Each altar of your city's gods that stands</line>
+          <line>Before the fane, each dedicated shrine;</line>
+          <line>And that in safety through the city's ways</line>
+          <line>I may pass onwards: all unlike to yours</line>
+          <line>The outward semblance that I wear-the race</line>
+          <line>That Nilus rears is all dissimilar</line>
+          <line>To that of Inachus. Keep watch and ward</line>
+          <line>Lest heedlessness bring death: full oft, I ween,</line>
+          <line>Friend hath slain friend, not knowing whom he slew.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Go at his side, attendants,-he saith well.</line>
+          <line>On to the city's consecrated shrines!</line>
+          <line>Nor be of many words to those ye meet,</line>
+          <line>The while this suppliant voyager ye lead.</line>
+          <line>DANAUS departs with attendants.</line>
+          <line>LEADER</line>
+          <line>Let him go forward, thy command obeying.</line>
+          <line>But me how biddest, how assurest thou?</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Leave there the new-plucked boughs, thy sorrow's sign.</line>
+          <line>LEADER</line>
+          <line>Thus beckoned forth, at thy behest I leave them.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Now to this level precinct turn thyself.</line>
+          <line>LEADER</line>
+          <line>Unconsecrate it is, and cannot shield me.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>We will not yield thee to those falcons' greed.</line>
+          <line>LEADER</line>
+          <line>What help? more fierce they are than serpents fell.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>We spake thee fair-speak thou them fair in turn.</line>
+          <line>LEADER</line>
+          <line>What marvel that we loathe them, scared in soul?</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Awe towards a king should other fears transcend.</line>
+          <line>LEADER</line>
+          <line>Thus speak, thus act, and reassure my mind.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Not long thy sire shall leave thee desolate.</line>
+          <line>But I will call the country's indwellers,</line>
+          <line>And with soft words th' assembly will persuade,</line>
+          <line>And warn your sire what pleadings will avail.</line>
+          <line>Therefore abide ye, and with prayer entreat</line>
+          <line>The country's gods to compass your desire;</line>
+          <line>The while I go, this matter to provide,</line>
+          <line>Persuasion and fair fortune at my side.</line>
+          <line>The KING OF ARGOS departs with his retinue. The CHORUS forms to sing</line>
+          <line>its prayer to Zeus.</line>
+          <line>CHORUS</line>
+          <line>strophe 1</line>
+          <line>O King of Kings, among the blest</line>
+          <line>Thou highest and thou happiest,</line>
+          <line>Listen and grant our prayer,</line>
+          <line>And, deeply loathing, thrust</line>
+          <line>Away from us the young men's lust,</line>
+          <line>And deeply drown</line>
+          <line>In azure waters, down and ever down,</line>
+          <line>Benches and rowers dark,</line>
+          <line>The fatal and perfidious bark! antistrophe</line>
+          <line>Unto the maidens turn thy gracious care;</line>
+          <line>Think yet again upon the tale of fame,</line>
+          <line>How from the maiden loved of thee there sprung</line>
+          <line>Mine ancient line, long since in many a legend sung!</line>
+          <line>Remember, O remember, thou whose hand</line>
+          <line>Did Io by a touch to human shape reclaim.</line>
+          <line>For from this Argos erst our mother came</line>
+          <line>Driven hence to Egypt's land,</line>
+          <line>Yet sprung of Zeus we were, and hence our birth we claim. strophe</line>
+          <line>And now have I roamed back</line>
+          <line>Unto the ancient track</line>
+          <line>Where Io roamed and pastured among flowers,</line>
+          <line>Watched o'er by Argus' eyes,</line>
+          <line>Through the lush grasses and the meadow bowers.</line>
+          <line>Thence, by the gadfly maddened, forth she flies</line>
+          <line>Unto far lands and alien peoples driven</line>
+          <line>And, following fate, through paths of foam and surge,</line>
+          <line>Sees, as she goes, the cleaving strait divide</line>
+          <line>Greece, from the Eastland riven. antistrophe</line>
+          <line>And swift through Asian borders doth she urge</line>
+          <line>Her course, o'er Phrygian mountains' sheep-clipt</line>
+          <line>side;</line>
+          <line>Thence, where the Mysian realm of Teuthras lies,</line>
+          <line>Towards Lydian lowlands hies,</line>
+          <line>And o'er Cilician and Pamphylian hills</line>
+          <line>And ever-flowing rills,</line>
+          <line>And thence to Aphrodite's fertile shore,</line>
+          <line>The land of garnered wheat and wealthy store. strophe</line>
+          <line>And thence, deep-stung by wild unrest,</line>
+          <line>By the winged fly that goaded her and drave,</line>
+          <line>Unto the fertile land, the god-possest</line>
+          <line>(Where, fed from far-off snows,</line>
+          <line>Life-giving Nilus flows,</line>
+          <line>Urged on by Typho's strength, a fertilizing wave),</line>
+          <line>She roves, in harassed and dishonoured flight,</line>
+          <line>Scathed by the blasting pangs of Hera's dread despite. antistrophe</line>
+          <line>And they within the land</line>
+          <line>With terror shook and wanned,</line>
+          <line>So strange the sight they saw, and were afraid-</line>
+          <line>A wild twy-natured thing, half heifer and half maid.</line>
+          <line>Whose hand was laid at last on Io, thus forlorn,</line>
+          <line>With many roamings worn?</line>
+          <line>Who bade the harassed maiden's peace return? strophe</line>
+          <line>Zeus, lord of time eterne.</line>
+          <line>Yea, by his breath divine, by his unscathing strength,</line>
+          <line>She lays aside her bane,</line>
+          <line>And softened back to womanhood at length</line>
+          <line>Sheds human tears again.</line>
+          <line>Then, quickened with Zeus' veritable seed,</line>
+          <line>A progeny she bare,</line>
+          <line>A stainless babe, a child of heavenly breed. antistrophe</line>
+          <line>Of life and fortune fair.</line>
+          <line>His is the life of life-so all men say,-</line>
+          <line>His is the seed of Zeus.</line>
+          <line>Who else had power stern Hera's craft to stay,</line>
+          <line>Her vengeful curse to loose?</line>
+          <line>Yea, all from Zeus befel!</line>
+          <line>And rightly wouldst thou tell</line>
+          <line>That we from Epaphus, his child, were born:</line>
+          <line>Justly his deed was done; strophe 5</line>
+          <line>Unto what other one,</line>
+          <line>Of all the gods, should I for justice turn?</line>
+          <line>From him our race did spring;</line>
+          <line>Creator he and King,</line>
+          <line>Ancient of days and wisdom he, and might.</line>
+          <line>As bark before the wind,</line>
+          <line>So, wafted by his mind,</line>
+          <line>Moves every counsel, each device aright. antistrophe</line>
+          <line>Beneath no stronger hand</line>
+          <line>Holds he a weak command,</line>
+          <line>No throne doth he abase him to adore;</line>
+          <line>Swift as a word, his deed</line>
+          <line>Acts out what stands decreed</line>
+          <line>In counsels of his heart, for evermore.</line>
+          <line>DANAUS re-enters.</line>
+          <line>DANAUS</line>
+          <line>Take heart, my children: the land's heart is</line>
+          <line>kind,</line>
+          <line>And to full issue has their voting come.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>All hail, my sire; thy word brings utmost</line>
+          <line>joy.</line>
+          <line>Say, to what issue is the vote made sure,</line>
+          <line>And how prevailed the people's crowding hands?</line>
+          <line>DANAUS</line>
+          <line>With one assent the Argives spake their</line>
+          <line>will,</line>
+          <line>And, hearing, my old heart took youthful cheer.</line>
+          <line>The very sky was thrilled when high in air</line>
+          <line>The concourse raised right hands and swore their</line>
+          <line>oath:-</line>
+          <line>Free shall the maidens sojourn in this land.</line>
+          <line>Unharried, undespoiled by mortal wight:</line>
+          <line>No native hand, no hand of foreigner</line>
+          <line>Shall drag them hence; if any man use force-</line>
+          <line>Whoe'er of all our countrymen shall fail</line>
+          <line>To come unto their aid, let him go forth,</line>
+          <line>Beneath the people's curse, to banishment.</line>
+          <line>So did the king of this Pelasgian folk</line>
+          <line>Plead on behalf of us, and bade them heed</line>
+          <line>That never, in the after-time, this realm</line>
+          <line>Should feed to fulness the great enmity</line>
+          <line>Of Zeus, the suppliants' guard, against itself!</line>
+          <line>A twofold curse, for wronging stranger-guests</line>
+          <line>Who are akin withal, confrontingly</line>
+          <line>Should rise before this city and be shown</line>
+          <line>A ruthless monster, fed on human doom.</line>
+          <line>Such things the Argive people heard, and straight,</line>
+          <line>Without proclaim of herald, gave assent:</line>
+          <line>Yea, in full conclave, the Pelasgian folk</line>
+          <line>Heard suasive pleas, and Zeus through them resolved.</line>
+          <line>The CHORUS now sings a prayer of thankfulness.</line>
+          <line>CHORUS</line>
+          <line>Arouse we now to chant our prayer</line>
+          <line>For fair return of service fair</line>
+          <line>And Argos' kindly will.</line>
+          <line>Zeus, lord of guestright, look upon</line>
+          <line>The grace our stranger lips have won.</line>
+          <line>In right and truth, as they begun,</line>
+          <line>Guide them, with favouring hand, until</line>
+          <line>Thou dost their blameless wish fulfil! strophe</line>
+          <line>Now may the Zeus-born gods on high</line>
+          <line>Hear us pour forth</line>
+          <line>A votive prayer for Argos' clan!-</line>
+          <line>Never may this Pelasgian earth,</line>
+          <line>Amid the fire-wrack, shrill the dismal cry</line>
+          <line>On Ares, ravening lord of fight,</line>
+          <line>Who in an alien harvest mows down man!</line>
+          <line>For lo, this land had pity on our plight,</line>
+          <line>And unto us were merciful and leal,</line>
+          <line>To us, the piteous flock, who at Zeus' altar kneel! antistrophe</line>
+          <line>They scorned not the pleas of maidenhood,</line>
+          <line>Nor with the young men's will hath their will stood.</line>
+          <line>They knew right well</line>
+          <line>Th' unearthly watching fiend invincible,</line>
+          <line>The foul avenger-let him not draw near!</line>
+          <line>For he, on roofs ill-starred,</line>
+          <line>Defiling and polluting, keeps a ghastly ward!</line>
+          <line>They knew his vengeance, and took holy heed</line>
+          <line>To us, the sister suppliants, who cry</line>
+          <line>To Zeus, the lord of purity:</line>
+          <line>Therefore with altars pure they shall the gods revere.</line>
+          <line>Thus, through the boughs that shade our lips, fly forth in air, strophe</line>
+          <line>Fly forth, O eager prayer!</line>
+          <line>May never pestilence efface</line>
+          <line>This city's race,</line>
+          <line>Nor be the land with corpses strewed,</line>
+          <line>Nor stained with civic blood!</line>
+          <line>The stem of youth, unpluckt, to manhood come,</line>
+          <line>Nor Ares rise from Aphrodite's bower,</line>
+          <line>The lord of death and bane, to waste our youthful flower. antistrophe</line>
+          <line>Long may the old</line>
+          <line>Crowd to the altars kindled to consume</line>
+          <line>Gifts rich and manifold-</line>
+          <line>Offered to win from powers divine</line>
+          <line>A benison on city and on shrine:</line>
+          <line>Let all the sacred might adore</line>
+          <line>Of Zeus most high, the lord</line>
+          <line>Of guestright and the hospitable board,</line>
+          <line>Whose immemorial law doth rule Fate's scales aright:</line>
+          <line>The garners of earth's store</line>
+          <line>Be full for evermore,</line>
+          <line>And grace of Artemis make women's travail light; strophe</line>
+          <line>No devastating curse of fell disease</line>
+          <line>This city seize;</line>
+          <line>No clamour of the State arouse to war</line>
+          <line>Ares, from whom afar</line>
+          <line>Shrinketh the lute, by whom the dances fail-</line>
+          <line>Ares, the lord of wail.</line>
+          <line>Swarm far aloof from Argos' citizens</line>
+          <line>All plague and pestilence,</line>
+          <line>And may the Archer-God our children spare! antistrophe</line>
+          <line>May Zeus with foison and with fruitfulness</line>
+          <line>The land's each season bless,</line>
+          <line>And, quickened with Heaven's bounty manifold,</line>
+          <line>Teem grazing flock and fold.</line>
+          <line>Beside the altars of Heaven's hallowing</line>
+          <line>Loud let the minstrels sing,</line>
+          <line>And from pure lips float forth the harp-led strain in air! strophe</line>
+          <line>And let the people's voice, the power</line>
+          <line>That sways the State, in danger's hour</line>
+          <line>Be wary, wise for all;</line>
+          <line>Nor honour in dishonour hold,</line>
+          <line>But-ere the voice of war be bold-</line>
+          <line>Let them to stranger peoples grant</line>
+          <line>Fair and unbloody covenant-</line>
+          <line>Justice and peace withal; antistrophe</line>
+          <line>And to the Argive powers divine</line>
+          <line>The sacrifice of laurelled kine,</line>
+          <line>By rite ancestral, pay.</line>
+          <line>Among three words of power and awe,</line>
+          <line>Stands this, the third, the mighty law-</line>
+          <line>Your gods, your fathers deified,</line>
+          <line>Ye shall adore. Let this abide</line>
+          <line>For ever and for aye.</line>
+          <line>DANAUS</line>
+          <line>Dear children, well and wisely have ye prayed;</line>
+          <line>I bid you now not shudder, though ye hear</line>
+          <line>New and alarming tidings from your sire.</line>
+          <line>From this high place beside the suppliants' shrine</line>
+          <line>The bark of our pursuers I behold,</line>
+          <line>By divers tokens recognized too well.</line>
+          <line>Lo, the spread canvas and the hides that screen</line>
+          <line>The gunwale; lo, the prow, with painted eyes</line>
+          <line>That seem her onward pathway to descry,</line>
+          <line>Heeding too well the rudder at the stern</line>
+          <line>That rules her, coming for no friendly end.</line>
+          <line>And look, the seamen-all too plain their race-</line>
+          <line>Their dark limbs gleam from out their snow-white</line>
+          <line>garb;</line>
+          <line>Plain too the other barks, a fleet that comes</line>
+          <line>All swift to aid the purpose of the first,</line>
+          <line>That now, with furled sail and with pulse of oars</line>
+          <line>Which smite the wave together, comes aland.</line>
+          <line>But ye, be calm, and, schooled not scared by fear,</line>
+          <line>Confront this chance, be mindful of your trust</line>
+          <line>In these protecting gods. And I will hence,</line>
+          <line>And champions who shall plead your cause aright</line>
+          <line>Will bring unto your side. There come perchance</line>
+          <line>Heralds or envoys, eager to lay hand</line>
+          <line>And drag you captive hence; yet fear them not;</line>
+          <line>Foiled shall they be. Yet well it were for you</line>
+          <line>(If, ere with aid I come, I tarry long)</line>
+          <line>Not by one step this sanctuary to leave.</line>
+          <line>Farewell, fear nought: soon shall the hour be born</line>
+          <line>When he that scorns the gods shall rue his scorn.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Ah, but I shudder, father!-ah, even now,</line>
+          <line>Even as I speak, the swift-winged ships draw nigh! strophe</line>
+          <line>I shudder, I shiver, I perish with fear:</line>
+          <line>Overseas though I fled,</line>
+          <line>Yet nought it avails; my pursuers are near!</line>
+          <line>DANAUS</line>
+          <line>Children, take heart; they who decreed to</line>
+          <line>aid</line>
+          <line>Thy cause will arm for battle, well I ween.</line>
+          <line>CHORUS</line>
+          <line>But desperate is Aegyptus' ravening race,</line>
+          <line>With fight unsated; thou too know'st it well. antistrophe</line>
+          <line>In their wrath they o'ertake us; the prow is deep-dark</line>
+          <line>In the which they have sped,</line>
+          <line>And dark is the bench and the crew of the bark!</line>
+          <line>DANAUS</line>
+          <line>Yea but a crew as stout they here shall</line>
+          <line>find,</line>
+          <line>And arms well steeled beneath a noon-day sun.</line>
+          <line>CHORUS</line>
+          <line>Ah yet, O father, leave us not forlorn!</line>
+          <line>Alone, a maid is nought, a strengthless arm. strophe</line>
+          <line>With guile they pursue me, with counsel malign,</line>
+          <line>And unholy their soul;</line>
+          <line>And as ravens they seize me, unheeding the shrine!</line>
+          <line>DANAUS</line>
+          <line>Fair will befall us, children, in this chance,</line>
+          <line>If thus in wrath they wrong the gods and you.</line>
+          <line>CHORUS</line>
+          <line>Alas, nor tridents nor the sanctity</line>
+          <line>Of shrines will drive them, O my sire, from us! antistrophe</line>
+          <line>Unholy and daring and cursed is their ire,</line>
+          <line>Nor own they control</line>
+          <line>Of the gods, but like jackals they glut their desire!</line>
+          <line>DANAUS</line>
+          <line>Ay, but Come wolf, flee jackal, saith the</line>
+          <line>saw;</line>
+          <line>Nor can the flax-plant overbear the corn.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>Lustful, accursed, monstrous is their will</line>
+          <line>As of beasts ravening-'ware we of their power</line>
+          <line>DANAUS</line>
+          <line>Look you, not swiftly puts a fleet to sea,</line>
+          <line>Nor swiftly to its moorings; long it is</line>
+          <line>Or e'er the saving cables to the shore</line>
+          <line>Are borne, and long or e'er the steersmen cry,</line>
+          <line>The good ship swings at anchor-all is well.</line>
+          <line>Longest of all, the task to come aland</line>
+          <line>Where haven there is none, when sunset fades</line>
+          <line>In night. To pilot wise, the adage saith,</line>
+          <line>Night is a day of wakefulness and pain.</line>
+          <line>Therefore no force of weaponed men, as yet,</line>
+          <line>Scatheless can come ashore, before the bark</line>
+          <line>Lie at her anchorage securely moored.</line>
+          <line>Bethink thee therefore, nor in panic leave</line>
+          <line>The shrine of gods whose succour thou hast won.</line>
+          <line>I go for aid-men shall not blame me long,</line>
+          <line>Old, but with youth at heart and on my tongue.</line>
+          <line>DANAUS departs as the CHORUS sings in terror.</line>
+          <line>CHORUS</line>
+          <line>strophe 1</line>
+          <line>O land of hill and dale, O holy land,</line>
+          <line>What shall befall us? whither shall we flee,</line>
+          <line>From Apian land to some dark lair of earth?</line>
+          <line>O would that in vapour of smoke I might rise to the clouds of the</line>
+          <line>sky,</line>
+          <line>That as dust which flits up without wings I might pass and evanish</line>
+          <line>and die! antistrophe 1</line>
+          <line>I dare not, I dare not abide: my heart yearns, eager to</line>
+          <line>fly;</line>
+          <line>And dark is the cast of my thought; I shudder and tremble for</line>
+          <line>fear.</line>
+          <line>My father looked forth and beheld: I die of the sight that draws</line>
+          <line>near.</line>
+          <line>And for me be the strangling cord, the halter made ready by</line>
+          <line>Fate,</line>
+          <line>Before to my body draws nigh the man of my horror and</line>
+          <line>hate.</line>
+          <line>Nay, ere I will own him as lord, as handmaid to Hades I go! strophe</line>
+          <line>And oh, that aloft in the sky, where the dark clouds are frozen to</line>
+          <line>snow,</line>
+          <line>A refuge for me might be found, or a mountain-top smooth and too</line>
+          <line>high</line>
+          <line>For the foot of the goat, where the vulture sits lonely, and none may</line>
+          <line>descry</line>
+          <line>The pinnacle veiled in the cloud, the highest and sheerest of</line>
+          <line>all,</line>
+          <line>Ere to wedlock that rendeth my heart, and love that is</line>
+          <line>loveless,</line>
+          <line>I fall! antistrophe 2</line>
+          <line>Yea, a prey to the dogs and the birds of the mount will I give me to</line>
+          <line>be,-</line>
+          <line>From wailing and curse and pollution it is death, only death, sets</line>
+          <line>me free:</line>
+          <line>Let death come upon me before to the ravisher's bed I am</line>
+          <line>thrust;</line>
+          <line>What champion, what saviour but death can I find, or what refuge from</line>
+          <line>lust? strophe 3</line>
+          <line>I will utter my shriek of entreaty, a prayer that shrills up to the</line>
+          <line>sky,</line>
+          <line>That calleth the gods to compassion, a tuneful, a pitiful</line>
+          <line>cry,</line>
+          <line>That is loud to invoke the releaser. O father, look down on the</line>
+          <line>fight;</line>
+          <line>Look down in thy wrath on the wronger, with eyes that are eager for</line>
+          <line>right.</line>
+          <line>Zeus, thou that art lord of the world, whose kingdom is strong over</line>
+          <line>all,</line>
+          <line>Have mercy on us! At thine altar for refuge and safety we call. antistrophe</line>
+          <line>For the race of Aegyptus is fierce, with greed and with malice</line>
+          <line>afire;</line>
+          <line>They cry as the questing hounds, they sweep with the speed of</line>
+          <line>desire.</line>
+          <line>But thine is the balance of fate, thou rulest the wavering</line>
+          <line>scale,</line>
+          <line>And without thee no mortal emprise shall have strength to achieve or</line>
+          <line>prevail.</line>
+          <line>The CHORUS rushes to the altar during the final part of the</line>
+          <line>song.</line>
+          <line>Alack, alack! the ravisher-</line>
+          <line>He leaps from boat to beach, he draweth near!</line>
+          <line>Away, thou plunderer accurst!</line>
+          <line>Death seize thee first,</line>
+          <line>Or e'er thou touch me-off! God, hear our cry,</line>
+          <line>Our maiden agony!</line>
+          <line>Ah, ah, the touch, the prelude of my shame.</line>
+          <line>Alas, my maiden fame!</line>
+          <line>O sister, sister, sister, to the altar cling,</line>
+          <line>For he that seizeth me,</line>
+          <line>Grim is his wrath and stern, by land as on the sea.</line>
+          <line>Guard us, O king!</line>
+          <line>The HERALD OF AEGYPTUS enters with attendants. The lines in the following</line>
+          <line>scene between the HERALD and the CHORUS are sung and are accompanied by</line>
+          <line>a frenzied symbolic dance.</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>Hence to my barge-step swiftly, tarry not.</line>
+          <line>CHORUS</line>
+          <line>Alack, he rends-he rends my hair! O wound on</line>
+          <line>wound!</line>
+          <line>Help! my lopped head will fall, my blood gush o'er the ground!</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>Aboard, ye cursed-with a new curse, go!</line>
+          <line>CHORUS</line>
+          <line>Would God that on the wand'ring brine</line>
+          <line>Thou and this braggart tongue of thine</line>
+          <line>Had sunk beneath the main-</line>
+          <line>Thy mast and planks, made fast in vain!</line>
+          <line>Thee would I drive aboard once more,</line>
+          <line>A slayer and a dastard, from the shore!</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>Be still, thou vain demented soul;</line>
+          <line>My force thy craving shall control.</line>
+          <line>Away, aboard! What, clingest to the shrine?</line>
+          <line>Away! this city's gods I hold not for divine.</line>
+          <line>CHORUS</line>
+          <line>Aid me, ye gods, that never, never</line>
+          <line>I may again behold</line>
+          <line>The mighty, the life-giving river,</line>
+          <line>Nilus, the quickener of field and fold!</line>
+          <line>Alack, O sire, unto the shrine I cling-</line>
+          <line>Shrine of this land from which mine ancient line did spring!</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>Shrines, shrines, forsooth!-the ship, the ship be</line>
+          <line>shrine</line>
+          <line>Aboard, perforce and will-ye nill-ye, go!</line>
+          <line>Or e'er from hands of mine</line>
+          <line>Ye suffer torments worse and blow on blow.</line>
+          <line>CHORUS</line>
+          <line>Alack, God grant those hands may strive in</line>
+          <line>vain</line>
+          <line>With the salt-streaming wave,</line>
+          <line>When 'gainst the wide-blown blasts thy bark shall</line>
+          <line>strain</line>
+          <line>To round Sarpedon's cape, the sandbank's treach'rous grave.</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>Shrill ye and shriek unto what gods ye may,</line>
+          <line>Ye shall not leap from out Aegyptus' bark,</line>
+          <line>How bitterly soe'er ye wail your woe.</line>
+          <line>CHORUS</line>
+          <line>Alack, alack my wrong!</line>
+          <line>Stern is thy voice, thy vaunting loud and strong.</line>
+          <line>Thy sire, the mighty Nilus, drive thee hence,</line>
+          <line>Turning to death and doom thy greedy violence!</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>Swift to the vessel of the double prow,</line>
+          <line>Go quickly! let none linger, else this hand</line>
+          <line>Ruthless will hale you by your tresses hence.</line>
+          <line>CHORUS</line>
+          <line>Alack, O father! from the shrine</line>
+          <line>Not aid but agony is mine.</line>
+          <line>As a spider he creeps and he clutches his prey,</line>
+          <line>And he hales me away.</line>
+          <line>A spectre of darkness, of darkness. Alas and alas!</line>
+          <line>well-a-day!</line>
+          <line>O Earth, O my mother! O Zeus, thou king of the earth, and her</line>
+          <line>child!</line>
+          <line>Turn back, we pray thee, from us his clamour and threatenings wild!</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>Peace! I fear not this country's deities.</line>
+          <line>They fostered not my childhood nor mine age.</line>
+          <line>CHORUS</line>
+          <line>Like a snake that is human he comes, he shudders and crawls</line>
+          <line>to my side:</line>
+          <line>As an adder that biteth the foot, his clutch on my flesh doth</line>
+          <line>abide.</line>
+          <line>O Earth, O my mother! O Zeus, thou king of the earth, and her</line>
+          <line>child!</line>
+          <line>Turn back, we pray thee, from us his clamour and threatenings wild!</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>Swift each unto the ship; repine no more,</line>
+          <line>Or my hand shall not spare to rend your robe.</line>
+          <line>CHORUS</line>
+          <line>O chiefs, O leaders, aid me, or I yield!</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>Peace! if ye have not ears to hear my words,</line>
+          <line>Lo, by these tresses must I hale you hence.</line>
+          <line>CHORUS</line>
+          <line>Undone we are, O king! all hope is gone.</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>Ay, kings enow ye shall behold anon,</line>
+          <line>Aegyptus' sons-Ye shall not want for kings.</line>
+          <line>The KING OF ARGOS enters with his retinue.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Sirrah, what dost thou? in what arrogance</line>
+          <line>Darest thou thus insult Pelasgia's realm?</line>
+          <line>Deemest thou this a woman-hearted town?</line>
+          <line>Thou art too full of thy barbarian scorn</line>
+          <line>For us of Grecian blood, and, erring thus,</line>
+          <line>Thou dost bewray thyself a fool in all!</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>Say thou wherein my deeds transgress my right.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>First, that thou play'st a stranger's part amiss.</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>Wherein? I do but search and claim mine own.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>To whom of our guest-champions hast appealed?</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>To Hermes, herald's champion, lord of search.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Yea, to a god-yet dost thou wrong the gods!</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>The gods that rule by Nilus I revere.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Hear I aright? our Argive gods are nought?</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>The prey is mine, unless force rend it from me.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>At thine own peril touch them-'ware, and soon!</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>I hear thy speech, no hospitable word.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>I am no host for sacrilegious hands.</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>I will go tell this to Aegyptus' sons.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Well it I my pride will ponder not thy word.</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>Yet, that I have my message clear to say</line>
+          <line>(For it behoves that heralds' words be clear,</line>
+          <line>Be they or ill or good), how art thou named?</line>
+          <line>By whom despoiled of this sister-band</line>
+          <line>Of maidens pass I homeward?-speak and say!</line>
+          <line>For lo, henceforth in Ares' court we stand,</line>
+          <line>Who judges not by witness but by war:</line>
+          <line>No pledge of silver now can bring the cause</line>
+          <line>To issue: ere this thing end, there must be</line>
+          <line>Corpse piled on corpse and many lives gasped forth.</line>
+          <line>THE KING OF ARGOS</line>
+          <line>What skills it that I tell my name to thee?</line>
+          <line>Thou and thy mates shall learn it ere the end.</line>
+          <line>Know that if words unstained by violence</line>
+          <line>Can change these maidens' choice, then mayest thou,</line>
+          <line>With full consent of theirs, conduct them hence.</line>
+          <line>But thus the city with one voice ordained-</line>
+          <line>No force shall bear away the maiden band.</line>
+          <line>Firmly this word upon the temple wall</line>
+          <line>Is by a rivet clenched, and shall abide:</line>
+          <line>Not upon wax inscribed and delible,</line>
+          <line>Nor upon parchment sealed and stored away.-</line>
+          <line>Lo, thou hast heard our free mouths speak their</line>
+          <line>will:</line>
+          <line>Out from our presence-tarry not, but go!</line>
+          <line>HERALD OF AEGYPTUS</line>
+          <line>Methinks we stand on some new edge of war:</line>
+          <line>Be strength and triumph on the young men's side!</line>
+          <line>THE KING OF ARGOS</line>
+          <line>Nay but here also shall ye find young men,</line>
+          <line>Unsodden with the juices oozed from grain.</line>
+          <line>The HERALD OF AEGYPTUS and his followers withdraw.</line>
+          <line>But ye, O maids, with vour attendants true,</line>
+          <line>Pass hence with trust into the fenced town,</line>
+          <line>Ringed with a wide confine of guarding towers.</line>
+          <line>Therein are many dwellings for such guests</line>
+          <line>As the State honours; there myself am housed</line>
+          <line>Within a palace neither scant nor strait.</line>
+          <line>There dwell ye, if ye will to lodge at ease</line>
+          <line>In halls well-thronged: yet, if your soul prefer,</line>
+          <line>Tarry secluded in a separate home.</line>
+          <line>Choose ye and cull, from these our proffered gifts,</line>
+          <line>Whiche'er is best and sweetest to your will:</line>
+          <line>And I and all these citizens whose vote</line>
+          <line>Stands thus decreed, will your protectors be.</line>
+          <line>Look not to find elsewhere more loyal guard.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>O godlike chief, God grant my prayer:</line>
+          <line>Fair blessings on thy proffers fair,</line>
+          <line>Lord of Pelasgia's race!</line>
+          <line>Yet, of thy grace, unto our side</line>
+          <line>Send thou the man of courage tried,</line>
+          <line>Of counsel deep and prudent thought</line>
+          <line>Be Danaus to his children brought;</line>
+          <line>For his it is to guide us well</line>
+          <line>And warn where it behoves to dwell-</line>
+          <line>What place shall guard and shelter us</line>
+          <line>From malice and tongues slanderous:</line>
+          <line>Swift always are the lips of blame</line>
+          <line>A stranger-maiden to defame-</line>
+          <line>But Fortune give us grace!</line>
+          <line>THE KING OF ARGOS</line>
+          <line>A stainless fame, a welcome kind</line>
+          <line>From all this people shall ye find:</line>
+          <line>Dwell therefore, damsels, loved of us,</line>
+          <line>Within our walls, as Danaus</line>
+          <line>Allots to each, in order due,</line>
+          <line>Her dower of attendants true.</line>
+          <line>DANAUS re-enters. A troop of soldiers accompanies</line>
+          <line>him.</line>
+          <line>DANAUS</line>
+          <line>High thanks, my children, unto Argos con,</line>
+          <line>And to this folk, as to Olympian gods,</line>
+          <line>Give offerings meet of sacrifice and wine;</line>
+          <line>For saviours are they in good sooth to you.</line>
+          <line>From me they heard, and bitter was their wrath,</line>
+          <line>How those your kinsmen strove to work you wrong,</line>
+          <line>And how of us were thwarted: then to me</line>
+          <line>This company of spearmen did they grant,</line>
+          <line>That honoured I might walk, nor unaware</line>
+          <line>Die by some secret thrust and on this land</line>
+          <line>Bring down the curse of death, that dieth not.</line>
+          <line>Such boons they gave me: it behoves me pay</line>
+          <line>A deeper reverence from a soul sincere.</line>
+          <line>Ye, to the many words of wariness</line>
+          <line>Spoken by me your father, add this word,</line>
+          <line>That, tried by time, our unknown company</line>
+          <line>Be held for honest: over-swift are tongues</line>
+          <line>To slander strangers, over-light is speech</line>
+          <line>To bring pollution on a stranger's name.</line>
+          <line>Therefore I rede you, bring no shame on me</line>
+          <line>Now when man's eye beholds your maiden prime.</line>
+          <line>Lovely is beauty's ripening harvest-field,</line>
+          <line>But ill to guard; and men and beasts, I wot,</line>
+          <line>And birds and creeping things make prey of it.</line>
+          <line>And when the fruit is ripe for love, the voice</line>
+          <line>Of Aphrodite bruiteth it abroad,</line>
+          <line>The while she guards the yet unripened growth.</line>
+          <line>On the fair richness of a maiden's bloom</line>
+          <line>Each passer looks, o'ercome with strong desire,</line>
+          <line>With eyes that waft the wistful dart of love.</line>
+          <line>Then be not such our hap, whose livelong toil</line>
+          <line>Did make our pinnace plough the mighty main:</line>
+          <line>Nor bring we shame upon ourselves, and joy</line>
+          <line>Unto my foes. Behold, a twofold home-</line>
+          <line>One of the king's and one the people's gift-</line>
+          <line>Unbought, 'tis yours to hold,-a gracious boon.</line>
+          <line>Go-but remember ye your sire's behest,</line>
+          <line>And hold your life less dear than chastity.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>The gods above grant that all else be well.</line>
+          <line>But fear not thou, O sire, lest aught befal</line>
+          <line>Of ill unto our ripened maidenhood.</line>
+          <line>So long as Heaven have no new ill devised,</line>
+          <line>From its chaste path my spirit shall not swerve.</line>
+          <line>The members of the CHORUS divide into two groups, to sing the final</line>
+          <line>choral lyric responsively.</line>
+          <line>SEMI-CHORUS</line>
+          <line>strophe 1</line>
+          <line>Pass and adore ye the Blessed, the gods of the city who</line>
+          <line>dwell</line>
+          <line>Around Erasinus, the gush of the swift immemorial tide.</line>
+          <line>SEMI-CHORUS</line>
+          <line>Chant ye, O maidens; aloud let the praise of Pelasgia</line>
+          <line>swell;</line>
+          <line>Hymn we no longer the shores where Nilus to ocean doth glide.</line>
+          <line>SEMI-CHORUS</line>
+          <line>antistrophe 1</line>
+          <line>Sing we the bounteous streams that ripple and gush through the</line>
+          <line>city;</line>
+          <line>Quickening flow they and fertile, the soft new life of the plain.</line>
+          <line>SEMI-CHORUS</line>
+          <line>Artemis, maiden most pure, look on us with grace and with</line>
+          <line>pity-</line>
+          <line>Save us from forced embraces: such love hath no crown but a pain.</line>
+          <line>SEMI-CHORUS</line>
+          <line>strophe 2</line>
+          <line>Yet not in scorn we chant, but in honour of Aphrodite;</line>
+          <line>She truly and Hera alone have power with Zeus and</line>
+          <line>control.</line>
+          <line>Holy the deeds of her rite, her craft is secret and</line>
+          <line>mighty,</line>
+          <line>And high is her honour on earth, and subtle her sway of the soul.</line>
+          <line>SEMI-CHORUS</line>
+          <line>Yea, and her child is Desire: in the train of his mother he</line>
+          <line>goeth-</line>
+          <line>Yea and Persuasion soft-lipped, whom none can deny or</line>
+          <line>repel:</line>
+          <line>Cometh Harmonia too, on whom Aphrodite bestoweth</line>
+          <line>The whispering parley, the paths of the rapture that lovers love well.</line>
+          <line>SEMI-CHORUS</line>
+          <line>antistrophe 2</line>
+          <line>Ah, but I tremble and quake lest again they should sail to</line>
+          <line>reclaim!</line>
+          <line>Alas for the sorrow to come, the blood and the carnage of</line>
+          <line>war.</line>
+          <line>Ah, by whose will was it done that o'er the wide ocean they</line>
+          <line>came,</line>
+          <line>Guided by favouring winds, and wafted by sail and by oar?</line>
+          <line>SEMI-CHORUS</line>
+          <line>Peace! for what Fate hath ordained will surely not tarry but</line>
+          <line>come;</line>
+          <line>Wide is the counsel of Zeus, by no man escaped or</line>
+          <line>withstood:</line>
+          <line>Only I pray that whate'er, in the end, of this wedlock he</line>
+          <line>doom,</line>
+          <line>We, as many a maiden of old, may win from the ill to the good.</line>
+          <line>SEMI-CHORUS</line>
+          <line>strophe 3</line>
+          <line>Great Zeus, this wedlock turn from me-</line>
+          <line>Me from the kinsman bridegroom guard!</line>
+          <line>SEMI-CHORUS</line>
+          <line>Come what come may, 'tis Fate's decree.</line>
+          <line>SEMI-CHORUS</line>
+          <line>Soft is thy word-the doom is hard.</line>
+          <line>SEMI-CHORUS</line>
+          <line>Thou know'st not what the Fates provide.</line>
+          <line>SEMI-CHORUS</line>
+          <line>antistrophe 3</line>
+          <line>How should I scan Zeus' mighty will,</line>
+          <line>The depth of counsel undescried?</line>
+          <line>SEMI-CHORUS</line>
+          <line>Pray thou no word of omen ill.</line>
+          <line>SEMI-CHORUS</line>
+          <line>What timely warning wouldst thou teach?</line>
+          <line>SEMI-CHORUS</line>
+          <line>Beware, nor slight the gods in speech.</line>
+          <line>SEMI-CHORUS</line>
+          <line>strophe 4</line>
+          <line>Zeus, hold from my body the wedlock detested, the bridegroom</line>
+          <line>abhorred!</line>
+          <line>It was thou, it was thou didst release</line>
+          <line>Mine ancestress Io from sorrow: thine healing it was that</line>
+          <line>restored,</line>
+          <line>The touch of thine hand gave her peace.</line>
+          <line>SEMI-CHORUS</line>
+          <line>antistrophe 4</line>
+          <line>Be thy will for the cause of the maidens! of two ills, the</line>
+          <line>lesser</line>
+          <line>I pray-</line>
+          <line>The exile that leaveth me pure.</line>
+          <line>May thy justice have heed to my cause, my prayers to thy mercy find</line>
+          <line>way!</line>
+          <line>For the hands of thy saving are sure.</line>
+        </stanza>
+      </poem>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="aeschylus-suppliant-colophon">
+        <p xml:id="aeschylus-suppliant-colophon-p-1">Author: Aeschylus</p>
+        <p xml:id="aeschylus-suppliant-colophon-p-2">Translated by E. D. A. Morshead</p>
+        <p xml:id="aeschylus-suppliant-colophon-p-3">Written: ca. 463 BCE</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="antiphon-antiph-5">
+    <title>On the Murder of Herodes</title>
+    <chapter xml:id="antiph-5-on-the-murder-of-herodes">
+      <title>On the Murder of Herodes</title>
+      <p xml:id="antiph-5-on-the-murder-of-herodes-head-1">
+        <em>On the Murder of Herodes</em>
+      </p>
+      <p xml:id="antiph-5-on-the-murder-of-herodes-p-2">By Antiphon</p>
+      <p xml:id="antiph-5-on-the-murder-of-herodes-p-3">Translated by K. J. Maidment This work is only provided via the Perseus Project at Tufts University. You may begin reading the English translation as well as the Greek version and a Greek version with morphological links . If you have any questions about the Perseus Project texts in the Internet Classics Archive, including the Perseus Project copyright notice , please consult the help pages . Please direct any inquiries about the texts themselves to the Perseus Project Webmaster at webmaster@perseus.tufts.edu. © 1994-2009</p>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="antiphon-antiph-5-colophon">
+        <p xml:id="antiphon-antiph-5-colophon-p-1">Author: Antiphon</p>
+        <p xml:id="antiphon-antiph-5-colophon-p-2">Translated by K. J. Maidment</p>
+        <p xml:id="antiphon-antiph-5-colophon-p-3">From the Perseus Project</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

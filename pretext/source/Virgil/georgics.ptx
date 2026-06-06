@@ -1,0 +1,2819 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="virgil-georgics">
+    <title>The Georgics</title>
+    <chapter xml:id="georgics-georgic-i">
+      <title>Georgic I</title>
+      <poem xml:id="georgics-georgic-i-poem-1">
+        <stanza xml:id="georgics-georgic-i-stanza-1-1">
+          <line>What makes the cornfield smile; beneath what star</line>
+          <line>Maecenas, it is meet to turn the sod</line>
+          <line>Or marry elm with vine; how tend the steer;</line>
+          <line>What pains for cattle-keeping, or what proof</line>
+          <line>Of patient trial serves for thrifty bees;-</line>
+          <line>Such are my themes.</line>
+          <line>O universal lights</line>
+          <line>Most glorious! ye that lead the gliding year</line>
+          <line>Along the sky, Liber and Ceres mild,</line>
+          <line>If by your bounty holpen earth once changed</line>
+          <line>Chaonian acorn for the plump wheat-ear,</line>
+          <line>And mingled with the grape, your new-found gift,</line>
+          <line>The draughts of Achelous; and ye Fauns</line>
+          <line>To rustics ever kind, come foot it, Fauns</line>
+          <line>And Dryad-maids together; your gifts I sing.</line>
+          <line>And thou, for whose delight the war-horse first</line>
+          <line>Sprang from earth's womb at thy great trident's</line>
+          <line>stroke,</line>
+          <line>Neptune; and haunter of the groves, for whom</line>
+          <line>Three hundred snow-white heifers browse the brakes,</line>
+          <line>The fertile brakes of Ceos; and clothed in power,</line>
+          <line>Thy native forest and Lycean lawns,</line>
+          <line>Pan, shepherd-god, forsaking, as the love</line>
+          <line>Of thine own Maenalus constrains thee, hear</line>
+          <line>And help, O lord of Tegea! And thou, too,</line>
+          <line>Minerva, from whose hand the olive sprung;</line>
+          <line>And boy-discoverer of the curved plough;</line>
+          <line>And, bearing a young cypress root-uptorn,</line>
+          <line>Silvanus, and Gods all and Goddesses,</line>
+          <line>Who make the fields your care, both ye who nurse</line>
+          <line>The tender unsown increase, and from heaven</line>
+          <line>Shed on man's sowing the riches of your rain:</line>
+          <line>And thou, even thou, of whom we know not yet</line>
+          <line>What mansion of the skies shall hold thee soon,</line>
+          <line>Whether to watch o'er cities be thy will,</line>
+          <line>Great Caesar, and to take the earth in charge,</line>
+          <line>That so the mighty world may welcome thee</line>
+          <line>Lord of her increase, master of her times,</line>
+          <line>Binding thy mother's myrtle round thy brow,</line>
+          <line>Or as the boundless ocean's God thou come,</line>
+          <line>Sole dread of seamen, till far Thule bow</line>
+          <line>Before thee, and Tethys win thee to her son</line>
+          <line>With all her waves for dower; or as a star</line>
+          <line>Lend thy fresh beams our lagging months to cheer,</line>
+          <line>Where 'twixt the Maid and those pursuing Claws</line>
+          <line>A space is opening; see! red Scorpio's self</line>
+          <line>His arms draws in, yea, and hath left thee more</line>
+          <line>Than thy full meed of heaven: be what thou wilt-</line>
+          <line>For neither Tartarus hopes to call thee king,</line>
+          <line>Nor may so dire a lust of sovereignty</line>
+          <line>E'er light upon thee, howso Greece admire</line>
+          <line>Elysium's fields, and Proserpine not heed</line>
+          <line>Her mother's voice entreating to return-</line>
+          <line>Vouchsafe a prosperous voyage, and smile on this</line>
+          <line>My bold endeavour, and pitying, even as I,</line>
+          <line>These poor way-wildered swains, at once begin,</line>
+          <line>Grow timely used unto the voice of prayer.</line>
+          <line>In early spring-tide, when the icy drip</line>
+          <line>Melts from the mountains hoar, and Zephyr's breath</line>
+          <line>Unbinds the crumbling clod, even then 'tis time;</line>
+          <line>Press deep your plough behind the groaning ox,</line>
+          <line>And teach the furrow-burnished share to shine.</line>
+          <line>That land the craving farmer's prayer fulfils,</line>
+          <line>Which twice the sunshine, twice the frost has felt;</line>
+          <line>Ay, that's the land whose boundless harvest-crops</line>
+          <line>Burst, see! the barns.</line>
+          <line>But ere our metal cleave</line>
+          <line>An unknown surface, heed we to forelearn</line>
+          <line>The winds and varying temper of the sky,</line>
+          <line>The lineal tilth and habits of the spot,</line>
+          <line>What every region yields, and what denies.</line>
+          <line>Here blithelier springs the corn, and here the grape,</line>
+          <line>There earth is green with tender growth of trees</line>
+          <line>And grass unbidden. See how from Tmolus comes</line>
+          <line>The saffron's fragrance, ivory from Ind,</line>
+          <line>From Saba's weakling sons their frankincense,</line>
+          <line>Iron from the naked Chalybs, castor rank</line>
+          <line>From Pontus, from Epirus the prize-palms</line>
+          <line>O' the mares of Elis.</line>
+          <line>Such the eternal bond</line>
+          <line>And such the laws by Nature's hand imposed</line>
+          <line>On clime and clime, e'er since the primal dawn</line>
+          <line>When old Deucalion on the unpeopled earth</line>
+          <line>Cast stones, whence men, a flinty race, were reared.</line>
+          <line>Up then! if fat the soil, let sturdy bulls</line>
+          <line>Upturn it from the year's first opening months,</line>
+          <line>And let the clods lie bare till baked to dust</line>
+          <line>By the ripe suns of summer; but if the earth</line>
+          <line>Less fruitful just ere Arcturus rise</line>
+          <line>With shallower trench uptilt it- 'twill suffice;</line>
+          <line>There, lest weeds choke the crop's luxuriance, here,</line>
+          <line>Lest the scant moisture fail the barren sand.</line>
+          <line>Then thou shalt suffer in alternate years</line>
+          <line>The new-reaped fields to rest, and on the plain</line>
+          <line>A crust of sloth to harden; or, when stars</line>
+          <line>Are changed in heaven, there sow the golden grain</line>
+          <line>Where erst, luxuriant with its quivering pod,</line>
+          <line>Pulse, or the slender vetch-crop, thou hast cleared,</line>
+          <line>And lupin sour, whose brittle stalks arise,</line>
+          <line>A hurtling forest. For the plain is parched</line>
+          <line>By flax-crop, parched by oats, by poppies parched</line>
+          <line>In Lethe-slumber drenched. Nathless by change</line>
+          <line>The travailing earth is lightened, but stint not</line>
+          <line>With refuse rich to soak the thirsty soil,</line>
+          <line>And shower foul ashes o'er the exhausted fields.</line>
+          <line>Thus by rotation like repose is gained,</line>
+          <line>Nor earth meanwhile uneared and thankless left.</line>
+          <line>Oft, too, 'twill boot to fire the naked fields,</line>
+          <line>And the light stubble burn with crackling flames;</line>
+          <line>Whether that earth therefrom some hidden strength</line>
+          <line>And fattening food derives, or that the fire</line>
+          <line>Bakes every blemish out, and sweats away</line>
+          <line>Each useless humour, or that the heat unlocks</line>
+          <line>New passages and secret pores, whereby</line>
+          <line>Their life-juice to the tender blades may win;</line>
+          <line>Or that it hardens more and helps to bind</line>
+          <line>The gaping veins, lest penetrating showers,</line>
+          <line>Or fierce sun's ravening might, or searching blast</line>
+          <line>Of the keen north should sear them. Well, I wot,</line>
+          <line>He serves the fields who with his harrow breaks</line>
+          <line>The sluggish clods, and hurdles osier-twined</line>
+          <line>Hales o'er them; from the far Olympian height</line>
+          <line>Him golden Ceres not in vain regards;</line>
+          <line>And he, who having ploughed the fallow plain</line>
+          <line>And heaved its furrowy ridges, turns once more</line>
+          <line>Cross-wise his shattering share, with stroke on</line>
+          <line>stroke</line>
+          <line>The earth assails, and makes the field his thrall.</line>
+          <line>Pray for wet summers and for winters fine,</line>
+          <line>Ye husbandmen; in winter's dust the crops</line>
+          <line>Exceedingly rejoice, the field hath joy;</line>
+          <line>No tilth makes Mysia lift her head so high,</line>
+          <line>Nor Gargarus his own harvests so admire.</line>
+          <line>Why tell of him, who, having launched his seed,</line>
+          <line>Sets on for close encounter, and rakes smooth</line>
+          <line>The dry dust hillocks, then on the tender corn</line>
+          <line>Lets in the flood, whose waters follow fain;</line>
+          <line>And when the parched field quivers, and all the</line>
+          <line>blades</line>
+          <line>Are dying, from the brow of its hill-bed,</line>
+          <line>See! see! he lures the runnel; down it falls,</line>
+          <line>Waking hoarse murmurs o'er the polished stones,</line>
+          <line>And with its bubblings slakes the thirsty fields?</line>
+          <line>Or why of him, who lest the heavy ears</line>
+          <line>O'erweigh the stalk, while yet in tender blade</line>
+          <line>Feeds down the crop's luxuriance, when its growth</line>
+          <line>First tops the furrows? Why of him who drains</line>
+          <line>The marsh-land's gathered ooze through soaking sand,</line>
+          <line>Chiefly what time in treacherous moons a stream</line>
+          <line>Goes out in spate, and with its coat of slime</line>
+          <line>Holds all the country, whence the hollow dykes</line>
+          <line>Sweat steaming vapour?</line>
+          <line>But no whit the more</line>
+          <line>For all expedients tried and travail borne</line>
+          <line>By man and beast in turning oft the soil,</line>
+          <line>Do greedy goose and Strymon-haunting cranes</line>
+          <line>And succory's bitter fibres cease to harm,</line>
+          <line>Or shade not injure. The great Sire himself</line>
+          <line>No easy road to husbandry assigned,</line>
+          <line>And first was he by human skill to rouse</line>
+          <line>The slumbering glebe, whetting the minds of men</line>
+          <line>With care on care, nor suffering realm of his</line>
+          <line>In drowsy sloth to stagnate. Before Jove</line>
+          <line>Fields knew no taming hand of husbandmen;</line>
+          <line>To mark the plain or mete with boundary-line-</line>
+          <line>Even this was impious; for the common stock</line>
+          <line>They gathered, and the earth of her own will</line>
+          <line>All things more freely, no man bidding, bore.</line>
+          <line>He to black serpents gave their venom-bane,</line>
+          <line>And bade the wolf go prowl, and ocean toss;</line>
+          <line>Shook from the leaves their honey, put fire away,</line>
+          <line>And curbed the random rivers running wine,</line>
+          <line>That use by gradual dint of thought on thought</line>
+          <line>Might forge the various arts, with furrow's help</line>
+          <line>The corn-blade win, and strike out hidden fire</line>
+          <line>From the flint's heart. Then first the streams were</line>
+          <line>ware</line>
+          <line>Of hollowed alder-hulls: the sailor then</line>
+          <line>Their names and numbers gave to star and star,</line>
+          <line>Pleiads and Hyads, and Lycaon's child</line>
+          <line>Bright Arctos; how with nooses then was found</line>
+          <line>To catch wild beasts, and cozen them with lime,</line>
+          <line>And hem with hounds the mighty forest-glades.</line>
+          <line>Soon one with hand-net scourges the broad stream,</line>
+          <line>Probing its depths, one drags his dripping toils</line>
+          <line>Along the main; then iron's unbending might,</line>
+          <line>And shrieking saw-blade,- for the men of old</line>
+          <line>With wedges wont to cleave the splintering log;-</line>
+          <line>Then divers arts arose; toil conquered all,</line>
+          <line>Remorseless toil, and poverty's shrewd push</line>
+          <line>In times of hardship. Ceres was the first</line>
+          <line>Set mortals on with tools to turn the sod,</line>
+          <line>When now the awful groves 'gan fail to bear</line>
+          <line>Acorns and arbutes, and her wonted food</line>
+          <line>Dodona gave no more. Soon, too, the corn</line>
+          <line>Gat sorrow's increase, that an evil blight</line>
+          <line>Ate up the stalks, and thistle reared his spines</line>
+          <line>An idler in the fields; the crops die down;</line>
+          <line>Upsprings instead a shaggy growth of burrs</line>
+          <line>And caltrops; and amid the corn-fields trim</line>
+          <line>Unfruitful darnel and wild oats have sway.</line>
+          <line>Wherefore, unless thou shalt with ceaseless rake</line>
+          <line>The weeds pursue, with shouting scare the birds,</line>
+          <line>Prune with thy hook the dark field's matted shade,</line>
+          <line>Pray down the showers, all vainly thou shalt eye,</line>
+          <line>Alack! thy neighbour's heaped-up harvest-mow,</line>
+          <line>And in the greenwood from a shaken oak</line>
+          <line>Seek solace for thine hunger.</line>
+          <line>Now to tell</line>
+          <line>The sturdy rustics' weapons, what they are,</line>
+          <line>Without which, neither can be sown nor reared</line>
+          <line>The fruits of harvest; first the bent plough's share</line>
+          <line>And heavy timber, and slow-lumbering wains</line>
+          <line>Of the Eleusinian mother, threshing-sleighs</line>
+          <line>And drags, and harrows with their crushing weight;</line>
+          <line>Then the cheap wicker-ware of Celeus old,</line>
+          <line>Hurdles of arbute, and thy mystic fan,</line>
+          <line>Iacchus; which, full tale, long ere the time</line>
+          <line>Thou must with heed lay by, if thee await</line>
+          <line>Not all unearned the country's crown divine.</line>
+          <line>While yet within the woods, the elm is tamed</line>
+          <line>And bowed with mighty force to form the stock,</line>
+          <line>And take the plough's curved shape, then nigh the</line>
+          <line>root</line>
+          <line>A pole eight feet projecting, earth-boards twain,</line>
+          <line>And share-beam with its double back they fix.</line>
+          <line>For yoke is early hewn a linden light,</line>
+          <line>And a tall beech for handle, from behind</line>
+          <line>To turn the car at lowest: then o'er the hearth</line>
+          <line>The wood they hang till the smoke knows it well.</line>
+          <line>Many the precepts of the men of old</line>
+          <line>I can recount thee, so thou start not back,</line>
+          <line>And such slight cares to learn not weary thee.</line>
+          <line>And this among the first: thy threshing-floor</line>
+          <line>With ponderous roller must be levelled smooth,</line>
+          <line>And wrought by hand, and fixed with binding chalk,</line>
+          <line>Lest weeds arise, or dust a passage win</line>
+          <line>Splitting the surface, then a thousand plagues</line>
+          <line>Make sport of it: oft builds the tiny mouse</line>
+          <line>Her home, and plants her granary, underground,</line>
+          <line>Or burrow for their bed the purblind moles,</line>
+          <line>Or toad is found in hollows, and all the swarm</line>
+          <line>Of earth's unsightly creatures; or a huge</line>
+          <line>Corn-heap the weevil plunders, and the ant,</line>
+          <line>Fearful of coming age and penury.</line>
+          <line>Mark too, what time the walnut in the woods</line>
+          <line>With ample bloom shall clothe her, and bow down</line>
+          <line>Her odorous branches, if the fruit prevail,</line>
+          <line>Like store of grain will follow, and there shall</line>
+          <line>come</line>
+          <line>A mighty winnowing-time with mighty heat;</line>
+          <line>But if the shade with wealth of leaves abound,</line>
+          <line>Vainly your threshing-floor will bruise the stalks</line>
+          <line>Rich but in chaff. Many myself have seen</line>
+          <line>Steep, as they sow, their pulse-seeds, drenching</line>
+          <line>them</line>
+          <line>With nitre and black oil-lees, that the fruit</line>
+          <line>Might swell within the treacherous pods, and they</line>
+          <line>Make speed to boil at howso small a fire.</line>
+          <line>Yet, culled with caution, proved with patient toil,</line>
+          <line>These have I seen degenerate, did not man</line>
+          <line>Put forth his hand with power, and year by year</line>
+          <line>Choose out the largest. So, by fate impelled,</line>
+          <line>Speed all things to the worse, and backward borne</line>
+          <line>Glide from us; even as who with struggling oars</line>
+          <line>Up stream scarce pulls a shallop, if he chance</line>
+          <line>His arms to slacken, lo! with headlong force</line>
+          <line>The current sweeps him down the hurrying tide.</line>
+          <line>Us too behoves Arcturus' sign observe,</line>
+          <line>And the Kids' seasons and the shining Snake,</line>
+          <line>No less than those who o'er the windy main</line>
+          <line>Borne homeward tempt the Pontic, and the jaws</line>
+          <line>Of oyster-rife Abydos. When the Scales</line>
+          <line>Now poising fair the hours of sleep and day</line>
+          <line>Give half the world to sunshine, half to shade,</line>
+          <line>Then urge your bulls, my masters; sow the plain</line>
+          <line>Even to the verge of tameless winter's showers</line>
+          <line>With barley: then, too, time it is to hide</line>
+          <line>Your flax in earth, and poppy, Ceres' joy,</line>
+          <line>Aye, more than time to bend above the plough,</line>
+          <line>While earth, yet dry, forbids not, and the clouds</line>
+          <line>Are buoyant. With the spring comes bean-sowing;</line>
+          <line>Thee, too, Lucerne, the crumbling furrows then</line>
+          <line>Receive, and millet's annual care returns,</line>
+          <line>What time the white bull with his gilded horns</line>
+          <line>Opens the year, before whose threatening front,</line>
+          <line>Routed the dog-star sinks. But if it be</line>
+          <line>For wheaten harvest and the hardy spelt,</line>
+          <line>Thou tax the soil, to corn-ears wholly given,</line>
+          <line>Let Atlas' daughters hide them in the dawn,</line>
+          <line>The Cretan star, a crown of fire, depart,</line>
+          <line>Or e'er the furrow's claim of seed thou quit,</line>
+          <line>Or haste thee to entrust the whole year's hope</line>
+          <line>To earth that would not. Many have begun</line>
+          <line>Ere Maia's star be setting; these, I trow,</line>
+          <line>Their looked-for harvest fools with empty ears.</line>
+          <line>But if the vetch and common kidney-bean</line>
+          <line>Thou'rt fain to sow, nor scorn to make thy care</line>
+          <line>Pelusiac lentil, no uncertain sign</line>
+          <line>Bootes' fall will send thee; then begin,</line>
+          <line>Pursue thy sowing till half the frosts be done.</line>
+          <line>Therefore it is the golden sun, his course</line>
+          <line>Into fixed parts dividing, rules his way</line>
+          <line>Through the twelve constellations of the world.</line>
+          <line>Five zones the heavens contain; whereof is one</line>
+          <line>Aye red with flashing sunlight, fervent aye</line>
+          <line>From fire; on either side to left and right</line>
+          <line>Are traced the utmost twain, stiff with blue ice,</line>
+          <line>And black with scowling storm-clouds, and betwixt</line>
+          <line>These and the midmost, other twain there lie,</line>
+          <line>By the Gods' grace to heart-sick mortals given,</line>
+          <line>And a path cleft between them, where might wheel</line>
+          <line>On sloping plane the system of the Signs.</line>
+          <line>And as toward Scythia and Rhipaean heights</line>
+          <line>The world mounts upward, likewise sinks it down</line>
+          <line>Toward Libya and the south, this pole of ours</line>
+          <line>Still towering high, that other, 'neath their feet,</line>
+          <line>By dark Styx frowned on, and the abysmal shades.</line>
+          <line>Here glides the huge Snake forth with sinuous coils</line>
+          <line>'Twixt the two Bears and round them river-wise-</line>
+          <line>The Bears that fear 'neath Ocean's brim to dip.</line>
+          <line>There either, say they, reigns the eternal hush</line>
+          <line>Of night that knows no seasons, her black pall</line>
+          <line>Thick-mantling fold on fold; or thitherward</line>
+          <line>From us returning Dawn brings back the day;</line>
+          <line>And when the first breath of his panting steeds</line>
+          <line>On us the Orient flings, that hour with them</line>
+          <line>Red Vesper 'gins to trim his his 'lated fires.</line>
+          <line>Hence under doubtful skies forebode we can</line>
+          <line>The coming tempests, hence both harvest-day</line>
+          <line>And seed-time, when to smite the treacherous main</line>
+          <line>With driving oars, when launch the fair-rigged fleet,</line>
+          <line>Or in ripe hour to fell the forest-pine.</line>
+          <line>Hence, too, not idly do we watch the stars-</line>
+          <line>Their rising and their setting-and the year,</line>
+          <line>Four varying seasons to one law conformed.</line>
+          <line>If chilly showers e'er shut the farmer's door,</line>
+          <line>Much that had soon with sunshine cried for haste,</line>
+          <line>He may forestall; the ploughman batters keen</line>
+          <line>His blunted share's hard tooth, scoops from a tree</line>
+          <line>His troughs, or on the cattle stamps a brand,</line>
+          <line>Or numbers on the corn-heaps; some make sharp</line>
+          <line>The stakes and two-pronged forks, and willow-bands</line>
+          <line>Amerian for the bending vine prepare.</line>
+          <line>Now let the pliant basket plaited be</line>
+          <line>Of bramble-twigs; now set your corn to parch</line>
+          <line>Before the fire; now bruise it with the stone.</line>
+          <line>Nay even on holy days some tasks to ply</line>
+          <line>Is right and lawful: this no ban forbids,</line>
+          <line>To turn the runnel's course, fence corn-fields in,</line>
+          <line>Make springes for the birds, burn up the briars,</line>
+          <line>And plunge in wholesome stream the bleating flock.</line>
+          <line>Oft too with oil or apples plenty-cheap</line>
+          <line>The creeping ass's ribs his driver packs,</line>
+          <line>And home from town returning brings instead</line>
+          <line>A dented mill-stone or black lump of pitch.</line>
+          <line>The moon herself in various rank assigns</line>
+          <line>The days for labour lucky: fly the fifth;</line>
+          <line>Then sprang pale Orcus and the Eumenides;</line>
+          <line>Earth then in awful labour brought to light</line>
+          <line>Coeus, Iapetus, and Typhoeus fell,</line>
+          <line>And those sworn brethren banded to break down</line>
+          <line>The gates of heaven; thrice, sooth to say, they</line>
+          <line>strove</line>
+          <line>Ossa on Pelion's top to heave and heap,</line>
+          <line>Aye, and on Ossa to up-roll amain</line>
+          <line>Leafy Olympus; thrice with thunderbolt</line>
+          <line>Their mountain-stair the Sire asunder smote.</line>
+          <line>Seventh after tenth is lucky both to set</line>
+          <line>The vine in earth, and take and tame the steer,</line>
+          <line>And fix the leashes to the warp; the ninth</line>
+          <line>To runagates is kinder, cross to thieves.</line>
+          <line>Many the tasks that lightlier lend themselves</line>
+          <line>In chilly night, or when the sun is young,</line>
+          <line>And Dawn bedews the world. By night 'tis best</line>
+          <line>To reap light stubble, and parched fields by night;</line>
+          <line>For nights the suppling moisture never fails.</line>
+          <line>And one will sit the long late watches out</line>
+          <line>By winter fire-light, shaping with keen blade</line>
+          <line>The torches to a point; his wife the while,</line>
+          <line>Her tedious labour soothing with a song,</line>
+          <line>Speeds the shrill comb along the warp, or else</line>
+          <line>With Vulcan's aid boils the sweet must-juice down,</line>
+          <line>And skims with leaves the quivering cauldron's wave.</line>
+          <line>But ruddy Ceres in mid heat is mown,</line>
+          <line>And in mid heat the parched ears are bruised</line>
+          <line>Upon the floor; to plough strip, strip to sow;</line>
+          <line>Winter's the lazy time for husbandmen.</line>
+          <line>In the cold season farmers wont to taste</line>
+          <line>The increase of their toil, and yield themselves</line>
+          <line>To mutual interchange of festal cheer.</line>
+          <line>Boon winter bids them, and unbinds their cares,</line>
+          <line>As laden keels, when now the port they touch,</line>
+          <line>And happy sailors crown the sterns with flowers.</line>
+          <line>Nathless then also time it is to strip</line>
+          <line>Acorns from oaks, and berries from the bay,</line>
+          <line>Olives, and bleeding myrtles, then to set</line>
+          <line>Snares for the crane, and meshes for the stag,</line>
+          <line>And hunt the long-eared hares, then pierce the doe</line>
+          <line>With whirl of hempen-thonged Balearic sling,</line>
+          <line>While snow lies deep, and streams are drifting ice.</line>
+          <line>What need to tell of autumn's storms and stars,</line>
+          <line>And wherefore men must watch, when now the day</line>
+          <line>Grows shorter, and more soft the summer's heat?</line>
+          <line>When Spring the rain-bringer comes rushing down,</line>
+          <line>Or when the beards of harvest on the plain</line>
+          <line>Bristle already, and the milky corn</line>
+          <line>On its green stalk is swelling? Many a time,</line>
+          <line>When now the farmer to his yellow fields</line>
+          <line>The reaping-hind came bringing, even in act</line>
+          <line>To lop the brittle barley stems, have I</line>
+          <line>Seen all the windy legions clash in war</line>
+          <line>Together, as to rend up far and wide</line>
+          <line>The heavy corn-crop from its lowest roots,</line>
+          <line>And toss it skyward: so might winter's flaw,</line>
+          <line>Dark-eddying, whirl light stalks and flying straws.</line>
+          <line>Oft too comes looming vast along the sky</line>
+          <line>A march of waters; mustering from above,</line>
+          <line>The clouds roll up the tempest, heaped and grim</line>
+          <line>With angry showers: down falls the height of heaven,</line>
+          <line>And with a great rain floods the smiling crops,</line>
+          <line>The oxen's labour: now the dikes fill fast,</line>
+          <line>And the void river-beds swell thunderously,</line>
+          <line>And all the panting firths of Ocean boil.</line>
+          <line>The Sire himself in midnight of the clouds</line>
+          <line>Wields with red hand the levin; through all her</line>
+          <line>bulk</line>
+          <line>Earth at the hurly quakes; the beasts are fled,</line>
+          <line>And mortal hearts of every kindred sunk</line>
+          <line>In cowering terror; he with flaming brand</line>
+          <line>Athos, or Rhodope, or Ceraunian crags</line>
+          <line>Precipitates: then doubly raves the South</line>
+          <line>With shower on blinding shower, and woods and coasts</line>
+          <line>Wail fitfully beneath the mighty blast.</line>
+          <line>This fearing, mark the months and Signs of heaven,</line>
+          <line>Whither retires him Saturn's icy star,</line>
+          <line>And through what heavenly cycles wandereth</line>
+          <line>The glowing orb Cyllenian. Before all</line>
+          <line>Worship the Gods, and to great Ceres pay</line>
+          <line>Her yearly dues upon the happy sward</line>
+          <line>With sacrifice, anigh the utmost end</line>
+          <line>Of winter, and when Spring begins to smile.</line>
+          <line>Then lambs are fat, and wines are mellowest then;</line>
+          <line>Then sleep is sweet, and dark the shadows fall</line>
+          <line>Upon the mountains. Let your rustic youth</line>
+          <line>To Ceres do obeisance, one and all;</line>
+          <line>And for her pleasure thou mix honeycombs</line>
+          <line>With milk and the ripe wine-god; thrice for luck</line>
+          <line>Around the young corn let the victim go,</line>
+          <line>And all the choir, a joyful company,</line>
+          <line>Attend it, and with shouts bid Ceres come</line>
+          <line>To be their house-mate; and let no man dare</line>
+          <line>Put sickle to the ripened ears until,</line>
+          <line>With woven oak his temples chapleted,</line>
+          <line>He foot the rugged dance and chant the lay.</line>
+          <line>Aye, and that these things we might win to know</line>
+          <line>By certain tokens, heats, and showers, and winds</line>
+          <line>That bring the frost, the Sire of all himself</line>
+          <line>Ordained what warnings in her monthly round</line>
+          <line>The moon should give, what bodes the south wind's</line>
+          <line>fall,</line>
+          <line>What oft-repeated sights the herdsman seeing</line>
+          <line>Should keep his cattle closer to their stalls.</line>
+          <line>No sooner are the winds at point to rise,</line>
+          <line>Than either Ocean's firths begin to toss</line>
+          <line>And swell, and a dry crackling sound is heard</line>
+          <line>Upon the heights, or one loud ferment booms</line>
+          <line>The beach afar, and through the forest goes</line>
+          <line>A murmur multitudinous. By this</line>
+          <line>Scarce can the billow spare the curved keels,</line>
+          <line>When swift the sea-gulls from the middle main</line>
+          <line>Come winging, and their shrieks are shoreward borne,</line>
+          <line>When ocean-loving cormorants on dry land</line>
+          <line>Besport them, and the hern, her marshy haunts</line>
+          <line>Forsaking, mounts above the soaring cloud.</line>
+          <line>Oft, too, when wind is toward, the stars thou'lt</line>
+          <line>see</line>
+          <line>From heaven shoot headlong, and through murky night</line>
+          <line>Long trails of fire white-glistening in their wake,</line>
+          <line>Or light chaff flit in air with fallen leaves,</line>
+          <line>Or feathers on the wave-top float and play.</line>
+          <line>But when from regions of the furious North</line>
+          <line>It lightens, and when thunder fills the halls</line>
+          <line>Of Eurus and of Zephyr, all the fields</line>
+          <line>With brimming dikes are flooded, and at sea</line>
+          <line>No mariner but furls his dripping sails.</line>
+          <line>Never at unawares did shower annoy:</line>
+          <line>Or, as it rises, the high-soaring cranes</line>
+          <line>Flee to the vales before it, with face</line>
+          <line>Upturned to heaven, the heifer snuffs the gale</line>
+          <line>Through gaping nostrils, or about the meres</line>
+          <line>Shrill-twittering flits the swallow, and the frogs</line>
+          <line>Crouch in the mud and chant their dirge of old.</line>
+          <line>Oft, too, the ant from out her inmost cells,</line>
+          <line>Fretting the narrow path, her eggs conveys;</line>
+          <line>Or the huge bow sucks moisture; or a host</line>
+          <line>Of rooks from food returning in long line</line>
+          <line>Clamour with jostling wings. Now mayst thou see</line>
+          <line>The various ocean-fowl and those that pry</line>
+          <line>Round Asian meads within thy fresher-pools,</line>
+          <line>Cayster, as in eager rivalry,</line>
+          <line>About their shoulders dash the plenteous spray,</line>
+          <line>Now duck their head beneath the wave, now run</line>
+          <line>Into the billows, for sheer idle joy</line>
+          <line>Of their mad bathing-revel. Then the crow</line>
+          <line>With full voice, good-for-naught, inviting rain,</line>
+          <line>Stalks on the dry sand mateless and alone.</line>
+          <line>Nor e'en the maids, that card their nightly task,</line>
+          <line>Know not the storm-sign, when in blazing crock</line>
+          <line>They see the lamp-oil sputtering with a growth</line>
+          <line>Of mouldy snuff-clots.</line>
+          <line>So too, after rain,</line>
+          <line>Sunshine and open skies thou mayst forecast,</line>
+          <line>And learn by tokens sure, for then nor dimmed</line>
+          <line>Appear the stars' keen edges, nor the moon</line>
+          <line>As borrowing of her brother's beams to rise,</line>
+          <line>Nor fleecy films to float along the sky.</line>
+          <line>Not to the sun's warmth then upon the shore</line>
+          <line>Do halcyons dear to Thetis ope their wings,</line>
+          <line>Nor filthy swine take thought to toss on high</line>
+          <line>With scattering snout the straw-wisps. But the clouds</line>
+          <line>Seek more the vales, and rest upon the plain,</line>
+          <line>And from the roof-top the night-owl for naught</line>
+          <line>Watching the sunset plies her 'lated song.</line>
+          <line>Distinct in clearest air is Nisus seen</line>
+          <line>Towering, and Scylla for the purple lock</line>
+          <line>Pays dear; for whereso, as she flies, her wings</line>
+          <line>The light air winnow, lo! fierce, implacable,</line>
+          <line>Nisus with mighty whirr through heaven pursues;</line>
+          <line>Where Nisus heavenward soareth, there her wings</line>
+          <line>Clutch as she flies, the light air winnowing still.</line>
+          <line>Soft then the voice of rooks from indrawn throat</line>
+          <line>Thrice, four times, o'er repeated, and full oft</line>
+          <line>On their high cradles, by some hidden joy</line>
+          <line>Gladdened beyond their wont, in bustling throngs</line>
+          <line>Among the leaves they riot; so sweet it is,</line>
+          <line>When showers are spent, their own loved nests again</line>
+          <line>And tender brood to visit. Not, I deem,</line>
+          <line>That heaven some native wit to these assigned,</line>
+          <line>Or fate a larger prescience, but that when</line>
+          <line>The storm and shifting moisture of the air</line>
+          <line>Have changed their courses, and the sky-god now,</line>
+          <line>Wet with the south-wind, thickens what was rare,</line>
+          <line>And what was gross releases, then, too, change</line>
+          <line>Their spirits' fleeting phases, and their breasts</line>
+          <line>Feel other motions now, than when the wind</line>
+          <line>Was driving up the cloud-rack. Hence proceeds</line>
+          <line>That blending of the feathered choirs afield,</line>
+          <line>The cattle's exultation, and the rooks'</line>
+          <line>Deep-throated triumph.</line>
+          <line>But if the headlong sun</line>
+          <line>And moons in order following thou regard,</line>
+          <line>Ne'er will to-morrow's hour deceive thee, ne'er</line>
+          <line>Wilt thou be caught by guile of cloudless night.</line>
+          <line>When first the moon recalls her rallying fires,</line>
+          <line>If dark the air clipped by her crescent dim,</line>
+          <line>For folks afield and on the open sea</line>
+          <line>A mighty rain is brewing; but if her face</line>
+          <line>With maiden blush she mantle, 'twill be wind,</line>
+          <line>For wind turns Phoebe still to ruddier gold.</line>
+          <line>But if at her fourth rising, for 'tis that</line>
+          <line>Gives surest counsel, clear she ride thro' heaven</line>
+          <line>With horns unblunted, then shall that whole day,</line>
+          <line>And to the month's end those that spring from it,</line>
+          <line>Rainless and windless be, while safe ashore</line>
+          <line>Shall sailors pay their vows to Panope,</line>
+          <line>Glaucus, and Melicertes, Ino's child.</line>
+          <line>The sun too, both at rising, and when soon</line>
+          <line>He dives beneath the waves, shall yield thee signs;</line>
+          <line>For signs, none trustier, travel with the sun,</line>
+          <line>Both those which in their course with dawn he brings,</line>
+          <line>And those at star-rise. When his springing orb</line>
+          <line>With spots he pranketh, muffled in a cloud,</line>
+          <line>And shrinks mid-circle, then of showers beware;</line>
+          <line>For then the South comes driving from the deep,</line>
+          <line>To trees and crops and cattle bringing bane.</line>
+          <line>Or when at day-break through dark clouds his rays</line>
+          <line>Burst and are scattered, or when rising pale</line>
+          <line>Aurora quits Tithonus' saffron bed,</line>
+          <line>But sorry shelter then, alack I will yield</line>
+          <line>Vine-leaf to ripening grapes; so thick a hail</line>
+          <line>In spiky showers spins rattling on the roof.</line>
+          <line>And this yet more 'twill boot thee bear in mind,</line>
+          <line>When now, his course upon Olympus run,</line>
+          <line>He draws to his decline: for oft we see</line>
+          <line>Upon the sun's own face strange colours stray;</line>
+          <line>Dark tells of rain, of east winds fiery-red;</line>
+          <line>If spots with ruddy fire begin to mix,</line>
+          <line>Then all the heavens convulsed in wrath thou'lt</line>
+          <line>see-</line>
+          <line>Storm-clouds and wind together. Me that night</line>
+          <line>Let no man bid fare forth upon the deep,</line>
+          <line>Nor rend the rope from shore. But if, when both</line>
+          <line>He brings again and hides the day's return,</line>
+          <line>Clear-orbed he shineth,idly wilt thou dread</line>
+          <line>The storm-clouds, and beneath the lustral North</line>
+          <line>See the woods waving. What late eve in fine</line>
+          <line>Bears in her bosom, whence the wind that brings</line>
+          <line>Fair-weather-clouds, or what the rain South</line>
+          <line>Is meditating, tokens of all these</line>
+          <line>The sun will give thee. Who dare charge the sun</line>
+          <line>With leasing? He it is who warneth oft</line>
+          <line>Of hidden broils at hand and treachery,</line>
+          <line>And secret swelling of the waves of war.</line>
+          <line>He too it was, when Caesar's light was quenched,</line>
+          <line>For Rome had pity, when his bright head he veiled</line>
+          <line>In iron-hued darkness, till a godless age</line>
+          <line>Trembled for night eternal; at that time</line>
+          <line>Howbeit earth also, and the ocean-plains,</line>
+          <line>And dogs obscene, and birds of evil bode</line>
+          <line>Gave tokens. Yea, how often have we seen</line>
+          <line>Etna, her furnace-walls asunder riven,</line>
+          <line>In billowy floods boil o'er the Cyclops' fields,</line>
+          <line>And roll down globes of fire and molten rocks!</line>
+          <line>A clash of arms through all the heaven was heard</line>
+          <line>By Germany; strange heavings shook the Alps.</line>
+          <line>Yea, and by many through the breathless groves</line>
+          <line>A voice was heard with power, and wondrous-pale</line>
+          <line>Phantoms were seen upon the dusk of night,</line>
+          <line>And cattle spake, portentous! streams stand still,</line>
+          <line>And the earth yawns asunder, ivory weeps</line>
+          <line>For sorrow in the shrines, and bronzes sweat.</line>
+          <line>Up-twirling forests with his eddying tide,</line>
+          <line>Madly he bears them down, that lord of floods,</line>
+          <line>Eridanus, till through all the plain are swept</line>
+          <line>Beasts and their stalls together. At that time</line>
+          <line>In gloomy entrails ceased not to appear</line>
+          <line>Dark-threatening fibres, springs to trickle blood,</line>
+          <line>And high-built cities night-long to resound</line>
+          <line>With the wolves' howling. Never more than then</line>
+          <line>From skies all cloudless fell the thunderbolts,</line>
+          <line>Nor blazed so oft the comet's fire of bale.</line>
+          <line>Therefore a second time Philippi saw</line>
+          <line>The Roman hosts with kindred weapons rush</line>
+          <line>To battle, nor did the high gods deem it hard</line>
+          <line>That twice Emathia and the wide champaign</line>
+          <line>Of Haemus should be fattening with our blood.</line>
+          <line>Ay, and the time will come when there anigh,</line>
+          <line>Heaving the earth up with his curved plough,</line>
+          <line>Some swain will light on javelins by foul rust</line>
+          <line>Corroded, or with ponderous harrow strike</line>
+          <line>On empty helmets, while he gapes to see</line>
+          <line>Bones as of giants from the trench untombed.</line>
+          <line>Gods of my country, heroes of the soil,</line>
+          <line>And Romulus, and Mother Vesta, thou</line>
+          <line>Who Tuscan Tiber and Rome's Palatine</line>
+          <line>Preservest, this new champion at the least</line>
+          <line>Our fallen generation to repair</line>
+          <line>Forbid not. To the full and long ago</line>
+          <line>Our blood thy Trojan perjuries hath paid,</line>
+          <line>Laomedon. Long since the courts of heaven</line>
+          <line>Begrudge us thee, our Caesar, and complain</line>
+          <line>That thou regard'st the triumphs of mankind,</line>
+          <line>Here where the wrong is right, the right is wrong,</line>
+          <line>Where wars abound so many, and myriad-faced</line>
+          <line>Is crime; where no meet honour hath the plough;</line>
+          <line>The fields, their husbandmen led far away,</line>
+          <line>Rot in neglect, and curved pruning-hooks</line>
+          <line>Into the sword's stiff blade are fused and forged.</line>
+          <line>Euphrates here, here Germany new strife</line>
+          <line>Is stirring; neighbouring cities are in arms,</line>
+          <line>The laws that bound them snapped; and godless war</line>
+          <line>Rages through all the universe; as when</line>
+          <line>The four-horse chariots from the barriers poured</line>
+          <line>Still quicken o'er the course, and, idly now</line>
+          <line>Grasping the reins, the driver by his team</line>
+          <line>Is onward borne, nor heeds the car his curb.</line>
+        </stanza>
+      </poem>
+    </chapter>
+    <chapter xml:id="georgics-georgic-ii">
+      <title>Georgic II</title>
+      <poem xml:id="georgics-georgic-ii-poem-1">
+        <stanza xml:id="georgics-georgic-ii-stanza-1-1">
+          <line>Thus far the tilth of fields and stars of heaven;</line>
+          <line>Now will I sing thee, Bacchus, and, with thee,</line>
+          <line>The forest's young plantations and the fruit</line>
+          <line>Of slow-maturing olive. Hither haste,</line>
+          <line>O Father of the wine-press; all things here</line>
+          <line>Teem with the bounties of thy hand; for thee</line>
+          <line>With viny autumn laden blooms the field,</line>
+          <line>And foams the vintage high with brimming vats;</line>
+          <line>Hither, O Father of the wine-press, come,</line>
+          <line>And stripped of buskin stain thy bared limbs</line>
+          <line>In the new must with me.</line>
+          <line>First, nature's law</line>
+          <line>For generating trees is manifold;</line>
+          <line>For some of their own force spontaneous spring,</line>
+          <line>No hand of man compelling, and possess</line>
+          <line>The plains and river-windings far and wide,</line>
+          <line>As pliant osier and the bending broom,</line>
+          <line>Poplar, and willows in wan companies</line>
+          <line>With green leaf glimmering gray; and some there</line>
+          <line>be</line>
+          <line>From chance-dropped seed that rear them, as the</line>
+          <line>tall</line>
+          <line>Chestnuts, and, mightiest of the branching wood,</line>
+          <line>Jove's Aesculus, and oaks, oracular</line>
+          <line>Deemed by the Greeks of old. With some sprouts forth</line>
+          <line>A forest of dense suckers from the root,</line>
+          <line>As elms and cherries; so, too, a pigmy plant,</line>
+          <line>Beneath its mother's mighty shade upshoots</line>
+          <line>The bay-tree of Parnassus. Such the modes</line>
+          <line>Nature imparted first; hence all the race</line>
+          <line>Of forest-trees and shrubs and sacred groves</line>
+          <line>Springs into verdure.</line>
+          <line>Other means there are,</line>
+          <line>Which use by method for itself acquired.</line>
+          <line>One, sliving suckers from the tender frame</line>
+          <line>Of the tree-mother, plants them in the trench;</line>
+          <line>One buries the bare stumps within his field,</line>
+          <line>Truncheons cleft four-wise, or sharp-pointed stakes;</line>
+          <line>Some forest-trees the layer's bent arch await,</line>
+          <line>And slips yet quick within the parent-soil;</line>
+          <line>No root need others, nor doth the pruner's hand</line>
+          <line>Shrink to restore the topmost shoot to earth</line>
+          <line>That gave it being. Nay, marvellous to tell,</line>
+          <line>Lopped of its limbs, the olive, a mere stock,</line>
+          <line>Still thrusts its root out from the sapless wood,</line>
+          <line>And oft the branches of one kind we see</line>
+          <line>Change to another's with no loss to rue,</line>
+          <line>Pear-tree transformed the ingrafted apple yield,</line>
+          <line>And stony cornels on the plum-tree blush.</line>
+          <line>Come then, and learn what tilth to each belongs</line>
+          <line>According to their kinds, ye husbandmen,</line>
+          <line>And tame with culture the wild fruits, lest earth</line>
+          <line>Lie idle. O blithe to make all Ismarus</line>
+          <line>One forest of the wine-god, and to clothe</line>
+          <line>With olives huge Tabernus! And be thou</line>
+          <line>At hand, and with me ply the voyage of toil</line>
+          <line>I am bound on, O my glory, O thou that art</line>
+          <line>Justly the chiefest portion of my fame,</line>
+          <line>Maecenas, and on this wide ocean launched</line>
+          <line>Spread sail like wings to waft thee. Not that I</line>
+          <line>With my poor verse would comprehend the whole,</line>
+          <line>Nay, though a hundred tongues, a hundred mouths</line>
+          <line>Were mine, a voice of iron; be thou at hand,</line>
+          <line>Skirt but the nearer coast-line; see the shore</line>
+          <line>Is in our grasp; not now with feigned song</line>
+          <line>Through winding bouts and tedious preludings</line>
+          <line>Shall I detain thee.</line>
+          <line>Those that lift their head</line>
+          <line>Into the realms of light spontaneously,</line>
+          <line>Fruitless indeed, but blithe and strenuous spring,</line>
+          <line>Since Nature lurks within the soil. And yet</line>
+          <line>Even these, should one engraft them, or transplant</line>
+          <line>To well-drilled trenches, will anon put of</line>
+          <line>Their woodland temper, and, by frequent tilth,</line>
+          <line>To whatso craft thou summon them, make speed</line>
+          <line>To follow. So likewise will the barren shaft</line>
+          <line>That from the stock-root issueth, if it be</line>
+          <line>Set out with clear space amid open fields:</line>
+          <line>Now the tree-mother's towering leaves and boughs</line>
+          <line>Darken, despoil of increase as it grows,</line>
+          <line>And blast it in the bearing. Lastly, that</line>
+          <line>Which from shed seed ariseth, upward wins</line>
+          <line>But slowly, yielding promise of its shade</line>
+          <line>To late-born generations; apples wane</line>
+          <line>Forgetful of their former juice, the grape</line>
+          <line>Bears sorry clusters, for the birds a prey.</line>
+          <line>Soothly on all must toil be spent, and all</line>
+          <line>Trained to the trench and at great cost subdued.</line>
+          <line>But reared from truncheons olives answer best,</line>
+          <line>As vines from layers, and from the solid wood</line>
+          <line>The Paphian myrtles; while from suckers spring</line>
+          <line>Both hardy hazels and huge ash, the tree</line>
+          <line>That rims with shade the brows of Hercules,</line>
+          <line>And acorns dear to the Chaonian sire:</line>
+          <line>So springs the towering palm too, and the fir</line>
+          <line>Destined to spy the dangers of the deep.</line>
+          <line>But the rough arbutus with walnut-fruit</line>
+          <line>Is grafted; so have barren planes ere now</line>
+          <line>Stout apples borne, with chestnut-flower the beech,</line>
+          <line>The mountain-ash with pear-bloom whitened o'er,</line>
+          <line>And swine crunched acorns 'neath the boughs of elms.</line>
+          <line>Nor is the method of inserting eyes</line>
+          <line>And grafting one: for where the buds push forth</line>
+          <line>Amidst the bark, and burst the membranes thin,</line>
+          <line>Even on the knot a narrow rift is made,</line>
+          <line>Wherein from some strange tree a germ they pen,</line>
+          <line>And to the moist rind bid it cleave and grow.</line>
+          <line>Or, otherwise, in knotless trunks is hewn</line>
+          <line>A breach, and deep into the solid grain</line>
+          <line>A path with wedges cloven; then fruitful slips</line>
+          <line>Are set herein, and- no long time- behold!</line>
+          <line>To heaven upshot with teeming boughs, the tree</line>
+          <line>Strange leaves admires and fruitage not its own.</line>
+          <line>Nor of one kind alone are sturdy elms,</line>
+          <line>Willow and lotus, nor the cypress-trees</line>
+          <line>Of Ida; nor of self-same fashion spring</line>
+          <line>Fat olives, orchades, and radii</line>
+          <line>And bitter-berried pausians, no, nor yet</line>
+          <line>Apples and the forests of Alcinous;</line>
+          <line>Nor from like cuttings are Crustumian pears</line>
+          <line>And Syrian, and the heavy hand-fillers.</line>
+          <line>Not the same vintage from our trees hangs down,</line>
+          <line>Which Lesbos from Methymna's tendril plucks.</line>
+          <line>Vines Thasian are there, Mareotids white,</line>
+          <line>These apt for richer soils, for lighter those:</line>
+          <line>Psithian for raisin-wine more useful, thin</line>
+          <line>Lageos, that one day will try the feet</line>
+          <line>And tie the tongue: purples and early-ripes,</line>
+          <line>And how, O Rhaetian, shall I hymn thy praise?</line>
+          <line>Yet cope not therefore with Falernian bins.</line>
+          <line>Vines Aminaean too, best-bodied wine,</line>
+          <line>To which the Tmolian bows him, ay, and king</line>
+          <line>Phanaeus too, and, lesser of that name,</line>
+          <line>Argitis, wherewith not a grape can vie</line>
+          <line>For gush of wine-juice or for length of years.</line>
+          <line>Nor thee must I pass over, vine of Rhodes,</line>
+          <line>Welcomed by gods and at the second board,</line>
+          <line>Nor thee, Bumastus, with plump clusters swollen.</line>
+          <line>But lo! how many kinds, and what their names,</line>
+          <line>There is no telling, nor doth it boot to tell;</line>
+          <line>Who lists to know it, he too would list to learn</line>
+          <line>How many sand-grains are by Zephyr tossed</line>
+          <line>On Libya's plain, or wot, when Eurus falls</line>
+          <line>With fury on the ships, how many waves</line>
+          <line>Come rolling shoreward from the Ionian sea.</line>
+          <line>Not that all soils can all things bear alike.</line>
+          <line>Willows by water-courses have their birth,</line>
+          <line>Alders in miry fens; on rocky heights</line>
+          <line>The barren mountain-ashes; on the shore</line>
+          <line>Myrtles throng gayest; Bacchus, lastly, loves</line>
+          <line>The bare hillside, and yews the north wind's chill.</line>
+          <line>Mark too the earth by outland tillers tamed,</line>
+          <line>And Eastern homes of Arabs, and tattooed</line>
+          <line>Geloni; to all trees their native lands</line>
+          <line>Allotted are; no clime but India bears</line>
+          <line>Black ebony; the branch of frankincense</line>
+          <line>Is Saba's sons' alone; why tell to thee</line>
+          <line>Of balsams oozing from the perfumed wood,</line>
+          <line>Or berries of acanthus ever green?</line>
+          <line>Of Aethiop forests hoar with downy wool,</line>
+          <line>Or how the Seres comb from off the leaves</line>
+          <line>Their silky fleece? Of groves which India bears,</line>
+          <line>Ocean's near neighbour, earth's remotest nook,</line>
+          <line>Where not an arrow-shot can cleave the air</line>
+          <line>Above their tree-tops? yet no laggards they,</line>
+          <line>When girded with the quiver! Media yields</line>
+          <line>The bitter juices and slow-lingering taste</line>
+          <line>Of the blest citron-fruit, than which no aid</line>
+          <line>Comes timelier, when fierce step-dames drug the</line>
+          <line>cup</line>
+          <line>With simples mixed and spells of baneful power,</line>
+          <line>To drive the deadly poison from the limbs.</line>
+          <line>Large the tree's self in semblance like a bay,</line>
+          <line>And, showered it not a different scent abroad,</line>
+          <line>A bay it had been; for no wind of heaven</line>
+          <line>Its foliage falls; the flower, none faster, clings;</line>
+          <line>With it the Medes for sweetness lave the lips,</line>
+          <line>And ease the panting breathlessness of age.</line>
+          <line>But no, not Mede-land with its wealth of woods,</line>
+          <line>Nor Ganges fair, and Hermus thick with gold,</line>
+          <line>Can match the praise of Italy; nor Ind,</line>
+          <line>Nor Bactria, nor Panchaia, one wide tract</line>
+          <line>Of incense-teeming sand. Here never bulls</line>
+          <line>With nostrils snorting fire upturned the sod</line>
+          <line>Sown with the monstrous dragon's teeth, nor crop</line>
+          <line>Of warriors bristled thick with lance and helm;</line>
+          <line>But heavy harvests and the Massic juice</line>
+          <line>Of Bacchus fill its borders, overspread</line>
+          <line>With fruitful flocks and olives. Hence arose</line>
+          <line>The war-horse stepping proudly o'er the plain;</line>
+          <line>Hence thy white flocks, Clitumnus, and the bull,</line>
+          <line>Of victims mightiest, which full oft have led,</line>
+          <line>Bathed in thy sacred stream, the triumph-pomp</line>
+          <line>Of Romans to the temples of the gods.</line>
+          <line>Here blooms perpetual spring, and summer here</line>
+          <line>In months that are not summer's; twice teem the</line>
+          <line>flocks;</line>
+          <line>Twice doth the tree yield service of her fruit.</line>
+          <line>But ravening tigers come not nigh, nor breed</line>
+          <line>Of savage lion, nor aconite betrays</line>
+          <line>Its hapless gatherers, nor with sweep so vast</line>
+          <line>Doth the scaled serpent trail his endless coils</line>
+          <line>Along the ground, or wreathe him into spires.</line>
+          <line>Mark too her cities, so many and so proud,</line>
+          <line>Of mighty toil the achievement, town on town</line>
+          <line>Up rugged precipices heaved and reared,</line>
+          <line>And rivers undergliding ancient walls.</line>
+          <line>Or should I celebrate the sea that laves</line>
+          <line>Her upper shores and lower? or those broad lakes?</line>
+          <line>Thee, Larius, greatest and, Benacus, thee</line>
+          <line>With billowy uproar surging like the main?</line>
+          <line>Or sing her harbours, and the barrier cast</line>
+          <line>Athwart the Lucrine, and how ocean chafes</line>
+          <line>With mighty bellowings, where the Julian wave</line>
+          <line>Echoes the thunder of his rout, and through</line>
+          <line>Avernian inlets pours the Tuscan tide?</line>
+          <line>A land no less that in her veins displays</line>
+          <line>Rivers of silver, mines of copper ore,</line>
+          <line>Ay, and with gold hath flowed abundantly.</line>
+          <line>A land that reared a valiant breed of men,</line>
+          <line>The Marsi and Sabellian youth, and, schooled</line>
+          <line>To hardship, the Ligurian, and with these</line>
+          <line>The Volscian javelin-armed, the Decii too,</line>
+          <line>The Marii and Camilli, names of might,</line>
+          <line>The Scipios, stubborn warriors, ay, and thee,</line>
+          <line>Great Caesar, who in Asia's utmost bounds</line>
+          <line>With conquering arm e'en now art fending far</line>
+          <line>The unwarlike Indian from the heights of Rome.</line>
+          <line>Hail! land of Saturn, mighty mother thou</line>
+          <line>Of fruits and heroes; 'tis for thee I dare</line>
+          <line>Unseal the sacred fountains, and essay</line>
+          <line>Themes of old art and glory, as I sing</line>
+          <line>The song of Ascra through the towns of Rome.</line>
+          <line>Now for the native gifts of various soils,</line>
+          <line>What powers hath each, what hue, what natural bent</line>
+          <line>For yielding increase. First your stubborn lands</line>
+          <line>And churlish hill-sides, where are thorny fields</line>
+          <line>Of meagre marl and gravel, these delight</line>
+          <line>In long-lived olive-groves to Pallas dear.</line>
+          <line>Take for a sign the plenteous growth hard by</line>
+          <line>Of oleaster, and the fields strewn wide</line>
+          <line>With woodland berries. But a soil that's rich,</line>
+          <line>In moisture sweet exulting, and the plain</line>
+          <line>That teems with grasses on its fruitful breast,</line>
+          <line>Such as full oft in hollow mountain-dell</line>
+          <line>We view beneath us- from the craggy heights</line>
+          <line>Streams thither flow with fertilizing mud-</line>
+          <line>A plain which southward rising feeds the fern</line>
+          <line>By curved ploughs detested, this one day</line>
+          <line>Shall yield thee store of vines full strong to gush</line>
+          <line>In torrents of the wine-god; this shall be</line>
+          <line>Fruitful of grapes and flowing juice like that</line>
+          <line>We pour to heaven from bowls of gold, what time</line>
+          <line>The sleek Etruscan at the altar blows</line>
+          <line>His ivory pipe, and on the curved dish</line>
+          <line>We lay the reeking entrails. If to rear</line>
+          <line>Cattle delight thee rather, steers, or lambs,</line>
+          <line>Or goats that kill the tender plants, then seek</line>
+          <line>Full-fed Tarentum's glades and distant fields,</line>
+          <line>Or such a plain as luckless Mantua lost</line>
+          <line>Whose weedy water feeds the snow-white swan:</line>
+          <line>There nor clear springs nor grass the flocks will</line>
+          <line>fail,</line>
+          <line>And all the day-long browsing of thy herds</line>
+          <line>Shall the cool dews of one brief night repair.</line>
+          <line>Land which the burrowing share shows dark and rich,</line>
+          <line>With crumbling soil- for this we counterfeit</line>
+          <line>In ploughing- for corn is goodliest; from no field</line>
+          <line>More wains thou'lt see wend home with plodding steers;</line>
+          <line>Or that from which the husbandman in spleen</line>
+          <line>Has cleared the timber, and o'erthrown the copse</line>
+          <line>That year on year lay idle, and from the roots</line>
+          <line>Uptorn the immemorial haunt of birds;</line>
+          <line>They banished from their nests have sought the skies;</line>
+          <line>But the rude plain beneath the ploughshare's stroke</line>
+          <line>Starts into sudden brightness. For indeed</line>
+          <line>The starved hill-country gravel scarce serves the</line>
+          <line>bees</line>
+          <line>With lowly cassias and with rosemary;</line>
+          <line>Rough tufa and chalk too, by black water-worms</line>
+          <line>Gnawed through and through, proclaim no soils beside</line>
+          <line>So rife with serpent-dainties, or that yield</line>
+          <line>Such winding lairs to lurk in. That again,</line>
+          <line>Which vapoury mist and flitting smoke exhales,</line>
+          <line>Drinks moisture up and casts it forth at will,</line>
+          <line>Which, ever in its own green grass arrayed,</line>
+          <line>Mars not the metal with salt scurf of rust-</line>
+          <line>That shall thine elms with merry vines enwreathe;</line>
+          <line>That teems with olive; that shall thy tilth prove</line>
+          <line>kind</line>
+          <line>To cattle, and patient of the curved share.</line>
+          <line>Such ploughs rich Capua, such the coast that skirts</line>
+          <line>Thy ridge, Vesuvius, and the Clanian flood,</line>
+          <line>Acerrae's desolation and her bane.</line>
+          <line>How each to recognize now hear me tell.</line>
+          <line>Dost ask if loose or passing firm it be-</line>
+          <line>Since one for corn hath liking, one for wine,</line>
+          <line>The firmer sort for Ceres, none too loose</line>
+          <line>For thee, Lyaeus?- with scrutinizing eye</line>
+          <line>First choose thy ground, and bid a pit be sunk</line>
+          <line>Deep in the solid earth, then cast the mould</line>
+          <line>All back again, and stamp the surface smooth.</line>
+          <line>If it suffice not, loose will be the land,</line>
+          <line>More meet for cattle and for kindly vines;</line>
+          <line>But if, rebellious, to its proper bounds</line>
+          <line>The soil returns not, but fills all the trench</line>
+          <line>And overtops it, then the glebe is gross;</line>
+          <line>Look for stiff ridges and reluctant clods,</line>
+          <line>And with strong bullocks cleave the fallow crust.</line>
+          <line>Salt ground again, and bitter, as 'tis called-</line>
+          <line>Barren for fruits, by tilth untamable,</line>
+          <line>Nor grape her kind, nor apples their good name</line>
+          <line>Maintaining- will in this wise yield thee proof:</line>
+          <line>Stout osier-baskets from the rafter-smoke,</line>
+          <line>And strainers of the winepress pluck thee down;</line>
+          <line>Hereinto let that evil land, with fresh</line>
+          <line>Spring-water mixed, be trampled to the full;</line>
+          <line>The moisture, mark you, will ooze all away,</line>
+          <line>In big drops issuing through the osier-withes,</line>
+          <line>But plainly will its taste the secret tell,</line>
+          <line>And with a harsh twang ruefully distort</line>
+          <line>The mouths of them that try it. Rich soil again</line>
+          <line>We learn on this wise: tossed from hand to hand</line>
+          <line>Yet cracks it never, but pitch-like, as we hold,</line>
+          <line>Clings to the fingers. A land with moisture rife</line>
+          <line>Breeds lustier herbage, and is more than meet</line>
+          <line>Prolific. Ah I may never such for me</line>
+          <line>O'er-fertile prove, or make too stout a show</line>
+          <line>At the first earing! Heavy land or light</line>
+          <line>The mute self-witness of its weight betrays.</line>
+          <line>A glance will serve to warn thee which is black,</line>
+          <line>Or what the hue of any. But hard it is</line>
+          <line>To track the signs of that pernicious cold:</line>
+          <line>Pines only, noxious yews, and ivies dark</line>
+          <line>At times reveal its traces.</line>
+          <line>All these rules</line>
+          <line>Regarding, let your land, ay, long before,</line>
+          <line>Scorch to the quick, and into trenches carve</line>
+          <line>The mighty mountains, and their upturned clods</line>
+          <line>Bare to the north wind, ere thou plant therein</line>
+          <line>The vine's prolific kindred. Fields whose soil</line>
+          <line>Is crumbling are the best: winds look to that,</line>
+          <line>And bitter hoar-frosts, and the delver's toil</line>
+          <line>Untiring, as he stirs the loosened glebe.</line>
+          <line>But those, whose vigilance no care escapes,</line>
+          <line>Search for a kindred site, where first to rear</line>
+          <line>A nursery for the trees, and eke whereto</line>
+          <line>Soon to translate them, lest the sudden shock</line>
+          <line>From their new mother the young plants estrange.</line>
+          <line>Nay, even the quarter of the sky they brand</line>
+          <line>Upon the bark, that each may be restored,</line>
+          <line>As erst it stood, here bore the southern heats,</line>
+          <line>Here turned its shoulder to the northern pole;</line>
+          <line>So strong is custom formed in early years.</line>
+          <line>Whether on hill or plain 'tis best to plant</line>
+          <line>Your vineyard first inquire. If on some plain</line>
+          <line>You measure out rich acres, then plant thick;</line>
+          <line>Thick planting makes no niggard of the vine;</line>
+          <line>But if on rising mound or sloping bill,</line>
+          <line>Then let the rows have room, so none the less</line>
+          <line>Each line you draw, when all the trees are set,</line>
+          <line>May tally to perfection. Even as oft</line>
+          <line>In mighty war, whenas the legion's length</line>
+          <line>Deploys its cohorts, and the column stands</line>
+          <line>In open plain, the ranks of battle set,</line>
+          <line>And far and near with rippling sheen of arms</line>
+          <line>The wide earth flickers, nor yet in grisly strife</line>
+          <line>Foe grapples foe, but dubious 'twixt the hosts</line>
+          <line>The war-god wavers; so let all be ranged</line>
+          <line>In equal rows symmetric, not alone</line>
+          <line>To feed an idle fancy with the view,</line>
+          <line>But since not otherwise will earth afford</line>
+          <line>Vigour to all alike, nor yet the boughs</line>
+          <line>Have power to stretch them into open space.</line>
+          <line>Shouldst haply of the furrow's depth inquire,</line>
+          <line>Even to a shallow trench I dare commit</line>
+          <line>The vine; but deeper in the ground is fixed</line>
+          <line>The tree that props it, aesculus in chief,</line>
+          <line>Which howso far its summit soars toward heaven,</line>
+          <line>So deep strikes root into the vaults of hell.</line>
+          <line>It therefore neither storms, nor blasts, nor showers</line>
+          <line>Wrench from its bed; unshaken it abides,</line>
+          <line>Sees many a generation, many an age</line>
+          <line>Of men roll onward, and survives them all,</line>
+          <line>Stretching its titan arms and branches far,</line>
+          <line>Sole central pillar of a world of shade.</line>
+          <line>Nor toward the sunset let thy vineyards slope,</line>
+          <line>Nor midst the vines plant hazel; neither take</line>
+          <line>The topmost shoots for cuttings, nor from the top</line>
+          <line>Of the supporting tree your suckers tear;</line>
+          <line>So deep their love of earth; nor wound the plants</line>
+          <line>With blunted blade; nor truncheons intersperse</line>
+          <line>Of the wild olive: for oft from careless swains</line>
+          <line>A spark hath fallen, that, 'neath the unctuous rind</line>
+          <line>Hid thief-like first, now grips the tough tree-bole,</line>
+          <line>And mounting to the leaves on high, sends forth</line>
+          <line>A roar to heaven, then coursing through the boughs</line>
+          <line>And airy summits reigns victoriously,</line>
+          <line>Wraps all the grove in robes of fire, and gross</line>
+          <line>With pitch-black vapour heaves the murky reek</line>
+          <line>Skyward, but chiefly if a storm has swooped</line>
+          <line>Down on the forest, and a driving wind</line>
+          <line>Rolls up the conflagration. When 'tis so,</line>
+          <line>Their root-force fails them, nor, when lopped away,</line>
+          <line>Can they recover, and from the earth beneath</line>
+          <line>Spring to like verdure; thus alone survives</line>
+          <line>The bare wild olive with its bitter leaves.</line>
+          <line>Let none persuade thee, howso weighty-wise,</line>
+          <line>To stir the soil when stiff with Boreas' breath.</line>
+          <line>Then ice-bound winter locks the fields, nor lets</line>
+          <line>The young plant fix its frozen root to earth.</line>
+          <line>Best sow your vineyards when in blushing Spring</line>
+          <line>Comes the white bird long-bodied snakes abhor,</line>
+          <line>Or on the eve of autumn's earliest frost,</line>
+          <line>Ere the swift sun-steeds touch the wintry Signs,</line>
+          <line>While summer is departing. Spring it is</line>
+          <line>Blesses the fruit-plantation, Spring the groves;</line>
+          <line>In Spring earth swells and claims the fruitful seed.</line>
+          <line>Then Aether, sire omnipotent, leaps down</line>
+          <line>With quickening showers to his glad wife's embrace,</line>
+          <line>And, might with might commingling, rears to life</line>
+          <line>All germs that teem within her; then resound</line>
+          <line>With songs of birds the greenwood-wildernesses,</line>
+          <line>And in due time the herds their loves renew;</line>
+          <line>Then the boon earth yields increase, and the fields</line>
+          <line>Unlock their bosoms to the warm west winds;</line>
+          <line>Soft moisture spreads o'er all things, and the blades</line>
+          <line>Face the new suns, and safely trust them now;</line>
+          <line>The vine-shoot, fearless of the rising south,</line>
+          <line>Or mighty north winds driving rain from heaven,</line>
+          <line>Bursts into bud, and every leaf unfolds.</line>
+          <line>Even so, methinks, when Earth to being sprang,</line>
+          <line>Dawned the first days, and such the course they</line>
+          <line>held;</line>
+          <line>'Twas Spring-tide then, ay, Spring, the mighty world</line>
+          <line>Was keeping: Eurus spared his wintry blasts,</line>
+          <line>When first the flocks drank sunlight, and a race</line>
+          <line>Of men like iron from the hard glebe arose,</line>
+          <line>And wild beasts thronged the woods, and stars the</line>
+          <line>heaven.</line>
+          <line>Nor could frail creatures bear this heavy strain,</line>
+          <line>Did not so large a respite interpose</line>
+          <line>'Twixt frost and heat, and heaven's relenting arms</line>
+          <line>Yield earth a welcome.</line>
+          <line>For the rest, whate'er</line>
+          <line>The sets thou plantest in thy fields, thereon</line>
+          <line>Strew refuse rich, and with abundant earth</line>
+          <line>Take heed to hide them, and dig in withal</line>
+          <line>Rough shells or porous stone, for therebetween</line>
+          <line>Will water trickle and fine vapour creep,</line>
+          <line>And so the plants their drooping spirits raise.</line>
+          <line>Aye, and there have been, who with weight of stone</line>
+          <line>Or heavy potsherd press them from above;</line>
+          <line>This serves for shield in pelting showers, and this</line>
+          <line>When the hot dog-star chaps the fields with drought.</line>
+          <line>The slips once planted, yet remains to cleave</line>
+          <line>The earth about their roots persistently,</line>
+          <line>And toss the cumbrous hoes, or task the soil</line>
+          <line>With burrowing plough-share, and ply up and down</line>
+          <line>Your labouring bullocks through the vineyard's midst,</line>
+          <line>Then too smooth reeds and shafts of whittled wand,</line>
+          <line>And ashen poles and sturdy forks to shape,</line>
+          <line>Whereby supported they may learn to mount,</line>
+          <line>Laugh at the gales, and through the elm-tops win</line>
+          <line>From story up to story.</line>
+          <line>Now while yet</line>
+          <line>The leaves are in their first fresh infant growth,</line>
+          <line>Forbear their frailty, and while yet the bough</line>
+          <line>Shoots joyfully toward heaven, with loosened rein</line>
+          <line>Launched on the void, assail it not as yet</line>
+          <line>With keen-edged sickle, but let the leaves alone</line>
+          <line>Be culled with clip of fingers here and there.</line>
+          <line>But when they clasp the elms with sturdy trunks</line>
+          <line>Erect, then strip the leaves off, prune the boughs;</line>
+          <line>Sooner they shrink from steel, but then put forth</line>
+          <line>The arm of power, and stem the branchy tide.</line>
+          <line>Hedges too must be woven and all beasts</line>
+          <line>Barred entrance, chiefly while the leaf is young</line>
+          <line>And witless of disaster; for therewith,</line>
+          <line>Beside harsh winters and o'erpowering sun,</line>
+          <line>Wild buffaloes and pestering goats for ay</line>
+          <line>Besport them, sheep and heifers glut their greed.</line>
+          <line>Nor cold by hoar-frost curdled, nor the prone</line>
+          <line>Dead weight of summer upon the parched crags,</line>
+          <line>So scathe it, as the flocks with venom-bite</line>
+          <line>Of their hard tooth, whose gnawing scars the stem.</line>
+          <line>For no offence but this to Bacchus bleeds</line>
+          <line>The goat at every altar, and old plays</line>
+          <line>Upon the stage find entrance; therefore too</line>
+          <line>The sons of Theseus through the country-side-</line>
+          <line>Hamlet and crossway- set the prize of wit,</line>
+          <line>And on the smooth sward over oiled skins</line>
+          <line>Dance in their tipsy frolic. Furthermore</line>
+          <line>The Ausonian swains, a race from Troy derived,</line>
+          <line>Make merry with rough rhymes and boisterous mirth,</line>
+          <line>Grim masks of hollowed bark assume, invoke</line>
+          <line>Thee with glad hymns, O Bacchus, and to thee</line>
+          <line>Hang puppet-faces on tall pines to swing.</line>
+          <line>Hence every vineyard teems with mellowing fruit,</line>
+          <line>Till hollow vale o'erflows, and gorge profound,</line>
+          <line>Where'er the god hath turned his comely head.</line>
+          <line>Therefore to Bacchus duly will we sing</line>
+          <line>Meet honour with ancestral hymns, and cates</line>
+          <line>And dishes bear him; and the doomed goat</line>
+          <line>Led by the horn shall at the altar stand,</line>
+          <line>Whose entrails rich on hazel-spits we'll roast.</line>
+          <line>This further task again, to dress the vine,</line>
+          <line>Hath needs beyond exhausting; the whole soil</line>
+          <line>Thrice, four times, yearly must be cleft, the sod</line>
+          <line>With hoes reversed be crushed continually,</line>
+          <line>The whole plantation lightened of its leaves.</line>
+          <line>Round on the labourer spins the wheel of toil,</line>
+          <line>As on its own track rolls the circling year.</line>
+          <line>Soon as the vine her lingering leaves hath shed,</line>
+          <line>And the chill north wind from the forests shook</line>
+          <line>Their coronal, even then the careful swain</line>
+          <line>Looks keenly forward to the coming year,</line>
+          <line>With Saturn's curved fang pursues and prunes</line>
+          <line>The vine forlorn, and lops it into shape.</line>
+          <line>Be first to dig the ground up, first to clear</line>
+          <line>And burn the refuse-branches, first to house</line>
+          <line>Again your vine-poles, last to gather fruit.</line>
+          <line>Twice doth the thickening shade beset the vine,</line>
+          <line>Twice weeds with stifling briers o'ergrow the crop;</line>
+          <line>And each a toilsome labour. Do thou praise</line>
+          <line>Broad acres, farm but few. Rough twigs beside</line>
+          <line>Of butcher's broom among the woods are cut,</line>
+          <line>And reeds upon the river-banks, and still</line>
+          <line>The undressed willow claims thy fostering care.</line>
+          <line>So now the vines are fettered, now the trees</line>
+          <line>Let go the sickle, and the last dresser now</line>
+          <line>Sings of his finished rows; but still the ground</line>
+          <line>Must vexed be, the dust be stirred, and heaven</line>
+          <line>Still set thee trembling for the ripened grapes.</line>
+          <line>Not so with olives; small husbandry need they,</line>
+          <line>Nor look for sickle bowed or biting rake,</line>
+          <line>When once they have gripped the soil, and borne the</line>
+          <line>breeze.</line>
+          <line>Earth of herself, with hooked fang laid bare,</line>
+          <line>Yields moisture for the plants, and heavy fruit,</line>
+          <line>The ploughshare aiding; therewithal thou'lt rear</line>
+          <line>The olive's fatness well-beloved of Peace.</line>
+          <line>Apples, moreover, soon as first they feel</line>
+          <line>Their stems wax lusty, and have found their strength,</line>
+          <line>To heaven climb swiftly, self-impelled, nor crave</line>
+          <line>Our succour. All the grove meanwhile no less</line>
+          <line>With fruit is swelling, and the wild haunts of birds</line>
+          <line>Blush with their blood-red berries. Cytisus</line>
+          <line>Is good to browse on, the tall forest yields</line>
+          <line>Pine-torches, and the nightly fires are fed</line>
+          <line>And shoot forth radiance. And shall men be loath</line>
+          <line>To plant, nor lavish of their pains? Why trace</line>
+          <line>Things mightier? Willows even and lowly brooms</line>
+          <line>To cattle their green leaves, to shepherds shade,</line>
+          <line>Fences for crops, and food for honey yield.</line>
+          <line>And blithe it is Cytorus to behold</line>
+          <line>Waving with box, Narycian groves of pitch;</line>
+          <line>Oh! blithe the sight of fields beholden not</line>
+          <line>To rake or man's endeavour! the barren woods</line>
+          <line>That crown the scalp of Caucasus, even these,</line>
+          <line>Which furious blasts for ever rive and rend,</line>
+          <line>Yield various wealth, pine-logs that serve for ships,</line>
+          <line>Cedar and cypress for the homes of men;</line>
+          <line>Hence, too, the farmers shave their wheel-spokes,</line>
+          <line>hence</line>
+          <line>Drums for their wains, and curved boat-keels fit;</line>
+          <line>Willows bear twigs enow, the elm-tree leaves,</line>
+          <line>Myrtle stout spear-shafts, war-tried cornel too;</line>
+          <line>Yews into Ituraean bows are bent:</line>
+          <line>Nor do smooth lindens or lathe-polished box</line>
+          <line>Shrink from man's shaping and keen-furrowing steel;</line>
+          <line>Light alder floats upon the boiling flood</line>
+          <line>Sped down the Padus, and bees house their swarms</line>
+          <line>In rotten holm-oak's hollow bark and bole.</line>
+          <line>What of like praise can Bacchus' gifts afford?</line>
+          <line>Nay, Bacchus even to crime hath prompted, he</line>
+          <line>The wine-infuriate Centaurs quelled with death,</line>
+          <line>Rhoetus and Pholus, and with mighty bowl</line>
+          <line>Hylaeus threatening high the Lapithae.</line>
+          <line>Oh! all too happy tillers of the soil,</line>
+          <line>Could they but know their blessedness, for whom</line>
+          <line>Far from the clash of arms all-equal earth</line>
+          <line>Pours from the ground herself their easy fare!</line>
+          <line>What though no lofty palace portal-proud</line>
+          <line>From all its chambers vomits forth a tide</line>
+          <line>Of morning courtiers, nor agape they gaze</line>
+          <line>On pillars with fair tortoise-shell inwrought,</line>
+          <line>Gold-purfled robes, and bronze from Ephyre;</line>
+          <line>Nor is the whiteness of their wool distained</line>
+          <line>With drugs Assyrian, nor clear olive's use</line>
+          <line>With cassia tainted; yet untroubled calm,</line>
+          <line>A life that knows no falsehood, rich enow</line>
+          <line>With various treasures, yet broad-acred ease,</line>
+          <line>Grottoes and living lakes, yet Tempes cool,</line>
+          <line>Lowing of kine, and sylvan slumbers soft,</line>
+          <line>They lack not; lawns and wild beasts' haunts are</line>
+          <line>there,</line>
+          <line>A youth of labour patient, need-inured,</line>
+          <line>Worship, and reverend sires: with them from earth</line>
+          <line>Departing justice her last footprints left.</line>
+          <line>Me before all things may the Muses sweet,</line>
+          <line>Whose rites I bear with mighty passion pierced,</line>
+          <line>Receive, and show the paths and stars of heaven,</line>
+          <line>The sun's eclipses and the labouring moons,</line>
+          <line>From whence the earthquake, by what power the seas</line>
+          <line>Swell from their depths, and, every barrier burst,</line>
+          <line>Sink back upon themselves, why winter-suns</line>
+          <line>So haste to dip 'neath ocean, or what check</line>
+          <line>The lingering night retards. But if to these</line>
+          <line>High realms of nature the cold curdling blood</line>
+          <line>About my heart bar access, then be fields</line>
+          <line>And stream-washed vales my solace, let me love</line>
+          <line>Rivers and woods, inglorious. Oh for you</line>
+          <line>Plains, and Spercheius, and Taygete,</line>
+          <line>By Spartan maids o'er-revelled! Oh, for one,</line>
+          <line>Would set me in deep dells of Haemus cool,</line>
+          <line>And shield me with his boughs' o'ershadowing might!</line>
+          <line>Happy, who had the skill to understand</line>
+          <line>Nature's hid causes, and beneath his feet</line>
+          <line>All terrors cast, and death's relentless doom,</line>
+          <line>And the loud roar of greedy Acheron.</line>
+          <line>Blest too is he who knows the rural gods,</line>
+          <line>Pan, old Silvanus, and the sister-nymphs!</line>
+          <line>Him nor the rods of public power can bend,</line>
+          <line>Nor kingly purple, nor fierce feud that drives</line>
+          <line>Brother to turn on brother, nor descent</line>
+          <line>Of Dacian from the Danube's leagued flood,</line>
+          <line>Nor Rome's great State, nor kingdoms like to die;</line>
+          <line>Nor hath he grieved through pitying of the poor,</line>
+          <line>Nor envied him that hath. What fruit the boughs,</line>
+          <line>And what the fields, of their own bounteous will</line>
+          <line>Have borne, he gathers; nor iron rule of laws,</line>
+          <line>Nor maddened Forum have his eyes beheld,</line>
+          <line>Nor archives of the people. Others vex</line>
+          <line>The darksome gulfs of Ocean with their oars,</line>
+          <line>Or rush on steel: they press within the courts</line>
+          <line>And doors of princes; one with havoc falls</line>
+          <line>Upon a city and its hapless hearths,</line>
+          <line>From gems to drink, on Tyrian rugs to lie;</line>
+          <line>This hoards his wealth and broods o'er buried gold;</line>
+          <line>One at the rostra stares in blank amaze;</line>
+          <line>One gaping sits transported by the cheers,</line>
+          <line>The answering cheers of plebs and senate rolled</line>
+          <line>Along the benches: bathed in brothers' blood</line>
+          <line>Men revel, and, all delights of hearth and home</line>
+          <line>For exile changing, a new country seek</line>
+          <line>Beneath an alien sun. The husbandman</line>
+          <line>With hooked ploughshare turns the soil; from hence</line>
+          <line>Springs his year's labour; hence, too, he sustains</line>
+          <line>Country and cottage homestead, and from hence</line>
+          <line>His herds of cattle and deserving steers.</line>
+          <line>No respite! still the year o'erflows with fruit,</line>
+          <line>Or young of kine, or Ceres' wheaten sheaf,</line>
+          <line>With crops the furrow loads, and bursts the barns.</line>
+          <line>Winter is come: in olive-mills they bruise</line>
+          <line>The Sicyonian berry; acorn-cheered</line>
+          <line>The swine troop homeward; woods their arbutes yield;</line>
+          <line>So, various fruit sheds Autumn, and high up</line>
+          <line>On sunny rocks the mellowing vintage bakes.</line>
+          <line>Meanwhile about his lips sweet children cling;</line>
+          <line>His chaste house keeps its purity; his kine</line>
+          <line>Drop milky udders, and on the lush green grass</line>
+          <line>Fat kids are striving, horn to butting horn.</line>
+          <line>Himself keeps holy days; stretched o'er the sward,</line>
+          <line>Where round the fire his comrades crown the bowl,</line>
+          <line>He pours libation, and thy name invokes,</line>
+          <line>Lenaeus, and for the herdsmen on an elm</line>
+          <line>Sets up a mark for the swift javelin; they</line>
+          <line>Strip their tough bodies for the rustic sport.</line>
+          <line>Such life of yore the ancient Sabines led,</line>
+          <line>Such Remus and his brother: Etruria thus,</line>
+          <line>Doubt not, to greatness grew, and Rome became</line>
+          <line>The fair world's fairest, and with circling wall</line>
+          <line>Clasped to her single breast the sevenfold hills.</line>
+          <line>Ay, ere the reign of Dicte's king, ere men,</line>
+          <line>Waxed godless, banqueted on slaughtered bulls,</line>
+          <line>Such life on earth did golden Saturn lead.</line>
+          <line>Nor ear of man had heard the war-trump's blast,</line>
+          <line>Nor clang of sword on stubborn anvil set.</line>
+          <line>But lo! a boundless space we have travelled o'er;</line>
+          <line>'Tis time our steaming horses to unyoke.</line>
+        </stanza>
+      </poem>
+    </chapter>
+    <chapter xml:id="georgics-georgic-iii">
+      <title>Georgic III</title>
+      <poem xml:id="georgics-georgic-iii-poem-1">
+        <stanza xml:id="georgics-georgic-iii-stanza-1-1">
+          <line>Thee too, great Pales, will I hymn, and thee,</line>
+          <line>Amphrysian shepherd, worthy to be sung,</line>
+          <line>You, woods and waves Lycaean. All themes beside,</line>
+          <line>Which else had charmed the vacant mind with song,</line>
+          <line>Are now waxed common. Of harsh Eurystheus who</line>
+          <line>The story knows not, or that praiseless king</line>
+          <line>Busiris, and his altars? or by whom</line>
+          <line>Hath not the tale been told of Hylas young,</line>
+          <line>Latonian Delos and Hippodame,</line>
+          <line>And Pelops for his ivory shoulder famed,</line>
+          <line>Keen charioteer? Needs must a path be tried,</line>
+          <line>By which I too may lift me from the dust,</line>
+          <line>And float triumphant through the mouths of men.</line>
+          <line>Yea, I shall be the first, so life endure,</line>
+          <line>To lead the Muses with me, as I pass</line>
+          <line>To mine own country from the Aonian height;</line>
+          <line>I, Mantua, first will bring thee back the palms</line>
+          <line>Of Idumaea, and raise a marble shrine</line>
+          <line>On thy green plain fast by the water-side,</line>
+          <line>Where Mincius winds more vast in lazy coils,</line>
+          <line>And rims his margent with the tender reed.</line>
+          <line>Amid my shrine shall Caesar's godhead dwell.</line>
+          <line>To him will I, as victor, bravely dight</line>
+          <line>In Tyrian purple, drive along the bank</line>
+          <line>A hundred four-horse cars. All Greece for me,</line>
+          <line>Leaving Alpheus and Molorchus' grove,</line>
+          <line>On foot shall strive, or with the raw-hide glove;</line>
+          <line>Whilst I, my head with stripped green olive crowned,</line>
+          <line>Will offer gifts. Even 'tis present joy</line>
+          <line>To lead the high processions to the fane,</line>
+          <line>And view the victims felled; or how the scene</line>
+          <line>Sunders with shifted face, and Britain's sons</line>
+          <line>Inwoven thereon with those proud curtains rise.</line>
+          <line>Of gold and massive ivory on the doors</line>
+          <line>I'll trace the battle of the Gangarides,</line>
+          <line>And our Quirinus' conquering arms, and there</line>
+          <line>Surging with war, and hugely flowing, the Nile,</line>
+          <line>And columns heaped on high with naval brass.</line>
+          <line>And Asia's vanquished cities I will add,</line>
+          <line>And quelled Niphates, and the Parthian foe,</line>
+          <line>Who trusts in flight and backward-volleying darts,</line>
+          <line>And trophies torn with twice triumphant hand</line>
+          <line>From empires twain on ocean's either shore.</line>
+          <line>And breathing forms of Parian marble there</line>
+          <line>Shall stand, the offspring of Assaracus,</line>
+          <line>And great names of the Jove-descended folk,</line>
+          <line>And father Tros, and Troy's first founder, lord</line>
+          <line>Of Cynthus. And accursed Envy there</line>
+          <line>Shall dread the Furies, and thy ruthless flood,</line>
+          <line>Cocytus, and Ixion's twisted snakes,</line>
+          <line>And that vast wheel and ever-baffling stone.</line>
+          <line>Meanwhile the Dryad-haunted woods and lawns</line>
+          <line>Unsullied seek we; 'tis thy hard behest,</line>
+          <line>Maecenas. Without thee no lofty task</line>
+          <line>My mind essays. Up! break the sluggish bonds</line>
+          <line>Of tarriance; with loud din Cithaeron calls,</line>
+          <line>Steed-taming Epidaurus, and thy hounds,</line>
+          <line>Taygete; and hark! the assenting groves</line>
+          <line>With peal on peal reverberate the roar.</line>
+          <line>Yet must I gird me to rehearse ere long</line>
+          <line>The fiery fights of Caesar, speed his name</line>
+          <line>Through ages, countless as to Caesar's self</line>
+          <line>From the first birth-dawn of Tithonus old.</line>
+          <line>If eager for the prized Olympian palm</line>
+          <line>One breed the horse, or bullock strong to plough,</line>
+          <line>Be his prime care a shapely dam to choose.</line>
+          <line>Of kine grim-faced is goodliest, with coarse head</line>
+          <line>And burly neck, whose hanging dewlaps reach</line>
+          <line>From chin to knee; of boundless length her flank;</line>
+          <line>Large every way she is, large-footed even,</line>
+          <line>With incurved horns and shaggy ears beneath.</line>
+          <line>Nor let mislike me one with spots of white</line>
+          <line>Conspicuous, or that spurns the yoke, whose horn</line>
+          <line>At times hath vice in't: liker bull-faced she,</line>
+          <line>And tall-limbed wholly, and with tip of tail</line>
+          <line>Brushing her footsteps as she walks along.</line>
+          <line>The age for Hymen's rites, Lucina's pangs,</line>
+          <line>Ere ten years ended, after four begins;</line>
+          <line>Their residue of days nor apt to teem,</line>
+          <line>Nor strong for ploughing. Meantime, while youth's</line>
+          <line>delight</line>
+          <line>Survives within them, loose the males: be first</line>
+          <line>To speed thy herds of cattle to their loves,</line>
+          <line>Breed stock with stock, and keep the race supplied.</line>
+          <line>Ah! life's best hours are ever first to fly</line>
+          <line>From hapless mortals; in their place succeed</line>
+          <line>Disease and dolorous eld; till travail sore</line>
+          <line>And death unpitying sweep them from the scene.</line>
+          <line>Still will be some, whose form thou fain wouldst</line>
+          <line>change;</line>
+          <line>Renew them still; with yearly choice of young</line>
+          <line>Preventing losses, lest too late thou rue.</line>
+          <line>Nor steeds crave less selection; but on those</line>
+          <line>Thou think'st to rear, the promise of their line,</line>
+          <line>From earliest youth thy chiefest pains bestow.</line>
+          <line>See from the first yon high-bred colt afield,</line>
+          <line>His lofty step, his limbs' elastic tread:</line>
+          <line>Dauntless he leads the herd, still first to try</line>
+          <line>The threatening flood, or brave the unknown bridge,</line>
+          <line>By no vain noise affrighted; lofty-necked,</line>
+          <line>With clean-cut head, short belly, and stout back;</line>
+          <line>His sprightly breast exuberant with brawn.</line>
+          <line>Chestnut and grey are good; the worst-hued white</line>
+          <line>And sorrel. Then lo! if arms are clashed afar,</line>
+          <line>Bide still he cannot: ears stiffen and limbs quake;</line>
+          <line>His nostrils snort and roll out wreaths of fire.</line>
+          <line>Dense is his mane, that when uplifted falls</line>
+          <line>On his right shoulder; betwixt either loin</line>
+          <line>The spine runs double; his earth-dinting hoof</line>
+          <line>Rings with the ponderous beat of solid horn.</line>
+          <line>Even such a horse was Cyllarus, reined and tamed</line>
+          <line>By Pollux of Amyclae; such the pair</line>
+          <line>In Grecian song renowned, those steeds of Mars,</line>
+          <line>And famed Achilles' team: in such-like form</line>
+          <line>Great Saturn's self with mane flung loose on neck</line>
+          <line>Sped at his wife's approach, and flying filled</line>
+          <line>The heights of Pelion with his piercing neigh.</line>
+          <line>Even him, when sore disease or sluggish eld</line>
+          <line>Now saps his strength, pen fast at home, and spare</line>
+          <line>His not inglorious age. A horse grown old</line>
+          <line>Slow kindling unto love in vain prolongs</line>
+          <line>The fruitless task, and, to the encounter come,</line>
+          <line>As fire in stubble blusters without strength,</line>
+          <line>He rages idly. Therefore mark thou first</line>
+          <line>Their age and mettle, other points anon,</line>
+          <line>As breed and lineage, or what pain was theirs</line>
+          <line>To lose the race, what pride the palm to win.</line>
+          <line>Seest how the chariots in mad rivalry</line>
+          <line>Poured from the barrier grip the course and go,</line>
+          <line>When youthful hope is highest, and every heart</line>
+          <line>Drained with each wild pulsation? How they ply</line>
+          <line>The circling lash, and reaching forward let</line>
+          <line>The reins hang free! Swift spins the glowing wheel;</line>
+          <line>And now they stoop, and now erect in air</line>
+          <line>Seem borne through space and towering to the sky:</line>
+          <line>No stop, no stay; the dun sand whirls aloft;</line>
+          <line>They reek with foam-flakes and pursuing breath;</line>
+          <line>So sweet is fame, so prized the victor's palm.</line>
+          <line>'Twas Ericthonius first took heart to yoke</line>
+          <line>Four horses to his car, and rode above</line>
+          <line>The whirling wheels to victory: but the ring</line>
+          <line>And bridle-reins, mounted on horses' backs,</line>
+          <line>The Pelethronian Lapithae bequeathed,</line>
+          <line>And taught the knight in arms to spurn the ground,</line>
+          <line>And arch the upgathered footsteps of his pride.</line>
+          <line>Each task alike is arduous, and for each</line>
+          <line>A horse young, fiery, swift of foot, they seek;</line>
+          <line>How oft so-e'er yon rival may have chased</line>
+          <line>The flying foe, or boast his native plain</line>
+          <line>Epirus, or Mycenae's stubborn hold,</line>
+          <line>And trace his lineage back to Neptune's birth.</line>
+          <line>These points regarded, as the time draws nigh,</line>
+          <line>With instant zeal they lavish all their care</line>
+          <line>To plump with solid fat the chosen chief</line>
+          <line>And designated husband of the herd:</line>
+          <line>And flowery herbs they cut, and serve him well</line>
+          <line>With corn and running water, that his strength</line>
+          <line>Not fail him for that labour of delight,</line>
+          <line>Nor puny colts betray the feeble sire.</line>
+          <line>The herd itself of purpose they reduce</line>
+          <line>To leanness, and when love's sweet longing first</line>
+          <line>Provokes them, they forbid the leafy food,</line>
+          <line>And pen them from the springs, and oft beside</line>
+          <line>With running shake, and tire them in the sun,</line>
+          <line>What time the threshing-floor groans heavily</line>
+          <line>With pounding of the corn-ears, and light chaff</line>
+          <line>Is whirled on high to catch the rising west.</line>
+          <line>This do they that the soil's prolific powers</line>
+          <line>May not be dulled by surfeiting, nor choke</line>
+          <line>The sluggish furrows, but eagerly absorb</line>
+          <line>Their fill of love, and deeply entertain.</line>
+          <line>To care of sire the mother's care succeeds.</line>
+          <line>When great with young they wander nigh their time,</line>
+          <line>Let no man suffer them to drag the yoke</line>
+          <line>In heavy wains, nor leap across the way,</line>
+          <line>Nor scour the meads, nor swim the rushing flood.</line>
+          <line>In lonely lawns they feed them, by the course</line>
+          <line>Of brimming streams, where moss is, and the banks</line>
+          <line>With grass are greenest, where are sheltering caves,</line>
+          <line>And far outstretched the rock-flung shadow lies.</line>
+          <line>Round wooded Silarus and the ilex-bowers</line>
+          <line>Of green Alburnus swarms a winged pest-</line>
+          <line>Its Roman name Asilus, by the Greeks</line>
+          <line>Termed Oestros- fierce it is, and harshly hums,</line>
+          <line>Driving whole herds in terror through the groves,</line>
+          <line>Till heaven is madded by their bellowing din,</line>
+          <line>And Tanager's dry bed and forest-banks.</line>
+          <line>With this same scourge did Juno wreak of old</line>
+          <line>The terrors of her wrath, a plague devised</line>
+          <line>Against the heifer sprung from Inachus.</line>
+          <line>From this too thou, since in the noontide heats</line>
+          <line>'Tis most persistent, fend thy teeming herds,</line>
+          <line>And feed them when the sun is newly risen,</line>
+          <line>Or the first stars are ushering in the night.</line>
+          <line>But, yeaning ended, all their tender care</line>
+          <line>Is to the calves transferred; at once with marks</line>
+          <line>They brand them, both to designate their race,</line>
+          <line>And which to rear for breeding, or devote</line>
+          <line>As altar-victims, or to cleave the ground</line>
+          <line>And into ridges tear and turn the sod.</line>
+          <line>The rest along the greensward graze at will.</line>
+          <line>Those that to rustic uses thou wouldst mould,</line>
+          <line>As calves encourage and take steps to tame,</line>
+          <line>While pliant wills and plastic youth allow.</line>
+          <line>And first of slender withies round the throat</line>
+          <line>Loose collars hang, then when their free-born necks</line>
+          <line>Are used to service, with the self-same bands</line>
+          <line>Yoke them in pairs, and steer by steer compel</line>
+          <line>Keep pace together. And time it is that oft</line>
+          <line>Unfreighted wheels be drawn along the ground</line>
+          <line>Behind them, as to dint the surface-dust;</line>
+          <line>Then let the beechen axle strain and creak</line>
+          <line>'Neath some stout burden, whilst a brazen pole</line>
+          <line>Drags on the wheels made fast thereto. Meanwhile</line>
+          <line>For their unbroken youth not grass alone,</line>
+          <line>Nor meagre willow-leaves and marish-sedge,</line>
+          <line>But corn-ears with thy hand pluck from the crops.</line>
+          <line>Nor shall the brood-kine, as of yore, for thee</line>
+          <line>Brim high the snowy milking-pail, but spend</line>
+          <line>Their udders' fullness on their own sweet young.</line>
+          <line>But if fierce squadrons and the ranks of war</line>
+          <line>Delight thee rather, or on wheels to glide</line>
+          <line>At Pisa, with Alpheus fleeting by,</line>
+          <line>And in the grove of Jupiter urge on</line>
+          <line>The flying chariot, be your steed's first task</line>
+          <line>To face the warrior's armed rage, and brook</line>
+          <line>The trumpet, and long roar of rumbling wheels,</line>
+          <line>And clink of chiming bridles in the stall;</line>
+          <line>Then more and more to love his master's voice</line>
+          <line>Caressing, or loud hand that claps his neck.</line>
+          <line>Ay, thus far let him learn to dare, when first</line>
+          <line>Weaned from his mother, and his mouth at times</line>
+          <line>Yield to the supple halter, even while yet</line>
+          <line>Weak, tottering-limbed, and ignorant of life.</line>
+          <line>But, three years ended, when the fourth arrives,</line>
+          <line>Now let him tarry not to run the ring</line>
+          <line>With rhythmic hoof-beat echoing, and now learn</line>
+          <line>Alternately to curve each bending leg,</line>
+          <line>And be like one that struggleth; then at last</line>
+          <line>Challenge the winds to race him, and at speed</line>
+          <line>Launched through the open, like a reinless thing,</line>
+          <line>Scarce print his footsteps on the surface-sand.</line>
+          <line>As when with power from Hyperborean climes</line>
+          <line>The north wind stoops, and scatters from his path</line>
+          <line>Dry clouds and storms of Scythia; the tall corn</line>
+          <line>And rippling plains 'gin shiver with light gusts;</line>
+          <line>A sound is heard among the forest-tops;</line>
+          <line>Long waves come racing shoreward: fast he flies,</line>
+          <line>With instant pinion sweeping earth and main.</line>
+          <line>A steed like this or on the mighty course</line>
+          <line>Of Elis at the goal will sweat, and shower</line>
+          <line>Red foam-flakes from his mouth, or, kindlier task,</line>
+          <line>With patient neck support the Belgian car.</line>
+          <line>Then, broken at last, let swell their burly frame</line>
+          <line>With fattening corn-mash, for, unbroke, they will</line>
+          <line>With pride wax wanton, and, when caught, refuse</line>
+          <line>Tough lash to brook or jagged curb obey.</line>
+          <line>But no device so fortifies their power</line>
+          <line>As love's blind stings of passion to forefend,</line>
+          <line>Whether on steed or steer thy choice be set.</line>
+          <line>Ay, therefore 'tis they banish bulls afar</line>
+          <line>To solitary pastures, or behind</line>
+          <line>Some mountain-barrier, or broad streams beyond,</line>
+          <line>Or else in plenteous stalls pen fast at home.</line>
+          <line>For, even through sight of her, the female wastes</line>
+          <line>His strength with smouldering fire, till he forget</line>
+          <line>Both grass and woodland. She indeed full oft</line>
+          <line>With her sweet charms can lovers proud compel</line>
+          <line>To battle for the conquest horn to horn.</line>
+          <line>In Sila's forest feeds the heifer fair,</line>
+          <line>While each on each the furious rivals run;</line>
+          <line>Wound follows wound; the black blood laves their</line>
+          <line>limbs;</line>
+          <line>Horns push and strive against opposing horns,</line>
+          <line>With mighty groaning; all the forest-side</line>
+          <line>And far Olympus bellow back the roar.</line>
+          <line>Nor wont the champions in one stall to couch;</line>
+          <line>But he that's worsted hies him to strange climes</line>
+          <line>Far off, an exile, moaning much the shame,</line>
+          <line>The blows of that proud conqueror, then love's loss</line>
+          <line>Avenged not; with one glance toward the byre,</line>
+          <line>His ancient royalties behind him lie.</line>
+          <line>So with all heed his strength he practiseth,</line>
+          <line>And nightlong makes the hard bare stones his bed,</line>
+          <line>And feeds on prickly leaf and pointed rush,</line>
+          <line>And proves himself, and butting at a tree</line>
+          <line>Learns to fling wrath into his horns, with blows</line>
+          <line>Provokes the air, and scattering clouds of sand</line>
+          <line>Makes prelude of the battle; afterward,</line>
+          <line>With strength repaired and gathered might breaks</line>
+          <line>camp,</line>
+          <line>And hurls him headlong on the unthinking foe:</line>
+          <line>As in mid ocean when a wave far of</line>
+          <line>Begins to whiten, mustering from the main</line>
+          <line>Its rounded breast, and, onward rolled to land</line>
+          <line>Falls with prodigious roar among the rocks,</line>
+          <line>Huge as a very mountain: but the depths</line>
+          <line>Upseethe in swirling eddies, and disgorge</line>
+          <line>The murky sand-lees from their sunken bed.</line>
+          <line>Nay, every race on earth of men, and beasts,</line>
+          <line>And ocean-folk, and flocks, and painted birds,</line>
+          <line>Rush to the raging fire: love sways them all.</line>
+          <line>Never than then more fiercely o'er the plain</line>
+          <line>Prowls heedless of her whelps the lioness:</line>
+          <line>Nor monstrous bears such wide-spread havoc-doom</line>
+          <line>Deal through the forests; then the boar is fierce,</line>
+          <line>Most deadly then the tigress: then, alack!</line>
+          <line>Ill roaming is it on Libya's lonely plains.</line>
+          <line>Mark you what shivering thrills the horse's frame,</line>
+          <line>If but a waft the well-known gust conveys?</line>
+          <line>Nor curb can check them then, nor lash severe,</line>
+          <line>Nor rocks and caverned crags, nor barrier-floods,</line>
+          <line>That rend and whirl and wash the hills away.</line>
+          <line>Then speeds amain the great Sabellian boar,</line>
+          <line>His tushes whets, with forefoot tears the ground,</line>
+          <line>Rubs 'gainst a tree his flanks, and to and fro</line>
+          <line>Hardens each wallowing shoulder to the wound.</line>
+          <line>What of the youth, when love's relentless might</line>
+          <line>Stirs the fierce fire within his veins? Behold!</line>
+          <line>In blindest midnight how he swims the gulf</line>
+          <line>Convulsed with bursting storm-clouds! Over him</line>
+          <line>Heaven's huge gate thunders; the rock-shattered</line>
+          <line>main</line>
+          <line>Utters a warning cry; nor parents' tears</line>
+          <line>Can backward call him, nor the maid he loves,</line>
+          <line>Too soon to die on his untimely pyre.</line>
+          <line>What of the spotted ounce to Bacchus dear,</line>
+          <line>Or warlike wolf-kin or the breed of dogs?</line>
+          <line>Why tell how timorous stags the battle join?</line>
+          <line>O'er all conspicuous is the rage of mares,</line>
+          <line>By Venus' self inspired of old, what time</line>
+          <line>The Potnian four with rending jaws devoured</line>
+          <line>The limbs of Glaucus. Love-constrained they roam</line>
+          <line>Past Gargarus, past the loud Ascanian flood;</line>
+          <line>They climb the mountains, and the torrents swim;</line>
+          <line>And when their eager marrow first conceives</line>
+          <line>The fire, in Spring-tide chiefly, for with Spring</line>
+          <line>Warmth doth their frames revisit, then they stand</line>
+          <line>All facing westward on the rocky heights,</line>
+          <line>And of the gentle breezes take their fill;</line>
+          <line>And oft unmated, marvellous to tell,</line>
+          <line>But of the wind impregnate, far and wide</line>
+          <line>O'er craggy height and lowly vale they scud,</line>
+          <line>Not toward thy rising, Eurus, or the sun's,</line>
+          <line>But westward and north-west, or whence up-springs</line>
+          <line>Black Auster, that glooms heaven with rainy cold.</line>
+          <line>Hence from their groin slow drips a poisonous juice,</line>
+          <line>By shepherds truly named hippomanes,</line>
+          <line>Hippomanes, fell stepdames oft have culled,</line>
+          <line>And mixed with herbs and spells of baneful bode.</line>
+          <line>Fast flies meanwhile the irreparable hour,</line>
+          <line>As point to point our charmed round we trace.</line>
+          <line>Enough of herds. This second task remains,</line>
+          <line>The wool-clad flocks and shaggy goats to treat.</line>
+          <line>Here lies a labour; hence for glory look,</line>
+          <line>Brave husbandmen. Nor doubtfully know</line>
+          <line>How hard it is for words to triumph here,</line>
+          <line>And shed their lustre on a theme so slight:</line>
+          <line>But I am caught by ravishing desire</line>
+          <line>Above the lone Parnassian steep; I love</line>
+          <line>To walk the heights, from whence no earlier track</line>
+          <line>Slopes gently downward to Castalia's spring.</line>
+          <line>Now, awful Pales, strike a louder tone.</line>
+          <line>First, for the sheep soft pencotes I decree</line>
+          <line>To browse in, till green summer's swift return;</line>
+          <line>And that the hard earth under them with straw</line>
+          <line>And handfuls of the fern be littered deep,</line>
+          <line>Lest chill of ice such tender cattle harm</line>
+          <line>With scab and loathly foot-rot. Passing thence</line>
+          <line>I bid the goats with arbute-leaves be stored,</line>
+          <line>And served with fresh spring-water, and their pens</line>
+          <line>Turned southward from the blast, to face the suns</line>
+          <line>Of winter, when Aquarius' icy beam</line>
+          <line>Now sinks in showers upon the parting year.</line>
+          <line>These too no lightlier our protection claim,</line>
+          <line>Nor prove of poorer service, howsoe'er</line>
+          <line>Milesian fleeces dipped in Tyrian reds</line>
+          <line>Repay the barterer; these with offspring teem</line>
+          <line>More numerous; these yield plenteous store of milk:</line>
+          <line>The more each dry-wrung udder froths the pail,</line>
+          <line>More copious soon the teat-pressed torrents flow.</line>
+          <line>Ay, and on Cinyps' bank the he-goats too</line>
+          <line>Their beards and grizzled chins and bristling hair</line>
+          <line>Let clip for camp-use, or as rugs to wrap</line>
+          <line>Seafaring wretches. But they browse the woods</line>
+          <line>And summits of Lycaeus, and rough briers,</line>
+          <line>And brakes that love the highland: of themselves</line>
+          <line>Right heedfully the she-goats homeward troop</line>
+          <line>Before their kids, and with plump udders clogged</line>
+          <line>Scarce cross the threshold. Wherefore rather ye,</line>
+          <line>The less they crave man's vigilance, be fain</line>
+          <line>From ice to fend them and from snowy winds;</line>
+          <line>Bring food and feast them with their branchy fare,</line>
+          <line>Nor lock your hay-loft all the winter long.</line>
+          <line>But when glad summer at the west wind's call</line>
+          <line>Sends either flock to pasture in the glades,</line>
+          <line>Soon as the day-star shineth, hie we then</line>
+          <line>To the cool meadows, while the dawn is young,</line>
+          <line>The grass yet hoary, and to browsing herds</line>
+          <line>The dew tastes sweetest on the tender sward.</line>
+          <line>When heaven's fourth hour draws on the thickening</line>
+          <line>drought,</line>
+          <line>And shrill cicalas pierce the brake with song,</line>
+          <line>Then at the well-springs bid them, or deep pools,</line>
+          <line>From troughs of holm-oak quaff the running wave:</line>
+          <line>But at day's hottest seek a shadowy vale,</line>
+          <line>Where some vast ancient-timbered oak of Jove</line>
+          <line>Spreads his huge branches, or where huddling black</line>
+          <line>Ilex on ilex cowers in awful shade.</line>
+          <line>Then once more give them water sparingly,</line>
+          <line>And feed once more, till sunset, when cool eve</line>
+          <line>Allays the air, and dewy moonbeams slake</line>
+          <line>The forest glades, with halcyon's song the shore,</line>
+          <line>And every thicket with the goldfinch rings.</line>
+          <line>Of Libya's shepherds why the tale pursue?</line>
+          <line>Why sing their pastures and the scattered huts</line>
+          <line>They house in? Oft their cattle day and night</line>
+          <line>Graze the whole month together, and go forth</line>
+          <line>Into far deserts where no shelter is,</line>
+          <line>So flat the plain and boundless. All his goods</line>
+          <line>The Afric swain bears with him, house and home,</line>
+          <line>Arms, Cretan quiver, and Amyclaean dog;</line>
+          <line>As some keen Roman in his country's arms</line>
+          <line>Plies the swift march beneath a cruel load;</line>
+          <line>Soon with tents pitched and at his post he stands,</line>
+          <line>Ere looked for by the foe. Not thus the tribes</line>
+          <line>Of Scythia by the far Maeotic wave,</line>
+          <line>Where turbid Ister whirls his yellow sands,</line>
+          <line>And Rhodope stretched out beneath the pole</line>
+          <line>Comes trending backward. There the herds they keep</line>
+          <line>Close-pent in byres, nor any grass is seen</line>
+          <line>Upon the plain, nor leaves upon the tree:</line>
+          <line>But with snow-ridges and deep frost afar</line>
+          <line>Heaped seven ells high the earth lies featureless:</line>
+          <line>Still winter? still the north wind's icy breath!</line>
+          <line>Nay, never sun disparts the shadows pale,</line>
+          <line>Or as he rides the steep of heaven, or dips</line>
+          <line>In ocean's fiery bath his plunging car.</line>
+          <line>Quick ice-crusts curdle on the running stream,</line>
+          <line>And iron-hooped wheels the water's back now bears,</line>
+          <line>To broad wains opened, as erewhile to ships;</line>
+          <line>Brass vessels oft asunder burst, and clothes</line>
+          <line>Stiffen upon the wearers; juicy wines</line>
+          <line>They cleave with axes; to one frozen mass</line>
+          <line>Whole pools are turned; and on their untrimmed beards</line>
+          <line>Stiff clings the jagged icicle. Meanwhile</line>
+          <line>All heaven no less is filled with falling snow;</line>
+          <line>The cattle perish: oxen's mighty frames</line>
+          <line>Stand island-like amid the frost, and stags</line>
+          <line>In huddling herds, by that strange weight benumbed,</line>
+          <line>Scarce top the surface with their antler-points.</line>
+          <line>These with no hounds they hunt, nor net with toils,</line>
+          <line>Nor scare with terror of the crimson plume;</line>
+          <line>But, as in vain they breast the opposing block,</line>
+          <line>Butcher them, knife in hand, and so dispatch</line>
+          <line>Loud-bellowing, and with glad shouts hale them home.</line>
+          <line>Themselves in deep-dug caverns underground</line>
+          <line>Dwell free and careless; to their hearths they heave</line>
+          <line>Oak-logs and elm-trees whole, and fire them there,</line>
+          <line>There play the night out, and in festive glee</line>
+          <line>With barm and service sour the wine-cup mock.</line>
+          <line>So 'neath the seven-starred Hyperborean wain</line>
+          <line>The folk live tameless, buffeted with blasts</line>
+          <line>Of Eurus from Rhipaean hills, and wrap</line>
+          <line>Their bodies in the tawny fells of beasts.</line>
+          <line>If wool delight thee, first, be far removed</line>
+          <line>All prickly boskage, burrs and caltrops; shun</line>
+          <line>Luxuriant pastures; at the outset choose</line>
+          <line>White flocks with downy fleeces. For the ram,</line>
+          <line>How white soe'er himself, be but the tongue</line>
+          <line>'Neath his moist palate black, reject him, lest</line>
+          <line>He sully with dark spots his offspring's fleece,</line>
+          <line>And seek some other o'er the teeming plain.</line>
+          <line>Even with such snowy bribe of wool, if ear</line>
+          <line>May trust the tale, Pan, God of Arcady,</line>
+          <line>Snared and beguiled thee, Luna, calling thee</line>
+          <line>To the deep woods; nor thou didst spurn his call.</line>
+          <line>But who for milk hath longing, must himself</line>
+          <line>Carry lucerne and lotus-leaves enow</line>
+          <line>With salt herbs to the cote, whence more they love</line>
+          <line>The streams, more stretch their udders, and give</line>
+          <line>back</line>
+          <line>A subtle taste of saltness in the milk.</line>
+          <line>Many there be who from their mothers keep</line>
+          <line>The new-born kids, and straightway bind their mouths</line>
+          <line>With iron-tipped muzzles. What they milk at dawn,</line>
+          <line>Or in the daylight hours, at night they press;</line>
+          <line>What darkling or at sunset, this ere morn</line>
+          <line>They bear away in baskets- for to town</line>
+          <line>The shepherd hies him- or with dash of salt</line>
+          <line>Just sprinkle, and lay by for winter use.</line>
+          <line>Nor be thy dogs last cared for; but alike</line>
+          <line>Swift Spartan hounds and fierce Molossian feed</line>
+          <line>On fattening whey. Never, with these to watch,</line>
+          <line>Dread nightly thief afold and ravening wolves,</line>
+          <line>Or Spanish desperadoes in the rear.</line>
+          <line>And oft the shy wild asses thou wilt chase,</line>
+          <line>With hounds, too, hunt the hare, with hounds the</line>
+          <line>doe;</line>
+          <line>Oft from his woodland wallowing-den uprouse</line>
+          <line>The boar, and scare him with their baying, and drive,</line>
+          <line>And o'er the mountains urge into the toils</line>
+          <line>Some antlered monster to their chiming cry.</line>
+          <line>Learn also scented cedar-wood to burn</line>
+          <line>Within the stalls, and snakes of noxious smell</line>
+          <line>With fumes of galbanum to drive away.</line>
+          <line>Oft under long-neglected cribs, or lurks</line>
+          <line>A viper ill to handle, that hath fled</line>
+          <line>The light in terror, or some snake, that wont</line>
+          <line>'Neath shade and sheltering roof to creep, and shower</line>
+          <line>Its bane among the cattle, hugs the ground,</line>
+          <line>Fell scourge of kine. Shepherd, seize stakes, seize</line>
+          <line>stones!</line>
+          <line>And as he rears defiance, and puffs out</line>
+          <line>A hissing throat, down with him! see how low</line>
+          <line>That cowering crest is vailed in flight, the while,</line>
+          <line>His midmost coils and final sweep of tail</line>
+          <line>Relaxing, the last fold drags lingering spires.</line>
+          <line>Then that vile worm that in Calabrian glades</line>
+          <line>Uprears his breast, and wreathes a scaly back,</line>
+          <line>His length of belly pied with mighty spots-</line>
+          <line>While from their founts gush any streams, while</line>
+          <line>yet</line>
+          <line>With showers of Spring and rainy south-winds earth</line>
+          <line>Is moistened, lo! he haunts the pools, and here</line>
+          <line>Housed in the banks, with fish and chattering frogs</line>
+          <line>Crams the black void of his insatiate maw.</line>
+          <line>Soon as the fens are parched, and earth with heat</line>
+          <line>Is gaping, forth he darts into the dry,</line>
+          <line>Rolls eyes of fire and rages through the fields,</line>
+          <line>Furious from thirst and by the drought dismayed.</line>
+          <line>Me list not then beneath the open heaven</line>
+          <line>To snatch soft slumber, nor on forest-ridge</line>
+          <line>Lie stretched along the grass, when, slipped his</line>
+          <line>slough,</line>
+          <line>To glittering youth transformed he winds his spires,</line>
+          <line>And eggs or younglings leaving in his lair,</line>
+          <line>Towers sunward, lightening with three-forked tongue.</line>
+          <line>Of sickness, too, the causes and the signs</line>
+          <line>I'll teach thee. Loathly scab assails the sheep,</line>
+          <line>When chilly showers have probed them to the quick,</line>
+          <line>And winter stark with hoar-frost, or when sweat</line>
+          <line>Unpurged cleaves to them after shearing done,</line>
+          <line>And rough thorns rend their bodies. Hence it is</line>
+          <line>Shepherds their whole flock steep in running streams,</line>
+          <line>While, plunged beneath the flood, with drenched</line>
+          <line>fell,</line>
+          <line>The ram, launched free, goes drifting down the tide.</line>
+          <line>Else, having shorn, they smear their bodies o'er</line>
+          <line>With acrid oil-lees, and mix silver-scum</line>
+          <line>And native sulphur and Idaean pitch,</line>
+          <line>Wax mollified with ointment, and therewith</line>
+          <line>Sea-leek, strong hellebores, bitumen black.</line>
+          <line>Yet ne'er doth kindlier fortune crown his toil,</line>
+          <line>Than if with blade of iron a man dare lance</line>
+          <line>The ulcer's mouth ope: for the taint is fed</line>
+          <line>And quickened by confinement; while the swain</line>
+          <line>His hand of healing from the wound withholds,</line>
+          <line>Or sits for happier signs imploring heaven.</line>
+          <line>Aye, and when inward to the bleater's bones</line>
+          <line>The pain hath sunk and rages, and their limbs</line>
+          <line>By thirsty fever are consumed, 'tis good</line>
+          <line>To draw the enkindled heat therefrom, and pierce</line>
+          <line>Within the hoof-clefts a blood-bounding vein.</line>
+          <line>Of tribes Bisaltic such the wonted use,</line>
+          <line>And keen Gelonian, when to Rhodope</line>
+          <line>He flies, or Getic desert, and quaffs milk</line>
+          <line>With horse-blood curdled.</line>
+          <line>Seest one far afield</line>
+          <line>Oft to the shade's mild covert win, or pull</line>
+          <line>The grass tops listlessly, or hindmost lag,</line>
+          <line>Or, browsing, cast her down amid the plain,</line>
+          <line>At night retire belated and alone;</line>
+          <line>With quick knife check the mischief, ere it creep</line>
+          <line>With dire contagion through the unwary herd.</line>
+          <line>Less thick and fast the whirlwind scours the main</line>
+          <line>With tempest in its wake, than swarm the plagues</line>
+          <line>Of cattle; nor seize they single lives alone,</line>
+          <line>But sudden clear whole feeding grounds, the flock</line>
+          <line>With all its promise, and extirpate the breed.</line>
+          <line>Well would he trow it who, so long after, still</line>
+          <line>High Alps and Noric hill-forts should behold,</line>
+          <line>And Iapydian Timavus' fields,</line>
+          <line>Ay, still behold the shepherds' realms a waste,</line>
+          <line>And far and wide the lawns untenanted.</line>
+          <line>Here from distempered heavens erewhile arose</line>
+          <line>A piteous season, with the full fierce heat</line>
+          <line>Of autumn glowed, and cattle-kindreds all</line>
+          <line>And all wild creatures to destruction gave,</line>
+          <line>Tainted the pools, the fodder charged with bane.</line>
+          <line>Nor simple was the way of death, but when</line>
+          <line>Hot thirst through every vein impelled had drawn</line>
+          <line>Their wretched limbs together, anon o'erflowed</line>
+          <line>A watery flux, and all their bones piecemeal</line>
+          <line>Sapped by corruption to itself absorbed.</line>
+          <line>Oft in mid sacrifice to heaven- the white</line>
+          <line>Wool-woven fillet half wreathed about his brow-</line>
+          <line>Some victim, standing by the altar, there</line>
+          <line>Betwixt the loitering carles a-dying fell:</line>
+          <line>Or, if betimes the slaughtering priest had struck,</line>
+          <line>Nor with its heaped entrails blazed the pile,</line>
+          <line>Nor seer to seeker thence could answer yield;</line>
+          <line>Nay, scarce the up-stabbing knife with blood was</line>
+          <line>stained,</line>
+          <line>Scarce sullied with thin gore the surface-sand.</line>
+          <line>Hence die the calves in many a pasture fair,</line>
+          <line>Or at full cribs their lives' sweet breath resign;</line>
+          <line>Hence on the fawning dog comes madness, hence</line>
+          <line>Racks the sick swine a gasping cough that chokes</line>
+          <line>With swelling at the jaws: the conquering steed,</line>
+          <line>Uncrowned of effort and heedless of the sward,</line>
+          <line>Faints, turns him from the springs, and paws the</line>
+          <line>earth</line>
+          <line>With ceaseless hoof: low droop his ears, wherefrom</line>
+          <line>Bursts fitful sweat, a sweat that waxes cold</line>
+          <line>Upon the dying beast; the skin is dry,</line>
+          <line>And rigidly repels the handler's touch.</line>
+          <line>These earlier signs they give that presage doom.</line>
+          <line>But, if the advancing plague 'gin fiercer grow,</line>
+          <line>Then are their eyes all fire, deep-drawn their breath,</line>
+          <line>At times groan-laboured: with long sobbing heave</line>
+          <line>Their lowest flanks; from either nostril streams</line>
+          <line>Black blood; a rough tongue clogs the obstructed</line>
+          <line>jaws.</line>
+          <line>'Twas helpful through inverted horn to pour</line>
+          <line>Draughts of the wine-god down; sole way it seemed</line>
+          <line>To save the dying: soon this too proved their bane,</line>
+          <line>And, reinvigorate but with frenzy's fire,</line>
+          <line>Even at death's pinch- the gods some happier fate</line>
+          <line>Deal to the just, such madness to their foes-</line>
+          <line>Each with bared teeth his own limbs mangling tore.</line>
+          <line>See! as he smokes beneath the stubborn share,</line>
+          <line>The bull drops, vomiting foam-dabbled gore,</line>
+          <line>And heaves his latest groans. Sad goes the swain,</line>
+          <line>Unhooks the steer that mourns his fellow's fate,</line>
+          <line>And in mid labour leaves the plough-gear fast.</line>
+          <line>Nor tall wood's shadow, nor soft sward may stir</line>
+          <line>That heart's emotion, nor rock-channelled flood,</line>
+          <line>More pure than amber speeding to the plain:</line>
+          <line>But see! his flanks fail under him, his eyes</line>
+          <line>Are dulled with deadly torpor, and his neck</line>
+          <line>Sinks to the earth with drooping weight. What now</line>
+          <line>Besteads him toil or service? to have turned</line>
+          <line>The heavy sod with ploughshare? And yet these</line>
+          <line>Ne'er knew the Massic wine-god's baneful boon,</line>
+          <line>Nor twice replenished banquets: but on leaves</line>
+          <line>They fare, and virgin grasses, and their cups</line>
+          <line>Are crystal springs and streams with running tired,</line>
+          <line>Their healthful slumbers never broke by care.</line>
+          <line>Then only, say they, through that country side</line>
+          <line>For Juno's rites were cattle far to seek,</line>
+          <line>And ill-matched buffaloes the chariots drew</line>
+          <line>To their high fanes. So, painfully with rakes</line>
+          <line>They grub the soil, aye, with their very nails</line>
+          <line>Dig in the corn-seeds, and with strained neck</line>
+          <line>O'er the high uplands drag the creaking wains.</line>
+          <line>No wolf for ambush pries about the pen,</line>
+          <line>Nor round the flock prowls nightly; pain more sharp</line>
+          <line>Subdues him: the shy deer and fleet-foot stags</line>
+          <line>With hounds now wander by the haunts of men</line>
+          <line>Vast ocean's offspring, and all tribes that swim,</line>
+          <line>On the shore's confine the wave washes up,</line>
+          <line>Like shipwrecked bodies: seals, unwonted there,</line>
+          <line>Flee to the rivers. Now the viper dies,</line>
+          <line>For all his den's close winding, and with scales</line>
+          <line>Erect the astonied water-worms. The air</line>
+          <line>Brooks not the very birds, that headlong fall,</line>
+          <line>And leave their life beneath the soaring cloud.</line>
+          <line>Moreover now nor change of fodder serves,</line>
+          <line>And subtlest cures but injure; then were foiled</line>
+          <line>The masters, Chiron sprung from Phillyron,</line>
+          <line>And Amythaon's son Melampus. See!</line>
+          <line>From Stygian darkness launched into the light</line>
+          <line>Comes raging pale Tisiphone; she drives</line>
+          <line>Disease and fear before her, day by day</line>
+          <line>Still rearing higher that all-devouring head.</line>
+          <line>With bleat of flocks and lowings thick resound</line>
+          <line>Rivers and parched banks and sloping heights.</line>
+          <line>At last in crowds she slaughters them, she chokes</line>
+          <line>The very stalls with carrion-heaps that rot</line>
+          <line>In hideous corruption, till men learn</line>
+          <line>With earth to cover them, in pits to hide.</line>
+          <line>For e'en the fells are useless; nor the flesh</line>
+          <line>With water may they purge, or tame with fire,</line>
+          <line>Nor shear the fleeces even, gnawed through and through</line>
+          <line>With foul disease, nor touch the putrid webs;</line>
+          <line>But, had one dared the loathly weeds to try,</line>
+          <line>Red blisters and an unclean sweat o'erran</line>
+          <line>His noisome limbs, till, no long tarriance made,</line>
+          <line>The fiery curse his tainted frame devoured.</line>
+        </stanza>
+      </poem>
+    </chapter>
+    <chapter xml:id="georgics-georgic-iv">
+      <title>Georgic IV</title>
+      <poem xml:id="georgics-georgic-iv-poem-1">
+        <stanza xml:id="georgics-georgic-iv-stanza-1-1">
+          <line>Of air-born honey, gift of heaven, I now</line>
+          <line>Take up the tale. Upon this theme no less</line>
+          <line>Look thou, Maecenas, with indulgent eye.</line>
+          <line>A marvellous display of puny powers,</line>
+          <line>High-hearted chiefs, a nation's history,</line>
+          <line>Its traits, its bent, its battles and its clans,</line>
+          <line>All, each, shall pass before you, while I sing.</line>
+          <line>Slight though the poet's theme, not slight the praise,</line>
+          <line>So frown not heaven, and Phoebus hear his call.</line>
+          <line>First find your bees a settled sure abode,</line>
+          <line>Where neither winds can enter (winds blow back</line>
+          <line>The foragers with food returning home)</line>
+          <line>Nor sheep and butting kids tread down the flowers,</line>
+          <line>Nor heifer wandering wide upon the plain</line>
+          <line>Dash off the dew, and bruise the springing blades.</line>
+          <line>Let the gay lizard too keep far aloof</line>
+          <line>His scale-clad body from their honied stalls,</line>
+          <line>And the bee-eater, and what birds beside,</line>
+          <line>And Procne smirched with blood upon the breast</line>
+          <line>From her own murderous hands. For these roam wide</line>
+          <line>Wasting all substance, or the bees themselves</line>
+          <line>Strike flying, and in their beaks bear home, to</line>
+          <line>glut</line>
+          <line>Those savage nestlings with the dainty prey.</line>
+          <line>But let clear springs and moss-green pools be near,</line>
+          <line>And through the grass a streamlet hurrying run,</line>
+          <line>Some palm-tree o'er the porch extend its shade,</line>
+          <line>Or huge-grown oleaster, that in Spring,</line>
+          <line>Their own sweet Spring-tide, when the new-made chiefs</line>
+          <line>Lead forth the young swarms, and, escaped their</line>
+          <line>comb,</line>
+          <line>The colony comes forth to sport and play,</line>
+          <line>The neighbouring bank may lure them from the heat,</line>
+          <line>Or bough befriend with hospitable shade.</line>
+          <line>O'er the mid-waters, whether swift or still,</line>
+          <line>Cast willow-branches and big stones enow,</line>
+          <line>Bridge after bridge, where they may footing find</line>
+          <line>And spread their wide wings to the summer sun,</line>
+          <line>If haply Eurus, swooping as they pause,</line>
+          <line>Have dashed with spray or plunged them in the deep.</line>
+          <line>And let green cassias and far-scented thymes,</line>
+          <line>And savory with its heavy-laden breath</line>
+          <line>Bloom round about, and violet-beds hard by</line>
+          <line>Sip sweetness from the fertilizing springs.</line>
+          <line>For the hive's self, or stitched of hollow bark,</line>
+          <line>Or from tough osier woven, let the doors</line>
+          <line>Be strait of entrance; for stiff winter's cold</line>
+          <line>Congeals the honey, and heat resolves and thaws,</line>
+          <line>To bees alike disastrous; not for naught</line>
+          <line>So haste they to cement the tiny pores</line>
+          <line>That pierce their walls, and fill the crevices</line>
+          <line>With pollen from the flowers, and glean and keep</line>
+          <line>To this same end the glue, that binds more fast</line>
+          <line>Than bird-lime or the pitch from Ida's pines.</line>
+          <line>Oft too in burrowed holes, if fame be true,</line>
+          <line>They make their cosy subterranean home,</line>
+          <line>And deeply lodged in hollow rocks are found,</line>
+          <line>Or in the cavern of an age-hewn tree.</line>
+          <line>Thou not the less smear round their crannied cribs</line>
+          <line>With warm smooth mud-coat, and strew leaves above;</line>
+          <line>But near their home let neither yew-tree grow,</line>
+          <line>Nor reddening crabs be roasted, and mistrust</line>
+          <line>Deep marish-ground and mire with noisome smell,</line>
+          <line>Or where the hollow rocks sonorous ring,</line>
+          <line>And the word spoken buffets and rebounds.</line>
+          <line>What more? When now the golden sun has put</line>
+          <line>Winter to headlong flight beneath the world,</line>
+          <line>And oped the doors of heaven with summer ray,</line>
+          <line>Forthwith they roam the glades and forests o'er,</line>
+          <line>Rifle the painted flowers, or sip the streams,</line>
+          <line>Light-hovering on the surface. Hence it is</line>
+          <line>With some sweet rapture, that we know not of,</line>
+          <line>Their little ones they foster, hence with skill</line>
+          <line>Work out new wax or clinging honey mould.</line>
+          <line>So when the cage-escaped hosts you see</line>
+          <line>Float heavenward through the hot clear air, until</line>
+          <line>You marvel at yon dusky cloud that spreads</line>
+          <line>And lengthens on the wind, then mark them well;</line>
+          <line>For then 'tis ever the fresh springs they seek</line>
+          <line>And bowery shelter: hither must you bring</line>
+          <line>The savoury sweets I bid, and sprinkle them,</line>
+          <line>Bruised balsam and the wax-flower's lowly weed,</line>
+          <line>And wake and shake the tinkling cymbals heard</line>
+          <line>By the great Mother: on the anointed spots</line>
+          <line>Themselves will settle, and in wonted wise</line>
+          <line>Seek of themselves the cradle's inmost depth.</line>
+          <line>But if to battle they have hied them forth-</line>
+          <line>For oft 'twixt king and king with uproar dire</line>
+          <line>Fierce feud arises, and at once from far</line>
+          <line>You may discern what passion sways the mob,</line>
+          <line>And how their hearts are throbbing for the strife;</line>
+          <line>Hark! the hoarse brazen note that warriors know</line>
+          <line>Chides on the loiterers, and the ear may catch</line>
+          <line>A sound that mocks the war-trump's broken blasts;</line>
+          <line>Then in hot haste they muster, then flash wings,</line>
+          <line>Sharpen their pointed beaks and knit their thews,</line>
+          <line>And round the king, even to his royal tent,</line>
+          <line>Throng rallying, and with shouts defy the foe.</line>
+          <line>So, when a dry Spring and clear space is given,</line>
+          <line>Forth from the gates they burst, they clash on high;</line>
+          <line>A din arises; they are heaped and rolled</line>
+          <line>Into one mighty mass, and headlong fall,</line>
+          <line>Not denselier hail through heaven, nor pelting so</line>
+          <line>Rains from the shaken oak its acorn-shower.</line>
+          <line>Conspicuous by their wings the chiefs themselves</line>
+          <line>Press through the heart of battle, and display</line>
+          <line>A giant's spirit in each pigmy frame,</line>
+          <line>Steadfast no inch to yield till these or those</line>
+          <line>The victor's ponderous arm has turned to flight.</line>
+          <line>Such fiery passions and such fierce assaults</line>
+          <line>A little sprinkled dust controls and quells.</line>
+          <line>And now, both leaders from the field recalled,</line>
+          <line>Who hath the worser seeming, do to death,</line>
+          <line>Lest royal waste wax burdensome, but let</line>
+          <line>His better lord it on the empty throne.</line>
+          <line>One with gold-burnished flakes will shine like fire,</line>
+          <line>For twofold are their kinds, the nobler he,</line>
+          <line>Of peerless front and lit with flashing scales;</line>
+          <line>That other, from neglect and squalor foul,</line>
+          <line>Drags slow a cumbrous belly. As with kings,</line>
+          <line>So too with people, diverse is their mould,</line>
+          <line>Some rough and loathly, as when the wayfarer</line>
+          <line>Scapes from a whirl of dust, and scorched with heat</line>
+          <line>Spits forth the dry grit from his parched mouth:</line>
+          <line>The others shine forth and flash with lightning-gleam,</line>
+          <line>Their backs all blazoned with bright drops of gold</line>
+          <line>Symmetric: this the likelier breed; from these,</line>
+          <line>When heaven brings round the season, thou shalt</line>
+          <line>strain</line>
+          <line>Sweet honey, nor yet so sweet as passing clear,</line>
+          <line>And mellowing on the tongue the wine-god's fire.</line>
+          <line>But when the swarms fly aimlessly abroad,</line>
+          <line>Disport themselves in heaven and spurn their cells,</line>
+          <line>Leaving the hive unwarmed, from such vain play</line>
+          <line>Must you refrain their volatile desires,</line>
+          <line>Nor hard the task: tear off the monarchs' wings;</line>
+          <line>While these prove loiterers, none beside will dare</line>
+          <line>Mount heaven, or pluck the standards from the camp.</line>
+          <line>Let gardens with the breath of saffron flowers</line>
+          <line>Allure them, and the lord of Hellespont,</line>
+          <line>Priapus, wielder of the willow-scythe,</line>
+          <line>Safe in his keeping hold from birds and thieves.</line>
+          <line>And let the man to whom such cares are dear</line>
+          <line>Himself bring thyme and pine-trees from the heights,</line>
+          <line>And strew them in broad belts about their home;</line>
+          <line>No hand but his the blistering task should ply,</line>
+          <line>Plant the young slips, or shed the genial showers.</line>
+          <line>And I myself, were I not even now</line>
+          <line>Furling my sails, and, nigh the journey's end,</line>
+          <line>Eager to turn my vessel's prow to shore,</line>
+          <line>Perchance would sing what careful husbandry</line>
+          <line>Makes the trim garden smile; of Paestum too,</line>
+          <line>Whose roses bloom and fade and bloom again;</line>
+          <line>How endives glory in the streams they drink,</line>
+          <line>And green banks in their parsley, and how the gourd</line>
+          <line>Twists through the grass and rounds him to paunch;</line>
+          <line>Nor of Narcissus had my lips been dumb,</line>
+          <line>That loiterer of the flowers, nor supple-stemmed</line>
+          <line>Acanthus, with the praise of ivies pale,</line>
+          <line>And myrtles clinging to the shores they love.</line>
+          <line>For 'neath the shade of tall Oebalia's towers,</line>
+          <line>Where dark Galaesus laves the yellowing fields,</line>
+          <line>An old man once I mind me to have seen-</line>
+          <line>From Corycus he came- to whom had fallen</line>
+          <line>Some few poor acres of neglected land,</line>
+          <line>And they nor fruitful' neath the plodding steer,</line>
+          <line>Meet for the grazing herd, nor good for vines.</line>
+          <line>Yet he, the while his meagre garden-herbs</line>
+          <line>Among the thorns he planted, and all round</line>
+          <line>White lilies, vervains, and lean poppy set,</line>
+          <line>In pride of spirit matched the wealth of kings,</line>
+          <line>And home returning not till night was late,</line>
+          <line>With unbought plenty heaped his board on high.</line>
+          <line>He was the first to cull the rose in spring,</line>
+          <line>He the ripe fruits in autumn; and ere yet</line>
+          <line>Winter had ceased in sullen ire to rive</line>
+          <line>The rocks with frost, and with her icy bit</line>
+          <line>Curb in the running waters, there was he</line>
+          <line>Plucking the rathe faint hyacinth, while he chid</line>
+          <line>Summer's slow footsteps and the lagging West.</line>
+          <line>Therefore he too with earliest brooding bees</line>
+          <line>And their full swarms o'erflowed, and first was</line>
+          <line>he</line>
+          <line>To press the bubbling honey from the comb;</line>
+          <line>Lime-trees were his, and many a branching pine;</line>
+          <line>And all the fruits wherewith in early bloom</line>
+          <line>The orchard-tree had clothed her, in full tale</line>
+          <line>Hung there, by mellowing autumn perfected.</line>
+          <line>He too transplanted tall-grown elms a-row,</line>
+          <line>Time-toughened pear, thorns bursting with the plum</line>
+          <line>And plane now yielding serviceable shade</line>
+          <line>For dry lips to drink under: but these things,</line>
+          <line>Shut off by rigorous limits, I pass by,</line>
+          <line>And leave for others to sing after me.</line>
+          <line>Come, then, I will unfold the natural powers</line>
+          <line>Great Jove himself upon the bees bestowed,</line>
+          <line>The boon for which, led by the shrill sweet strains</line>
+          <line>Of the Curetes and their clashing brass,</line>
+          <line>They fed the King of heaven in Dicte's cave.</line>
+          <line>Alone of all things they receive and hold</line>
+          <line>Community of offspring, and they house</line>
+          <line>Together in one city, and beneath</line>
+          <line>The shelter of majestic laws they live;</line>
+          <line>And they alone fixed home and country know,</line>
+          <line>And in the summer, warned of coming cold,</line>
+          <line>Make proof of toil, and for the general store</line>
+          <line>Hoard up their gathered harvesting. For some</line>
+          <line>Watch o'er the victualling of the hive, and these</line>
+          <line>By settled order ply their tasks afield;</line>
+          <line>And some within the confines of their home</line>
+          <line>Plant firm the comb's first layer, Narcissus' tear,</line>
+          <line>And sticky gum oozed from the bark of trees,</line>
+          <line>Then set the clinging wax to hang therefrom.</line>
+          <line>Others the while lead forth the full-grown young,</line>
+          <line>Their country's hope, and others press and pack</line>
+          <line>The thrice repured honey, and stretch their cells</line>
+          <line>To bursting with the clear-strained nectar sweet.</line>
+          <line>Some, too, the wardship of the gates befalls,</line>
+          <line>Who watch in turn for showers and cloudy skies,</line>
+          <line>Or ease returning labourers of their load,</line>
+          <line>Or form a band and from their precincts drive</line>
+          <line>The drones, a lazy herd. How glows the work!</line>
+          <line>How sweet the honey smells of perfumed thyme</line>
+          <line>Like the Cyclopes, when in haste they forge</line>
+          <line>From the slow-yielding ore the thunderbolts,</line>
+          <line>Some from the bull's-hide bellows in and out</line>
+          <line>Let the blasts drive, some dip i' the water-trough</line>
+          <line>The sputtering metal: with the anvil's weight</line>
+          <line>Groans Etna: they alternately in time</line>
+          <line>With giant strength uplift their sinewy arms,</line>
+          <line>Or twist the iron with the forceps' grip-</line>
+          <line>Not otherwise, to measure small with great,</line>
+          <line>The love of getting planted in their breasts</line>
+          <line>Goads on the bees, that haunt old Cecrops' heights,</line>
+          <line>Each in his sphere to labour. The old have charge</line>
+          <line>To keep the town, and build the walled combs,</line>
+          <line>And mould the cunning chambers; but the youth,</line>
+          <line>Their tired legs packed with thyme, come labouring</line>
+          <line>home</line>
+          <line>Belated, for afar they range to feed</line>
+          <line>On arbutes and the grey-green willow-leaves,</line>
+          <line>And cassia and the crocus blushing red,</line>
+          <line>Glue-yielding limes, and hyacinths dusky-eyed.</line>
+          <line>One hour for rest have all, and one for toil:</line>
+          <line>With dawn they hurry from the gates- no room</line>
+          <line>For loiterers there: and once again, when even</line>
+          <line>Now bids them quit their pasturing on the plain,</line>
+          <line>Then homeward make they, then refresh their strength:</line>
+          <line>A hum arises: hark! they buzz and buzz</line>
+          <line>About the doors and threshold; till at length</line>
+          <line>Safe laid to rest they hush them for the night,</line>
+          <line>And welcome slumber laps their weary limbs.</line>
+          <line>But from the homestead not too far they fare,</line>
+          <line>When showers hang like to fall, nor, east winds</line>
+          <line>nigh,</line>
+          <line>Confide in heaven, but 'neath the city walls</line>
+          <line>Safe-circling fetch them water, or essay</line>
+          <line>Brief out-goings, and oft weigh-up tiny stones,</line>
+          <line>As light craft ballast in the tossing tide,</line>
+          <line>Wherewith they poise them through the cloudy vast.</line>
+          <line>This law of life, too, by the bees obeyed,</line>
+          <line>Will move thy wonder, that nor sex with sex</line>
+          <line>Yoke they in marriage, nor yield their limbs to</line>
+          <line>love,</line>
+          <line>Nor know the pangs of labour, but alone</line>
+          <line>From leaves and honied herbs, the mothers, each,</line>
+          <line>Gather their offspring in their mouths, alone</line>
+          <line>Supply new kings and pigmy commonwealth,</line>
+          <line>And their old court and waxen realm repair.</line>
+          <line>Oft, too, while wandering, against jagged stones</line>
+          <line>Their wings they fray, and 'neath the burden yield</line>
+          <line>Their liberal lives: so deep their love of flowers,</line>
+          <line>So glorious deem they honey's proud acquist.</line>
+          <line>Therefore, though each a life of narrow span,</line>
+          <line>Ne'er stretched to summers more than seven, befalls,</line>
+          <line>Yet deathless doth the race endure, and still</line>
+          <line>Perennial stands the fortune of their line,</line>
+          <line>From grandsire unto grandsire backward told.</line>
+          <line>Moreover, not Aegyptus, nor the realm</line>
+          <line>Of boundless Lydia, no, nor Parthia's hordes,</line>
+          <line>Nor Median Hydaspes, to their king</line>
+          <line>Do such obeisance: lives the king unscathed,</line>
+          <line>One will inspires the million: is he dead,</line>
+          <line>Snapt is the bond of fealty; they themselves</line>
+          <line>Ravage their toil-wrought honey, and rend amain</line>
+          <line>Their own comb's waxen trellis. He is the lord</line>
+          <line>Of all their labour; him with awful eye</line>
+          <line>They reverence, and with murmuring throngs surround,</line>
+          <line>In crowds attend, oft shoulder him on high,</line>
+          <line>Or with their bodies shield him in the fight,</line>
+          <line>And seek through showering wounds a glorious death.</line>
+          <line>Led by these tokens, and with such traits to guide,</line>
+          <line>Some say that unto bees a share is given</line>
+          <line>Of the Divine Intelligence, and to drink</line>
+          <line>Pure draughts of ether; for God permeates all-</line>
+          <line>Earth, and wide ocean, and the vault of heaven-</line>
+          <line>From whom flocks, herds, men, beasts of every kind,</line>
+          <line>Draw each at birth the fine essential flame;</line>
+          <line>Yea, and that all things hence to Him return,</line>
+          <line>Brought back by dissolution, nor can death</line>
+          <line>Find place: but, each into his starry rank,</line>
+          <line>Alive they soar, and mount the heights of heaven.</line>
+          <line>If now their narrow home thou wouldst unseal,</line>
+          <line>And broach the treasures of the honey-house,</line>
+          <line>With draught of water first toment thy lips,</line>
+          <line>And spread before thee fumes of trailing smoke.</line>
+          <line>Twice is the teeming produce gathered in,</line>
+          <line>Twofold their time of harvest year by year,</line>
+          <line>Once when Taygete the Pleiad uplifts</line>
+          <line>Her comely forehead for the earth to see,</line>
+          <line>With foot of scorn spurning the ocean-streams,</line>
+          <line>Once when in gloom she flies the watery Fish,</line>
+          <line>And dips from heaven into the wintry wave.</line>
+          <line>Unbounded then their wrath; if hurt, they breathe</line>
+          <line>Venom into their bite, cleave to the veins</line>
+          <line>And let the sting lie buried, and leave their lives</line>
+          <line>Behind them in the wound. But if you dread</line>
+          <line>Too rigorous a winter, and would fain</line>
+          <line>Temper the coming time, and their bruised hearts</line>
+          <line>And broken estate to pity move thy soul,</line>
+          <line>Yet who would fear to fumigate with thyme,</line>
+          <line>Or cut the empty wax away? for oft</line>
+          <line>Into their comb the newt has gnawed unseen,</line>
+          <line>And the light-loathing beetles crammed their bed,</line>
+          <line>And he that sits at others' board to feast,</line>
+          <line>The do-naught drone; or 'gainst the unequal foe</line>
+          <line>Swoops the fierce hornet, or the moth's fell tribe;</line>
+          <line>Or spider, victim of Minerva's spite,</line>
+          <line>Athwart the doorway hangs her swaying net.</line>
+          <line>The more impoverished they, the keenlier all</line>
+          <line>To mend the fallen fortunes of their race</line>
+          <line>Will nerve them, fill the cells up, tier on tier,</line>
+          <line>And weave their granaries from the rifled flowers.</line>
+          <line>Now, seeing that life doth even to bee-folk bring</line>
+          <line>Our human chances, if in dire disease</line>
+          <line>Their bodies' strength should languish- which anon</line>
+          <line>By no uncertain tokens may be told-</line>
+          <line>Forthwith the sick change hue; grim leanness mars</line>
+          <line>Their visage; then from out the cells they bear</line>
+          <line>Forms reft of light, and lead the mournful pomp;</line>
+          <line>Or foot to foot about the porch they hang,</line>
+          <line>Or within closed doors loiter, listless all</line>
+          <line>From famine, and benumbed with shrivelling cold.</line>
+          <line>Then is a deep note heard, a long-drawn hum,</line>
+          <line>As when the chill South through the forests sighs,</line>
+          <line>As when the troubled ocean hoarsely booms</line>
+          <line>With back-swung billow, as ravening tide of fire</line>
+          <line>Surges, shut fast within the furnace-walls.</line>
+          <line>Then do I bid burn scented galbanum,</line>
+          <line>And, honey-streams through reeden troughs instilled,</line>
+          <line>Challenge and cheer their flagging appetite</line>
+          <line>To taste the well-known food; and it shall boot</line>
+          <line>To mix therewith the savour bruised from gall,</line>
+          <line>And rose-leaves dried, or must to thickness boiled</line>
+          <line>By a fierce fire, or juice of raisin-grapes</line>
+          <line>From Psithian vine, and with its bitter smell</line>
+          <line>Centaury, and the famed Cecropian thyme.</line>
+          <line>There is a meadow-flower by country folk</line>
+          <line>Hight star-wort; 'tis a plant not far to seek;</line>
+          <line>For from one sod an ample growth it rears,</line>
+          <line>Itself all golden, but girt with plenteous leaves,</line>
+          <line>Where glory of purple shines through violet gloom.</line>
+          <line>With chaplets woven hereof full oft are decked</line>
+          <line>Heaven's altars: harsh its taste upon the tongue;</line>
+          <line>Shepherds in vales smooth-shorn of nibbling flocks</line>
+          <line>By Mella's winding waters gather it.</line>
+          <line>The roots of this, well seethed in fragrant wine,</line>
+          <line>Set in brimmed baskets at their doors for food.</line>
+          <line>But if one's whole stock fail him at a stroke,</line>
+          <line>Nor hath he whence to breed the race anew,</line>
+          <line>'Tis time the wondrous secret to disclose</line>
+          <line>Taught by the swain of Arcady, even how</line>
+          <line>The blood of slaughtered bullocks oft has borne</line>
+          <line>Bees from corruption. I will trace me back</line>
+          <line>To its prime source the story's tangled thread,</line>
+          <line>And thence unravel. For where thy happy folk,</line>
+          <line>Canopus, city of Pellaean fame,</line>
+          <line>Dwell by the Nile's lagoon-like overflow,</line>
+          <line>And high o'er furrows they have called their own</line>
+          <line>Skim in their painted wherries; where, hard by,</line>
+          <line>The quivered Persian presses, and that flood</line>
+          <line>Which from the swart-skinned Aethiop bears him down,</line>
+          <line>Swift-parted into sevenfold branching mouths</line>
+          <line>With black mud fattens and makes Aegypt green,</line>
+          <line>That whole domain its welfare's hope secure</line>
+          <line>Rests on this art alone. And first is chosen</line>
+          <line>A strait recess, cramped closer to this end,</line>
+          <line>Which next with narrow roof of tiles atop</line>
+          <line>'Twixt prisoning walls they pinch, and add hereto</line>
+          <line>From the four winds four slanting window-slits.</line>
+          <line>Then seek they from the herd a steer, whose horns</line>
+          <line>With two years' growth are curling, and stop fast,</line>
+          <line>Plunge madly as he may, the panting mouth</line>
+          <line>And nostrils twain, and done with blows to death,</line>
+          <line>Batter his flesh to pulp i' the hide yet whole,</line>
+          <line>And shut the doors, and leave him there to lie.</line>
+          <line>But 'neath his ribs they scatter broken boughs,</line>
+          <line>With thyme and fresh-pulled cassias: this is done</line>
+          <line>When first the west winds bid the waters flow,</line>
+          <line>Ere flush the meadows with new tints, and ere</line>
+          <line>The twittering swallow buildeth from the beams.</line>
+          <line>Meanwhile the juice within his softened bones</line>
+          <line>Heats and ferments, and things of wondrous birth,</line>
+          <line>Footless at first, anon with feet and wings,</line>
+          <line>Swarm there and buzz, a marvel to behold;</line>
+          <line>And more and more the fleeting breeze they take,</line>
+          <line>Till, like a shower that pours from summer-clouds,</line>
+          <line>Forth burst they, or like shafts from quivering</line>
+          <line>string</line>
+          <line>When Parthia's flying hosts provoke the fray.</line>
+          <line>Say what was he, what God, that fashioned forth</line>
+          <line>This art for us, O Muses? of man's skill</line>
+          <line>Whence came the new adventure? From thy vale,</line>
+          <line>Peneian Tempe, turning, bee-bereft,</line>
+          <line>So runs the tale, by famine and disease,</line>
+          <line>Mournful the shepherd Aristaeus stood</line>
+          <line>Fast by the haunted river-head, and thus</line>
+          <line>With many a plaint to her that bare him cried:</line>
+          <line>"Mother, Cyrene, mother, who hast thy home</line>
+          <line>Beneath this whirling flood, if he thou sayest,</line>
+          <line>Apollo, lord of Thymbra, be my sire,</line>
+          <line>Sprung from the Gods' high line, why barest thou</line>
+          <line>me</line>
+          <line>With fortune's ban for birthright? Where is now</line>
+          <line>Thy love to me-ward banished from thy breast?</line>
+          <line>O! wherefore didst thou bid me hope for heaven?</line>
+          <line>Lo! even the crown of this poor mortal life,</line>
+          <line>Which all my skilful care by field and fold,</line>
+          <line>No art neglected, scarce had fashioned forth,</line>
+          <line>Even this falls from me, yet thou call'st me son.</line>
+          <line>Nay, then, arise! With thine own hands pluck up</line>
+          <line>My fruit-plantations: on the homestead fling</line>
+          <line>Pitiless fire; make havoc of my crops;</line>
+          <line>Burn the young plants, and wield the stubborn axe</line>
+          <line>Against my vines, if there hath taken the</line>
+          <line>Such loathing of my greatness." But that cry,</line>
+          <line>Even from her chamber in the river-deeps,</line>
+          <line>His mother heard: around her spun the nymphs</line>
+          <line>Milesian wool stained through with hyaline dye,</line>
+          <line>Drymo, Xantho, Ligea, Phyllodoce,</line>
+          <line>Their glossy locks o'er snowy shoulders shed,</line>
+          <line>Cydippe and Lycorias yellow-haired,</line>
+          <line>A maiden one, one newly learned even then</line>
+          <line>To bear Lucina's birth-pang. Clio, too,</line>
+          <line>And Beroe, sisters, ocean-children both,</line>
+          <line>Both zoned with gold and girt with dappled fell,</line>
+          <line>Ephyre and Opis, and from Asian meads</line>
+          <line>Deiopea, and, bow at length laid by,</line>
+          <line>Fleet-footed Arethusa. But in their midst</line>
+          <line>Fair Clymene was telling o'er the tale</line>
+          <line>Of Vulcan's idle vigilance and the stealth</line>
+          <line>Of Mars' sweet rapine, and from Chaos old</line>
+          <line>Counted the jostling love-joys of the Gods.</line>
+          <line>Charmed by whose lay, the while their woolly tasks</line>
+          <line>With spindles down they drew, yet once again</line>
+          <line>Smote on his mother's ears the mournful plaint</line>
+          <line>Of Aristaeus; on their glassy thrones</line>
+          <line>Amazement held them all; but Arethuse</line>
+          <line>Before the rest put forth her auburn head,</line>
+          <line>Peering above the wave-top, and from far</line>
+          <line>Exclaimed, "Cyrene, sister, not for naught</line>
+          <line>Scared by a groan so deep, behold! 'tis he,</line>
+          <line>Even Aristaeus, thy heart's fondest care,</line>
+          <line>Here by the brink of the Peneian sire</line>
+          <line>Stands woebegone and weeping, and by name</line>
+          <line>Cries out upon thee for thy cruelty."</line>
+          <line>To whom, strange terror knocking at her heart,</line>
+          <line>"Bring, bring him to our sight," the mother cried;</line>
+          <line>"His feet may tread the threshold even of Gods."</line>
+          <line>So saying, she bids the flood yawn wide and yield</line>
+          <line>A pathway for his footsteps; but the wave</line>
+          <line>Arched mountain-wise closed round him, and within</line>
+          <line>Its mighty bosom welcomed, and let speed</line>
+          <line>To the deep river-bed. And now, with eyes</line>
+          <line>Of wonder gazing on his mother's hall</line>
+          <line>And watery kingdom and cave-prisoned pools</line>
+          <line>And echoing groves, he went, and, stunned by that</line>
+          <line>Stupendous whirl of waters, separate saw</line>
+          <line>All streams beneath the mighty earth that glide,</line>
+          <line>Phasis and Lycus, and that fountain-head</line>
+          <line>Whence first the deep Enipeus leaps to light,</line>
+          <line>Whence father Tiber, and whence Anio's flood,</line>
+          <line>And Hypanis that roars amid his rocks,</line>
+          <line>And Mysian Caicus, and, bull-browed</line>
+          <line>'Twixt either gilded horn, Eridanus,</line>
+          <line>Than whom none other through the laughing plains</line>
+          <line>More furious pours into the purple sea.</line>
+          <line>Soon as the chamber's hanging roof of stone</line>
+          <line>Was gained, and now Cyrene from her son</line>
+          <line>Had heard his idle weeping, in due course</line>
+          <line>Clear water for his hands the sisters bring,</line>
+          <line>With napkins of shorn pile, while others heap</line>
+          <line>The board with dainties, and set on afresh</line>
+          <line>The brimming goblets; with Panchaian fires</line>
+          <line>Upleap the altars; then the mother spake,</line>
+          <line>"Take beakers of Maconian wine," she said,</line>
+          <line>"Pour we to Ocean." Ocean, sire of all,</line>
+          <line>She worships, and the sister-nymphs who guard</line>
+          <line>The hundred forests and the hundred streams;</line>
+          <line>Thrice Vesta's fire with nectar clear she dashed,</line>
+          <line>Thrice to the roof-top shot the flame and shone:</line>
+          <line>Armed with which omen she essayed to speak:</line>
+          <line>"In Neptune's gulf Carpathian dwells a seer,</line>
+          <line>Caerulean Proteus, he who metes the main</line>
+          <line>With fish-drawn chariot of two-footed steeds;</line>
+          <line>Now visits he his native home once more,</line>
+          <line>Pallene and the Emathian ports; to him</line>
+          <line>We nymphs do reverence, ay, and Nereus old;</line>
+          <line>For all things knows the seer, both those which</line>
+          <line>are</line>
+          <line>And have been, or which time hath yet to bring;</line>
+          <line>So willed it Neptune, whose portentous flocks,</line>
+          <line>And loathly sea-calves 'neath the surge he feeds.</line>
+          <line>Him first, my son, behoves thee seize and bind</line>
+          <line>That he may all the cause of sickness show,</line>
+          <line>And grant a prosperous end. For save by force</line>
+          <line>No rede will he vouchsafe, nor shalt thou bend</line>
+          <line>His soul by praying; whom once made captive, ply</line>
+          <line>With rigorous force and fetters; against these</line>
+          <line>His wiles will break and spend themselves in vain.</line>
+          <line>I, when the sun has lit his noontide fires,</line>
+          <line>When the blades thirst, and cattle love the shade,</line>
+          <line>Myself will guide thee to the old man's haunt,</line>
+          <line>Whither he hies him weary from the waves,</line>
+          <line>That thou mayst safelier steal upon his sleep.</line>
+          <line>But when thou hast gripped him fast with hand and</line>
+          <line>gyve,</line>
+          <line>Then divers forms and bestial semblances</line>
+          <line>Shall mock thy grasp; for sudden he will change</line>
+          <line>To bristly boar, fell tigress, dragon scaled,</line>
+          <line>And tawny-tufted lioness, or send forth</line>
+          <line>A crackling sound of fire, and so shake of</line>
+          <line>The fetters, or in showery drops anon</line>
+          <line>Dissolve and vanish. But the more he shifts</line>
+          <line>His endless transformations, thou, my son,</line>
+          <line>More straitlier clench the clinging bands, until</line>
+          <line>His body's shape return to that thou sawest,</line>
+          <line>When with closed eyelids first he sank to sleep."</line>
+          <line>So saying, an odour of ambrosial dew</line>
+          <line>She sheds around, and all his frame therewith</line>
+          <line>Steeps throughly; forth from his trim-combed locks</line>
+          <line>Breathed effluence sweet, and a lithe vigour leapt</line>
+          <line>Into his limbs. There is a cavern vast</line>
+          <line>Scooped in the mountain-side, where wave on wave</line>
+          <line>By the wind's stress is driven, and breaks far up</line>
+          <line>Its inmost creeks- safe anchorage from of old</line>
+          <line>For tempest-taken mariners: therewithin,</line>
+          <line>Behind a rock's huge barrier, Proteus hides.</line>
+          <line>Here in close covert out of the sun's eye</line>
+          <line>The youth she places, and herself the while</line>
+          <line>Swathed in a shadowy mist stands far aloof.</line>
+          <line>And now the ravening dog-star that burns up</line>
+          <line>The thirsty Indians blazed in heaven; his course</line>
+          <line>The fiery sun had half devoured: the blades</line>
+          <line>Were parched, and the void streams with droughty</line>
+          <line>jaws</line>
+          <line>Baked to their mud-beds by the scorching ray,</line>
+          <line>When Proteus seeking his accustomed cave</line>
+          <line>Strode from the billows: round him frolicking</line>
+          <line>The watery folk that people the waste sea</line>
+          <line>Sprinkled the bitter brine-dew far and wide.</line>
+          <line>Along the shore in scattered groups to feed</line>
+          <line>The sea-calves stretch them: while the seer himself,</line>
+          <line>Like herdsman on the hills when evening bids</line>
+          <line>The steers from pasture to their stall repair,</line>
+          <line>And the lambs' bleating whets the listening wolves,</line>
+          <line>Sits midmost on the rock and tells his tale.</line>
+          <line>But Aristaeus, the foe within his clutch,</line>
+          <line>Scarce suffering him compose his aged limbs,</line>
+          <line>With a great cry leapt on him, and ere he rose</line>
+          <line>Forestalled him with the fetters; he nathless,</line>
+          <line>All unforgetful of his ancient craft,</line>
+          <line>Transforms himself to every wondrous thing,</line>
+          <line>Fire and a fearful beast, and flowing stream.</line>
+          <line>But when no trickery found a path for flight,</line>
+          <line>Baffled at length, to his own shape returned,</line>
+          <line>With human lips he spake, "Who bade thee, then,</line>
+          <line>So reckless in youth's hardihood, affront</line>
+          <line>Our portals? or what wouldst thou hence?"- But he,</line>
+          <line>"Proteus, thou knowest, of thine own heart thou</line>
+          <line>knowest;</line>
+          <line>For thee there is no cheating, but cease thou</line>
+          <line>To practise upon me: at heaven's behest</line>
+          <line>I for my fainting fortunes hither come</line>
+          <line>An oracle to ask thee." There he ceased.</line>
+          <line>Whereat the seer, by stubborn force constrained,</line>
+          <line>Shot forth the grey light of his gleaming eyes</line>
+          <line>Upon him, and with fiercely gnashing teeth</line>
+          <line>Unlocks his lips to spell the fates of heaven:</line>
+          <line>"Doubt not 'tis wrath divine that plagues thee thus,</line>
+          <line>Nor light the debt thou payest; 'tis Orpheus' self,</line>
+          <line>Orpheus unhappy by no fault of his,</line>
+          <line>So fates prevent not, fans thy penal fires,</line>
+          <line>Yet madly raging for his ravished bride.</line>
+          <line>She in her haste to shun thy hot pursuit</line>
+          <line>Along the stream, saw not the coming death,</line>
+          <line>Where at her feet kept ward upon the bank</line>
+          <line>In the tall grass a monstrous water-snake.</line>
+          <line>But with their cries the Dryad-band her peers</line>
+          <line>Filled up the mountains to their proudest peaks:</line>
+          <line>Wailed for her fate the heights of Rhodope,</line>
+          <line>And tall Pangaea, and, beloved of Mars,</line>
+          <line>The land that bowed to Rhesus, Thrace no less</line>
+          <line>With Hebrus' stream; and Orithyia wept,</line>
+          <line>Daughter of Acte old. But Orpheus' self,</line>
+          <line>Soothing his love-pain with the hollow shell,</line>
+          <line>Thee his sweet wife on the lone shore alone,</line>
+          <line>Thee when day dawned and when it died he sang.</line>
+          <line>Nay to the jaws of Taenarus too he came,</line>
+          <line>Of Dis the infernal palace, and the grove</line>
+          <line>Grim with a horror of great darkness- came,</line>
+          <line>Entered, and faced the Manes and the King</line>
+          <line>Of terrors, the stone heart no prayer can tame.</line>
+          <line>Then from the deepest deeps of Erebus,</line>
+          <line>Wrung by his minstrelsy, the hollow shades</line>
+          <line>Came trooping, ghostly semblances of forms</line>
+          <line>Lost to the light, as birds by myriads hie</line>
+          <line>To greenwood boughs for cover, when twilight-hour</line>
+          <line>Or storms of winter chase them from the hills;</line>
+          <line>Matrons and men, and great heroic frames</line>
+          <line>Done with life's service, boys, unwedded girls,</line>
+          <line>Youths placed on pyre before their fathers' eyes.</line>
+          <line>Round them, with black slime choked and hideous</line>
+          <line>weed,</line>
+          <line>Cocytus winds; there lies the unlovely swamp</line>
+          <line>Of dull dead water, and, to pen them fast,</line>
+          <line>Styx with her ninefold barrier poured between.</line>
+          <line>Nay, even the deep Tartarean Halls of death</line>
+          <line>Stood lost in wonderment, and the Eumenides,</line>
+          <line>Their brows with livid locks of serpents twined;</line>
+          <line>Even Cerberus held his triple jaws agape,</line>
+          <line>And, the wind hushed, Ixion's wheel stood still.</line>
+          <line>And now with homeward footstep he had passed</line>
+          <line>All perils scathless, and, at length restored,</line>
+          <line>Eurydice to realms of upper air</line>
+          <line>Had well-nigh won, behind him following-</line>
+          <line>So Proserpine had ruled it- when his heart</line>
+          <line>A sudden mad desire surprised and seized-</line>
+          <line>Meet fault to be forgiven, might Hell forgive.</line>
+          <line>For at the very threshold of the day,</line>
+          <line>Heedless, alas! and vanquished of resolve,</line>
+          <line>He stopped, turned, looked upon Eurydice</line>
+          <line>His own once more. But even with the look,</line>
+          <line>Poured out was all his labour, broken the bond</line>
+          <line>Of that fell tyrant, and a crash was heard</line>
+          <line>Three times like thunder in the meres of hell.</line>
+          <line>'Orpheus! what ruin hath thy frenzy wrought</line>
+          <line>On me, alas! and thee? Lo! once again</line>
+          <line>The unpitying fates recall me, and dark sleep</line>
+          <line>Closes my swimming eyes. And now farewell:</line>
+          <line>Girt with enormous night I am borne away,</line>
+          <line>Outstretching toward thee, thine, alas! no more,</line>
+          <line>These helpless hands.' She spake, and suddenly,</line>
+          <line>Like smoke dissolving into empty air,</line>
+          <line>Passed and was sundered from his sight; nor him</line>
+          <line>Clutching vain shadows, yearning sore to speak,</line>
+          <line>Thenceforth beheld she, nor no second time</line>
+          <line>Hell's boatman brooks he pass the watery bar.</line>
+          <line>What should he do? fly whither, twice bereaved?</line>
+          <line>Move with what tears the Manes, with what voice</line>
+          <line>The Powers of darkness? She indeed even now</line>
+          <line>Death-cold was floating on the Stygian barge!</line>
+          <line>For seven whole months unceasingly, men say,</line>
+          <line>Beneath a skyey crag, by thy lone wave,</line>
+          <line>Strymon, he wept, and in the caverns chill</line>
+          <line>Unrolled his story, melting tigers' hearts,</line>
+          <line>And leading with his lay the oaks along.</line>
+          <line>As in the poplar-shade a nightingale</line>
+          <line>Mourns her lost young, which some relentless swain,</line>
+          <line>Spying, from the nest has torn unfledged, but she</line>
+          <line>Wails the long night, and perched upon a spray</line>
+          <line>With sad insistence pipes her dolorous strain,</line>
+          <line>Till all the region with her wrongs o'erflows.</line>
+          <line>No love, no new desire, constrained his soul:</line>
+          <line>By snow-bound Tanais and the icy north,</line>
+          <line>Far steppes to frost Rhipaean forever wed,</line>
+          <line>Alone he wandered, lost Eurydice</line>
+          <line>Lamenting, and the gifts of Dis ungiven.</line>
+          <line>Scorned by which tribute the Ciconian dames,</line>
+          <line>Amid their awful Bacchanalian rites</line>
+          <line>And midnight revellings, tore him limb from limb,</line>
+          <line>And strewed his fragments over the wide fields.</line>
+          <line>Then too, even then, what time the Hebrus stream,</line>
+          <line>Oeagrian Hebrus, down mid-current rolled,</line>
+          <line>Rent from the marble neck, his drifting head,</line>
+          <line>The death-chilled tongue found yet a voice to cry</line>
+          <line>'Eurydice! ah! poor Eurydice!'</line>
+          <line>With parting breath he called her, and the banks</line>
+          <line>From the broad stream caught up 'Eurydice!'"</line>
+          <line>So Proteus ending plunged into the deep,</line>
+          <line>And, where he plunged, beneath the eddying whirl</line>
+          <line>Churned into foam the water, and was gone;</line>
+          <line>But not Cyrene, who unquestioned thus</line>
+          <line>Bespake the trembling listener: "Nay, my son,</line>
+          <line>From that sad bosom thou mayst banish care:</line>
+          <line>Hence came that plague of sickness, hence the nymphs,</line>
+          <line>With whom in the tall woods the dance she wove,</line>
+          <line>Wrought on thy bees, alas! this deadly bane.</line>
+          <line>Bend thou before the Dell-nymphs, gracious powers:</line>
+          <line>Bring gifts, and sue for pardon: they will grant</line>
+          <line>Peace to thine asking, and an end of wrath.</line>
+          <line>But how to approach them will I first unfold-</line>
+          <line>Four chosen bulls of peerless form and bulk,</line>
+          <line>That browse to-day the green Lycaean heights,</line>
+          <line>Pick from thy herds, as many kine to match,</line>
+          <line>Whose necks the yoke pressed never: then for these</line>
+          <line>Build up four altars by the lofty fanes,</line>
+          <line>And from their throats let gush the victims' blood,</line>
+          <line>And in the greenwood leave their bodies lone.</line>
+          <line>Then, when the ninth dawn hath displayed its beams,</line>
+          <line>To Orpheus shalt thou send his funeral dues,</line>
+          <line>Poppies of Lethe, and let slay a sheep</line>
+          <line>Coal-black, then seek the grove again, and soon</line>
+          <line>For pardon found adore Eurydice</line>
+          <line>With a slain calf for victim."</line>
+          <line>No delay:</line>
+          <line>The self-same hour he hies him forth to do</line>
+          <line>His mother's bidding: to the shrine he came,</line>
+          <line>The appointed altars reared, and thither led</line>
+          <line>Four chosen bulls of peerless form and bulk,</line>
+          <line>With kine to match, that never yoke had known;</line>
+          <line>Then, when the ninth dawn had led in the day,</line>
+          <line>To Orpheus sent his funeral dues, and sought</line>
+          <line>The grove once more. But sudden, strange to tell</line>
+          <line>A portent they espy: through the oxen's flesh,</line>
+          <line>Waxed soft in dissolution, hark! there hum</line>
+          <line>Bees from the belly; the rent ribs overboil</line>
+          <line>In endless clouds they spread them, till at last</line>
+          <line>On yon tree-top together fused they cling,</line>
+          <line>And drop their cluster from the bending boughs.</line>
+          <line>So sang I of the tilth of furrowed fields,</line>
+          <line>Of flocks and trees, while Caesar's majesty</line>
+          <line>Launched forth the levin-bolts of war by deep</line>
+          <line>Euphrates, and bare rule o'er willing folk</line>
+          <line>Though vanquished, and essayed the heights of heaven.</line>
+          <line>I Virgil then, of sweet Parthenope</line>
+          <line>The nursling, wooed the flowery walks of peace</line>
+          <line>Inglorious, who erst trilled for shepherd-wights</line>
+          <line>The wanton ditty, and sang in saucy youth</line>
+          <line>Thee, Tityrus, 'neath the spreading beech tree's</line>
+          <line>shade.</line>
+        </stanza>
+      </poem>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="virgil-georgics-colophon">
+        <p xml:id="virgil-georgics-colophon-p-1">Author: Virgil</p>
+        <p xml:id="virgil-georgics-colophon-p-2">Written: 29 BCE</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

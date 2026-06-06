@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="isaeus-isaeus4">
+    <title>Nicostratus</title>
+    <chapter xml:id="isaeus4-nicostratus">
+      <title>Nicostratus</title>
+      <p xml:id="isaeus4-nicostratus-head-1">
+        <em>Nicostratus</em>
+      </p>
+      <p xml:id="isaeus4-nicostratus-p-2">By Isaeus</p>
+      <p xml:id="isaeus4-nicostratus-p-3">Translated by Edward Seymour Forster This work is only provided via the Perseus Project at Tufts University. You may begin reading the English translation as well as the Greek version and a Greek version with morphological links . If you have any questions about the Perseus Project texts in the Internet Classics Archive, including the Perseus Project copyright notice , please consult the help pages . Please direct any inquiries about the texts themselves to the Perseus Project Webmaster at webmaster@perseus.tufts.edu. © 1994-2009</p>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="isaeus-isaeus4-colophon">
+        <p xml:id="isaeus-isaeus4-colophon-p-1">Author: Isaeus</p>
+        <p xml:id="isaeus-isaeus4-colophon-p-2">Translated by Edward Seymour Forster</p>
+        <p xml:id="isaeus-isaeus4-colophon-p-3">From the Perseus Project</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

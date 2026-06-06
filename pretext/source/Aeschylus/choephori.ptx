@@ -1,0 +1,1544 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="aeschylus-choephori">
+    <title>The Choephori</title>
+    <chapter xml:id="choephori-the-choephori">
+      <title>The Choephori</title>
+      <poem xml:id="choephori-the-choephori-poem-1">
+        <stanza xml:id="choephori-the-choephori-stanza-1-1">
+          <line>Dramatis Personae</line>
+          <line>ORESTES, son of AGAMEMNON and CLYTEMNESTRA</line>
+          <line>CHORUS OF SLAVE WOMEN</line>
+          <line>ELECTRA, sister of ORESTES</line>
+          <line>A NURSE</line>
+          <line>CLYTEMNESTRA</line>
+          <line>AEGISTHUS</line>
+          <line>AN ATTENDANT</line>
+          <line>Scene By the tomb of Agamemnon near the palace in Argos. ORESTES and PYLADES enter, dressed as travellers. ORESTES carries two locks of hair in his hand.</line>
+          <line>ORESTES</line>
+          <line>Lord of the shades and patron of the realm</line>
+          <line>That erst my father swayed, list now my prayer,</line>
+          <line>Hermes, and save me with thine aiding arm,</line>
+          <line>Me who from banishment returning stand</line>
+          <line>On this my country; lo, my foot is set</line>
+          <line>On this grave-mound, and herald-like, as thou,</line>
+          <line>Once and again, I bid my father hear.</line>
+          <line>And these twin locks, from mine head shorn, I bring,</line>
+          <line>And one to Inachus the river-god,</line>
+          <line>My young life's nurturer, I dedicate,</line>
+          <line>And one in sign of mourning unfulfilled</line>
+          <line>I lay, though late, on this my father's grave.</line>
+          <line>For O my father, not beside thy corse</line>
+          <line>Stood I to wail thy death, nor was my hand</line>
+          <line>Stretched out to bear thee forth to burial.</line>
+          <line>What sight is yonder? what this woman-throng</line>
+          <line>Hitherward coming, by their sable garb</line>
+          <line>Made manifest as mourners? What hath chanced?</line>
+          <line>Doth some new sorrow hap within the home?</line>
+          <line>Or rightly may I deem that they draw near</line>
+          <line>Bearing libations, such as soothe the ire</line>
+          <line>Of dead men angered, to my father's grave?</line>
+          <line>Nay, such they are indeed; for I descry</line>
+          <line>Electra mine own sister pacing hither,</line>
+          <line>In moody grief conspicuous. Grant, O Zeus,</line>
+          <line>Grant me my father's murder to avenge-</line>
+          <line>Be thou my willing champion!</line>
+          <line>Pylades,</line>
+          <line>Pass we aside, till rightly I discern</line>
+          <line>Wherefore these women throng in suppliance.</line>
+          <line>PYLADES and ORESTES withdraw; the CHORUS enters bearing vessels for</line>
+          <line>libation; ELECTRA follows them; they pace slowly towards the tomb of</line>
+          <line>Agamemnon.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>strophe 1</line>
+          <line>Forth from the royal halls by high command</line>
+          <line>I bear libations for the dead.</line>
+          <line>Rings on my smitten breast my smiting hand,</line>
+          <line>And all my cheek is rent and red,</line>
+          <line>Fresh-furrowed by my nails, and all my soul</line>
+          <line>This many a day doth feed on cries of dole.</line>
+          <line>And trailing tatters of my vest,</line>
+          <line>In looped and windowed raggedness forlorn,</line>
+          <line>Hang rent around my breast,</line>
+          <line>Even as I, by blows of Fate most stern</line>
+          <line>Saddened and torn. antistrophe 1</line>
+          <line>Oracular thro' visions, ghastly clear,</line>
+          <line>Bearing a blast of wrath from realms below,</line>
+          <line>And stiffening each rising hair with dread,</line>
+          <line>Came out of dream-land Fear,</line>
+          <line>And, loud and awful, bade</line>
+          <line>The shriek ring out at midnight's witching hour,</line>
+          <line>And brooded, stern with woe,</line>
+          <line>Above the inner house, the woman's bower</line>
+          <line>And seers inspired did read the dream on oath,</line>
+          <line>Chanting aloud In realms below</line>
+          <line>The dead are wroth;</line>
+          <line>Against their slayers yet their ire doth glow. strophe</line>
+          <line>Therefore to bear this gift of graceless worth-</line>
+          <line>O Earth, my nursing mother!-</line>
+          <line>The woman god-accurs'd doth send me forth</line>
+          <line>Lest one crime bring another.</line>
+          <line>Ill is the very word to speak, for none</line>
+          <line>Can ransom or atone</line>
+          <line>For blood once shed and darkening the plain.</line>
+          <line>O hearth of woe and bane,</line>
+          <line>O state that low doth lie!</line>
+          <line>Sunless, accursed of men, the shadows brood</line>
+          <line>Above the home of murdered majesty. antistrophe</line>
+          <line>Rumour of might, unquestioned, unsubdued,</line>
+          <line>Pervading ears and soul of lesser men,</line>
+          <line>Is silent now and dead.</line>
+          <line>Yet rules a viler dread;</line>
+          <line>For bliss and power, however won,</line>
+          <line>As gods, and more than gods, dazzle our mortal ken.</line>
+          <line>Justice doth mark, with scales that swiftly</line>
+          <line>sway,</line>
+          <line>Some that are yet in light;</line>
+          <line>Others in interspace of day and night,</line>
+          <line>Till Fate arouse them, stay;</line>
+          <line>And some are lapped in night, where all things are undone strophe</line>
+          <line>On the life-giving lap of Earth</line>
+          <line>Blood hath flowed forth;</line>
+          <line>And now, the seed of vengeance, clots the plain-</line>
+          <line>Unmelting, uneffaced the stain.</line>
+          <line>And Ate tarries long, but at the last</line>
+          <line>The sinner's heart is cast</line>
+          <line>Into pervading, waxing pangs of pain. antistrophe</line>
+          <line>Lo, when man's force doth ope</line>
+          <line>The virgin doors, there is nor cure nor hope</line>
+          <line>For what is lost,-even so, I deem,</line>
+          <line>Though in one channel ran Earth's every stream,</line>
+          <line>Laving the hand defiled from murder's stain,</line>
+          <line>It were in vain. epode</line>
+          <line>And upon me-ah me!-the gods have laid</line>
+          <line>The woe that wrapped round Troy,</line>
+          <line>What time they led me down from home and kin</line>
+          <line>Unto a slave's employ-</line>
+          <line>The doom to bow the head</line>
+          <line>And watch our master's will</line>
+          <line>Work deeds of good and ill-</line>
+          <line>To see the headlong sway of force and sin,</line>
+          <line>And hold restrained the spirit's bitter hate,</line>
+          <line>Wailing the monarch's fruitless fate,</line>
+          <line>Hiding my face within my robe, and fain</line>
+          <line>Of tears, and chilled with frost of hidden pain.</line>
+          <line>ELECTRA</line>
+          <line>Handmaidens, orderers of the palace-halls,</line>
+          <line>Since at my side ye come, a suppliant train,</line>
+          <line>Companions of this offering, counsel me</line>
+          <line>As best befits the time: for I, who pour</line>
+          <line>Upon the grave these streams funereal,</line>
+          <line>With what fair word can I invoke my sire?</line>
+          <line>Shall I aver, Behold, I bear these gifts</line>
+          <line>From well-loved wife unto her well-loved lord,</line>
+          <line>When 'tis from her, my mother, that they come?</line>
+          <line>I dare not say it: of all words I fail</line>
+          <line>Wherewith to consecrate unto my sire</line>
+          <line>These sacrificial honours on his grave.</line>
+          <line>Or shall I speak this word, as mortals use-</line>
+          <line>Give back, to those who send these coronals,</line>
+          <line>Full recompense-of ills for acts malign?</line>
+          <line>Or shall I pour this draught for Earth to drink,</line>
+          <line>Sans word or reverence, as my sire was slain,</line>
+          <line>And homeward pass with unreverted eyes,</line>
+          <line>Casting the bowl away, as one who flings</line>
+          <line>The household cleansings to the common road?</line>
+          <line>Be art and part, O friends, in this my doubt,</line>
+          <line>Even as ye are in that one common hate</line>
+          <line>Whereby we live attended: fear ye not</line>
+          <line>The wrath of any man, nor hide your word</line>
+          <line>Within your breast: the day of death and doom</line>
+          <line>Awaits alike the freeman and the slave.</line>
+          <line>Speak, then, if aught thou know'st to aid us more.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>Thou biddest; I will speak my soul's thought</line>
+          <line>out,</line>
+          <line>Revering as a shrine thy father's grave.</line>
+          <line>ELECTRA</line>
+          <line>Say then thy say, as thou his tomb reverest.</line>
+          <line>LEADER</line>
+          <line>Speak solemn words to them that love, and pour.</line>
+          <line>ELECTRA</line>
+          <line>And of his kin whom dare I name as kind?</line>
+          <line>LEADER</line>
+          <line>Thyself; and next, whoe'er Aegisthus scorns.</line>
+          <line>ELECTRA</line>
+          <line>Then 'tis myself and thou, my prayer must name.</line>
+          <line>LEADER</line>
+          <line>Whoe'er they be, 'tis thine to know and name them.</line>
+          <line>ELECTRA</line>
+          <line>Is there no other we may claim as ours?</line>
+          <line>LEADER</line>
+          <line>Think of Orestes, though far-off he be.</line>
+          <line>ELECTRA</line>
+          <line>Right well in this too hast thou schooled my thought.</line>
+          <line>LEADER</line>
+          <line>Mindfully, next, on those who shed the blood-</line>
+          <line>ELECTRA</line>
+          <line>Pray on them what? expound, instruct my doubt.</line>
+          <line>LEADER</line>
+          <line>This: Upon them some god or mortal come-</line>
+          <line>ELECTRA</line>
+          <line>As judge or as avenger? speak thy thought.</line>
+          <line>LEADER</line>
+          <line>Pray in set terms, Who shall the slayer slay.</line>
+          <line>ELECTRA</line>
+          <line>Beseemeth it to ask such boon of heaven?</line>
+          <line>LEADER</line>
+          <line>How not, to wreak a wrong upon a foe?</line>
+          <line>ELECTRA</line>
+          <line>praying at the tomb</line>
+          <line>O mighty Hermes, warder of the shades,</line>
+          <line>Herald of upper and of under world,</line>
+          <line>Proclaim and usher down my prayer's appeal</line>
+          <line>Unto the gods below, that they with eyes</line>
+          <line>Watchful behold these halls. my sire's of old-</line>
+          <line>And unto Earth, the mother of all things,</line>
+          <line>And loster-nurse, and womb that takes their seed.</line>
+          <line>Lo, I that pour these draughts for men now dead,</line>
+          <line>Call on my father, who yet holds in ruth</line>
+          <line>Me and mine own Orestes, Father, speak-</line>
+          <line>How shall thy children rule thine halls again?</line>
+          <line>Homeless we are and sold; and she who sold</line>
+          <line>Is she who bore us; and the price she took</line>
+          <line>Is he who joined with her to work thy death,</line>
+          <line>Aegisthus, her new lord. Behold me here</line>
+          <line>Brought down to slave's estate, and far away</line>
+          <line>Wanders Orestes, banished from the wealth</line>
+          <line>That once was thine, the profit of thy care,</line>
+          <line>Whereon these revel in a shameful joy.</line>
+          <line>Father, my prayer is said; 'tis thine to hear-</line>
+          <line>Grant that some fair fate bring Orestes home,</line>
+          <line>And unto me grant these-a purer soul</line>
+          <line>Than is my mother's, a more stainless hand.</line>
+          <line>These be my prayers for us; for thee, O sire,</line>
+          <line>I cry that one may come to smite thy fops,</line>
+          <line>And that the slayers may in turn be slain.</line>
+          <line>Cursed is their prayer, and thus I bar its path,</line>
+          <line>Praying mine own, a counter-curse on them.</line>
+          <line>And thou, send up to us the righteous boon</line>
+          <line>For which we pray; thine aids be heaven and earth,</line>
+          <line>And justice guide the right to victory.</line>
+          <line>To the CHORUS</line>
+          <line>Thus have I prayed, and thus I shed these streams,</line>
+          <line>And follow ye the wont, and as with flowers</line>
+          <line>Crown ye with many a tear and cry the dirge</line>
+          <line>Your lips ring out above the dead man's grave.</line>
+          <line>She pours the libations.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Woe, woe, woe!</line>
+          <line>Let the teardrop fall, plashing on the ground</line>
+          <line>Where our lord lies low:</line>
+          <line>Fall and cleanse away the cursed libation's stair.,</line>
+          <line>Shed on this grave-mound,</line>
+          <line>Fenced wherein together, gifts of good or bane</line>
+          <line>From the dead are found.</line>
+          <line>Lord of Argos, hearken!</line>
+          <line>Though around thee darken</line>
+          <line>Mist of death and hell, arise and hear</line>
+          <line>Hearken and awaken to our cry of woe!</line>
+          <line>Who with might of spear</line>
+          <line>Shall our home deliver?</line>
+          <line>Who like Ares bend until it quiver,</line>
+          <line>Bend the northern bow?</line>
+          <line>Who with hand upon the hilt himself will thrust with</line>
+          <line>glaive,</line>
+          <line>Thrust and slay and save?</line>
+          <line>ELECTRA</line>
+          <line>Lo! the earth drinks them, to my sire they pass-</line>
+          <line>She notices the locks of ORESTES.</line>
+          <line>Learn ye with me of this thing new and strange.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>Speak thou; my breast doth palpitate with fear.</line>
+          <line>ELECTRA</line>
+          <line>I see upon the tomb a curl new shorn.</line>
+          <line>LEADER</line>
+          <line>Shorn from wnat man or what deep-girded maid?</line>
+          <line>ELECTRA</line>
+          <line>That may he, guess who will; the sign is plain.</line>
+          <line>LEADER</line>
+          <line>Let me learn this of thee; let youth prompt age.</line>
+          <line>ELECTRA</line>
+          <line>None is there here but I, to clip such gift.</line>
+          <line>LEADER</line>
+          <line>For they who thus should mourn him hate him sore.</line>
+          <line>ELECTRA</line>
+          <line>And lo! in truth the hair exceeding like-</line>
+          <line>LEADER</line>
+          <line>Like to what locks and whose? instruct me that.</line>
+          <line>ELECTRA</line>
+          <line>Like unto those my father's children wear.</line>
+          <line>LEADER</line>
+          <line>Then is this lock Orestes' secret gift?</line>
+          <line>ELECTRA</line>
+          <line>Most like it is unto the curls he wore.</line>
+          <line>LEADER</line>
+          <line>Yet how dared he to come unto his home?</line>
+          <line>ELECTRA</line>
+          <line>He hath but sent it, clipt to mourn his sire.</line>
+          <line>LEADER</line>
+          <line>It is a sorrow grievous as his death,</line>
+          <line>That he should live yet never dare return.</line>
+          <line>ELECTRA</line>
+          <line>Yea, and my heart o'erflows with gall of</line>
+          <line>grief,</line>
+          <line>And I am pierced as with a cleaving dart;</line>
+          <line>Like to the first drops after drought, my tears</line>
+          <line>Fall down at will, a bitter bursting tide,</line>
+          <line>As on this lock I gaze; I cannot deem</line>
+          <line>That any Argive save Orestes' self</line>
+          <line>Was ever lord thereof; nor, well I wot,</line>
+          <line>Hath she, the murd'ress, shorn and laid this lock</line>
+          <line>To mourn him whom she slew-my mother she,</line>
+          <line>Bearing no mother's heart, but to her race</line>
+          <line>A loathing spirit, loathed itself of heaven!</line>
+          <line>Yet to affirm, as utterly made sure,</line>
+          <line>That this adornment cometh of the hand</line>
+          <line>Of mine Orestes, brother of my soul,</line>
+          <line>I may not venture, yet hope flatters fair!</line>
+          <line>Ah well-a-day, that this dumb hair had voice</line>
+          <line>To glad mine ears, as might a messenger,</line>
+          <line>Bidding me sway no more 'twixt fear and hope,</line>
+          <line>Clearly commanding, Cast me hence away,</line>
+          <line>Clipped was I from some head thou lovest not;</line>
+          <line>Or, I am kin to thee, and here, as thou,</line>
+          <line>I come to weep and deck our father's grave.</line>
+          <line>Aid me, ye gods! for well indeed ye know</line>
+          <line>How in the gale and counter-gale of doubt,</line>
+          <line>Like to the seaman's bark, we whirl and stray.</line>
+          <line>But, if God will our life, how strong shall spring,</line>
+          <line>From seed how small, the new tree of our home!-</line>
+          <line>Lo ye, a second sign-these footsteps, looks-</line>
+          <line>Like to my own, a corresponsive print;</line>
+          <line>And look, another footmark,-this his own,</line>
+          <line>And that the foot of one who walked with him.</line>
+          <line>Mark, how the heel and tendons' print combine,</line>
+          <line>Measured exact, with mine coincident!</line>
+          <line>Alas, for doubt and anguish rack my mind.</line>
+          <line>ORESTES and PYLADES enter suddenly.</line>
+          <line>ORESTES</line>
+          <line>Pray thou, in gratitude for prayers fulfilled,</line>
+          <line>Fair fall the rest of what I ask of heaven.</line>
+          <line>ELECTRA</line>
+          <line>Wherefore? what win I from the gods by prayer?</line>
+          <line>ORESTES</line>
+          <line>This, that thine eyes behold thy heart's desire.</line>
+          <line>ELECTRA</line>
+          <line>On whom of mortals know'st thou that I call?</line>
+          <line>ORESTES</line>
+          <line>I know thy yearning for Orestes deep.</line>
+          <line>ELECTRA</line>
+          <line>Say then, wherein event hath crowned my prayer?</line>
+          <line>ORESTES</line>
+          <line>I, I am he; seek not one more akin.</line>
+          <line>ELECTRA</line>
+          <line>Some fraud, O stranger, weavest thou for me?</line>
+          <line>ORESTES</line>
+          <line>Against myself I weave it, if I weave.</line>
+          <line>ELECTRA</line>
+          <line>Ah, thou hast mind to mock me in my woel</line>
+          <line>ORESTES</line>
+          <line>'Tis at mine own I mock then, mocking thine.</line>
+          <line>ELECTRA</line>
+          <line>Speak I with thee then as Orestes' self?</line>
+          <line>ORESTES</line>
+          <line>My very face thou see'st and know'st me</line>
+          <line>not,</line>
+          <line>And yet but now, when thou didst see the lock</line>
+          <line>Shorn for my father's grave, and when thy quest</line>
+          <line>Was eager on the footprints I had made,</line>
+          <line>Even I, thy brother, shaped and sized as thou,</line>
+          <line>Fluttered thy spirit, as at sight of me!</line>
+          <line>Lay now this ringlet whence 'twas shorn, and judge,</line>
+          <line>And look upon this robe, thine own hands' work,</line>
+          <line>The shuttle-prints, the creature wrought thereon-</line>
+          <line>Refrain thyself, nor prudence lose in joy,</line>
+          <line>For well I wot, our kin are less than kind.</line>
+          <line>ELECTRA</line>
+          <line>O thou that art unto our father's home</line>
+          <line>Love, grief and hope, for thee the tears ran down,</line>
+          <line>For thee, the son, the saviour that should be;</line>
+          <line>Trust thou thine arm and win thy father's halls!</line>
+          <line>O aspect sweet of fourfold love to me,</line>
+          <line>Whom upon thee the heart's constraint bids cal</line>
+          <line>As on my father, and the claim of love</line>
+          <line>From me unto my mother turns to thee,</line>
+          <line>For she is very hate; to thee too turns</line>
+          <line>What of my heart went out to her who died</line>
+          <line>A ruthless death upon the altar-stone;</line>
+          <line>And for myself I love thee-thee that wast</line>
+          <line>A brother leal, sole stay of love to me.</line>
+          <line>Now by thy side be strength and right, and Zeus</line>
+          <line>Saviour almighty, stand to aid the twain!</line>
+          <line>ORESTES</line>
+          <line>Zeus, Zeus! look down on our estate and</line>
+          <line>us,</line>
+          <line>The orphaned brood of him, our eagle-sire,</line>
+          <line>Whom to his death a fearful serpent brought,</line>
+          <line>Enwinding him in coils; and we, bereft</line>
+          <line>And foodless, sink with famine, all too weak</line>
+          <line>To bear unto the eyrie, as he bore,</line>
+          <line>Such quarry as he slew. Lo! I and she,</line>
+          <line>Electra, stand before thee, fatherless,</line>
+          <line>And each alike cast out and homeless made.</line>
+          <line>ELECTRA</line>
+          <line>And if thou leave to death the brood of</line>
+          <line>him</line>
+          <line>Whose altar blazed for thee, whose reverence</line>
+          <line>Was thine, all thine,-whence, in the after years,</line>
+          <line>Shall any hand like his adorn thy shrine</line>
+          <line>With sacrifice of flesh? the eaglets slain,</line>
+          <line>Thou wouldst not have a messenger to bear</line>
+          <line>Thine omens, once so clear, to mortal men;</line>
+          <line>So, if this kingly stock be withered all,</line>
+          <line>None on high festivals will fend thy shrine.</line>
+          <line>Stoop thou to raise us! strong the race shall grow,</line>
+          <line>Though puny now it seem, and fallen low.</line>
+          <line>LEADER</line>
+          <line>O children, saviours of your father's home,</line>
+          <line>Beware ye of your words, lest one should hear</line>
+          <line>And bear them, for the tongue hath lust to tell,</line>
+          <line>Unto our masters-whom God grant to me</line>
+          <line>In pitchy reek of fun'ral flame to seel</line>
+          <line>ORESTES</line>
+          <line>Nay, mighty is Apollo's oracle</line>
+          <line>And shall not fail me, whom it bade to pass</line>
+          <line>Thro' all this peril; clear the voice rang out</line>
+          <line>With many warnings, sternly threatening</line>
+          <line>To my hot heart the wintry chill of pain,</line>
+          <line>Unless upon the slayers of my sire</line>
+          <line>I pressed for vengeance: this the god's command-</line>
+          <line>That I, in ire for home and wealth despoiled,</line>
+          <line>Should with a craft like theirs the slayers slay:</line>
+          <line>Else with my very life I should atone</line>
+          <line>This deed undone, in many a ghastly wise.</line>
+          <line>For he proclaimed unto the ears of men</line>
+          <line>That offerings, poured to angry powers of death,</line>
+          <line>Exude again, unless their will be done,</line>
+          <line>As grim disease on those that poured them forth-</line>
+          <line>As leprous ulcers mounting on the flesh</line>
+          <line>And with fell fangs corroding what of old</line>
+          <line>Wore natural form; and on the brow arise</line>
+          <line>White poisoned hairs, the crown of this disease.</line>
+          <line>He spake moreover of assailing fiends</line>
+          <line>Empowered to quit on me my father's blood,</line>
+          <line>Wreaking their wrath on me, what time in night</line>
+          <line>Beneath shut lids the spirit's eye sees clear.</line>
+          <line>The dart that flies in darkness, sped from hell</line>
+          <line>By spirits of the murdered dead who call</line>
+          <line>Unto their kin for vengeance, formless fear,</line>
+          <line>The night-tide's visitant, and madness' curse</line>
+          <line>Should drive and rack me; and my tortured frame</line>
+          <line>Should be chased forth from man's community</line>
+          <line>As with the brazen scorpions of the scourge.</line>
+          <line>For me and such as me no lustral bowl</line>
+          <line>Should stand, no spilth of wine be poured to God</line>
+          <line>For me, and wrath unseen of my dead sire</line>
+          <line>Should drive me from the shrine; no man should dare</line>
+          <line>To take me to his hearth, nor dwell with me:</line>
+          <line>Slow, friendless, cursed of all should be mine end,</line>
+          <line>And pitiless horror wind me for the grave.</line>
+          <line>This spake the god-this dare I disobey?</line>
+          <line>Yea, though I dared, the deed must yet be done;</line>
+          <line>For to that end diverse desires combine,-</line>
+          <line>The god's behest, deep grief for him who died,</line>
+          <line>And last, the grievous blank of wealth despoiled-</line>
+          <line>All these weigh on me, urge that Argive men,</line>
+          <line>Minions of valour, who with soul of fire</line>
+          <line>Did make of fenced Troy a ruinous heap,</line>
+          <line>Be not left slaves to two and each a woman!</line>
+          <line>For he, the man, wears woman's heart; if not,</line>
+          <line>Soon shall he know, confronted by a man.</line>
+          <line>ORESTES, ELECTRA, and the CHORUS gather round the tomb of Agamemnon.</line>
+          <line>The following lines are chanted responsively.</line>
+          <line>CHORUS</line>
+          <line>Mighty Fates, on you we call!</line>
+          <line>Bid the will of Zeus ordain</line>
+          <line>Power to those, to whom again</line>
+          <line>Justice turns with hand and aid!</line>
+          <line>Grievous was the prayer one made</line>
+          <line>Grievous let the answer fall!</line>
+          <line>Where the mighty doom is set,</line>
+          <line>Justice claims aloud her debt.</line>
+          <line>Who in blood hath dipped the steel,</line>
+          <line>Deep in blood her meed shall feel</line>
+          <line>List an immemorial word-</line>
+          <line>Whosoe'er shall take the sword</line>
+          <line>Shall perish by the sword.</line>
+          <line>ORESTES</line>
+          <line>Father, unblest in death, O father mine!</line>
+          <line>What breath of word or deed</line>
+          <line>Can I waft on thee from this far confine</line>
+          <line>Unto thy lowly bed,-</line>
+          <line>Waft upon thee, in midst of darkness lying,</line>
+          <line>Hope's counter-gleam of fire?</line>
+          <line>Yet the loud dirge of praise brings grace undying</line>
+          <line>Unto each parted sire.</line>
+          <line>CHORUS</line>
+          <line>O child, the spirit of the dead,</line>
+          <line>Altho' upon his flesh have fed</line>
+          <line>The grim teeth of the flame,</line>
+          <line>Is quelled not; after many days</line>
+          <line>The sting of wrath his soul shall raise,</line>
+          <line>A vengeance to reclaim!</line>
+          <line>To the dead rings loud our cry-</line>
+          <line>Plain the living's treachery-</line>
+          <line>Swelling, shrilling, urged on high,</line>
+          <line>The vengeful dirge, for parents slain,</line>
+          <line>Shall strive and shall attain.</line>
+          <line>ELECTRA</line>
+          <line>Hear me too, even me, O father, hear!</line>
+          <line>Not by one child alone these groans, these tears are</line>
+          <line>shed</line>
+          <line>Upon thy sepulchre.</line>
+          <line>Each, each, where thou art lowly laid,</line>
+          <line>Stands, a suppliant, homeless made:</line>
+          <line>Ah, and all is full of ill,</line>
+          <line>Comfort is there none to say!</line>
+          <line>Strive and wrestle as we may,</line>
+          <line>Still stands doom invincible.</line>
+          <line>CHORUS</line>
+          <line>Nay, if so he will, the god</line>
+          <line>Still our tears to joy can turn.</line>
+          <line>He can bid a triumph-ode</line>
+          <line>Drown the dirge beside this urn;</line>
+          <line>He to kingly halls can greet</line>
+          <line>The child restored, the homeward-guided feet.</line>
+          <line>ORESTES</line>
+          <line>Ah my father! hadst thou lain</line>
+          <line>Under Ilion's wall,</line>
+          <line>By some Lycian spearman slain,</line>
+          <line>Thou hadst left in this thine hall</line>
+          <line>Honour; thou hadst wrought for us</line>
+          <line>Fame and life most glorious.</line>
+          <line>Over-seas if thou hadst died,</line>
+          <line>Heavily had stood thy tomb,</line>
+          <line>Heaped on high; but, quenched in pride,</line>
+          <line>Grief were light unto thy home.</line>
+          <line>CHORUS</line>
+          <line>Loved and honoured hadst thou lain</line>
+          <line>By the dead that nobly fell,</line>
+          <line>In the under-world again,</line>
+          <line>Where are throned the kings of hell,</line>
+          <line>Full of sway, adorable</line>
+          <line>Thou hadst stood at their right hand-</line>
+          <line>Thou that wert, in mortal land,</line>
+          <line>By Fate's ordinance and law,</line>
+          <line>King of kings who bear the crown</line>
+          <line>And the staff, to which in awe</line>
+          <line>Mortal men bow down.</line>
+          <line>ELECTRA</line>
+          <line>Nay, O father, I were fain</line>
+          <line>Other fate had fallen on thee.</line>
+          <line>Ill it were if thou hadst lain</line>
+          <line>One among the common slain,</line>
+          <line>Fallen by Scamander's side-</line>
+          <line>Those who slew thee there should be!</line>
+          <line>Then, untouched by slavery,</line>
+          <line>We had heard as from afar</line>
+          <line>Deaths of those who should have died</line>
+          <line>'Mid the chance of war.</line>
+          <line>CHORUS</line>
+          <line>O child, forbear! things all too high thou</line>
+          <line>sayest.</line>
+          <line>Easy, but vain, thy cry!</line>
+          <line>A boon above all gold is that thou prayest,</line>
+          <line>An unreached destiny,</line>
+          <line>As of the blessed land that far aloof</line>
+          <line>Beyond the north wind lies;</line>
+          <line>Yet doth your double prayer ring loud reproof;</line>
+          <line>A double scourge of sighs</line>
+          <line>Awakes the dead; th' avengers rise, though late;</line>
+          <line>Blood stains the guilty pride</line>
+          <line>Of the accursed who rule on earth, and Fate</line>
+          <line>Stands on the children's side.</line>
+          <line>ELECTRA</line>
+          <line>That hath sped thro' mine ear, like a shaft from a</line>
+          <line>bow!</line>
+          <line>Zeus, Zeus! it is thou who dost send from below</line>
+          <line>A doom on the desperate ere long</line>
+          <line>On a mother a father shall visit his wrong.</line>
+          <line>CHORUS</line>
+          <line>Be it mine to upraise thro' the reek of the</line>
+          <line>pyre</line>
+          <line>The chant of delight, while the funeral fire</line>
+          <line>Devoureth the corpse of a man that is slain</line>
+          <line>And a woman laid low!</line>
+          <line>For who bids me conceal it! out-rending control,</line>
+          <line>Blows ever the stern blast of hate thro' my soul,</line>
+          <line>And before me a vision of wrath and of bane</line>
+          <line>Flits and waves to and fro.</line>
+          <line>ORESTES</line>
+          <line>Zeus, thou alone to us art parent now.</line>
+          <line>Smite with a rending blow</line>
+          <line>Upon their heads, and bid the land be well:</line>
+          <line>Set right where wrong hath stood; and thou give</line>
+          <line>ear,</line>
+          <line>O Earth, unto my prayer-</line>
+          <line>Yea, hear O mother Earth, and monarchy of hell</line>
+          <line>CHORUS</line>
+          <line>Nay, the law is sternly set-</line>
+          <line>Blood-drops shed upon the ground</line>
+          <line>Plead for other bloodshed yet;</line>
+          <line>Loud the call of death doth sound,</line>
+          <line>Calling guilt of olden time,</line>
+          <line>A Fury, crowning crime with crime.</line>
+          <line>ELECTRA</line>
+          <line>Where, where are ye, avenging powers,</line>
+          <line>Puissant Furies of the slain?</line>
+          <line>Behold the relics of the race</line>
+          <line>Of Atreus, thrust from pride of place!</line>
+          <line>O Zeus, what borne henceforth is ours,</line>
+          <line>What refuge to attain?</line>
+          <line>CHORUS</line>
+          <line>Lo, at your wail my heart throbs, wildly</line>
+          <line>stirred;</line>
+          <line>Now am I lorn with sadness,</line>
+          <line>Darkened in all my soul, to hear your sorrow's word</line>
+          <line>Anon to hope, the seat of strength, I rise,-</line>
+          <line>She, thrusting grief away, lifts up mine eyes</line>
+          <line>To the new dawn of gladness.</line>
+          <line>ORESTES</line>
+          <line>Skills it to tell of aught save wrong on</line>
+          <line>wrong,</line>
+          <line>Wrought by our mother's deed?</line>
+          <line>Though now she fawn for pardon, sternly strong</line>
+          <line>Standeth our wrath, and will nor hear nor heed.</line>
+          <line>Her children's soul is wolfish, born from hers,</line>
+          <line>And softens not by prayers.</line>
+          <line>CHORUS</line>
+          <line>I dealt upon my breast the blow</line>
+          <line>That Asian mourning women know;</line>
+          <line>Wails from-my breast the fun'ral cry,</line>
+          <line>The Cissian weeping melody;</line>
+          <line>Stretched rendingly forth, to tatter and tear,</line>
+          <line>My clenched hands wander, here and there,</line>
+          <line>From head to breast; distraught with blows</line>
+          <line>Throb dizzily my brows.</line>
+          <line>ELECTRA</line>
+          <line>Aweless in hate, O mother, sternly brave!</line>
+          <line>As in a foeman's grave</line>
+          <line>Thou laid'st in earth a king, but to the bier</line>
+          <line>No citizen drew nears-</line>
+          <line>Thy husband, thine, yet for his obsequies,</line>
+          <line>Thou bad'st no wail arise!</line>
+          <line>ORESTES</line>
+          <line>Alas, the shameful burial thou dost speak!</line>
+          <line>Yet I the vengeance of his shame will wreak-</line>
+          <line>That do the gods command!</line>
+          <line>That shall achieve mine hand!</line>
+          <line>Grant me to thrust her life away, and</line>
+          <line>Will dare to die!</line>
+          <line>CHORUS</line>
+          <line>List thou the deed! Hewn down and foully</line>
+          <line>torn,</line>
+          <line>He to the tomb was borne;</line>
+          <line>Yea, by her hand, the deed who wrought,</line>
+          <line>With like dishonour to the grave was brought,</line>
+          <line>And by her hand she strove, with strong desire,</line>
+          <line>Thy life to crush, O child, by murder of thy sire:</line>
+          <line>Bethink thee, hearing, of the shame, the pain</line>
+          <line>Wherewith that sire was slain!</line>
+          <line>ELECTRA</line>
+          <line>Yea, such was the doom of my sire; well-a-day,</line>
+          <line>I was thrust from his side,-</line>
+          <line>As a dog from the chamber they thrust me away,</line>
+          <line>And in place of my laughter rose sobbing and tears,</line>
+          <line>As in darkness I lay.</line>
+          <line>O father, if this word can pass to thine ears,</line>
+          <line>To thy soul let it reach and abide!</line>
+          <line>CHORUS</line>
+          <line>Let it pass, let it pierce, through the sense of thine</line>
+          <line>ear,</line>
+          <line>To thy soul, where in silence it waiteth the hour!</line>
+          <line>The past is accomplished; but rouse thee to hear</line>
+          <line>What the future prepareth; awake and appear,</line>
+          <line>Our champion, in wrath and in power!</line>
+          <line>ORESTES</line>
+          <line>O father, to thy loved ones come in aid.</line>
+          <line>ELECTRA</line>
+          <line>With tears I call on thee.</line>
+          <line>CHORUS</line>
+          <line>Listen and rise to light!</line>
+          <line>Be thou with us, be thou against the foe!</line>
+          <line>Swiftly this cry arises-even so</line>
+          <line>Pray we, the loyal band, as we have prayed!</line>
+          <line>ORESTES</line>
+          <line>Let their might meet with mine, and their right with my right.</line>
+          <line>ELECTRA</line>
+          <line>O ye Gods, it is yours to decree.</line>
+          <line>CHORUS</line>
+          <line>Ye call unto the dead; I quake to hear.</line>
+          <line>Fate is ordained of old, and shall fulfil your prayer.</line>
+          <line>ELECTRA</line>
+          <line>Alas, the inborn curse that haunts our home,</line>
+          <line>Of Ate's bloodstained scourge the tuneless sound!</line>
+          <line>Alas, the deep insufferable doom,</line>
+          <line>The stanchless wound!</line>
+          <line>ORESTES</line>
+          <line>It shall be stanched, the task is ours,-</line>
+          <line>Not by a stranger's, but by kindred hand,</line>
+          <line>Shall be chased forth the blood-fiend of our land.</line>
+          <line>Be this our spoken spell, to call Earth's nether powers!</line>
+          <line>CHORUS</line>
+          <line>Lords of a dark eternity,</line>
+          <line>To you has come the children's cry,</line>
+          <line>Send up from hell, fulfil your aid</line>
+          <line>To them who prayed.</line>
+          <line>The chant is concluded.</line>
+          <line>ORESTES</line>
+          <line>O father, murdered in unkingly wise,</line>
+          <line>Fulfil my prayer, grant me thine halls to sway.</line>
+          <line>ELECTRA</line>
+          <line>To me, too, grant this boon-dark death to</line>
+          <line>deal</line>
+          <line>Unto Aegisthus, and to 'scape my doom.</line>
+          <line>ORESTES</line>
+          <line>So shall the rightful feasts that mortals</line>
+          <line>pay</line>
+          <line>Be set for thee; else, not for thee shall rise</line>
+          <line>The scented reek of altars fed with flesh,</line>
+          <line>But thou shalt lie dishonoured: hear thou me!</line>
+          <line>ELECTRA</line>
+          <line>I too, from my full heritage restored,</line>
+          <line>Will pour the lustral streams, what time I pass</line>
+          <line>Forth as a bride from these paternal halls,</line>
+          <line>And honour first, beyond all graves, thy tomb.</line>
+          <line>ORESTES</line>
+          <line>Earth, send my sire to fend me in the fight!</line>
+          <line>ELECTRA</line>
+          <line>Give fair-faced fortune, O Persephone!</line>
+          <line>ORESTES</line>
+          <line>Bethink thee, father, in the laver slain-</line>
+          <line>ELECTRA</line>
+          <line>Bethink thee of the net they handselled for thee!</line>
+          <line>ORESTES</line>
+          <line>Bonds not of brass ensnared thee, father mine.</line>
+          <line>ELECTRA</line>
+          <line>Yea, the ill craft of an enfolding robe.</line>
+          <line>ORESTES</line>
+          <line>By this our bitter speech arise, O sire!</line>
+          <line>ELECTRA</line>
+          <line>Raise thou thine head at love's last, dearest call!</line>
+          <line>ORESTES</line>
+          <line>Yea, speed forth Right to aid thy kinsmen's</line>
+          <line>cause;</line>
+          <line>Grip for grip, let them grasp the foe, if thou</line>
+          <line>Willest in triumph to forget thy fall.</line>
+          <line>ELECTRA</line>
+          <line>Hear me, O father, once again hear me.</line>
+          <line>Lo! at thy tomb, two fledglings of thy brood-</line>
+          <line>A man-child and a maid; hold them in ruth,</line>
+          <line>Nor wipe them out, the last of Pelops' line.</line>
+          <line>For while they live, thou livest from the dead;</line>
+          <line>Children are memory's voices, and preserve</line>
+          <line>The dead from wholly dying: as a net</line>
+          <line>Is ever by the buoyant corks upheld,</line>
+          <line>Which save the flax-mesh, in the depth submerged.</line>
+          <line>Listen, this wail of ours doth rise for thee,</line>
+          <line>And as thou heedest it thyself art saved.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>In sooth, a blameless prayer ye spake at</line>
+          <line>length-</line>
+          <line>The tomb's requital for its dirge denied:</line>
+          <line>Now, for the rest, as thou art fixed to do,</line>
+          <line>Take fortune by the hand and work thy will.</line>
+          <line>ORESTES</line>
+          <line>The doom is set; and yet I fain would ask-</line>
+          <line>Not swerving from the course of my resolve,-</line>
+          <line>Wherefore she sent these offerings, and why</line>
+          <line>She softens all too late her cureless deed?</line>
+          <line>An idle boon it was, to send them here</line>
+          <line>Unto the dead who recks not of such gifts.</line>
+          <line>I cannot guess her thought, but well I ween</line>
+          <line>Such gifts are skilless to atone such crime.</line>
+          <line>Be blood once spilled, an idle strife he strives</line>
+          <line>Who seeks with other wealth or wine outpoured</line>
+          <line>To atone the deed. So stands the word, nor fails.</line>
+          <line>Yet would I know her thought; speak, if thou knowest.</line>
+          <line>LEADER</line>
+          <line>I know it, son; for at her side I stood.</line>
+          <line>'Twas the night-wandering terror of a dream</line>
+          <line>That flung her shivering from her couch, and bade</line>
+          <line>her-</line>
+          <line>Her, the accursed of God-these offerings send.</line>
+          <line>ORESTES</line>
+          <line>Heard ye the dream, to tell it forth aright?</line>
+          <line>LEADER</line>
+          <line>Yea, from herself; her womb a serpent bare.</line>
+          <line>ORESTES</line>
+          <line>What then the sum and issue of the tale?</line>
+          <line>LEADER</line>
+          <line>Even as a swaddled child, she lull'd the thing.</line>
+          <line>ORESTES</line>
+          <line>What suckling craved the creature, born full-fanged?</line>
+          <line>LEADER</line>
+          <line>Yet in her dreams she proffered it the breast.</line>
+          <line>ORESTES</line>
+          <line>How? did the hateful thing not bite her teat?</line>
+          <line>LEADER</line>
+          <line>Yea, and sucked forth a blood-gout in the milk.</line>
+          <line>ORESTES</line>
+          <line>Not vain this dream-it bodes a man's revenge.</line>
+          <line>LEADER</line>
+          <line>Then out of sleep she started with a cry,</line>
+          <line>And thro' the palace for their mistress' aid</line>
+          <line>Full many lamps, that erst lay blind with night,</line>
+          <line>Flared into light; then, even as mourners use,</line>
+          <line>She sends these offerings, in hope to win</line>
+          <line>A cure to cleave and sunder sin from doom.</line>
+          <line>ORESTES</line>
+          <line>Earth and my father's grave, to you I call-</line>
+          <line>Give this her dream fulfilment, and thro' me.</line>
+          <line>I read it in each part coincident</line>
+          <line>With what shall be; for mark, that serpent sprang</line>
+          <line>From the same womb as I, in swaddling bands</line>
+          <line>By the same hands was swathed, lipped the same breast,</line>
+          <line>And sucking forth the same sweet mother's-milk</line>
+          <line>Infused a clot of blood; and in alarm</line>
+          <line>She cried upon her wound the cry of pain.</line>
+          <line>The rede is clear: the thing of dread she nursed,</line>
+          <line>The death of blood she dies; and I, 'tis I,</line>
+          <line>In semblance of a serpent, that must slay her.</line>
+          <line>Thou art my seer, and thus I read the dream.</line>
+          <line>LEADER</line>
+          <line>So do; yet ere thou doest, speak to us,</line>
+          <line>Bidding some act, some, by not acting, aid.</line>
+          <line>ORESTES</line>
+          <line>Brief my command: I bid my sister pass</line>
+          <line>In silence to the house, and all I bid</line>
+          <line>This my design with wariness conceal,</line>
+          <line>That they who did by craft a chieftain slay</line>
+          <line>May by like craft and in like noose be talen,</line>
+          <line>Dying the death which Loxias foretold-</line>
+          <line>Apollo, king and prophet undisproved.</line>
+          <line>I with this warrior Pylades will come</line>
+          <line>In likeness of a stranger, full equipt</line>
+          <line>As travellers come, and at the palace gates</line>
+          <line>Will stand, as stranger yet in friendship's bond</line>
+          <line>Unto this house allied; and each of us</line>
+          <line>Will speak the tongue that round Parnassus sounds,</line>
+          <line>Feigning such speech as Phocian voices use.</line>
+          <line>And what if none of those that tend the gates</line>
+          <line>Shall welcome us with gladness, since the house</line>
+          <line>With ills divine is baunted? If this hap,</line>
+          <line>We at the gate will bide, till, passing by,</line>
+          <line>Some townsman make conjecture and proclaim,</line>
+          <line>How? is Aegisthus here, and knowingly</line>
+          <line>Keeps suppliants aloof, by bolt and bar?</line>
+          <line>Then shall I win my way; and if I cross</line>
+          <line>The threshold of the gate, the palace' guard,</line>
+          <line>And find him throned where once my father sat-</line>
+          <line>Or if he come anon, and face to face</line>
+          <line>Confronting, drop his eyes from mine-I swear</line>
+          <line>He shall not utter, Who art thou and whence?</line>
+          <line>Ere my steel leap, and compassed round with death</line>
+          <line>Low he shall lie: and thus, full-fed with doom,</line>
+          <line>The Fury of the house shall drain once more</line>
+          <line>A deep third draught of rich unmingled blood.</line>
+          <line>But thou, O sister, look that all within</line>
+          <line>Be well prepared to give these things event.</line>
+          <line>And ye-I say 'twere well to bear a tongue</line>
+          <line>Full of fair silence and of fitting speech</line>
+          <line>As each beseems the time; and last, do thou,</line>
+          <line>Hermes the warder-god, keep watch and ward,</line>
+          <line>And guide to victory my striving sword.</line>
+          <line>ORESTES, PYLADES, and ELECTRA depart.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>strophe 1</line>
+          <line>Many and marvellous the things of fear</line>
+          <line>Earth's breast doth bear;</line>
+          <line>And the sea's lap with many monsters teems,</line>
+          <line>And windy levin-bolts and meteor gleams</line>
+          <line>Breed many deadly things-</line>
+          <line>Unknown and flying forms, with fear upon their wings,</line>
+          <line>And in their tread is death;</line>
+          <line>And rushing whirlwinds, of whose blasting breath</line>
+          <line>Man's tongue can tell. antistrophe 1</line>
+          <line>But who can tell aright the fiercer thing,</line>
+          <line>The aweless soul, within man's breast inhabiting?</line>
+          <line>Who tell how, passion-fraught and love-distraught,</line>
+          <line>The woman's eager, craving thought</line>
+          <line>Doth wed mankind to woe and ruin fell?</line>
+          <line>Yea, how the loveless love that doth posses</line>
+          <line>The woman, even as the lioness,</line>
+          <line>Doth rend and wrest apart, with eager strife,</line>
+          <line>The link of wedded life? strophe 2</line>
+          <line>Let him be the witness, whose thought is not borne on light wings thro'</line>
+          <line>the air,</line>
+          <line>But abideth with knowledge, what thing was wrought by Althea's</line>
+          <line>despair;</line>
+          <line>For she marr'd the life-grace of her son, with ill counsel rekindled</line>
+          <line>the flame</line>
+          <line>That was quenched as it glowed on the brand, what time from his mother</line>
+          <line>he came,</line>
+          <line>With the cry of a new-born child; and the brand from the burning she</line>
+          <line>won,</line>
+          <line>For the Fates had foretold it coeval, in life and in death, with her</line>
+          <line>son. antistrophe 2</line>
+          <line>Yea, and man's hate tells of another, even Scylla of murderous</line>
+          <line>guile,</line>
+          <line>Who slew for an enemy's sake her father, won o'er by the</line>
+          <line>wile</line>
+          <line>And the gifts of Cretan Minos, the gauds of the high-wrought</line>
+          <line>gold;</line>
+          <line>For she clipped from her father's head the lock that should never wax</line>
+          <line>old,</line>
+          <line>As he breathed in the silence of sleep, and knew not her craft and</line>
+          <line>her crime-</line>
+          <line>But Hermes, the guard of the dead, doth grasp her, in fulness of time.</line>
+          <line>strophe 3</line>
+          <line>And since of the crimes of the cruel I tell, let my singing</line>
+          <line>record</line>
+          <line>The bitter wedlock and loveless, the curse on these halls</line>
+          <line>outpoured,</line>
+          <line>The crafty device of a woman, whereby did a chieftain</line>
+          <line>fall,</line>
+          <line>A warrior stern in his wrath, the fear of his enemies</line>
+          <line>all,-</line>
+          <line>A song of dishonour, untimely! and cold is the hearth that was</line>
+          <line>warm,</line>
+          <line>And ruled by the cowardly spear, the woman's unwomanly arm. antistrophe</line>
+          <line>But the summit and crown of all crimes is that which in Lemnos</line>
+          <line>befell;</line>
+          <line>A woe and a mourning it is, a shame and a spitting to</line>
+          <line>tell;</line>
+          <line>And he that in after time doth speak of his deadliest</line>
+          <line>thought,</line>
+          <line>Doth say, It is like to the deed that of old time in Lemnos was</line>
+          <line>wrought;</line>
+          <line>And loathed of men were the doers, and perished, they and their</line>
+          <line>seed,</line>
+          <line>For the gods brought hate upon them; none loveth the impious deed.</line>
+          <line>strophe 4</line>
+          <line>It is well of these tales to tell; for the sword in the grasp</line>
+          <line>of</line>
+          <line>Right</line>
+          <line>With a cleaving, a piercing blow to the innermost heart doth</line>
+          <line>smite,</line>
+          <line>And the deed unlawfully done is not trodden down nor</line>
+          <line>forgot,</line>
+          <line>When the sinner out-steppeth the law and heedeth the high God not;</line>
+          <line>antistrophe 4</line>
+          <line>But justice hath planted the anvil, and Destiny forgeth the</line>
+          <line>sword</line>
+          <line>That shall smite in her chosen time; by her is the child</line>
+          <line>restored;</line>
+          <line>And, darkly devising, the Fiend of the house, world-cursed, will</line>
+          <line>repay</line>
+          <line>The price of the blood of the slain, that was shed in the bygone day.</line>
+          <line>The scene now is before the palace. ORESTES and PYLADES enter, still</line>
+          <line>dressed as travellers.</line>
+          <line>ORESTES</line>
+          <line>knocking at the palace gate</line>
+          <line>What ho! slave, ho! I smite the palace gate</line>
+          <line>In vain, it seems; what ho, attend within,-</line>
+          <line>Once more, attend; come forth and ope the halls,</line>
+          <line>If yet Aegisthus holds them hospitable.</line>
+          <line>SLAVE</line>
+          <line>from within</line>
+          <line>Anon, anon!</line>
+          <line>Opens the door</line>
+          <line>Speak, from what land art thou, and sent from whom?</line>
+          <line>ORESTES</line>
+          <line>Go, tell to them who rule the palace-halls,</line>
+          <line>Since 'tis to them I come with tidings new-</line>
+          <line>Delay not-Night's dark car is speeding on,</line>
+          <line>And time is now for wayfarers to cast</line>
+          <line>Anchor in haven, wheresoe'er a house</line>
+          <line>Doth welcome strangers-that there now come forth</line>
+          <line>Some one who holds authority within-</line>
+          <line>The queen, or, if some man, more seemly were it;</line>
+          <line>For when man standeth face to face with man,</line>
+          <line>No stammering modesty confounds their speech,</line>
+          <line>But each to each doth tell his meaning clear.</line>
+          <line>CLYTEMNESTRA comes out of the palace.</line>
+          <line>CLYTEMNESTRA</line>
+          <line>Speak on, O strangers: have ye need of aught?</line>
+          <line>Here is whate'er beseems a house like this-</line>
+          <line>Warm bath and bed, tired Nature's soft restorer,</line>
+          <line>And courteous eyes to greet you; and if aught</line>
+          <line>Of graver import needeth act as well,</line>
+          <line>That, as man's charge, I to a man will tell.</line>
+          <line>ORESTES</line>
+          <line>A Daulian man am I, from Phocis bound,</line>
+          <line>And as with mine own travel-scrip self-laden</line>
+          <line>I went toward Argos, parting hitherward</line>
+          <line>With travelling foot, there did encounter me</line>
+          <line>One whom I knew not and who knew not me,</line>
+          <line>But asked my purposed way nor hid his own,</line>
+          <line>And, as we talked together, told his name-</line>
+          <line>Strophius of Phocis; then he said, "Good sir,</line>
+          <line>Since in all case thou art to Argos bound,</line>
+          <line>Forget not this my message, heed it well,</line>
+          <line>Tell to his own, Orestes is no more.</line>
+          <line>And-whatsoe'er his kinsfolk shall resolve.</line>
+          <line>Whether to bear his dust unto his home,</line>
+          <line>Or lay him here, in death as erst in life</line>
+          <line>Exiled for aye, a child of banishment-</line>
+          <line>Bring me their hest, upon thy backward road;</line>
+          <line>For now in brazen compass of an urn</line>
+          <line>His ashes lie, their dues of weeping paid."</line>
+          <line>So much I heard, and so much tell to thee,</line>
+          <line>Not knowing if I speak unto his kin</line>
+          <line>Who rule his home; but well, I deem, it were,</line>
+          <line>Such news should earliest reach a parent's ear.</line>
+          <line>CLYTEMNESTRA</line>
+          <line>Ah woe is me! thy word our ruin tells;</line>
+          <line>From roof-tree unto base are we despoiled.-</line>
+          <line>O thou whom nevermore we wrestle down,</line>
+          <line>Thou Fury of this home, how oft and oft</line>
+          <line>Thou dost descry what far aloof is laid,</line>
+          <line>Yea, from afar dost bend th' unerring bow</line>
+          <line>And rendest from my wretchedness its friends;</line>
+          <line>As now Orestes-who, a brief while since,</line>
+          <line>Safe from the mire of death stood warily,-</line>
+          <line>Was the home's hope to cure th' exulting wrong;</line>
+          <line>Now thou ordainest, Let the ill abide.</line>
+          <line>ORESTES</line>
+          <line>To host and hostess thus with fortune blest,</line>
+          <line>Lief had I come with better news to bear</line>
+          <line>Unto your greeting and acquaintanceship;</line>
+          <line>For what goodwill lies deeper than the bond</line>
+          <line>Of guest and host? and wrong abhorred it were,</line>
+          <line>As well I deem, if I, who pledged my faith</line>
+          <line>To one, and greetings from the other had,</line>
+          <line>Bore not aright the tidings 'twixt the twain.</line>
+          <line>CLYTEMNESTRA</line>
+          <line>Whate'er thy news, thou shalt not welcome</line>
+          <line>lack,</line>
+          <line>Meet and deserved, nor scant our grace shall be.</line>
+          <line>Hadst thou thyself not come, such tale to tell,</line>
+          <line>Another, sure, had borne it to our ears.</line>
+          <line>But lo! the hour is here when travelling guests,</line>
+          <line>Fresh from the daylong labour of the road,</line>
+          <line>Should win their rightful due.</line>
+          <line>To the slave</line>
+          <line>Take him within</line>
+          <line>To the man-chamber's hospitable rest-</line>
+          <line>Him and these fellow-farers at his side;</line>
+          <line>Give them such guest-right as beseems our halls;</line>
+          <line>I bid thee do as thou shalt answer for it,</line>
+          <line>And I unto the prince who rules our home</line>
+          <line>Will tell the tale, and, since we lack not friends,</line>
+          <line>With them will counsel how this hap to bear.</line>
+          <line>CLYTEMNESTRA goes back into the palace. ORESTES and PYLADES are conducted</line>
+          <line>to the guest quarters.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>So be it done-</line>
+          <line>Sister-servants, when draws nigh</line>
+          <line>Time for us aloud to cry</line>
+          <line>Orestes and his victory?</line>
+          <line>O holy earth and holy tomb</line>
+          <line>Over the grave-pit heaped on high,</line>
+          <line>Where low doth Agamemnon lie,</line>
+          <line>The king of ships, the army's lord!</line>
+          <line>Now is the hour-give ear and come,</line>
+          <line>For now doth Craft her aid afford,</line>
+          <line>And Hermes, guard of shades in hell,</line>
+          <line>Stands o'er their strife, to sentinel</line>
+          <line>The dooming of the sword.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>I wot the stranger worketh woe within-</line>
+          <line>For lo! I see come forth, suffused with tears,</line>
+          <line>Orestes' nurse.</line>
+          <line>The NURSE enters from the palace.</line>
+          <line>What ho, Kilissa-thou</line>
+          <line>Beyond the doors? Where goest thou? Methinks</line>
+          <line>Some grief unbidden walketh at thy side.</line>
+          <line>NURSE</line>
+          <line>My mistress bids me, with what speed I may,</line>
+          <line>Call in Aegisthus to the stranger guests,</line>
+          <line>That he may come, and stinding face to face,</line>
+          <line>A man with men, way thus more clearly learn</line>
+          <line>This rumour new. Thus speaking, to her slaves</line>
+          <line>Laughter for what is wrought-to her desire</line>
+          <line>Too well; but ill, ill, ill besets the house,</line>
+          <line>Brought by the tale these guests have told so clear.</line>
+          <line>And he, God wot, will gladden all his heart</line>
+          <line>Hearing this rumour. Woe and well-a-day!</line>
+          <line>The bitter mingled cup of ancient woes,</line>
+          <line>Hard to be borne, that here in Atreus' house</line>
+          <line>Befell, was grievous to mine inmost heart,</line>
+          <line>But never yet did I endure such pain.</line>
+          <line>All else I bore with set soul patiently;</line>
+          <line>But now-alack, alack!--Orestes dear,</line>
+          <line>The day and night-long travail of my soul</line>
+          <line>Whom from his mother's womb, a new-born child,</line>
+          <line>I clasped and cherished! Many a time and oft</line>
+          <line>Toilsome and profitless my service was,</line>
+          <line>When his shrill outcry called me from my couch!</line>
+          <line>For the young child, before the sense is born,</line>
+          <line>Hath but a dumb thing's life, must needs be nursed</line>
+          <line>As its own nature bids. The swaddled thing</line>
+          <line>Hath nought of speech, whate'er discomfort come,-</line>
+          <line>Hunger or thirst or lower weakling need,-</line>
+          <line>For the babe's stomach works its own relief.</line>
+          <line>Which knowing well before, yet oft surprised,</line>
+          <line>'Twas mine to cleanse the swaddling clothes-poor</line>
+          <line>Was nurse to tend and fuller to make white:</line>
+          <line>Two works in one, two handicrafts I took,</line>
+          <line>When in mine arms the father laid the boy.</line>
+          <line>And now he's dead-alack and well-a-day!</line>
+          <line>Yet must I go to him whose wrongful power</line>
+          <line>Pollutes this house-fair tidings these to him!</line>
+          <line>LEADER</line>
+          <line>Say then, with what array she bids him come?</line>
+          <line>NURSE</line>
+          <line>What say'st thou! Speak. more clearly for mine ear.</line>
+          <line>LEADER</line>
+          <line>Bids she bring henchmen, or to come alone?</line>
+          <line>NURSE</line>
+          <line>She bids him bring a spear-armed body-guard.</line>
+          <line>Nay, tell not that unto our loathed lord,</line>
+          <line>But speed to him, put on the mien of joy,</line>
+          <line>Say, Come alone, fear nought, the news is good:</line>
+          <line>A bearer can tell straight a twisted tale.</line>
+          <line>NURSE</line>
+          <line>Does then thy mind in this new tale find joy?</line>
+          <line>LEADER</line>
+          <line>What if Zeus bid our ill wind veer to fair?</line>
+          <line>NURSE</line>
+          <line>And how? the home's hope with Orestes dies.</line>
+          <line>LEADER</line>
+          <line>Not yet-a seer, though feeble, this might see.</line>
+          <line>NURSE</line>
+          <line>What say'st thou? Know'st thou aught, this tale belying?</line>
+          <line>LEADER</line>
+          <line>Go, tell the news to him, perform thine</line>
+          <line>hest,-</line>
+          <line>What the gods will, themselves can well provide.</line>
+          <line>NURSE</line>
+          <line>Well, I will go, herein obeying thee;</line>
+          <line>And luck fall fair, with favour sent from heaven.</line>
+          <line>She goes out.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>strophe 1</line>
+          <line>Zeus, sire of them who on Olympus dwell,</line>
+          <line>Hear thou, O hear my prayer!</line>
+          <line>Grant to my rightful lords to prosper well</line>
+          <line>Even as their zeal is fair!</line>
+          <line>For right, for right goes up aloud my cry-</line>
+          <line>Zeus, aid him, stand anigh! refrain 1</line>
+          <line>Into his father's hall he goes</line>
+          <line>To smite his father's foes.</line>
+          <line>Bid him prevail by thee on throne of triumph set,</line>
+          <line>Twice, yea and thrice with joy shall he acquit the debt. antistrophe</line>
+          <line>Bethink thee, the young steed, the orphan foal</line>
+          <line>Of sire beloved by thee, unto the car</line>
+          <line>Of doom is harnessed fast.</line>
+          <line>Guide him aright, plant firm a lasting goal,</line>
+          <line>Speed thou his pace,-O that no chance may mar</line>
+          <line>The homeward course, the last! strophe</line>
+          <line>And ye who dwell within the inner chamber</line>
+          <line>Where shines the stored joy of gold-</line>
+          <line>Gods of one heart, O hear ye, and remember;</line>
+          <line>Up and avenge the blood shed forth of old,</line>
+          <line>With sudden rightful blow;</line>
+          <line>Then let the old curse die, nor be renewed</line>
+          <line>With progeny of blood,-</line>
+          <line>Once more, and not again, be latter guilt laid low! refrain</line>
+          <line>O thou who dwell'st in Delphi's mighty cave,</line>
+          <line>Grant us to see this home once more restored</line>
+          <line>Unto its rightful lord!</line>
+          <line>Let it look forth, from veils of death, with joyous</line>
+          <line>eye</line>
+          <line>Unto the dawning light of liberty; antistrophe</line>
+          <line>And Hermes, Maia's child, lend hand to save,</line>
+          <line>Willing the right, and guide</line>
+          <line>Our state with Fortune's breeze adown the favouring</line>
+          <line>tide.</line>
+          <line>Whate'er in darkness hidden lies,</line>
+          <line>He utters at his will;</line>
+          <line>He at his will throws darkness on our eyes,</line>
+          <line>By night and eke by day inscrutable. strophe</line>
+          <line>Then, then shall wealth atone</line>
+          <line>The ills that here were done.</line>
+          <line>Then, then will we unbind,</line>
+          <line>Fling free on wafting wind</line>
+          <line>Of joy, the woman's voice that waileth now</line>
+          <line>In piercing accents for a chief laid low; refrain</line>
+          <line>And this our song shall be-</line>
+          <line>Hail to the commonwealth restored!</line>
+          <line>Hail to the freedom won to me!</line>
+          <line>All hail! for doom hath passed from him, my well-loved lord! antistrophe</line>
+          <line>And thou, O child, when Time and Chance agree,</line>
+          <line>Up to the deed that for thy sire is done!</line>
+          <line>And if she wail unto thee, Spare, O son-</line>
+          <line>Cry, Aid, O father-and achieve the deed,</line>
+          <line>The horror of man's tongue, the gods' great need!</line>
+          <line>Hold in thy breast such heart as Perseus had,</line>
+          <line>The bitter woe work forth,</line>
+          <line>Appease the summons of the dead,</line>
+          <line>The wrath of friends on earth;</line>
+          <line>Yea, set within a sign of blood and doom,</line>
+          <line>And do to utter death him that polilites thy home.</line>
+          <line>AEGISTHUS enters alone.</line>
+          <line>AEGISTHUS</line>
+          <line>Hither and not unsummoned have I come;</line>
+          <line>For a new rumour, borne by stranger men</line>
+          <line>Arriving hither, hath attained mine ears,</line>
+          <line>Of hap unwished-for, even Orestes' death.</line>
+          <line>This were new sorrow, a blood-bolter'd load</line>
+          <line>Laid on the house that doth already bow</line>
+          <line>Beneath a former wound that festers deep.</line>
+          <line>Dare I opine these words have truth and life?</line>
+          <line>Or are they tales, of woman's terror born,</line>
+          <line>That fly in the void air, and die disproved?</line>
+          <line>Canst thou tell aught, and prove it to my soul?</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>What we have heard, we heard; go thou within</line>
+          <line>Thyself to ask the strangers of their tale.</line>
+          <line>Strengthless are tidings, thro' another heard;</line>
+          <line>Question is his, to whom the tale is brought.</line>
+          <line>AEGISTHUS</line>
+          <line>I too will meet and test the messenger,</line>
+          <line>Whether himself stood witness of the death,</line>
+          <line>Or tells it merely from dim rumour learnt:</line>
+          <line>None shall cheat me, whose soul hath watchful eyes.</line>
+          <line>He goes into the palace.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>Zeus, Zeus! what word to me is given?</line>
+          <line>What cry or prayer, invoking heaven,</line>
+          <line>Shall first by me be uttered?</line>
+          <line>What speech of craft-nor all revealing,</line>
+          <line>Nor all too warily concealing-</line>
+          <line>Ending my speech, shall aid the deed?</line>
+          <line>For lo! in readiness is laid</line>
+          <line>The dark emprise, the rending blade;</line>
+          <line>Blood-dropping daggers shall achieve</line>
+          <line>The dateless doom of Atreus' name,</line>
+          <line>Or-kindling torch and joyful flame</line>
+          <line>In sign of new-won liberty-</line>
+          <line>Once more Orestes shall retrieve</line>
+          <line>His father's wealth, and, throned on high,</line>
+          <line>Shall hold the city's fealty.</line>
+          <line>So mighty is the grasp whereby,</line>
+          <line>Heaven-holpen, he shall trip and throw,</line>
+          <line>Unseconded, a double foe.</line>
+          <line>Ho for the victory!</line>
+          <line>A loud cry is heard within.</line>
+          <line>VOICE OF AEGISTHUS</line>
+          <line>Help, help, alas!</line>
+          <line>CHORUS</line>
+          <line>Ho there, ho I how is't within?</line>
+          <line>Is't done? is't over? Stand we here aloof</line>
+          <line>While it is wrought, that guiltless we may seem</line>
+          <line>Of this dark deed; with death is strife fulfilled.</line>
+          <line>An ATTENDANT enters from the palace.</line>
+          <line>ATTENDANT</line>
+          <line>O woe, O woe, my lord is done to death!</line>
+          <line>Woe, woe, and woe again, Aegisthus gone!</line>
+          <line>Hasten, fling wide the doors, unloose the bolts</line>
+          <line>Of the queen's chamber. O for some young strength</line>
+          <line>To match the need! but aid availeth nought</line>
+          <line>To him laid low for ever. Help, help, help</line>
+          <line>Sure to deaf ears I shout, and call in vain</line>
+          <line>To slumber ineffectual. What ho!</line>
+          <line>The queen! how fareth Clytemnestra's self?</line>
+          <line>Her neck too, hers, is close upon the steel,</line>
+          <line>And soon shall sing, hewn thro' as justice wills.</line>
+          <line>CLYTEMNESTRA enters.</line>
+          <line>CLYTEMNESTRA</line>
+          <line>What ails thee, raising this ado for us?</line>
+          <line>ATTENDANT</line>
+          <line>I say the dead are come to slay the living.</line>
+          <line>CLYTEMNESTRA</line>
+          <line>Alack, I read thy riddles all too clear-</line>
+          <line>We slew by craft and by like craft shall die.</line>
+          <line>Swift, bring the axe that slew my lord of old;</line>
+          <line>I'll know anon or death or victory-</line>
+          <line>So stands the curse, so I confront it here.</line>
+          <line>ORESTES rushes from the palace; his sword dripping with blood. PYLADES</line>
+          <line>is with him.</line>
+          <line>ORESTES</line>
+          <line>Thee too I seek: for him what's done will serve.</line>
+          <line>CLYTEMNESTRA</line>
+          <line>Woe, woe! Aegisthus, spouse and champion, slain!</line>
+          <line>ORESTES</line>
+          <line>What, lov'st the man? then in his grave lie</line>
+          <line>down,</line>
+          <line>Be his in death, desert him nevermore!</line>
+          <line>CLYTEMNESTRA</line>
+          <line>Stay, child, and fear to strike. O son, this</line>
+          <line>breast</line>
+          <line>Pillowed thine head full oft, while, drowsed with</line>
+          <line>sleep,</line>
+          <line>Thy toothless mouth drew mother's milk from me.</line>
+          <line>ORESTES</line>
+          <line>Can I my mother spare? speak, Pylades.</line>
+          <line>PYLADES</line>
+          <line>Where then would fall the hest Apollo gave</line>
+          <line>At Delphi, where the solemn compact sworn?</line>
+          <line>Choose thou the hate of all men, not of gods.</line>
+          <line>ORESTES</line>
+          <line>Thou dost prevail; I hold thy counsel good.</line>
+          <line>To CLYTEMNESTRA</line>
+          <line>Follow; I will to slay thee at his side.</line>
+          <line>With him whom in his life thou loved'st more</line>
+          <line>Than Agamemnon, sleep in death, the meed</line>
+          <line>For hate where love, and love where hate was due!</line>
+          <line>CLYTEMNESTRA</line>
+          <line>I nursed thee young; must I forego mine eld?</line>
+          <line>ORESTES</line>
+          <line>Thou slew'st my father; shalt thou dwell with me?</line>
+          <line>CLYTEMNESTRA</line>
+          <line>Fate bore a share in these things, O my child</line>
+          <line>ORESTES</line>
+          <line>Fate also doth provide this doom for thee.</line>
+          <line>CLYTEMNESTRA</line>
+          <line>Beware, O child, a parent's dying curse.</line>
+          <line>ORESTES</line>
+          <line>A parent who did cast me out to ill!</line>
+          <line>CLYTEMNESTRA</line>
+          <line>Not cast thee out, but to a friendly home.</line>
+          <line>ORESTES</line>
+          <line>Born free, I was by twofold bargain sold.</line>
+          <line>CLYTEMNESTRA</line>
+          <line>Where then the price that I received for thee?</line>
+          <line>ORESTES</line>
+          <line>The price of shame; I taunt thee not more plainly.</line>
+          <line>CLYTEMNESTRA</line>
+          <line>Nay, but recount thy father's lewdness too.</line>
+          <line>ORESTES</line>
+          <line>Home-keeping, chide not him who toils without.</line>
+          <line>CLYTEMNESTRA</line>
+          <line>'Tis hard for wives to live as widows, child.</line>
+          <line>ORESTES</line>
+          <line>The absent husband toils for them at home.</line>
+          <line>CLYTEMNESTRA</line>
+          <line>Thou growest fain to slay thy mother, child.</line>
+          <line>ORESTES</line>
+          <line>Nay, 'tis thyself wilt slay thyself, not I.</line>
+          <line>CLYTEMNESTRA</line>
+          <line>Beware thy mother's vengeful hounds from hell.</line>
+          <line>ORESTES</line>
+          <line>How shall I 'scape my father's, sparing thee?</line>
+          <line>CLYTEMNESTRA</line>
+          <line>Living, I cry as to a tomb, unheard.</line>
+          <line>ORESTES</line>
+          <line>My father's fate ordains this doom for thee.</line>
+          <line>CLYTEMNESTRA</line>
+          <line>Ah me! this snake it was I bore and nursed.</line>
+          <line>ORESTES</line>
+          <line>Ay, right prophetic was thy visioned fear.</line>
+          <line>Shameful thy deed was-die the death of shame!</line>
+          <line>He drives her into the house before him.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>Lo, even for these I mourn, a double death:</line>
+          <line>Yet since Orestes, driven on by doom,</line>
+          <line>Thus crowns the height of murders manifold,</line>
+          <line>I say, 'tis well-that not in night and death</line>
+          <line>Should sink the eye and light of this our home.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>strophe 1</line>
+          <line>There came on Priam's race and name</line>
+          <line>A vengeance; though it tarried long,</line>
+          <line>With heavy doom it came.</line>
+          <line>Came, too, on Agamemnon's hall</line>
+          <line>A lion-pair, twin swordsmen strong.</line>
+          <line>And last, the heritage doth fall</line>
+          <line>To him, to whom from Pythian cave</line>
+          <line>The god his deepest counsel gave. refrain</line>
+          <line>Cry out, rejoice! our kingly hall</line>
+          <line>Hath 'scaped from ruin-ne'er again</line>
+          <line>Its ancient wealth be wasted all</line>
+          <line>By two usurpers, sin-defiled-</line>
+          <line>An evil path of woe and bane! antistrophe</line>
+          <line>On him who dealt the dastard blow</line>
+          <line>Comes Craft, Revenge's scheming child.</line>
+          <line>And hand in hand with him doth go,</line>
+          <line>Eager for fight,</line>
+          <line>The child of Zeus, whom men below</line>
+          <line>Call justice, naming her aright.</line>
+          <line>And on her foes her breath</line>
+          <line>Is as the blast of death; strophe 2</line>
+          <line>For her the god who dwells in deep recess</line>
+          <line>Beneath Parnassus' brow,</line>
+          <line>Summons with loud acclaim</line>
+          <line>To rise, though late and lame,</line>
+          <line>And come with craft that worketh righteousness.</line>
+          <line>For even o'er Powers divine this law is strong-</line>
+          <line>Thou shalt not serve the wrong. refrain</line>
+          <line>To that which ruleth heaven beseems it that we bow</line>
+          <line>Lo, freedom's light hath come!</line>
+          <line>Lo, now is rent away</line>
+          <line>The grim and curbing bit that held us dumb.</line>
+          <line>Up to the light, ye halls I this many a day</line>
+          <line>Too low on earth ye lay. antistrophe</line>
+          <line>And Time, the great Accomplisher,</line>
+          <line>Shall cross the threshold, whensoe'er</line>
+          <line>He choose with purging hand to cleanse</line>
+          <line>The palace, driving all pollution thence.</line>
+          <line>And fair the cast of Fortune's die</line>
+          <line>Before our state's new lords shall lie,</line>
+          <line>Not as of old, but bringing fairer doom.</line>
+          <line>Lo, freedom's light hath come!</line>
+          <line>The central doors of the palace open, disclosing ORESTES standing over</line>
+          <line>the corpses of AEGISTHUS and CLYTEMNESTRA; in one hand he holds his sword,</line>
+          <line>in the other the robe in which AGAMEMNON was entangled and</line>
+          <line>slain.</line>
+          <line>ORESTES</line>
+          <line>There lies our country's twofold tyranny,</line>
+          <line>My father's slayers, spoilers of my home.</line>
+          <line>Erst were they royal, sitting on the throne,</line>
+          <line>And loving are they yet,-their common fate</line>
+          <line>Tells the tale truly, shows their trothplight firm.</line>
+          <line>They swore to work mine ill-starred father's death,</line>
+          <line>They swore to die together; 'tis fulfilled.</line>
+          <line>O ye who stand, this great doom's witnesses,</line>
+          <line>Behold this too, the dark device which bound</line>
+          <line>My sire unhappy to his death,-behold</line>
+          <line>The mesh which trapped his hands, enwound his feet</line>
+          <line>Stand round, unfold it-'tis the trammel-net</line>
+          <line>That wrapped a chieftain; hold it that he see,</line>
+          <line>The father-not my sire, but he whose eye</line>
+          <line>Is judge of all things, the all-seeing Sun!</line>
+          <line>Let him behold my mother's damned deed,</line>
+          <line>Then let him stand, when need shall be to me,</line>
+          <line>Witness that justly I have sought and slain</line>
+          <line>My mother; blameless was Aegisthus' doom-</line>
+          <line>He died the death law bids adulterers die.</line>
+          <line>But she who plotted this accursed thing</line>
+          <line>To slay her lord, by whom she bare beneath</line>
+          <line>Her girdle once the burden of her babes,</line>
+          <line>Beloved erewhile, now turned to hateful foes-</line>
+          <line>What deem ye of her? or what venomed thing,</line>
+          <line>Sea-snake or adder, had more power than she</line>
+          <line>To poison with a touch the flesh unscarred?</line>
+          <line>So great her daring, such her impious will.</line>
+          <line>How name her, if I may not speak a curse?</line>
+          <line>A lion-springe! a laver's swathing cloth,</line>
+          <line>Wrapping a dead man, twining round his feet-</line>
+          <line>A net, a trammel, an entangling robe?</line>
+          <line>Such were the weapon of some strangling thief,</line>
+          <line>The terror of the road, a cut-purse hound-</line>
+          <line>With such device full many might he kill,</line>
+          <line>Full oft exult in heat of villainy.</line>
+          <line>Ne'er have my house so cursed an indweller-</line>
+          <line>Heaven send me, rather, childless to be slain!</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Woe for each desperate deed!</line>
+          <line>Woe for the queen, with shame of life bereft!</line>
+          <line>And ah, for him who still is left,</line>
+          <line>Madness, dark blossom of a bloody seed!</line>
+          <line>ORESTES</line>
+          <line>Did she the deed or not? this robe gives</line>
+          <line>proof,</line>
+          <line>Imbrued with blood that bathed Aegisthus' sword:</line>
+          <line>Look, how the spurted stain combines with time</line>
+          <line>To blur the many dyes that once adorned</line>
+          <line>Its pattern manifold! I now stand here,</line>
+          <line>Made glad, made sad with blood, exulting, wailing-</line>
+          <line>Hear, O thou woven web that slew my sire!</line>
+          <line>I grieve for deed and death and all my home-</line>
+          <line>Victor, pollution's damned stain for prize.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Alas, that none of mortal men</line>
+          <line>Can pass his life untouched by pain!</line>
+          <line>Behold, one woe is here-</line>
+          <line>Another loometh near.</line>
+          <line>ORESTES</line>
+          <line>Hark ye and learn-for what the end shall</line>
+          <line>be</line>
+          <line>For me I know not: breaking from the curb</line>
+          <line>My spirit whirls me off, a conquered prey,</line>
+          <line>Borne as a charioteer by steeds distraught</line>
+          <line>Far from the course, and madness in my breast</line>
+          <line>Burneth to chant its song, and leap, and rave-</line>
+          <line>Hark ye and learn, friends, ere my reason goes!</line>
+          <line>I say that rightfully I slew my mother,</line>
+          <line>A thing God-scorned, that foully slew my sire.</line>
+          <line>And chiefest wizard of the spell that bound me</line>
+          <line>Unto this deed I name the Pythian seer</line>
+          <line>Apollo, who foretold that if I slew,</line>
+          <line>The guilt of murder done should pass from me;</line>
+          <line>But if I spared, the fate that should be mine</line>
+          <line>I dare not blazon forth-the bow of speech</line>
+          <line>Can reach not to the mark, that doom to tell.</line>
+          <line>And now behold me, how with branch and crown</line>
+          <line>I pass, a suppliant made meet to go</line>
+          <line>Unto Earth's midmost shrine, the holy ground</line>
+          <line>Of Loxias, and that renowned light</line>
+          <line>Of ever-burning fire, to 'scape the doom</line>
+          <line>Of kindred murder: to no other shrine,</line>
+          <line>So Loxias bade, may I for refuge turn.</line>
+          <line>Bear witness, Argives, in the after time,</line>
+          <line>How came on me this dread fatality.</line>
+          <line>Living, I pass a banished wanderer hence,</line>
+          <line>To leave in death the memory of this cry.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>Nay, but the deed is well; link not thy</line>
+          <line>lips</line>
+          <line>To speech ill-starred, nor vent ill-boding words-</line>
+          <line>Who hast to Argos her full freedom given,</line>
+          <line>Lopping two serpents' heads with timely blow.</line>
+          <line>ORESTES</line>
+          <line>Look, look, alas!</line>
+          <line>Handmaidens, see-what Gorgon shapes throng up</line>
+          <line>Dusky their robes and all their hair enwound-</line>
+          <line>Snakes coiled with snakes-off, off,-I must away!</line>
+          <line>LEADER</line>
+          <line>Most loyal of all sons unto thy sire,</line>
+          <line>What visions thus distract thee? Hold, abide;</line>
+          <line>Great was thy victory, and shalt thou fear?</line>
+          <line>ORESTES</line>
+          <line>These are no dreams, void shapes of haunting</line>
+          <line>ill,</line>
+          <line>But clear to sight another's hell-hounds come!</line>
+          <line>LEADER</line>
+          <line>Nay, the fresh bloodshed still imbrues thine</line>
+          <line>hands,</line>
+          <line>And thence distraction sinks into thy soul.</line>
+          <line>ORESTES</line>
+          <line>O king Apollo-see, they swarm and throng-</line>
+          <line>Black blood of hatred dripping from their eyes!</line>
+          <line>LEADER</line>
+          <line>One remedy thou hast; go, touch the shrine</line>
+          <line>Of Loxias, and rid thee of these woes.</line>
+          <line>ORESTES</line>
+          <line>Ye can behold them not, but I behold them.</line>
+          <line>Up and away! I dare abide no more.</line>
+          <line>He rushes out.</line>
+          <line>LEADER</line>
+          <line>Farewell then as thou mayst,-the god thy</line>
+          <line>friend</line>
+          <line>Guard thee and aid with chances favouring.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Behold, the storm of woe divine</line>
+          <line>That raves and beats on Atreus' line</line>
+          <line>Its great third blast hath blown.</line>
+          <line>First was Thyestes' loathly woe</line>
+          <line>The rueful feast of long ago,</line>
+          <line>On children's flesh, unknown.</line>
+          <line>And next the kingly chief's despite,</line>
+          <line>When he who led the Greeks to fight</line>
+          <line>Was in the bath hewn down.</line>
+          <line>And now the offspring of the race</line>
+          <line>Stands in the third, the saviour's place,</line>
+          <line>To save-or to consume?</line>
+          <line>O whither, ere it be fulfilled,</line>
+          <line>Ere its fierce blast be hushed and stilled,</line>
+          <line>Shall blow the wind of doom?</line>
+        </stanza>
+      </poem>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="aeschylus-choephori-colophon">
+        <p xml:id="aeschylus-choephori-colophon-p-1">Author: Aeschylus</p>
+        <p xml:id="aeschylus-choephori-colophon-p-2">Translated by E. D. A. Morshead</p>
+        <p xml:id="aeschylus-choephori-colophon-p-3">Written: 450 BCE</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="strabo-strab-6">
+    <title>Geography</title>
+    <chapter xml:id="strab-6-geography">
+      <title>Geography</title>
+      <p xml:id="strab-6-geography-head-1">
+        <em>Geography</em>
+      </p>
+      <p xml:id="strab-6-geography-p-2">By Strabo</p>
+      <p xml:id="strab-6-geography-p-3">Translated by H. L. Jones (ed.) This work is only provided via the Perseus Project at Tufts University. You may begin reading the English translation as well as the Greek version and a Greek version with morphological links . If you have any questions about the Perseus Project texts in the Internet Classics Archive, including the Perseus Project copyright notice , please consult the help pages . Please direct any inquiries about the texts themselves to the Perseus Project Webmaster at webmaster@perseus.tufts.edu. © 1994-2009</p>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="strabo-strab-6-colophon">
+        <p xml:id="strabo-strab-6-colophon-p-1">Author: Strabo</p>
+        <p xml:id="strabo-strab-6-colophon-p-2">Translated by H. L. Jones (ed.)</p>
+        <p xml:id="strabo-strab-6-colophon-p-3">From the Perseus Project</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

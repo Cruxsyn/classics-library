@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="hesiod-hes-th">
+    <title>Theogony</title>
+    <chapter xml:id="hes-th-theogony">
+      <title>Theogony</title>
+      <p xml:id="hes-th-theogony-head-1">
+        <em>Theogony</em>
+      </p>
+      <p xml:id="hes-th-theogony-p-2">By Hesiod</p>
+      <p xml:id="hes-th-theogony-p-3">Translated by Hugh G. Evelyn-White This work is only provided via the Perseus Project at Tufts University. You may begin reading the English translation as well as the Greek version and a Greek version with morphological links . If you have any questions about the Perseus Project texts in the Internet Classics Archive, including the Perseus Project copyright notice , please consult the help pages . Please direct any inquiries about the texts themselves to the Perseus Project Webmaster at webmaster@perseus.tufts.edu. © 1994-2009</p>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="hesiod-hes-th-colophon">
+        <p xml:id="hesiod-hes-th-colophon-p-1">Author: Hesiod</p>
+        <p xml:id="hesiod-hes-th-colophon-p-2">Translated by Hugh G. Evelyn-White</p>
+        <p xml:id="hesiod-hes-th-colophon-p-3">From the Perseus Project</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

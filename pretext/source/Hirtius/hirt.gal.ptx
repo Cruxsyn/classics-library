@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="hirtius-hirt-gal">
+    <title>Continuation of Caesar's Gallic War</title>
+    <chapter xml:id="hirt-gal-continuation-of-caesar-s-gallic-war">
+      <title>Continuation of Caesar's Gallic War</title>
+      <p xml:id="hirt-gal-continuation-of-caesar-s-gallic-war-head-1">
+        <em>Continuation of Caesar's Gallic War</em>
+      </p>
+      <p xml:id="hirt-gal-continuation-of-caesar-s-gallic-war-p-2">By Hirtius This work is only provided via the Perseus Project at Tufts University. You may begin reading the English translation as well as the Latin version and a Latin version with morphological links . If you have any questions about the Perseus Project texts in the Internet Classics Archive, including the Perseus Project copyright notice , please consult the help pages . Please direct any inquiries about the texts themselves to the Perseus Project Webmaster at webmaster@perseus.tufts.edu. © 1994-2009</p>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="hirtius-hirt-gal-colophon">
+        <p xml:id="hirtius-hirt-gal-colophon-p-1">Author: Hirtius</p>
+        <p xml:id="hirtius-hirt-gal-colophon-p-2">From the Perseus Project</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

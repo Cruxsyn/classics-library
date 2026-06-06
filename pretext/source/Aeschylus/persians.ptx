@@ -1,0 +1,1333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="aeschylus-persians">
+    <title>The Persians</title>
+    <chapter xml:id="persians-the-persians">
+      <title>The Persians</title>
+      <poem xml:id="persians-the-persians-poem-1">
+        <stanza xml:id="persians-the-persians-stanza-1-1">
+          <line>Dramatis Personae</line>
+          <line>ATOSSA, widow of Darius and mother of XERXES</line>
+          <line>MESSENGER</line>
+          <line>GHOST OF DARIUS</line>
+          <line>XERXES</line>
+          <line>CHORUS OF PERSIAN ELDERS, who compose the Persian Council of State</line>
+          <line>Scene Before the Council-Hall of the Persian Kings at Susa. The tomb of Darius the Great is visible. The time is 480 B.C., shortly after the battle of Salamis. The play opens with the CHORUS OF PERSIAN ELDERS singing its first choral lyric.</line>
+          <line>CHORUS</line>
+          <line>While o'er the fields of Greece the embattled</line>
+          <line>troops</line>
+          <line>Of Persia march with delegated sway,</line>
+          <line>We o'er their rich and gold-abounding seats</line>
+          <line>Hold faithful our firm guard; to this high charge</line>
+          <line>Xerxes, our royal lord, the imperial son</line>
+          <line>Of great Darius, chose our honour'd age.</line>
+          <line>But for the king's return, and his arm'd host</line>
+          <line>Blazing with gold, my soul presaging ill</line>
+          <line>Swells in my tortured breast: for all her force</line>
+          <line>Hath Asia sent, and for her youth I sigh.</line>
+          <line>Nor messenger arrives, nor horseman spurs</line>
+          <line>With tidings to this seat of Persia's kings.</line>
+          <line>The gates of Susa and Ecbatana</line>
+          <line>Pour'd forth their martial trains; and Cissia sees</line>
+          <line>Her ancient towers forsaken, while her youth,</line>
+          <line>Some on the bounding steed, the tall bark some</line>
+          <line>Ascending, some with painful march on foot,</line>
+          <line>Haste on, to arrange the deep'ning files of war.</line>
+          <line>Amistres, Artaphernes, and the might</line>
+          <line>Of great Astaspes, Megabazes bold,</line>
+          <line>Chieftains of Persia, kings, that, to the power</line>
+          <line>Of the great king obedient, march with these</line>
+          <line>Leading their martial thousands; their proud steeds</line>
+          <line>Prance under them; steel bows and shafts their arms,</line>
+          <line>Dreadful to see, and terrible in fight,</line>
+          <line>Deliberate valour breathing in their souls.</line>
+          <line>Artembares, that in his fiery horse</line>
+          <line>Delights; Masistress; and Imaeus bold,</line>
+          <line>Bending with manly strength his stubborn bow;</line>
+          <line>Pharandaces, and Sosthanes, that drives</line>
+          <line>With military pomp his rapid steeds.</line>
+          <line>Others the vast prolific Nile hath sent;</line>
+          <line>Pegastagon, that from Aegyptus draws</line>
+          <line>His high birth; Susiscanes; and the chief</line>
+          <line>That reigns o'er sacred Memphis, great Arsames;</line>
+          <line>And Ariomardus, that o'er ancient Thebes</line>
+          <line>Bears the supreme dominion; and with these,</line>
+          <line>Drawn from their watery marshes, numbers train'd</line>
+          <line>To the stout oar. Next these the Lycian troops,</line>
+          <line>Soft sons of luxury; and those that dwell</line>
+          <line>Amid the inland forests, from the sea</line>
+          <line>Far distant; these Metragathes commands,</line>
+          <line>And virtuous Arceus, royal chiefs, that shine</line>
+          <line>In burnish'd gold, and many a whirling car</line>
+          <line>Drawn by six generous steeds from Sardis lead,</line>
+          <line>A glorious and a dreadful spectacle.</line>
+          <line>And from the foot of Tmolus, sacred mount,</line>
+          <line>Eager to bind on Greece the servile yoke,</line>
+          <line>Mardon and Tharybis the massy spear</line>
+          <line>Grasp with unwearied vigour; the light lance</line>
+          <line>The Mysians shake. A mingled multitude</line>
+          <line>Swept from her wide dominions skill'd to draw</line>
+          <line>The unerring bow, in ships Euphrates sends</line>
+          <line>From golden Babylon. With falchions arm'd</line>
+          <line>From all the extent of Asia move the hosts</line>
+          <line>Obedient to their monarch's stern command.</line>
+          <line>Thus march'd the flower of Persia, whose loved youth</line>
+          <line>The world of Asia nourish'd, and with sighs</line>
+          <line>Laments their absence; many an anxious look</line>
+          <line>Their wives, their parents send, count the slow</line>
+          <line>days,</line>
+          <line>And tremble at the long-protracted time. strophe</line>
+          <line>Already o'er the adverse strand</line>
+          <line>In arms the monarch's martial squadrons spread;</line>
+          <line>The threat'ning ruin shakes the land,</line>
+          <line>And each tall city bows its tower'd head.</line>
+          <line>Bark bound to bark, their wondrous way</line>
+          <line>They bridge across the indignant sea;</line>
+          <line>The narrow Hellespont's vex'd waves disdain,</line>
+          <line>His proud neck taught to wear the chain.</line>
+          <line>Now has the peopled Asia's warlike lord,</line>
+          <line>By land, by sea, with foot, with horse,</line>
+          <line>Resistless in his rapid course,</line>
+          <line>O'er all their realms his warring thousands pour'd;</line>
+          <line>Now his intrepid chiefs surveys,</line>
+          <line>And glitt'ring like a god his radiant state displays. antistrophe</line>
+          <line>Fierce as the dragon scaled in gold</line>
+          <line>Through the deep files he darts his glowing eye;</line>
+          <line>And pleased their order to behold,</line>
+          <line>His gorgeous standard blazing to the sky,</line>
+          <line>Rolls onward his Assyrian car,</line>
+          <line>Directs the thunder of the war,</line>
+          <line>Bids the wing'd arrows' iron storm advance</line>
+          <line>Against the slow and cumbrous lance.</line>
+          <line>What shall withstand the torrent of his sway</line>
+          <line>When dreadful o'er the yielding shores</line>
+          <line>The impetuous tide of battle roars,</line>
+          <line>And sweeps the weak opposing mounds away?</line>
+          <line>So Persia, with resistless might,</line>
+          <line>Rolls her unnumber'd hosts of heroes to the fight. strophe</line>
+          <line>For when misfortune's fraudful hand</line>
+          <line>Prepares to pour the vengeance of the sky,</line>
+          <line>What mortal shall her force withstand?</line>
+          <line>What rapid speed the impending fury fly?</line>
+          <line>Gentle at first with flatt'ring smiles</line>
+          <line>She spreads her soft enchanting wiles,</line>
+          <line>So to her toils allures her destined prey,</line>
+          <line>Whence man ne'er breaks unhurt away.</line>
+          <line>For thus from ancient times the Fates ordain</line>
+          <line>That Persia's sons should greatly dare,</line>
+          <line>Unequall'd in the works of war;</line>
+          <line>Shake with their thund'ring steeds the ensanguined</line>
+          <line>plain,</line>
+          <line>Dreadful the hostile walls surround,</line>
+          <line>And lay their rampired towers in ruins on the ground. antistrophe</line>
+          <line>Taught to behold with fearless eyes</line>
+          <line>The whitening billows foam beneath the gale,</line>
+          <line>They bid the naval forests rise,</line>
+          <line>Mount the slight bark, unfurl the flying sail,</line>
+          <line>And o'er the angry ocean bear</line>
+          <line>To distant realms the storm of war.</line>
+          <line>For this with many a sad and gloomy thought</line>
+          <line>My tortured breast is fraught:</line>
+          <line>Ah me! for Persia's absent sons I sigh;</line>
+          <line>For while in foreign fields they fight,</line>
+          <line>Our towns exposed to wild affright</line>
+          <line>An easy prey to the invader lie:</line>
+          <line>Where, mighty Susa, where thy powers,</line>
+          <line>To wield the warrior's arms, and guard thy regal towers?</line>
+          <line>epode</line>
+          <line>Crush'd beneath the assailing foe</line>
+          <line>Her golden head must Cissia bend;</line>
+          <line>While her pale virgins, frantic with despair,</line>
+          <line>Through all her streets awake the voice of wo;</line>
+          <line>And flying with their bosoms bare,</line>
+          <line>Their purfled stoles in anguish rend:</line>
+          <line>For all her youth in martial pride,</line>
+          <line>Like bees that, clust'ring round their king,</line>
+          <line>Their dark imbodied squadrons bring,</line>
+          <line>Attend their sceptred monarch's side,</line>
+          <line>And stretch across the watery way</line>
+          <line>From shore to shore their long array.</line>
+          <line>The Persian dames, with many a tender fear,</line>
+          <line>In grief's sad vigils keep the midnight hour;</line>
+          <line>Shed on the widow'd couch the streaming tear,</line>
+          <line>And the long absence of their loves deplore.</line>
+          <line>Each lonely matron feels her pensive breast</line>
+          <line>Throb with desire, with aching fondness glow,</line>
+          <line>Since in bright arms her daring warrior dress'd</line>
+          <line>Left her to languish in her love-lorn wo.</line>
+          <line>Now, ye grave Persians, that your honour'd seats</line>
+          <line>Hold in this ancient house, with prudent care</line>
+          <line>And deep deliberation, so the state</line>
+          <line>Requires, consult we, pond'ring the event</line>
+          <line>Of this great war, which our imperial lord,</line>
+          <line>The mighty Xerxes from Darius sprung,</line>
+          <line>The stream of whose rich blood flows in our veins,</line>
+          <line>Leads against Greece; whether his arrowy shower</line>
+          <line>Shot from the strong-braced bow, or the huge spear</line>
+          <line>High brandish'd, in the deathful field prevails.</line>
+          <line>But see, the monarch's mother: like the gods</line>
+          <line>Her lustre blazes on our eyes: my queen,</line>
+          <line>Prostrate I fall before her: all advance</line>
+          <line>With reverence, and in duteous phrase address her,</line>
+          <line>ATOSSA enters with her retinue. The Elders do their obeisance to</line>
+          <line>her.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>Hail, queen, of Persia's high-zoned dames</line>
+          <line>supreme,</line>
+          <line>Age-honour'd mother of the potent Xerxes,</line>
+          <line>Imperial consort of Darius, hail!</line>
+          <line>The wife, the mother of the Persians' god,</line>
+          <line>If yet our former glories fade not from us.</line>
+          <line>ATOSSA</line>
+          <line>And therefore am I come, leaving my house</line>
+          <line>That shines with gorgeous ornaments and gold,</line>
+          <line>Where in past days Darius held with me</line>
+          <line>His royal residence. With anxious care</line>
+          <line>My heart is tortured: I will tell you, friends,</line>
+          <line>My thoughts, not otherwise devoid of fear,</line>
+          <line>Lest mighty wealth with haughty foot o'erturn</line>
+          <line>And trample in the dust that happiness,</line>
+          <line>Which, not unbless'd by Heaven, Darius raised.</line>
+          <line>For this with double force unquiet thoughts</line>
+          <line>Past utterance fill my soul; that neither wealth</line>
+          <line>With all its golden stores, where men are wanting,</line>
+          <line>Claims reverence; nor the light, that beams from</line>
+          <line>power,</line>
+          <line>Shines on the man whom wealth disdains to grace.</line>
+          <line>The golden stores of wealth indeed are ours;</line>
+          <line>But for the light (such in the house I deem</line>
+          <line>The presence of its lord) there I have fears.</line>
+          <line>Advise me then, you whose experienced age</line>
+          <line>Supports the state of Persia: prudence guides</line>
+          <line>Your councils, always kind and faithful to me.</line>
+          <line>LEADER</line>
+          <line>Speak, royal lady, what thy will, assured</line>
+          <line>We want no second bidding, where our power</line>
+          <line>In word or deed waits on our zeal: our hearts</line>
+          <line>In this with honest duty shall obey thee.</line>
+          <line>ATOSSA</line>
+          <line>Oft, since my son hath march'd his mighty</line>
+          <line>host</line>
+          <line>Against the lonians, warring to subdue</line>
+          <line>Their country, have my slumbers been disturb'd</line>
+          <line>With dreams of dread portent; but most last night,</line>
+          <line>With marks of plainest proof. I'll tell thee then:</line>
+          <line>Alethought two women stood before my eyes</line>
+          <line>Gorgeously vested, one in Persian robes</line>
+          <line>Adorn'd, the other in the Doric garb.</line>
+          <line>With more than mortal majesty they moved,</line>
+          <line>Of peerless beauty; sisters too they seem'd,</line>
+          <line>Though distant each from each they chanced to dwell,</line>
+          <line>In Greece the one, on the barbaric coast</line>
+          <line>The other. 'Twixt them soon dissension rose:</line>
+          <line>My son then hasted to compose their strife,</line>
+          <line>Soothed them to fair accord, beneath his car</line>
+          <line>Yokes them, and reins their harness'd necks. The</line>
+          <line>one,</line>
+          <line>Exulting in her rich array, with pride</line>
+          <line>Arching her stately neck, obey'd the reins;</line>
+          <line>The other with indignant fury spurn'd</line>
+          <line>The car, and dash'd it piecemeal, rent the reins,</line>
+          <line>And tore the yoke asunder; down my son</line>
+          <line>Fell from the seat, and instant at his side</line>
+          <line>His father stands, Darius, at his fall</line>
+          <line>Impress'd with pity: him when Xerxes saw,</line>
+          <line>Glowing with grief and shame he rends his robes.</line>
+          <line>This was the dreadful vision of the night.</line>
+          <line>When I arose, in the sweet-flowing stream</line>
+          <line>I bathed my hands, and on the incensed altars</line>
+          <line>Presenting my oblations to the gods</line>
+          <line>To avert these ills, an eagle I behold</line>
+          <line>Fly to the altar of the sun; aghast</line>
+          <line>I stood, my friends, and speechless; when a hawk</line>
+          <line>With eager speed runs thither, furious cuffs</line>
+          <line>The eagle with his wings, and with his talons</line>
+          <line>Unplumes his head; meantime the imperial bird</line>
+          <line>Cowers to the blows defenceless. Dreadful this</line>
+          <line>To me that saw it, and to you that hear.</line>
+          <line>My son, let conquest crown his arms, would shine</line>
+          <line>With dazzling glory; but should Fortune frown,</line>
+          <line>The state indeed presumes not to arraign</line>
+          <line>His sovereignty; yet how, his honour lost,</line>
+          <line>How shall he sway the sceptre of this land?</line>
+          <line>LEADER</line>
+          <line>We would not, royal lady, sink thy soul</line>
+          <line>With fear in the excess, nor raise it high</line>
+          <line>With confidence. Go then, address the gods;</line>
+          <line>If thou hast seen aught ill, entreat their power</line>
+          <line>To avert that ill, and perfect ev'ry good</line>
+          <line>To thee, thy sons, the state, and all thy friends.</line>
+          <line>Then to the earth, and to the mighty dead</line>
+          <line>Behooves thee pour libations; gently cal</line>
+          <line>Him that was once thy husband, whom thou saw'st</line>
+          <line>In visions of the night; entreat his shade</line>
+          <line>From the deep realms beneath to send to light</line>
+          <line>Triumph to thee and to thy son; whate'er</line>
+          <line>Bears other import, to inwrap, to hide it</line>
+          <line>Close in the covering earth's profoundest gloom.</line>
+          <line>This, in the presage of my thoughts that flow</line>
+          <line>Benevolent to thee, have I proposed;</line>
+          <line>And all, we trust, shall be successful to thee.</line>
+          <line>ATOSSA</line>
+          <line>Thy friendly judgment first hath placed these</line>
+          <line>dreams</line>
+          <line>In a fair light, confirming the event</line>
+          <line>Benevolent to my son and to my house.</line>
+          <line>May all the good be ratified! These rites</line>
+          <line>Shall, at thy bidding, to the powers of heaven,</line>
+          <line>And to the manes of our friends, be paid</line>
+          <line>In order meet, when I return; meanwhile</line>
+          <line>Indulge me, friends, who wish to be inform'd</line>
+          <line>Where, in what clime, the towers of Athens rise.</line>
+          <line>LEADER</line>
+          <line>Far in the west, where sets the imperial sun.</line>
+          <line>ATOSSA</line>
+          <line>Yet my son will'd the conquest of this town.</line>
+          <line>LEADER</line>
+          <line>May Greece through all her states bend to his power!</line>
+          <line>ATOSSA</line>
+          <line>Send they embattled numbers to the field?</line>
+          <line>LEADER</line>
+          <line>A force that to the Medes hath wrought much wo.</line>
+          <line>ATOSSA</line>
+          <line>Have they sufficient treasures in their houses?</line>
+          <line>LEADER</line>
+          <line>Their rich earth yields a copious fount of silver.</line>
+          <line>ATOSSA</line>
+          <line>From the strong bow wing they the barbed shaft?</line>
+          <line>LEADER</line>
+          <line>They grasp the stout spear, and the massy shield.</line>
+          <line>ATOSSA</line>
+          <line>What monarch reigns, whose power commands their ranks?</line>
+          <line>LEADER</line>
+          <line>Slaves to no lord, they own no kingly power.</line>
+          <line>ATOSSA</line>
+          <line>How can they then resist the invading foe?</line>
+          <line>LEADER</line>
+          <line>As to spread havoc through the numerous</line>
+          <line>host,</line>
+          <line>That round Darius form'd their glitt'ring files.</line>
+          <line>ATOSSA</line>
+          <line>Thy words strike deep, and wound the parent's</line>
+          <line>breast</line>
+          <line>Whose sons are march'd to such a dangerous field.</line>
+          <line>LEADER</line>
+          <line>But, if I judge aright, thou soon shalt</line>
+          <line>hear</line>
+          <line>Each circumstance; for this way, mark him, speeds</line>
+          <line>A Persian messenger; he bears, be sure,</line>
+          <line>Tidings of high import, or good or ill.</line>
+          <line>A MESSENGER enters.</line>
+          <line>MESSENGER</line>
+          <line>Wo to the towns through Asia's peopled realms!</line>
+          <line>Wo to the land of Persia, once the port</line>
+          <line>Of boundless wealth, how is thy glorious state</line>
+          <line>Vanish'd at once, and all thy spreading honours</line>
+          <line>Fall'n, lost! Ah me! unhappy is his task</line>
+          <line>That bears unhappy tidings: but constraint</line>
+          <line>Compels me to relate this tale of wo.</line>
+          <line>Persians, the whole barbaric host is fall'n.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>O horror, horror! What a baleful train</line>
+          <line>Of recent ills! Ah, Persians, as he speaks</line>
+          <line>Of ruin, let your tears stream to the earth.</line>
+          <line>MESSENGER</line>
+          <line>It is ev'n so, all ruin; and myself,</line>
+          <line>Beyond all hope returning, view this light.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>How tedious and oppressive is the weight</line>
+          <line>Of age, reserved to hear these hopeless ills!</line>
+          <line>MESSENGER</line>
+          <line>I speak not from report; but these mine</line>
+          <line>eyes</line>
+          <line>Beheld the ruin which my tongue would utter.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Wo, wo is me! Then has the iron storm,</line>
+          <line>That darken'd from the realms of Asia, pour'd</line>
+          <line>In vain its arrowy shower on sacred Greece.</line>
+          <line>MESSENGER</line>
+          <line>In heaps the unhappy dead lie on the strand</line>
+          <line>Of Salamis, and all the neighbouring shores.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Unhappy friends, sunk, perish'd in the sea;</line>
+          <line>Their bodies, mid the wreck of shatter'd ships,</line>
+          <line>Mangled, and rolling on the encumber'd waves!</line>
+          <line>MESSENGER</line>
+          <line>Naught did their bows avail, but all the</line>
+          <line>troops</line>
+          <line>In the first conflict of the ships were lost.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Raise the funereal cry, with dismal notes</line>
+          <line>Wailing the wretched Persians. Oh, how ill</line>
+          <line>They plann'd their measures, all their army perish'd!</line>
+          <line>MESSENGER</line>
+          <line>O Salamis, how hateful is thy name!</line>
+          <line>And groans burst from me when I think of Athens.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>How dreadful to her foes! Call to remembrance</line>
+          <line>How many Persian dames, wedded in vain,</line>
+          <line>Hath Athens of their noble husbands widow'd?</line>
+          <line>ATOSSA</line>
+          <line>Astonied with these ills, my voice thus</line>
+          <line>long</line>
+          <line>Hath wanted utterance: griefs like these exceed</line>
+          <line>The power of speech or question: yet ev'n such,</line>
+          <line>Inflicted by the gods, must mortal man</line>
+          <line>Constrain'd by hard necessity endure.</line>
+          <line>But tell me all, without distraction tell me,</line>
+          <line>All this calamity, though many a groan</line>
+          <line>Burst from thy labouring heart. Who is not fallen?</line>
+          <line>What leader must we wail? What sceptred chief</line>
+          <line>Dying hath left his troops without a lord?</line>
+          <line>MESSENGER</line>
+          <line>Xerxes himself lives, and beholds the light.</line>
+          <line>ATOSSA</line>
+          <line>That word beams comfort on my house, a ray</line>
+          <line>That brightens through the melancholy gloom.</line>
+          <line>MESSENGER</line>
+          <line>Artembares, the potent chief that led</line>
+          <line>Ten thousand horse, lies slaughtered on the rocks</line>
+          <line>Of rough Sileniae. The great Dadaces,</line>
+          <line>Beneath whose standard march'd a thousand horse,</line>
+          <line>Pierced by a spear, fell headlong from the ship.</line>
+          <line>Tenagon, bravest of the Bactrians, lies</line>
+          <line>Roll'd on the wave-worn beach of Ajax' isle.</line>
+          <line>Lilaeus, Arsames, Argestes, dash</line>
+          <line>With violence in death against the rocks</line>
+          <line>Where nest the silver doves. Arcteus, that dwelt</line>
+          <line>Near to the fountains of the Egyptian Nile,</line>
+          <line>Adeues, and Pheresba, and Pharnuchus</line>
+          <line>Fell from one ship. Matallus, Chrysa's chief,</line>
+          <line>That led his dark'ning squadrons, thrice ten thousand,</line>
+          <line>On jet-black steeds, with purple gore distain'd</line>
+          <line>The yellow of his thick and shaggy beard.</line>
+          <line>The Magian Arabus, and Artames</line>
+          <line>From Bactra, mould'ring on the dreary shore</line>
+          <line>Lie low. Amistris, and Amphistreus there</line>
+          <line>Grasps his war-wear spear; there prostrate lies</line>
+          <line>The illustrious Ariomardus; long his los</line>
+          <line>Shall Sardis weep: thy Mysian Sisames,</line>
+          <line>And Tharybis, that o'er the burden'd deep</line>
+          <line>Led five times fifty vessels; Lerna gave</line>
+          <line>The hero birth, and manly race adorn'd</line>
+          <line>His pleasing form, but low in death he lies</line>
+          <line>Unhappy in his fate. Syennesis,</line>
+          <line>Cilicia's warlike chief, who dared to front</line>
+          <line>The foremost dangers, singly to the foes</line>
+          <line>A terror, there too found a glorious death.</line>
+          <line>These chieftains to my sad remembrance rise,</line>
+          <line>Relating but a few of many ills.</line>
+          <line>ATOSSA</line>
+          <line>This is the height of ill, ah me! and shame</line>
+          <line>To Persia, grief, and lamentation loud.</line>
+          <line>But tell me this, afresh renew thy tale:</line>
+          <line>What was the number of the Grecian fleet,</line>
+          <line>That in fierce conflict their bold barks should</line>
+          <line>dare</line>
+          <line>Rush to encounter with the Persian hosts.</line>
+          <line>MESSENGER</line>
+          <line>Know then, in numbers the barbaric fleet</line>
+          <line>Was far superior: in ten squadrons, each</line>
+          <line>Of thirty ships, Greece plough'd the deep; of these</line>
+          <line>One held a distant station. Xerxes led</line>
+          <line>A thousand ships; their number well I know;</line>
+          <line>Two hundred more, and seven, that swept the seas</line>
+          <line>With speediest sail: this was their full amount.</line>
+          <line>And in the engagement seem'd we not secure</line>
+          <line>Of victory? But unequal fortune sunk</line>
+          <line>Our scale in fight, discomfiting our host.</line>
+          <line>ATOSSA</line>
+          <line>The gods preserve the city of Minerva.</line>
+          <line>MESSENGER</line>
+          <line>The walls of Athens are impregnable,</line>
+          <line>Their firmest bulwarks her heroic sons.</line>
+          <line>ATOSSA</line>
+          <line>Which navy first advanced to the attack?</line>
+          <line>Who led to the onset, tell me; the bold Greeks,</line>
+          <line>Or, glorying in his numerous fleet, my son?</line>
+          <line>MESSENGER</line>
+          <line>Our evil genius, lady, or some god</line>
+          <line>Hostile to Persia, led to ev'ry ill.</line>
+          <line>Forth from the troops of Athens came a Greek,</line>
+          <line>And thus address'd thy son, the imperial Xerxes:-</line>
+          <line>"Soon as the shades of night descend, the Grecians</line>
+          <line>Shall quit their station; rushing to their oars</line>
+          <line>They mean to separate, and in secret flight</line>
+          <line>Seek safety." At these words, the royal chief,</line>
+          <line>Little conceiving of the wiles of Greece</line>
+          <line>And gods averse, to all the naval leaders</line>
+          <line>Gave his high charge:-"Soon as yon sun shall cease</line>
+          <line>To dart his radiant beams, and dark'ning night</line>
+          <line>Ascends the temple of the sky, arrange</line>
+          <line>In three divisions your well-ordered ships,</line>
+          <line>And guard each pass, each outlet of the seas:</line>
+          <line>Others enring around this rocky isle</line>
+          <line>Of Salamis. Should Greece escape her fate,</line>
+          <line>And work her way by secret flight, your heads</line>
+          <line>Shall answer the neglect." This harsh command</line>
+          <line>He gave, exulting in his mind, nor knew</line>
+          <line>What Fate design'd. With martial discipline</line>
+          <line>And prompt obedience, snatching a repast,</line>
+          <line>Each mariner fix'd well his ready oar.</line>
+          <line>Soon as the golden sun was set, and night</line>
+          <line>Advanced, each train'd to ply the dashing oar,</line>
+          <line>Assumed his seat; in arms each warrior stood,</line>
+          <line>Troop cheering troop through all the ships of war.</line>
+          <line>Each to the appointed station steers his course;</line>
+          <line>And through the night his naval force each chief</line>
+          <line>Fix'd to secure the passes. Night advanced,</line>
+          <line>But not by secret flight did Greece attempt</line>
+          <line>To escape. The morn, all beauteous to behold,</line>
+          <line>Drawn by white steeds bounds o'er the enlighten'd</line>
+          <line>earth;</line>
+          <line>At once from ev'ry Greek with glad acclaim</line>
+          <line>Burst forth the song of war, whose lofty notes</line>
+          <line>The echo of the island rocks return'd,</line>
+          <line>Spreading dismay through Persia's hosts, thus fallen</line>
+          <line>From their high hopes; no flight this solemn strain</line>
+          <line>Portended, but deliberate valour bent</line>
+          <line>On daring battle; while the trumpet's sound</line>
+          <line>Kindled the flames of war. But when their oars</line>
+          <line>The paean ended, with impetuous force</line>
+          <line>Dash'd the resounding surges, instant all</line>
+          <line>Rush'd on in view: in orderly array</line>
+          <line>The squadron on the right first led, behind</line>
+          <line>Rode their whole fleet; and now distinct we heard</line>
+          <line>From ev'ry part this voice of exhortation:-</line>
+          <line>"Advance, ye sons of Greece, from thraldom save</line>
+          <line>Your country, save your wives, your children save,</line>
+          <line>The temples of your gods, the sacred tomb</line>
+          <line>Where rest your honour'd ancestors; this day</line>
+          <line>The common cause of all demands your valour."</line>
+          <line>Meantime from Persia's hosts the deep'ning shout</line>
+          <line>Answer'd their shout; no time for cold delay;</line>
+          <line>But ship 'gainst ship its brazen beak impell'd.</line>
+          <line>First to the charge a Grecian galley rush'd;</line>
+          <line>Ill the Phoenician bore the rough attack,</line>
+          <line>Its sculptured prow all shatter'd. Each advanced</line>
+          <line>Daring an opposite. The deep array</line>
+          <line>Of Persia at the first sustain'd the encounter;</line>
+          <line>But their throng'd numbers, in the narrow seas</line>
+          <line>Confined, want room for action; and, deprived</line>
+          <line>Of mutual aid, beaks clash with beaks, and each</line>
+          <line>Breaks all the other's oars: with skill disposed</line>
+          <line>The Grecian navy circled them around</line>
+          <line>With fierce assault; and rushing from its height</line>
+          <line>The inverted vessel sinks: the sea no more</line>
+          <line>Wears its accustomed aspect, with foul wrecks</line>
+          <line>And blood disfigured; floating carcasses</line>
+          <line>Roll on the rocky shores: the poor remains</line>
+          <line>Of the barbaric armament to flight</line>
+          <line>Ply every oar inglorious: onward rush</line>
+          <line>The Greeks amid the ruins of the fleet,</line>
+          <line>As through a shoal of fish caught in the net,</line>
+          <line>Spreading destruction: the wide ocean o'er</line>
+          <line>Wailings are heard, and loud laments, till night</line>
+          <line>With darkness on her brow brought grateful truce.</line>
+          <line>Should I recount each circumstance of wo,</line>
+          <line>Ten times on my unfinished tale the sun</line>
+          <line>Would set; for be assured that not one day</line>
+          <line>Could close the ruin of so vast a host.</line>
+          <line>ATOSSA</line>
+          <line>Ah, what a boundless sea of wo hath burst</line>
+          <line>On Persia, and the whole barbaric race!</line>
+          <line>MESSENGER</line>
+          <line>These are not half, not half our ills; on</line>
+          <line>these</line>
+          <line>Came an assemblage of calamities,</line>
+          <line>That sunk us with a double weight of wo.</line>
+          <line>ATOSSA</line>
+          <line>What fortune can be more unfriendly to us</line>
+          <line>Than this? Say on, what dread calamity</line>
+          <line>Sunk Persia's host with greater weight of wo.</line>
+          <line>MESSENGER</line>
+          <line>Whoe'er of Persia's warriors glow'd in prime</line>
+          <line>Of vig'rous youth, or felt their generous souls</line>
+          <line>Expand with courage, or for noble birth</line>
+          <line>Shone with distinguish'd lustre, or excell'd</line>
+          <line>In firm and duteous loyalty, all these</line>
+          <line>Are fall'n, ignobly, miserably fall'n.</line>
+          <line>ATOSSA</line>
+          <line>Alas, their ruthless fate, unhappy friends!</line>
+          <line>But in what manner, tell me, did they perish?</line>
+          <line>MESSENGER</line>
+          <line>Full against Salamis an isle arises,</line>
+          <line>Of small circumference, to the anchor'd bark</line>
+          <line>Unfaithful; on the promontory's brow,</line>
+          <line>That overlooks the sea, Pan loves to lead</line>
+          <line>The dance: to this the monarch sends these chiefs,</line>
+          <line>That when the Grecians from their shatter'd ships</line>
+          <line>Should here seek shelter, these might hew them down</line>
+          <line>An easy conquest, and secure the strand</line>
+          <line>To their sea-wearied friends; ill judging what</line>
+          <line>The event: but when the fav'ring god to Greece</line>
+          <line>Gave the proud glory of this naval fight,</line>
+          <line>Instant in all their glitt'ring arms they leap'd</line>
+          <line>From their light ships, and all the island round</line>
+          <line>Encompass'd, that our bravest stood dismay'd;</line>
+          <line>While broken rocks, whirl'd with tempestuous force,</line>
+          <line>And storms of arrows crush'd them; then the Greeks</line>
+          <line>Rush to the attack at once, and furious spread</line>
+          <line>The carnage, till each mangled Persian fell.</line>
+          <line>Deep were the groans of Xerxes when he saw</line>
+          <line>This havoc; for his seat, a lofty mound</line>
+          <line>Commanding the wide sea, o'erlook'd his hosts.</line>
+          <line>With rueful cries he rent his royal robes,</line>
+          <line>And through his troops embattled on the shore</line>
+          <line>Gave signal of retreat; then started wild,</line>
+          <line>And fled disorder'd. To the former ills</line>
+          <line>These are fresh miseries to awake thy sighs.</line>
+          <line>ATOSSA</line>
+          <line>Invidious Fortune, how thy baleful power</line>
+          <line>Hath sunk the hopes of Persia! Bitter fruit</line>
+          <line>My son hath tasted from his purposed vengeance</line>
+          <line>On Athens, famed for arms; the fatal field</line>
+          <line>Of Marathon, red with barbaric blood,</line>
+          <line>Sufficed not; that defeat he thought to avenge,</line>
+          <line>And pull'd this hideous ruin on his head.</line>
+          <line>But tell me, if thou canst, where didst thou leave</line>
+          <line>The ships that happily escaped the wreck?</line>
+          <line>MESSENGER</line>
+          <line>The poor remains of Persia's scatter'd fleet</line>
+          <line>Spread ev'ry sail for flight, as the wind drives,</line>
+          <line>In wild disorder; and on land no less</line>
+          <line>The ruin'd army; in Boeotia some,</line>
+          <line>With thirst oppress'd, at Crene's cheerful rills</line>
+          <line>Were lost; forespent with breathless speed some</line>
+          <line>pass</line>
+          <line>The fields of Phocis, some the Doric plain,</line>
+          <line>And near the gulf of Melia, the rich vale</line>
+          <line>Through which Sperchius rolls his friendly stream.</line>
+          <line>Achaea thence and the Thessalian state</line>
+          <line>Received our famish'd train; the greater part</line>
+          <line>Through thirst and hunger perish'd there, oppress'd</line>
+          <line>At once by both: but we our painful steps</line>
+          <line>Held onwards to Magnesia, and the land</line>
+          <line>Of Macedonia, o'er the ford of Axius,</line>
+          <line>And Bolbe's sedgy marshes, and the heights</line>
+          <line>Of steep Pangaeos, to the realms of Thrace.</line>
+          <line>That night, ere yet the season, breathing frore,</line>
+          <line>Rush'd winter, and with ice incrusted o'er</line>
+          <line>The flood of sacred Strymon: such as own'd</line>
+          <line>No god till now, awe-struck, with many a prayer</line>
+          <line>Adored the earth and sky. When now the troops</line>
+          <line>Had ceased their invocations to the gods,</line>
+          <line>O'er the stream's solid crystal they began</line>
+          <line>Their march; and we, who took our early way,</line>
+          <line>Ere the sun darted his warm beams, pass'd safe:</line>
+          <line>But when this burning orb with fiery rays</line>
+          <line>Unbound the middle current, down they sunk</line>
+          <line>Each over other; happiest he who found</line>
+          <line>The speediest death: the poor remains, that 'scaped,</line>
+          <line>With pain through Thrace dragg'd on their toilsome</line>
+          <line>march,</line>
+          <line>A feeble few, and reach'd their native soil;</line>
+          <line>That Persia sighs through all her states, and mourns</line>
+          <line>Her dearest youth. This is no feigned tale:</line>
+          <line>But many of the ills, that burst upon us</line>
+          <line>In dreadful vengeance, I refrain to utter.</line>
+          <line>The MESSENGER withdraws.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>O Fortune, heavy with affliction's load,</line>
+          <line>How bath thy foot crush'd all the Persian race!</line>
+          <line>ATOSSA</line>
+          <line>Ah me, what sorrows for our ruin'd host</line>
+          <line>Oppress my soul! Ye visions of the night</line>
+          <line>Haunting my dreams, how plainly did you show</line>
+          <line>These ills!-You set them in too fair a light.</line>
+          <line>Yet, since your bidding hath in this prevail'd,</line>
+          <line>First to the gods wish I to pour my prayers,</line>
+          <line>Then to the mighty dead present my off 'rings,</line>
+          <line>Bringing libations from my house: too late,</line>
+          <line>I know, to change the past; yet for the future,</line>
+          <line>If haply better fortune may await it,</line>
+          <line>Behooves you, on this sad event, to guide</line>
+          <line>Your friends with faithful counsels. Should my son</line>
+          <line>Return ere I have finish'd, let your voice</line>
+          <line>Speak comfort to him; friendly to his house</line>
+          <line>Attend him, nor let sorrow rise on sorrows.</line>
+          <line>ATOSSA and her retinue go out.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>strophe</line>
+          <line>Awful sovereign of the skies,</line>
+          <line>When now o'er Persia's numerous host</line>
+          <line>Thou badest the storm with ruin rise,</line>
+          <line>All her proud vaunts of glory lost,</line>
+          <line>Ecbatana's imperial head</line>
+          <line>By thee was wrapp'd in sorrow's dark'ning shade;</line>
+          <line>Through Susa's palaces with loud lament,</line>
+          <line>By their soft hands their veils all rent,</line>
+          <line>The copious tear the virgins pour,</line>
+          <line>That trickles their bare bosoms o'er.</line>
+          <line>From her sweet couch up starts the widow'd bride,</line>
+          <line>Her lord's loved image rushing on her soul,</line>
+          <line>Throws the rich ornaments of youth aside,</line>
+          <line>And gives her griefs to flow without control:</line>
+          <line>Her griefs not causeless; for the mighty slain</line>
+          <line>Our melting tears demand, and sorrow-soften'd strain.</line>
+          <line>antistrophe</line>
+          <line>Now her wailings wide despair</line>
+          <line>Pours these exhausted regions o'er:</line>
+          <line>Xerxes, ill-fated, led the war;</line>
+          <line>Xerxes, ill-fated, leads no more;</line>
+          <line>Xerxes sent forth the unwise command,</line>
+          <line>The crowded ships unpeopled all the land;</line>
+          <line>That land, o'er which Darius held his reign,</line>
+          <line>Courting the arts of peace, in vain,</line>
+          <line>O'er all his grateful realms adored,</line>
+          <line>The stately Susa's gentle lord.</line>
+          <line>Black o'er the waves his burden'd vessels sweep,</line>
+          <line>For Greece elate the warlike squadrons fly;</line>
+          <line>Now crush'd, and whelm'd beneath the indignant deep</line>
+          <line>The shatter'd wrecks and lifeless heroes lie:</line>
+          <line>While, from the arms of Greece escaped, with toil</line>
+          <line>The unshelter'd monarch roams o'er Thracia's dreary soil.</line>
+          <line>epode</line>
+          <line>The first in battle slain</line>
+          <line>By Cychrea's craggy shore</line>
+          <line>Through sad constraint, ah me! forsaken lie,</line>
+          <line>All pale and smear'd with gore:-</line>
+          <line>Raise high the mournful strain,</line>
+          <line>And let the voice of anguish pierce the sky:-</line>
+          <line>Or roll beneath the roaring tide,</line>
+          <line>By monsters rent of touch abhorr'd;</line>
+          <line>While through the widow'd mansion echoing wide</line>
+          <line>Sounds the deep groan, and wails its slaughter'd</line>
+          <line>lord:</line>
+          <line>Pale with his fears the helpless orphan there</line>
+          <line>Gives the full stream of plaintive grief to flow;</line>
+          <line>While age its hoary head in deep despair</line>
+          <line>Bends; list'ning to the shrieks of wo.</line>
+          <line>With sacred awe</line>
+          <line>The Persian law</line>
+          <line>No more shall Asia's realms revere;</line>
+          <line>To their lord's hand</line>
+          <line>At his command,</line>
+          <line>No more the exacted tribute bear.</line>
+          <line>Who now falls prostrate at the monarch's throne?</line>
+          <line>His regal greatness is no more.</line>
+          <line>Now no restraint the wanton tongue shall own,</line>
+          <line>Free from the golden curb of power;</line>
+          <line>For on the rocks, wash'd by the beating flood,</line>
+          <line>His awe commanding nobles lie in blood.</line>
+          <line>ATOSSA returns, clad in the garb of mourning; she carries offerings</line>
+          <line>for the tomb of Darius.</line>
+          <line>ATOSSA</line>
+          <line>Whoe'er, my friends, in the rough stream of</line>
+          <line>life</line>
+          <line>Hath struggled with affliction, thence is taught</line>
+          <line>That, when the flood begins to swell, the heart</line>
+          <line>Fondly fears all things; when the fav'ring gale</line>
+          <line>Of Fortune smooths the current, it expands</line>
+          <line>With unsuspecting confidence, and deems</line>
+          <line>That gale shall always breathe. So to my eyes</line>
+          <line>All things now wear a formidable shape,</line>
+          <line>And threaten from the gods: my ears are pierced</line>
+          <line>With sounds far other than of song. Such ills</line>
+          <line>Dismay my sick'ning soul: hence from my house</line>
+          <line>Nor glitt'ring car attends me, nor the train</line>
+          <line>Of wonted state, while I return, and bear</line>
+          <line>Libations soothing to the father's shade</line>
+          <line>In the son's cause; delicious milk, that foams</line>
+          <line>White from the sacred heifer; liquid honey,</line>
+          <line>Extract of flowers; and from its virgin fount</line>
+          <line>The running crystal; this pure draught, that flow'd</line>
+          <line>From the ancient vine, of power to bathe the spirits</line>
+          <line>In joy; the yellow olive's fragrant fruit,</line>
+          <line>That glories in its leaves' unfading verdure;</line>
+          <line>With flowers of various hues, earth's fairest offspring</line>
+          <line>Inwreathed. But you, my friends, amid these rites</line>
+          <line>Raise high your solemn warblings, and invoke</line>
+          <line>Your lord, divine Darius; I meanwhile</line>
+          <line>Will pour these off'rings to the infernal gods.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Yes, royal lady, Persia's honour'd grace,</line>
+          <line>To earth's dark chambers pour thy off'rings: we</line>
+          <line>With choral hymns will supplicate the powers</line>
+          <line>That guide the dead, to be propitious to us.</line>
+          <line>And you, that o'er the realms of night extend</line>
+          <line>Your sacred sway, thee mighty earth, and the</line>
+          <line>Hermes; thee chief, tremendous king, whose throne</line>
+          <line>Awes with supreme dominion, I adjure:</line>
+          <line>Send, from your gloomy regions, send his shade</line>
+          <line>Once more to visit this ethereal light;</line>
+          <line>That he alone, if aught of dread event</line>
+          <line>He sees yet threat'ning Persia, may disclose</line>
+          <line>To us poor mortals Fate's extreme decree.</line>
+          <line>Hears the honour'd godlike king?</line>
+          <line>These barbaric notes of wo,</line>
+          <line>Taught in descant sad to ring,</line>
+          <line>Hears he in the shades below?</line>
+          <line>Thou, O Earth, and you, that lead</line>
+          <line>Through your sable realms the dead,</line>
+          <line>Guide him as he takes his way,</line>
+          <line>And give him to the ethereal light of day!</line>
+          <line>Let the illustrious shade arise</line>
+          <line>Glorious in his radiant state,</line>
+          <line>More than blazed before our eyes,</line>
+          <line>Ere sad Susa mourn'd his fate.</line>
+          <line>Dear he lived, his tomb is dear,</line>
+          <line>Shrining virtues we revere:</line>
+          <line>Send then, monarch of the dead,</line>
+          <line>Such as Darius was, Darius' shade.</line>
+          <line>He in realm-unpeopling war</line>
+          <line>Wasted not his subjects' blood,</line>
+          <line>Godlike in his will to spare,</line>
+          <line>In his councils wise and good.</line>
+          <line>Rise then, sovereign lord, to light;</line>
+          <line>On this mound's sepulchral height</line>
+          <line>Lift thy sock in saffron died,</line>
+          <line>And rear thy rich tiara's regal pride!</line>
+          <line>Great and good, Darius, rise:</line>
+          <line>Lord of Persia's lord, appear:</line>
+          <line>Thus involved with thrilling cries</line>
+          <line>Come, our tale of sorrow hear!</line>
+          <line>War her Stygian pennons spreads,</line>
+          <line>Brooding darkness o'er our heads;</line>
+          <line>For stretch'd along the dreary shore</line>
+          <line>The flow'r of Asia lies distain'd with gore.</line>
+          <line>Rise, Darius, awful power;</line>
+          <line>Long for thee our tears shall flow.</line>
+          <line>Why thy ruin'd empire o'er</line>
+          <line>Swells this double flood of wo?</line>
+          <line>Sweeping o'er the azure tide</line>
+          <line>Rode thy navy's gallant pride:</line>
+          <line>Navy now no more, for all</line>
+          <line>Beneath the whelming wave-</line>
+          <line>While the CHORUS Sings, ATOSSA performs her ritual by the tomb. As the</line>
+          <line>song concludes the GHOST OF DARIUS appears from the</line>
+          <line>tomb.</line>
+          <line>GHOST OF DARIUS</line>
+          <line>Ye faithful Persians, honour'd now in age,</line>
+          <line>Once the companions of my youth, what ills</line>
+          <line>Afflict the state? The firm earth groans, it opes,</line>
+          <line>Disclosing its vast deeps; and near my tomb</line>
+          <line>I see my wife: this shakes my troubled soul</line>
+          <line>With fearful apprehensions; yet her off'rings</line>
+          <line>Pleased I receive. And you around my tomb</line>
+          <line>Chanting the lofty strain, whose solemn air</line>
+          <line>Draws forth the dead, with grief-attemper'd notes</line>
+          <line>Mournfully call me: not with ease the way</line>
+          <line>Leads to this upper air; and the stern gods,</line>
+          <line>Prompt to admit, yield not a passage back</line>
+          <line>But with reluctance: much with them my power</line>
+          <line>Availing, with no tardy step I come.</line>
+          <line>Say then, with what new ill doth Persia groan?</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>My wonted awe o'ercomes me; in thy presence</line>
+          <line>I dare not raise my eyes, I dare not speak.</line>
+          <line>GHOST OF DARIUS</line>
+          <line>Since from the realms below, by thy sad</line>
+          <line>strains</line>
+          <line>Adjured, I come, speak; let thy words be brief;</line>
+          <line>Say whence thy grief, tell me unawed by fear.</line>
+          <line>I dread to forge a flattering tale, I dread</line>
+          <line>To grieve thee with a harsh offensive truth.</line>
+          <line>GHOST OF DARIUS</line>
+          <line>Since fear hath chained his tongue, high-honour'd</line>
+          <line>dame,</line>
+          <line>Once my imperial consort, check thy tears,</line>
+          <line>Thy griefs, and speak distinctly. Mortal man</line>
+          <line>Must bear his lot of wo; afflictions rise</line>
+          <line>Many from sea, many from land, if life</line>
+          <line>Be haply measured through a lengthen'd course.</line>
+          <line>ATOSSA</line>
+          <line>O thou that graced with Fortune's choicest</line>
+          <line>gifts</line>
+          <line>Surpassing mortals, while thine eye beheld</line>
+          <line>Yon sun's ethereal rays, lived'st like a god</line>
+          <line>Bless'd amid thy Persians; bless'd I deem thee now</line>
+          <line>In death, ere sunk in this abyss of ills,</line>
+          <line>Darius, hear at once our sum of wo;</line>
+          <line>Ruin through all her states hath crush'd thy Persia.</line>
+          <line>GHOST OF DARIUS</line>
+          <line>By pestilence, or faction's furious storms?</line>
+          <line>ATOSSA</line>
+          <line>Not so: near Athens perish'd all our troops.</line>
+          <line>GHOST OF DARIUS</line>
+          <line>Say, of my sons, which led the forces thither?</line>
+          <line>ATOSSA</line>
+          <line>The impetuous Xerxes, thinning all the land.</line>
+          <line>GHOST OF DARIUS</line>
+          <line>By sea or land dared he this rash attempt?</line>
+          <line>ATOSSA</line>
+          <line>By both: a double front the war presented.</line>
+          <line>GHOST OF DARIUS</line>
+          <line>A host so vast what march conducted o'er?</line>
+          <line>ATOSSA</line>
+          <line>From shore to shore he bridged the Hellespont.</line>
+          <line>GHOST OF DARIUS</line>
+          <line>What! could he chain the mighty Bosphorus?</line>
+          <line>ATOSSA</line>
+          <line>Ev'n so, some god assisting his design.</line>
+          <line>GHOST OF DARIUS</line>
+          <line>Some god of power to cloud his better sense.</line>
+          <line>ATOSSA</line>
+          <line>The event now shows what mischiefs he achieved.</line>
+          <line>GHOST OF DARIUS</line>
+          <line>What suffer'd they, for whom your sorrows flow?</line>
+          <line>ATOSSA</line>
+          <line>His navy sunk spreads ruin through the camp.</line>
+          <line>GHOST OF DARIUS</line>
+          <line>Fell all his host beneath the slaught'ring spear?</line>
+          <line>ATOSSA</line>
+          <line>Susa, through all her streets, mourns her lost sons.</line>
+          <line>GHOST OF DARIUS</line>
+          <line>How vain the succour, the defence of arms?</line>
+          <line>ATOSSA</line>
+          <line>In Bactra age and grief are only left.</line>
+          <line>GHOST OF DARIUS</line>
+          <line>Ah, what a train of warlike youth is lost!</line>
+          <line>ATOSSA</line>
+          <line>Xerxes, astonished, desolate, alone-</line>
+          <line>GHOST OF DARIUS</line>
+          <line>How will this end? Nay, pause not. Is he safe?</line>
+          <line>ATOSSA</line>
+          <line>Fled o'er the bridge, that join'd the adverse strands.</line>
+          <line>GHOST OF DARIUS</line>
+          <line>And reach'd this shore in safety? Is this true?</line>
+          <line>ATOSSA</line>
+          <line>True are thy words, and not to be gainsay'd.</line>
+          <line>GHOST OF DARIUS</line>
+          <line>With what a winged course the oracles</line>
+          <line>Haste their completion! With the lightning's speed</line>
+          <line>Jove on my son hath hurled his threaten'd vengeance:</line>
+          <line>Yet I implored the gods that it might fall</line>
+          <line>In time's late process: but when rashness drives</line>
+          <line>Impetuous on, the scourge of Heaven upraised</line>
+          <line>Lashes the Fury forward; hence these ills</line>
+          <line>Pour headlong on my friends. Not weighing this,</line>
+          <line>My son, with all the fiery pride of youth,</line>
+          <line>Hath quickened their arrival, while he hoped</line>
+          <line>To bind the sacred Hellespont, to hold</line>
+          <line>The raging Bosphorus, like a slave, in chains,</line>
+          <line>And dared the advent'rous passage, bridging firm</line>
+          <line>With links of solid iron his wondrous way,</line>
+          <line>To lead his numerous host; and swell'd with thoughts</line>
+          <line>Presumptuous, deem'd, vain mortal! that his power</line>
+          <line>Should rise above the gods, and Neptune's might.</line>
+          <line>And was riot this the phrensy of the soul?</line>
+          <line>But much I fear lest all my treasured wealth</line>
+          <line>Fall to some daring hand an easy prey.</line>
+          <line>ATOSSA</line>
+          <line>This from too frequent converse with bad</line>
+          <line>men</line>
+          <line>The impetuous Xerxes learn'd; these caught his ear</line>
+          <line>With thy great deeds, as winning for thy sons</line>
+          <line>Vast riches with thy conquering spear, while he</line>
+          <line>Tim'rous and slothful, never, save in sport,</line>
+          <line>Lifted his lance, nor added to the wealth</line>
+          <line>Won by his noble fathers. This reproach</line>
+          <line>Oft by bad men repeated, urged his soul</line>
+          <line>To attempt this war, and lead his troops to Greece.</line>
+          <line>GHOST OF DARIUS</line>
+          <line>Great deeds have they achieved, and memorable</line>
+          <line>For ages: never hath this wasted state</line>
+          <line>Suffer'd such ruin, since heaven's awful king</line>
+          <line>Gave to one lord Asia's extended plains</line>
+          <line>White with innumerous flocks, and to his hands</line>
+          <line>Consign'd the imperial sceptre. Her brave hosts</line>
+          <line>A Mede first led; the virtues of his son</line>
+          <line>Fix'd firm the empire, for his temperate soul</line>
+          <line>Breathed prudence. Cyrus next, by fortune graced,</line>
+          <line>Adorn'd the throne, and bless'd his grateful friends</line>
+          <line>With peace: he to his mighty monarchy</line>
+          <line>Join'd Lydia, and the Phrygians; to his power</line>
+          <line>Ionia bent reluctant; but the gods</line>
+          <line>His son then wore the regal diadem.</line>
+          <line>With victory his gentle virtues crown'd</line>
+          <line>His son then wore the regal diadem.</line>
+          <line>Next to disgrace his country, and to stain</line>
+          <line>The splendid glories of this ancient throne,</line>
+          <line>Rose Mardus: him, with righteous vengeance fired</line>
+          <line>Artaphernes, and his confederate chiefs</line>
+          <line>Crush'd in his palace: Maraphis assumed</line>
+          <line>The sceptre: after him Artaphernes.</line>
+          <line>Me next to this exalted eminence,</line>
+          <line>Crowning my great ambition, Fortune raised.</line>
+          <line>In many a glorious field my glittering spear</line>
+          <line>Flamed in the van of Persia's numerous hosts;</line>
+          <line>But never wrought such ruin to the state.</line>
+          <line>Xerxes, my son, in all the pride of youth</line>
+          <line>Listens to youthful counsels, my commands</line>
+          <line>No more remember'd; hence, my hoary friends,</line>
+          <line>Not the whole line of Persia's sceptred lords,</line>
+          <line>You know it well, so wasted her brave sons.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>Why this? To what fair end are these thy</line>
+          <line>words</line>
+          <line>Directed? Sovereign lord, instruct thy Persians</line>
+          <line>How, mid this ruin, best to guide their state.</line>
+          <line>GHOST OF DARIUS</line>
+          <line>No more 'gainst Greece lead your embattled</line>
+          <line>hosts;</line>
+          <line>Not though your deep'ning phalanx spreads the field</line>
+          <line>Outnumb'ring theirs: their very earth fights for them.</line>
+          <line>LEADER</line>
+          <line>What may thy words import? How fight for them?</line>
+          <line>GHOST OF DARIUS</line>
+          <line>With famine it destroys your cumbrous train.</line>
+          <line>LEADER</line>
+          <line>Choice levies, prompt for action, will we send,</line>
+          <line>GHOST OF DARIUS</line>
+          <line>Those, in the fields of Greece that now</line>
+          <line>remain,</line>
+          <line>Shall not revisit safe the Persian shore.</line>
+          <line>LEADER</line>
+          <line>What! shall not all the host of Persia pass</line>
+          <line>Again from Europe o'er the Hellespont?</line>
+          <line>GHOST OF DARIUS</line>
+          <line>Of all their numbers few, if aught avails</line>
+          <line>The faith of heaven-sent oracles to him</line>
+          <line>That weighs the past, in their accomplishment</line>
+          <line>Not partial: hence he left, in faithless hope</line>
+          <line>Confiding, his selected train of heroes.</line>
+          <line>These have their station where Asopus flows</line>
+          <line>Wat'ring the plain, whose grateful currents roll</line>
+          <line>Diffusing plenty through Boeotia's fields.</line>
+          <line>There misery waits to crush them with the load</line>
+          <line>Of heaviest ills, in vengeance for their proud</line>
+          <line>And impious daring; for where'er they held</line>
+          <line>Through Greece their march, they fear'd not to profane</line>
+          <line>The statues of the gods; their hallow'd shrines</line>
+          <line>Emblazed, o'erturn'd their altars, and in ruins,</line>
+          <line>Rent from their firm foundations, to the ground</line>
+          <line>Levell'd their temples; such their frantic deeds,</line>
+          <line>Nor less their suff'rings; greater still await them;</line>
+          <line>For Vengeance hath not wasted all her stores;</line>
+          <line>The heap yet swells; for in Plataea's plains</line>
+          <line>Beneath the Doric spear the clotted mas</line>
+          <line>Of carnage shall arise, that the high mounds,</line>
+          <line>Piled o'er the dead, to late posterity</line>
+          <line>Shall give this silent record to men's eyes,</line>
+          <line>That proud aspiring thoughts but ill beseem</line>
+          <line>Weak mortals: for oppression, when it springs,</line>
+          <line>Puts forth the blade of vengeance, and its fruit</line>
+          <line>Yields a ripe harvest of repentant wo.</line>
+          <line>Behold this vengeance, and remember Greece,</line>
+          <line>Remember Athens: henceforth let not pride,</line>
+          <line>Her present state disdaining, strive to grasp</line>
+          <line>Another's, and her treasured happiness</line>
+          <line>Shed on the ground: such insolent attempts</line>
+          <line>Awake the vengeance of offended Jove.</line>
+          <line>But you, whose age demands more temperate thoughts,</line>
+          <line>With words of well-placed counsel teach his youth</line>
+          <line>To curb that pride, which from the gods calls down</line>
+          <line>Destruction on his head.</line>
+          <line>To ATOSSA</line>
+          <line>And thou, whose age</line>
+          <line>The miseries of thy Xerxes sink with sorrow,</line>
+          <line>Go to thy house, thence choose the richest robe,</line>
+          <line>And meet thy son; for through the rage of grief</line>
+          <line>His gorgeous vestments from his royal limbs</line>
+          <line>Are foully rent. With gentlest courtesy</line>
+          <line>Soothe his affliction; for is duteous ear,</line>
+          <line>I know, will listen to thy voice alone.</line>
+          <line>Now to the realms of darkness I descend.</line>
+          <line>My ancient friends, farewell, and mid these ills</line>
+          <line>Each day in pleasures battle your drooping spirits,</line>
+          <line>For treasured riches naught avail the dead.</line>
+          <line>The GHOST OF DARIUS vanishes into the tomb.</line>
+          <line>LEADER</line>
+          <line>These many present, many future ills</line>
+          <line>Denounced on Persia, sink my soul with grief.</line>
+          <line>ATOSSA</line>
+          <line>Unhappy fortune, what a tide of ills</line>
+          <line>Bursts o'er me! Chief this foul disgrace, which</line>
+          <line>shows</line>
+          <line>My son divested of his rich attire,</line>
+          <line>His royal robes all rent, distracts my thoughts.</line>
+          <line>But I will go, choose the most gorgeous vest,</line>
+          <line>And liaste to meet my son. Ne'er in his woes</line>
+          <line>Will I forsake whom my soul holds most dear.</line>
+          <line>ATOSSA departs as the CHORUS begins its song.</line>
+          <line>CHORUS</line>
+          <line>strophe 1</line>
+          <line>Ye powers that rule the skies,</line>
+          <line>Memory recalls our great, our happy fate,</line>
+          <line>Our well-appointed state,</line>
+          <line>The scenes of glory opening to our eyes,</line>
+          <line>When this vast empire o'er</line>
+          <line>The good Darius, with each virtue bless'd</line>
+          <line>That forms a monarch's breast,</line>
+          <line>Shielding his subjects with a father's care</line>
+          <line>Invincible in war,</line>
+          <line>Extended like a god his awful power,</line>
+          <line>Then spread our arms their glory wide,</line>
+          <line>Guarding to peace her golden reign:</line>
+          <line>Each tower'd city saw with pride</line>
+          <line>Safe from the toils of war her homeward-marching train. antistrophe</line>
+          <line>Nor Haly's shallow strand</line>
+          <line>He pass'd, nor from his palace moved his state;</line>
+          <line>He spoke; his word was Fate.</line>
+          <line>What strong-based cities could his might withstand?</line>
+          <line>Not those that lift their heads</line>
+          <line>Where to the sea the floods of Strymon pass,</line>
+          <line>Leaving the huts of Thrace;</line>
+          <line>Nor those, that far the extended ocean o'er</line>
+          <line>Stand girt with many a tower;</line>
+          <line>Nor where the Hellespont his broad wave spreads;</line>
+          <line>Nor the firm bastions' rampired might,</line>
+          <line>Whose foot the deep Propontis laves;</line>
+          <line>Nor those, that glorying in their height</line>
+          <line>Frown o'er the Pontic sea, and shade his darken'd waves. strophe</line>
+          <line>Each sea-girt isle around</line>
+          <line>Bow'd to this monarch: humbled Lesbos bow'd;</line>
+          <line>Paros, of its marble proud;</line>
+          <line>Naxos with vines, with olives Samos crown'd:</line>
+          <line>Him Myconos adored;</line>
+          <line>Chios, the seat of beauty; Andros steep,</line>
+          <line>That stretches o'er the deep</line>
+          <line>To meet the wat'ry Tenos; him each bay</line>
+          <line>Bound by the Icarian sea,</line>
+          <line>Him Melos, Gnidus, Rhodes confess'd their lord;</line>
+          <line>O'er Cyprus stretch'd his sceptred hand:</line>
+          <line>Paphos and Solos own'd his power,</line>
+          <line>And Salamis, whose hostile strand,</line>
+          <line>The cause of all our wo, is red with Persian gore. antistrophe</line>
+          <line>Ev'n the proud towns, that rear'd</line>
+          <line>Sublime along the lonian coast their towers,</line>
+          <line>Where wealth her treasures pours,</line>
+          <line>Peopled from Greece, his prudent reign revered.</line>
+          <line>With such unconquer'd might</line>
+          <line>His hardy warriors shook the embattled fields,</line>
+          <line>Heroes that Persia yields,</line>
+          <line>And those from distant realms that took their way,</line>
+          <line>And wedged in close array</line>
+          <line>Beneath his glitt'ring banners claim'd the fight.</line>
+          <line>But now these glories are no more:</line>
+          <line>Farewell the big war's plumed pride:</line>
+          <line>The gods have crush'd this trophied power;</line>
+          <line>Sunk are our vanquish'd arms beneath the indignant tide.</line>
+          <line>XERXES enters, with a few followers. His royal raiment is torn, The</line>
+          <line>entire closing scene is sung or chanted.</line>
+          <line>XERXES</line>
+          <line>Ah me, how sudden have the storms of Fate,</line>
+          <line>Beyond all thought, all apprehension, burst</line>
+          <line>On my devoted head! O Fortune, Fortune!</line>
+          <line>With what relentless fury hath thy hand</line>
+          <line>Hurl'd desolation on the Persian race!</line>
+          <line>Wo unsupportable! The torturing thought</line>
+          <line>Of our lost youth comes rushing on my mind,</line>
+          <line>And sinks me to the ground. O Jove, that</line>
+          <line>Had died with those brave men that died in fight I</line>
+          <line>CHORUS</line>
+          <line>O thou afflicted monarch, once the lord</line>
+          <line>Of marshall'd armies, of the lustre beam'd</line>
+          <line>From glory's ray o'er Persia, of her sons</line>
+          <line>The pride, the grace, whom ruin now hath sunk</line>
+          <line>In blood! The unpeopled land laments her youth</line>
+          <line>By Xerxes led to slaughter, till the realms</line>
+          <line>Of death are gorged with Persians; for the flower</line>
+          <line>Of all the realm, thousands, whose dreadful bows</line>
+          <line>With arrowy shower annoy'd the foe, are fall'n.</line>
+          <line>XERXES</line>
+          <line>Your fall, heroic youths, distracts my soul.</line>
+          <line>CHORUS</line>
+          <line>And Asia sinking on her knee, O king,</line>
+          <line>Oppress'd, with griefs oppress'd, bends to the earth.</line>
+          <line>XERXES</line>
+          <line>And I, O wretched fortune, I was born</line>
+          <line>To crush, to desolate my ruin'd country!</line>
+          <line>CHORUS</line>
+          <line>I have no voice, no swelling harmony,</line>
+          <line>No descant, save these notes of wo,</line>
+          <line>Harsh, and responsive to the sullen sigh,</line>
+          <line>Rude strains, that unmelodious flow,</line>
+          <line>To welcome thy return.</line>
+          <line>XERXES</line>
+          <line>Then bid them flow, bid the wild measures</line>
+          <line>flow</line>
+          <line>Hollow, unmusical, the notes of grief;</line>
+          <line>They suit my fortune, and dejected state.</line>
+          <line>CHORUS</line>
+          <line>Yes, at thy royal bidding shall the strain</line>
+          <line>Pour the deep sorrows of my soul;</line>
+          <line>The suff'rings of my bleeding country plain,</line>
+          <line>And bid the mournful measures roll.</line>
+          <line>Again the voice of wild despair</line>
+          <line>With thrilling shrieks shall pierce the air;</line>
+          <line>For high the god of war his flaming crest</line>
+          <line>Raised, with the fleet of Greece surrounded,</line>
+          <line>The haughty arms of Greece with conquest bless'd,</line>
+          <line>And Persia's wither'd force confounded,</line>
+          <line>Dash'd on the dreary beach her heroes slain,</line>
+          <line>Or whelm'd them in the darken'd main.</line>
+          <line>XERXES</line>
+          <line>To swell thy griefs ask ev'ry circumstance.</line>
+          <line>CHORUS</line>
+          <line>Where are thy valiant friends, thy chieftains</line>
+          <line>where?</line>
+          <line>Pharnaces, Susas, and the might</line>
+          <line>Of Pelagon, and Dotamas? The spear</line>
+          <line>Of Agabates bold in fight?</line>
+          <line>Psammis in mailed cuirass dress'd,</line>
+          <line>And Susiscanes' glitt'ring crest?</line>
+          <line>XERXES</line>
+          <line>Dash'd from the Tyrian vessel on the rocks</line>
+          <line>Of Salamis they sunk, and smear'd with gore</line>
+          <line>The heroes on the dreary strand are stretch'd.</line>
+          <line>CHORUS</line>
+          <line>Where is Pharnuchus? Ariomardus where,</line>
+          <line>With ev'ry gentle virtue graced?</line>
+          <line>Lilaeus, that from chiefs renown'd in war</line>
+          <line>His high-descended lineage traced?</line>
+          <line>Where rears Sebalces his crown-circled head:</line>
+          <line>Where Tharybis to battles bred,</line>
+          <line>Artembares, Hystaechmes bold,</line>
+          <line>Memphis, Masistress sheath'd in gold?</line>
+          <line>XERXES</line>
+          <line>Wretch that I am! These on the abhorred</line>
+          <line>town</line>
+          <line>Ogygian Athens, roll'd their glowing eyes</line>
+          <line>Indignant; but at once in the fierce shock</line>
+          <line>Of battle fell, dash'd breathless on the ground.</line>
+          <line>CHORUS</line>
+          <line>There does the son of Batanochus lie,</line>
+          <line>Through whose rich veins the unsullied blood</line>
+          <line>Of Susamus, down from the lineage high</line>
+          <line>Of noble Mygabatas flow'd:</line>
+          <line>Alpistus, who with faithful care</line>
+          <line>Number'd the deep'ning files of war,</line>
+          <line>The monarch's eye; on the ensanguined plain</line>
+          <line>Low is the mighty warrior laid?</line>
+          <line>Is great Aebares 'mong the heroes slain,</line>
+          <line>And Partheus number'd with the dead?-</line>
+          <line>Ah me! those bursting groans, deep-charged with</line>
+          <line>wo,</line>
+          <line>The fate of Persia's princes show.</line>
+          <line>XERXES</line>
+          <line>To my grieved memory thy mournful voice,</line>
+          <line>Tuned to the saddest notes of wo, recalls</line>
+          <line>My brave friends lost; and my rent heart returns</line>
+          <line>In dreadful symphony the sorrowing strain.</line>
+          <line>CHORUS</line>
+          <line>Yet once more shall I ask thee, yet once</line>
+          <line>more,</line>
+          <line>Where is the Mardian Xanthes' might,</line>
+          <line>The daring chief, that from the Pontic shore</line>
+          <line>Led his strong phalanx to the fight?</line>
+          <line>Anchares where, whose high-raised shield</line>
+          <line>Flamed foremost in the embattled field?</line>
+          <line>Where the high leaders of thy mail-clad horse,</line>
+          <line>Daixis and Arsaces where?</line>
+          <line>Where Cigdadatas and Lythimnas' force,</line>
+          <line>Waving untired his purple spear?</line>
+          <line>XERXES</line>
+          <line>Entomb'd, I saw them in the earth entomb'd;</line>
+          <line>Nor did the rolling car with solemn state</line>
+          <line>Attend their rites: I follow'd: low they lie</line>
+          <line>(Ah me, the once great leaders of my host!</line>
+          <line>Low in the earth, without their honours lie.)</line>
+          <line>CHORUS</line>
+          <line>O wo, wo, wo! Unutterable wo</line>
+          <line>The demons of revenge have spread;</line>
+          <line>And Ate from her drear abode below</line>
+          <line>Rises to view the horrid deed.</line>
+          <line>XERXES</line>
+          <line>Dismay, and rout, and ruin, ills that wait</line>
+          <line>On man's afflicted fortune, sink us down.</line>
+          <line>CHORUS</line>
+          <line>Dismay, and rout, and ruin on us wait,</line>
+          <line>And all the vengeful storms of Fate:</line>
+          <line>Ill flows on ill, on sorrows sorrows rise;</line>
+          <line>Misfortune leads her baleful train;</line>
+          <line>Before the Ionian squadrons Persia flies,</line>
+          <line>Or sinks ingulf'd beneath the main.</line>
+          <line>Fall'n, fall'n is her imperial power,</line>
+          <line>And conquest on her banners waits no more.</line>
+          <line>XERXES</line>
+          <line>At such a fall, such troops of heroes lost,</line>
+          <line>How can my soul but sink in deep despair!</line>
+          <line>Cease thy sad strain.</line>
+          <line>CHORUS</line>
+          <line>Is all thy glory lost?</line>
+          <line>XERXES</line>
+          <line>Seest thou these poor remains of my rent robes?</line>
+          <line>CHORUS</line>
+          <line>I see, I see.</line>
+          <line>XERXES</line>
+          <line>And this ill-furnish'd quiver?</line>
+          <line>CHORUS</line>
+          <line>Wherefore preserved?</line>
+          <line>XERXES</line>
+          <line>To store my treasured arrows.</line>
+          <line>CHORUS</line>
+          <line>Few, very few.</line>
+          <line>XERXES</line>
+          <line>And few my friendly aids.</line>
+          <line>CHORUS</line>
+          <line>I thought these Grecians shrunk appall'd at arms.</line>
+          <line>XERXES</line>
+          <line>No: they are bold and daring: these sad</line>
+          <line>eyes</line>
+          <line>Beheld their violent and deathful deeds.</line>
+          <line>CHORUS</line>
+          <line>The ruin, sayst thou, of thy shattered fleet?</line>
+          <line>XERXES</line>
+          <line>And in the anguish of my soul I rent</line>
+          <line>My royal robes.</line>
+          <line>CHORUS</line>
+          <line>Wo, wo!</line>
+          <line>XERXES</line>
+          <line>And more than wo.</line>
+          <line>CHORUS</line>
+          <line>Redoubled, threefold wo!</line>
+          <line>XERXES</line>
+          <line>Disgrace to me,</line>
+          <line>But triumph to the foe.</line>
+          <line>CHORUS</line>
+          <line>Are all thy powers</line>
+          <line>In ruin crush'd?</line>
+          <line>XERXES</line>
+          <line>No satrap guards me now.</line>
+          <line>CHORUS</line>
+          <line>Thy faithful friends sunk in the roaring main.</line>
+          <line>XERXES</line>
+          <line>Weep, weep their loss, and lead me to my</line>
+          <line>house;</line>
+          <line>Answer my grief with grief, an ill return</line>
+          <line>Of ills for ills. Yet once more raise that strain</line>
+          <line>Lamenting my misfortunes; beat thy breast,</line>
+          <line>Strike, heave the groan; awake the Mysian strain</line>
+          <line>To notes of loudest wo; rend thy rich robes,</line>
+          <line>Pluck up thy beard, tear off thy hoary locks,</line>
+          <line>And battle thine eyes in tears: thus through the</line>
+          <line>streets</line>
+          <line>Solemn and slow with sorrow lead my steps;</line>
+          <line>Lead to my house, and wail the fate of Persia.</line>
+          <line>CHORUS</line>
+          <line>Yes, once more at thy bidding shall the</line>
+          <line>strain</line>
+          <line>Pour the deep sorrows of my soul;</line>
+          <line>The suff'rings of my bleeding untry plain,</line>
+          <line>And bid the Mysian measures roll.</line>
+          <line>Again the voice of wild despair</line>
+          <line>With thrilling shrieks shall pierce the air;</line>
+          <line>For high the god of war his flaming crest</line>
+          <line>Raised, with the fleet of Greece surrounded,</line>
+          <line>The haughty arms of Greece with conquest bless'd,</line>
+          <line>And Persia's withered force confounded,</line>
+          <line>Dash'd on the dreary beach her heroes slain.,</line>
+          <line>Or whelm'd them in the darken'd main.</line>
+        </stanza>
+      </poem>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="aeschylus-persians-colophon">
+        <p xml:id="aeschylus-persians-colophon-p-1">Author: Aeschylus</p>
+        <p xml:id="aeschylus-persians-colophon-p-2">Translated by Robert Potter</p>
+        <p xml:id="aeschylus-persians-colophon-p-3">Written: 472 BCE</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

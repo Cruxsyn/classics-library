@@ -1,0 +1,920 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="euripides-orestes">
+    <title>Orestes</title>
+    <chapter xml:id="orestes-orestes">
+      <title>Orestes</title>
+      <p xml:id="orestes-orestes-head-1">
+        <em>Dramatis Personae</em>
+      </p>
+      <p xml:id="orestes-orestes-p-2">ELECTRA, daughter of Agamemnon and Clytemnestra HELEN, wife of MENELAUS CHORUS OF ARGIVE MAIDENS ORESTES, brother of ELECTRA MENELAUS, brother of Agamemnon; King of Argos PYLADES, friend Of ORESTES MESSENGER, formerly servant of Agamemnon HERMIONE, daughter of MENELAUS and HELEN A PHRYGIAN EUNUCH, in HELEN'S retinue APOLLO TYNDAREUS, father of Clytemnestra Scene Before the royal palace at Argos. It is the sixth day after the murder of Clytemnestra and Aegisthus. ELECTRA is discovered alone. ORESTES lies sleeping on a couch in the background.</p>
+      <p xml:id="orestes-orestes-head-3">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-4">There is naught so terrible to describe, be it physical pain or heaven-sent affliction, that man's nature may not have to bear the burden of it. Tantalus, they say, once so prosperous,-and I am not now taunting him with his misfortunes,-Tantalus, the reputed son of Zeus, hangs suspended in mid air, quailing at the crag which looms above his head; paying this penalty, they say, for the shameful weakness he displayed in failing to keep a bridle on his lips, when admitted by gods, though he was but mortal, to share the honours of their feasts like one of them.</p>
+      <p xml:id="orestes-orestes-p-5">He it was that begat Pelops, the father of Atreus, for whom the goddess, when she had carded her wool, spun a web of strife, even to the making of war with his own brother Thyestes. But why need I repeat that hideous tale?</p>
+      <p xml:id="orestes-orestes-p-6">Well, Atreus slew Thyestes' children and feasted him on them; but,-passing over intermediate events-from Atreus and Aerope of Crete sprang Agamemnon, that famous chief,-if his was really fame,-and Menelaus. Now it was this Menelaus who married Helen, Heaven's abhorrence; while his brother, King Agamemnon, took Clytemnestra to wife, name of note in Hellas, and we three daughters were his issue, Chrysothemis, Iphigenia, and myself Electra; also a son Orestes; all of that one accursed mother, who slew her lord, after snaring him in a robe that had no outlet. Her reason a maiden's lips may not declare, and so leave that unexplained for the world to guess at. What need for me to charge Phoebus with wrong-doing, though he instigated Orestes to slay his own mother, a deed that few approved; still it was his obedience to the god that made him slay her; I, too, feebly as a woman would, shared in the deed of blood, as did Pylades who helped us to bring it about.</p>
+      <p xml:id="orestes-orestes-p-7">After this my poor Orestes fell sick of a cruel wasting disease; upon his couch he lies prostrated, and it is his mother's blood that goads him into frenzied fits; this I say, from dread of naming those goddesses, whose terrors are chasing him before them,-even the Eumenides. 'Tis now the sixth day since the body of his murdered mother was committed to the cleansing fire; since then no food has passed his lips, nor hath he washed his skin; but wrapped in his cloak he weeps in his lucid moments, whenever the fever leaves him; other whiles he bounds headlong from his couch, as colt when it is loosed from the yoke. Moreover, this city of Argos has decreed that no man give us shelter at his fireside or speak to matricides like us; yea, and this is the fateful day on which Argos will decide our sentence, whether we are both to die by stoning, or to whet the steel and plunge it in our necks. There is, 'tis true, one hope of escape still left us; Menelaus has landed from Troy; his fleet now crowds the haven of Nauplia where he is come to anchor, returned at last from Troy after ceaseless wanderings; but Helen, that "lady of sorrows," as she styles herself, hath he sent on to our palace, carefully waiting for the night, lest any of those parents whose sons were slain beneath the walls of Troy, might see her if she went by day, and set to stoning her. Within she sits, weeping for her sister and the calamities of her family, and yet she hath still some solace in her woe; for Hermione, the child she left at home in the hour she sailed for Troys-the maid whom Menelaus brought from Sparta and entrusted to my mother's keeping,-is still a cause of joy to her and a reason to forget her sorrows.</p>
+      <p xml:id="orestes-orestes-p-8">I, meantime, am watching each approach, against the moment I see Menelaus arriving; for unless we find some safety there, we have but feeble anchor to ride on otherwise.</p>
+      <p xml:id="orestes-orestes-p-9">A helpless thing, an unlucky house! HELEN enters from the palace.</p>
+      <p xml:id="orestes-orestes-head-10">
+        <em>HELEN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-11">Daughter of Clytemnestra and Agamemnon, hapless Electra, too long now left a maid unwed! how is it with thee and thy brother, this ill-starred Orestes who slew his mother! Speak; for referring the sin as I do to Phoebus, I incur no pollution by letting thee accost me; and yet am truly sorry for the fate of my sister Clytenmestra, on whom I ne'er set eyes after I was driven by heaven-sent frenzy to sail on my disastrous voyage to Ilium; but now that I am parted from her I bewail our misfortunes.</p>
+      <p xml:id="orestes-orestes-head-12">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-13">Prithee, Helen, why should I speak of that which thine own eyes can see the son of Agamemnon in his misery?</p>
+      <p xml:id="orestes-orestes-p-14">Beside his wretched corpse I sit, a sleepless sentinel; for corpse he is, so faint his breath; not that I reproach him with his sufferings; but thou art highly blest and thy husband too, and ye are come upon us in the hour of adversity.</p>
+      <p xml:id="orestes-orestes-head-15">
+        <em>HELEN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-16">How long hath he been laid thus upon his couch?</p>
+      <p xml:id="orestes-orestes-head-17">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-18">Ever since he spilt his mother's blood-.</p>
+      <p xml:id="orestes-orestes-head-19">
+        <em>HELEN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-20">Unhappy wretch! unhappy mother! what a death she died!</p>
+      <p xml:id="orestes-orestes-head-21">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-22">Unhappy enough to succumb to his misery.</p>
+      <p xml:id="orestes-orestes-head-23">
+        <em>HELEN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-24">Prithee, maiden, wilt hear me a moment?</p>
+      <p xml:id="orestes-orestes-head-25">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-26">Aye, with such small leisure as this watching o'er a brother leaves.</p>
+      <p xml:id="orestes-orestes-head-27">
+        <em>HELEN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-28">Wilt go for me to my sister's tomb?</p>
+      <p xml:id="orestes-orestes-head-29">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-30">Wouldst have me seek my mother's tomb? And why?</p>
+      <p xml:id="orestes-orestes-head-31">
+        <em>HELEN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-32">To carry an offering of hair and a libation from me.</p>
+      <p xml:id="orestes-orestes-head-33">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-34">Art forbidden then to go to the tombs of those thou lovest?</p>
+      <p xml:id="orestes-orestes-head-35">
+        <em>HELEN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-36">Nay, but I am ashamed to show myself in Argos.</p>
+      <p xml:id="orestes-orestes-head-37">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-38">A late repentance surely for one who left her home so shamefully then.</p>
+      <p xml:id="orestes-orestes-head-39">
+        <em>HELEN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-40">Thou hast told the truth, but thy telling is not kind to me.</p>
+      <p xml:id="orestes-orestes-head-41">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-42">What is this supposed modesty before the eyes of Mycenae that possesses thee?</p>
+      <p xml:id="orestes-orestes-head-43">
+        <em>HELEN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-44">I am afraid of the fathers of those who lie dead beneath the walls of Ilium.</p>
+      <p xml:id="orestes-orestes-head-45">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-46">Good cause for fear; thy name is on every tongue in Argos.</p>
+      <p xml:id="orestes-orestes-head-47">
+        <em>HELEN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-48">Then free me of my fear and grant me this boon.</p>
+      <p xml:id="orestes-orestes-head-49">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-50">I could not bear to face my mother's grave.</p>
+      <p xml:id="orestes-orestes-head-51">
+        <em>HELEN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-52">And yet 'twere shame indeed to send these offerings by a servant's hand.</p>
+      <p xml:id="orestes-orestes-head-53">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-54">Then why not send thy daughter Hermione?</p>
+      <p xml:id="orestes-orestes-head-55">
+        <em>HELEN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-56">'Tis not seemly for a tender maid to make her way amongst a crowd.</p>
+      <p xml:id="orestes-orestes-head-57">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-58">And yet she would thus be repaying her dead foster-mother's care.</p>
+      <p xml:id="orestes-orestes-head-59">
+        <em>HELEN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-60">True; thou hast convinced me, maiden. Yes, I will send my daughter; for thou art right. Calling Hermione, my child, come forth before the palace; HERMIONE and attendants come out of the palace. take these libations and these tresses of mine in thy hands, and go pour round Clytemnestra's tomb a mingled cup of honey, milk, and frothing wine; then stand upon the heaped-up grave, and proclaim therefrom, "Helen, thy sister, sends thee these libations as her gift, fearing herself to approach thy tomb from terror of the Argive mob"; and bid her harbour kindly thoughts towards me and thee and my husband; towards these two wretched sufferers, too, whom Heaven hath afflicted. Likewise promise that I will pay in full whatever funeral gifts are due from me to a sister. Now go, my child, and tarry not; and soon as thou hast made the offering at the tomb, bethink thee of thy return. HELEN goes into the palace as HERMIONE and her attendants depart with the offerings.</p>
+      <p xml:id="orestes-orestes-head-61">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-62">O human nature, what a grievous curse thou art in this world! and what salvation, too, to those who have a goodly heritage therein!</p>
+      <p xml:id="orestes-orestes-p-63">Did ye mark how she cut off her hair only at the ends, careful to preserve its beauty? 'Tis the same woman as of old. May Heaven's hate pursue thee! for thou hast proved the ruin of me and my poor brother and all Hellas.</p>
+      <p xml:id="orestes-orestes-p-64">Alack! here are my friends once more, coming to unite their plaintive dirge with mine; they will soon put an end to my brother's peaceful sleep and cause my tears to flow when I see his frenzied fit. The CHORUS OF ARGIVE MAIDENS enters quietly. The following lines between ELECTRA and the CHORUS are chanted responsively. Good friends, step softly; not a sound; not a whisper! for though this kindness is well-meant, rouse him and I shall rue it.</p>
+      <p xml:id="orestes-orestes-head-65">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-66">Hush! hush! let your footsteps fall lightly! not a sound! not whisper!</p>
+      <p xml:id="orestes-orestes-head-67">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-68">Further, further from his couch! I beseech ye.</p>
+      <p xml:id="orestes-orestes-head-69">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-70">There! there! I obey.</p>
+      <p xml:id="orestes-orestes-head-71">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-72">Hush! hush! good friend, I pray. Soft as the breath of slender reedy pipe be thy every accent!</p>
+      <p xml:id="orestes-orestes-head-73">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-74">Hark, how soft and low I drop my voice!</p>
+      <p xml:id="orestes-orestes-head-75">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-76">Yes, lower thy voice e'en thus; approach now, softly, softly! Tell me what reason ye had for coming at all. 'Tis so long since he laid him down to sleep.</p>
+      <p xml:id="orestes-orestes-head-77">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-78">How is it with him? Impart thy news, dear lady. Is it weal or woe I am to tell?</p>
+      <p xml:id="orestes-orestes-head-79">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-80">He is still alive, but his moans grow feeble.</p>
+      <p xml:id="orestes-orestes-head-81">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-82">What sayest thou? Turning to ORESTES Poor wretch!</p>
+      <p xml:id="orestes-orestes-head-83">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-84">Awake him from the deep sweet slumber he is now enjoying and thou wilt cause his death.</p>
+      <p xml:id="orestes-orestes-head-85">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-86">Ah, poor sufferer! victim of Heaven's vengeful hate!</p>
+      <p xml:id="orestes-orestes-head-87">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-88">Ah, misery! It seems it was a wicked utterance by a wicked god delivered, the day that Loxias from his seat upon the tripod of Themis decreed my mother's most unnatural murder.</p>
+      <p xml:id="orestes-orestes-head-89">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-90">He stirs beneath his robe! Dost see?</p>
+      <p xml:id="orestes-orestes-head-91">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-92">Alas! I do; thy noisy words have roused him from his sleep.</p>
+      <p xml:id="orestes-orestes-head-93">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-94">Nay, methinks he slumbers still.</p>
+      <p xml:id="orestes-orestes-head-95">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-96">Begone! quit the house! retrace thy footsteps! a truce to this din!</p>
+      <p xml:id="orestes-orestes-head-97">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-98">He sleeps. Thou art right.</p>
+      <p xml:id="orestes-orestes-head-99">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-100">O Night, majestic queen, giver of sleep to toiling men, rise from the abyss of Erebus and wing thy way to the palace of Agamemnon! For beneath our load of misery and woe we sink, aye, sink oppressed.</p>
+      <p xml:id="orestes-orestes-p-101">There! To the CHORUS that noise again! Be still and keep that high-pitched voice of thine away from his couch; suffer him to enjoy his sleep in peace!</p>
+      <p xml:id="orestes-orestes-head-102">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-103">Tell me, what end awaits his troubles?</p>
+      <p xml:id="orestes-orestes-head-104">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-105">Death, death; what else? for he does not even miss his food.</p>
+      <p xml:id="orestes-orestes-head-106">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-107">Why, then his doom is full in view.</p>
+      <p xml:id="orestes-orestes-head-108">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-109">Phoebus marked us out as his victims by imposing a foul unnatural task, even the shedding of the blood of our mother, who slew our sire.</p>
+      <p xml:id="orestes-orestes-head-110">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-111">'Twas just, but 'twas not well.</p>
+      <p xml:id="orestes-orestes-head-112">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-113">Dead, dead, O mother mine! and thou hast slain a father and these the children of thy womb; for we are dead or as the dead. Yes, thou art in thy grave, and more than half my life is spent in weeping and wailing and midnight lamentations; oh, look on me! a maid unwed, unblest with babes, I drag out a joyless existence as if for ever.</p>
+      <p xml:id="orestes-orestes-head-114">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-115">My daughter Electra, from thy near station there see whether thy brother hath not passed away without thy knowing it; for I like not his utter prostration.</p>
+      <p xml:id="orestes-orestes-head-116">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-117">awaking refreshed Sweet charm of sleep! saviour in sickness! how dear to me thy coming was! how needed! All hail, majestic power, oblivion of woe! How wise this goddess is, how earnestly invoked by every suffering soul! Addressing ELECTRA Whence came I hither? How is it I am here? for I have lost all previous recollection and remember nothing.</p>
+      <p xml:id="orestes-orestes-head-118">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-119">Dearest brother, how glad I was to see thee fall asleep! Wouldst have me take thee in my arms and lift thy body?</p>
+      <p xml:id="orestes-orestes-head-120">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-121">Take, oh! take me in thy arms, and from this sufferer's mouth and eyes wipe off the flakes of foam.</p>
+      <p xml:id="orestes-orestes-head-122">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-123">Ah! 'tis a service I love; nor do I scorn with sister's hand to tend a brother's limbs.</p>
+      <p xml:id="orestes-orestes-head-124">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-125">Prop me up, thy side to mine; brush the matted hair from off my face, for I see but dimly.</p>
+      <p xml:id="orestes-orestes-head-126">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-127">Ah, poor head! how squalid are thy locks become! How wild thy look from remaining so long uncleansed!</p>
+      <p xml:id="orestes-orestes-head-128">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-129">Lay me once more upon the couch; when my fit leaves me, I am all unnerved, unstrung.</p>
+      <p xml:id="orestes-orestes-head-130">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-131">as she lays him down Welcome to the sick man is his couch, for painful though it be to take thereto, yet is it necessary.</p>
+      <p xml:id="orestes-orestes-head-132">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-133">Set me upright once again, turn me round; it is their helplessness makes the sick so hard to please.</p>
+      <p xml:id="orestes-orestes-head-134">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-135">Wilt put thy feet upon the ground and take a step at last? Change is always pleasant.</p>
+      <p xml:id="orestes-orestes-head-136">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-137">That will I; for that has a semblance of health; and that seeming, though it be far from the reality, is preferable to this.</p>
+      <p xml:id="orestes-orestes-head-138">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-139">Hear me then, O brother mine, while yet the avenging fiends permit thee to use thy senses.</p>
+      <p xml:id="orestes-orestes-head-140">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-141">Hast news to tell? so it be good, thou dost me a kindness; but if it tend to my hurt, lo! I have sorrow enough.</p>
+      <p xml:id="orestes-orestes-head-142">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-143">Menelaus, thy father's brother, is arrived; in Nauplia his fleet lies at anchor.</p>
+      <p xml:id="orestes-orestes-head-144">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-145">Ha! is he come to cast a ray of light upon our gloom, a man of our own kin who owes our sire a debt of gratitude?</p>
+      <p xml:id="orestes-orestes-head-146">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-147">Yes, he is come, and is bringing Helen with him from the walls of Troy; accept this as a sure proof of what I say.</p>
+      <p xml:id="orestes-orestes-head-148">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-149">Had he returned alone in safety, he were more to be envied; for if he is bringing his wife with him, he is bringing a load of evil.</p>
+      <p xml:id="orestes-orestes-head-150">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-151">Tyndareus begat a race of daughters notorious for the shame they earned, infamous throughout Hellas.</p>
+      <p xml:id="orestes-orestes-head-152">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-153">Be thou then different from that evil brood, for well thou mayest, and that not only in profession, but also in heart.</p>
+      <p xml:id="orestes-orestes-head-154">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-155">Ah! brother, thine eye is growing wild, and in a moment art thou passing from thy recent saneness back to frenzy.</p>
+      <p xml:id="orestes-orestes-head-156">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-157">starting up wildly Mother, I implore thee! let not loose on me those maidens with their bloodshot eyes and snaky hair. Ha! see, see where they approach to leap upon me!</p>
+      <p xml:id="orestes-orestes-head-158">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-159">Lie still, poor sufferer, on thy couch; thine eye sees none of the things which thy fancy paints so clear.</p>
+      <p xml:id="orestes-orestes-head-160">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-161">O Phoebus! they will kill me, yon hounds of hell, death's priestesses with glaring eyes, terrific goddesses.</p>
+      <p xml:id="orestes-orestes-head-162">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-163">I will not let thee go; but with arms twined round thee will prevent thy piteous tossing to and fro.</p>
+      <p xml:id="orestes-orestes-head-164">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-165">Loose me! thou art one of those fiends that plague me, and art gripping me by the waist to hurl my body into Tartarus.</p>
+      <p xml:id="orestes-orestes-head-166">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-167">Woe is me! what succour can I find, seeing that we have Heaven's forces set against us?</p>
+      <p xml:id="orestes-orestes-head-168">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-169">Give me my horn-tipped bow, Apollo's gift, wherewith that god declared that I should defend myself against these goddesses, if ever they sought to scare me with wild transports of madness.</p>
+      <p xml:id="orestes-orestes-p-170">A mortal hand will wound one of these goddesses, unless she vanish from my sight. Do ye not heed me, or mark the feathered shaft of my far-shooting bow ready to wing its flight? What! do ye linger still? Spread your pinions, skim the sky, and blame those oracles of Phoebus.</p>
+      <p xml:id="orestes-orestes-p-171">Ah! why am I raving, panting, gasping? Whither, oh! whither have leapt from off my couch? Once more the storm is past; I see a calm.</p>
+      <p xml:id="orestes-orestes-p-172">Sister, why weepest thou, thy head wrapped in thy robe? I am ashamed that I should make thee a partner in my sufferings and distress a maid like thee through sickness of mine. Cease to fret for my troubles; for though thou didst consent to it, yet 'twas I that spilt our mother's blood. 'Tis Loxias I blame, for urging me on to do a deed most damned, encouraging me with words but no real help; for I am sure that, had I asked my father to his face whether I was to slay my mother, he would have implored me oft and earnestly by this beard never to plunge a murderer's sword into my mother's breast, since he would not thereby regain his life, whilst I, poor wretch, should be doomed to drain this cup of sorrow.</p>
+      <p xml:id="orestes-orestes-p-173">E'en as it is, dear sister, unveil thy face and cease to weep, despite our abject misery; and whensoe'er thou seest me give way to despair, be it thine to calm and soothe the terrors and distorted fancies of my brain; likewise when sorrow comes to thee, I must be at thy side and give the words of comfort; for to help our friends like this is a gracious task.</p>
+      <p xml:id="orestes-orestes-p-174">Seek thy chamber now, poor sister; lie down and close awhile thy sleepless eyes; take food and bathe thy body; for if thou leave me or fall sick from nursing me, my doom is sealed; for thou art the only champion I now have, by all the rest deserted, as thou seest.</p>
+      <p xml:id="orestes-orestes-head-175">
+        <em>ELECTRA</em>
+      </p>
+      <p xml:id="orestes-orestes-p-176">I leave thee! never! With thee I am resolved to live and die; for 'tis the same; if thou diest, what can I, a woman, do? How shall I escape alone, reft of brother, sire, and friends?</p>
+      <p xml:id="orestes-orestes-p-177">Still if it be thy pleasure, I must do thy bidding. But lay thee down upon thy couch, and pay not too great heed to the terrors and alarms that scare thee from thy rest; lie still upon thy pallet bed; for e'en though one be not sick but only fancy it, this is a source of weariness and perplexity to mortals. ELECTRA enters the palace, as ORESTES lies back upon his couch.</p>
+      <p xml:id="orestes-orestes-head-178">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-179">singing strophe Ah! ye goddesses terrific, swiftly careering on outspread pinions, whose lot it is 'mid tears and groans to hold revel not with Bacchic rites; ye avenging spirits swarthy-hued, that dart along the spacious firmament, exacting a penalty for blood, a penalty for murder, to you I make my suppliant prayer: suffer the son of Agamemnon to forget his wild whirling frenzy!</p>
+      <p xml:id="orestes-orestes-p-180">Ah, woe for the troublous task! which thou, poor wretch, didst strive to compass to thy ruin, listening to the voice prophetic, proclaimed aloud by Phoebus from the tripod throughout his sanctuary, where is a secret spot they call "the navel of the earth." antistrophe O Zeus! What pity will be shown? what deadly struggle is here at hand, hurrying thee on o'er thy path of woe, a victim on whom some fiend is heaping tribulation, by bringing on thy house thy mother's bloodshed which drives thee raving mad? I weep for thee, for thee I weep.</p>
+      <p xml:id="orestes-orestes-p-181">Great prosperity abideth not amongst mankind; but some power divine, shaking it to and fro like the sail of a swift galley, plunges it deep in the waves of grievous affliction, boisterous and deadly as the waves of the sea. For what new family am I henceforth to honour by preference other than that which sprung from a marriage divine, even from Tantalus?</p>
+      <p xml:id="orestes-orestes-p-182">Behold a king draws near, prince Menelaus! From his magnificence 'tis plain to see that he is a scion of the race of Tantalus.</p>
+      <p xml:id="orestes-orestes-p-183">All hail! thou that didst sail with a thousand ships to Asia's strand, and by Heaven's help accomplish all thy heart's desire, making good-fortune a friend to thyself. MENELAUS and his retinue enter.</p>
+      <p xml:id="orestes-orestes-head-184">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-185">All hail, my home! Some joy I feel on seeing thee again on my return from Troy, some sorrow too the sight recalls; for never yet have I beheld a house more closely encircled by the net of dire affliction.</p>
+      <p xml:id="orestes-orestes-p-186">Concerning Agamemnon's fate and the awful death he died at his wife's hands I learnt as I was trying to put in at Malea, when the sailors' seer from out the waves, unerring Glaucus, Nereus' spokesman, brought the news to me; for he stationed himself in full view by our ship and thus addressed me. "Yonder, Menelaus, lies thy brother slain, plunged in a fatal bath, the last his wife will ever give him"; filling high the cup of tears for me and my brave crew. Arrived at Nauplia, my wife already, on the point of starting hither, I was dreaming of folding Orestes, Agamemnon's son, and his mother in a fond embrace, as if 'twere well with them, when I heard a mariner relate the murder of the daughter of Tyndareus. Tell me then, good girls, where to find the son of Agamemnon, the daring author of that fearful crime; for he was but a babe in Clytemnestra's arms that day I left my home to go to Troy, so that I should not recognize him, e'en were I to see him.</p>
+      <p xml:id="orestes-orestes-head-187">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-188">staggering towards him from the couch Behold the object of thy inquiry, Menelaus; this is Orestes. To the will I of mine own accord relate my sufferings. But as the prelude to my speech I clasp thy knees in suppliant wise, seeking thus to tie to thee the prayer of lips that lack the suppliant's bough; save me, for thou art arrived at the very crisis of my trouble.</p>
+      <p xml:id="orestes-orestes-head-189">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-190">Ye gods! what do I see? what death's-head greets my sight?</p>
+      <p xml:id="orestes-orestes-head-191">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-192">Thou art right; I am dead through misery, though I still gaze upon the sun.</p>
+      <p xml:id="orestes-orestes-head-193">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-194">How wild the look thy unkempt hair gives thee, poor wretch!</p>
+      <p xml:id="orestes-orestes-head-195">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-196">'Tis not my looks, but my deeds that torture me.</p>
+      <p xml:id="orestes-orestes-head-197">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-198">How terribly thy tearless eyeballs glare!</p>
+      <p xml:id="orestes-orestes-head-199">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-200">My body is vanished and gone, though my name hath not yet deserted me.</p>
+      <p xml:id="orestes-orestes-head-201">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-202">Unsightly apparition, so different from what I expected!</p>
+      <p xml:id="orestes-orestes-head-203">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-204">In me behold a man that hath slain his hapless mother.</p>
+      <p xml:id="orestes-orestes-head-205">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-206">I have heard all; be chary of thy tale of woe.</p>
+      <p xml:id="orestes-orestes-head-207">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-208">I will; but the deity is lavish of woe to me.</p>
+      <p xml:id="orestes-orestes-head-209">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-210">What ails thee? what is thy deadly sickness?</p>
+      <p xml:id="orestes-orestes-head-211">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-212">My conscience; I know that I am guilty of an awful crime.</p>
+      <p xml:id="orestes-orestes-head-213">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-214">Explain thyself; wisdom is shown in clearness, not in obscurity.</p>
+      <p xml:id="orestes-orestes-head-215">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-216">'Tis grief that is my chief complaint.</p>
+      <p xml:id="orestes-orestes-head-217">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-218">True; she is a goddess dire; yet are there cures for her.</p>
+      <p xml:id="orestes-orestes-head-219">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-220">Mad transports too, and the vengeance due to a mother's blood.</p>
+      <p xml:id="orestes-orestes-head-221">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-222">When did thy fit begin? which day was it?</p>
+      <p xml:id="orestes-orestes-head-223">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-224">On the day I was heaping the mound o'er my poor mother's grave,</p>
+      <p xml:id="orestes-orestes-head-225">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-226">When thou wast in the house, or watching by the pyre?</p>
+      <p xml:id="orestes-orestes-head-227">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-228">As I was waiting by night to gather up her bones.</p>
+      <p xml:id="orestes-orestes-head-229">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-230">What news, slave of Helen, creature from Ida?</p>
+      <p xml:id="orestes-orestes-head-231">
+        <em>PHRYGIAN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-232">Ah me for Ilium, for Ilium, the city of Phrygia, and for Ida's holy hill with fruitful soil! in foreign accents hear me raise a plaintive strain over thee, whose ruin luckless Helen caused,-that lovely child whom Leda bore to a feathered swan, to be a curse to Apollo's towers of polished stone. Ah! well-a-day! woe to Dardania for the wailings wrung from it by the steeds that bought his minion Ganymede for Zeus.</p>
+      <p xml:id="orestes-orestes-head-233">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-234">Tell us plainly exactly what happened in the house, for till now have been guessing at what I do not clearly understand.</p>
+      <p xml:id="orestes-orestes-head-235">
+        <em>PHRYGIAN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-236">"Ah, for Linus! woe is him!" That is what barbarians say in their eastern tongue as a prelude to the dirge of death, whene'er royal blood is spilt upon the ground by deadly iron blades.</p>
+      <p xml:id="orestes-orestes-p-237">To tell thee exactly what happened: there came into the palace two lion-like men of Hellas, twins in nature; your famous chief was sire of one, 'twas said; the other was the son of Strophius; a crafty knave was he, like to Odysseus, subtle, silent, but staunch to his friends, daring enough for any valiant deed, versed in war and blood-thirsty as a serpent. Ruin seize him for his quiet plotting, the villain!</p>
+      <p xml:id="orestes-orestes-p-238">In they came, their eyes bedimmed with tears, and took their seats in all humility near the chair of the lady whom Paris the archer once wedded, one on this side, one on that, to right and left, with weapons on them; and both threw their suppliant arms round the knees of Helen; whereon her Phrygian servants started to their feet in wild alarm, each in his terror calling to his fellow, "Beware of treachery!" To some there seemed no cause, but others thought that the viper who had slain his mother, was entangling the daughter of Tyndareus in the toils of his snare.</p>
+      <p xml:id="orestes-orestes-head-239">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-240">And where wert thou the while? fled long before in terror?</p>
+      <p xml:id="orestes-orestes-head-241">
+        <em>PHRYGIAN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-242">It happened that I, in Phrygian style, was wafting the breeze past Helen's curls with a round feather-fan, stationed before her face; and she the while, as eastern ladies use, was twisting flax on her distaff with her fingers, but letting her yarn fall on the floor, for she was minded to embroider purple raiment as an offering from the Trojan spoils, a gift for Clytemnestra at her tomb.</p>
+      <p xml:id="orestes-orestes-p-243">Then to the Spartan maid Orestes spake, "Daughter of Zeus, quit thy chair and cross the floor to a seat at the old altar of Pelops, our ancestor, to hear something I have to say." Therewith he led the way and she followed, little guessing his designs. Meantime his accomplice, the Phocian miscreant, was off on other business. "Out of my way! Well, Phrygians always were cowards." So he shut them up in different parts of the house, some in the stables, others in private chambers, one here, one there, disposing of them severally at a distance from their mistress.</p>
+      <p xml:id="orestes-orestes-head-244">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-245">What happened next?</p>
+      <p xml:id="orestes-orestes-head-246">
+        <em>PHRYGIAN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-247">Mother of Ida, mighty parent! Oh! the murderous scenes and lawless wickedness that I witnessed in the royal palace! They drew forth swords from under their purple cloaks, each darting his eye all round him in either direction to see that none was near, and then, like boars that range the hills, they stood at bay before her, crying, "Thou must die; it is thy craven husband that will slay thee, because he betrayed his brother's son to death in Argos." But she with piercing screams brought down her snow-white arm upon her bosom and loudly smote on her poor head; then turned her steps in flight, shod in her golden shoon; but Orestes, outstripping her slippered feet, clutched his fingers in her hair and bending back her neck on to her left shoulder was on the point of driving the grim steel into her throat.</p>
+      <p xml:id="orestes-orestes-head-248">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-249">Where were those Phrygians in the house to help her then?</p>
+      <p xml:id="orestes-orestes-head-250">
+        <em>PHRYGIAN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-251">With a loud cry we battered down the doors and doorposts of the rooms we had been penned in, by means of bars, and ran to her assistance from every direction, one arming himself with stones, another with javelins, a third having a drawn sword; but Pylades came to meet us, all undaunted, like Hector of Troy or Ajax triple-plumed, as I saw him on the threshold of Priam's palace; and we met point to point. But then it became most manifest how inferior we Phrygians were to the warriors of Hellas in martial prowess. There was one man flying, another slain, a third wounded, yet another craving mercy to stave off death; but we escaped under cover of the darkness: while some were falling, others staggering, and some laid low in death. And just as her unhappy mother sunk to the ground to die, came luckless Hermione to the palace; whereon those twain, like Bacchanals when they drop their wands and seize a mountain-cub, rushed and seized her; then turned again to the daughter of Zeus to slay her; but lo! she had vanished from the room, passing right through the house by magic spells or wizards'arts or heavenly fraud; O Zeus and earth, O day and night!</p>
+      <p xml:id="orestes-orestes-p-252">What happened afterwards I know not, for I stole out of the palace and ran away. So Menelaus went through all his toil and trouble to recover his wife Helen from Troy to no purpose. ORESTES comes out of the palace.</p>
+      <p xml:id="orestes-orestes-head-253">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-254">Behold another strange sight succeeding its predecessors; I see Orestes sword in hand before the palace, advancing with excited steps.</p>
+      <p xml:id="orestes-orestes-head-255">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-256">Where is he who fled from the palace to escape my sword?</p>
+      <p xml:id="orestes-orestes-head-257">
+        <em>PHRYGIAN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-258">falling at the feet Of ORESTES Before thee I prostrate myself, O prince, and do obeisance in my foreign way.</p>
+      <p xml:id="orestes-orestes-head-259">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-260">'Tis not Ilium that is now the scene, but the land of Argos.</p>
+      <p xml:id="orestes-orestes-head-261">
+        <em>PHRYGIAN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-262">No matter where, the wise love life more than death.</p>
+      <p xml:id="orestes-orestes-head-263">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-264">I suppose that shouting of thine was not for Menelaus to come to the rescue?</p>
+      <p xml:id="orestes-orestes-head-265">
+        <em>PHRYGIAN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-266">Oh no! it was to help thee I called out, for thou art more deserving.</p>
+      <p xml:id="orestes-orestes-head-267">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-268">Was it a just fate that overtook the daughter of Tyndareus?</p>
+      <p xml:id="orestes-orestes-head-269">
+        <em>PHRYGIAN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-270">Most just, though she had had throats to die with.</p>
+      <p xml:id="orestes-orestes-head-271">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-272">Thy cowardice makes thee glib; these are not thy real sentiments.</p>
+      <p xml:id="orestes-orestes-head-273">
+        <em>PHRYGIAN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-274">Why, surely she deserved it for the havoc she made of Hellas as well as Troy?</p>
+      <p xml:id="orestes-orestes-head-275">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-276">Swear thou art not saying this to humour me, or I will slay thee.</p>
+      <p xml:id="orestes-orestes-head-277">
+        <em>PHRYGIAN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-278">By my life I swear,-an oath likely to be true in my case.</p>
+      <p xml:id="orestes-orestes-head-279">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-280">Did every Phrygian in Troy show the same terror of steel as thou dost?</p>
+      <p xml:id="orestes-orestes-head-281">
+        <em>PHRYGIAN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-282">Oh, take thy sword away! held so near it throws a horrid gleam of blood.</p>
+      <p xml:id="orestes-orestes-head-283">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-284">Art thou afraid of being turned to a stone, as if it were a Gorgon thou seest?</p>
+      <p xml:id="orestes-orestes-head-285">
+        <em>PHRYGIAN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-286">To a stone, no! but to a corpse; that Gorgon's head is not within my ken.</p>
+      <p xml:id="orestes-orestes-head-287">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-288">A slave, and so fearful of death, which will release thee from trouble!</p>
+      <p xml:id="orestes-orestes-head-289">
+        <em>PHRYGIAN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-290">Bond or free, every one is glad to gaze upon the light.</p>
+      <p xml:id="orestes-orestes-head-291">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-292">Well said! thy shrewdness saves thee; go within.</p>
+      <p xml:id="orestes-orestes-head-293">
+        <em>PHRYGIAN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-294">Thou wilt not kill me after all?</p>
+      <p xml:id="orestes-orestes-head-295">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-296">Thou art spared!</p>
+      <p xml:id="orestes-orestes-head-297">
+        <em>PHRYGIAN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-298">O gracious words!</p>
+      <p xml:id="orestes-orestes-head-299">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-300">Come, I shall change my mind-</p>
+      <p xml:id="orestes-orestes-head-301">
+        <em>PHRYGIAN</em>
+      </p>
+      <p xml:id="orestes-orestes-p-302">Ill-omened utterance!</p>
+      <p xml:id="orestes-orestes-head-303">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-304">Thou fool dost think I could endure to plunge my sword in throat of thine, thou that neither art woman nor amongst men hast any place? The reason I left the palace was to gag thy noisy tongue; for Argos is quickly roused, once it hears a cry to the rescue. As for Menelaus, we are not afraid of measuring swords with him; no! he may go upon his way proud of the golden ringlets on his shoulders; for if, to avenge the slaying of Helen, he gathers the Argives and leads them against the palace, refusing to attempt the rescue of me, my sister, and Pylades my fellow-conspirator, he shall have two corpses to behold, his daughter's as well as his wife's. The PHRYGIAN departs as ORESTES re-enters the palace.</p>
+      <p xml:id="orestes-orestes-head-305">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-306">singing Ah! fortune, fortune! again and yet again the house is entering on a fearful contest for the race of Atreus.</p>
+      <p xml:id="orestes-orestes-head-307">
+        <em>FIRST SEMI-CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-308">chanting What are we to do? carry tidings to the town, or hold our peace?</p>
+      <p xml:id="orestes-orestes-head-309">
+        <em>SECOND SEMI-CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-310">chanting It is safer to keep silence, friends.</p>
+      <p xml:id="orestes-orestes-head-311">
+        <em>FIRST SEMI-CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-312">chanting Look, look at that sudden rush of smoke to the sky in front of the palace, telling its tale in advance!</p>
+      <p xml:id="orestes-orestes-head-313">
+        <em>SECOND SEMI-CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-314">chanting They are kindling torches to fire the halls of Tantalus; they do not shrink even from murder.</p>
+      <p xml:id="orestes-orestes-head-315">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-316">singing God holds the issue in his hand, to give to mortal men what end he will. Some mighty power is his; it was through a vengeful fiend that this family started on its career of murder, by hurling Myrtilus from the chariot.</p>
+      <p xml:id="orestes-orestes-p-317">But lo! I see Menelaus approaching the palace in hot haste; no doubt he has heard what is happening here. What ho! within, descendants of Atreus, make haste and secure the doors with bars. A man in luck is a dangerous adversary for luckless wretches like thyself, Orestes. ORESTES and PYLADES appear on the roof, holding HERMIONE. MENELAUS and his attendants enter.</p>
+      <p xml:id="orestes-orestes-head-318">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-319">Strange news of violent deeds done by a pair of savages,-men I do not call them,-has brought me hither. What I heard was that my wife was not killed after all, but had vanished out of sight,-an idle rumour doubtless, brought to me by some dupe of his own terror; a ruse perhaps of the matricide to turn the laugh against me.</p>
+      <p xml:id="orestes-orestes-p-320">Throw wide the palace doors! My orders to my servants are that they force the doors, that I may rescue my child at any rate from the hands of the murderers and recover my poor wife's corpse, that dear partner whose slayers must die with her by my arm.</p>
+      <p xml:id="orestes-orestes-head-321">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-322">from the roof Ho, fellow! Keep thy fingers off those bolts, thou Menelaus, who vauntest thyself so high; else will I tear off the ancient parapet, the work of masons, and shatter thy skull with this coping-stone. The doors are bolted and barred, which will prevent thy entrance to the palace and thy eagerness to bring aid.</p>
+      <p xml:id="orestes-orestes-head-323">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-324">Ha! what now? I see a blaze of torches and men standing at bay on the house-top yonder, with a sword held at my daughter's throat.</p>
+      <p xml:id="orestes-orestes-head-325">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-326">Wouldst question me or hear me speak?</p>
+      <p xml:id="orestes-orestes-head-327">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-328">Neither; but I suppose I must hear thee.</p>
+      <p xml:id="orestes-orestes-head-329">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-330">Well, if thou art anxious to know, I intend to slay thy daughter.</p>
+      <p xml:id="orestes-orestes-head-331">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-332">After slaying Helen, art thou bent on adding another murder?</p>
+      <p xml:id="orestes-orestes-head-333">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-334">I would I had compassed that, instead of being duped by the gods!</p>
+      <p xml:id="orestes-orestes-head-335">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-336">Dost thou deny having slain her, saying this out of wanton insult?</p>
+      <p xml:id="orestes-orestes-head-337">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-338">Yes, I do deny it to my sorrow. Would God-</p>
+      <p xml:id="orestes-orestes-head-339">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-340">Would God-what? Thou provokest my fears.</p>
+      <p xml:id="orestes-orestes-head-341">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-342">I had hurled to Hades the pollution of Hellas!</p>
+      <p xml:id="orestes-orestes-head-343">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-344">Surrender my wife's dead body, that I may bury her.</p>
+      <p xml:id="orestes-orestes-head-345">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-346">Ask the gods for her; but thy daughter I will slay.</p>
+      <p xml:id="orestes-orestes-head-347">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-348">This matricide is bent on adding murder to murder.</p>
+      <p xml:id="orestes-orestes-head-349">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-350">This champion of his sire, betrayed by thee to death.</p>
+      <p xml:id="orestes-orestes-head-351">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-352">Art thou not content with the stain of the mother's blood which is on thee?</p>
+      <p xml:id="orestes-orestes-head-353">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-354">I should not grow tired if I had these wicked women to slay for ever.</p>
+      <p xml:id="orestes-orestes-head-355">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-356">Art thou too, Pylades, a partner in this bloody work?</p>
+      <p xml:id="orestes-orestes-head-357">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-358">His silence says he is; so my saying it will suffice.</p>
+      <p xml:id="orestes-orestes-head-359">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-360">Not without thy ruing it, unless thou take wings and fly.</p>
+      <p xml:id="orestes-orestes-head-361">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-362">Fly we never will, but will fire the palace.</p>
+      <p xml:id="orestes-orestes-head-363">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-364">What! wilt thou destroy the home of thy ancestors?</p>
+      <p xml:id="orestes-orestes-head-365">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-366">To prevent thee getting it I will, offering this maid in sacrifice upon its flames.</p>
+      <p xml:id="orestes-orestes-head-367">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-368">Kill her, for thou wilt be punished by me for such a murder.</p>
+      <p xml:id="orestes-orestes-head-369">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-370">Agreed.</p>
+      <p xml:id="orestes-orestes-head-371">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-372">No, no! refrain!</p>
+      <p xml:id="orestes-orestes-head-373">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-374">Silence! thy sufferings are just; endure them.</p>
+      <p xml:id="orestes-orestes-head-375">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-376">Pray, is it just that thou shouldst live?</p>
+      <p xml:id="orestes-orestes-head-377">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-378">And rule a kingdom, yes.</p>
+      <p xml:id="orestes-orestes-head-379">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-380">A kingdom-where?</p>
+      <p xml:id="orestes-orestes-head-381">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-382">Here in Pelasgian Argos.</p>
+      <p xml:id="orestes-orestes-head-383">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-384">Thou art so well qualified to handle sacred water!</p>
+      <p xml:id="orestes-orestes-head-385">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-386">And, pray, why not?</p>
+      <p xml:id="orestes-orestes-head-387">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-388">And to slay victims before battle!</p>
+      <p xml:id="orestes-orestes-head-389">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-390">Well, art thou?</p>
+      <p xml:id="orestes-orestes-head-391">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-392">Yes, my hands are clean.</p>
+      <p xml:id="orestes-orestes-head-393">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-394">But not thy heart.</p>
+      <p xml:id="orestes-orestes-head-395">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-396">Who would speak to thee?</p>
+      <p xml:id="orestes-orestes-head-397">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-398">Every man that loves his father.</p>
+      <p xml:id="orestes-orestes-head-399">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-400">And the man who honours his mother?</p>
+      <p xml:id="orestes-orestes-head-401">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-402">He's a happy man.</p>
+      <p xml:id="orestes-orestes-head-403">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-404">Thou didst not honour thine, at any rate.</p>
+      <p xml:id="orestes-orestes-head-405">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-406">No, for I delight not in your wicked women.</p>
+      <p xml:id="orestes-orestes-head-407">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-408">Remove that sword from my daughter's throat.</p>
+      <p xml:id="orestes-orestes-head-409">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-410">Thou art wrong.</p>
+      <p xml:id="orestes-orestes-head-411">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-412">What! wilt slay her?</p>
+      <p xml:id="orestes-orestes-head-413">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-414">Right once more.</p>
+      <p xml:id="orestes-orestes-head-415">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-416">Ah me! what can I do?</p>
+      <p xml:id="orestes-orestes-head-417">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-418">Go to the Argives and persuade them-</p>
+      <p xml:id="orestes-orestes-head-419">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-420">To what?</p>
+      <p xml:id="orestes-orestes-head-421">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-422">Entreat the city that we may not die.</p>
+      <p xml:id="orestes-orestes-head-423">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-424">Otherwise, will ye slay my child?</p>
+      <p xml:id="orestes-orestes-head-425">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-426">That is the alternative.</p>
+      <p xml:id="orestes-orestes-head-427">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-428">Alas for thee, Helen!</p>
+      <p xml:id="orestes-orestes-head-429">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-430">And is it not "alas!" for me?</p>
+      <p xml:id="orestes-orestes-head-431">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-432">I brought her back from Troy only for thee to butcher.</p>
+      <p xml:id="orestes-orestes-head-433">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-434">Would I had!</p>
+      <p xml:id="orestes-orestes-head-435">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-436">After troubles innumerable.</p>
+      <p xml:id="orestes-orestes-head-437">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-438">Except where I was concerned.</p>
+      <p xml:id="orestes-orestes-head-439">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-440">Dread treatment mine!</p>
+      <p xml:id="orestes-orestes-head-441">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-442">The reason being thy refusal to help me then?</p>
+      <p xml:id="orestes-orestes-head-443">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-444">Thou hast me.</p>
+      <p xml:id="orestes-orestes-head-445">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-446">Thy own cowardice has. Calling from the roof to ELECTRA Ho there! fire the palace from beneath, Electra; and, Pylades, my trusty friend, kindle the parapet of yonder walls. The palace is seen to be ablaze.</p>
+      <p xml:id="orestes-orestes-head-447">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-448">Help, help, ye Danai! gird on your harness and come, ye dwellers in knightly Argos! for here is a fellow trying to wrest his life from your whole city, though he has caused pollution by shedding his mother's blood. APOLLO appears from above with HELEN.</p>
+      <p xml:id="orestes-orestes-head-449">
+        <em>APOLLO</em>
+      </p>
+      <p xml:id="orestes-orestes-p-450">Menelaus, calm thy excited mood; I am Phoebus, the son of Latona, who draw nigh to call thee by name, and thou no less, Orestes, who, sword in hand, art keeping guard on yonder maid, that thou mayst hear what have come to say. Helen, whom all thy eagerness failed to destroy, when thou wert seeking to anger Menelaus, is here as ye see in the enfolding air, rescued from death instead of slain by thee. 'Twas I that saved her and snatched her from beneath thy sword at the bidding of her father Zeus; for she his child must put on immortality, and take her place with Castor and Polydeuces in the bosom of the sky, a saviour to mariners. Choose thee then another bride and take her to thy home, for the gods by means of Helen's loveliness embroiled Troy and Hellas, causing death thereby, that they might lighten mother Earth of the outrage done her by the increase of man's number. Such is Helen's end.</p>
+      <p xml:id="orestes-orestes-p-451">But as for thee, Orestes, thou must cross the frontier of this land and dwell for one whole year on Parrhasian soil, which from thy flight thither shall be called the land of Orestes by Azanians and Arcadians; and when thou returnest thence to the city of Athens, submit to be brought to trial by "the Avenging Three" for thy mother's murder, for the gods will be umpires between you and will pass a most righteous sentence on thee upon the hill of Ares, where thou art to win thy case. Likewise, it is ordained, Orestes, that thou shalt wed Hermione, at whose neck thou art pointing thy sword; Neoptolemus shall never marry her, though he thinks he will; for his death is fated to o'ertake him by a Delphian sword, when he claims satisfaction of me for the death of his father Achilles. Bestow thy sister's hand on Pylades, to whom thou didst formerly promise her; the life awaiting him henceforth is one of bliss.</p>
+      <p xml:id="orestes-orestes-p-452">Menelaus, leave Orestes to rule Argos; go thou and reign oer Sparta, keeping it as the dowry of a wife, who till this day ne'er ceased exposing thee to toils innumerable. Between Orestes and the citizens, I, who forced his mother's murder on him, will bring about a reconciliation.</p>
+      <p xml:id="orestes-orestes-head-453">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-454">Hail to thee, prophetic Loxias, for these thy utterances! Thou art not a lying prophet after all, but a true seer; and yet there came a dreadful thought into my heart that it was some fiend I had listened to, when seemed to hear thy voice; but all is ending well, and I obey thy word. There! I release Hermione from a violent death and agree to make her my wife whenever her father gives consent.</p>
+      <p xml:id="orestes-orestes-head-455">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-456">All hail, Helen, daughter of Zeus! I wish thee joy of thy home in heaven's happy courts. To thee, Orestes, I betroth my daughter according to the word of Phoebus, and good luck attend thee, a noble wooer nobly wived, and me the parent of thy bride!</p>
+      <p xml:id="orestes-orestes-head-457">
+        <em>APOLLO</em>
+      </p>
+      <p xml:id="orestes-orestes-p-458">Repair each one to the place appointed by me; reconcile all strife.</p>
+      <p xml:id="orestes-orestes-head-459">
+        <em>MENELAUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-460">Obedience is a duty.</p>
+      <p xml:id="orestes-orestes-head-461">
+        <em>ORESTES</em>
+      </p>
+      <p xml:id="orestes-orestes-p-462">I think thus also, Menelaus; so here I make a truce with sorrow and with thy oracles, O Loxias.</p>
+      <p xml:id="orestes-orestes-head-463">
+        <em>APOLLO</em>
+      </p>
+      <p xml:id="orestes-orestes-p-464">chanting Go your ways, and honour Peace, most fair of goddesses; I, meantime, will escort Helen to the mansions of Zeus, soon as I reach the star-lit firmament. There, seated side by side with Hera and Hebe, the bride of Heracles, she shall be honoured by men with drink-offerings as a goddess for ever, sharing with those Zeus-born sons of Tyndareus their empire o'er the sea, for the good of mariners. APOLLO and HELEN vanish.</p>
+      <p xml:id="orestes-orestes-head-465">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="orestes-orestes-p-466">chanting Hail! majestic Victory, still in thy keeping hold my life and ne'er withhold the crown!</p>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="euripides-orestes-colophon">
+        <p xml:id="euripides-orestes-colophon-p-1">Author: Euripides</p>
+        <p xml:id="euripides-orestes-colophon-p-2">Translated by E. P. Coleridge</p>
+        <p xml:id="euripides-orestes-colophon-p-3">Written: 408 BCE</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

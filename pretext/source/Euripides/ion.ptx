@@ -1,0 +1,1616 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="euripides-ion">
+    <title>Ion</title>
+    <chapter xml:id="ion-ion">
+      <title>Ion</title>
+      <poem xml:id="ion-ion-poem-1">
+        <stanza xml:id="ion-ion-stanza-1-1">
+          <line>Dramatis Personae</line>
+          <line>MERCURY</line>
+          <line>ION</line>
+          <line>CREUSA, daughter of Erechtheus</line>
+          <line>XUTHUS, husband of CREUSA</line>
+          <line>TUTOR</line>
+          <line>ATTENDANT</line>
+          <line>PRIESTESS OF APOLLO</line>
+          <line>MINERVA</line>
+          <line>CHORUS OF HANDMAIDENS OF CREUSA</line>
+          <line>Scene Before the Temple of Apollo at Delphi. The sun is about to rise. MERCURY enters.</line>
+          <line>MERCURY</line>
+          <line>Atlas, that on his brazen shoulders rolls</line>
+          <line>Yon heaven, the ancient mansion of the gods,</line>
+          <line>Was by a goddess sire to Maia; she</line>
+          <line>To supreme Jove bore me, and call'd me Hermes;</line>
+          <line>Attendant on the king, his high behests</line>
+          <line>I execute. To Delphi am I come,</line>
+          <line>This land where Phoebus from his central throne</line>
+          <line>Utters to mortals his high strain, declaring</line>
+          <line>The present and the future; this is the cause;</line>
+          <line>Greece hath a city of distinguish'd glory,</line>
+          <line>Which from the goddess of the golden lance</line>
+          <line>Received its name; Erechtheus was its king;</line>
+          <line>His daughter, call'd Creusa, to the embrace</line>
+          <line>Of nuptial love Apollo strain'd perforce,</line>
+          <line>Where northward points the rock beneath the heights</line>
+          <line>Crown'd with the Athenian citadel of Pallas,</line>
+          <line>Call'd Macrai by the lords of Attica.</line>
+          <line>Her growing burden, to her sire unknown</line>
+          <line>(Such was the pleasure of the god,) she bore,</line>
+          <line>Till in her secret chamber to a son</line>
+          <line>The rolling months gave birth: to the same cave,</line>
+          <line>Where by the enamour'd god she was compress'd,</line>
+          <line>Creusa bore the infant: there for death</line>
+          <line>Exposed him in a well-compacted ark</line>
+          <line>Of circular form, observant of the customs</line>
+          <line>Drawn from her great progenitors, and chief</line>
+          <line>From Erichthonius, who from the Attic earth</line>
+          <line>Deriv'd his origin: to him as guards</line>
+          <line>Minerva gave two dragons, and in charge</line>
+          <line>Consign'd him to the daughters of Aglauros:</line>
+          <line>This rite to the Erechthidae hence remains,</line>
+          <line>Mid serpents wreathed in ductile gold to nurse</line>
+          <line>Their children. What of ornament she had</line>
+          <line>She hung around her son, and left him thus</line>
+          <line>To perish. But to me his earnest prayer</line>
+          <line>Phoebus applied, "To the high-lineaged sons</line>
+          <line>Of glorious Athens go, my brother; well</line>
+          <line>Thou know'st the city of Pallas; from the cave</line>
+          <line>Deep in the hollow rock a new-born babe,</line>
+          <line>Laid as he is, and all his vestments with him;</line>
+          <line>Bring to thy brother to my shrine, and place</line>
+          <line>At the entrance of my temple; of the rest</line>
+          <line>(For, know, the child is mine) I will take care."</line>
+          <line>To gratify my brother thence I bore</line>
+          <line>The osier-woven ark, and placed the boy</line>
+          <line>Here at the temple's base, the wreathed lid</line>
+          <line>Uncovering, that the infant might be seen.</line>
+          <line>It chanced, as the orient sun the steep of heav'n</line>
+          <line>Ascended, to the god's oracular seat</line>
+          <line>The priestess entering, on the infant cast</line>
+          <line>Her eye, and marvelled, deeming that some nymph</line>
+          <line>Of Delphi at the fane had dared to lay</line>
+          <line>The secret burden of her womb: this thought</line>
+          <line>Prompts her to move it from the shrine: but soon</line>
+          <line>To pity she resign'd the harsh intent;</line>
+          <line>The impulse of the god secretly acting</line>
+          <line>In favour of the child, that in his temple</line>
+          <line>It might abide; her gentle hand then took it,</line>
+          <line>And gave it nurture; yet conceived she not</line>
+          <line>That Phoebus was the sire, nor who the mother</line>
+          <line>Knew aught, nor of his parents could the child</line>
+          <line>Give information. All his youthful years</line>
+          <line>Sportive he wandered round the shrine, and there</line>
+          <line>Was fed: but when his firmer age advanced</line>
+          <line>To manhood, o'er the treasures of the god</line>
+          <line>The Delphians placed him, to his faithful care</line>
+          <line>Consigning all; and in this royal dome</line>
+          <line>His hallow'd life he to this hour hath pass'd.</line>
+          <line>Meantime Creusa, mother of the child,</line>
+          <line>To Xuthus was espoused, the occasion this:-</line>
+          <line>On Athens from Euboean Chalcis roll'd</line>
+          <line>The waves of war; be join'd their martial toil,</line>
+          <line>And with his spear repell'd the foe; for this</line>
+          <line>To the proud honour of Creusa's bed</line>
+          <line>Advanc'd; no native, in Achaea sprung</line>
+          <line>From Aeolus, the son of Jove. Long time</line>
+          <line>Unbless'd with children, to the oracular shrine</line>
+          <line>Of Phoebus are they come, through fond desire</line>
+          <line>Of progeny: to this the god hath brought</line>
+          <line>The fortune of his son, nor, as was deem'd,</line>
+          <line>Forgets him; but to Xuthus, when he stands</line>
+          <line>This sacred seat consulting, will he give</line>
+          <line>That son, declared his offspring; that the child,</line>
+          <line>When to Creusa's house brought back, by her</line>
+          <line>May be agnized; the bridal rites of Phoebus</line>
+          <line>Kept secret, that the youth may claim the state</line>
+          <line>Due to his birth, through all the states of Greece</line>
+          <line>Named Ion, founder of the colonies</line>
+          <line>On the Asiatic coast. The laurell'd cave</line>
+          <line>Now will I visit, there to learn what fortune</line>
+          <line>Is to the boy appointed, for I see</line>
+          <line>This son of Phoebus issuing forth to adorn</line>
+          <line>The gates before the shrine with laurel boughs.</line>
+          <line>First of the gods I hail him by the name</line>
+          <line>Of Ion, which his fortune soon will give him.</line>
+          <line>MERCURY vanishes. ION and the attendants of the temple</line>
+          <line>enter.</line>
+          <line>ION</line>
+          <line>chanting</line>
+          <line>Now flames this radiant chariot of the sun</line>
+          <line>High o'er the earth, at whose ethereal fire</line>
+          <line>The stars into the sacred night retreat:</line>
+          <line>O'er the Parnassian cliffs the ascending wheels</line>
+          <line>To mortals roll the beams of day; the wreaths</line>
+          <line>Of incense-breathing myrrh mount to the roof</line>
+          <line>Of Phoebus' fane; the Delphic priestess now</line>
+          <line>Assumes her seat, and from the hallow'd tripod</line>
+          <line>Pronounces to the Greeks the oracular strains</line>
+          <line>Which the god dictates. Haste, ye Delphic train,</line>
+          <line>Haste to Castalia's silver-streaming fount;</line>
+          <line>Bathed in its chaste dews to the temple go;</line>
+          <line>There from your guarded mouths no sound be heard</line>
+          <line>But of good omen, that to those who crave</line>
+          <line>Admission to the oracle, your voice</line>
+          <line>May with auspicious words expound the answers.</line>
+          <line>My task, which from my early infancy</line>
+          <line>Hath been my charge, shall be with laurel boughs</line>
+          <line>And sacred wreaths to cleanse the vestibule</line>
+          <line>Of Phoebus, on the pavement moistening dews</line>
+          <line>To rain, and with my bow to chase the birds</line>
+          <line>Which would defile the hallow'd ornaments.</line>
+          <line>A mother's fondness, and a father's care</line>
+          <line>I never knew: the temple of the god</line>
+          <line>Claims then my service, for it nurtured me.</line>
+          <line>The attendants leave. ION busies himself before the temple as he continues</line>
+          <line>to sing.</line>
+          <line>strophe</line>
+          <line>Haste, thou verdant new-sprung bough,</line>
+          <line>Haste, thy early office know;</line>
+          <line>Branch of beauteous laurel come,</line>
+          <line>Sweep Apollo's sacred dome,</line>
+          <line>Cropp'd this temple's base beneath,</line>
+          <line>Where the immortal gardens breathe,</line>
+          <line>And eternal dews that round</line>
+          <line>Water the delicious ground,</line>
+          <line>Bathe the myrtle's tresses fair.</line>
+          <line>Lightly thus, with constant care,</line>
+          <line>The pavement of the god I sweep,</line>
+          <line>When over the Parnassian steep</line>
+          <line>Flames the bright sun's mounting ray;</line>
+          <line>This my task each rising day.</line>
+          <line>Son of Latona, Paean, Paean, hail!</line>
+          <line>Never, O never may thy honours fail! antistrophe</line>
+          <line>Grateful is my task, who wait</line>
+          <line>Serving, Phoebus, at thy gate;</line>
+          <line>Honouring thus thy hallow'd shrine,</line>
+          <line>Honour for the task is mine.</line>
+          <line>Labouring with unwilling hands,</line>
+          <line>Me no mortal man commands:</line>
+          <line>But, immortal gods, to you</line>
+          <line>All my pleasing toil is due.</line>
+          <line>Phoebus is to me a sire;</line>
+          <line>Grateful thoughts my soul inspire;</line>
+          <line>Nurtured by thy bounty here,</line>
+          <line>Thee, Apollo, I revere;</line>
+          <line>As a father's I repeat.</line>
+          <line>Son of Latona, Paean, Paean, hail!</line>
+          <line>Never, O never may thy honours fail!</line>
+          <line>Now from this labour with the laurel bough</line>
+          <line>I cease; and sprinkling from the golden vase</line>
+          <line>The chaste drops which Castalia's fountain rolls,</line>
+          <line>Bedew the pavement. Never may I quit</line>
+          <line>This office to the god; or, if I quit it,</line>
+          <line>Be it, good Fortune, at thy favouring call!</line>
+          <line>But see, the early birds have left their nests,</line>
+          <line>And this way from Parnassus wing their flight.</line>
+          <line>Come not, I charge you, near the battlements,</line>
+          <line>Nor near the golden dome. Herald of Jove,</line>
+          <line>Strong though thy beak beyond the feather'd kind,</line>
+          <line>My bow shall reach thee. Towards the altar, see,</line>
+          <line>A swan comes sailing: elsewhere wilt thou move</line>
+          <line>Thy scarlet-tinctured foot? or from my bow</line>
+          <line>The lyre of Phoebus to thy notes attuned</line>
+          <line>Will not protect thee; farther stretch thy wings;</line>
+          <line>Go, wanton, skim along the Delian lake,</line>
+          <line>Or wilt thou steep thy melody in blood.</line>
+          <line>Look, what strange bird comes onwards; wouldst thou</line>
+          <line>fix</line>
+          <line>Beneath the battlements thy straw-built nest?</line>
+          <line>My singing bow shall drive thee hence; begone,</line>
+          <line>Or to the banks of Alpheus, gulfy stream,</line>
+          <line>Or to the Isthmian grove; there hatch thy young;</line>
+          <line>Mar not these pendent ornaments, nor soil</line>
+          <line>The temple of the god: I would not kill you:</line>
+          <line>'Twere pity, for to mortal man you bear</line>
+          <line>The message of the gods; yet my due task</line>
+          <line>Must be perform'd, and never will I cease</line>
+          <line>My service to the god who nurtured me.</line>
+          <line>The CHORUS enters. The following lines between ION and the CHORUS are</line>
+          <line>chanted responsively as they gaze admiringly at the decorations on the</line>
+          <line>temple.</line>
+          <line>CHORUS</line>
+          <line>The stately column, and the gorgeous dome</line>
+          <line>Raised to the gods, are not the boast alone</line>
+          <line>Of our magnificent Athens; nor the statues</line>
+          <line>That grace her streets; this temple of the god,</line>
+          <line>Son of Latona, beauteous to behold,</line>
+          <line>Beams the resplendent light of both her children.</line>
+          <line>ION</line>
+          <line>Turn thine eyes this way; look, the son of</line>
+          <line>Jove</line>
+          <line>Lops with his golden scimitar the heads</line>
+          <line>Of the Lernean Hydra: view it well.</line>
+          <line>CHORUS</line>
+          <line>I see him.</line>
+          <line>ION</line>
+          <line>And this other standing nigh,</line>
+          <line>Who snatches from the fire the blazing brand.</line>
+          <line>CHORUS</line>
+          <line>What is his name? the subject, on the web</line>
+          <line>Design'd, these hands have wrought in ductile gold.</line>
+          <line>ION</line>
+          <line>The shield-supporting Iolaus, who bears</line>
+          <line>The toils in common with the son of Jove.</line>
+          <line>View now this hero; on his winged steed</line>
+          <line>The triple-bodied monster's dreadful force</line>
+          <line>He conquers through the flames his jaws emit.</line>
+          <line>CHORUS</line>
+          <line>I view it all attentively.</line>
+          <line>ION</line>
+          <line>Observe</line>
+          <line>The battle of the giants, on the walls</line>
+          <line>Sculptured in stone.</line>
+          <line>CHORUS</line>
+          <line>Let us note this, my friends.</line>
+          <line>ION</line>
+          <line>See where against Enceladus she shakes</line>
+          <line>Her gorgon shield.</line>
+          <line>CHORUS</line>
+          <line>I see my goddess, Pallas.</line>
+          <line>ION</line>
+          <line>Mark the tempestuous thunder's flaming bolt</line>
+          <line>Launch'd by the hand of Jove.</line>
+          <line>CHORUS</line>
+          <line>The furious Mimas</line>
+          <line>Here blazes in the volley'd fires: and there</line>
+          <line>Another earth-born monster falls beneath</line>
+          <line>The wand of Bacchus wreathed with ivy round,</line>
+          <line>No martial spear. But, as 'tis thine to tend</line>
+          <line>This temple, let me ask thee, is it lawful,</line>
+          <line>Leaving our sandals, its interior parts</line>
+          <line>To visit?</line>
+          <line>ION</line>
+          <line>Strangers, this is not permitted.</line>
+          <line>CHORUS</line>
+          <line>Yet may we make inquiries of thee?</line>
+          <line>ION</line>
+          <line>Speak;</line>
+          <line>What wouldst thou know?</line>
+          <line>CHORUS</line>
+          <line>Whether this temple's site</line>
+          <line>Be the earth's centre?</line>
+          <line>ION</line>
+          <line>Ay, with garlands hung,</line>
+          <line>And gorgons all around.</line>
+          <line>CHORUS</line>
+          <line>So fame reports.</line>
+          <line>ION</line>
+          <line>If at the gate the honey'd cake be offer'd,</line>
+          <line>Would you consult the oracle, advance</line>
+          <line>To the altar: till the hallow'd lamb has bled</line>
+          <line>In sacrifice, approach not the recess.</line>
+          <line>CHORUS</line>
+          <line>I am instructed: what the god appoints</line>
+          <line>As laws, we wish not to transgress: without</line>
+          <line>Enough of ornament delights our eyes.</line>
+          <line>ION</line>
+          <line>Take a full view of all; that is allow'd.</line>
+          <line>CHORUS</line>
+          <line>To view the inmost shrine was our lord's order.</line>
+          <line>ION</line>
+          <line>Who are you call'd? Attendants on what house?</line>
+          <line>CHORUS</line>
+          <line>Our lords inhabit the magnific domes</line>
+          <line>Of Pallas.-But she comes, of whom thou askest.</line>
+          <line>CREUSA and attendants enter.</line>
+          <line>ION</line>
+          <line>Lady, whoe'er thou art, that liberal air</line>
+          <line>Speaks an exalted mind: there is a grace,</line>
+          <line>A dignity in those of noble birth,</line>
+          <line>That marks their high rank. Yet I marvel much</line>
+          <line>That from thy closed lids the trickling tear</line>
+          <line>Water'd thy beauteous cheeks, soon as thine eye</line>
+          <line>Beheld this chaste oracular seat of Phoebus.</line>
+          <line>What brings this sorrow, lady? All besides,</line>
+          <line>Viewing the temple of the god, are struck</line>
+          <line>With joy; thy melting eye o'erflows with tears.</line>
+          <line>CREUSA</line>
+          <line>Not without reason, stranger, art thou seized</line>
+          <line>With wonder at my tears: this sacred dome</line>
+          <line>Awakes the sad remembrance of things past.</line>
+          <line>I had my mind at home, though present here.</line>
+          <line>How wretched is our sex! And, O ye gods,</line>
+          <line>What deeds are yours! Where may we hope for right,</line>
+          <line>If by the injustice of your power undone?</line>
+          <line>ION</line>
+          <line>Why, lady, this inexplicable grief?</line>
+          <line>CREUSA</line>
+          <line>It matters not; my mind resumes its firmless:</line>
+          <line>I say no more; cease thy concern for me.</line>
+          <line>ION</line>
+          <line>But say, who art thou? whence? what country</line>
+          <line>boasts</line>
+          <line>Thy birth? and by what name may we address thee?</line>
+          <line>CREUSA</line>
+          <line>Creusa is my name, drawn from Erechtheus</line>
+          <line>My high-born lineage; Athens gave me birth.</line>
+          <line>Illustrious is thy state; thy ancestry</line>
+          <line>So noble that I look with reverence on thee.</line>
+          <line>CREUSA</line>
+          <line>Happy indeed is this, in nothing farther.</line>
+          <line>ION</line>
+          <line>But tell me, is it true what fame has blazon'd?</line>
+          <line>CREUSA</line>
+          <line>What wouldst thou ask? Stranger, I wish to know.</line>
+          <line>ION</line>
+          <line>Sprung the first author of thy line from the earth?</line>
+          <line>CREUSA</line>
+          <line>Ay, Erichthonius; but my race avails not.</line>
+          <line>ION</line>
+          <line>And did Minerva raise him from the earth?</line>
+          <line>CREUSA</line>
+          <line>Held in her virgin hands: she bore him not.</line>
+          <line>ION</line>
+          <line>And gave him as the picture represents?</line>
+          <line>CREUSA</line>
+          <line>Daughters of Cecrops these, charged not to see him.</line>
+          <line>ION</line>
+          <line>The virgins ope'd the interdicted chest?</line>
+          <line>CREUSA</line>
+          <line>And died, distaining with their blood the rock.</line>
+          <line>ION</line>
+          <line>But tell me, is this truth, or a vain rumour?</line>
+          <line>CREUSA</line>
+          <line>What wouldst thou ask? I am not scant of time.</line>
+          <line>ION</line>
+          <line>Thy sisters did Erechtheus sacrifice?</line>
+          <line>CREUSA</line>
+          <line>He slew the virgins, victims for their country.</line>
+          <line>ION</line>
+          <line>And thou of all thy sisters saved alone?</line>
+          <line>CREUSA</line>
+          <line>I was an infant in my mother's arms.</line>
+          <line>ION</line>
+          <line>And did the yawning earth swallow thy father?</line>
+          <line>CREUSA</line>
+          <line>By Neptune's trident smote; and so he perish'd.</line>
+          <line>ION</line>
+          <line>And Macrai call you not the fatal place?</line>
+          <line>CREUSA</line>
+          <line>Why dost thou ask? What thoughts hast thou recall'd?,</line>
+          <line>ION</line>
+          <line>Does Phoebus, do his lightnings honour it?</line>
+          <line>CREUSA</line>
+          <line>Honour! Why this? Would I had never seen it!</line>
+          <line>ION</line>
+          <line>Why? Dost thou hate the place dear to the god?</line>
+          <line>CREUSA</line>
+          <line>No: but for some base deed done in the cave.</line>
+          <line>ION</line>
+          <line>But what Athenian, lady, wedded thee?</line>
+          <line>CREUSA</line>
+          <line>Of Athens none, but one of foreign birth.</line>
+          <line>ION</line>
+          <line>What is his name? Noble he needs must be.</line>
+          <line>CREUSA</line>
+          <line>Xuthus, by Aeolus derived from Jove.</line>
+          <line>ION</line>
+          <line>How weds a stranger an Athenian born?</line>
+          <line>CREUSA</line>
+          <line>Euboea is a state neighbouring on Athens.</line>
+          <line>ION</line>
+          <line>A narrow sea flows, I have heard, between.</line>
+          <line>CREUSA</line>
+          <line>Joining the Athenian arms, that state he wasted.</line>
+          <line>ION</line>
+          <line>Confederate in the war, thence wedded thee?</line>
+          <line>CREUSA</line>
+          <line>The dowral meed of war, earn'd by his spear.</line>
+          <line>ION</line>
+          <line>Comest thou with him to Delphi, or alone?</line>
+          <line>CREUSA</line>
+          <line>With him, gone now to the Trophonian shrine.</line>
+          <line>ION</line>
+          <line>To view it, or consult the oracle?</line>
+          <line>CREUSA</line>
+          <line>Both that and this, anxious for one response.</line>
+          <line>ION</line>
+          <line>For the earth's fruits consult you, or for children?</line>
+          <line>CREUSA</line>
+          <line>Though wedded long, yet childless is our bed.</line>
+          <line>ION</line>
+          <line>Hast thou ne'er borne a child, that thou hast none?</line>
+          <line>CREUSA</line>
+          <line>My state devoid of children Phoebus knows.</line>
+          <line>ION</line>
+          <line>Bless'd in all else, luckless in this alone.</line>
+          <line>CREUSA</line>
+          <line>But who art thou? Bless'd I pronounce thy mother.</line>
+          <line>ION</line>
+          <line>Call'd as I am the servant of the god.</line>
+          <line>CREUSA</line>
+          <line>Presented by some state, or sold to this?</line>
+          <line>ION</line>
+          <line>I know not aught save this, I am the god's.</line>
+          <line>CREUSA</line>
+          <line>And in my turn, stranger, I pity thee.</line>
+          <line>ION</line>
+          <line>As knowing not my mother, or my lineage.</line>
+          <line>CREUSA</line>
+          <line>Hast thou thy dwelling here, or in some house?</line>
+          <line>ION</line>
+          <line>The temple is my house, ev'n when I sleep.</line>
+          <line>CREUSA</line>
+          <line>A child brought hither, or in riper years?</line>
+          <line>ION</line>
+          <line>An infant, as they say, who seem to know.</line>
+          <line>CREUSA</line>
+          <line>What Delphian dame sustain'd thee at her breast?</line>
+          <line>ION</line>
+          <line>I never knew a breast. She nourish'd me.</line>
+          <line>CREUSA</line>
+          <line>Who, hapless youth? Diseased, I find disease.</line>
+          <line>ION</line>
+          <line>The priestess: as a mother I esteem her.</line>
+          <line>CREUSA</line>
+          <line>Who to these manly years gave thee support?</line>
+          <line>ION</line>
+          <line>The altars, and the still-succeeding strangers.</line>
+          <line>CREUSA</line>
+          <line>Wretched, whoe'er she be, is she that bore thee.</line>
+          <line>ION</line>
+          <line>I to some woman am perchance a shame.</line>
+          <line>CREUSA</line>
+          <line>Are riches thine? Thou art well habited.</line>
+          <line>ION</line>
+          <line>Graced with these vestments by the god I serve.</line>
+          <line>CREUSA</line>
+          <line>Hast thou made no attempt to trace thy birth?</line>
+          <line>ION</line>
+          <line>I have no token, lady, for a proof.</line>
+          <line>CREUSA</line>
+          <line>Ah, like thy mother doth another suffer.</line>
+          <line>ION</line>
+          <line>Who? tell me: shouldst thou help me, what a joy</line>
+          <line>CREUSA</line>
+          <line>One for whose sake I come before my husband.</line>
+          <line>ION</line>
+          <line>Say for what end, that I may serve thee, lady.</line>
+          <line>CREUSA</line>
+          <line>To ask a secret answer of the god.</line>
+          <line>ION</line>
+          <line>Speak it: my service shall procure the rest.</line>
+          <line>CREUSA</line>
+          <line>Hear then the tale: but Modesty restrains me.</line>
+          <line>ION</line>
+          <line>Ah, let her not; her power avails not here.</line>
+          <line>CREUSA</line>
+          <line>My friend then says that to the embrace of Phoebus-</line>
+          <line>ION</line>
+          <line>A woman and a god! Say not so, stranger.</line>
+          <line>CREUSA</line>
+          <line>She bore a son: her father knew it not.</line>
+          <line>ION</line>
+          <line>Not so: a mortal's baseness he disdains.</line>
+          <line>CREUSA</line>
+          <line>This she affirms; and this, poor wretch, she suffer'd.</line>
+          <line>ION</line>
+          <line>What follow'd, if she knew the god's embrace?</line>
+          <line>CREUSA</line>
+          <line>The child, which hence had birth, she straight exposed.</line>
+          <line>ION</line>
+          <line>This exposed child, where is he? doth he live?</line>
+          <line>CREUSA</line>
+          <line>This no one knows; this wish I to inquire.</line>
+          <line>ION</line>
+          <line>If not alive, how probably destroyed?</line>
+          <line>CREUSA</line>
+          <line>Torn, she conjectures, by some beast of prey.</line>
+          <line>ION</line>
+          <line>What ground hath she on which to build that thought?</line>
+          <line>CREUSA</line>
+          <line>Returning to the place she found him not.</line>
+          <line>ION</line>
+          <line>Observed she drops of blood distain the path?</line>
+          <line>CREUSA</line>
+          <line>None, though with anxious heed she search'd around.</line>
+          <line>ION</line>
+          <line>What time hath pass'd since thus the child was lost?</line>
+          <line>CREUSA</line>
+          <line>Were he alive, his youth were such as thine.</line>
+          <line>ION</line>
+          <line>The god hath done him wrong: the unhappy mother-</line>
+          <line>CREUSA</line>
+          <line>Hath not to any child been mother since.</line>
+          <line>ION</line>
+          <line>What if in secret Phoebus nurtures him!</line>
+          <line>CREUSA</line>
+          <line>Unjust to enjoy alone a common right.</line>
+          <line>ION</line>
+          <line>Ah me! this cruel fate accords with mine.</line>
+          <line>CREUSA</line>
+          <line>For thee too thy unhappy mother mourns.</line>
+          <line>ION</line>
+          <line>Ah, melt me not to griefs I would forget!</line>
+          <line>CREUSA</line>
+          <line>I will be silent: but impart thy aid.</line>
+          <line>ION</line>
+          <line>Seest thou what most the inquiry will suppress?</line>
+          <line>CREUSA</line>
+          <line>And to my wretched friend what is not ill?</line>
+          <line>ION</line>
+          <line>How shall the god what he would hide reveal?</line>
+          <line>CREUSA</line>
+          <line>As placed on the oracular seat of Greece.</line>
+          <line>ION</line>
+          <line>The deed must cause him shame: convict him not.</line>
+          <line>CREUSA</line>
+          <line>To the poor sufferer 'tis the cause of grief.</line>
+          <line>ION</line>
+          <line>It cannot be; for who shall dare to give</line>
+          <line>The oracle? With justice would the god,</line>
+          <line>In his own dome affronted, pour on him</line>
+          <line>Severest vengeance, who should answer thee.</line>
+          <line>Desist then, lady: it becomes us ill,</line>
+          <line>In opposition to the god, to make</line>
+          <line>Inquiries at his shrine; by sacrifice</line>
+          <line>Before their altars, or the flight of birds,</line>
+          <line>Should we attempt to force the unwilling gods</line>
+          <line>To utter what they wish not, 'twere the excess</line>
+          <line>Of rudeness; what with violence we urge</line>
+          <line>'Gainst their consent would to no good avail us:</line>
+          <line>What their spontaneous grace confers on us,</line>
+          <line>That, lady, as a blessing we esteem.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>How numberless the ills to mortal man,</line>
+          <line>And various in their form! One single blessing</line>
+          <line>By any one through life is scarcely found.</line>
+          <line>CREUSA</line>
+          <line>Nor here, nor there, O Phoebus, art thou</line>
+          <line>just</line>
+          <line>To her; though absent, yet her words are present.</line>
+          <line>Nor didst thou save thy son, whom it became thee</line>
+          <line>To save; nor, though a prophet, wilt thou speak</line>
+          <line>To the sad mother who inquires of thee;</line>
+          <line>That, if he is no more, to him a tomb</line>
+          <line>May rise; but, if he lives, that he may bless</line>
+          <line>His mother's eyes. But even thus behooves us</line>
+          <line>To omit these things, if by the god denied</line>
+          <line>To know what most I wish.-But, for I see</line>
+          <line>The noble Xuthus this way bend, return'd</line>
+          <line>From the Trophonian cave; before my husband</line>
+          <line>Resume not, generous stranger, this discourse,</line>
+          <line>Lest it might cause me shame that thus I act</line>
+          <line>In secret, and perchance lead on to questions</line>
+          <line>I would not have explain'd. Our hapless sex</line>
+          <line>Oft feel our husbands' rigour: with the bad</line>
+          <line>The virtuous they confound, and treat us harshly.</line>
+          <line>XUTHUS and his retinue enter.</line>
+          <line>XUTHUS</line>
+          <line>With reverence to the god my first address</line>
+          <line>I pay: Hail, Phoebus! Lady, next to thee:</line>
+          <line>Absent so long, have I not caused thee fear?</line>
+          <line>CREUSA</line>
+          <line>Not much: as anxious thoughts 'gan rise, thou'rt</line>
+          <line>come.</line>
+          <line>But, tell me, from Trophonius what reply</line>
+          <line>Bearest thou; what means whence offspring may arise?</line>
+          <line>XUTHUS</line>
+          <line>Unmeet he held it to anticipate</line>
+          <line>The answer of the god: one thing he told me.</line>
+          <line>That childless I should not return, nor thou,</line>
+          <line>Home from the oracle.</line>
+          <line>CREUSA</line>
+          <line>Goddess revered,</line>
+          <line>Mother of Phoebus, be our coming hither</line>
+          <line>In lucky hour; and our connubial bed</line>
+          <line>Be by thy son made happier than before!</line>
+          <line>XUTHUS</line>
+          <line>It shall be so. But who is president here?</line>
+          <line>ION</line>
+          <line>Without, that charge is mine; within, devolved</line>
+          <line>On others, stranger, seated near the tripod;</line>
+          <line>The chiefs of Delphi these, chosen by lot.</line>
+          <line>XUTHUS</line>
+          <line>'Tis well: all that I want is then complete.</line>
+          <line>Let me now enter: for the oracle</line>
+          <line>Is given, I hear, in common to all strangers</line>
+          <line>Before the shrine; on such a day, that falls</line>
+          <line>Propitious thus, the answer of the god</line>
+          <line>Would I receive: meanwhile, these laurel boughs</line>
+          <line>Bear round the altars; lady, breathe thy prayers</line>
+          <line>To every god, that from Apollo's shrine</line>
+          <line>I may bring back the promise of a son.</line>
+          <line>XUTHUS, after giving the laurel boughs to CREUSA, enters the</line>
+          <line>temple.</line>
+          <line>CREUSA</line>
+          <line>It shall, it shall be so. Should Phoebus</line>
+          <line>now</line>
+          <line>At least be willing to redress the fault</line>
+          <line>Of former times, he would not through the whole</line>
+          <line>Be friendly to us: yet will I accept</line>
+          <line>What he vouchsafes us, for he is a god.</line>
+          <line>CREUSA departs to the shrines in the outer precinct of the</line>
+          <line>temple.</line>
+          <line>ION</line>
+          <line>Why does this stranger always thus revile</line>
+          <line>With obscure speech the god? Is it through love</line>
+          <line>Of her, for whom she asks? or to conceal</line>
+          <line>Some secret of importance? But to me</line>
+          <line>What is the daughter of Erechtheus? Naught</line>
+          <line>Concerns it me. Then let me to my task,</line>
+          <line>And sprinkle from the golden vase the dew.</line>
+          <line>Yet must I blame the god, if thus perforce</line>
+          <line>He mounts the bed of virgins, and by stealth</line>
+          <line>Becomes a father, leaving then his children</line>
+          <line>To die, regardless of them. Do not thou</line>
+          <line>Act thus; but, as thy power is great, respect</line>
+          <line>The virtues; for whoe'er, of mortal men,</line>
+          <line>Dares impious deeds, him the gods punish: how</line>
+          <line>Is it then just that you, who gave the laws</line>
+          <line>To mortals, should yourselves transgress those laws?,</line>
+          <line>If (though it is not thus, yet will I urge</line>
+          <line>The subject,)-if to mortals you shall pay</line>
+          <line>The penalty of forced embraces, thou,</line>
+          <line>Neptune, and Jove, that reigns supreme in heaven,</line>
+          <line>Will leave your temples treasureless by paying</line>
+          <line>The mulcts of your injustice: for unjust</line>
+          <line>You are, your pleasures to grave temperance</line>
+          <line>Preferring: and to men these deeds no more</line>
+          <line>Can it be just to charge as crimes, these deeds</line>
+          <line>If from the gods they imitate: on those</line>
+          <line>Who gave the ill examples falls the charge.</line>
+          <line>ION goes out.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>strophe</line>
+          <line>Thee prompt to yield thy lenient aid,</line>
+          <line>And sooth a mother's pain:</line>
+          <line>And thee, my Pallas, martial maid,</line>
+          <line>I call: O, hear the strain!</line>
+          <line>Thou, whom the Titan from the head of Jove,</line>
+          <line>Prometheus, drew, bright Victory, come,</line>
+          <line>Descending from thy golden throne above;</line>
+          <line>Haste, goddess, to the Pythian dome,</line>
+          <line>Where Phoebus, from his central shrine,</line>
+          <line>Gives the oracle divine,</line>
+          <line>By the raving maid repeated,</line>
+          <line>On the hallow'd tripod seated:</line>
+          <line>O haste thee, goddess, and with thee</line>
+          <line>The daughter of Latona bring;</line>
+          <line>A virgin thou, a virgin she,</line>
+          <line>Sisters to the Delphian king;</line>
+          <line>Him, virgins, let your vows implore,</line>
+          <line>That now his pure oracular power</line>
+          <line>Will to Erechtheus' ancient line declare</line>
+          <line>The blessing of a long-expected heir! antistrophe</line>
+          <line>To mortal man this promised grace</line>
+          <line>Sublimest pleasure brings,</line>
+          <line>When round the father's hearth a race</line>
+          <line>In blooming lustre springs.</line>
+          <line>The wealth, the honours, from their high-drawn line</line>
+          <line>From sire to son transmitted down,</line>
+          <line>Shall with fresh glory through their offspring shine,</line>
+          <line>And brighten with increased renown:</line>
+          <line>A guard, when ills begin to lower,</line>
+          <line>Dear in fortune's happier hour;</line>
+          <line>For their country's safety waking,</line>
+          <line>Firm in fight the strong spear shaking;</line>
+          <line>More than proud wealth's exhaustless store,</line>
+          <line>More than a monarch's bride to reign,</line>
+          <line>The dear delight, to virtue's lore</line>
+          <line>Careful the infant mind to train.</line>
+          <line>Doth any praise the childless state?</line>
+          <line>The joyless, loveless life I hate;</line>
+          <line>No; my desires to moderate wealth I bound,</line>
+          <line>But let me see my children smile around. epode</line>
+          <line>Ye rustic seats, Pan's dear delight;</line>
+          <line>Ye caves of Macrai's rocky height,</line>
+          <line>Where oft the social virgins meet,</line>
+          <line>And weave the dance with nimble feet;</line>
+          <line>Descendants from Aglauros they</line>
+          <line>In the third line, with festive play,</line>
+          <line>Minerva's hallow'd fane before</line>
+          <line>The verdant plain light-tripping o'er,</line>
+          <line>When thy pipe's quick-varying sound</line>
+          <line>Rings, O Pan, these caves around;</line>
+          <line>Where, by Apollo's love betray'd,</line>
+          <line>Her child some hapless mother laid,</line>
+          <line>Exposed to each night-prowling beast,</line>
+          <line>Or to the ravenous birds a feast;</line>
+          <line>For never have I heard it told,</line>
+          <line>Nor wrought it in historic gold,</line>
+          <line>That happiness attends the race,</line>
+          <line>When gods with mortals mix the embrace.</line>
+          <line>ION re-enters.</line>
+          <line>ION</line>
+          <line>Ye female train, that place yourselves around</line>
+          <line>This incense-breathing temple's base, your lord</line>
+          <line>Awaiting, hath he left the sacred tripod</line>
+          <line>And oracle, or stays he in the shrine,</line>
+          <line>Making inquiries of his childless state?</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>Yet in the temple, stranger, he remains.</line>
+          <line>ION</line>
+          <line>But he comes forth; the sounding doors announce</line>
+          <line>His near approach; behold, our lord is here.</line>
+          <line>XUTHUS enters from the temple. He rushes to greet</line>
+          <line>ION.</line>
+          <line>XUTHUS</line>
+          <line>Health to my son! This first address is proper.</line>
+          <line>ION</line>
+          <line>I have my health: be in thy senses thou,</line>
+          <line>And both are well.</line>
+          <line>XUTHUS</line>
+          <line>O let me kiss thy hand,</line>
+          <line>And throw mine arms around thee.</line>
+          <line>ION</line>
+          <line>Art thou, stranger,</line>
+          <line>Well in thy wits? or hath the god's displeasure</line>
+          <line>Bereft thee of thy reason?</line>
+          <line>XUTHUS</line>
+          <line>Reason bids,</line>
+          <line>That which is dearest being found, to wish</line>
+          <line>A fond embrace.</line>
+          <line>ION</line>
+          <line>Off, touch me not; thy hands</line>
+          <line>Will mar the garlands of the god.</line>
+          <line>XUTHUS</line>
+          <line>My touch</line>
+          <line>Asserts no pledge: my own, and that most dear,</line>
+          <line>I find.</line>
+          <line>ION</line>
+          <line>Wilt thou not keep thee distant, ere</line>
+          <line>Thou hast my arrow in thy heart?</line>
+          <line>XUTHUS</line>
+          <line>Why fly me,</line>
+          <line>When thou shouldst own what is most fond of thee?</line>
+          <line>ION</line>
+          <line>I am not fond of curing wayward strangers,</line>
+          <line>And madmen.</line>
+          <line>XUTHUS</line>
+          <line>Kill me, raise my funeral pyre;</line>
+          <line>But, if thou kill me, thou wilt kill thy father.</line>
+          <line>ION</line>
+          <line>My father thou! how so? it makes me laugh</line>
+          <line>To hear thee.</line>
+          <line>XUTHUS</line>
+          <line>This my words may soon explain.</line>
+          <line>ION</line>
+          <line>What wilt thou say to me?</line>
+          <line>XUTHUS</line>
+          <line>I am thy father,</line>
+          <line>And thou my son.</line>
+          <line>ION</line>
+          <line>Who declares this?</line>
+          <line>XUTHUS</line>
+          <line>The god,</line>
+          <line>That nurtured thee, though mine.</line>
+          <line>ION</line>
+          <line>Thou to thyself</line>
+          <line>Art witness.</line>
+          <line>XUTHUS</line>
+          <line>By the oracle inform'd.</line>
+          <line>ION</line>
+          <line>Misled by some dark answer.</line>
+          <line>XUTHUS</line>
+          <line>Well I heard it.</line>
+          <line>ION</line>
+          <line>What were the words of Phoebus?</line>
+          <line>XUTHUS</line>
+          <line>That who first</line>
+          <line>Should meet me-</line>
+          <line>ION</line>
+          <line>How?-what meeting?</line>
+          <line>XUTHUS</line>
+          <line>As I pass'd.</line>
+          <line>Forth from the temple.</line>
+          <line>ION</line>
+          <line>What the event to him?</line>
+          <line>XUTHUS</line>
+          <line>He is my son.</line>
+          <line>ION</line>
+          <line>Born so, or by some other</line>
+          <line>Presented?</line>
+          <line>XUTHUS</line>
+          <line>Though a present, born my son.</line>
+          <line>ION</line>
+          <line>And didst thou first meet me?</line>
+          <line>XUTHUS</line>
+          <line>None else, my son.</line>
+          <line>ION</line>
+          <line>This fortune whence?</line>
+          <line>XUTHUS</line>
+          <line>At that we marvel both.</line>
+          <line>ION</line>
+          <line>Who is my mother?</line>
+          <line>XUTHUS</line>
+          <line>That I cannot say.</line>
+          <line>ION</line>
+          <line>Did not the god inform thee?</line>
+          <line>XUTHUS</line>
+          <line>Through my joy,</line>
+          <line>For this I ask'd not.</line>
+          <line>ION</line>
+          <line>Haply from the earth</line>
+          <line>I sprung, my mother.</line>
+          <line>XUTHUS</line>
+          <line>No, the earth no sons</line>
+          <line>Produces.</line>
+          <line>ION</line>
+          <line>How then am I thine?</line>
+          <line>XUTHUS</line>
+          <line>I know not.</line>
+          <line>To Phoebus I appeal.</line>
+          <line>ION</line>
+          <line>Be this discourse</line>
+          <line>Chang'd to some other.</line>
+          <line>XUTHUS</line>
+          <line>This delights me most.</line>
+          <line>ION</line>
+          <line>Hast thou e'er mounted an unlawful bed?</line>
+          <line>XUTHUS</line>
+          <line>In foolishness of youth.</line>
+          <line>ION</line>
+          <line>Was that before</line>
+          <line>Thy marriage with the daughter of Erechtheus?</line>
+          <line>XUTHUS</line>
+          <line>Since never.</line>
+          <line>ION</line>
+          <line>Owe I then my birth to that?</line>
+          <line>XUTHUS</line>
+          <line>The time agrees.</line>
+          <line>ION</line>
+          <line>How came I hither then?</line>
+          <line>XUTHUS</line>
+          <line>I can form no conjecture.</line>
+          <line>ION</line>
+          <line>Was I brought</line>
+          <line>From some far distant part?</line>
+          <line>XUTHUS</line>
+          <line>That fills my mind</line>
+          <line>With doubtful musing.</line>
+          <line>ION</line>
+          <line>Didst thou e'er before</line>
+          <line>Visit the Pythian rock?</line>
+          <line>XUTHUS</line>
+          <line>Once, at the feast</line>
+          <line>Of Bacchus.</line>
+          <line>ION</line>
+          <line>By some public host received?</line>
+          <line>XUTHUS</line>
+          <line>Who with the Delphian damsels-</line>
+          <line>ION</line>
+          <line>To the orgies</line>
+          <line>Led thee, or how?</line>
+          <line>XUTHUS</line>
+          <line>And with the Maenades</line>
+          <line>Of Bacchus-</line>
+          <line>ION</line>
+          <line>In the temperate hour, or warm</line>
+          <line>With wine?</line>
+          <line>XUTHUS</line>
+          <line>Amid the revels of the god.</line>
+          <line>ION</line>
+          <line>From thence I date my birth.</line>
+          <line>XUTHUS</line>
+          <line>And fate, my son,</line>
+          <line>Hath found thee.</line>
+          <line>ION</line>
+          <line>How then came I to the temple?</line>
+          <line>XUTHUS</line>
+          <line>Perchance exposed.</line>
+          <line>ION</line>
+          <line>The state of servitude</line>
+          <line>Have I escaped.</line>
+          <line>XUTHUS</line>
+          <line>Thy father now, my son,</line>
+          <line>Receive.</line>
+          <line>ION</line>
+          <line>Indecent were it in the god</line>
+          <line>Not to confide.</line>
+          <line>XUTHUS</line>
+          <line>Thy thoughts are just.</line>
+          <line>ION</line>
+          <line>What else</line>
+          <line>Would we?</line>
+          <line>XUTHUS</line>
+          <line>Thou seest what thou oughtst to see.</line>
+          <line>ION</line>
+          <line>Am I the son then of the son of Jove?</line>
+          <line>XUTHUS</line>
+          <line>Such is thy fortune.</line>
+          <line>ION</line>
+          <line>Those that gave me birth</line>
+          <line>Do I embrace?</line>
+          <line>XUTHUS</line>
+          <line>Obedient to the god.</line>
+          <line>ION</line>
+          <line>My father, hail!</line>
+          <line>XUTHUS</line>
+          <line>That dear name I accept</line>
+          <line>With joy.</line>
+          <line>ION</line>
+          <line>This present day-</line>
+          <line>XUTHUS</line>
+          <line>Hath made me happy.</line>
+          <line>ION</line>
+          <line>O my dear mother, when shall I behold</line>
+          <line>Thy face? Whoe'er thou art, more wish I now</line>
+          <line>To see thee than before; but thou perchance</line>
+          <line>Art dead, and nothing our desires avail.</line>
+          <line>LEADER</line>
+          <line>We in the blessing of our house rejoice.</line>
+          <line>Yet wish we that our mistress too were happy</line>
+          <line>In children, and the lineage of Erechtheus.</line>
+          <line>XUTHUS</line>
+          <line>Well hath the god accomplish'd this, my</line>
+          <line>son,</line>
+          <line>Discovering thee, well hath he joined thee to me;</line>
+          <line>And thou hast found the most endearing ties,</line>
+          <line>To which, before this hour, thou wast a stranger.</line>
+          <line>And the warm wish, which thou hast well conceived,</line>
+          <line>Is likewise mine, that thou mayst find thy mother;</line>
+          <line>I from what woman thou derivest thy birth.</line>
+          <line>This, left to time, may haply be discover'd.</line>
+          <line>Now quit this hallow'd earth, the god no more</line>
+          <line>Attending, and to mine accord thy mind,</line>
+          <line>To visit Athens, where thy father's sceptre,</line>
+          <line>No mean one, waits thee, and abundant wealth:</line>
+          <line>Nor, though thou grieve one parent yet unknown,</line>
+          <line>Shalt thou be censured as ignobly born,</line>
+          <line>Or poor: no, thou art noble, and thy state</line>
+          <line>Adorn'd with rich possessions. Thou art silent.</line>
+          <line>Why is thine eye thus fixed upon the ground?</line>
+          <line>Why on thy brow that cloud? The smile of joy</line>
+          <line>Vanish'd, thou strikest thy father's heart with fear.</line>
+          <line>ION</line>
+          <line>Far other things appear when nigh, than</line>
+          <line>seen</line>
+          <line>At distance. I indeed embrace my fortune,</line>
+          <line>In thee my father found. But hear what now</line>
+          <line>Wakes sad reflections. Proud of their high race</line>
+          <line>Are your Athenians, natives of the land,</line>
+          <line>Not drawn from foreign lineage: I to them</line>
+          <line>Shall come unwelcome, in two points defective,</line>
+          <line>My father not a native, and myself</line>
+          <line>Of spurious birth: loaded with this reproach,</line>
+          <line>If destitute of power, I shall be held</line>
+          <line>Abject and worthless: should I rush among</line>
+          <line>The highest order of the state, and wish</line>
+          <line>To appear important, inferior ranks</line>
+          <line>Will hate me; aught above them gives disgust.</line>
+          <line>The good, the wise, men form'd to serve the state,</line>
+          <line>Are silent, nor at public honours aim</line>
+          <line>Too hastily: by such, were I not quiet</line>
+          <line>In such a bustling state, I should be deem'd</line>
+          <line>Ridiculous, and proverb'd for a fool.</line>
+          <line>Should I attain the dignity of those,</line>
+          <line>Whose approved worth hath raised them to the height</line>
+          <line>Of public honours, by such suffrage more</line>
+          <line>Should I be watch'd; for they that hold in states</line>
+          <line>Rule and pre-eminence, bear hostile minds</line>
+          <line>To all that vie with them. And should I come</line>
+          <line>To a strange house a stranger, to a woman</line>
+          <line>Childless herself, who that misfortune shared</line>
+          <line>Before with thee, now sees it her sole lot,</line>
+          <line>And feels it bitterly, would she not hate me,</line>
+          <line>And that with justice? When I stand before them.</line>
+          <line>With what an eye would she, who hath no child,</line>
+          <line>Look on thy child? In tenderness to her,</line>
+          <line>Thy wife, thou must forsake me, or embroil</line>
+          <line>Thy house in discord, if thou favour me.</line>
+          <line>What murderous means, what poisonous drugs for men</line>
+          <line>Have women with inventive rage prepared!</line>
+          <line>Besides, I have much pity for thy wife,</line>
+          <line>Now growing old without a child, that grief</line>
+          <line>Unmerited, the last of her high race,</line>
+          <line>The exterior face indeed of royalty,</line>
+          <line>So causelessly commended, bath its brightness;</line>
+          <line>Within, all gloom: for what sweet peace of mind,</line>
+          <line>What happiness is his, whose years are pass'd</line>
+          <line>In comfortless suspicion, and the dread</line>
+          <line>Of violence? Be mine the humble blessings</line>
+          <line>Of private life, rather than be a king,</line>
+          <line>From the flagitious forced to choose my friends,</line>
+          <line>And hate the virtuous through the fear of death.</line>
+          <line>Gold, thou mayst tell me, hath o'er things like</line>
+          <line>these</line>
+          <line>A sovereign power, and riches give delight:</line>
+          <line>I have no pleasure in this noisy pomp,</line>
+          <line>Nor, while I guard my riches, in the toil:</line>
+          <line>Be mine a modest mean that knows not care.</line>
+          <line>And now, my father, hear the happy state</line>
+          <line>I here enjoy'd; and first, to mortal man</line>
+          <line>That dearest blessing, leisure, and no bustle</line>
+          <line>To cause disturbance: me no ruffian force</line>
+          <line>Shoved from the way: it is not to be borne,</line>
+          <line>When every insolent and worthless wretch</line>
+          <line>Makes you give place. The worship of the god</line>
+          <line>Employ'd my life, or (no unpleasing task)</line>
+          <line>Service to men well pleased: the parting guest</line>
+          <line>I bade farewell-welcomed the new-arrived.</line>
+          <line>Thus something always new made every hour</line>
+          <line>Glide sweetly on; and to the human mind</line>
+          <line>That dearest wish, though some regard it not,</line>
+          <line>To be, what duty and my nature made me,</line>
+          <line>Just to the god: revolving this, my father,</line>
+          <line>I wish not for thy Athens to exchange</line>
+          <line>This state; permit me to myself to live;</line>
+          <line>Dear to the mind pleasures that arise</line>
+          <line>From humble life, as those which greatness brings.</line>
+          <line>LEADER</line>
+          <line>Well hast thou said, if those whom my soul</line>
+          <line>holds</line>
+          <line>Most dear shall in thy words find happiness.</line>
+          <line>XUTHUS</line>
+          <line>No more of this discourse; learn to be happy.</line>
+          <line>It is my will that thou begin it here,</line>
+          <line>Where first I found thee, son: a general feast</line>
+          <line>Will I provide, and make a sacrifice,</line>
+          <line>Which at thy birth I made not: at my table</line>
+          <line>Will I receive thee as a welcome guest,</line>
+          <line>And cheer thee with the banquet, then conduct the</line>
+          <line>To Athens with me as a visitant,</line>
+          <line>Not as my son: for, mid my happiness,</line>
+          <line>I would not grieve my wife, who hath no child.</line>
+          <line>ION</line>
+          <line>But I will watch the occasions time may</line>
+          <line>bring,</line>
+          <line>And so present thee, and obtain her leave</line>
+          <line>That thou mayst hold the sceptre which I bear.</line>
+          <line>Ion I name thee, as befits thy fortune,</line>
+          <line>As first thou met'st me from the hallow'd shrine</line>
+          <line>As I came forth; assemble then thy friends,</line>
+          <line>Invite them all to share the joyful feast,</line>
+          <line>Since thou art soon to leave the Delphic state.</line>
+          <line>And you, ye females, keep, I charge you, keep</line>
+          <line>This secret; she that tells my wife shall die.</line>
+          <line>ION</line>
+          <line>Let us then go; yet one thing to my fortune</line>
+          <line>Is wanting: if I find not her that bore me,</line>
+          <line>Life hath no joy. Might I indulge a wish,</line>
+          <line>It were to find her an Athenian dame,</line>
+          <line>That from my mother I might dare to assume</line>
+          <line>Some confidence; for he whose fortune leads him</line>
+          <line>To a free state proud of their unmix'd race,</line>
+          <line>Though call'd a citizen, must close his lips</line>
+          <line>With servile awe, for freedom is not his.</line>
+          <line>XUTHUS and ION go out.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>strophe</line>
+          <line>Yes, sisters, yes, the streaming eye,</line>
+          <line>The swelling heart I see, the bursting sigh,</line>
+          <line>When thus rejoicing in his son</line>
+          <line>Our queen her royal lord shall find,</line>
+          <line>And give to grief her anguish'd mind,</line>
+          <line>Afflicted, childless, and alone.</line>
+          <line>What means this voice divine,</line>
+          <line>Son of Latona, fate-declaring power?</line>
+          <line>Whence is this youth, so fondly graced,</line>
+          <line>That to ripe manhood, from his infant hour,</line>
+          <line>Hath in thy hallow'd courts been plac'd</line>
+          <line>And nurtured at thy shrine?</line>
+          <line>Thy dark reply delights not me;</line>
+          <line>Lurking beneath close fraud I see:</line>
+          <line>Where will this end? I fear, I fear-</line>
+          <line>'Tis strange, and strange events must hence ensue:</line>
+          <line>But grateful sounds it to his ear,</line>
+          <line>The youth, that in another's state</line>
+          <line>(Who sees not that my words are true?)</line>
+          <line>Enjoys the fraud, and triumphs in his fate. antistrophe</line>
+          <line>Say, sisters, say, with duteous zeal</line>
+          <line>Shall we this secret to our queen reveal?</line>
+          <line>She, to her royal lord resign'd,</line>
+          <line>With equal hope, with equal care,</line>
+          <line>Form'd her his joys, his griefs to share,</line>
+          <line>And gave him an her willing mind.</line>
+          <line>But joys are his alone;</line>
+          <line>While she, poor mourner, with a weight of woes,</line>
+          <line>To hoary age advancing, bends;</line>
+          <line>He the bright smile of prosperous fortune knows.</line>
+          <line>Ev'n thus, unhonour'd by his friends,</line>
+          <line>Plac'd on another's throne,</line>
+          <line>Mischance and ruin on him wait,</line>
+          <line>Who fails to guard its happy state.</line>
+          <line>Him may mischance and ruin seize,</line>
+          <line>Who round my lov'd queen spreads his wily trains.</line>
+          <line>No god may his oblation please,</line>
+          <line>No favouring flame to him ascend!</line>
+          <line>To her my faith, my zeal remains,</line>
+          <line>Known to her ancient royal house a friend. epode</line>
+          <line>Now the father and the new-found son</line>
+          <line>The festive table haste to spread,</line>
+          <line>Where to the skies Parnassus lifts his head,</line>
+          <line>And deep beneath the hanging stone</line>
+          <line>Forms in its rudely-rifted side</line>
+          <line>A cavern wild and wide;</line>
+          <line>Where Bacchus, shaking high his midnight flames,</line>
+          <line>In many a light fantastic round</line>
+          <line>Dances o'er the craggy ground,</line>
+          <line>And revels with his frantic dames.</line>
+          <line>Ne'er to my city let him come,</line>
+          <line>This youth: no, rather let him die,</line>
+          <line>And sink into an early tomb!</line>
+          <line>With an indignant eye</line>
+          <line>Athens would view the stranger's pride</line>
+          <line>Within her gates triumphant ride:</line>
+          <line>Enough for her the honour'd race that springs</line>
+          <line>From old Erechtheus and her line of kings.</line>
+          <line>CREUSA and her aged TUTOR enter.</line>
+          <line>CREUSA</line>
+          <line>Thou venerable man, whose guiding voice</line>
+          <line>My father, while he lived, revered, advance</line>
+          <line>Up to the oracular seat thy aged steps;</line>
+          <line>That, if the royal Phoebus should pronounce</line>
+          <line>Promise of offspring, thou with me mayst share</line>
+          <line>The joy; for pleasing is it when with friends</line>
+          <line>Good fortune we receive; if aught of ill</line>
+          <line>(Avert it, Heaven!) befalls, a friend's kind eye</line>
+          <line>Beams comfort; thee, as once thou didst revere</line>
+          <line>My father, though thy queen, I now revere.</line>
+          <line>TUTOR</line>
+          <line>In thee, my child, the nobleness of manners</line>
+          <line>Which graced thy royal ancestors yet lives;</line>
+          <line>Thou never wilt disgrace thy high-born lineage.</line>
+          <line>Lead me, then, lead me to the shrine, support me:</line>
+          <line>High is the oracular seat, and steep the ascent;</line>
+          <line>Be thou assistant to the foot of age.</line>
+          <line>CREUSA</line>
+          <line>Follow; be heedful where thou set thy steps.</line>
+          <line>TUTOR</line>
+          <line>I am: my foot is slow, my heart hath wings.</line>
+          <line>CREUSA</line>
+          <line>Fix thy staff firm on this loose-rolling ground.</line>
+          <line>TUTOR</line>
+          <line>That hath no eyes; and dim indeed my sight.</line>
+          <line>CREUSA</line>
+          <line>Well hast thou said; on cheerful then, and faint not.</line>
+          <line>TUTOR</line>
+          <line>I have the will, but o'er constraint no power.</line>
+          <line>CREUSA</line>
+          <line>Ye females, on my richly-broider'd works</line>
+          <line>Faithful attendants, say, respecting children,</line>
+          <line>For which we came, what fortune hath my lord</line>
+          <line>Borne hence? if good, declare it: you shall find</line>
+          <line>That to no thankless masters you give joy.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>O fortune!</line>
+          <line>CREUSA</line>
+          <line>To thy speech this is a proem</line>
+          <line>Not tuned to happiness.</line>
+          <line>LEADER</line>
+          <line>Unhappy fortune!</line>
+          <line>But why distress me for the oracle</line>
+          <line>Given to our lords? Be that as fate requires</line>
+          <line>In things which threaten death, what shall we do?</line>
+          <line>CREUSA</line>
+          <line>What means this strain of woe? Whence are these fears?</line>
+          <line>LEADER</line>
+          <line>What! shall we speak, or bury this in silence?</line>
+          <line>CREUSA</line>
+          <line>Speak, though thy words bring wretchedness to me.</line>
+          <line>LEADER</line>
+          <line>It shall be spoken, were I twice to die.</line>
+          <line>To thee, my queen, it is not given to clasp</line>
+          <line>In thy fond arms a child, or at thy breast</line>
+          <line>To hold it.</line>
+          <line>TUTOR</line>
+          <line>O my child, would I were dead!</line>
+          <line>CREUSA</line>
+          <line>Yes, this is wretchedness indeed, a grief</line>
+          <line>That makes life joyless.</line>
+          <line>TUTOR</line>
+          <line>This is ruin to us.</line>
+          <line>CREUSA</line>
+          <line>Unhappy me! this is a piercing grief,</line>
+          <line>That rends my heart with anguish.</line>
+          <line>TUTOR</line>
+          <line>Groan not yet.</line>
+          <line>CREUSA</line>
+          <line>Yet is the affliction present.</line>
+          <line>TUTOR</line>
+          <line>Till we learn-</line>
+          <line>CREUSA</line>
+          <line>To me what tidings?</line>
+          <line>TUTOR</line>
+          <line>If a common fate</line>
+          <line>Await our lord, partaker of thy griefs,</line>
+          <line>Or thou alone art thus unfortunate.</line>
+          <line>LEADER</line>
+          <line>To him, old man, the god hath given a son,</line>
+          <line>And happiness is his unknown to her.</line>
+          <line>CREUSA</line>
+          <line>To ill this adds the deepest ill, a grief</line>
+          <line>For me to mourn.</line>
+          <line>TUTOR</line>
+          <line>Born of some other woman</line>
+          <line>Is this child yet to come, or did the god</line>
+          <line>Declare one now in being?</line>
+          <line>LEADER</line>
+          <line>One advanced</line>
+          <line>To manhood's prime he gave him: I was present.</line>
+          <line>CREUSA</line>
+          <line>What hast thou said? Thy words denounce to</line>
+          <line>me</line>
+          <line>Sorrows past speech, past utterance.</line>
+          <line>TUTOR</line>
+          <line>And to me.</line>
+          <line>CREUSA</line>
+          <line>How was this oracle accomplish'd? Tell me</line>
+          <line>With clearest circumstance: who is this youth?</line>
+          <line>LEADER</line>
+          <line>Him as a son Apollo gave, whom first,</line>
+          <line>Departing from the god, thy lord should meet.</line>
+          <line>CREUSA</line>
+          <line>O my unhappy fate! I then am left</line>
+          <line>Childless to pass my life, childless, alone,</line>
+          <line>Amid my lonely house! Who was declared?</line>
+          <line>Whom did the husband of this wretch first meet?</line>
+          <line>How meet him? Where behold him? Tell me all.</line>
+          <line>LEADER</line>
+          <line>Dost thou, my honoured mistress, call to</line>
+          <line>mind</line>
+          <line>The youth that swept the temple? This is he.</line>
+          <line>CREUSA</line>
+          <line>O, through the liquid air that I could fly,</line>
+          <line>Far from the land of Greece, ev'n to the stars</line>
+          <line>Fix'd in the western sky! Ah me, what grief,</line>
+          <line>What piercing grief is mine I</line>
+          <line>TUTOR</line>
+          <line>Say, by what name</line>
+          <line>Did he address his son, if thou hast heard it?</line>
+          <line>Or does it rest in silence, yet unknown?</line>
+          <line>LEADER</line>
+          <line>Ion, for that he first advanced to meet him.</line>
+          <line>TUTOR</line>
+          <line>And of what mother?</line>
+          <line>LEADER</line>
+          <line>That I could not learn:</line>
+          <line>Abrupt was his departure (to inform thee</line>
+          <line>Of all I know, old man) to sacrifice,</line>
+          <line>With hospitable rites, a birthday feast;</line>
+          <line>And in the hallow'd cave, from her apart,</line>
+          <line>With his new son to share the common banquet.</line>
+          <line>TUTOR</line>
+          <line>Lady, we by thy husband are betrayed,</line>
+          <line>For I with thee am grieved, with contrived fraud</line>
+          <line>Insulted, from thy father's house cast forth.</line>
+          <line>I speak not this in hatred to thy lord,</line>
+          <line>But that I love thee more: a stranger he</line>
+          <line>Came to the city and thy royal house,</line>
+          <line>And wedded thee, all thy inheritance</line>
+          <line>Receiving, by some other woman now</line>
+          <line>Discover'd to have children privately:</line>
+          <line>How privately I'll tell thee: when he saw</line>
+          <line>Thou hadst no child, it pleased him not to bear</line>
+          <line>A fate like thine; but by some favourite slave,</line>
+          <line>His paramour by stealth, he hath a son.</line>
+          <line>Him to some Delphian gave he, distant far,</line>
+          <line>To educate; who to this sacred house</line>
+          <line>Consign'd, as secret here, received his nurture.</line>
+          <line>He knowing this, and that his son advanced</line>
+          <line>To manhood, urged thee to attend him hither,</line>
+          <line>Pleading thy childless state. Nor hath the god</line>
+          <line>Deceived thee: he deceived thee, and long since</line>
+          <line>Contrived this wily plan to rear his son,</line>
+          <line>That, if convicted, he might charge the god,</line>
+          <line>Himself excusing: should the fraud succeed,</line>
+          <line>He would observe the times when he might safely</line>
+          <line>Consign to him the empire of thy land.</line>
+          <line>And this new name was at his leisure form'd,</line>
+          <line>Ion, for that he came by chance to meet him.</line>
+          <line>I hate those ill-designing men, that form</line>
+          <line>Plans of injustice, and then gild them over</line>
+          <line>With artificial ornament: to me</line>
+          <line>Far dearer is the honest simple friend,</line>
+          <line>Than one whose quicker wit is train'd to ill.</line>
+          <line>And to complete this fraud, thou shalt be urged</line>
+          <line>To take into thy house, to lord it there,</line>
+          <line>This low-born youth, this offspring of a slave.</line>
+          <line>Though ill, it had been open, had he pleaded</line>
+          <line>Thy want of children, and, thy leave obtain'd,</line>
+          <line>Brought to thy house a son that could have boasted</line>
+          <line>His mother noble; or, if that displeased thee,</line>
+          <line>He might have sought a wife from Aeolus.</line>
+          <line>Behooves thee then to act a woman's part,</line>
+          <line>Or grasp the sword, or drug the poison'd bowl,</line>
+          <line>Or plan some deep design to kill thy husband,</line>
+          <line>And this his son, before thou find thy death</line>
+          <line>From them: if thou delay, thy life is lost:</line>
+          <line>For when beneath one roof two foes are met,</line>
+          <line>The one must perish. I with ready zeal</line>
+          <line>Will aid thee in this work, and kill the youth,</line>
+          <line>Entering the grot where he prepares the feast;</line>
+          <line>Indifferent in my choice, so that I pay</line>
+          <line>What to my lords I owe, to live or die.</line>
+          <line>If there is aught that causes slaves to blush,</line>
+          <line>It is the name; in all else than the free</line>
+          <line>The slave is nothing worse, if he be virtuous.</line>
+          <line>I too, my honour'd queen, with cheerful mind</line>
+          <line>Will share thy fate, or die, or live with honour.</line>
+          <line>CREUSA</line>
+          <line>chanting</line>
+          <line>How, o my soul, shall I be silent, how</line>
+          <line>Disclose this secret? Can I bid farewell</line>
+          <line>To modesty? What else restrains my tongue?</line>
+          <line>To how severe a trial am I brought!</line>
+          <line>Hath not my husband wrong'd me? Of my house</line>
+          <line>I am deprived, deprived of children; hope</line>
+          <line>Is vanish'd, which my heart could not resign,</line>
+          <line>With many an honest wish this furtive bed</line>
+          <line>Concealing, this lamented bed concealing.</line>
+          <line>But by the star-bespangled throne of Jove,</line>
+          <line>And by the goddess high above my rocks</line>
+          <line>Enshrined, by the moist banks that bend around</line>
+          <line>The hallow'd lake by Triton form'd, no longer</line>
+          <line>Will I conceal this bed, but ease my breast,</line>
+          <line>The oppressive load discharged. Mine eyes drop tears,</line>
+          <line>My soul is rent, to wretchedness ensnared</line>
+          <line>By men, by gods, whom I will now disclose,</line>
+          <line>Unkind betrayers of the beds they forced.</line>
+          <line>O thou, that wakest on thy seven-string'd lyre</line>
+          <line>Sweet notes, that from the rustic lifeless horn</line>
+          <line>Enchant the ear with heavenly melody,</line>
+          <line>Son of Latona, thee before this light</line>
+          <line>Will I reprove. Thou camest to me, with gold</line>
+          <line>Thy locks all glittering, as the vermeil flowers</line>
+          <line>I gather'd in my vest to deck my bosom</line>
+          <line>With the spring's glowing hues; in my white hand</line>
+          <line>Thy hand enlocking, to the cavern'd rock</line>
+          <line>Thou led'st me; naught avail'd my cries, that call'd</line>
+          <line>My mother; on thou led'st me, wanton god,</line>
+          <line>Immodestly, to Venus paying homage.</line>
+          <line>A son I bare thee, O my wretched fate!</line>
+          <line>Him (for I fear'd my mother) in thy cave</line>
+          <line>I placed, where I unhappy was undone</line>
+          <line>By thy unhappy love. Woe, woe is me!</line>
+          <line>And now my son and thine, ill-fated babe,</line>
+          <line>Is rent by ravenous vultures; thou, meanwhile,</line>
+          <line>Art to thy lyre attuning strains of joy.</line>
+          <line>Set of Latona, thee I call aloud</line>
+          <line>Who from thy golden seat, thy central throne,</line>
+          <line>Utterest thine oracle: my voice shall reach</line>
+          <line>Thine ear: ungrateful lover, to my husband,</line>
+          <line>No grace requiting, thou hast given a son</line>
+          <line>To bless his house; my son and thine, unown'd,</line>
+          <line>Perish'd a prey to birds; the robes that wrapp'd</line>
+          <line>The infant's limbs, his mother's work, lost with</line>
+          <line>him.</line>
+          <line>Delos abhors thee, and the laurel boughs</line>
+          <line>With the soft foliage of the palm o'erhung,</line>
+          <line>Grasping whose round trunk with her hands divine,</line>
+          <line>Latona thee, her hallow'd offspring, bore.</line>
+          <line>LEADER</line>
+          <line>Ah, what a mighty treasury of ills</line>
+          <line>Is open'd here, a copious source of tears!</line>
+          <line>TUTOR</line>
+          <line>Never, my daughter, can I sate my eyes</line>
+          <line>With looking on thy face: astonishment</line>
+          <line>Bears me beyond my senses. I had stemm'd</line>
+          <line>One tide of evils, when another flood</line>
+          <line>High-surging overwhelm'd me from the words</line>
+          <line>Which thou hast utter'd, from the present ills</line>
+          <line>To an ill train of other woes transferr'd.</line>
+          <line>What say'st thou? Of what charge dost thou implead</line>
+          <line>The god? What son hast thou brought forth? Where placed</line>
+          <line>him</line>
+          <line>A feast for vultures? Tell me all again.</line>
+          <line>CREUSA</line>
+          <line>Though I must blush, old man, yet I will speak.</line>
+          <line>TUTOR</line>
+          <line>I mourn with generous grief at a friend's woes.</line>
+          <line>CREUSA</line>
+          <line>Hear then: the northward-pointing cave thou</line>
+          <line>knowest,</line>
+          <line>And the Cecropian rocks, which we call Macrai.</line>
+          <line>TUTOR</line>
+          <line>Where stands a shrine to Pan, and altars nigh.</line>
+          <line>CREUSA</line>
+          <line>There in a dreadful conflict I engaged.</line>
+          <line>TUTOR</line>
+          <line>What! my tears rise ready to meet thy words.</line>
+          <line>CREUSA</line>
+          <line>By Phoebus drawn reluctant to his bed.</line>
+          <line>TUTOR</line>
+          <line>Was this, my daughter, such as I suppose?</line>
+          <line>CREUSA</line>
+          <line>I know not: but if truth, I will confess it.</line>
+          <line>TUTOR</line>
+          <line>Didst thou in silence mourn this secret ill?</line>
+          <line>CREUSA</line>
+          <line>This was the grief I now disclose to thee.</line>
+          <line>TUTOR</line>
+          <line>This love of Phoebus how didst thou conceal?</line>
+          <line>CREUSA</line>
+          <line>I bore a son. Hear me, old man, with patience.</line>
+          <line>TUTOR</line>
+          <line>Where? who assisted? or wast thou alone?</line>
+          <line>CREUSA</line>
+          <line>Alone, in the same cave where compress'd.</line>
+          <line>TUTOR</line>
+          <line>Where is thy son, that childless now no more</line>
+          <line>CREUSA</line>
+          <line>Dead, good old man, to beasts of prey exposed.</line>
+          <line>TUTOR</line>
+          <line>Dead! and the ungrateful Phoebus gives no aid?</line>
+          <line>CREUSA</line>
+          <line>None: in the house of Pluto a young guest.</line>
+          <line>TUTOR</line>
+          <line>Whose hands exposed him? Surely not thine own.</line>
+          <line>CREUSA</line>
+          <line>Mine, in the shades of night, wrapp'd in his vests.</line>
+          <line>TUTOR</line>
+          <line>Hadst thou none with thee conscious to this deed?</line>
+          <line>CREUSA</line>
+          <line>My misery, and the secret place alone.</line>
+          <line>TUTOR</line>
+          <line>How durst thou in a cavern leave thy son?</line>
+          <line>CREUSA</line>
+          <line>How? uttering many sad and plaintive words.</line>
+          <line>TUTOR</line>
+          <line>Ah, cruel was thy deed, the god more cruel.</line>
+          <line>CREUSA</line>
+          <line>Hadst thou but seen him stretch his little hands!</line>
+          <line>TUTOR</line>
+          <line>Seeking the breast, or reaching to thine arms?</line>
+          <line>CREUSA</line>
+          <line>To this, deprived of which he suffer'd wrong.</line>
+          <line>TUTOR</line>
+          <line>And what induced thee to expose thy child?</line>
+          <line>CREUSA</line>
+          <line>Hope that the god's kind care would save his son.</line>
+          <line>TUTOR</line>
+          <line>How are the glories of thy house destroy'd!</line>
+          <line>CREUSA</line>
+          <line>Why, thine head cover'd, dost thou pour these tears?</line>
+          <line>TUTOR</line>
+          <line>To see thee and thy father thus unhappy.</line>
+          <line>CREUSA</line>
+          <line>This is the state of man: nothing stands firm.</line>
+          <line>TUTOR</line>
+          <line>No longer then, my child, let grief oppress us.</line>
+          <line>CREUSA</line>
+          <line>What should I do? In misery all is doubt.</line>
+          <line>TUTOR</line>
+          <line>First on the god that wrong'd thee be avenged.</line>
+          <line>CREUSA</line>
+          <line>How shall a mortal 'gainst a god prevail?</line>
+          <line>TUTOR</line>
+          <line>Set this revered oracular shrine on fire.</line>
+          <line>CREUSA</line>
+          <line>I fear: ev'n now I have enough of ills.</line>
+          <line>TUTOR</line>
+          <line>Attempt what may be done then; kill thy husband.</line>
+          <line>CREUSA</line>
+          <line>The nuptial bed I reverence, and his goodness.</line>
+          <line>TUTOR</line>
+          <line>This son then, which is now brought forth against thee.</line>
+          <line>CREUSA</line>
+          <line>How? Could that be, how warmly should I wish it.</line>
+          <line>TUTOR</line>
+          <line>Thy train hath swords: instruct them to the deed.</line>
+          <line>CREUSA</line>
+          <line>I go with speed: but where shall it be done?</line>
+          <line>TUTOR</line>
+          <line>In the hallow'd tent, where now he feasts his friends.</line>
+          <line>CREUSA</line>
+          <line>An open murder, and with coward slaves!</line>
+          <line>TUTOR</line>
+          <line>If mine displease, propose thou some design.</line>
+          <line>CREUSA</line>
+          <line>I have it, close and easy to achieve.</line>
+          <line>TUTOR</line>
+          <line>In both my faithful services are thine.</line>
+          <line>CREUSA</line>
+          <line>Hear then: not strange to thee the giants' war.</line>
+          <line>TUTOR</line>
+          <line>When they in Phlegra fought against the gods.</line>
+          <line>CREUSA</line>
+          <line>There the earth brought forth the Gorgon, horrid monster.</line>
+          <line>TUTOR</line>
+          <line>In succour of her sons to annoy the gods?</line>
+          <line>CREUSA</line>
+          <line>Ev'n so: her Pallas slew, daughter of Jove.</line>
+          <line>TUTOR</line>
+          <line>What fierce and dreadful form did she then wear?</line>
+          <line>CREUSA</line>
+          <line>Her breastplate arm'd with vipers wreathed around.</line>
+          <line>TUTOR</line>
+          <line>A well-known story; often have I heard it.</line>
+          <line>CREUSA</line>
+          <line>Her spoils before her breast Minerva wore.</line>
+          <line>TUTOR</line>
+          <line>The aegis; so they call the vest of Pallas.</line>
+          <line>CREUSA</line>
+          <line>So named, when in the war she join'd the gods.</line>
+          <line>TUTOR</line>
+          <line>But how can this, my child, annoy thy foes?</line>
+          <line>CREUSA</line>
+          <line>Thou canst not but remember Erichthonius.</line>
+          <line>TUTOR</line>
+          <line>Whom first of thy high race the earth brought forth.</line>
+          <line>CREUSA</line>
+          <line>To him while yet an infant Pallas gave-</line>
+          <line>TUTOR</line>
+          <line>What? Thy slow preface raises expectation.</line>
+          <line>CREUSA</line>
+          <line>Two drops of blood that from the Gorgon fell.</line>
+          <line>TUTOR</line>
+          <line>And on the human frame what power have these?</line>
+          <line>CREUSA</line>
+          <line>The one works death, the other heals disease.</line>
+          <line>TUTOR</line>
+          <line>In what around the infant's body hung?</line>
+          <line>CREUSA</line>
+          <line>Enclosed in gold: he gave them to my father.</line>
+          <line>TUTOR</line>
+          <line>At his decease then they devolved to thee?</line>
+          <line>CREUSA</line>
+          <line>Ay, and I wear it as a bracelet; look.</line>
+          <line>TUTOR</line>
+          <line>Their double qualities how temper'd, say.</line>
+          <line>CREUSA</line>
+          <line>This drop, which from her hollow vein distill'd,-</line>
+          <line>TUTOR</line>
+          <line>To what effect applied? What is its power?</line>
+          <line>CREUSA</line>
+          <line>Medicinal, of sovereign use to life.</line>
+          <line>TUTOR</line>
+          <line>The other drop, what faculties hath that?</line>
+          <line>CREUSA</line>
+          <line>It kills, the poison of the Gorgon dragons.</line>
+          <line>TUTOR</line>
+          <line>And dost thou bear this gore blended in one?</line>
+          <line>CREUSA</line>
+          <line>No, separate; for with ill good mixes not.</line>
+          <line>TUTOR</line>
+          <line>O my dear child, thou hast whate'er we want.</line>
+          <line>CREUSA</line>
+          <line>With this the boy shall die, and thou shalt kill him.</line>
+          <line>TUTOR</line>
+          <line>Where? How? 'Tis thine to speak, to dare be mine.</line>
+          <line>CREUSA</line>
+          <line>At Athens, when he comes beneath my roof.</line>
+          <line>TUTOR</line>
+          <line>I like not this; what I proposed displeased.</line>
+          <line>CREUSA</line>
+          <line>Dost thou surmise what enters now my thoughts?</line>
+          <line>TUTOR</line>
+          <line>Suspicion waits thee, though thou kill him not.</line>
+          <line>CREUSA</line>
+          <line>Thou hast judged well: a stepdame's hate is proverb'd.</line>
+          <line>TUTOR</line>
+          <line>Then kill him here; thou mayst disown the deed.</line>
+          <line>CREUSA</line>
+          <line>My mind ev'n now anticipates the pleasure.</line>
+          <line>TUTOR</line>
+          <line>Thus shalt thou meet thy husband's wiles with wiles</line>
+          <line>CREUSA</line>
+          <line>This shalt thou do: this little golden casket</line>
+          <line>Take from my hand, Minerva's gift of old;</line>
+          <line>To where my husband secretly prepares</line>
+          <line>The sacrifice, bear this beneath thy vest.</line>
+          <line>That supper ended, when they are to pour</line>
+          <line>Libations to the gods, thou mayst infuse</line>
+          <line>In the youth's goblet this: but take good heed,</line>
+          <line>Let none observe thee; drug his cup alone</line>
+          <line>Who thinks to lord it in my house: if once</line>
+          <line>It pass his lips, his foot shall never reach</line>
+          <line>Illustrious Athens: death awaits him here.</line>
+          <line>She gives him the casket.</line>
+          <line>TUTOR</line>
+          <line>Go thou then to the hospitable house</line>
+          <line>Prepared for thy reception: be it mine,</line>
+          <line>Obedient to thy word to do this deed.</line>
+          <line>Come then, my aged foot, be once more young</line>
+          <line>In act, though not in years, for past recall</line>
+          <line>That time is fled: kill him, and bear him forth.</line>
+          <line>Well may the prosperous harbour virtuous thought;</line>
+          <line>But when thou wouldst avenge thee on thy foes,</line>
+          <line>There is no law of weight to hinder thee.</line>
+          <line>They both go out.</line>
+        </stanza>
+      </poem>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="euripides-ion-colophon">
+        <p xml:id="euripides-ion-colophon-p-1">Author: Euripides</p>
+        <p xml:id="euripides-ion-colophon-p-2">Translated by Robert Potter</p>
+        <p xml:id="euripides-ion-colophon-p-3">Written: 414-412 BCE</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

@@ -1,0 +1,1581 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="sophocles-ajax">
+    <title>Ajax</title>
+    <chapter xml:id="ajax-ajax">
+      <title>Ajax</title>
+      <poem xml:id="ajax-ajax-poem-1">
+        <stanza xml:id="ajax-ajax-stanza-1-1">
+          <line>Dramatis Personae</line>
+          <line>ATHENA</line>
+          <line>ODYSSEUS</line>
+          <line>AJAX</line>
+          <line>CHORUS OF SALAMINIANS</line>
+          <line>TECMESSA, concubine of AJAX</line>
+          <line>MESSENGER</line>
+          <line>TEUCER, half-brother of AJAX</line>
+          <line>MENELAUS</line>
+          <line>AGAMEMNON</line>
+          <line>Mute Persons</line>
+          <line>EURYSACES, child of AJAX and TECMESSA</line>
+          <line>Attendants, Heralds, etc.</line>
+          <line>Scene Before the tent of AJAX in the Greek camp at Troy. It is dawn. ODYSSEUS is discovered examining the ground before the tent. ATHENA appears from above.</line>
+          <line>ATHENA</line>
+          <line>Son of Laertes, ever do I behold thee</line>
+          <line>Scheming to snatch some vantage o'er thy foes.</line>
+          <line>And now among the tents that guard the ships</line>
+          <line>Of Ajax, camped at the army's outmost verge,</line>
+          <line>Long have I watched thee hunting in his trail,</line>
+          <line>And scanning his fresh prints, to learn if now</line>
+          <line>He be within or forth. Skilled in the chase</line>
+          <line>Thou seemest, as a keen-nosed Spartan hound.</line>
+          <line>For the man but now has passed within, his face</line>
+          <line>And slaughterous hands streaming with sweat and</line>
+          <line>blood.</line>
+          <line>No further need for thee to peer about</line>
+          <line>Inside these doors. But say what eager quest</line>
+          <line>Is thine, that I who know may give thee light.</line>
+          <line>ODYSSEUS</line>
+          <line>Voice of Athena, dearest of Gods to me,</line>
+          <line>How clearly, though thou be invisible,</line>
+          <line>Do I hear thy call, and seize it with my soul,</line>
+          <line>As when a bronze-mouthed Tyrrhene trumpet sounds!</line>
+          <line>Rightly thou judgest that on a foe's trail,</line>
+          <line>Broad-shielded Ajax, I range to and fro.</line>
+          <line>Him, and no other, I have long been tracking.</line>
+          <line>This very night against us he has wrought</line>
+          <line>A deed incredible, if in truth 'tis he.</line>
+          <line>For we know nothing sure, but drift in doubt.</line>
+          <line>Gladly I assumed the burden of this task.</line>
+          <line>For not long since we found that our whole spoil</line>
+          <line>Had been destroyed, both herds and flocks, slaughtered</line>
+          <line>By some man's hand, their guardians dead beside</line>
+          <line>them.</line>
+          <line>Now 'tis on him that all men lay this guilt:</line>
+          <line>And a scout who had seen him swiftly bounding</line>
+          <line>Across the plain alone with reeking sword,</line>
+          <line>Informed me and bore witness. I forthwith,</line>
+          <line>Darting in hot chase, now pick out his tracks,</line>
+          <line>But now, bewildered, know not whose they are.</line>
+          <line>Timely thou comest. As in past days, so</line>
+          <line>In days to come I am guided by thy hand.</line>
+          <line>ATHENA</line>
+          <line>I know it, Odysseus: so on the path betimes</line>
+          <line>A sentinel friendly to thy chase I came.</line>
+          <line>ODYSSEUS</line>
+          <line>Dear mistress, do I labour to good purpose?</line>
+          <line>ATHENA</line>
+          <line>Know 'twas by yonder man these deeds were wrought.</line>
+          <line>ODYSSEUS</line>
+          <line>And why did he so brandish a frenzied hand?</line>
+          <line>ATHENA</line>
+          <line>In grievous wrath for Achilles' panoply.</line>
+          <line>ODYSSEUS</line>
+          <line>Why then upon the flocks did he make this onslaught?</line>
+          <line>ATHENA</line>
+          <line>Your blood he deemed it was that stained his hand.</line>
+          <line>ODYSSEUS</line>
+          <line>Was this outrage designed against the Greeks?</line>
+          <line>ATHENA</line>
+          <line>He had achieved it too, but for my vigilance.</line>
+          <line>ODYSSEUS</line>
+          <line>What bold scheme could inspire such reckless daring?</line>
+          <line>ATHENA</line>
+          <line>By night he meant to steal on you alone.</line>
+          <line>ODYSSEUS</line>
+          <line>Did he come near us? Did he reach his goal?</line>
+          <line>ATHENA</line>
+          <line>He stood already at the two chiefs' doors.</line>
+          <line>ODYSSEUS</line>
+          <line>What then withheld his eager hand from bloodshed?</line>
+          <line>ATHENA</line>
+          <line>'Twas I restrained him, casting on his eyes</line>
+          <line>O'ermastering notions of that baneful ecstasy,</line>
+          <line>That turned his rage on flocks and mingled droves</line>
+          <line>Of booty yet unshared, guarded by herdsmen.</line>
+          <line>Then plunging amid the thronging horns he slew,</line>
+          <line>Smiting on all sides; and one while he fancied</line>
+          <line>The Atreidae were the captives he was slaughtering,</line>
+          <line>Now 'twas some other chief on whom he fell.</line>
+          <line>And I, while thus he raved in maniac throes,</line>
+          <line>Urged him on, drove him into the baleful toils.</line>
+          <line>Thereafter, when he had wearied of such labours,</line>
+          <line>He bound with thongs such oxen as yet lived,</line>
+          <line>With all the sheep, and drove them to his tents,</line>
+          <line>As though his spoil were men, not horned cattle.</line>
+          <line>Now lashed together in the hut he tortures them.</line>
+          <line>But to thee too will I expose this madness,</line>
+          <line>That seeing thou mayst proclaim it to all the Greeks.</line>
+          <line>Boldly await him here, nor apprehend</line>
+          <line>Mischance; for I will turn aside his eyes,</line>
+          <line>Foiling his vision lest he see thy face.</line>
+          <line>She calls to AJAX within the tent.</line>
+          <line>Hearken, thou who art pinioning with cords</line>
+          <line>The wrists of captives; hither, I bid thee, come.</line>
+          <line>Thou, Ajax, hear me: come to thy tent's door.</line>
+          <line>ODYSSEUS</line>
+          <line>What dost thou, Athena? Do not summon him forth.</line>
+          <line>ATHENA</line>
+          <line>Abide in silence. Earn not the name of coward.</line>
+          <line>ODYSSEUS</line>
+          <line>Nay, by the Gods, let him remain within.</line>
+          <line>ATHENA</line>
+          <line>What dost thou dread? Was he not once a man?</line>
+          <line>ODYSSEUS</line>
+          <line>Yes, and to me a foeman, and still is.</line>
+          <line>ATHENA</line>
+          <line>To mock foes, is not that the sweetest mockery?</line>
+          <line>ODYSSEUS</line>
+          <line>I am content he should remain indoors.</line>
+          <line>ATHENA</line>
+          <line>To look upon a madman art thou afeard?</line>
+          <line>ODYSSEUS</line>
+          <line>Had he been sane, no fear had made me shrink.</line>
+          <line>ATHENA</line>
+          <line>Even now he shall not see thee, near as thou art.</line>
+          <line>ODYSSEUS</line>
+          <line>How so, if still with the same eyes he sees?</line>
+          <line>ATHENA</line>
+          <line>His orbs will I make dark, though vision is theirs.</line>
+          <line>ODYSSEUS</line>
+          <line>Well, all is possible, when 'tis a god contrives.</line>
+          <line>ATHENA</line>
+          <line>Stand then silent, abiding as thou art.</line>
+          <line>ODYSSEUS</line>
+          <line>Stay I must; yet I fain would be far hence.</line>
+          <line>ATHENA</line>
+          <line>Ho, Ajax! Once again I summon thee.</line>
+          <line>So slight is thy regard for thine ally?</line>
+          <line>AJAX appears in the tent door, with a blood-stained scourge in his</line>
+          <line>hand.</line>
+          <line>AJAX</line>
+          <line>Oh hail, Athena! Hail thou Zeus-born maid!</line>
+          <line>Nobly hast thou stood by me. Now will I crown thee</line>
+          <line>With trophies all of gold for this rich conquest.</line>
+          <line>ATHENA</line>
+          <line>Thy words are welcome. But now tell me this:</line>
+          <line>Hast thou dyed well thy sword in the Argive host?</line>
+          <line>AJAX</line>
+          <line>Such vaunt is mine. I disclaim not that glory.</line>
+          <line>ATHENA</line>
+          <line>Against the Atreidae didst thou arm thy hand?</line>
+          <line>AJAX</line>
+          <line>So that Ajax nevermore shall they insult.</line>
+          <line>ATHENA</line>
+          <line>The men are dead, if rightly I take thy meaning.</line>
+          <line>AJAX</line>
+          <line>Yes, dead. Now let them rob me of my arms.</line>
+          <line>ATHENA</line>
+          <line>'Tis well. And what then of Laertes' son?</line>
+          <line>In what plight does he stand? Or has he escaped thee?</line>
+          <line>AJAX</line>
+          <line>Wouldst thou know where is that accursed fox?</line>
+          <line>ATHENA</line>
+          <line>Even so-Odysseus, thine old adversary.</line>
+          <line>AJAX</line>
+          <line>Goddess, a most dear captive in my tent</line>
+          <line>He sits. I do not mean him to die yet.</line>
+          <line>ATHENA</line>
+          <line>Till thou hast done what, gained what further vantage?</line>
+          <line>AJAX</line>
+          <line>Till bound fast to a pillar beneath my roof-</line>
+          <line>ATHENA</line>
+          <line>What evil wilt thou inflict on the poor wretch?</line>
+          <line>AJAX</line>
+          <line>His back the scourge must crimson ere he dies.</line>
+          <line>ATHENA</line>
+          <line>Nay, do not torture so the wretched man.</line>
+          <line>AJAX</line>
+          <line>Athena, in all else will I do thy will;</line>
+          <line>But his shall be no other doom than this.</line>
+          <line>ATHENA</line>
+          <line>Thou then, since thy delight is to act thus,</line>
+          <line>Smite, spare not, abate nought of thy intent.</line>
+          <line>AJAX</line>
+          <line>To my work I return: and thus I charge thee,</line>
+          <line>As now, so always fight thou upon my side.</line>
+          <line>AJAX goes back into the tent.</line>
+          <line>ATHENA</line>
+          <line>Seest thou, Odysseus, how great the strength of</line>
+          <line>gods?</line>
+          <line>Whom couldst thou find more prudent than this man,</line>
+          <line>Or whom in act more valiant, when need called?</line>
+          <line>ODYSSEUS</line>
+          <line>I know none nobler; and I pity him</line>
+          <line>In his misery, albeit he is my foe,</line>
+          <line>Since he is yoked fast to an evil doom.</line>
+          <line>My own lot I regard no less than his.</line>
+          <line>For I see well, nought else are we but mere</line>
+          <line>Phantoms, all we that live, mere fleeting shadows.</line>
+          <line>ATHENA</line>
+          <line>Warned therefore by his fate, never do thou</line>
+          <line>Thyself utter proud words against the gods;</line>
+          <line>Nor swell with insolence, if thou shouldst vanquish</line>
+          <line>Some rival by main strength or by wealth's power.</line>
+          <line>For a day can bring all mortal greatness low,</line>
+          <line>And a day can lift it up. But the gods love</line>
+          <line>The wise of heart, the froward they abhor.</line>
+          <line>ATHENA vanishes and ODYSSEUS departs. The CHORUS OF SALAMINIANS</line>
+          <line>enters.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>Son of Telamon, lord of Salamis' isle,</line>
+          <line>On its wave-washed throne mid the breaking sea,</line>
+          <line>I rejoice when fair are thy fortunes:</line>
+          <line>But whene'er thou art smitten by the stroke of Zeus,</line>
+          <line>Or the vehement blame of the fierce-tongued Greeks,</line>
+          <line>Then sore am I grieved, and for fear I quake,</line>
+          <line>As a fluttering dove with a scared eye.</line>
+          <line>Even so by rumour murmuring loud</line>
+          <line>Of the night late-spent our ears are assailed.</line>
+          <line>'Tis a tale of shame, how thou on the plains</line>
+          <line>Where the steeds roam wild, didst ruin the Danaan</line>
+          <line>Flocks and herds,</line>
+          <line>Our spear-won booty as yet unshared,</line>
+          <line>With bright sword smiting and slaughtering.</line>
+          <line>Such now are the slanders Odysseus forges</line>
+          <line>And whispers abroad into all men's ears,</line>
+          <line>Winning easy belief: so specious the tale</line>
+          <line>He is spreading against thee; and each new hearer</line>
+          <line>Rejoices more than he who told,</line>
+          <line>Exulting in thy degradation.</line>
+          <line>For the shaft that is aimed at the noble of soul</line>
+          <line>Smites home without fail: but whoe'er should accuse</line>
+          <line>me</line>
+          <line>Of such misdeeds, no faith would he win.</line>
+          <line>'Tis the stronger whom creeping jealousy strikes.</line>
+          <line>Yet small men reft of help from the mighty</line>
+          <line>Can ill be trusted to guard their walls.</line>
+          <line>Best prosper the lowly in league with the great;</line>
+          <line>And the great have need to be served by the less.</line>
+          <line>But none to the knowledge of such plain truths</line>
+          <line>May lead minds witless and froward.</line>
+          <line>Even such are the men who murmur against thee:</line>
+          <line>And vainly without thine aid, O King,</line>
+          <line>We strive to repel their accusing hate.</line>
+          <line>For whene'er they are safe from the scorn of thy</line>
+          <line>glance,</line>
+          <line>They chatter and screech like bids in a flock:</line>
+          <line>But smitten with dread of the powerful vulture,</line>
+          <line>Doubtless at once, should'st thou but appear,</line>
+          <line>They will cower down dumbly in silence. strophe</line>
+          <line>Was it the Tauric Olympian Artemis,</line>
+          <line>(Oh, the dread rumour of woe,</line>
+          <line>Parent of my grievous shame!)</line>
+          <line>Who drove thee forth to slaughter the herds of the</line>
+          <line>people,</line>
+          <line>In wrath perchance for some unpaid-for victory,</line>
+          <line>Whether defrauded of glorious spoil, or offerings</line>
+          <line>Due for a stag that was slain?</line>
+          <line>Or did the bronze-clad Demon of battle, aggrieved</line>
+          <line>On him who scorned the might of his succouring spear,</line>
+          <line>Plot revenge by nightly deception? antistrophe</line>
+          <line>Ne'er of itself had thy heart, son of Telamon,</line>
+          <line>Strayed into folly so far</line>
+          <line>As to murder flocks and herds.</line>
+          <line>Escape from heaven-sent madness is none: yet Apollo</line>
+          <line>And Zeus avert these evil rumours of the Greeks.</line>
+          <line>But should the story be false, these crafty slanders</line>
+          <line>Spread by the powerful kings,</line>
+          <line>And by the child of the infamous Sisyphid line,</line>
+          <line>No more, my master, thus in the tent by the sea</line>
+          <line>Hide thy countenance, earning an ill fame. epode</line>
+          <line>Nay, but arise from thy seat, where'er so long wrapt</line>
+          <line>in</line>
+          <line>Brooding pause from the battle thou hast lurked:</line>
+          <line>arise,</line>
+          <line>Heaven-high kindle the flame of death.</line>
+          <line>But the insolence of thy foes boldly</line>
+          <line>Thus wanders abroad in the wind-swept glens.</line>
+          <line>Meanwhile all men mocking</line>
+          <line>With venomous tongues taunt thee:</line>
+          <line>But grief in my heart wanes not.</line>
+          <line>TECMESSA enters. The following lines between TECMESSA and the CHORUS</line>
+          <line>are chanted responsively.</line>
+          <line>TECMESSA</line>
+          <line>Liegemen of Ajax, ship-companions,</line>
+          <line>Ye children of earth-sprung Erechthid race,</line>
+          <line>Lamentation is now our portion, to whom</line>
+          <line>Dear is the far-off house of Telamon,</line>
+          <line>Now that the stern and terrible Ajax</line>
+          <line>Lies whelmed by a storm</line>
+          <line>Of turbid wildering fury.</line>
+          <line>CHORUS</line>
+          <line>To what evil change from the day's woe now</line>
+          <line>Has night given birth?</line>
+          <line>Thou daughter of Phrygian Teleutas, speak;</line>
+          <line>For a constant love has valiant Ajax</line>
+          <line>Borne thee, his spear-won prisoner bride.</line>
+          <line>Then hide from us nought that thou knowest.</line>
+          <line>TECMESSA</line>
+          <line>How to utter a tale of unspeakable things!</line>
+          <line>For disastrous as death is the hap you will hear.</line>
+          <line>In the darkness of night madness has seized</line>
+          <line>Our glorious Ajax: he is ruined and lost.</line>
+          <line>Hereof in the tent may proof be seen;</line>
+          <line>Sword-slain victims in their own blood bathed,</line>
+          <line>By his hand sacrificially slaughtered.</line>
+          <line>CHORUS</line>
+          <line>strophe</line>
+          <line>What tidings of the fiery warrior tellest thou,</line>
+          <line>Not to be borne, nor yet to be disputed,</line>
+          <line>Rumoured abroad by the chiefs of the Danaan host,</line>
+          <line>Mightily still spreading and waxing!</line>
+          <line>Woe's me! I dread the horror to come. Yea, to a public death</line>
+          <line>doomed</line>
+          <line>Will he die, if in truth his be the hand that wielded</line>
+          <line>The red sword that in frenzy hath slain the herds and mounted herdsmen.</line>
+          <line>TECMESSA</line>
+          <line>Ah me! Thence was it, thence that he came to</line>
+          <line>me</line>
+          <line>Leading his captive flock from the pastures!</line>
+          <line>Thereof in the tent some did he slaughter,</line>
+          <line>Others hewed he asunder with slashing sword;</line>
+          <line>Then he caught up amain two white-footed rams,</line>
+          <line>Sliced off from the one both the head and the tongue,</line>
+          <line>And flings them away;</line>
+          <line>But the other upright to a pillar he binds,</line>
+          <line>Then seizing a heavy horse-harnessing thong</line>
+          <line>He smites with the whistling doubled lash,</line>
+          <line>Uttering fierce taunts which an evil fiend</line>
+          <line>No mere mortal could have taught him.</line>
+          <line>CHORUS</line>
+          <line>antistrophe</line>
+          <line>'Tis time that now each with shamefully muffled head</line>
+          <line>Forth from the camp should creep with stealthy footsteps.</line>
+          <line>Nay, on the ship let us muster, and benched at the</line>
+          <line>oars</line>
+          <line>Over the waves launch her in swift flight.</line>
+          <line>Such angry threats sound in our ears hurled by the brother</line>
+          <line>princes,</line>
+          <line>The Atreidae: and I quake, fearing a death by stoning,</line>
+          <line>The dread portion of all who would share our hapless master's ruin.</line>
+          <line>TECMESSA</line>
+          <line>Yet hope we: for ceased is the lightning's</line>
+          <line>flash:</line>
+          <line>His rage dies down like a fierce south-wind.</line>
+          <line>But now, grown sane, new misery is his;</line>
+          <line>For on woes self-wrought he gazes aghast,</line>
+          <line>Wherein no hand but his own had share;</line>
+          <line>And with anguish his soul is afflicted.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>Nay, if 'tis ceased, there is good cause to</line>
+          <line>hope.</line>
+          <line>Once 'tis past, of less moment is his frenzy.</line>
+          <line>TECMESSA</line>
+          <line>And which, were the choice thine, wouldst thou</line>
+          <line>prefer,</line>
+          <line>To afflict thy friends and feel delight thyself,</line>
+          <line>Or to share sorrow, grieving with their grief?</line>
+          <line>LEADER</line>
+          <line>The twofold woe, lady, would be the greater.</line>
+          <line>TECMESSA</line>
+          <line>Then we, though plagued no more, are undone now.</line>
+          <line>LEADER</line>
+          <line>What mean thy words? Their sense is dark to me.</line>
+          <line>TECMESSA</line>
+          <line>Yonder man, while his spirit was diseased,</line>
+          <line>Himself had joy in his own evil plight,</line>
+          <line>Though to us, who were sane, he brought distress.</line>
+          <line>But now, since he has respite from his plague,</line>
+          <line>He with sore grief is utterly cast down,</line>
+          <line>And we likewise, no less than heretofore.</line>
+          <line>Are there not here two woes instead of one?</line>
+          <line>LEADER</line>
+          <line>Yes truly. And I fear, from some god came</line>
+          <line>This stroke; how else? if, now his frenzy is ceased,</line>
+          <line>His mind has no more ease than when it raged.</line>
+          <line>TECMESSA</line>
+          <line>'Tis even as I said, rest well assured.</line>
+          <line>LEADER</line>
+          <line>But how did this bane first alight upon</line>
+          <line>him?</line>
+          <line>To us who share thy grief show what befell.</line>
+          <line>TECMESSA</line>
+          <line>Thou shalt hear all, as though thou hadst been</line>
+          <line>present.</line>
+          <line>In the middle of the night, when the evening braziers</line>
+          <line>No longer flared, he took a two-edged sword,</line>
+          <line>And fain would sally upon an empty quest.</line>
+          <line>But I rebuked him, saying: "What doest thou,</line>
+          <line>Ajax? Why thus uncalled wouldst thou go forth?</line>
+          <line>No messenger has summoned thee, no trumpet</line>
+          <line>Roused thee. Nay, the whole camp is sleeping still."</line>
+          <line>But curtly he replied in well-worn phrase:</line>
+          <line>"Woman, silence is the grace of woman."</line>
+          <line>Thus schooled, I yielded; and he rushed out alone.</line>
+          <line>What passed outside the tent, I cannot tell.</line>
+          <line>But in he came, driving lashed together</line>
+          <line>Bulls, and shepherd dogs, and fleecy prey.</line>
+          <line>Some he beheaded, the wrenched-back throats of some</line>
+          <line>He slit, or cleft their chines; others he bound</line>
+          <line>And tortured, as though men they were, not beasts.</line>
+          <line>Last, darting through the doors, as to some phantom</line>
+          <line>He tossed words, now against the Atreidae, now</line>
+          <line>Taunting Odysseus, piling up huge jeers</line>
+          <line>Of how he had gone and wreaked his scorn upon them.</line>
+          <line>Soon he rushed back within the tent, where slowly</line>
+          <line>And hardly to his reason he returned.</line>
+          <line>And gazing round on the room filled with havoc,</line>
+          <line>He struck his head and cried out; then amidst</line>
+          <line>The wrecks of slaughtered sheep a wreck he fell,</line>
+          <line>And sat clutching his hair with tight-clenched nails.</line>
+          <line>There first for a long while he crouched speechless;</line>
+          <line>Then did he threaten me with fearful threats,</line>
+          <line>If I revealed not all that had befallen him,</line>
+          <line>Asking what meant the plight wherein he lay.</line>
+          <line>And I, friends, terror-stricken, told him all</line>
+          <line>That had been done, so far as I had knowledge.</line>
+          <line>Forthwith he broke forth into bitter wailing,</line>
+          <line>Such as I ne'er had heard from him before</line>
+          <line>For always had he held that such laments</line>
+          <line>Befitted cowards only, and low-souled men:</line>
+          <line>But uttering no shrill cries, he would express</line>
+          <line>His grief in low groans, as of a moaning bull.</line>
+          <line>But now prostrate beneath so great a woe,</line>
+          <line>Not tasting food nor drink, he sits among</line>
+          <line>The sword-slain beasts, motionless where he sank.</line>
+          <line>And plainly he meditates some baleful deed,</line>
+          <line>For so portend his words and lamentations.</line>
+          <line>But, O friends!-'twas for this cause I came forth-</line>
+          <line>Enter and help, if help at all you can:</line>
+          <line>For by friends' words men so bestead are won.</line>
+          <line>LEADER</line>
+          <line>Child of Teleutas, fearful are thy tidings,</line>
+          <line>That our prince has been maddened by his griefs.</line>
+          <line>AJAX</line>
+          <line>within</line>
+          <line>Alas! Woe, woe!</line>
+          <line>TECMESSA</line>
+          <line>Soon, I fear, worse will follow. Heard you</line>
+          <line>not?</line>
+          <line>'Twas Ajax. Oh, how dreadful was that cry.</line>
+          <line>AJAX</line>
+          <line>Alas! Woe, woe!</line>
+          <line>LEADER</line>
+          <line>He seems either still frenzied, or else</line>
+          <line>grieving</line>
+          <line>For his past frenzies, now he sees their work.</line>
+          <line>AJAX</line>
+          <line>Alas! My son, my son!</line>
+          <line>TECMESSA</line>
+          <line>Woe's me! Eurysaces, 'tis for thee he calls.</line>
+          <line>What can he purpose?-Where art thou?-Ah, woe!</line>
+          <line>AJAX</line>
+          <line>Teucer, come!-Where is Teucer? Will he never</line>
+          <line>Come back from cattle-raiding?-while I perish!</line>
+          <line>LEADER</line>
+          <line>He seems in his right mind. But open the</line>
+          <line>doors.</line>
+          <line>Perhaps even the sight of me may sober him.</line>
+          <line>She opens the doors of the tent. AJAX is revealed sitting among the</line>
+          <line>slain beasts.</line>
+          <line>TECMESSA</line>
+          <line>See, I have opened. You may now behold</line>
+          <line>What he has done, and in what plight he lies.</line>
+          <line>AJAX</line>
+          <line>chanting</line>
+          <line>Alas!</line>
+          <line>My shipmates and friends, you that alone to me</line>
+          <line>Loyal and true remain, of all friends alone,</line>
+          <line>Behold how great a billow lately rising from the storm of</line>
+          <line>blood</line>
+          <line>Surging around engulphs me!</line>
+          <line>LEADER</line>
+          <line>Ah me, too true, it seems, was thy report.</line>
+          <line>This sight reveals the work of no sane mind.</line>
+          <line>AJAX</line>
+          <line>chanting</line>
+          <line>Alas!</line>
+          <line>My mates, skilled and tried in brave seamanship,</line>
+          <line>Ye who embarking drove the wave-cleaving oar,</line>
+          <line>In you, in you alone I see a help and refuge from</line>
+          <line>despair.</line>
+          <line>Smite me, and spill my blood too.</line>
+          <line>LEADER</line>
+          <line>Keep silence from dread words; nor curing</line>
+          <line>ill</line>
+          <line>By ill, so swell the misery of this curse.</line>
+          <line>AJAX</line>
+          <line>chanting</line>
+          <line>Behold now the bold, the man stout of heart,</line>
+          <line>Who ne'er shrank in fight against foes-behold</line>
+          <line>How I have spent my rage on beasts that feared no</line>
+          <line>harm!</line>
+          <line>Ah me, the mockery! To what shame am I brought low</line>
+          <line>TECMESSA</line>
+          <line>Ajax, my master, I entreat thee, speak not so.</line>
+          <line>AJAX</line>
+          <line>chanting</line>
+          <line>Away hence, I command thee! Take thyself elsewhere.</line>
+          <line>Aiai! Aiai!</line>
+          <line>LEADER</line>
+          <line>Oh, by the Gods, we pray thee, yield to wisdom's voice.</line>
+          <line>AJAX</line>
+          <line>chanting</line>
+          <line>Oh, wretch that I was to allow</line>
+          <line>Those cursed foes to slip from my hands, and assaulting</line>
+          <line>Horned kine and goodly flocks, madly to spill</line>
+          <line>Their life in streams of dark blood!</line>
+          <line>LEADER</line>
+          <line>Why still be afflicted, now the deed is done past</line>
+          <line>cure?</line>
+          <line>Never can these things be as though they had not been.</line>
+          <line>AJAX</line>
+          <line>chanting</line>
+          <line>Thou all-spying knave, of all deeds of shame</line>
+          <line>The prompt, easy tool, Odysseus the wise!</line>
+          <line>Villain, of all the camp the most foul and vile!</line>
+          <line>Huge laughter doubtless shakes thee now for sheer delight.</line>
+          <line>LEADER</line>
+          <line>As God appoints, so every man laughs or laments.</line>
+          <line>AJAX</line>
+          <line>chanting</line>
+          <line>Would I might meet him, crushed and broken though I</line>
+          <line>be.</line>
+          <line>Alas! Woe, woe!</line>
+          <line>LEADER</line>
+          <line>Speak no proud words. Seest thou not to what woe thou art sunk?</line>
+          <line>AJAX</line>
+          <line>chanting</line>
+          <line>O Zeus, of my fathers the sire,</line>
+          <line>Might I but kill that hateful and crafty dissembler,</line>
+          <line>Yea, and those two brother kings, partners in pride,</line>
+          <line>Then last myself too perish!</line>
+          <line>TECMESSA</line>
+          <line>If thus thou prayest, pray therewith for me,</line>
+          <line>that</line>
+          <line>Die with thee. Why, when thou art dead, should I live on?</line>
+          <line>AJAX</line>
+          <line>chanting</line>
+          <line>Alas!</line>
+          <line>Shadow that art my light!</line>
+          <line>Erebus, oh to me verily bright as day!</line>
+          <line>Receive, receive me your habitant.</line>
+          <line>Receive me now no more worthy to seek help of the</line>
+          <line>gods,</line>
+          <line>Nor any more from fellow mortal men to claim kindness:</line>
+          <line>No, but she the strong</line>
+          <line>Zeus-born deity</line>
+          <line>Miserably tortures me.</line>
+          <line>Whither should I then flee?</line>
+          <line>Whither seek for rest?</line>
+          <line>Since my former glory is gone, my friends,</line>
+          <line>With yonder victims, yonder spoils by frenzy won,</line>
+          <line>Since all the host with swords uplifted</line>
+          <line>Sternly would slay me,</line>
+          <line>TECMESSA</line>
+          <line>Ah, woe is me! from such a noble warrior</line>
+          <line>To hear such words as once he ne'er had deigned to speak!</line>
+          <line>AJAX</line>
+          <line>chanting</line>
+          <line>Alas!</line>
+          <line>Billowy paths of foam,</line>
+          <line>Eddying caves, and ye coppices by the shore,</line>
+          <line>A weary, weary time tarrying here</line>
+          <line>Beneath the walls of Troy me have you kept, but from this</line>
+          <line>hour</line>
+          <line>Alive you shall not keep me. Truth I speak: let none doubt</line>
+          <line>it.</line>
+          <line>O Scamander's wave,</line>
+          <line>Stream whose neighbouring flow</line>
+          <line>Oft have the Argives blest,</line>
+          <line>Never, nevermore</line>
+          <line>Me shall you behold,</line>
+          <line>Me (a proud word will I utter now)</line>
+          <line>Whose peer in battle Troy has never seen yet come</line>
+          <line>From Hellas' land: but now dishonoured</line>
+          <line>Thus am I prostrate.</line>
+          <line>LEADER</line>
+          <line>In truth I know not how to restrain thy speech, nor</line>
+          <line>yet</line>
+          <line>To suffer it; so grievous is thy couch of woe.</line>
+          <line>AJAX</line>
+          <line>Aiai! Who ever would have thought my name</line>
+          <line>Would harmonise so aptly with my woes?</line>
+          <line>For now well may I wail that sound out twice,</line>
+          <line>Yea thrice; such woeful destinies are mine,</line>
+          <line>Whose father from this land of Ida won</line>
+          <line>Fame's noblest guerdon over the whole host,</line>
+          <line>And crowned with praises only sailed back home;</line>
+          <line>But I, his son, who to the self-same Troy</line>
+          <line>Came after him, in might no less than he,</line>
+          <line>Nor rendering meaner service by my deeds,</line>
+          <line>Dishonoured by the Argives perish thus.</line>
+          <line>Yet this methinks I know for truth, were now</line>
+          <line>Achilles living and called on to adjudge</line>
+          <line>As the award of valour his own arms,</line>
+          <line>No man's hand would have grasped them before mine.</line>
+          <line>But now the Atreidae to a scheming knave</line>
+          <line>Have dealt them, thrusting by my valiant deeds.</line>
+          <line>And if these eyes, these wits had not in frenzy</line>
+          <line>Swerved from my purpose, never would they thus</line>
+          <line>Pervert judgment against another man.</line>
+          <line>But the irresistible fierce-eyed goddess, even</line>
+          <line>As I was arming my right hand to slay them,</line>
+          <line>Foiled me, smiting me with a maddening plague,</line>
+          <line>So that I stained my hand butchering these cattle.</line>
+          <line>Thus my foes mock me, escaped beyond my reach,</line>
+          <line>Through no goodwill of mine: but if a god</line>
+          <line>Thwart vengeance, even the base may escape the nobler.</line>
+          <line>And what should I now do, who manifestly</line>
+          <line>To Heaven am hateful; whom the Greeks abhor,</line>
+          <line>Whom every Trojan hates, and this whole land?</line>
+          <line>Shall I desert the beached ships, and abandoning</line>
+          <line>The Atreidae, sail home o'er the Aegean sea?</line>
+          <line>With what face shall I appear before my father</line>
+          <line>Telamon? How will he find heart to look</line>
+          <line>On me, stripped of my championship in war,</line>
+          <line>That mighty crown of fame that once was his?</line>
+          <line>No, that I dare not. Shall I then assault</line>
+          <line>Troy's fortress, and alone against them all</line>
+          <line>Achieve some glorious exploit and then die?</line>
+          <line>No, I might gratify the Atreidae thus.</line>
+          <line>That must not be. Some scheme let me devise</line>
+          <line>Which may prove to my aged sire that I,</line>
+          <line>His son, at least by nature am no coward.</line>
+          <line>For 'tis base for a man to crave long life</line>
+          <line>Who endures never-varying misery.</line>
+          <line>What joy can be in day that follows day,</line>
+          <line>Bringing us close then snatching us from death?</line>
+          <line>As of no worth would I esteem that man</line>
+          <line>Who warms himself with unsubstantial hopes.</line>
+          <line>Nobly to live, or else nobly to die</line>
+          <line>Befits proud birth. There is no more to say.</line>
+          <line>LEADER</line>
+          <line>The word thou hast uttered, Ajax, none shall</line>
+          <line>call</line>
+          <line>Bastard, but the true offspring of thy soul.</line>
+          <line>Yet pause. Let those who love thee overrule</line>
+          <line>Thy resolution. Put such thoughts aside.</line>
+          <line>TECMESSA</line>
+          <line>O my lord Ajax, of all human ills</line>
+          <line>Greatest is fortune's wayward tyranny.</line>
+          <line>Of a free father was I born the child,</line>
+          <line>One rich and great as any Phrygian else.</line>
+          <line>Now am I a slave; for so the gods, or rather</line>
+          <line>Thy warrior's hand, would have it. Therefore since</line>
+          <line>I am thy bedfellow, I wish thee well,</line>
+          <line>And I entreat thee by domestic Zeus,</line>
+          <line>And by the embraces that have made me thine,</line>
+          <line>Doom me not to the cruel taunts of those</line>
+          <line>Who hate thee, left a bond-slave in strange hands.</line>
+          <line>For shouldst thou perish and forsake me in death,</line>
+          <line>That very day assuredly I to</line>
+          <line>Shall be seized by the Argives, with thy son</line>
+          <line>To endure henceforth the portion of a slave.</line>
+          <line>Then one of my new masters with barbed words</line>
+          <line>Shall wound me scoffing: "See the concubine</line>
+          <line>Of Ajax, who was mightiest of the host,</line>
+          <line>What servile tasks are hers who lived so daintily!"</line>
+          <line>Thus will men speak, embittering my hard lot,</line>
+          <line>But words of shame for thee and for thy race.</line>
+          <line>Nay, piety forbid thee to forsake</line>
+          <line>Thy father in his drear old age-thy mother</line>
+          <line>With her sad weight of years, who many a time</line>
+          <line>Prays to the gods that thou come home alive.</line>
+          <line>And pity, O king, thy son, who without thee</line>
+          <line>To foster his youth, must live the orphaned ward</line>
+          <line>Of loveless guardians. Think how great a sorrow</line>
+          <line>Dying thou wilt bequeath to him and me.</line>
+          <line>For I have nothing left to look to more</line>
+          <line>Save thee. By thy spear was my country ravaged;</line>
+          <line>And by another stroke did fate lay low</line>
+          <line>My mother and my sire to dwell with Hades.</line>
+          <line>Without thee then what fatherland were mine?</line>
+          <line>What wealth? On thee alone rests all my hope.</line>
+          <line>O take thought for me too. Do we not owe</line>
+          <line>Remembrance, where we have met with any joy?</line>
+          <line>For kindness begets kindness evermore</line>
+          <line>But he who from whose mind fades the memory</line>
+          <line>Of benefits, noble is he no more.</line>
+          <line>LEADER</line>
+          <line>Ajax, would that thy soul would feel compassion,</line>
+          <line>As mine does; so wouldst thou approve her words.</line>
+          <line>AJAX</line>
+          <line>Verily my approval shall she win,</line>
+          <line>If only she find heart to do my bidding.</line>
+          <line>TECMESSA</line>
+          <line>Dear Ajax, in all things will I obey.</line>
+          <line>AJAX</line>
+          <line>Then bring me here my son, for I would see him.</line>
+          <line>TECMESSA</line>
+          <line>Nay, but I sent him from me in my fears.</line>
+          <line>AJAX</line>
+          <line>During my late affliction, is that thy meaning?</line>
+          <line>TECMESSA</line>
+          <line>Lest by ill chance he should meet thee and so perish.</line>
+          <line>AJAX</line>
+          <line>Yes, that would have been worthy of my fate.</line>
+          <line>TECMESSA</line>
+          <line>That at least I was watchful to avert.</line>
+          <line>AJAX</line>
+          <line>I praise thine act and the foresight thou hast shown.</line>
+          <line>TECMESSA</line>
+          <line>Since that is so, what shall I do to serve thee?</line>
+          <line>AJAX</line>
+          <line>Let me speak to him and behold his face.</line>
+          <line>TECMESSA</line>
+          <line>He is close by in the attendants' charge.</line>
+          <line>AJAX</line>
+          <line>Why is his coming then so long delayed?</line>
+          <line>TECMESSA</line>
+          <line>calling</line>
+          <line>My son, thy father calls thee.-Bring him thither</line>
+          <line>Whichever of you is guiding the child's steps.</line>
+          <line>AJAX</line>
+          <line>Is the man coming? Has he heard thy call?</line>
+          <line>TECMESSA</line>
+          <line>See, he is here already with the child.</line>
+          <line>An attendant enters, leading the child, EURYSACES.</line>
+          <line>AJAX</line>
+          <line>Lift him up, lift him hither. He will not</line>
+          <line>shrink</line>
+          <line>In terror at sight of yonder new-spilt blood,</line>
+          <line>If he be rightly mine, his father's son.</line>
+          <line>Early must he be broken to his sire's</line>
+          <line>Stern rugged code, and grow like-natured with him.</line>
+          <line>O son, mayst thou prove happier than thy father,</line>
+          <line>In all else like him, and thou'lt prove not base.</line>
+          <line>Yet even now might I envy thee herein,</line>
+          <line>That of these woes thou hast no sense at all.</line>
+          <line>For the life that is unconscious is most sweet-</line>
+          <line>Until we learn what joy and sorrow are.</line>
+          <line>But that once learnt, then midst thy father's foes</line>
+          <line>Thou must show what thou art, and of what breed.</line>
+          <line>Till then be nurtured on soft airs, cherishing</line>
+          <line>Thy tender life, and be thy mother's joy.</line>
+          <line>None of the Greeks, I know, will do thee wrong</line>
+          <line>With cruel outrage, even though I be gone.</line>
+          <line>So trusty a guardian will I leave thee, Teucer,</line>
+          <line>Who will not stint his loving care, though now</line>
+          <line>He is gone far away, in chase of foes.</line>
+          <line>But you, my warriors, comrades in seafaring,</line>
+          <line>On you too I impose this task of love;</line>
+          <line>And fail not to announce my will to Teucer,</line>
+          <line>That to my home he take the child and show him</line>
+          <line>To Telamon and my mother Eriboea,</line>
+          <line>That henceforth he may comfort their old age.</line>
+          <line>And charge him that no game-steward make my arms</line>
+          <line>A prize for the Greeks-nor he who ruined me.</line>
+          <line>But this take thou, my son Eurysaces;</line>
+          <line>Hold it and wield it by its firm-stitched thong,</line>
+          <line>This sevenfold spear-proof shield, whence comes thy</line>
+          <line>name.</line>
+          <line>But else with me my arms shall be interred.</line>
+          <line>Speaking now to TECMESSA</line>
+          <line>Come, take the child hence quickly, and bolt the doors:</line>
+          <line>And let there be no weeping and lamenting</line>
+          <line>Before the hut. Women love tears too well.</line>
+          <line>Close quickly. It is not for a skilful leech</line>
+          <line>To drone charms o'er a wound that craves the knife.</line>
+          <line>LEADER</line>
+          <line>I am fearful, listening to this eager mood.</line>
+          <line>The sharp edge of thy tongue, I like it not.</line>
+          <line>TECMESSA</line>
+          <line>O my lord Ajax, what art thou purposing?</line>
+          <line>AJAX</line>
+          <line>Question me not. To be discreet is best.</line>
+          <line>TECMESSA</line>
+          <line>Ah me, heavy is my heart. Now by thy child,</line>
+          <line>By the gods, I entreat, forsake us not.</line>
+          <line>AJAX</line>
+          <line>Vex me no further. Know'st thou not that</line>
+          <line>I</line>
+          <line>To the gods owe no duty any more?</line>
+          <line>TECMESSA</line>
+          <line>Utter no proud words.</line>
+          <line>AJAX</line>
+          <line>Speak to those who listen.</line>
+          <line>TECMESSA</line>
+          <line>Wilt thou not heed?</line>
+          <line>AJAX</line>
+          <line>Too much thou hast spoken already.</line>
+          <line>TECMESSA</line>
+          <line>Yes, through my fears, O king.</line>
+          <line>AJAX</line>
+          <line>Close the doors quickly.</line>
+          <line>TECMESSA</line>
+          <line>For the gods' love, relent.</line>
+          <line>AJAX</line>
+          <line>'Tis a foolish hope,</line>
+          <line>If thou shouldst now propose to school my mood.</line>
+          <line>The doors are closed upon AJAX. TECMESSA goes out with</line>
+          <line>EURYSACES.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>strophe 1</line>
+          <line>O famed Salamis, thou amidst</line>
+          <line>Breaking surges abidest ever</line>
+          <line>Blissful, a joy to the eyes of all men.</line>
+          <line>But I the while long and wearily tarrying</line>
+          <line>Through countless months still encamped on the fields of</line>
+          <line>Ida</line>
+          <line>In misery here have made my couch,</line>
+          <line>By time broken and worn,</line>
+          <line>In dread waiting the hour</line>
+          <line>When I shall enter at last the terrible shadow abode of Hades. antistrophe</line>
+          <line>Now dismays me a new despair,</line>
+          <line>This incurable frenzy (woe, ah</line>
+          <line>Woe's me!) cast by the gods on Ajax,</line>
+          <line>Whom thou of old sentest forth from thy shores, a</line>
+          <line>strong</line>
+          <line>And valiant chief; but now, to his friends a sore</line>
+          <line>grief,</line>
+          <line>Devouring his lonely heart he sits.</line>
+          <line>His once glorious deeds</line>
+          <line>Are now fallen and scorned,</line>
+          <line>Fallen to death without love from the loveless and pitiless sons of</line>
+          <line>Atreus. strophe 2</line>
+          <line>His mother, 'tis most like, burdened with many days,</line>
+          <line>And whitened with old age, when she shall hear how</line>
+          <line>frenzy</line>
+          <line>Has smitten his soul to ruin,</line>
+          <line>Ailinon! ailinon!</line>
+          <line>Will break forth her despair, not as the nightingale's</line>
+          <line>Plaintive, tender lament, no, but in passion's wailing</line>
+          <line>Shrill-toned cries; and with fierce strokes</line>
+          <line>Wildly smiting her bosom,</line>
+          <line>In grief's anguish her hands will rend her grey locks. antistrophe</line>
+          <line>Yea, better Hell should hide one who is sick in soul,</line>
+          <line>Though there be none than he sprung from a nobler</line>
+          <line>lineage</line>
+          <line>Of the war-weary Greeks, yet</line>
+          <line>Strayed from his inbred mood</line>
+          <line>Now amidst alien thoughts dwells he a stranger.</line>
+          <line>Hapless father! alas, bitter the tale that waits</line>
+          <line>thee,</line>
+          <line>Thy son's grievous affliction.</line>
+          <line>No life save his alone</line>
+          <line>Of Aeacid kings such a curse has ever haunted.</line>
+          <line>AJAX enters, carrying a sword. As he speaks, TECMESSA also</line>
+          <line>enters.</line>
+          <line>AJAX</line>
+          <line>All things the long and countless lapse of</line>
+          <line>time</line>
+          <line>Brings forth. displays, then hides once more in</line>
+          <line>gloom.</line>
+          <line>Nought is too strange to look for; but the event</line>
+          <line>May mock the sternest oath, the firmest will.</line>
+          <line>Thus I, who late so strong, so stubborn seemed</line>
+          <line>Like iron dipped, yet now grow soft with pity</line>
+          <line>Before this woman, whom I am loath to leave</line>
+          <line>Midst foes a widow with this orphaned child.</line>
+          <line>But I will seek the meadows by the shore:</line>
+          <line>There will I wash and purge these stains, if so</line>
+          <line>I may appease Athena's heavy wrath.</line>
+          <line>Then will I find some lonely place, where I</line>
+          <line>May hide this sword, beyond all others cursed,</line>
+          <line>Buried where none may see it, deep in earth.</line>
+          <line>May night and Hades keep it there below.</line>
+          <line>For from that hour my hand accepted it,</line>
+          <line>The gift of Hector, deadliest of my foes,</line>
+          <line>Nought from the Greeks towards me hath sped well.</line>
+          <line>So now I find that ancient proverb true,</line>
+          <line>Foes' gifts are no gifts: profit bring they none.</line>
+          <line>Therefore henceforth I study to obey</line>
+          <line>The Gods, and reverence the sons of Atreus.</line>
+          <line>Our rulers are they: we must yield. How else?</line>
+          <line>For to authority yield all things most dread</line>
+          <line>And mighty. Thus must Winter's snowy feet</line>
+          <line>Give place to Summer with her wealth of fruits;</line>
+          <line>And from her weary round doth Night withdraw,</line>
+          <line>That Day's white steeds may kindle heaven with light.</line>
+          <line>After fierce tempest calm will ever lull</line>
+          <line>The moaning sea; and Sleep, that masters all,</line>
+          <line>Binds life awhile, yet loosens soon the bond.</line>
+          <line>And who am I that I should not learn wisdom?</line>
+          <line>Of all men I, whom proof hath taught of late</line>
+          <line>How so far only should we hate our foes</line>
+          <line>As though we soon might love them, and so far</line>
+          <line>Do a friend service, as to one most like</line>
+          <line>Some day to prove our foe; since oftenest men</line>
+          <line>In friendship but a faithless haven find.</line>
+          <line>Thus well am I resolved.</line>
+          <line>To TECMESSA</line>
+          <line>Thou, woman, pass</line>
+          <line>Within, and pray the gods that all things so</line>
+          <line>May be accomplished as my heart desires.</line>
+          <line>And you, friends, heed my wishes as she doth;</line>
+          <line>And when he comes, bid Teucer he must guard</line>
+          <line>My rights at need, and withal stand your friend.</line>
+          <line>For now I go whither I needs must pass.</line>
+          <line>Do as I bid. Soon haply you shall hear,</line>
+          <line>With me, for all this misery, 'tis most well.</line>
+          <line>AJAX departs. TECMESSA goes into the tent.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>strophe</line>
+          <line>I thrill with rapture, flutter on wings of ecstasy.</line>
+          <line>Io, Io, Pan, Pan!</line>
+          <line>O Pan, Pan! from the stony ridge,</line>
+          <line>Snow-bestrewn of Cyllene's height</line>
+          <line>Appear roving across the waters,</line>
+          <line>O dance-ordering king of gods,</line>
+          <line>That thou mayst join me in flinging free</line>
+          <line>Fancy measures of Nysa and of Cnossus.</line>
+          <line>Yea for the dance I now am eager.</line>
+          <line>And over the far Icarian billows come, O king Apollo,</line>
+          <line>From Delos in haste, come thou,</line>
+          <line>Thy kindly power here in our midst revealing. antistrophe</line>
+          <line>Ares hath lifted horror and anguish from our eyes.</line>
+          <line>Io, Io! Now again,</line>
+          <line>Now, O Zeus, can the bright and blithe</line>
+          <line>Glory of happier days return</line>
+          <line>To our swift-voyaging ships, for now</line>
+          <line>Hath Ajax wholly forgot his grief,</line>
+          <line>And all rites due to the gods he now</line>
+          <line>Fain would meetly perform with loyal worship.</line>
+          <line>Mighty is time to dwindle all things.</line>
+          <line>Nought would I call too strange for belief, when Ajax thus beyond</line>
+          <line>hope</line>
+          <line>Hath learnt to repent his proud feuds,</line>
+          <line>And lay aside anger against the Atreidae.</line>
+          <line>A MESSENGER enters.</line>
+          <line>MESSENGER</line>
+          <line>My friends, these tiding I would tell you</line>
+          <line>first:</line>
+          <line>Teucer is present, from the Mysian heights</line>
+          <line>But now returned, and in the central camp</line>
+          <line>By all the Greeks at once is being reviled.</line>
+          <line>As he drew near they knew him from afar,</line>
+          <line>Then gathering around him one and all</line>
+          <line>With taunts assailed him from this side and that,</line>
+          <line>Calling him kinsman of that maniac,</line>
+          <line>That plotter against the host, saying that nought</line>
+          <line>Should save him; stoned and mangled he must die.</line>
+          <line>And so they had come to such a pitch that swords</line>
+          <line>Plucked from their sheaths stood naked in men's</line>
+          <line>hands.</line>
+          <line>Yet when the strife ran highest, it was stayed</line>
+          <line>By words from the elders and so reconciled.</line>
+          <line>But where is Ajax? I must speak with him.</line>
+          <line>He whom it most concerns must be told all.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>He is not within, but has just now gone</line>
+          <line>forth</line>
+          <line>With a new purpose yoked to a new mood.</line>
+          <line>MESSENGER</line>
+          <line>Alas! Alas!</line>
+          <line>Then too late on this errand was I sped</line>
+          <line>By him who sent me; or I have proved too slow.</line>
+          <line>LEADER</line>
+          <line>What urgent need has been neglected here?</line>
+          <line>MESSENGER</line>
+          <line>Teucer forbade that Ajax should go forth</line>
+          <line>Outside his hut, till he himself should come.</line>
+          <line>LEADER</line>
+          <line>Well, he is gone. To wisest purpose now</line>
+          <line>His mind is turned, to appease heaven's wrath.</line>
+          <line>MESSENGER</line>
+          <line>These words of thine are filled with utter</line>
+          <line>folly,</line>
+          <line>If there was truth in Calchas' prophecy.</line>
+          <line>LEADER</line>
+          <line>What prophecy? And what know you of this thing?</line>
+          <line>MESSENGER</line>
+          <line>Thus much I know, for by chance I was present.</line>
+          <line>Leaving the circle of consulting chiefs</line>
+          <line>Where sat the Atreidae, Calchas went aside,</line>
+          <line>And with kind purpose grasping Teucer's hand</line>
+          <line>Enjoined him that by every artifice</line>
+          <line>He should restrain Ajax within his tents</line>
+          <line>This whole day, and not leave him to himself,</line>
+          <line>If he wished ever to behold him alive.</line>
+          <line>For on this day alone, such were his words,</line>
+          <line>Would the wrath of divine Athena vex him.</line>
+          <line>For the overweening and unprofitable</line>
+          <line>Fall crushed by heaven-sent calamities</line>
+          <line>(So the seer spoke), whene'er one born a man</line>
+          <line>Has conceived thoughts too high for man's estate:</line>
+          <line>And this man, when he first set forth from home,</line>
+          <line>Showed himself foolish, when his father spoke to</line>
+          <line>him</line>
+          <line>Wisely: "My son, seek victory by the spear;</line>
+          <line>But seek it always with the help of heaven."</line>
+          <line>Then boastfully and witlessly he answered:</line>
+          <line>"Father, with heaven's help a mere man of nought</line>
+          <line>Might win victory: but I, albeit without</line>
+          <line>Their aid, trust to achieve a victor's glory."</line>
+          <line>Such was his proud vaunt. Then a second time</line>
+          <line>Answering divine Athena, when she urged him</line>
+          <line>To turn a slaughterous hand upon his foes,</line>
+          <line>He gave voice to this dire, blasphemous boast:</line>
+          <line>"Goddess, stand thou beside the other Greeks.</line>
+          <line>Where I am stationed, no foe shall break through."</line>
+          <line>By such words and such thoughts too great for man</line>
+          <line>Did he provoke Athena's pitiless wrath.</line>
+          <line>But if he lives through this one day, perchance,</line>
+          <line>Should heaven be willing, we may save him yet.</line>
+          <line>So spoke the seer; and Teucer from his seat</line>
+          <line>No sooner risen, sent me with this mandate</line>
+          <line>For you to observe. But if we have been forestalled,</line>
+          <line>That man lives not, or Calchas is no prophet.</line>
+          <line>LEADER</line>
+          <line>calling</line>
+          <line>Woful Tecmessa, woman born to sorrow,</line>
+          <line>Come forth and hear this man who tells of a peril</line>
+          <line>That grazes us too close for our mind's ease.</line>
+          <line>TECMESSA enters from the tent.</line>
+          <line>TECMESSA</line>
+          <line>Why alas do you break my rest again</line>
+          <line>After brief respite from relentless woes?</line>
+          <line>LEADER</line>
+          <line>Give hearing to this messenger, who brings</line>
+          <line>Tidings that grieve me of how Ajax fares.</line>
+          <line>TECMESSA</line>
+          <line>Ah me, what sayest thou, man? Are we undone?</line>
+          <line>MESSENGER</line>
+          <line>I know not of thy fortune; but for Ajax,</line>
+          <line>If he be gone abroad, my mind misgives.</line>
+          <line>TECMESSA</line>
+          <line>Yes, he is gone. I am racked to know thy meaning.</line>
+          <line>MESSENGER</line>
+          <line>Teucer commands you to keep him within doors,</line>
+          <line>And not to let him leave his tent alone.</line>
+          <line>TECMESSA</line>
+          <line>And where is Teucer, and why speaks he thus?</line>
+          <line>MESSENGER</line>
+          <line>He has but now returned, and he forebodes</line>
+          <line>That this going-forth will prove fatal to Ajax.</line>
+          <line>TECMESSA</line>
+          <line>Woe's me, alas! From whom has he learned this?</line>
+          <line>MESSENGER</line>
+          <line>From the seer, Thestor's son, this very</line>
+          <line>day,</line>
+          <line>Which is fraught either with his death or life.</line>
+          <line>TECMESSA</line>
+          <line>Ah me, my friends, avert this threatening</line>
+          <line>doom</line>
+          <line>Speed some of you to hasten Teucer hither:</line>
+          <line>Others go search the bays, some west, some east,</line>
+          <line>And track my lord's ill-omened going-forth.</line>
+          <line>Yes, now I know I have been deceived by him,</line>
+          <line>And from his former favour quite cast out.</line>
+          <line>Alas, child, what shall I do? Sit still I must not:</line>
+          <line>But far as I have strength I too will go.</line>
+          <line>Let us start quickly-'tis no time for loitering,</line>
+          <line>If we would save one who is in haste to die.</line>
+          <line>LEADER</line>
+          <line>I am ready, as not words alone shall prove,</line>
+          <line>But speed of act and foot to make words good.</line>
+          <line>The CHORUS, TECMESSA and MESSENGER go out. The scene changes to a lonely</line>
+          <line>place by the sea-shore. Bushes and under- brush are in the background.</line>
+          <line>AJAX enters alone.</line>
+          <line>AJAX</line>
+          <line>The slayer stands so that his edge may cleave</line>
+          <line>Most surely (if there be leisure for such thought),</line>
+          <line>Being the gift of Hector, of all friends</line>
+          <line>Most unloved, and most hateful to my sight.</line>
+          <line>Then it is planted in Troy's hostile soil,</line>
+          <line>New-sharpened on the iron-biting whet.</line>
+          <line>And heedfully have I planted it, that so</line>
+          <line>With a swift death it prove to me most kind.</line>
+          <line>Thus have I made all ready. Next be thou</line>
+          <line>The first, O Zeus, to aid me, as is right.</line>
+          <line>It is no mighty boon that I shall crave.</line>
+          <line>Send some announcer of the evil news</line>
+          <line>To Teucer, that he first may lift me up,</line>
+          <line>When I have fallen upon this reeking sword,</line>
+          <line>Lest ere he come some enemy should espy me</line>
+          <line>And cast me forth to dogs and birds a prey.</line>
+          <line>This, O Zeus, I entreat thee, and likewise call</line>
+          <line>On Hermes, guide to the underworld, to lay me</line>
+          <line>Asleep without a struggle, at one swift bound,</line>
+          <line>When I have thrust my heart through with this sword.</line>
+          <line>Next I call on those maidens ever-living</line>
+          <line>And ever watchful of all human miseries,</line>
+          <line>The dread swift-striding Erinyes, that they mark</line>
+          <line>How by the Atreidae I have been destroyed:</line>
+          <line>And these vile men by a vile doom utterly</line>
+          <line>May they cut off, even as they see me here.</line>
+          <line>Come, O ye swift avenging Erinyes,</line>
+          <line>Spare not, touch with affliction the whole host.</line>
+          <line>And thou, whose chariot mounts up the steep sky,</line>
+          <line>Thou Sun, when on the land where I was born</line>
+          <line>Thou shalt look down, check thy gold-spangled rein,</line>
+          <line>And announce my disasters and my doom</line>
+          <line>To my aged sire and her who nurtured me.</line>
+          <line>She, woful woman, when she hears these tidings</line>
+          <line>Will wail out a loud dirge through all the town.</line>
+          <line>But I waste labour with this idle moan.</line>
+          <line>The act must now be done, and that with speed.</line>
+          <line>O Death, Death, come now and look upon me.-</line>
+          <line>No, 'tis there I shall meet and speak to thee.</line>
+          <line>But thee, bright daylight which I now behold,</line>
+          <line>And Helios in his chariot I accost</line>
+          <line>For this last time of all, and then no more.</line>
+          <line>O sunlight! O thou hallowed soil, my own</line>
+          <line>Salamis, stablished seat of my sire's hearth,</line>
+          <line>And famous Athens, with thy kindred race,</line>
+          <line>And you, ye springs and streams, and Trojan plains,</line>
+          <line>Farewell, all ye who have sustained my life.</line>
+          <line>This is the last word Ajax speaks to you.</line>
+          <line>All else in Hades to the dead will I say.</line>
+          <line>He falls on his sword. His body lies partially concealed by the underbrush.</line>
+          <line>SEMI-CHORUS 1 enters.</line>
+          <line>SEMI-CHORUS 1</line>
+          <line>chanting</line>
+          <line>'Tis toil on toil, and toil again.</line>
+          <line>Where! where!</line>
+          <line>Where have not my footsteps been?</line>
+          <line>And still no place reveals the secret of my search.</line>
+          <line>But hark!</line>
+          <line>There again I hear a sound.</line>
+          <line>SEMI-CHORUS 2 enters.</line>
+          <line>SEMI-CHORUS 2</line>
+          <line>chanting</line>
+          <line>'Tis we, the ship-companions of your voyage.</line>
+          <line>SEMI-CHORUS 1</line>
+          <line>chanting</line>
+          <line>Well how now?</line>
+          <line>SEMI-CHORUS 2</line>
+          <line>chanting</line>
+          <line>We have searched the whole coast westward from the ship.</line>
+          <line>SEMI-CHORUS 1</line>
+          <line>chanting</line>
+          <line>You have found nought?</line>
+          <line>SEMI-CHORUS 2</line>
+          <line>chanting</line>
+          <line>A deal of toil, but nothing more to see.</line>
+          <line>SEMI-CHORUS 1</line>
+          <line>chanting</line>
+          <line>Neither has he been found along the path</line>
+          <line>That leads from the eastern glances of the sun.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>strophe</line>
+          <line>From whom, oh from whom? what hard son of the waves,</line>
+          <line>Plying his weary task without thought of sleep,</line>
+          <line>Or what Olympian nymph of hill or stream that flows</line>
+          <line>Down to the Bosporus' shore,</line>
+          <line>Might I have tidings of my lord</line>
+          <line>Wandering somewhere seen</line>
+          <line>Fierce of mood? Grievous it is</line>
+          <line>When I have toiled so long, and ranged far and wide</line>
+          <line>Thus to fail, thus to have sought in vain.</line>
+          <line>Still the afflicted hero nowhere may I find.</line>
+          <line>TECMESSA enters and discovers the body.</line>
+          <line>TECMESSA</line>
+          <line>Alas, woe, woe!</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Whose cry was it that broke from yonder copse?</line>
+          <line>TECMESSA</line>
+          <line>Alas, woe is me!</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>It is the hapless spear-won bride I see,</line>
+          <line>Tecmessa, steeped in that wail's agony.</line>
+          <line>TECMESSA</line>
+          <line>I am lost, destroyed, made desolate, my friends.</line>
+          <line>LEADER</line>
+          <line>What is it? Speak.</line>
+          <line>TECMESSA</line>
+          <line>Ajax, our master, newly slaughtered lies</line>
+          <line>Yonder, a hidden sword sheathed in his body.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Woe for my lost hopes of home!</line>
+          <line>Woe's me, thou hast slain me, my king,</line>
+          <line>Me thy shipmate, hapless man!</line>
+          <line>Woful-souled woman too!</line>
+          <line>TECMESSA</line>
+          <line>Since thus it is with him, 'tis mine to wail.</line>
+          <line>LEADER</line>
+          <line>By whose hand has he wrought this luckless deed?</line>
+          <line>TECMESSA</line>
+          <line>By his own hand, 'tis evident. This sword</line>
+          <line>Whereon he fell, planted in earth, convicts him.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Woe for my blind folly! Lone in thy blood thou liest, from friends' help</line>
+          <line>afar.</line>
+          <line>And I the wholly witless, the all unwary,</line>
+          <line>Forbore to watch thee. Where, where</line>
+          <line>Lieth the fatally named, intractable Ajax?</line>
+          <line>TECMESSA</line>
+          <line>None must behold him. I will shroud him</line>
+          <line>wholly</line>
+          <line>In this enfolding mantle; for no man</line>
+          <line>Who loved him could endure to see him thus</line>
+          <line>Through nostrils and through red gash spouting up</line>
+          <line>The darkened blood from his self-stricken wound.</line>
+          <line>Ah me, what shall I do? What friend shall lift thee?</line>
+          <line>Where is Teucer? Timely indeed would he now come,</line>
+          <line>To compose duly his slain brother's corpse.</line>
+          <line>O hapless Ajax, who wast once so great,</line>
+          <line>Now even thy foes might dare to mourn thy fall.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>antistrophe</line>
+          <line>'Twas fate's will, alas, 'twas fate then for thou</line>
+          <line>Stubborn of soul at length to work out a dark</line>
+          <line>Doom of ineffable miseries. Such the dire</line>
+          <line>Fury of passionate hate</line>
+          <line>I heard thee utter fierce of mood</line>
+          <line>Railing at Atreus' sons</line>
+          <line>Night by night, day by day.</line>
+          <line>Verily then it was the sequence of woes</line>
+          <line>First began, when as the prize of worth</line>
+          <line>Fatally was proclaimed the golden panoply.</line>
+          <line>TECMESSA</line>
+          <line>Alas, woe, woe!</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>A loyal grief pierces thy heart, I know.</line>
+          <line>TECMESSA</line>
+          <line>Alas, woe, woe!</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Woman, I marvel not that thou shouldst wail</line>
+          <line>And wail again, reft of a friend so dear.</line>
+          <line>TECMESSA</line>
+          <line>'Tis thine to surmise, mine to feel, too surely.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>'Tis even so.</line>
+          <line>TECMESSA</line>
+          <line>Ah, my child, to what bondage are we come,</line>
+          <line>Seeing what cruel taskmasters will be ours.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Ah me, at what dost thou hint?</line>
+          <line>What ruthless, unspeakable wrong</line>
+          <line>From the Atreidae fearest thou?</line>
+          <line>But may heaven avert that woe!</line>
+          <line>TECMESSA</line>
+          <line>Ne'er had it come to this save by heaven's will.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Yes, too great to be borne this heaven-sent burden.</line>
+          <line>TECMESSA</line>
+          <line>Yet such the woe which the dread child of</line>
+          <line>Zeus,</line>
+          <line>Pallas, has gendered for Odysseus' sake.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Doubtless the much-enduring hero in his dark spy's soul exults</line>
+          <line>mockingly,</line>
+          <line>And laughs with mighty laughter at these agonies</line>
+          <line>Of a frenzied spirit. Shame! Shame!</line>
+          <line>Sharers in glee at the tale are the royal Atreidae.</line>
+          <line>TECMESSA</line>
+          <line>Well, let them mock and glory in his ruin.</line>
+          <line>Perchance, though while he lived they wished not for</line>
+          <line>him,</line>
+          <line>They yet shall wail him dead, when the spear fails</line>
+          <line>them.</line>
+          <line>Men of ill judgment oft ignore the good</line>
+          <line>That lies within their hands, till they have lost</line>
+          <line>it.</line>
+          <line>More to their grief he died than to their joy,</line>
+          <line>And to his own content. All his desire</line>
+          <line>He now has won, that death for which he longed.</line>
+          <line>Why then should they deride him? 'Tis the gods</line>
+          <line>Must answer for his death, not these men, no.</line>
+          <line>Then let Odysseus mock him with empty taunts.</line>
+          <line>Ajax is no more with them; but has gone,</line>
+          <line>Leaving to me despair and lamentation.</line>
+          <line>TEUCER</line>
+          <line>from without</line>
+          <line>Alas, woe, woe!</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>Keep silence! Is it Teucer's voice I hear</line>
+          <line>Lifting a dirge over this tragic sight?</line>
+          <line>TEUCER enters.</line>
+          <line>TEUCER</line>
+          <line>O brother Ajax, to mine eyes most dear,</line>
+          <line>Can it be thou hast fared as rumour tells?</line>
+          <line>LEADER</line>
+          <line>Yes, he is dead, Teucer: of that be sure.</line>
+          <line>TEUCER</line>
+          <line>Alas, how then can I endure my fate!</line>
+          <line>LEADER</line>
+          <line>Since thus it is...</line>
+          <line>TEUCER</line>
+          <line>O wretched, wretched me!</line>
+          <line>LEADER</line>
+          <line>Thou hast cause to moan.</line>
+          <line>TEUCER</line>
+          <line>O swift and cruel woe!</line>
+          <line>LEADER</line>
+          <line>Too cruel, Teucer!</line>
+          <line>TEUCER</line>
+          <line>Woe is me! But say-</line>
+          <line>His child-where shall I find him? Tell me where.</line>
+          <line>LEADER</line>
+          <line>Alone within the tent.</line>
+          <line>TEUCER</line>
+          <line>to TECMESSA</line>
+          <line>Then with all speed</line>
+          <line>Go, bring him thither, lest some foe should snatch</line>
+          <line>him</line>
+          <line>Like a whelp from a lioness bereaved.</line>
+          <line>Away! See it done quickly! All men are wont</line>
+          <line>To insult over the dead, once they lie low.</line>
+          <line>TECMESSA departs.</line>
+          <line>LEADER</line>
+          <line>Yes, Teucer, while he lived, did he not charge</line>
+          <line>thee</line>
+          <line>To guard his son from harm, as now thou dost?</line>
+          <line>TEUCER</line>
+          <line>O sight most grievous to me of all sights</line>
+          <line>That ever I have looked on with my eyes!</line>
+          <line>And hatefullest of all paths to my soul</line>
+          <line>This path that now has led me to thy side,</line>
+          <line>O dearest Ajax, when I heard thy fate,</line>
+          <line>While seeking thee I tracked thy footsteps out.</line>
+          <line>For a swift rumour, as from some god, ran</line>
+          <line>Through the Greek host that thou wast dead and gone.</line>
+          <line>While yet far off I heard it, and groaned deep</line>
+          <line>In anguish; now I see, and my life dies.</line>
+          <line>Ay me!</line>
+          <line>Uncover. Let me behold woe's very worst.</line>
+          <line>The cover is lifted from the body.</line>
+          <line>O ghastly sight! victim of ruthless courage!</line>
+          <line>What miseries hast thou dying sown for me!</line>
+          <line>Whither, among what people, shall I go,</line>
+          <line>Who in thy troubles failed to give thee succour?</line>
+          <line>Oh doubtless Telamon, thy sire and mine,</line>
+          <line>With kind and gracious face is like to greet me,</line>
+          <line>Returned without thee: how else?-he who is wont</line>
+          <line>Even at good news to smile none the sweeter.</line>
+          <line>What will he keep back? What taunt not hurl forth</line>
+          <line>Against the bastard of a spear-won slave,</line>
+          <line>Him who through craven cowardice betrayed</line>
+          <line>Thee, beloved Ajax-or by guile, that so</line>
+          <line>I might inherit thy kingdom and thy house.</line>
+          <line>So will he speak, a passionate man, grown peevish</line>
+          <line>In old age, quick to wrath without a cause.</line>
+          <line>Then shall I be cast off, a banished man,</line>
+          <line>Proclaimed no more a freeman but a slave.</line>
+          <line>Such is the home that waits me; while at Troy</line>
+          <line>My foes are many, my well-wishers few.</line>
+          <line>All this will be my portion through thy death.</line>
+          <line>Ah me, what shall I do? How draw thee, brother,</line>
+          <line>From this fell sword, on whose bright murderous</line>
+          <line>point</line>
+          <line>Thou hast breathed out thy soul? See how at last</line>
+          <line>Hector, though dead, was fated to destroy thee!</line>
+          <line>Consider, I pray, the doom of these two men.</line>
+          <line>Hector, with that same girdle Ajax gave him</line>
+          <line>Was lashed fast to Achilles' chariot rail</line>
+          <line>And mangled till he had gasped forth his life.</line>
+          <line>And 'twas from him that Ajax had this gift,</line>
+          <line>The blade by which he perished and lies dead.</line>
+          <line>Was it not some Erinys forged this sword,</line>
+          <line>And Hades the grim craftsman wrought that girdle?</line>
+          <line>I at least would maintain that the gods plan</line>
+          <line>These things and all things ever for mankind.</line>
+          <line>But whosoever's judgment likes not this,</line>
+          <line>Let him uphold his doctrine as I mine.</line>
+          <line>LEADER</line>
+          <line>Speak no more, but take counsel how to inter</line>
+          <line>Our dear lord, and what now it were best to say:</line>
+          <line>For 'tis a foe I see. Perchance he comes</line>
+          <line>To mock our misery, villain that he is.</line>
+          <line>TEUCER</line>
+          <line>What chieftain of the host do you behold?</line>
+          <line>LEADER</line>
+          <line>Menelaus, for whose sake we voyaged hither.</line>
+          <line>TEUCER</line>
+          <line>'Tis he. I know him well, now he is near.</line>
+          <line>MENELAUS enters with his retinue.</line>
+          <line>MENELAUS</line>
+          <line>You, Sir, I warn you, raise not yonder corpse</line>
+          <line>For burial, but leave it as it lies.</line>
+          <line>TEUCER</line>
+          <line>For what cause do you waste such swelling words?</line>
+          <line>MENELAUS</line>
+          <line>'Tis my will, and his will who rules the host.</line>
+          <line>TEUCER</line>
+          <line>Let us know then what pretext you allege.</line>
+          <line>MENELAUS</line>
+          <line>We hoped that we had brought this man from</line>
+          <line>home</line>
+          <line>To be a friend and champion for the Greeks:</line>
+          <line>But a worse than Phrygian foe on trial we found</line>
+          <line>him.</line>
+          <line>Devising death for the whole host, by night</line>
+          <line>He sallied forth against us, armed for slaughter.</line>
+          <line>And had not some god baffled this exploit,</line>
+          <line>Ours would have been the lot which now is his:</line>
+          <line>While we lay slain by a most shameful doom,</line>
+          <line>He would have still been living. But his outrage,</line>
+          <line>Foiled by a god, has fallen on sheep and herds.</line>
+          <line>Wherefore there lives no man so powerful</line>
+          <line>That he shall lay this corpse beneath a tomb;</line>
+          <line>But cast forth somewhere upon the yellow sands</line>
+          <line>It shall become food for the sea-shore birds.</line>
+          <line>Then lift not up your voice in threatening fury.</line>
+          <line>If while he lived we could not master him,</line>
+          <line>Yet in death will we rule him, in your despite,</line>
+          <line>Guiding him with our hands, since in his life</line>
+          <line>At no time would he hearken to my words.</line>
+          <line>Yet 'tis a sign of wickedness, when a subject</line>
+          <line>Deigns not to obey those placed in power above him.</line>
+          <line>For never can the laws be prosperously</line>
+          <line>Stablished in cities where awe is not found;</line>
+          <line>Nor may a camp be providently ruled</line>
+          <line>Without the shield of dread and reverence.</line>
+          <line>Yea, though a man be grown to mighty bulk,</line>
+          <line>Let him look lest some slight mischance o'erthrow</line>
+          <line>him.</line>
+          <line>He with whom awe and reverence abide,</line>
+          <line>Doubt not, will flourish in security.</line>
+          <line>But where outrage and licence are not checked,</line>
+          <line>Be sure that state, though sped by prosperous winds,</line>
+          <line>Some day at last will founder in deep seas.</line>
+          <line>Yes, fear should be established in due season.</line>
+          <line>Dream not that we can act as we desire,</line>
+          <line>Yet avoid payment of the price in pain.</line>
+          <line>Well, fortune goes by turns. This man was fiery</line>
+          <line>And insolent once: 'tis mine now to exult.</line>
+          <line>I charge thee, bury him not, lest by that act</line>
+          <line>Thou thyself shouldst be digging thine own grave,</line>
+          <line>LEADER</line>
+          <line>Menelaus, do not first lay down wise precepts,</line>
+          <line>Then thyself offer outrage to the dead.</line>
+          <line>TEUCER</line>
+          <line>to the CHORUS</line>
+          <line>Never, friends, shall I marvel any more,</line>
+          <line>If one of low birth acts injuriously,</line>
+          <line>When they who are accounted nobly born</line>
+          <line>Can utter such injurious calumnies.</line>
+          <line>To MENELAUS</line>
+          <line>Come, once more speak. You say you brought him hither?</line>
+          <line>Took him to be a champion of the Greeks?</line>
+          <line>Did he not sail as his own master, freely?</line>
+          <line>How are you his chieftain? How have you the right</line>
+          <line>To lord it o'er the folk he brought from home?</line>
+          <line>As Sparta's lord you came, not as our master.</line>
+          <line>In no way was it your prerogative</line>
+          <line>To rule him, any more than he could you.</line>
+          <line>As vassal of others you sailed hither, not</line>
+          <line>As captain of us all, still less of Ajax.</line>
+          <line>Go, rule those whom you may rule: chastise them</line>
+          <line>With proud words. But this man, though you forbid</line>
+          <line>me,</line>
+          <line>Aye, and your fellow-captain, by just right</line>
+          <line>Will I lay in his grave, scorning your threats.</line>
+          <line>It was not for the sake of your lost wife</line>
+          <line>He came to Troy, like your toil-broken serfs,</line>
+          <line>But for the sake of oaths that he had sworn,</line>
+          <line>Not for yours. What cared he for nobodies?</line>
+          <line>Then come again and bring more heralds hither,</line>
+          <line>And the captain of the host. For such as you</line>
+          <line>I would not turn my head, for all your bluster.</line>
+          <line>LEADER</line>
+          <line>Such speech I like not, either, in peril's</line>
+          <line>midst:</line>
+          <line>For harsh words rankle, be they ne'er so just.</line>
+          <line>MENELAUS</line>
+          <line>This bowman, it seems, has pride enough to spare.</line>
+          <line>TEUCER</line>
+          <line>Yes, 'tis no mean craft I have made my own.</line>
+          <line>MENELAUS</line>
+          <line>How big would be your boasts, had you a shield!</line>
+          <line>TEUCER</line>
+          <line>Shieldless, I would outmatch you panoplied.</line>
+          <line>MENELAUS</line>
+          <line>How terrible a courage dwells within your tongue!</line>
+          <line>TEUCER</line>
+          <line>He may be bold of heart whose side right favours.</line>
+          <line>MENELAUS</line>
+          <line>Is it right that my assassin should be honoured?</line>
+          <line>TEUCER</line>
+          <line>Assassin? How strange, if, though slain, you live!</line>
+          <line>MENELAUS</line>
+          <line>Heaven saved me: I was slain in his intent.</line>
+          <line>TEUCER</line>
+          <line>Do not dishonour then the gods who saved you.</line>
+          <line>MENELAUS</line>
+          <line>What, I rebel against the laws of heaven?</line>
+          <line>TEUCER,</line>
+          <line>Yes, if you come to rob the dead of burial.</line>
+          <line>MENELAUS</line>
+          <line>My own foes! How could I endure such wrong?</line>
+          <line>TEUCER</line>
+          <line>Did Ajax ever confront you as your foe?</line>
+          <line>MENELAUS</line>
+          <line>He loathed me, and I him, as well you know.</line>
+          <line>TEUCER</line>
+          <line>Because to defraud him you intrigued for votes.</line>
+          <line>MENELAUS</line>
+          <line>It was the judges cast him, and not I.</line>
+          <line>TEUCER</line>
+          <line>Much secret villainy you could make seem fair.</line>
+          <line>MENELAUS</line>
+          <line>That saying will bring someone into trouble.</line>
+          <line>TEUCER</line>
+          <line>Not greater trouble than we mean to inflict.</line>
+          <line>MENELAUS</line>
+          <line>My one last word: this man must not have burial.</line>
+          <line>TEUCER</line>
+          <line>Then hear my answer: burial he shall have.</line>
+          <line>MENELAUS</line>
+          <line>Once did I see a fellow bold of tongue,</line>
+          <line>Who had urged a crew to sail in time of storm;</line>
+          <line>Yet no voice had you found in him, when winds</line>
+          <line>Began to blow; but hidden beneath his cloak</line>
+          <line>The mariners might trample on him at will.</line>
+          <line>And so with you and your fierce railleries,</line>
+          <line>Perchance a great storm, though from a little cloud</line>
+          <line>Its breath proceed, shall quench your blatant outcry.</line>
+          <line>TEUCER</line>
+          <line>And I once saw a fellow filled with folly,</line>
+          <line>Who gloried scornfully in his neighbour's woes.</line>
+          <line>So it came to pass that someone like myself,</line>
+          <line>And of like mood, beholding him spoke thus.</line>
+          <line>"Man, act not wickedly towards the dead;</line>
+          <line>Or, if thou dost, be sure that thou wilt rue it."</line>
+          <line>Thus did he monish that infatuate man.</line>
+          <line>And lo! yonder I see him; and as I think,</line>
+          <line>He is none else but thou. Do I speak riddles?</line>
+          <line>MENELAUS</line>
+          <line>I go. It were disgrace should any know</line>
+          <line>I had fallen to chiding where I might chastise.</line>
+          <line>TEUCER</line>
+          <line>Begone then. For to me 'twere worst disgrace</line>
+          <line>That I should listen to a fool's idle blustering.</line>
+          <line>MENELAUS and his retinue depart.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Soon mighty and fell will the strife be begun.</line>
+          <line>But speedily now, Teucer, I pray thee,</line>
+          <line>Seek some fit place for his hollow grave,</line>
+          <line>Which men's memories evermore shall praise,</line>
+          <line>As he lies there mouldering at rest.</line>
+          <line>TECMESSA enters with EURYSACES.</line>
+          <line>TEUCER</line>
+          <line>Look yonder, where the child and wife of</line>
+          <line>Ajax</line>
+          <line>Are hastening hither in good time to tend</line>
+          <line>The funeral rites of his unhappy corpse.</line>
+          <line>My child, come hither. Stand near and lay thy hand</line>
+          <line>As a suppliant on thy father who begat thee.</line>
+          <line>And kneel imploringly with locks of hair</line>
+          <line>Held in thy hand-mine, and hers, and last thine-</line>
+          <line>The suppliant's treasure. But if any Greek</line>
+          <line>By violence should tear thee from this corpse,</line>
+          <line>For that crime from the land may he be cast</line>
+          <line>Unburied, and his whole race from the root</line>
+          <line>Cut off, even as I sever this lock.</line>
+          <line>There, take it, boy, and keep it. Let none seek</line>
+          <line>To move thee; but still kneel there and cling fast.</line>
+          <line>And you, like men, no women, by his side</line>
+          <line>Stand and defend him till I come again,</line>
+          <line>When I have dug his grave, though all forbid.</line>
+          <line>TEUCER goes out. BLOCKQU</line>
+        </stanza>
+      </poem>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="sophocles-ajax-colophon">
+        <p xml:id="sophocles-ajax-colophon-p-1">Author: Sophocles</p>
+        <p xml:id="sophocles-ajax-colophon-p-2">Translated by R. C. Trevelyan</p>
+        <p xml:id="sophocles-ajax-colophon-p-3">Written: 440 BCE</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

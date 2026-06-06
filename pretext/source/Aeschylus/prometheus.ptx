@@ -1,0 +1,1610 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="aeschylus-prometheus">
+    <title>Prometheus Bound</title>
+    <chapter xml:id="prometheus-prometheus-bound">
+      <title>Prometheus Bound</title>
+      <poem xml:id="prometheus-prometheus-bound-poem-1">
+        <stanza xml:id="prometheus-prometheus-bound-stanza-1-1">
+          <line>Dramatis Personae</line>
+          <line>KRATOS</line>
+          <line>BIA</line>
+          <line>HEPHAESTUS</line>
+          <line>PROMETHEUS</line>
+          <line>CHORUS OF THE OCEANIDES</line>
+          <line>OCEANUS</line>
+          <line>IO</line>
+          <line>Scene Mountainous country, and in the middle of a deep gorge a Rock, towards which KRATOS and BIA carry the gigantic form of PROMETHEUS. HEPHAESTUS follows dejectedly with hammer, nails, chains, etc.</line>
+          <line>KRATOS</line>
+          <line>Now have we journeyed to a spot of earth</line>
+          <line>Remote-the Scythian wild, a waste untrod.</line>
+          <line>And now, Hephaestus, thou must execute</line>
+          <line>The task our father laid on thee, and fetter</line>
+          <line>This malefactor to the jagged rocks</line>
+          <line>In adamantine bonds infrangible;</line>
+          <line>For thine own blossom of all forging fire</line>
+          <line>He stole and gave to mortals; trespass grave</line>
+          <line>For which the Gods have called him to account,</line>
+          <line>That he may learn to bear Zeus' tyranny</line>
+          <line>And cease to play the lover of mankind.</line>
+          <line>HEPHAESTUS</line>
+          <line>Kratos and Bia, for ye twain the hest</line>
+          <line>Of Zeus is done with; nothing lets you further.</line>
+          <line>But forcibly to bind a brother God,</line>
+          <line>In chains, in this deep chasm raked by all storms</line>
+          <line>I have not courage; yet needs must I pluck</line>
+          <line>Courage from manifest necessity,</line>
+          <line>For woe worth him that slights the Father's word.</line>
+          <line>O high-souled son of them is sage in counsel,</line>
+          <line>With heavy heart I must make thy heart heavy,</line>
+          <line>In bonds of brass not easy to be loosed,</line>
+          <line>Nailing thee to this crag where no wight dwells,</line>
+          <line>Nor sound of human voice nor shape of man</line>
+          <line>Shall visit thee; but the sun-blaze shall roast</line>
+          <line>Thy flesh; thy hue, flower-fair, shall suffer change;</line>
+          <line>Welcome will Night be when with spangled robe</line>
+          <line>She hides the light of day; welcome the sun</line>
+          <line>Returning to disperse the frosts of dawn.</line>
+          <line>And every hour shall bring its weight of woe</line>
+          <line>To wear thy heart away; for yet unborn</line>
+          <line>Is he who shall release Chee from thy pain.</line>
+          <line>This is thy wage for loving humankind.</line>
+          <line>For, being a God, thou dared'st the Gods' ill will,</line>
+          <line>Preferring, to exceeding honour, Man.</line>
+          <line>Wherefore thy long watch shall be comfortless,</line>
+          <line>Stretched on this rock, never to close an eye</line>
+          <line>Or bend a knee; and vainly shalt thou lift,</line>
+          <line>With groanings deep and lamentable cries,</line>
+          <line>Thy voice; for Zeus is hard to be entreated,</line>
+          <line>As new-born power is ever pitiless.</line>
+          <line>KRATOS</line>
+          <line>Enough! Why palter? Why wast idle pity?</line>
+          <line>Is not the God Gods loathe hateful to thee?</line>
+          <line>Traitor to man of thy prerogative?</line>
+          <line>HEPHAESTUS</line>
+          <line>Kindred and fellowship are dreaded names.</line>
+          <line>KRATOS</line>
+          <line>Questionless; but to slight the Father's</line>
+          <line>word-</line>
+          <line>How sayest thou? Is not this fraught with more dread?</line>
+          <line>HEPHAESTUS</line>
+          <line>Thy heart was ever hard and overbold.</line>
+          <line>KRATOS</line>
+          <line>But wailing will not ease him! Waste no</line>
+          <line>pains</line>
+          <line>Where thy endeavour nothing profiteth.</line>
+          <line>HEPHAESTUS</line>
+          <line>Oh execrable work! O handicraft!</line>
+          <line>KRATOS</line>
+          <line>Why curse thy trade? For what thou hast to</line>
+          <line>do,</line>
+          <line>Troth, smithcraft is in no wise answerable.</line>
+          <line>HEPHAESTUS</line>
+          <line>Would that it were another's craft, not mine!</line>
+          <line>KRATOS</line>
+          <line>Why, all things are a burden save to rule</line>
+          <line>Over the Gods; for none is free but Zeus.</line>
+          <line>HEPHAESTUS</line>
+          <line>To that I answer not, knowing it true.</line>
+          <line>KRATOS</line>
+          <line>Why, then, make haste to cast the chains about</line>
+          <line>him,</line>
+          <line>Lest glancing down on thee the Father's eye</line>
+          <line>Behold a laggard and a loiterer.</line>
+          <line>HEPHAESTUS</line>
+          <line>Here are the iron bracelets for his arms.</line>
+          <line>KRATOS</line>
+          <line>Fasten them round his arms with all thy</line>
+          <line>strength!</line>
+          <line>Strike with thy hammer! Nail him to the rocks!</line>
+          <line>HEPHAESTUS</line>
+          <line>'Tis done! and would that it were done less well!</line>
+          <line>KRATOS</line>
+          <line>Harder-I say-strike harder-screw all tight</line>
+          <line>And be not in the least particular</line>
+          <line>Remiss, for unto one of his resource</line>
+          <line>Bars are but instruments of liberty.</line>
+          <line>HEPHAESTUS</line>
+          <line>This forearm's fast: a shackle hard to shift.</line>
+          <line>KRATOS</line>
+          <line>Now buckle this! and handsomely! Let him</line>
+          <line>learn</line>
+          <line>Sharp though he be, he's a dull blade to Zeus.</line>
+          <line>HEPHAESTUS</line>
+          <line>None can find fault with this: -save him it tortures.</line>
+          <line>KRATOS</line>
+          <line>Now take thine iron spike and drive it in,</line>
+          <line>Until it gnaw clean through the rebel's breast.</line>
+          <line>HEPHAESTUS</line>
+          <line>Woe's me, Prometheus, for thy weight of woe!</line>
+          <line>KRATOS</line>
+          <line>Still shirking? still a-groaning for the</line>
+          <line>foes</line>
+          <line>Of Zeus? Anon thou'lt wail thine own mishap.</line>
+          <line>HEPHAESTUS</line>
+          <line>Thou seest what eyes scarce bear to look upon!</line>
+          <line>KRATOS</line>
+          <line>I see this fellow getting his deserts!</line>
+          <line>But strap him with a gelt about his ribs.</line>
+          <line>HEPHAESTUS</line>
+          <line>I do what I must do: for thee-less words!</line>
+          <line>KRATOS</line>
+          <line>"Words," quotha? Aye, and shout 'em if need</line>
+          <line>be.</line>
+          <line>Come down and cast a ring-bolt round his legs.</line>
+          <line>HEPHAESTUS</line>
+          <line>The thing is featly done; and 'twas quick work.</line>
+          <line>KRATOS</line>
+          <line>Now with a sound rap knock the bolt-pins</line>
+          <line>home!</line>
+          <line>For heavy-handed is thy task-master.</line>
+          <line>HEPHAESTUS</line>
+          <line>So villainous a form vile tongue befits.</line>
+          <line>KRATOS</line>
+          <line>Be thou the heart of wax, but chide not</line>
+          <line>me</line>
+          <line>That I am gruffish, stubborn and stiff-willed.</line>
+          <line>HEPHAESTUS</line>
+          <line>Oh, come away! The tackle holds him fast.</line>
+          <line>KRATOS</line>
+          <line>Now, where thou hang'st insult Plunder the</line>
+          <line>Gods</line>
+          <line>For creatures of a day! To thee what gift</line>
+          <line>Will mortals tender to requite thy pains?</line>
+          <line>The destinies were out miscalling the</line>
+          <line>Designer: a designer thou wilt need</line>
+          <line>From trap so well contrived to twist thee free.</line>
+          <line>Exeunt.</line>
+          <line>PROMETHEUS</line>
+          <line>O divine air Breezes on swift bird-wings,</line>
+          <line>Ye river fountains, and of ocean-waves</line>
+          <line>The multitudinous laughter Mother Earth!</line>
+          <line>And thou all-seeing circle of the sun,</line>
+          <line>Behold what I, a God, from Gods endure!</line>
+          <line>Look down upon my shame,</line>
+          <line>The cruel wrong that racks my frame,</line>
+          <line>The grinding anguish that shall waste my strength,</line>
+          <line>Till time's ten thousand years have measured out their</line>
+          <line>length!</line>
+          <line>He hath devised these chains,</line>
+          <line>The new throned potentate who reigns,</line>
+          <line>Chief of the chieftains of the Blest. Ah me!</line>
+          <line>The woe which is and that which yet shall be</line>
+          <line>I wail; and question make of these wide skies</line>
+          <line>When shall the star of my deliverance rise.</line>
+          <line>And yet-and yet-exactly I foresee</line>
+          <line>All that shall come to pass; no sharp surprise</line>
+          <line>Of pain shall overtake me; what's determined</line>
+          <line>Bear, as I can, I must, knowing the might</line>
+          <line>Of strong Necessity is unconquerable.</line>
+          <line>But touching my fate silence and speech alike</line>
+          <line>Are unsupportable. For boons bestowed</line>
+          <line>On mortal men I am straitened in these bonds.</line>
+          <line>I sought the fount of fire in hollow reed</line>
+          <line>Hid privily, a measureless resource</line>
+          <line>For man, and mighty teacher of all arts.</line>
+          <line>This is the crime that I must expiate</line>
+          <line>Hung here in chains, nailed 'neath the open sky. Ha!</line>
+          <line>Ha!</line>
+          <line>What echo, what odour floats by with no sound?</line>
+          <line>God-wafted or mortal or mingled its strain?</line>
+          <line>Comes there one to this world's end, this mountain-girt</line>
+          <line>ground,</line>
+          <line>To have sight of my torment? Or of what is he fain?</line>
+          <line>A God ye behold in bondage and pain,</line>
+          <line>The foe of Zeus and one at feud with all</line>
+          <line>The deities that find</line>
+          <line>Submissive entry to the tyrant's hall;</line>
+          <line>His fault, too great a love of humankind.</line>
+          <line>Ah me! Ah me! what wafture nigh at hand,</line>
+          <line>As of great birds of prey, is this I hear?</line>
+          <line>The bright air fanned</line>
+          <line>Whistles and shrills with rapid beat of wings.</line>
+          <line>There cometh nought but to my spirit brings</line>
+          <line>Horror and fear.</line>
+          <line>The DAUGHTERS OF OCEANUS draw near in mid-air in their winged</line>
+          <line>chariot.</line>
+          <line>CHORUS</line>
+          <line>Put thou all fear away!</line>
+          <line>In kindness cometh this array</line>
+          <line>On wings of speed to mountain lone,</line>
+          <line>Our sire's consent not lightly won.</line>
+          <line>But a fresh breeze our convoy brought,</line>
+          <line>For loud the din of iron raught</line>
+          <line>Even to our sea-cave's cold recess,</line>
+          <line>And scared away the meek-eyed bashfulness.</line>
+          <line>I tarried not to tic my sandal shoe</line>
+          <line>But haste, post haste, through air my winged chariot flew.</line>
+          <line>PROMETHEUS</line>
+          <line>Ah me! Ah me!</line>
+          <line>Fair progeny</line>
+          <line>That many-childed Tethys brought to birth,</line>
+          <line>Fathered of Ocean old</line>
+          <line>Whose sleepless stream is rolled</line>
+          <line>Round the vast shores of earth</line>
+          <line>Look on me! Look upon these chains</line>
+          <line>Wherein I hang fast held</line>
+          <line>On rocks high-pinnacled,</line>
+          <line>My dungeon and my tower of dole,</line>
+          <line>Where o'er the abyss my soul,</line>
+          <line>Sad warder, her unwearied watch sustains!</line>
+          <line>CHORUS</line>
+          <line>Prometheus, I am gazing on thee now!</line>
+          <line>With the cold breath of fear upon my brow,</line>
+          <line>Not without mist of dimming tears,</line>
+          <line>While to my sight thy giant stature rears</line>
+          <line>Its bulk forpined upon these savage rocks</line>
+          <line>In shameful bonds the linked adamant locks.</line>
+          <line>For now new steersmen take the helm</line>
+          <line>Olympian; now with little thought</line>
+          <line>Of right, on strange, new laws Zeus stablisheth his</line>
+          <line>realm,</line>
+          <line>Bringing the mighty ones of old to naught.</line>
+          <line>PROMETHEUS</line>
+          <line>Oh that he had conveyed me</line>
+          <line>'Neath earth, 'neath hell that swalloweth up the</line>
+          <line>dead;</line>
+          <line>In Tartarus, illimitably vast</line>
+          <line>With adamantine fetters bound me fast-</line>
+          <line>There his fierce anger on me visited,</line>
+          <line>Where never mocking laughter could upbraid me</line>
+          <line>Of God or aught beside!</line>
+          <line>But now a wretch enskied,</line>
+          <line>A far-seen vane,</line>
+          <line>All they that hate me triumph in my pain.</line>
+          <line>CHORUS</line>
+          <line>Who of the Gods is there so pitiless</line>
+          <line>That he can triumph in thy sore distress?</line>
+          <line>Who doth not inly groan</line>
+          <line>With every pang of thine save Zeus alone?</line>
+          <line>But he is ever wroth, not to be bent</line>
+          <line>From his resolved intent</line>
+          <line>The sons of heaven to subjugate;</line>
+          <line>Nor shall he cease until his heart be satiate,</line>
+          <line>Or one a way devise</line>
+          <line>To hurl him from the throne where he doth monarchize.</line>
+          <line>PROMETHEUS</line>
+          <line>Yea, of a surety-though he do me wrong,</line>
+          <line>Loading my limbs with fetters strong-</line>
+          <line>The president</line>
+          <line>Of heaven's high parliament</line>
+          <line>Shall need me yet to show</line>
+          <line>What new conspiracy with privy blow</line>
+          <line>Attempts his sceptre and his kingly seat.</line>
+          <line>Neither shall words with all persuasion sweet,</line>
+          <line>Not though his tongue drop honey, cheat</line>
+          <line>Nor charm my knowledge from me; nor dures</line>
+          <line>Of menace dire, fear of more grievous pains,</line>
+          <line>Unseal my lips, till he have loosed these chains,</line>
+          <line>And granted for these injuries redress.</line>
+          <line>CHORUS</line>
+          <line>High is the heart of thee,</line>
+          <line>Thy will no whit by bitter woes unstrung,</line>
+          <line>And all too free</line>
+          <line>The licence of thy bold, unshackled tongue.</line>
+          <line>But fear hath roused my soul with piercing cry!</line>
+          <line>And for thy fate my heart misgives me! I</line>
+          <line>Tremble to know when through the breakers' roar</line>
+          <line>Thy keel shall touch again the friendly shore;</line>
+          <line>For not by prayer to Zeus is access won;</line>
+          <line>An unpersuadable heart hath Cronos' son.</line>
+          <line>PROMETHEUS</line>
+          <line>I know the heart of Zeus is hard, that he hath</line>
+          <line>tied</line>
+          <line>Justice to his side;</line>
+          <line>But he shall be full gentle thus assuaged;</line>
+          <line>And, the implacable wrath wherewith he raged</line>
+          <line>Smoothed quite away, nor he nor I</line>
+          <line>Be loth to seal a bond of peace and amity.</line>
+          <line>CHORUS</line>
+          <line>All that thou hast to tell I pray unfold,</line>
+          <line>That we may hear at large upon what count</line>
+          <line>Zeus took thee and with bitter wrong affronts:</line>
+          <line>Instruct us, if the telling hurt thee not.</line>
+          <line>PROMETHEUS</line>
+          <line>These things are sorrowful for me to speak,</line>
+          <line>Yet silence too is sorrow: all ways woe!</line>
+          <line>When first the Blessed Ones were filled with wrath</line>
+          <line>And there arose division in their midst,</line>
+          <line>These instant to hurl Cronos from his throne</line>
+          <line>That Zeus might be their king, and these, adverse,</line>
+          <line>Contending that he ne'er should rule the Gods,</line>
+          <line>Then I, wise counsel urging to persuade</line>
+          <line>The Titans, sons of Ouranos and Chthon,</line>
+          <line>Prevailed not: but, all indirect essays</line>
+          <line>Despising, they by the strong hand, effortless,</line>
+          <line>Yet by main force-supposed that they might seize</line>
+          <line>Supremacy. But me my mother Themis</line>
+          <line>And Gaia, one form called by many names,</line>
+          <line>Not once alone with voice oracular</line>
+          <line>Had prophesied how power should be disposed-</line>
+          <line>That not by strength neither by violence</line>
+          <line>The mighty should be mastered, but by guile.</line>
+          <line>Which things by me set forth at large, they scorned,</line>
+          <line>Nor graced my motion with the least regard.</line>
+          <line>Then, of all ways that offered, I judged best,</line>
+          <line>Taking my mother with me, to support,</line>
+          <line>No backward friend, the not less cordial Zeus.</line>
+          <line>And by my politic counsel Tartarus,</line>
+          <line>The bottomless and black, old Cronos hides</line>
+          <line>With his confederates. So helped by me,</line>
+          <line>The tyrant of the Gods, such service rendered</line>
+          <line>With ignominious chastisement requites.</line>
+          <line>But 'tis a common malady of power</line>
+          <line>Tyrannical never to trust a friend.</line>
+          <line>And now, what ye inquired, for what arraigned</line>
+          <line>He shamefully entreats me, ye shall know.</line>
+          <line>When first upon his high, paternal throne</line>
+          <line>He took his seat, forthwith to divers Gods</line>
+          <line>Divers good gifts he gave, and parcelled out</line>
+          <line>His empire, but of miserable men</line>
+          <line>Recked not at all; rather it was his wish</line>
+          <line>To wipe out man and rear another race:</line>
+          <line>And these designs none contravened but me.</line>
+          <line>I risked the bord attempt, and saved mankind</line>
+          <line>From stark destruction and the road to hell.</line>
+          <line>Therefore with this sore penance am I bowed,</line>
+          <line>Grievous to suffer, pitiful to see.</line>
+          <line>But, for compassion shown to man, such fate</line>
+          <line>I no wise earned; rather in wrath's despite</line>
+          <line>Am I to be reformed, and made a show</line>
+          <line>Of infamy to Zeus.</line>
+          <line>CHORUS</line>
+          <line>He hath a heart</line>
+          <line>Of iron, hewn out of unfeeling rock</line>
+          <line>Is he, Prometheus, whom thy sufferings</line>
+          <line>Rouse not to wrath. Would I had ne'er beheld them,</line>
+          <line>For verily the sight hath wrung my heart.</line>
+          <line>PROMETHEUS</line>
+          <line>Yea, to my friends a woeful sight am I.</line>
+          <line>CHORUS</line>
+          <line>Hast not more boldly in aught else transgressed?</line>
+          <line>PROMETHEUS</line>
+          <line>I took from man expectancy of death.</line>
+          <line>CHORUS</line>
+          <line>What medicine found'st thou for this malady?</line>
+          <line>PROMETHEUS</line>
+          <line>I planted blind hope in the heart of him.</line>
+          <line>CHORUS</line>
+          <line>A mighty boon thou gavest there to man.</line>
+          <line>PROMETHEUS</line>
+          <line>Moreover, I conferred the gift of fire.</line>
+          <line>CHORUS</line>
+          <line>And have frail mortals now the flame-bright fire?</line>
+          <line>PROMETHEUS</line>
+          <line>Yea, and shall master many arts thereby.</line>
+          <line>CHORUS</line>
+          <line>And Zeus with such misfeasance charging thee-</line>
+          <line>PROMETHEUS</line>
+          <line>Torments me with extremity of woe.</line>
+          <line>CHORUS</line>
+          <line>And is no end in prospect of thy pains?</line>
+          <line>PROMETHEUS</line>
+          <line>None; save when he shall choose to make an end.</line>
+          <line>CHORUS</line>
+          <line>How should he choose? What hope is thine? Dost</line>
+          <line>thou</line>
+          <line>Not see that thou hast erred? But how thou erredst</line>
+          <line>Small pleasure were to me to tell; to the</line>
+          <line>Exceeding sorrow. Let it go then: rather</line>
+          <line>Seek thou for some deliverance from thy woes.</line>
+          <line>PROMETHEUS</line>
+          <line>He who stands free with an untrammelled</line>
+          <line>foot</line>
+          <line>Is quick to counsel and exhort a friend</line>
+          <line>In trouble. But all these things I know well.</line>
+          <line>Of my free will, my own free will, I erred,</line>
+          <line>And freely do I here acknowledge it.</line>
+          <line>Freeing mankind myself have durance found.</line>
+          <line>Natheless, I looked not for sentence so dread,</line>
+          <line>High on this precipice to droop and pine,</line>
+          <line>Having no neighbour but the desolate crags.</line>
+          <line>And now lament no more the ills I suffer,</line>
+          <line>But come to earth and an attentive ear</line>
+          <line>Lend to the things that shall befall hereafter.</line>
+          <line>Harken, oh harken, suffer as I suffer!</line>
+          <line>Who knows, who knows, but on some scatheless head,</line>
+          <line>Another's yet for the like woes reserved,</line>
+          <line>The wandering doom will presently alight?</line>
+          <line>CHORUS</line>
+          <line>Prometheus, we have heard thy call:</line>
+          <line>Not on deaf ears these awful accents fall.</line>
+          <line>Lo! lightly leaving at thy words</line>
+          <line>My flying car</line>
+          <line>And holy air, the pathway of great birds,</line>
+          <line>I long to tread this land of peak and scar,</line>
+          <line>And certify myself by tidings sure</line>
+          <line>Of all thou hast endured and must endure.</line>
+          <line>While the winged chariot of the OCEANIDES comes to ground their father</line>
+          <line>OCEANUS enters, riding on a monster.</line>
+          <line>OCEANUS</line>
+          <line>Now have I traversed the unending plain</line>
+          <line>And unto thee, Prometheus, am I come,</line>
+          <line>Guiding this winghd monster with no rein,</line>
+          <line>Nor any bit, but mind's firm masterdom.</line>
+          <line>And know that for thy grief my heart is sore;</line>
+          <line>The bond of kind, methinks, constraineth me;</line>
+          <line>Nor is there any I would honour more,</line>
+          <line>Apart from kinship, than I reverence thee.</line>
+          <line>And thou shalt learn that I speak verity:</line>
+          <line>Mine is no smooth, false tongue; for do but show</line>
+          <line>How I can serve thee, grieved and outraged thus,</line>
+          <line>Thou ne'er shalt say thou hast, come weal, come</line>
+          <line>woe,</line>
+          <line>A friend more faithful than Oceanus.</line>
+          <line>PROMETHEUS</line>
+          <line>How now? Who greets me? What! Art thou too</line>
+          <line>come</line>
+          <line>To gaze upon my woes? How could'st thou leave</line>
+          <line>The stream that bears thy name, thine antres arched</line>
+          <line>With native rock, to visit earth that breeds</line>
+          <line>The massy iron in her womb? Com'st thou</line>
+          <line>To be spectator of my evil lot</line>
+          <line>And fellow sympathizer with my woes?</line>
+          <line>Behold, a thing indeed to gaze upon</line>
+          <line>The friend of Zeus, co-stablisher of his rule,</line>
+          <line>See, by this sentence with what pains I am bowed I</line>
+          <line>OCEANUS</line>
+          <line>Prometheus, all too plainly I behold:</line>
+          <line>And for the best would counsel thee: albeit</line>
+          <line>Thy brain is subtle. Learn to know thy heart,</line>
+          <line>And, as the times, so let thy manners change,</line>
+          <line>For by the law of change a new God rules.</line>
+          <line>But, if these bitter, savage, sharp-set words</line>
+          <line>Thou ventest, it may be, though he sit throned</line>
+          <line>Far off and high above thee, Zeus will hear;</line>
+          <line>And then thy present multitude of ills</line>
+          <line>Will seem the mild correction of a babe.</line>
+          <line>Rather, O thou much chastened one, refrain</line>
+          <line>Thine anger, and from suffering seek release.</line>
+          <line>Stale, peradventure, seem these words of mine:</line>
+          <line>Nevertheless, of a too haughty tongue</line>
+          <line>Such punishment, Prometheus, is the wage.</line>
+          <line>But thou, not yet brought low by suffering,</line>
+          <line>To what thou hast of ill would'st add far worse.</line>
+          <line>Therefore, while thou hast me for schoolmaster,</line>
+          <line>Thou shalt not kick against the pricks; the more</line>
+          <line>That an arch-despot who no audit dreads</line>
+          <line>Rules by his own rough will. And now I leave thee,</line>
+          <line>To strive with what success I may command</line>
+          <line>For thy deliv'rance. Keep a quiet mind</line>
+          <line>And use not over-vehemence of speech-</line>
+          <line>Knowest thou not, being exceeding wise,</line>
+          <line>A wanton, idle tongue brings chastisement?</line>
+          <line>PROMETHEUS</line>
+          <line>I marvel that thou art not in my case,</line>
+          <line>Seeing with me thou did'st adventure all.</line>
+          <line>And now, I do entreat thee, spare thyself.</line>
+          <line>Thou wilt not move him: he's not easy moved</line>
+          <line>Take heed lest thou find trouble by the way.</line>
+          <line>OCEANUS</line>
+          <line>Thou are a better counsellor to others</line>
+          <line>Than to thyself: I judge by deeds not words.</line>
+          <line>Pluck me not back when I would fain set forth.</line>
+          <line>My oath upon it, Zeus will grant my prayer</line>
+          <line>And free thee from these pangs.</line>
+          <line>PROMETHEUS</line>
+          <line>I tender the</line>
+          <line>For this my thanks and ever-during praise.</line>
+          <line>Certes, no backward friend art thou; and yet</line>
+          <line>Trouble not thyself; for at the best thy labour</line>
+          <line>Will nothing serve me, if thou mean'st to serve.</line>
+          <line>Being thyself untrammelled stand fast.</line>
+          <line>For, not to mitigate my own mischance,</line>
+          <line>Would I see others hap on evil days.</line>
+          <line>The thought be far from me. I feel the weight</line>
+          <line>Of Atlas' woes, my brother in the west</line>
+          <line>Shouldering the pillar that props heaven and earth,</line>
+          <line>No wieldy fardel for his arms to fold.</line>
+          <line>The giant dweller in Cilician dens</line>
+          <line>I saw and pitied-a terrific shape,</line>
+          <line>A hundred-headed monster-when he fell,</line>
+          <line>Resistless Typhon who withstood the Gods,</line>
+          <line>With fearsome hiss of beak-mouth horrible,</line>
+          <line>While lightning from his eyes with Gorgon-glare</line>
+          <line>Flashed for the ravage of the realm of Zeus.</line>
+          <line>But on him came the bolt that never sleeps,</line>
+          <line>Down-crashing thunder, with emitted fire,</line>
+          <line>Which shattered him and all his towering hopes</line>
+          <line>Dashed into ruin; smitten through the breast,</line>
+          <line>His strength as smoking cinder, lightning-charred.</line>
+          <line>And now a heap, a helpless, sprawling hulk,</line>
+          <line>He lies stretched out beside the narrow seas,</line>
+          <line>Pounded and crushed deep under Etna's roots.</line>
+          <line>But on the mountain-top Hephaestus sits</line>
+          <line>Forging the molten iron, whence shall burst</line>
+          <line>Rivers of fire, with red and ravening jaws</line>
+          <line>To waste fair-fruited, smooth, Sicilian fields.</line>
+          <line>Such bilious up-boiling of his ire</line>
+          <line>Shall Typho vent, with slingstone-showers red-hot,</line>
+          <line>And unapproachable surge of fiery spray,</line>
+          <line>Although combusted by the bolt of Zeus.</line>
+          <line>But thou art not unlearned, nor needest me</line>
+          <line>To be thy teacher: save thyself the way</line>
+          <line>Thou knowest and I will fortify my heart</line>
+          <line>Until the wrathfulness of Zeus abate.</line>
+          <line>OCEANUS</line>
+          <line>Nay then, Prometheus, art thou ignorant</line>
+          <line>Words are physicians to a wrath-sick soul?</line>
+          <line>PROMETHEUS</line>
+          <line>Yes, if with skill one soften the ripe core,</line>
+          <line>Not by rough measures make it obdurate.</line>
+          <line>OCEANUS</line>
+          <line>Seest thou in warm affection detriment</line>
+          <line>Or aught untoward in adventuring?</line>
+          <line>PROMETHEUS</line>
+          <line>A load of toil and a light mind withal.</line>
+          <line>OCEANUS</line>
+          <line>Then give me leave to call that sickness</line>
+          <line>mine.</line>
+          <line>Wise men accounted fools attain their ends.</line>
+          <line>PROMETHEUS</line>
+          <line>But how if I am galled by thine offence?</line>
+          <line>OCEANUS</line>
+          <line>There very palpably thou thrustest home.</line>
+          <line>PROMETHEUS</line>
+          <line>Beware lest thou through pity come to broils.</line>
+          <line>OCEANUS</line>
+          <line>With one established in Omnipotence?</line>
+          <line>PROMETHEUS</line>
+          <line>Of him take heed lest thou find heaviness.</line>
+          <line>OCEANUS</line>
+          <line>I am schooled by thy calamity, Prometheus!</line>
+          <line>PROMETHEUS</line>
+          <line>Pack then! And, prithee, do not change thy mind!</line>
+          <line>OCEANUS</line>
+          <line>Thou criest "On" to one in haste to go.</line>
+          <line>For look, my dragon with impatient wings</line>
+          <line>Flaps at the broad, smooth road of level air.</line>
+          <line>Fain would he kneel him down in his own stall.</line>
+          <line>Exit OCEANUS.</line>
+          <line>CHORUS</line>
+          <line>after alighting</line>
+          <line>I mourn for thee, Prometheus, minished and brought low,</line>
+          <line>Watering my virgin cheeks with these sad drops, that</line>
+          <line>flow</line>
+          <line>From sorrow's rainy fount, to fill soft-lidded eyes</line>
+          <line>With pure libations for thy fortune's obsequies.</line>
+          <line>An evil portion that none coveteth hath Zeus</line>
+          <line>Prepared for thee; by self-made laws established for his</line>
+          <line>use</line>
+          <line>Disposing all, the elder Gods he purposeth to show</line>
+          <line>How strong is that right arm wherewith he smites a</line>
+          <line>foe.</line>
+          <line>There hath gone up a cry from earth, a groaning for the</line>
+          <line>fall</line>
+          <line>Of things of old renown and shapes majestical,</line>
+          <line>And for thy passing an exceeding bitter groan;</line>
+          <line>For thee and for thy brother Gods whose honour was thine</line>
+          <line>own:</line>
+          <line>These things all they who dwell in Asia's holy seat,</line>
+          <line>Time's minions, mourn and with their groans thy groans</line>
+          <line>repeat.</line>
+          <line>Yea, and they mourn who dwell beside the Colchian</line>
+          <line>shore,</line>
+          <line>The hero maids unwedded that delight in war,</line>
+          <line>And Scythia's swarming myriads who their dwelling</line>
+          <line>make</line>
+          <line>Around the borders of the world, the salt Maeotian</line>
+          <line>lake.</line>
+          <line>Mourns Ares' stock, that flowers in desert Araby,</line>
+          <line>And the strong city mourns, the hill-fort planted</line>
+          <line>high,</line>
+          <line>Near neighbour to huge Caucasus, dread mountaineers</line>
+          <line>That love the clash of arms, the counter of sharp</line>
+          <line>spears.</line>
+          <line>Beforetime of all Gods one have I seen in pain,</line>
+          <line>One only Titan bound with adamantine chain,</line>
+          <line>Atlas in strength supreme, who groaning stoops,</line>
+          <line>downbent</line>
+          <line>Under the burthen of the earth and heaven's broad</line>
+          <line>firmament.</line>
+          <line>Bellows the main of waters, surge with foam-seethed</line>
+          <line>surge</line>
+          <line>Clashing tumultuous; for thee the deep seas chant their</line>
+          <line>dirge;</line>
+          <line>And Hell's dark under-world a hollow moaning fills;</line>
+          <line>Thee mourn the sacred streams with all their fountain-rills.</line>
+          <line>PROMETHEUS</line>
+          <line>Think not that I for pride and stubbornness</line>
+          <line>Am silent: rather is my heart the prey</line>
+          <line>Of gnawing thoughts, both for the past, and now</line>
+          <line>Seeing myself by vengeance buffeted.</line>
+          <line>For to these younger Gods their precedence</line>
+          <line>Who severally determined if not I?</line>
+          <line>No more of that: I should but weary you</line>
+          <line>With things ye know; but listen to the tale</line>
+          <line>Of human sufferings, and how at first</line>
+          <line>Senseless as beasts I gave men sense, possessed</line>
+          <line>them</line>
+          <line>Of mind. I speak not in contempt of man;</line>
+          <line>I do but tell of good gifts I conferred.</line>
+          <line>In the beginning, seeing they saw amiss,</line>
+          <line>And hearing heard not, but, like phantoms huddled</line>
+          <line>In dreams, the perplexed story of their days</line>
+          <line>Confounded; knowing neither timber-work</line>
+          <line>Nor brick-built dwellings basking in the light,</line>
+          <line>But dug for themselves holes, wherein like ants,</line>
+          <line>That hardly may contend against a breath,</line>
+          <line>They dwelt in burrows of their unsunned caves.</line>
+          <line>Neither of winter's cold had they fixed sign,</line>
+          <line>Nor of the spring when she comes decked with flowers,</line>
+          <line>Nor yet of summer's heat with melting fruits</line>
+          <line>Sure token: but utterly without knowledge</line>
+          <line>Moiled, until I the rising of the stars</line>
+          <line>Showed them, and when they set, though much obscure.</line>
+          <line>Moreover, number, the most excellent</line>
+          <line>Of all inventions, I for them devised,</line>
+          <line>And gave them writing that retaineth all,</line>
+          <line>The serviceable mother of the Muse.</line>
+          <line>I was the first that yoked unmanaged beasts,</line>
+          <line>To serve as slaves with collar and with pack,</line>
+          <line>And take upon themselves, to man's relief,</line>
+          <line>The heaviest labour of his hands: and</line>
+          <line>Tamed to the rein and drove in wheeled cars</line>
+          <line>The horse, of sumptuous pride the ornament.</line>
+          <line>And those sea-wanderers with the wings of cloth,</line>
+          <line>The shipman's waggons, none but I contrived.</line>
+          <line>These manifold inventions for mankind</line>
+          <line>I perfected, who, out upon't, have none-</line>
+          <line>No, not one shift-to rid me of this shame.</line>
+          <line>CHORUS</line>
+          <line>Thy sufferings have been shameful, and thy</line>
+          <line>mind</line>
+          <line>Strays at a loss: like to a bad physician</line>
+          <line>Fallen sick, thou'rt out of heart: nor cans't prescribe</line>
+          <line>For thine own case the draught to make thee sound.</line>
+          <line>PROMETHEUS</line>
+          <line>But hear the sequel and the more admire</line>
+          <line>What arts, what aids I cleverly evolved.</line>
+          <line>The chiefest that, if any man fell sick,</line>
+          <line>There was no help for him, comestible,</line>
+          <line>Lotion or potion; but for lack of drugs</line>
+          <line>They dwindled quite away; until I taught them</line>
+          <line>To compound draughts and mixtures sanative,</line>
+          <line>Wherewith they now are armed against disease.</line>
+          <line>I staked the winding path of divination</line>
+          <line>And was the first distinguisher of dreams,</line>
+          <line>The true from false; and voices ominous</line>
+          <line>Of meaning dark interpreted; and tokens</line>
+          <line>Seen when men take the road; and augury</line>
+          <line>By flight of all the greater crook-clawed birds</line>
+          <line>With nice discrimination I defined;</line>
+          <line>These by their nature fair and favourable,</line>
+          <line>Those, flattered with fair name. And of each sort</line>
+          <line>The habits I described; their mutual feuds</line>
+          <line>And friendships and the assemblages they hold.</line>
+          <line>And of the plumpness of the inward parts</line>
+          <line>What colour is acceptable to the Gods,</line>
+          <line>The well-streaked liver-lobe and gall-bladder.</line>
+          <line>Also by roasting limbs well wrapped in fat</line>
+          <line>And the long chine, I led men on the road</line>
+          <line>Of dark and riddling knowledge; and I purged</line>
+          <line>The glancing eye of fire, dim before,</line>
+          <line>And made its meaning plain. These are my works.</line>
+          <line>Then, things beneath the earth, aids hid from man,</line>
+          <line>Brass, iron, silver, gold, who dares to say</line>
+          <line>He was before me in discovering?</line>
+          <line>None, I wot well, unless he loves to babble.</line>
+          <line>And in a single word to sum the whole-</line>
+          <line>All manner of arts men from Prometheus learned.</line>
+          <line>CHORUS</line>
+          <line>Shoot not beyond the mark in succouring</line>
+          <line>man</line>
+          <line>While thou thyself art comfortless: for</line>
+          <line>Am of good hope that from these bonds escaped</line>
+          <line>Thou shalt one day be mightier than Zeus.</line>
+          <line>PROMETHEUS</line>
+          <line>Fate, that brinks all things to an end, not</line>
+          <line>thus</line>
+          <line>Apportioneth my lot: ten thousand pangs</line>
+          <line>Must bow, ten thousand miseries afflict me</line>
+          <line>Ere from these bonds I freedom find, for Art</line>
+          <line>Is by much weaker than Necessity.</line>
+          <line>CHORUS</line>
+          <line>Who is the pilot of Necessity?</line>
+          <line>PROMETHEUS</line>
+          <line>The Fates triform, and the unforgetting Furies.</line>
+          <line>CHORUS</line>
+          <line>So then Zeus is of lesser might than these?</line>
+          <line>PROMETHEUS</line>
+          <line>Surely he shall not shun the lot apportioned.</line>
+          <line>CHORUS</line>
+          <line>What lot for Zeus save world-without-end reign?</line>
+          <line>PROMETHEUS</line>
+          <line>Tax me no further with importunate questions.</line>
+          <line>CHORUS</line>
+          <line>O deep the mystery thou shroudest there</line>
+          <line>PROMETHEUS</line>
+          <line>Of aught but this freely thou may'st discourse;</line>
+          <line>But touching this I charge thee speak no word;</line>
+          <line>Nay, veil it utterly: for strictly kept</line>
+          <line>The secret from these bonds shall set me free.</line>
+          <line>CHORUS</line>
+          <line>May Zeus who all things swayeth</line>
+          <line>Ne'er wreak the might none stayeth</line>
+          <line>On wayward will of mine;</line>
+          <line>May I stint not nor waver</line>
+          <line>With offerings of sweet savour</line>
+          <line>And feasts of slaughtered kine;</line>
+          <line>The holy to the holy,</line>
+          <line>With frequent feet and lowly</line>
+          <line>At altar, fane and shrine,</line>
+          <line>Over the Ocean marches,</line>
+          <line>The deep that no drought parches,</line>
+          <line>Draw near to the divine.</line>
+          <line>My tongue the Gods estrange not;</line>
+          <line>My firm set purpose change not,</line>
+          <line>As wax melts in fire-shine.</line>
+          <line>Sweet is the life that lengthens,</line>
+          <line>While joyous hope still strengthens,</line>
+          <line>And glad, bright thoughts sustain;</line>
+          <line>But shuddering I behold thee,</line>
+          <line>The sorrows that enfold thee</line>
+          <line>And all thine endless pain.</line>
+          <line>For Zeus thou hast despised;</line>
+          <line>Thy fearless heart misprized</line>
+          <line>All that his vengeance can,</line>
+          <line>Thy wayward will obeying,</line>
+          <line>Excess of honour paying,</line>
+          <line>Prometheus, unto man.</line>
+          <line>And, oh, beloved, for this graceless grace</line>
+          <line>What thanks? What prowess for thy bold essay</line>
+          <line>Shall champion thee from men of mortal race,</line>
+          <line>The petty insects of a passing day?</line>
+          <line>Saw'st not how puny is the strength they spend?</line>
+          <line>With few, faint steps walking as dreams and blind,</line>
+          <line>Nor can the utmost of their lore transcend</line>
+          <line>The harmony of the Eternal Mind.</line>
+          <line>These things I learned seeing thy glory dimmed,</line>
+          <line>Prometheus. Ah, not thus on me was shed</line>
+          <line>The rapture of sweet music, when I hymned</line>
+          <line>The marriage-song round bath and bridal bed</line>
+          <line>At thine espousals, and of thy blood-kin,</line>
+          <line>A bride thou chosest, wooing her to thee</line>
+          <line>With all good gifts that may a Goddess win,</line>
+          <line>Thy father's child, divine Hesione.</line>
+          <line>Enter IO, crazed and horned.</line>
+          <line>IO</line>
+          <line>What land is this? What people here abide?</line>
+          <line>And who is he,</line>
+          <line>The prisoner of this windswept mountain-side?</line>
+          <line>Speak, speak to me;</line>
+          <line>Tell me, poor caitiff, how did'st thou transgress,</line>
+          <line>Thus buffeted?</line>
+          <line>Whither am I, half-dead with weariness,</line>
+          <line>For-wandered?</line>
+          <line>Ha! Ha!</line>
+          <line>Again the prick, the stab of gadfly-sting!</line>
+          <line>O earth, earth, hide,</line>
+          <line>The hollow shape-Argus-that evil thing-</line>
+          <line>The hundred-eyed-</line>
+          <line>Earth-born-herdsman! I see him yet; he stalks</line>
+          <line>With stealthy pace</line>
+          <line>And crafty watch not all my poor wit baulks!</line>
+          <line>From the deep place</line>
+          <line>Of earth that hath his bones he breaketh bound,</line>
+          <line>And from the pale</line>
+          <line>Of Death, the Underworld, a hell-sent hound</line>
+          <line>On the blood-trail,</line>
+          <line>Fasting and faint he drives me on before,</line>
+          <line>With spectral hand,</line>
+          <line>Along the windings of the wasteful shore,</line>
+          <line>The salt sea-sand!</line>
+          <line>List! List! the pipe! how drowzily it shrills!</line>
+          <line>A cricket-cry!</line>
+          <line>See! See! the wax-webbed reeds! Oh, to these ills</line>
+          <line>Ye Gods on high,</line>
+          <line>Ye blessed Gods, what bourne? O wandering feet</line>
+          <line>When will ye rest?</line>
+          <line>O Cronian child, wherein by aught unmeet</line>
+          <line>Have I transgressed</line>
+          <line>To be yoke-fellow with Calamity?</line>
+          <line>My mind unstrung,</line>
+          <line>A crack-brained lack-wit, frantic mad am I,</line>
+          <line>By gad-fly stung,</line>
+          <line>Thy scourge, that tarres me on with buzzing wingl</line>
+          <line>Plunge me in fire,</line>
+          <line>Hide me in earth, to deep-sea monsters fling,</line>
+          <line>But my desire-</line>
+          <line>Kneeling I pray-grudge not to grant, O King!</line>
+          <line>Too long a race</line>
+          <line>Stripped for the course have I run to and fro;</line>
+          <line>And still I chase</line>
+          <line>The vanishing goal, the end of all my woe;</line>
+          <line>Enough have I mourned!</line>
+          <line>Hear'st thou the lowing of the maid cow-horned?</line>
+          <line>PROMETHEUS</line>
+          <line>How should I hear thee not? Thou art the</line>
+          <line>child</line>
+          <line>Of Inachus, dazed with the dizzying fly.</line>
+          <line>The heart of Zeus thou hast made hot with love</line>
+          <line>And Hera's curse even as a runner stripped</line>
+          <line>Pursues thee ever on thine endless round.</line>
+          <line>IO</line>
+          <line>How dost thou know my father's name? Impart</line>
+          <line>To one like thee</line>
+          <line>A poor, distressful creature, who thou art.</line>
+          <line>Sorrow with me,</line>
+          <line>Sorrowful one! Tell me, whose voice proclaims</line>
+          <line>Things true and sad,</line>
+          <line>Naming by all their old, unhappy names,</line>
+          <line>What drove me mad-</line>
+          <line>Sick! Sick! ye Gods, with suffering ye have sent,</line>
+          <line>That clings and clings;</line>
+          <line>Wasting my lamp of life till it be spent!</line>
+          <line>Crazed with your stings!</line>
+          <line>Famished I come with trampling and with leaping,</line>
+          <line>Torment and shame,</line>
+          <line>To Hera's cruel wrath, her craft unsleeping,</line>
+          <line>Captive and tame</line>
+          <line>Of all wights woe-begone and fortune-crossed,</line>
+          <line>Oh, in the storm</line>
+          <line>Of the world's sorrow is there one so lost?</line>
+          <line>Speak, godlike form,</line>
+          <line>And be in this dark world my oracle I</line>
+          <line>Can'st thou not sift</line>
+          <line>The things to come? Hast thou no art to tell</line>
+          <line>What subtle shift,</line>
+          <line>Or sound of charming song shall make me well?</line>
+          <line>Hide naught of ill</line>
+          <line>But-if indeed thou knowest-prophesy-</line>
+          <line>In words that thrill</line>
+          <line>Clear-toned through air-what such a wretch as</line>
+          <line>Must yet abide-</line>
+          <line>The lost, lost maid that roams earth's kingdoms wide?</line>
+          <line>PROMETHEUS</line>
+          <line>What thou wouldst learn I will make clear to</line>
+          <line>thee,</line>
+          <line>Not weaving subtleties, but simple sooth</line>
+          <line>Unfolding as the mouth should speak to friends.</line>
+          <line>I am Prometheus, giver of fire to mortals.</line>
+          <line>IO</line>
+          <line>Oh universal succour of mankind,</line>
+          <line>Sorrowful Prometheus, why art thou punished thus?</line>
+          <line>PROMETHEUS</line>
+          <line>I have but now ceased mourning for my griefs.</line>
+          <line>IO</line>
+          <line>Wilt thou not grant me then so small a boon?</line>
+          <line>PROMETHEUS</line>
+          <line>What is it thou dost ask? Thou shalt know all.</line>
+          <line>IO</line>
+          <line>Declare to me who chained thee in this gorge.</line>
+          <line>PROMETHEUS</line>
+          <line>The hest of Zeus, but 'twas Hephaestus' hand.</line>
+          <line>IO</line>
+          <line>But what transgression dost thou expiate?</line>
+          <line>PROMETHEUS</line>
+          <line>Let this suffice thee: thou shalt know no more.</line>
+          <line>IO</line>
+          <line>Nay, but the end of my long wandering</line>
+          <line>When shall it be? This too thou must declare.</line>
+          <line>PROMETHEUS</line>
+          <line>That it is better for thee not to know.</line>
+          <line>IO</line>
+          <line>Oh hide not from me what I have to suffer!</line>
+          <line>PROMETHEUS</line>
+          <line>Poor child! Poor child! I do not grudge the gift.</line>
+          <line>IO</line>
+          <line>Why then, art thou so slow to tell me all?</line>
+          <line>PROMETHEUS</line>
+          <line>It is not from unkindness; but I fear</line>
+          <line>'Twill break thy heart.</line>
+          <line>IO</line>
+          <line>Take thou no thought for me</line>
+          <line>Where thinking thwarteth heart's desire!</line>
+          <line>PROMETHEUS</line>
+          <line>So keen</line>
+          <line>To know thy sorrows! List I and thou shalt learn.</line>
+          <line>CHORUS</line>
+          <line>Not till thou hast indulged a wish of mine.</line>
+          <line>First let us hear the story of her grief</line>
+          <line>And she herself shall tell the woeful tale.</line>
+          <line>After, thy wisdom shall impart to her</line>
+          <line>The conflict yet to come.</line>
+          <line>PROMETHEUS</line>
+          <line>So be it, then.</line>
+          <line>And, Io, thus much courtesy thou owest</line>
+          <line>These maidens being thine own father's kin.</line>
+          <line>For with a moving story of our woes</line>
+          <line>To win a tear from weeping auditors</line>
+          <line>In nought demeans the teller.</line>
+          <line>IO</line>
+          <line>I know not</line>
+          <line>How fitly to refuse; and at your wish</line>
+          <line>All ye desire to know I will in plain,</line>
+          <line>Round terms set forth. And yet the telling of it</line>
+          <line>Harrows my soul; this winter's tale of wrong,</line>
+          <line>Of angry Gods and brute deformity,</line>
+          <line>And how and why on me these horrors swooped.</line>
+          <line>Always there were dreams visiting by night</line>
+          <line>The woman's chambers where I slept; and they</line>
+          <line>With flattering words admonished and cajoled me,</line>
+          <line>Saying, "O lucky one, so long a maid?</line>
+          <line>And what a match for thee if thou would'st wed</line>
+          <line>Why, pretty, here is Zeus as hot as hot-</line>
+          <line>Love-sick-to have thee! Such a bolt as thou</line>
+          <line>Hast shot clean through his heart And he won't rest</line>
+          <line>Till Cypris help him win thee! Lift not then,</line>
+          <line>My daughter, a proud foot to spurn the bed</line>
+          <line>Of Zeus: but get thee gone to meadow deep</line>
+          <line>By Lerna's marsh, where are thy father's flocks</line>
+          <line>And cattle-folds, that on the eye of Zeus</line>
+          <line>May fall the balm that shall assuage desire."</line>
+          <line>Such dreams oppressed me, troubling all my nights,</line>
+          <line>Woe's me! till I plucked courage up to tell</line>
+          <line>My father of these fears that walked in darkness.</line>
+          <line>And many times to Pytho and Dodona</line>
+          <line>He sent his sacred missioners, to inquire</line>
+          <line>How, or by deed or word, he might conform</line>
+          <line>To the high will and pleasure of the Gods.</line>
+          <line>And they returned with slippery oracles,</line>
+          <line>Nought plain, but all to baffle and perplex-</line>
+          <line>And then at last to Inachus there raught</line>
+          <line>A saying that flashed clear; the drift, that</line>
+          <line>Must be put out from home and country, forced</line>
+          <line>To be a wanderer at the ends of the earth,</line>
+          <line>A thing devote and dedicate; and if</line>
+          <line>I would not, there should fall a thunderbolt</line>
+          <line>From Zeus, with blinding flash, and utterly</line>
+          <line>Destroy my race. So spake the oracle</line>
+          <line>Of Loxias. In sorrow he obeyed,</line>
+          <line>And from beneath his roof drove forth his child</line>
+          <line>Grieving as he grieved, and from house and home</line>
+          <line>Bolted and barred me out. But the high hand</line>
+          <line>Of Zeus bear hardly on the rein of fate.</line>
+          <line>And, instantly-even in a moment-mind</line>
+          <line>And body suffered strange distortion. Horned</line>
+          <line>Even as ye see me now, and with sharp bite</line>
+          <line>Of gadfly pricked, with high-flung skip, stark-mad,</line>
+          <line>I bounded, galloping headlong on, until</line>
+          <line>I came to the sweet and of the stream</line>
+          <line>Kerchneian, hard by Lerna's spring. And thither</line>
+          <line>Argus, the giant herdsman, fierce and fell</line>
+          <line>As a strong wine unmixed, with hateful cast</line>
+          <line>Of all his cunning eyes upon the trail,</line>
+          <line>Gave chase and tracked me down. And there he perished</line>
+          <line>By violent and sudden doom surprised.</line>
+          <line>But I with darting sting-the scorpion whip</line>
+          <line>Of angry Gods-am lashed from land to land.</line>
+          <line>Thou hast my story, and, if thou can'st tell</line>
+          <line>What I have still to suffer, speak; but do not,</line>
+          <line>Moved by compassion, with a lying tale</line>
+          <line>Warm my cold heart; no sickness of the soul</line>
+          <line>Is half so shameful as composed falsehoods.</line>
+          <line>CHORUS</line>
+          <line>Off! lost one! off! Horror, I cry!</line>
+          <line>Horror and misery</line>
+          <line>Was this the traveller's tale I craved to hear?</line>
+          <line>Oh, that mine eyes should see</line>
+          <line>A sight so ill to look upon! Ah me!</line>
+          <line>Sorrow, defilement, haunting fear,</line>
+          <line>Fan my blood cold,</line>
+          <line>Stabbed with a two-edged sting!</line>
+          <line>O Fate, Fate, Fate, tremblingly I behold</line>
+          <line>The plight of Io, thine apportioning!</line>
+          <line>PROMETHEUS</line>
+          <line>Thou dost lament too soon, and art as one</line>
+          <line>All fear. Refrain thyself till thou hast heard</line>
+          <line>What's yet to be.</line>
+          <line>CHORUS</line>
+          <line>Speak and be our instructor:</line>
+          <line>There is a kind of balm to the sick soul</line>
+          <line>In certain knowledge of the grief to come.</line>
+          <line>PROMETHEUS</line>
+          <line>Your former wish I lightly granted ye:</line>
+          <line>And ye have heard, even as ye desired,</line>
+          <line>From this maid's lips the story of her sorrow.</line>
+          <line>Now hear the sequel, the ensuing woes</line>
+          <line>The damsel must endure from Hera's hate.</line>
+          <line>And thou, O seed of Inachaean loins,</line>
+          <line>Weigh well my words, that thou may'st understand</line>
+          <line>Thy journey's end. First towards the rising sun</line>
+          <line>Turn hence, and traverse fields that ne'er felt</line>
+          <line>plough</line>
+          <line>Until thou reach the country of the Scyths,</line>
+          <line>A race of wanderers handling the long-bow</line>
+          <line>That shoots afar, and having their habitations</line>
+          <line>Under the open sky in wattled cotes</line>
+          <line>That move on wheels. Go not thou nigh to them,</line>
+          <line>But ever within sound of the breaking waver,</line>
+          <line>Pass through their land. And on the left of the</line>
+          <line>The Chalybes, workers in iron, dwell.</line>
+          <line>Beware of them, for they are savages,</line>
+          <line>Who suffer not a stranger to come near.</line>
+          <line>And thou shalt reach the river Hybristes,</line>
+          <line>Well named. Cross not, for it is ill to cross,</line>
+          <line>Until thou come even unto Caucasus,</line>
+          <line>Highest of mountains, where the foaming river</line>
+          <line>Blows all its volume from the summit ridge</line>
+          <line>That o'ertops all. And that star-neighboured ridge</line>
+          <line>Thy feet must climb; and, following the road</line>
+          <line>That runneth south, thou presently shall reach</line>
+          <line>The Amazonian hosts that loathe the male,</line>
+          <line>And shall one day remove from thence and found</line>
+          <line>Themiscyra hard by Thermodon's stream,</line>
+          <line>Where on the craggy Salmadessian coast</line>
+          <line>Waves gnash their teeth, the maw of mariners</line>
+          <line>And step-mother of ships. And they shall lead the</line>
+          <line>Upon thy way, and with a right good will.</line>
+          <line>Then shalt thou come to the Cimmerian Isthmus,</line>
+          <line>Even at the pass and portals of the sea,</line>
+          <line>And leaving it behind thee, stout of heart,</line>
+          <line>Cross o'er the channel of Maeotis' lake.</line>
+          <line>For ever famous among men shall be</line>
+          <line>The story of thy crossing, and the strait</line>
+          <line>Be called by a new name, the Bosporus,</line>
+          <line>In memory of thee. Then having left</line>
+          <line>Europa's soil behind thee thou shalt come</line>
+          <line>To the main land of Asia. What think ye?</line>
+          <line>Is not the only ruler of the Gods</line>
+          <line>A complete tyrant, violent to all,</line>
+          <line>Respecting none? First, being himself a God,</line>
+          <line>He burneth to enjoy a mortal maid,</line>
+          <line>And then torments her with these wanderings.</line>
+          <line>A sorry suitor for thy love, poor girl,</line>
+          <line>A bitter wooing. Yet having heard so much</line>
+          <line>Thou art not even in the overture</line>
+          <line>And prelude of the song.</line>
+          <line>IO</line>
+          <line>Alas! Oh! Oh!</line>
+          <line>PROMETHEUS</line>
+          <line>Thou dost cryout, fetching again deep groans:</line>
+          <line>What wilt thou do when thou hast heard in full</line>
+          <line>The evils yet to come?</line>
+          <line>CHORUS</line>
+          <line>And wilt thou tell</line>
+          <line>The maiden something further: some fresh sorrow?</line>
+          <line>PROMETHEUS</line>
+          <line>A stormy sea of wrong and ruining.</line>
+          <line>IO</line>
+          <line>What does it profit me to live! Oh, why</line>
+          <line>Do I not throw myself from this rough crag</line>
+          <line>And in one leap rid me of all my pain?</line>
+          <line>Better to die at once than live, and all</line>
+          <line>My days be evil.</line>
+          <line>PROMETHEUS</line>
+          <line>Thou would'st find it hard</line>
+          <line>To bear what I must bear: for unto me</line>
+          <line>It is not given to die,-a dear release</line>
+          <line>From pain; but now of suffering there is</line>
+          <line>No end in sight till Zeus shall fall.</line>
+          <line>IO</line>
+          <line>And shall</line>
+          <line>Zeus fall? His power be taken from him?</line>
+          <line>No matter when if true-</line>
+          <line>PROMETHEUS</line>
+          <line>'Twould make thee happy</line>
+          <line>Methinks, if thou could'st see calamity</line>
+          <line>Whelm him.</line>
+          <line>IO</line>
+          <line>How should it not when all my woes</line>
+          <line>Are of his sending? learn how</line>
+          <line>These things shall be.</line>
+          <line>The tyrant's rod?</line>
+          <line>And fond imaginings.</line>
+          <line>IO</line>
+          <line>But how? Oh, speak,</line>
+          <line>If the declaring draw no evil down I</line>
+          <line>PROMETHEUS</line>
+          <line>A marriage he shall make shall vex him sore.</line>
+          <line>IO</line>
+          <line>A marriage? Whether of gods or mortals?</line>
+          <line>Speak!</line>
+          <line>If this be utterable!</line>
+          <line>PROMETHEUS</line>
+          <line>Why dost thou ask</line>
+          <line>What I may not declare?</line>
+          <line>IO</line>
+          <line>And shall he quit</line>
+          <line>The throne of all the worlds, by a new spouse</line>
+          <line>Supplanted?</line>
+          <line>PROMETHEUS</line>
+          <line>She will bear to him a child,</line>
+          <line>And he shall be in might more excellent</line>
+          <line>Than his progenitor.</line>
+          <line>IO</line>
+          <line>And he will find</line>
+          <line>No way to parry this strong stroke of fate?</line>
+          <line>PROMETHEUS</line>
+          <line>None save my own self-when these bonds are loosed.</line>
+          <line>IO</line>
+          <line>And who shall loose them if Zeus wills not?</line>
+          <line>Of thine own seed.</line>
+          <line>How say'st thou? Shall a child</line>
+          <line>Of mine release thee?</line>
+          <line>PROMETHEUS</line>
+          <line>Son of thine, but son</line>
+          <line>The thirteenth generation shall beget.</line>
+          <line>IO</line>
+          <line>A prophecy oracularly dark.</line>
+          <line>PROMETHEUS</line>
+          <line>Then seek not thou to know thine own fate.</line>
+          <line>IO</line>
+          <line>Nay,</line>
+          <line>Tender me not a boon to snatch it from me.</line>
+          <line>PROMETHEUS</line>
+          <line>Of two gifts thou hast asked one shall be thine.</line>
+          <line>IO</line>
+          <line>What gifts? Pronounce and leave to me the choice.</line>
+          <line>PROMETHEUS</line>
+          <line>Nay, thou are free to choose. Say, therefore,</line>
+          <line>whether</line>
+          <line>I shall declare to thee thy future woes</line>
+          <line>Or him who shall be my deliverer.</line>
+          <line>CHORUS</line>
+          <line>Nay, but let both be granted! Unto her</line>
+          <line>That which she chooseth, unto me my choice,</line>
+          <line>That I, too, may have honour from thy lips.</line>
+          <line>First unto her declare her wanderings,</line>
+          <line>And unto me him who shall set thee free;</line>
+          <line>'Tis that I long to know.</line>
+          <line>PROMETHEUS</line>
+          <line>I will resist</line>
+          <line>No further, but to your importunacy</line>
+          <line>All things which ye-desire to learn reveal.</line>
+          <line>And, Io, first to thee I will declare</line>
+          <line>Thy far-driven wanderings; write thou my words</line>
+          <line>In the retentive tablets of thy heart.</line>
+          <line>When thou hast crossed the flood that flows between</line>
+          <line>And is the boundary of two continents,</line>
+          <line>Turn to the sun's uprising, where he treads</line>
+          <line>Printing with fiery steps the eastern sky,</line>
+          <line>And from the roaring of the Pontic surge</line>
+          <line>Do thou pass on, until before thee lies</line>
+          <line>The Gorgonean plain, Kisthene called,</line>
+          <line>Where dwell the gray-haired three, the Phorcides,</line>
+          <line>Old, mumbling maids, swan-shaped, having one eye</line>
+          <line>Betwixt the three, and but a single tooth.</line>
+          <line>On them the sun with his brightbeams ne'er glanceth</line>
+          <line>Nor moon that lamps the night. Not far from them</line>
+          <line>The sisters three, the Gorgons, have their haunt;</line>
+          <line>Winged forms, with snaky locks, hateful to man,</line>
+          <line>Whom nothing mortal looking on can live.</line>
+          <line>Thus much that thou may'st have a care of these.</line>
+          <line>Now of another portent thou shalt hear.</line>
+          <line>Beware the dogs of Zeus that ne'er give tongue,</line>
+          <line>The sharp-beaked gryphons, and the one-eyed horde</line>
+          <line>Of Arimaspians, riding upon horses,</line>
+          <line>Who dwell around the river rolling gold,</line>
+          <line>The ferry and the frith of Pluto's port.</line>
+          <line>Go not thou nigh them. After thou shalt come</line>
+          <line>To a far land, a dark-skinned race, that dwell</line>
+          <line>Beside the fountains of the sun, whence flows</line>
+          <line>The river Ethiops: follow its banks</line>
+          <line>Until thou comest to the steep-down slope</line>
+          <line>Where from the Bibline mountains Nilus old</line>
+          <line>Pours the sweet waters of his holy stream.</line>
+          <line>And thou, the river guiding thee, shalt come</line>
+          <line>To the three-sided, wedge-shaped land of Nile,</line>
+          <line>Where for thyself, Io, and for thy children</line>
+          <line>Long sojourn is appointed. If in aught</line>
+          <line>My story seems to stammer and to er</line>
+          <line>From indirectness, ask and ask again</line>
+          <line>Till all be manifest. I do not lack</line>
+          <line>For leisure, having more than well contents me</line>
+          <line>CHORUS</line>
+          <line>If there be aught that she must suffer yet,</line>
+          <line>Or aught omitted in the narrative</line>
+          <line>Of her long wanderings, I pray thee speak.</line>
+          <line>But if thou hast told all, then grant the boon</line>
+          <line>We asked and doubtless thou wilt call to mind.</line>
+          <line>PROMETHEUS</line>
+          <line>Nay, she has heard the last of her long</line>
+          <line>journey.</line>
+          <line>But, as some warrant for her patient hearing</line>
+          <line>I will relate her former sufferings</line>
+          <line>Ere she came hither. Much I will omit</line>
+          <line>That had detained us else with long discourse</line>
+          <line>And touch at once her journey's thus far goal.</line>
+          <line>When thou wast come to the Molossian plain</line>
+          <line>That lies about the high top of Dodona,</line>
+          <line>Where is an oracle and shrine of Zeus</line>
+          <line>Thesprotian, and-portent past belief-</line>
+          <line>The talking oaks, the same from whom the word</line>
+          <line>Flashed clear and nothing questionably hailed the</line>
+          <line>The destined spouse-ah! do I touch old wounds?-</line>
+          <line>Of Zeus, honoured above thy sex; stung thence</line>
+          <line>In torment, where the road runs by the sea,</line>
+          <line>Thou cam'st to the broad gulf of Rhea, whence</line>
+          <line>Beat back by a strong wind, thou didst retrace</line>
+          <line>Most painfully thy course; and it shall be</line>
+          <line>That times to come in memory of thy passage</line>
+          <line>Shall call that inlet the Ionian Sea.</line>
+          <line>Thus much for thee in witness that my mind</line>
+          <line>Beholdeth more than that which leaps to light.</line>
+          <line>Now for the things to come; what I shall say</line>
+          <line>Concerns ye both alike. Return we then</line>
+          <line>And follow our old track. There is a city</line>
+          <line>Yclept Canobus, built at the land's end,</line>
+          <line>Even at the mouth and mounded silt of Nile,</line>
+          <line>And there shall Zeus restore to thee thy mind</line>
+          <line>With touch benign and laying on of hands.</line>
+          <line>And from that touch thou shalt conceive and bear</line>
+          <line>Swarth Epaphus, touch-born; and he shall reap</line>
+          <line>As much of earth as Nilus watereth</line>
+          <line>With his broad-flowing river. In descent</line>
+          <line>The fifth from him there shall come back to Argos,</line>
+          <line>Thine ancient home, but driven by hard hap,</line>
+          <line>Two score and ten maids, daughters of one house,</line>
+          <line>Fleeing pollution of unlawful marriage</line>
+          <line>With their next kin, who winged with wild desire,</line>
+          <line>As hawks that follow hard on cushat-doves,</line>
+          <line>Shall harry prey which they should not pursue</line>
+          <line>And hunt forbidden brides. But God shall be</line>
+          <line>Exceeding jealous for their chastity;</line>
+          <line>And old Pelasgia, for the mortal thrust</line>
+          <line>Of woman's hands and midnight murder done</line>
+          <line>Upon their new-wed lords, shall shelter them;</line>
+          <line>For every wife shall strike her husband down</line>
+          <line>Dipping a two-edged broadsword in his blood.</line>
+          <line>Oh, that mine enemies might wed such wivesl</line>
+          <line>But of the fifty, one alone desire</line>
+          <line>Shall tame, as with the stroke of charming-wand,</line>
+          <line>So that she shall not lift her hands to slay</line>
+          <line>The partner of her bed; yea, melting love</line>
+          <line>Shall blunt her sharp-set will, and she shall choose</line>
+          <line>Rather to be called weak and womanly</line>
+          <line>Than the dark stain of blood; and she shall be</line>
+          <line>Mother of kings in Argos. 'Tis a tale</line>
+          <line>Were't told in full, would occupy us long.</line>
+          <line>For, of her sowing, there shall spring to fame</line>
+          <line>The lion's whelp, the archer bold, whose bow</line>
+          <line>Shall set me free. This is the oracle</line>
+          <line>Themis, my ancient Mother, Titan-born,</line>
+          <line>Disclosed to me; but how and in what wise</line>
+          <line>Were long to tell, nor would it profit thee.</line>
+          <line>IO</line>
+          <line>Again they come, again</line>
+          <line>The fury and the pain!</line>
+          <line>The gangrened wound! The ache of pulses dinned</line>
+          <line>With raging throes</line>
+          <line>It beats upon my brain-the burning wind</line>
+          <line>That madness blows!</line>
+          <line>It pricks-the barb, the hook not forged with heat,</line>
+          <line>The gadfly dart!</line>
+          <line>Against my ribs with thud of trampling feet</line>
+          <line>Hammers my heart!</line>
+          <line>And like a bowling wheel mine eyeballs spin,</line>
+          <line>And I am flung</line>
+          <line>By fierce winds from my course, nor can rein in</line>
+          <line>My frantic tongue</line>
+          <line>That raves I know not what!-a random tide</line>
+          <line>Of words-a froth</line>
+          <line>Of muddied waters buffeting the wide,</line>
+          <line>High-crested, hateful wave of ruin and God's wrath!</line>
+          <line>Exit raving.</line>
+          <line>CHORUS</line>
+          <line>I hold him wise who first in his own mind</line>
+          <line>This canon fixed and taught it to mankind:</line>
+          <line>True marriage is the union that mates</line>
+          <line>Equal with equal; not where wealth emasculates,</line>
+          <line>Or mighty lineage is magnified,</line>
+          <line>Should he who earns his bread look for a bride.</line>
+          <line>Therefore, grave mistresses of fate, I pray</line>
+          <line>That I may never live to see the day</line>
+          <line>When Zeus takes me for his bedfellow; or</line>
+          <line>Draw near in love to husband from on high.</line>
+          <line>For I am full of fear when I behold</line>
+          <line>Io, the maid no human love may fold,</line>
+          <line>And her virginity disconsolate,</line>
+          <line>Homeless and husbandless by Hera's hate.</line>
+          <line>For me, when love is level, fear is far.</line>
+          <line>May none of all the Gods that greater are</line>
+          <line>Eve me with his unshunnable regard;</line>
+          <line>Fir in that warfare victory is hard,</line>
+          <line>And of that plenty cometh emptiness.</line>
+          <line>What should befall me then I dare not guess;</line>
+          <line>Nor whither I should flee that I might shun</line>
+          <line>The craft and subtlety of Cronos' Son.</line>
+          <line>PROMETHEUS</line>
+          <line>I tell thee that the self-willed pride of</line>
+          <line>Zeus</line>
+          <line>Shall surely be abased; that even now</line>
+          <line>He plots a marriage that shall hurl him forth</line>
+          <line>Far out of sight of his imperial throne</line>
+          <line>And kingly dignity. Then, in that hour,</line>
+          <line>Shall be fulfilled, nor in one tittle fail,</line>
+          <line>The curse wherewith his father Cronos cursed him,</line>
+          <line>What time he fell from his majestic place</line>
+          <line>Established from of old. And such a stroke</line>
+          <line>None of the Gods save me could turn aside.</line>
+          <line>I know these things shall be and on what wise.</line>
+          <line>Therefore let him secure him in his seat,</line>
+          <line>And put his trust in airy noise, and swing</line>
+          <line>His bright, two-handed, blazing thunderbolt,</line>
+          <line>For these shall nothing stead him, nor avert</line>
+          <line>Fall insupportable and glory humbled.</line>
+          <line>A wrestler of such might he maketh ready</line>
+          <line>For his own ruin; yea, a wonder, strong</line>
+          <line>In strength unmatchable; and he shall find</line>
+          <line>Fire that shall set at naught the burning bolt</line>
+          <line>And blasts more dreadful that o'er-crow the thunder.</line>
+          <line>The pestilence that scourgeth the deep seas</line>
+          <line>And shaketh solid earth, the three-pronged mace,</line>
+          <line>Poseidon's spear, a mightier shall scatter;</line>
+          <line>And when he stumbleth striking there his foot,</line>
+          <line>Fallen on evil days, the tyrant's pride</line>
+          <line>Shall measure all the miserable length</line>
+          <line>That parts rule absolute from servitude.</line>
+          <line>CHORUS</line>
+          <line>Methinks the wish is father to the thought</line>
+          <line>And whets thy railing tongue.</line>
+          <line>PROMETHEUS</line>
+          <line>Not so: the wish And the accomplishment go hand in hand.</line>
+          <line>CHORUS</line>
+          <line>Then must we look for one who shall supplant</line>
+          <line>And reign instead of Zeus?</line>
+          <line>Far, far more grievous shall bow down his neck.</line>
+          <line>CHORUS</line>
+          <line>Hast thou no fear venting such blasphemy?</line>
+          <line>PROMETHEUS</line>
+          <line>What should I fear who have no part nor</line>
+          <line>lot</line>
+          <line>In doom of dying?</line>
+          <line>CHORUS</line>
+          <line>But he might afflict the</line>
+          <line>With agony more dreadful, pain beyond</line>
+          <line>These pains.</line>
+          <line>PROMETHEUS</line>
+          <line>Why let him if he will</line>
+          <line>All evils I foreknow.</line>
+          <line>CHORUS</line>
+          <line>Ah, they are wise</line>
+          <line>Who do obeisance, prostrate in the dust,</line>
+          <line>To the implacable, eternal Will.</line>
+          <line>PROMETHEUS</line>
+          <line>Go thou and worship; fold thy hands in prayer,</line>
+          <line>And be the dog that licks the foot of power!</line>
+          <line>Nothing care I for Zeus; yea, less than naught!</line>
+          <line>Let him do what he will, and sway the world</line>
+          <line>His little hour; he has not long to lord it</line>
+          <line>Among the Gods.</line>
+          <line>Oh here here runner comes</line>
+          <line>The upstart tyrant's lacquey! He'll bring news,</line>
+          <line>A message, never doubt it, from his master.</line>
+          <line>Enter HERMES.</line>
+          <line>Hermes. You, the sophistical rogue, the heart of gall,</line>
+          <line>The renegade of heaven, to short-lived men</line>
+          <line>Purveyor of prerogatives and tities,</line>
+          <line>Fire-thief! Dost hear me? I've a word for thee.</line>
+          <line>Thou'rt to declare-this is the Father's pleasure</line>
+          <line>These marriage-feasts of thine, whereof thy tongue</line>
+          <line>Rattles a-pace, and by the which his greatness</line>
+          <line>Shall take a fall. And look you rede no riddles,</line>
+          <line>But tell the truth, in each particular</line>
+          <line>Exact. I am not to sweat for thee, Prometheus,</line>
+          <line>Upon a double journey. And thou seest</line>
+          <line>Zeus by thy dark defiance is not moved.</line>
+          <line>PROMETHEUS</line>
+          <line>A very solemn piece of insolence</line>
+          <line>Spoken like an underling of the Gods! Ye are young!</line>
+          <line>Ye are young! New come to power And ye suppose</line>
+          <line>Your towered citadel Calamity</line>
+          <line>Can never enter! Ah, and have not</line>
+          <line>Seen from those pinnacles a two-fold fall</line>
+          <line>Of tyrants? And the third, who his brief "now"</line>
+          <line>Of lordship arrogates, I shall see yet</line>
+          <line>By lapse most swift' most ignominious,</line>
+          <line>Sink to perdition. And dost thou suppose</line>
+          <line>I crouch and cower in reverence and awe</line>
+          <line>To Gods of yesterday? I fail of that</line>
+          <line>So much, the total all of space and time</line>
+          <line>Bulks in between. Take thyself hence and count</line>
+          <line>Thy toiling steps back by the way thou camest,</line>
+          <line>In nothing wiser for thy questionings.</line>
+          <line>HERMES</line>
+          <line>This is that former stubbornness of thine</line>
+          <line>That brought thee hither to foul anchorage.</line>
+          <line>PROMETHEUS</line>
+          <line>Mistake me not; I would not, if I might,</line>
+          <line>Change my misfortunes for thy vassalage.</line>
+          <line>HERMES</line>
+          <line>Oh! better be the vassal of this rock</line>
+          <line>Than born the trusty messenger of Zeus</line>
+          <line>PROMETHEUS</line>
+          <line>I answer insolence, as it deserves,</line>
+          <line>With insolence. How else should it be answered?</line>
+          <line>HERMES</line>
+          <line>Surely; and, being in trouble, it is plain</line>
+          <line>You revel in your plight.</line>
+          <line>PROMETHEUS</line>
+          <line>Revel, forsooth!</line>
+          <line>I would my enemies might hold such revels</line>
+          <line>And thou amongst the first.</line>
+          <line>HERMES</line>
+          <line>Dost thou blame me</line>
+          <line>For thy misfortunes?</line>
+          <line>PROMETHEUS</line>
+          <line>I hate all the Gods,</line>
+          <line>Because, having received good at my hands,</line>
+          <line>They have rewarded me with evil.</line>
+          <line>Proves thee stark mad!</line>
+          <line>HERMES</line>
+          <line>This proves thee stark mad!</line>
+          <line>PROMETHEUS</line>
+          <line>Mad as you please, if hating</line>
+          <line>Your enemies is madness</line>
+          <line>HERMES</line>
+          <line>Were all well</line>
+          <line>With thee, thou'dst be insufferable!</line>
+          <line>PROMETHEUS</line>
+          <line>Alas!</line>
+          <line>HERMES</line>
+          <line>Alas, that Zeus knows not that word, Alas!</line>
+          <line>PROMETHEUS</line>
+          <line>But ageing Time teacheth all knowledge.</line>
+          <line>HERMES</line>
+          <line>Time</line>
+          <line>Hath not yet taught thy rash, imperious will</line>
+          <line>Over wild impulse to win mastery.</line>
+          <line>PROMETHEUS</line>
+          <line>Nay: had Time taught me that, I had not</line>
+          <line>stooped</line>
+          <line>To bandy words with such a slave as thou.</line>
+          <line>HERMES</line>
+          <line>This, then, is all thine answer: thou'lt</line>
+          <line>not</line>
+          <line>One syllable of what our Father asks.</line>
+          <line>PROMETHEUS</line>
+          <line>Oh, that I were a debtor to his kindness!</line>
+          <line>I would requite him to the uttermost!</line>
+          <line>HERMES</line>
+          <line>A cutting speech! You take me for a boy</line>
+          <line>Whom you may taunt and tease.</line>
+          <line>PROMETHEUS</line>
+          <line>Why art thou not</line>
+          <line>A boy-a very booby-to suppose</line>
+          <line>Thou wilt get aught from me? There is no wrong</line>
+          <line>However shameful, nor no shift of malice</line>
+          <line>Whereby Zeus shall persuade me to unlock</line>
+          <line>My lips until these shackles be cast loose.</line>
+          <line>Therefore let lightning leap with smoke and flame,</line>
+          <line>And all that is be beat and tossed together,</line>
+          <line>With whirl of feathery snowflakes and loud crack</line>
+          <line>Of subterranean thunder; none of these</line>
+          <line>Shall bend my will or force me to disclose</line>
+          <line>By whom 'tis fated he shall fall from power.</line>
+          <line>HERMES</line>
+          <line>What good can come of this? Think yet again!</line>
+          <line>PROMETHEUS</line>
+          <line>I long ago have thought and long ago</line>
+          <line>Determined.</line>
+          <line>HERMES</line>
+          <line>Patience! patience! thou rash fool</line>
+          <line>Have so much patience as to school thy mind</line>
+          <line>To a right judgment in thy present troubles.</line>
+          <line>PROMETHEUS</line>
+          <line>Lo, I am rockfast, and thy words are wave</line>
+          <line>That weary me in vain. Let not the thought</line>
+          <line>Enter thy mind, that I in awe of Zeus</line>
+          <line>Shall change my nature for a girl's, or beg</line>
+          <line>The Loathed beyond all loathing-with my hands</line>
+          <line>Spread out in woman's fashion-to cast loose</line>
+          <line>These bonds; from that I am utterly removed.</line>
+          <line>HERMES</line>
+          <line>I have talked much, yet further not my purpose;</line>
+          <line>For thou art in no whit melted or moved</line>
+          <line>By my prolonged entreaties: like a colt</line>
+          <line>New to the harness thou dost back and Plunge.</line>
+          <line>Snap at thy bit and fight against the rein.</line>
+          <line>And yet thy confidence is in a straw;</line>
+          <line>For stubbornness, if one be in the wrong,</line>
+          <line>Is in itself weaker than naught at all.</line>
+          <line>See now, if thou wilt not obey my words,</line>
+          <line>What storm, what triple-crested wave of woe</line>
+          <line>Unshunnable shall come upon thee. First,</line>
+          <line>This rocky chasm shall the Father split</line>
+          <line>With earthquake thunder and his burning bolt,</line>
+          <line>And he shall hide thy form, and thou shalt hang</line>
+          <line>Bolt upright, dandled in the rock's rude arms.</line>
+          <line>Nor till thou hast completed thy long term</line>
+          <line>Shalt thou come back into the light; and then</line>
+          <line>The hound of Zeus, the tawny eagle,</line>
+          <line>Shall violently fall upon thy flesh</line>
+          <line>And rend it as 'twere rags; and every day</line>
+          <line>And all day long shall thine unbidden guest</line>
+          <line>Sit at thy table, feasting on thy liver</line>
+          <line>Till he hath gnawn it black. Look for no term</line>
+          <line>To such an agony till there stand forth</line>
+          <line>Among the Gods one who shall take upon him</line>
+          <line>Thy sufferings and consent to enter hell</line>
+          <line>Far from the light of Sun, yea, the deep pit</line>
+          <line>And mirk of Tartarus, for thee. Be advised;</line>
+          <line>This is not stuffed speech framed to frighten the</line>
+          <line>But woeful truth. For Zeus knows not to lie</line>
+          <line>CHORUS</line>
+          <line>To our mind</line>
+          <line>The words of Hermes fail not of the mark.</line>
+          <line>For he enjoins thee to let self-will go</line>
+          <line>And follow after prudent counsels. Him</line>
+          <line>Harken; for error in the wise is shame.</line>
+          <line>PROMETHEUS</line>
+          <line>These are stale tidings I foreknew;</line>
+          <line>Therefore, since suffering is the due</line>
+          <line>A foe must pay his foes,</line>
+          <line>Let curled lightnings clasp and clash</line>
+          <line>And close upon my limbs: loud crash</line>
+          <line>The thunder, and fierce throes</line>
+          <line>Of savage winds convulse calm air:</line>
+          <line>The embowelled blast earth's roots uptear</line>
+          <line>And toss beyond its bars,</line>
+          <line>The rough surge, till the roaring deep</line>
+          <line>In one devouring deluge sweep</line>
+          <line>The pathway of the stars</line>
+          <line>Finally, let him fling my form</line>
+          <line>Down whirling gulfs, the central storm</line>
+          <line>Of being; let me lie</line>
+          <line>Plunged in the black Tartarean gloom;</line>
+          <line>Yet-yet-his sentence shall not doom</line>
+          <line>This deathless self to die!</line>
+          <line>HERMES</line>
+          <line>These are the workings of a brain</line>
+          <line>More than a little touched; the vein</line>
+          <line>Of voluble ecstasy!</line>
+          <line>Surely he wandereth from the way,</line>
+          <line>His reason lost, who thus can pray</line>
+          <line>A mouthing mad man he!</line>
+          <line>Therefore, O ye who court his fate,</line>
+          <line>Rash mourners-ere it be too late</line>
+          <line>And ye indeed are sad</line>
+          <line>For vengeance spurring hither fast-</line>
+          <line>Hence! lest the bellowing thunderblast</line>
+          <line>Like him should strike you mad I</line>
+          <line>CHORUS</line>
+          <line>Words which might work persuasion speak</line>
+          <line>If thou must counsel me; nor seek</line>
+          <line>Thus, like a stream in spate,</line>
+          <line>To uproot mine honour. Dost thou dare</line>
+          <line>Urge me to baseness! I will bear</line>
+          <line>With him all blows of fate;</line>
+          <line>For false forsakers I despise;</line>
+          <line>At treachery my gorge doth rise:</line>
+          <line>I spew it forth with hate!</line>
+          <line>HERMES</line>
+          <line>Only-with ruin on your track-</line>
+          <line>Rail not at fortune; but look back</line>
+          <line>And these my words recall;</line>
+          <line>Neither blame Zeus that he hath sent</line>
+          <line>Sorrow no warning word forewent!</line>
+          <line>Ye labour for your fall</line>
+          <line>With your own hands I Not by surprise</line>
+          <line>Nor yet by stealth, but with clear eyes,</line>
+          <line>Knowing the thing ye do,</line>
+          <line>Ye walk into the yawning net</line>
+          <line>That for the feet of is set</line>
+          <line>And Ruin spreads for you.</line>
+          <line>Exit.</line>
+          <line>PROMETHEUS</line>
+          <line>The time is past for words; earth quakes</line>
+          <line>Sensibly: hark! pent thunder rakes</line>
+          <line>The depths, with bellowing din</line>
+          <line>Of echoes rolling ever nigher:</line>
+          <line>Lightnings shake out their locks of fire;</line>
+          <line>The dust cones dance and spin;</line>
+          <line>The skipping winds, as if possessed</line>
+          <line>By faction-north, south, east and west,</line>
+          <line>Puff at each other; sea</line>
+          <line>And sky are shook together: Lo</line>
+          <line>The swing and fury of the blow</line>
+          <line>Wherewith Zeus smiteth me</line>
+          <line>Sweepeth apace, and, visibly,</line>
+          <line>To strike my heart with fear. See, see,</line>
+          <line>Earth, awful Mother! Air,</line>
+          <line>That shedd'st from the revolving sky</line>
+          <line>On all the light they see thee by,</line>
+          <line>What bitter wrongs I bear!</line>
+          <line>The scene closes with earthquake and thunder, in the midst of which</line>
+          <line>PROMETHEUS and the DAUGHTERS OF OCEANUS sink into the</line>
+          <line>abyss.</line>
+        </stanza>
+      </poem>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="aeschylus-prometheus-colophon">
+        <p xml:id="aeschylus-prometheus-colophon-p-1">Author: Aeschylus</p>
+        <p xml:id="aeschylus-prometheus-colophon-p-2">Written: ca. 430 BCE</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

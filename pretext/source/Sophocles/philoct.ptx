@@ -1,0 +1,1647 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="sophocles-philoct">
+    <title>Philoctetes</title>
+    <chapter xml:id="philoct-philoctetes">
+      <title>Philoctetes</title>
+      <poem xml:id="philoct-philoctetes-poem-1">
+        <stanza xml:id="philoct-philoctetes-stanza-1-1">
+          <line>Dramatis Personae</line>
+          <line>ULYSSES, King of Ithaca</line>
+          <line>NEOPTOLEMUS, son of Achilles</line>
+          <line>PHILOCTETES, son of Poeas and Companion of HERCULES</line>
+          <line>A SPY</line>
+          <line>HERCULES</line>
+          <line>CHORUS, composed of the companions of ULYSSES and NEOPTOLEMUS</line>
+          <line>Scene A lonely region on the shore of Lemnos, before a steep cliff in which is the entrance to PHILOCTETES' cave. ULYSSES, NEOPTOLEMUS and an attendant enter.</line>
+          <line>ULYSSES</line>
+          <line>At length, my noble friend, thou bravest</line>
+          <line>son</line>
+          <line>Of a brave father- father of us all,</line>
+          <line>The great Achilles- we have reached the shore</line>
+          <line>Of sea-girt Lemnos, desert and forlorn,</line>
+          <line>Where never tread of human step is seen,</line>
+          <line>Or voice of mortal heard, save his alone,</line>
+          <line>Poor Philoctetes, Poeas' wretched son,</line>
+          <line>Whom here I left; for such were my commands</line>
+          <line>From Grecia's chiefs, when by his fatal wound</line>
+          <line>Oppressed, his groans and execrations dreadful</line>
+          <line>Alarmed our hosts, our sacred rites profaned,</line>
+          <line>And interrupted holy sacrifice.</line>
+          <line>But why should I repeat the tale? The time</line>
+          <line>Admits not of delay. We must not linger,</line>
+          <line>Lest he discover our arrival here,</line>
+          <line>And all our purposed fraud to draw him hence</line>
+          <line>Be ineffectual. Lend me then thy aid.</line>
+          <line>Surveying round thee, canst thou see a rock</line>
+          <line>With double entrance- to the sun's warm rays</line>
+          <line>In winter open, and in summer's heat</line>
+          <line>Giving free passage to the welcome breeze?</line>
+          <line>A little to the left there is a fountain</line>
+          <line>Of living water, where, if yet he breathes,</line>
+          <line>He slakes his thirst. If aught thou seest of this</line>
+          <line>Inform me; so shall each to each impart</line>
+          <line>Counsel most fit, and serve our common cause.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>leaving ULYSSES a little behind him</line>
+          <line>If I mistake not, I behold a cave,</line>
+          <line>E'en such as thou describst.</line>
+          <line>ULYSSES</line>
+          <line>Dost thou? which way?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Yonder it is; but no path leading thither,</line>
+          <line>Or trace of human footstep.</line>
+          <line>ULYSSES</line>
+          <line>In his cell</line>
+          <line>A chance but he hath lain down to rest:</line>
+          <line>Look if he hath not.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>advancing to the cave</line>
+          <line>Not a creature there.</line>
+          <line>ULYSSES</line>
+          <line>Nor food, nor mark of household preparation?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>A rustic bed of scattered leaves.</line>
+          <line>ULYSSES</line>
+          <line>What more?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>A wooden bowl, the work of some rude hand,</line>
+          <line>With a few sticks for fuel.</line>
+          <line>ULYSSES</line>
+          <line>This is all</line>
+          <line>His little treasure here.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Unhappy man!</line>
+          <line>Some linen for his wounds.</line>
+          <line>ULYSSES</line>
+          <line>This must be then</line>
+          <line>His place of habitation; far from hence</line>
+          <line>He cannot roam; distempered as he is,</line>
+          <line>It were impossible. He is but gone</line>
+          <line>A little way for needful food, or herb</line>
+          <line>Of power to 'suage and mitigate his pain,</line>
+          <line>Wherefore despatch this servant to some place</line>
+          <line>Of observation, whence he may espy</line>
+          <line>His every motion, lest he rush upon us.</line>
+          <line>There's not a Grecian whom his soul so much</line>
+          <line>Could wish to crush beneath him as Ulysses.</line>
+          <line>He makes a signal to the Attendant. who retires.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>He's gone to guard each avenue; and now,</line>
+          <line>If thou hast aught of moment to impart</line>
+          <line>Touching our purpose, say it; I attend.</line>
+          <line>ULYSSES</line>
+          <line>Son of Achilles, mark me well! Remember,</line>
+          <line>What we are doing not on strength alone,</line>
+          <line>Or courage, but oil conduct will depend;</line>
+          <line>Therefore if aught uncommon be proposed,</line>
+          <line>Strange to thy ears and adverse to thy nature,</line>
+          <line>Reflect that 'tis thy duty to comply,</line>
+          <line>And act conjunctive with me.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Well, what is it?</line>
+          <line>ULYSSES</line>
+          <line>We must deceive this Philoctetes; that</line>
+          <line>Will be thy task. When he shall ask thee who</line>
+          <line>And what thou art, Achilles'son reply-</line>
+          <line>Thus far within the verge of truth, no more.</line>
+          <line>Add that resentment fired thee to forsake</line>
+          <line>The Grecian fleet, and seek thy native soil,</line>
+          <line>Unkindly used by those who long with vows</line>
+          <line>Had sought thy aid to humble haughty Troy,</line>
+          <line>And when thou cam'st, ungrateful as they were.</line>
+          <line>The arms of great Achilles, thy just right,</line>
+          <line>Gave to Ulysses. Here thy bitter taunts</line>
+          <line>And sharp invectives liberally bestow</line>
+          <line>On me. Say what thou wilt, I shall forgive,</line>
+          <line>And Greece will not forgive thee if thou dost not;</line>
+          <line>For against Troy thy efforts are all vain</line>
+          <line>Without his arrows. Safely thou mayst hold</line>
+          <line>Friendship and converse with him, but I cannot.</line>
+          <line>Thou wert not with us when the war began,</line>
+          <line>Nor bound by solemn oath to join our host,</line>
+          <line>As I was; me he knows, and if he find</line>
+          <line>That I am with thee, we are both undone.</line>
+          <line>They must be ours then, these all-conquering arms;</line>
+          <line>Remember that. I know thy noble nature</line>
+          <line>Abhors the thought of treachery or fraud.</line>
+          <line>But what a glorious prize is victory!</line>
+          <line>Therefore be bold; we will be just hereafter.</line>
+          <line>Give to deceit and me a little portion</line>
+          <line>Of one short day, and for thy future life</line>
+          <line>Be called the holiest, worthiest, best of men.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>What but to hear alarms my conscious soul,</line>
+          <line>Son of Laertes, I shall never practise.</line>
+          <line>I was not born to flatter or betray;</line>
+          <line>Nor I, nor he- the voice of fame reports-</line>
+          <line>Who gave me birth. What open arms can do</line>
+          <line>Behold me prompt to act, but ne'er to fraud</line>
+          <line>Will I descend. Sure we can more than match</line>
+          <line>In strength a foe thus lame and impotent.</line>
+          <line>I came to be a helpmate to thee, not</line>
+          <line>A base betrayer; and, O king! believe me,</line>
+          <line>Rather, much rather would I fall by virtue</line>
+          <line>Than rise by guilt to certain victory.</line>
+          <line>ULYSSES</line>
+          <line>O noble youth! and worthy of thy sire!</line>
+          <line>When I like thee was young, like thee of strength</line>
+          <line>And courage boastful, little did I deem</line>
+          <line>Of human policy; but long experience</line>
+          <line>Hath taught me, son, 'tis not the powerful arm,</line>
+          <line>But soft enchanting tongue that governs all.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>And thou wouldst have me tell an odious falsehood?</line>
+          <line>ULYSSES</line>
+          <line>He must be gained by fraud.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>By fraud? And why</line>
+          <line>Not by persuasion?</line>
+          <line>ULYSSES</line>
+          <line>He'll not listen to it;</line>
+          <line>And force were vainer still.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>What mighty power</line>
+          <line>Hath he to boast?</line>
+          <line>ULYSSES</line>
+          <line>His arrows winged with death</line>
+          <line>Inevitable.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Then it were not safe</line>
+          <line>E'en to approach him.</line>
+          <line>ULYSSES</line>
+          <line>No; unless by fraud</line>
+          <line>He be secured.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>And thinkst thou 'tis not base</line>
+          <line>To tell a lie then?</line>
+          <line>ULYSSES</line>
+          <line>Not if on that lie</line>
+          <line>Depends our safety.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Who shall dare to tell it</line>
+          <line>Without a blush?</line>
+          <line>ULYSSES</line>
+          <line>We need not blush at aught</line>
+          <line>That may promote our interest and success.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>But where's the interest that should bias</line>
+          <line>me?</line>
+          <line>Come he or not to Troy, imports it aught</line>
+          <line>To Neoptolemus?</line>
+          <line>ULYSSES</line>
+          <line>Troy cannot fall</line>
+          <line>Without his arrows.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Saidst thou not that I</line>
+          <line>Was destined to destroy her?</line>
+          <line>ULYSSES</line>
+          <line>Without them</line>
+          <line>Naught canst thou do, and they without thee nothing.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Then I must have them.</line>
+          <line>ULYSSES</line>
+          <line>When thou hast, remember</line>
+          <line>A double prize awaits thee.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>What, Ulysses?</line>
+          <line>ULYSSES</line>
+          <line>The glorious names of valiant and of wise.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Away! I'll do it. Thoughts of guilt or shame</line>
+          <line>No more appal me.</line>
+          <line>ULYSSES</line>
+          <line>Wilt thou do it then?</line>
+          <line>Wilt thou remember what I told thee of?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Depend on 't; I have promised- that's sufficient.</line>
+          <line>ULYSSES</line>
+          <line>Here then remain thou; I must not be seen.</line>
+          <line>If thou stay long, I'll send a faithful spy,</line>
+          <line>Who in a sailor's habit well disguised</line>
+          <line>May pass unknown; of him, from time to time,</line>
+          <line>What best may suit our purpose thou shalt know.</line>
+          <line>I'll to the ship. Farewell! and may the god</line>
+          <line>Who brought us here, the fraudful Mercury,</line>
+          <line>And great Minerva, guardian of our country,</line>
+          <line>And ever kind to me, protect us still!</line>
+          <line>ULYSSES goes out as the CHORUS enters. The following lines are chanted</line>
+          <line>responsively between NEOPTOLEMUS and the CHORUS.</line>
+          <line>CHORUS</line>
+          <line>strophe 1</line>
+          <line>Master, instruct us, strangers as we are,</line>
+          <line>What we may utter, what we must conceal.</line>
+          <line>Doubtless the man we seek will entertain</line>
+          <line>Suspicion of us; how are we to act?</line>
+          <line>To those alone belongs the art to rule</line>
+          <line>Who bear the sceptre from the hand of Jove;</line>
+          <line>To thee of right devolves the power supreme,</line>
+          <line>From thy great ancestors delivered down;</line>
+          <line>Speak then, our royal lord, and we obey.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>systema 1</line>
+          <line>If you would penetrate yon deep recess</line>
+          <line>To seek the cave where Philoctetes lies,</line>
+          <line>Go forward; but remember to return</line>
+          <line>When the poor wanderer comes this way, prepared</line>
+          <line>To aid our purpose here if need require.</line>
+          <line>CHORUS</line>
+          <line>antistrophe 1</line>
+          <line>O king! we ever meant to fix our eyes</line>
+          <line>On thee, and wait attentive to thy will;</line>
+          <line>But, tell us, in what part is he concealed?</line>
+          <line>'Tis fit we know the place, lest unobserved</line>
+          <line>He rush upon us. Which way doth it lie?</line>
+          <line>Seest thou his footsteps leading from the cave,</line>
+          <line>Or hither bent?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>advancing towards the cave</line>
+          <line>systema 2</line>
+          <line>Behold the double door</line>
+          <line>Of his poor dwelling, and the flinty bed.</line>
+          <line>CHORUS</line>
+          <line>And whither is its wretched master gone?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Doubtless in search of food, and not far</line>
+          <line>off,</line>
+          <line>For such his manner is; accustomed here,</line>
+          <line>So fame reports, to pierce with winged arrows</line>
+          <line>His savage prey for daily sustenance,</line>
+          <line>His wound still painful, and no hope of cure.</line>
+          <line>CHORUS</line>
+          <line>strophe 2</line>
+          <line>Alas! I pity him. Without a friend,</line>
+          <line>Without a fellow-sufferer, left alone,</line>
+          <line>Deprived of all the mutual joys that flow</line>
+          <line>From sweet society- distempered too!</line>
+          <line>How can he bear it? O unhappy race</line>
+          <line>Of mortal man! doomed to an endless round</line>
+          <line>Of sorrows, and immeasurable woe! antistrophe</line>
+          <line>Second to none in fair nobility</line>
+          <line>Was Philoctetes, of illustrious race;</line>
+          <line>Yet here he lies, from every human aid</line>
+          <line>Far off removed, in dreadful solitude,</line>
+          <line>And mingles with the wild and savage herd;</line>
+          <line>With them in famine and in misery</line>
+          <line>Consumes his days, and weeps their common fate,</line>
+          <line>Unheeded, save when babbling echo mourns</line>
+          <line>In bitterest notes responsive to his woe.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>systema 3</line>
+          <line>And yet I wonder not; for if aright</line>
+          <line>I judge, from angry heaven the sentence came,</line>
+          <line>And Chrysa was the cruel source of all;</line>
+          <line>Nor doth this sad disease inflict him still</line>
+          <line>Incurable, without assenting gods?</line>
+          <line>For so they have decreed, lest Troy should fall</line>
+          <line>Beneath his arrows ere the' appointed time</line>
+          <line>Of its destruction come.</line>
+          <line>CHORUS</line>
+          <line>strophe 3</line>
+          <line>No more, my son!</line>
+          <line>NEOPTOLEMUS</line>
+          <line>What sayst thou?</line>
+          <line>CHORUS</line>
+          <line>Sure I heard a dismal groan</line>
+          <line>Of some afflicted wretch.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Which way?</line>
+          <line>CHORUS</line>
+          <line>E'en now</line>
+          <line>I hear it, and the sound as of some step</line>
+          <line>Slow-moving this way. He is not far from us.</line>
+          <line>His plaints are louder now. antistrophe</line>
+          <line>Prepare, my son!</line>
+          <line>NEOPTOLEMUS</line>
+          <line>For what?</line>
+          <line>CHORUS</line>
+          <line>New troubles; for behold he comes!</line>
+          <line>Not like the shepherd with his rural pipe</line>
+          <line>And cheerful song, but groaning heavily.</line>
+          <line>Either his wounded foot against some thorn</line>
+          <line>Hath struck, and pains him sorely, or perchance</line>
+          <line>He hath espied from far some ship attempting</line>
+          <line>To enter this inhospitable port,</line>
+          <line>And hence his cries to save it from destruction.</line>
+          <line>PHILOCTETES enters, clad in rags. He moves with difficulty and is obviously</line>
+          <line>suffering pain from his injured foot.</line>
+          <line>PHILOCTETES</line>
+          <line>Say, welcome strangers, what disastrous</line>
+          <line>fate</line>
+          <line>Led you to this inhospitable shore,</line>
+          <line>Nor haven safe, nor habitation fit</line>
+          <line>Affording ever? Of what clime, what race?</line>
+          <line>Who are ye? Speak! If I may trust that garb,</line>
+          <line>Familiar once to me, ye are of Greece,</line>
+          <line>My much-loved country. Let me hear the sound</line>
+          <line>Of your long wished-for voices. Do not look</line>
+          <line>With horror on me, but in kind compassion</line>
+          <line>Pity a wretch deserted and forlorn</line>
+          <line>In this sad place. Oh! if ye come as friends,</line>
+          <line>Speak then, and answer- hold some converse with</line>
+          <line>me,</line>
+          <line>For this at least from man to man is due.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Know, stranger, first what most thou seemst to</line>
+          <line>wish;</line>
+          <line>We are of Greece.</line>
+          <line>PHILOCTETES</line>
+          <line>Oh! happiness to hear!</line>
+          <line>After so many years of dreadful silence,</line>
+          <line>How welcome was that sound! Oh! tell me, son,</line>
+          <line>What chance, what purpose, who conducted thee?</line>
+          <line>What brought thee thither, what propitious gale?</line>
+          <line>Who art thou? Tell me all- inform me quickly.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Native of Scyros, hither I return;</line>
+          <line>My name is Neoptolemus, the son</line>
+          <line>Of brave Achilles. I have told thee all.</line>
+          <line>PHILOCTETES</line>
+          <line>Dear is thy country, and thy father dear</line>
+          <line>To me, thou darling of old Lycomede;</line>
+          <line>But tell me in what fleet, and whence thou cam'st.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>From Troy.</line>
+          <line>PHILOCTETES</line>
+          <line>From Troy? I think thou wert not with us</line>
+          <line>When first our fleet sailed forth.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Wert thou then there?</line>
+          <line>Or knowst thou aught of that great enterprise?</line>
+          <line>PHILOCTETES</line>
+          <line>Know you not then the man whom you behold?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>How should I know whom I had never seen?</line>
+          <line>PHILOCTETES</line>
+          <line>Have you ne'er heard of me, nor of my name?</line>
+          <line>Hath my sad story never reached your ear?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Never.</line>
+          <line>PHILOCTETES</line>
+          <line>Alas! how hateful to the gods,</line>
+          <line>How very poor a wretch must I be then,</line>
+          <line>That Greece should never hear of woes like mine!</line>
+          <line>But they who sent me hither, they concealed them,</line>
+          <line>And smile triumphant, whilst my cruel wounds</line>
+          <line>Grow deeper still. O, sprung from great Achilles!</line>
+          <line>Behold before thee Poeas' wretched son,</line>
+          <line>With whom, a chance but thou hast heard, remain</line>
+          <line>The dreadful arrows of renowned Alcides,</line>
+          <line>E'en the unhappy Philoctetes- him</line>
+          <line>Whom the Atreidae and the vile Ulysses</line>
+          <line>Inhuman left, distempered as I was</line>
+          <line>By the envenomed serpent's deep-felt wound.</line>
+          <line>Soon as they saw that, with long toil oppressed,</line>
+          <line>Sleep had o'ertaken me on the hollow rock,</line>
+          <line>There did they leave me when from Chrysa's shore</line>
+          <line>They bent their fatal course; a little food</line>
+          <line>And these few rags were all they would bestow.</line>
+          <line>Such one day be their fate! Alas! my son,</line>
+          <line>How dreadful, thinkst thou, was that waking to me,</line>
+          <line>When from my sleep I rose and saw them not!</line>
+          <line>How did I weep! and mourn my wretched state!</line>
+          <line>When not a ship remained of all the fleet</line>
+          <line>That brought me here- no kind companion left</line>
+          <line>To minister or needful food or balm</line>
+          <line>To my sad wounds. On every side I looked,</line>
+          <line>And nothing saw but woe; of that indeed</line>
+          <line>Measure too full. For day succeeded day,</line>
+          <line>And still no comfort came; myself alone</line>
+          <line>Could to myself the means of life afford,</line>
+          <line>In this poor grotto. On my bow I lived:</line>
+          <line>The winged dove, which my sharp arrow slew,</line>
+          <line>With pain I brought into my little hut,</line>
+          <line>And feasted there; then from the broken ice</line>
+          <line>I slaked my thirst, or crept into the wood</line>
+          <line>For useful fuel; from the stricken flint</line>
+          <line>I drew the latent spark, that warms me still</line>
+          <line>And still revives. This with my humble roof</line>
+          <line>Preserve me, son. But, oh! my wounds remain.</line>
+          <line>Thou seest an island desolate and waste;</line>
+          <line>No friendly port nor hopes of gain to tempt,</line>
+          <line>Nor host to welcome in the traveller;</line>
+          <line>Few seek the wild inhospitable shore.</line>
+          <line>By adverse winds, sometimes th' unwilling guests,</line>
+          <line>As well thou mayst suppose, were hither driven;</line>
+          <line>But when they came, they only pitied me,</line>
+          <line>Gave me a little food, or better garb</line>
+          <line>To shield me from the cold; in vain I prayed</line>
+          <line>That they would bear me to my native soil,</line>
+          <line>For none would listen. Here for ten long years</line>
+          <line>Have I remained, whilst misery and famine</line>
+          <line>Keep fresh my wounds, and double my misfortune.</line>
+          <line>This have th' Atreidae and Ulysses done,</line>
+          <line>And may the gods with equal woes repay them!</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>O, son of Poeas! well might those, who came</line>
+          <line>And saw thee thus, in kind compassion weep;</line>
+          <line>I too must pity thee- I can no more.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>I can bear witness to thee, for I know</line>
+          <line>By sad experience what th' Atreidae are,</line>
+          <line>And what Ulysses.</line>
+          <line>PHILOCTETES</line>
+          <line>Hast thou suffered then?</line>
+          <line>And dost thou hate them too?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Oh! that these hands</line>
+          <line>Could vindicate my wrongs! Mycenae then</line>
+          <line>And Sparta should confess that Scyros boasts</line>
+          <line>Of sons as brave and valiant as their own.</line>
+          <line>PHILOCTETES</line>
+          <line>O noble youth! But wherefore cam'st thou</line>
+          <line>hither?</line>
+          <line>Whence this resentment?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>I will tell thee all,</line>
+          <line>If I can bear to tell it. Know then, soon</line>
+          <line>As great Achilles died-</line>
+          <line>PHILOCTETES</line>
+          <line>Oh, stay, my son!</line>
+          <line>Is then Achilles dead?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>He is, and not</line>
+          <line>By mortal hand, but by Apollo's shaft</line>
+          <line>Fell glorious.</line>
+          <line>PHILOCTETES</line>
+          <line>Oh! most worthy of each other,</line>
+          <line>The slayer and the slain! Permit me, son,</line>
+          <line>To mourn his fate, ere I attend to thine.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Alas! thou needst not weep for others' woes,</line>
+          <line>Thou hast enough already of thy own.</line>
+          <line>PHILOCTETES</line>
+          <line>'Tis very true; and therefore to thy tale.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Thus then it was. Soon as Achilles died,</line>
+          <line>Phoenix, the guardian of his tender years,</line>
+          <line>Instant sailed forth, and sought me out at Scyros;</line>
+          <line>With him the wary chief Ulysses came.</line>
+          <line>They told me then (or true or false I know not),</line>
+          <line>My father dead, by me, and me alone</line>
+          <line>Proud Troy must fall. I yielded to their prayers;</line>
+          <line>I hoped to see at least the dear remains</line>
+          <line>Of him whom living I had long in vain</line>
+          <line>Wished to behold. Safe at Sigeum's port</line>
+          <line>Soon we arrived. In crowds the numerous host</line>
+          <line>Thronged to embrace me, called the gods to witness</line>
+          <line>In me once more they saw their loved Achilles</line>
+          <line>To life restored; but he, alas! was gone.</line>
+          <line>I shed the duteous tear, then sought my friends</line>
+          <line>Th' Atreidae friends I thought 'em!-claimed the</line>
+          <line>arms</line>
+          <line>Of my dead father, and what else remained</line>
+          <line>His late possession: when- O cruel words!</line>
+          <line>And wretched I to hear them- thus they answered:</line>
+          <line>"Son of Achilles, thou in vain demandst</line>
+          <line>Those arms already to Ulysses given;</line>
+          <line>The rest be thine." I wept. "And is it thus,"</line>
+          <line>Indignant I replied, "ye dare to give</line>
+          <line>My right away?" "Know, boy," Ulysses cried,</line>
+          <line>"That right was mine. and therefore they bestowed</line>
+          <line>The boon on me: me who preserved the arms,</line>
+          <line>And him who bore them too." With anger fired</line>
+          <line>At this proud speech, I threatened all that rage</line>
+          <line>Could dictate to me if he not returned them.</line>
+          <line>Stung with my words, yet calm, he answered me:</line>
+          <line>"Thou wert not with us; thou wert in a place</line>
+          <line>Where thou shouldst not have been; and since thou</line>
+          <line>meanst</line>
+          <line>To brave us thus, know, thou shalt never bear</line>
+          <line>Those arms with thee to Scyros; 'tis resolved."</line>
+          <line>Thus injured, thus deprived of all I held</line>
+          <line>Most precious, by the worst of men, I left</line>
+          <line>The hateful place, and seek my native soil.</line>
+          <line>Nor do I blame so much the proud Ulysses</line>
+          <line>As his base masters- army, city, all</line>
+          <line>Depend on those who rule. When men grow vile</line>
+          <line>The guilt is theirs who taught them to be wicked.</line>
+          <line>I've told thee all, and him who hates the Atreidae</line>
+          <line>I hold a friend to me and to the gods.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>O Earth! thou mother of great Jove,</line>
+          <line>Embracing all with universal love,</line>
+          <line>Author benign of every good,</line>
+          <line>Through whom Pactolus rolls his golden flood!</line>
+          <line>To thee, whom in thy rapid car</line>
+          <line>Fierce lions draw, I rose and made my prayer-</line>
+          <line>To thee I made my sorrows known,</line>
+          <line>When from Achilles' injured son</line>
+          <line>Th' Atreidae gave the prize, that fatal day</line>
+          <line>When proud Ulysses bore his arms away.</line>
+          <line>PHILOCTETES</line>
+          <line>I wonder not, my friend, to see you here,</line>
+          <line>And I believe the tale; for well I know</line>
+          <line>The man who wronged you, know the base Ulysses</line>
+          <line>Falsehood and fraud dwell on his lips, and nought</line>
+          <line>That's just or good can be expected from him.</line>
+          <line>But strange it is to me that, Ajax present,</line>
+          <line>He dare attempt it.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Ajax is no more;</line>
+          <line>Had he been living, I had ne'er been spoiled</line>
+          <line>Thus of my right.</line>
+          <line>PHILOCTETES</line>
+          <line>Is he then dead?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>He is.</line>
+          <line>PHILOCTETES</line>
+          <line>Alas! the son of Tydeus, and that slave,</line>
+          <line>Sold by his father Sisyphus, they live,</line>
+          <line>Unworthy as they are.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Alas! they do,</line>
+          <line>And flourish still.</line>
+          <line>PHILOCTETES</line>
+          <line>My old and worthy friend</line>
+          <line>The Pylian sage, how is he? He could see</line>
+          <line>Their arts, and would have given them better counsels.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Weighed down with grief he lives, but most</line>
+          <line>unhappy,</line>
+          <line>Weeps his lost son, his dear Antilochus.</line>
+          <line>PHILOCTETES</line>
+          <line>O double woe! whom I could most have wished</line>
+          <line>To live and to be happy, those to perish!</line>
+          <line>Ulysses to survive! It should not be.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Oh! 'tis a subtle foe; but deepest plans</line>
+          <line>May sometimes fail.</line>
+          <line>PHILOCTETES</line>
+          <line>Where was Patroclus then,</line>
+          <line>Thy father's dearest friend?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>He too was dead.</line>
+          <line>In war, alas- so fate ordains it ever-</line>
+          <line>The coward 'scapes, the brave and virtuous fall.</line>
+          <line>PHILOCTETES</line>
+          <line>It is too true; and now thou talkst of cowards,</line>
+          <line>Where is that worthless wretch, of readiest tongue,</line>
+          <line>Subtle and voluble?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Ulysses?</line>
+          <line>PHILOCTETES</line>
+          <line>No;</line>
+          <line>Thersites, ever talking, never heard.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>I have not seen him, but I hear he lives.</line>
+          <line>PHILOCTETES</line>
+          <line>I did not doubt it: evil never dies;</line>
+          <line>The gods take care of that. If aught there be</line>
+          <line>Fraudful and vile, 'tis safe; the good and just</line>
+          <line>Perish unpitied by them. Wherefore is it?</line>
+          <line>When gods do ill, why should we worship them?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Since thus it is, since virtue is oppressed,</line>
+          <line>And vice triumphant, who deserve to live</line>
+          <line>Are doomed to perish, and the guilty reign.</line>
+          <line>Henceforth, O son of Poeas! far from Troy</line>
+          <line>And the Atreidae will I live remote.</line>
+          <line>I would not see the man I cannot love.</line>
+          <line>My barren Scyros shall afford me refuge,</line>
+          <line>And home- felt joys delight my future days.</line>
+          <line>So, fare thee well, and may th' indulgent gods</line>
+          <line>Heal thy sad wound, and grant thee every wish</line>
+          <line>Thy soul can form! Once more, farewell! I go,</line>
+          <line>The first propitious gale.</line>
+          <line>PHILOCTETES</line>
+          <line>What! now, my son?</line>
+          <line>So soon?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Immediately; the time demands</line>
+          <line>We should be near, and ready to depart.</line>
+          <line>PHILOCTETES</line>
+          <line>Now, by the memory of thy honoured sire,</line>
+          <line>By thy loved mother, by whate'er remains</line>
+          <line>On earth most dear to thee, oh! hear me now,</line>
+          <line>Thy suppliant! Do not, do not thus forsake me,</line>
+          <line>Alone, oppressed, deserted, as thou seest,</line>
+          <line>In this sad place. I shall, I know it must, be</line>
+          <line>A burthen to thee. But, oh! bear it kindly;</line>
+          <line>For ever doth the noble mind abhor</line>
+          <line>Th' ungenerous deed, and loves humanity;</line>
+          <line>Disgrace attends thee if thou dost forsake me,</line>
+          <line>If not, immortal fame rewards thy goodness.</line>
+          <line>Thou mayst convey me safe to Oeta's shores</line>
+          <line>In one short day; I'll trouble you no longer.</line>
+          <line>Hide me in any part where I may least</line>
+          <line>Molest you. Hear me! By the guardian god</line>
+          <line>Of the poor suppliant, all- protecting Jove,</line>
+          <line>I beg. Behold me at thy feet, infirm,</line>
+          <line>And wretched as I am, I clasp thy knees.</line>
+          <line>Leave me not here then, where there is no mark</line>
+          <line>Of human footstep- take me to thy home!</line>
+          <line>Or to Euboea's port, to Oeta, thence</line>
+          <line>Short is the way to Trachin, or the banks</line>
+          <line>Of Spercheius' gentle stream, to meet my father,</line>
+          <line>If yet he lives; for, oh! I begged him oft</line>
+          <line>By those who hither came, to fetch me hence-</line>
+          <line>Or is he dead, or they neglectful bent</line>
+          <line>Their hasty course to their own native soil.</line>
+          <line>Be thou my better guide! Pity and save</line>
+          <line>The poor and wretched. Think, my son, how frail</line>
+          <line>And full of danger is the state of man-</line>
+          <line>Now prosperous, now adverse. Who feels no ills</line>
+          <line>Should therefore fear them; and when fortune smiles</line>
+          <line>Be doubly cautious, lest destruction come</line>
+          <line>Remorseless on him, and he fall unpitied.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>Oh, pity him, my lord, for bitterest woes</line>
+          <line>And trials most severe he hath recounted;</line>
+          <line>Far be such sad distress from those I love!</line>
+          <line>Oh! if thou hat'st the base Atreidae, now</line>
+          <line>Revenge thee on them, serve their deadliest foe;</line>
+          <line>Bear the poor suppliant to his native soil;</line>
+          <line>So shalt thou bless thy friend, and 'scape the wrath</line>
+          <line>Of the just gods, who still protect the wretched.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Your proffered kindness, friends, may cost you</line>
+          <line>dear;</line>
+          <line>When you shall feel his dreadful malady</line>
+          <line>Oppress you sore, you will repent it.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>Never</line>
+          <line>Shall that reproach be ours.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>In generous pity</line>
+          <line>Of the afflicted thus to be o'ercome</line>
+          <line>Were most disgraceful to me; he shall go.</line>
+          <line>May the kind gods speed our departure hence,</line>
+          <line>And guide our vessels to the wished-for shore!</line>
+          <line>PHILOCTETES</line>
+          <line>O happy hour! O kindest, best of men!</line>
+          <line>And you my dearest friends! how shall I thank you?</line>
+          <line>What shall I do to show my grateful heart?</line>
+          <line>Let us be gone! But, oh! permit me first</line>
+          <line>To take a last farewell of my poor hut,</line>
+          <line>Where I so long have lived. Perhaps you'll say</line>
+          <line>I must have had a noble mind to bear it.</line>
+          <line>The very sight to any eyes but mine</line>
+          <line>Were horrible, but sad necessity</line>
+          <line>At length prevailed, and made it pleasing to me.</line>
+          <line>LEADER</line>
+          <line>One from our ship, my lord, and with him</line>
+          <line>comes</line>
+          <line>A stranger. Stop a moment till we hear</line>
+          <line>Their business with us.</line>
+          <line>The Spy enters, dressed as a merchant. He is accompanied by one of</line>
+          <line>NEOPTOLEMUS'men.</line>
+          <line>SPY</line>
+          <line>Son of great Achilles,</line>
+          <line>Know, chance alone hath brought me hither, driven</line>
+          <line>By adverse winds to where thy vessels lay,</line>
+          <line>As home I sailed from Troy. There did I meet</line>
+          <line>This my companion, who informed me where</line>
+          <line>Thou mightst be found. Hence to pursue my course</line>
+          <line>And not to tell thee what concerns thee near</line>
+          <line>Had been ungenerous, thou perhaps meantime</line>
+          <line>Of Greece and of her counsels naught suspecting,</line>
+          <line>Counsels against thee not by threats alone</line>
+          <line>Or words enforced, but now in execution.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Now by my virtue, stranger, for thy news</line>
+          <line>I am much bound to thee, and will repay</line>
+          <line>Thy service. Tell me what the Greeks have done.</line>
+          <line>SPY</line>
+          <line>A fleet already sails to fetch thee back,</line>
+          <line>Conducted by old Phoenix, and the sons</line>
+          <line>Of valiant Theseus.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Come they then to force me?</line>
+          <line>Or am I to be won by their persuasion?</line>
+          <line>SPY</line>
+          <line>I know not that; you have what I could learn.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>And did the' Atreidae send them?</line>
+          <line>SPY</line>
+          <line>Sent they are,</line>
+          <line>And will be with you soon.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>But wherefore then</line>
+          <line>Came not Ulysses? Did his courage fail?</line>
+          <line>SPY</line>
+          <line>He, ere I left the camp, with Diomede</line>
+          <line>On some important embassy sailed forth</line>
+          <line>In search-</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Of whom?</line>
+          <line>SPY</line>
+          <line>There was a man- but stay,</line>
+          <line>Who is thy friend here, tell me, but speak softly.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>whispering to him</line>
+          <line>The famous Philoctetes.</line>
+          <line>SPY</line>
+          <line>Ha! begone then!</line>
+          <line>Ask me no more- away, immediately!</line>
+          <line>PHILOCTETES</line>
+          <line>What do these dark mysterious whispers mean?</line>
+          <line>Concern they me, my son?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>I know not what</line>
+          <line>He means to say, but I would have him speak</line>
+          <line>Boldly before us all, whate'er it be.</line>
+          <line>SPY</line>
+          <line>Do not betray me to the Grecian host,</line>
+          <line>Nor make me speak what I would fain conceal.</line>
+          <line>I am but poor- they have befriended me.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>In me thou seest an enemy confest</line>
+          <line>To the Atreidae. This is my best friend</line>
+          <line>Because he hates them too; if thou art mine,</line>
+          <line>Hide nothing then.</line>
+          <line>SPY</line>
+          <line>Consider first.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>I have.</line>
+          <line>SPY</line>
+          <line>The blame will be on you.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Why, let it be:</line>
+          <line>But speak, I charge thee.</line>
+          <line>SPY</line>
+          <line>Since I must then, know,</line>
+          <line>In solemn league combined, the bold Ulysses</line>
+          <line>And gallant Diomede have sworn by force</line>
+          <line>Or by persuasion to bring back thy friend:</line>
+          <line>The Grecians heard Laertes' son declare</line>
+          <line>His purpose; far more resolute he seemed</line>
+          <line>Than Diomede, and surer of success.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>But why the' Atreidae, after so long time,</line>
+          <line>Again should wish to see this wretched exile,</line>
+          <line>Whence this desire? Came it from th' angry gods</line>
+          <line>To punish thus their inhumanity?</line>
+          <line>SPY</line>
+          <line>I can inform you; for perhaps from Greece</line>
+          <line>Of late you have not heard. There was a prophet,</line>
+          <line>Son of old Priam, Helenus by name,</line>
+          <line>Hlim, in his midnight walks, the wily chief</line>
+          <line>Ulysses, curse of every tongue, espied;</line>
+          <line>Took him. and led him captive. to the Creeks</line>
+          <line>A welcome spoil. Much he foretold to all,</line>
+          <line>And added last that Troy should never fall</line>
+          <line>Till Philoctetes from this isle returned.</line>
+          <line>Ulysses heard, and instant promise gave</line>
+          <line>To fetch him hence; he hoped by gentle means</line>
+          <line>To gain him; those successless, force at last</line>
+          <line>Could but compel him. He would go, he cried,</line>
+          <line>And if he failed his head should pay th' forfeit.</line>
+          <line>I've told thee all, and warn thee to be gone,</line>
+          <line>Thou and thy friend, if thou wouldst wish to save him.</line>
+          <line>PHILOCTETES</line>
+          <line>And does the traitor think he can persuade</line>
+          <line>me?</line>
+          <line>As well might he persuade me to return</line>
+          <line>From death to life, as his base father did.</line>
+          <line>SPY</line>
+          <line>Of that know not: I must to my ship.</line>
+          <line>Farewell, and may the gods protect you both!</line>
+          <line>The Spy departs.</line>
+          <line>PHILOCTETES</line>
+          <line>Lead me- expose me to the Grecian host!</line>
+          <line>And could the insolent Ulysses hope</line>
+          <line>With his soft flatteries e'er to conquer me?</line>
+          <line>No! Sooner would I listen to the voice</line>
+          <line>Of that fell serpent, whose envenomed tongue</line>
+          <line>Hath lamed me thus. But what is there he dare not</line>
+          <line>Or say or do? I know he will be here</line>
+          <line>E'en now, depend on't. Therefore, let's away!</line>
+          <line>Quick let the sea divide us from Ulysses.</line>
+          <line>Let us be gone; for well-timed expedition,</line>
+          <line>The task performed, brings safety and repose.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Soon as the wind permits us we embark,</line>
+          <line>But now 'tis adverse.</line>
+          <line>PHILOCTETES</line>
+          <line>Every wind is fair</line>
+          <line>When we are flying from misfortune.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>True;</line>
+          <line>And 'tis against them too.</line>
+          <line>PHILOCTETES</line>
+          <line>Alas! no storms</line>
+          <line>Can drive back fraud and rapine from their prey.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>I'm ready. Take what may be necessary,</line>
+          <line>And follow me.</line>
+          <line>PHILOCTETES</line>
+          <line>I want not much.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Perhaps</line>
+          <line>My ship will furnish you.</line>
+          <line>PHILOCTETES</line>
+          <line>There is a plant</line>
+          <line>Which to my wound gives some relief; I must</line>
+          <line>Have that.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Is there aught else?</line>
+          <line>PHILOCTETES</line>
+          <line>Alas! my bow</line>
+          <line>I had forgot. I must not lose that treasure.</line>
+          <line>PHILOCTETES steps into the cave, and brings out his bow and</line>
+          <line>arrows.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Are these the famous arrows then?</line>
+          <line>PHILOCTETES</line>
+          <line>They are.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>And may I be permitted to behold,</line>
+          <line>To touch, to pay my adoration to them?</line>
+          <line>PHILOCTETES</line>
+          <line>In these, my son, in everything that's mine</line>
+          <line>Thou hast a right,</line>
+          <line>NEOPTOLEMUS</line>
+          <line>But if it be a crime,</line>
+          <line>I would not; otherwise-</line>
+          <line>PHILOCTETES</line>
+          <line>Oh! thou art full</line>
+          <line>Of piety; in thee it is no crime;</line>
+          <line>In thee, my friend, by whom alone I look</line>
+          <line>Once more with pleasure on the radiant sun-</line>
+          <line>By whom I live- who giv'st me to return</line>
+          <line>To my dear father, to my friends, my country:</line>
+          <line>Sunk as I was beneath my foes, once more</line>
+          <line>I rise to triumph o'er them by thy aid:</line>
+          <line>Behold them, touch them, but return them to me,</line>
+          <line>And boast that virtue which on thee alone</line>
+          <line>Bestowed such honour. Virtue made them mine.</line>
+          <line>I can deny thee nothing: he, whose heart</line>
+          <line>Is grateful can alone deserve the name</line>
+          <line>Of friend, to every treasure far superior.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Go in.</line>
+          <line>PHILOCTETES</line>
+          <line>Come with me; for my painful wound</line>
+          <line>Requires thy friendly hand to help me onward.</line>
+          <line>They go into the cave.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>strophe 1</line>
+          <line>Since proud Ixion, doomed to feel</line>
+          <line>The tortures of th' eternal wheel,</line>
+          <line>Bound by the hand of angry Jove,</line>
+          <line>Received the due rewards of impious love;</line>
+          <line>Ne'er was distress so deep or woe so great</line>
+          <line>As on the wretched Philoctetes wait;</line>
+          <line>Who ever with the just and good,</line>
+          <line>Guiltless of fraud and rapine, stood,</line>
+          <line>And the fair paths of virtue still pursued;</line>
+          <line>Alone on this inhospitable shore,</line>
+          <line>Where waves for ever beat and tempests roar,</line>
+          <line>How could he e'er or hope or comfort know,</line>
+          <line>Or painful life support beneath such weight of woe? antistrophe</line>
+          <line>Exposed to the inclement skies,</line>
+          <line>Deserted and forlorn he lies,</line>
+          <line>No friend or fellow-mourner there</line>
+          <line>To soothe his sorrows and divide his care,</line>
+          <line>Or seek the healing plant of power to 'suage</line>
+          <line>His aching wound and mitigate its rage;</line>
+          <line>But if perchance, awhile released</line>
+          <line>From torturing pain, he sinks to rest,</line>
+          <line>Awakened soon, and by sharp hunger prest,</line>
+          <line>Compelled to wander forth in search of food,</line>
+          <line>He crawls in anguish to the neighbouring wood;</line>
+          <line>Even as the tottering infant in despair</line>
+          <line>Who mourns an absent mother's kind supporting care. strophe</line>
+          <line>The teeming earth, who mortals still supplies</line>
+          <line>With every good, to him her seed denies;</line>
+          <line>A stranger to the joy that flows</line>
+          <line>From the kind aid which man on man bestows;</line>
+          <line>Nor food, alas! to him was given,</line>
+          <line>Save when his arrows pierced the birds of heaven;</line>
+          <line>Nor e'er did Bacchus' heart-expanding bow!</line>
+          <line>For ten long years relieve his cheerless soul;</line>
+          <line>But glad was he his eager thirst to slake</line>
+          <line>In the unwholesome pool, or ever-stagnant lake. antistrophe</line>
+          <line>But now, behold the joyful captive freed;</line>
+          <line>A fairer fate, and brighter days succeed:</line>
+          <line>For he at last hath found a friend</line>
+          <line>Of noblest race, to save and to defend,</line>
+          <line>To guide him with protecting hand,</line>
+          <line>And safe restore him to his native land;</line>
+          <line>On Spercheius' flowery banks to join the throng</line>
+          <line>Of Malian nymphs, and lead the choral song</line>
+          <line>On Oeta's top, which saw Alcides rise,</line>
+          <line>And from the flaming pile ascend his native skies.</line>
+          <line>NEOPTOLEMUS and PHILOCTETES enter from the cave. PHILOCTETES is suddenly</line>
+          <line>seized with spasms of pain. He still holds in his hand the bow and</line>
+          <line>arrows.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Come, Philoctetes; why thus silent? Wherefore</line>
+          <line>This sudden terror on thee?</line>
+          <line>PHILOCTETES</line>
+          <line>Oh!</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Whence is it?</line>
+          <line>PHILOCTETES</line>
+          <line>Nothing, my son; go on!</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Is it thy wound</line>
+          <line>That pains thee thus?</line>
+          <line>PHILOCTETES</line>
+          <line>No; I am better now.</line>
+          <line>O gods!</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Why dost thou call thus on the gods?</line>
+          <line>PHILOCTETES</line>
+          <line>To smile propitious, and preserve us- Oh!</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Thou art in misery. Tell me- wilt thou not?</line>
+          <line>What is it?</line>
+          <line>PHILOCTETES</line>
+          <line>O my son! I can no longer</line>
+          <line>Conceal it from thee. Oh! I die, I perish;</line>
+          <line>By the great gods let me implore thee, now</line>
+          <line>This moment, if thou hast a sword. oh! strike,</line>
+          <line>Cut off this painful limb, and end my being!</line>
+          <line>NEOPTOLEMUS</line>
+          <line>What can this mean, that unexpected thus</line>
+          <line>It should torment thee?</line>
+          <line>PHILOCTETES</line>
+          <line>Know you not, my son?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>What is the cause?</line>
+          <line>PHILOCTETES</line>
+          <line>Can you not guess it?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>No.</line>
+          <line>PHILOCTETES</line>
+          <line>Nor I.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>That's stranger still.</line>
+          <line>PHILOCTETES</line>
+          <line>My son, my son</line>
+          <line>NEOPTOLEMUS</line>
+          <line>This new attack is terrible indeed!</line>
+          <line>PHILOCTETES</line>
+          <line>'Tis inexpressible! Have pity on me!</line>
+          <line>NEOPTOLEMUS</line>
+          <line>What shall I do?</line>
+          <line>PHILOCTETES</line>
+          <line>Do not be terrified,</line>
+          <line>And leave me. Its returns are regular,</line>
+          <line>And like the traveller, when its appetite</line>
+          <line>Is satisfied, it will depart. Oh! oh!</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Thou art oppressed with ills on every side.</line>
+          <line>Give me thy hand. Come, wilt thou lean upon me?</line>
+          <line>PHILOCTETES</line>
+          <line>No; but these arrows take; preserve 'em for</line>
+          <line>me.</line>
+          <line>A little while, till I grow better. Sleep</line>
+          <line>Is coming on me, and my pains will cease.</line>
+          <line>Let me be quiet. If meantime our foes</line>
+          <line>Surprise thee, let nor force nor artifice</line>
+          <line>Deprive thee of the great, the precious trust</line>
+          <line>I have reposed in thee; that were ruin</line>
+          <line>To thee, and to thy friend.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Be not afraid-</line>
+          <line>No hands but mine shall touch them; give them to me.</line>
+          <line>PHILOCTETES</line>
+          <line>Receive them, son; and let it be thy prayer</line>
+          <line>They bring not woes on thee, as they have done</line>
+          <line>To me and to Alcides.</line>
+          <line>PHILOCTETES gives him the bow and arrows.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>May the gods</line>
+          <line>Forbid it ever! May they guide our course</line>
+          <line>And speed our prosperous sails!</line>
+          <line>PHILOCTETES</line>
+          <line>Alas! my son,</line>
+          <line>I fear thy vows are vain. Behold my blood</line>
+          <line>Flows from the wound? Oh how it pains me! Now</line>
+          <line>It comes, it hastens! Do not, do not leave me!</line>
+          <line>Oh! that Ulysses felt this racking torture,</line>
+          <line>E'en to his inmost soul! Again it comes!</line>
+          <line>O Agamemnon! Menelaus! why</line>
+          <line>Should not you bear these pangs as I have done?</line>
+          <line>O death! where art thou, death? so often called,</line>
+          <line>Wilt thou not listen? wilt thou never come?</line>
+          <line>Take thou the Lemnian fire, my generous friend,</line>
+          <line>Do me the same kind office which I did</line>
+          <line>For my Alcides. These are thy reward;</line>
+          <line>He gave them to me. Thou alone deservest</line>
+          <line>The great inheritance. What says my friend?</line>
+          <line>What says my dear preserver? Oh! where art thou?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>I mourn thy hapless fate.</line>
+          <line>PHILOCTETES</line>
+          <line>Be of good cheer,</line>
+          <line>Quick my disorder comes, and goes as soon;</line>
+          <line>I only beg thee not to leave me here.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Depend on 't, I will stay.</line>
+          <line>PHILOCTETES</line>
+          <line>Wilt thou indeed?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Trust me, I will.</line>
+          <line>PHILOCTETES</line>
+          <line>I need not bind thee to it</line>
+          <line>By oath.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Oh, no! 'twere impious to forsake thee.</line>
+          <line>PHILOCTETES</line>
+          <line>Give me thy hand, and pledge thy faith.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>I do.</line>
+          <line>PHILOCTETES</line>
+          <line>pointing up to heaven</line>
+          <line>Thither, oh, thither lead!</line>
+          <line>NEOPTOLEMUS</line>
+          <line>What sayst thou? where?</line>
+          <line>PHILOCTETES</line>
+          <line>Above-</line>
+          <line>NEOPTOLEMUS</line>
+          <line>What, lost again? Why lookst thou thus</line>
+          <line>On that bright circle?</line>
+          <line>PHILOCTETES</line>
+          <line>Let me, let me go!</line>
+          <line>NEOPTOLEMUS</line>
+          <line>lays hold of him</line>
+          <line>Where wouldst thou go?</line>
+          <line>PHILOCTETES</line>
+          <line>Loose me.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>I will not.</line>
+          <line>PHILOCTETES</line>
+          <line>Oh!</line>
+          <line>You'll kill me, if you do not.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>lets him go</line>
+          <line>There, then; now</line>
+          <line>Is thy mind better?</line>
+          <line>PHILOCTETES</line>
+          <line>Oh! receive me, earth!</line>
+          <line>Receive a dying man. Here must I lie;</line>
+          <line>For, oh! my pain's so great I cannot rise.</line>
+          <line>PHILOCTETES sinks down on the earth near the entrance of the</line>
+          <line>cave.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Sleep hath o'ertaken him. See, his head is</line>
+          <line>lain</line>
+          <line>On the cold earth; the balmy sweat thick drops</line>
+          <line>From every limb, and from the broken vein</line>
+          <line>Flows the warm blood; let us indulge his slumbers.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>Sleep, thou patron of mankind,</line>
+          <line>Great physician of the mind,</line>
+          <line>Who dost nor pain nor sorrow know,</line>
+          <line>Sweetest balm of every woe,</line>
+          <line>Mildest sovereign, hear us now;</line>
+          <line>Hear thy wretched suppliant's vow;</line>
+          <line>His eyes in gentle slumbers close,</line>
+          <line>And continue his repose;</line>
+          <line>Hear thy wretched suppliant's vow,</line>
+          <line>Great physician, hear us now.</line>
+          <line>And now, my son, what best may suit thy purpose</line>
+          <line>Consider well, and how we are to act.</line>
+          <line>What more can we expect? The time is come;</line>
+          <line>For better far is opportunity</line>
+          <line>Seized at the lucky hour than all the counsels</line>
+          <line>Which wisdom dictates or which craft inspires.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>chanting</line>
+          <line>He hears us not. But easy as it is</line>
+          <line>To gain the prize, it would avail us nothing</line>
+          <line>Were he not with us. Phoebus hath reserved</line>
+          <line>For him alone the crown of victory;</line>
+          <line>But thus to boast of what we could not do,</line>
+          <line>And break our word, were most disgraceful to us.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>The gods will guide us, fear it not, my son;</line>
+          <line>But what thou sayst speak soft, for well thou knowst</line>
+          <line>The sick man's sleep is short. He may awake</line>
+          <line>And hear us; therefore let us hide our purpose.</line>
+          <line>If then thou thinkst as he does- thou knowst whom-</line>
+          <line>This is the hour. At such a time, my son,</line>
+          <line>The wisest err. But mark me, the wind's fair,</line>
+          <line>And Philoctetes sleeps, void of all help-</line>
+          <line>Lame, impotent, unable to resist,</line>
+          <line>He is as one among the dead. E'en now</line>
+          <line>We'll take him with us. 'Twere an easy task.</line>
+          <line>Leave it to me, my son. There is no danger.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>No more! His eyes are open. See, he moves.</line>
+          <line>PHILOCTETES</line>
+          <line>awaking</line>
+          <line>O fair returning light! beyond my hope;</line>
+          <line>You too, my kind preservers! O my son!</line>
+          <line>I could not think thou wouldst have stayed so long</line>
+          <line>In kind compassion to thy friend. Alas!</line>
+          <line>The Atreidae never would have acted thus.</line>
+          <line>But noble is thy nature, and thy birth,</line>
+          <line>And therefore little did my wretchedness,</line>
+          <line>Nor from my wounds the noisome stench deter</line>
+          <line>Thy generous heart. I have a little respite;</line>
+          <line>Help me, my son I I'll try to rise; this weakness</line>
+          <line>Will leave me soon, and then we'll go together.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>I little thought to find thee thus restored.</line>
+          <line>Trust me, I joy to see thee free from pain,</line>
+          <line>And hear thee speak; the marks of death were on</line>
+          <line>thee,</line>
+          <line>Raise thyself up; thy friends here, if thou wilt,</line>
+          <line>Shall carry thee, 'twill be no burthen to them</line>
+          <line>If we request it.</line>
+          <line>PHILOCTETES</line>
+          <line>No; thy hand alone;</line>
+          <line>I will not trouble them; 'twill be enough</line>
+          <line>If they can bear with me and my distemper</line>
+          <line>When we embark.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Well, be it so; but rise.</line>
+          <line>PHILOCTETES</line>
+          <line>rising</line>
+          <line>Oh I never fear; I'll rise as well as ever.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>half to himself</line>
+          <line>How shall I act?</line>
+          <line>PHILOCTETES</line>
+          <line>What says my son?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Alas!</line>
+          <line>I know not what to say; my doubtful mind-</line>
+          <line>PHILOCTETES</line>
+          <line>Talked you of doubts? You did not surely.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Aye,</line>
+          <line>That's my misfortune.</line>
+          <line>PHILOCTETES</line>
+          <line>Is then my distress</line>
+          <line>The cause at last you will not take me with you?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>All is distress and misery when we act</line>
+          <line>Against our nature and consent to ill.</line>
+          <line>PHILOCTETES</line>
+          <line>But sure to help a good man in misfortunes</line>
+          <line>Is not against thy nature.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Men will call me</line>
+          <line>A villain; that distracts me.</line>
+          <line>PHILOCTETES</line>
+          <line>Not for this;</line>
+          <line>For what thou meanst to do thou mayst deserve it</line>
+          <line>NEOPTOLEMUS</line>
+          <line>What shall I do? Direct me, Jove! To hide</line>
+          <line>What I should speak, and tell a base untruth</line>
+          <line>Were double guilt.</line>
+          <line>PHILOCTETES</line>
+          <line>He purposes at last,</line>
+          <line>I fear it much, to leave me.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Leave thee! No!</line>
+          <line>But how to make thee go with pleasure hence,</line>
+          <line>There I'm distressed.</line>
+          <line>PHILOCTETES</line>
+          <line>I understand thee not;</line>
+          <line>What means my son?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>I can no longer hide</line>
+          <line>The dreadful secret from thee; thou art going</line>
+          <line>To Troy, e'en to the Greeks, to the Atreidae.</line>
+          <line>PHILOCTETES</line>
+          <line>Alas! what sayest thou?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Do not weep, but hear me.</line>
+          <line>PHILOCTETES</line>
+          <line>What must I hear? what wilt thou do with me?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>First set thee free; then carry thee, my</line>
+          <line>friend,</line>
+          <line>To conquer Troy.</line>
+          <line>PHILOCTETES</line>
+          <line>Is this indeed thy purpose?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>This am I bound to do.</line>
+          <line>PHILOCTETES</line>
+          <line>Then am I lost,</line>
+          <line>Undone, betrayed. Canst thou, my friend, do this?</line>
+          <line>Give me my arms again.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>It cannot be.</line>
+          <line>I must obey the powers who sent me hither; justice enjoins- the common</line>
+          <line>cause demands it,</line>
+          <line>PHILOCTETES</line>
+          <line>Thou worst of men, thou vile artificer</line>
+          <line>Of fraud most infamous, what hast thou done?</line>
+          <line>How have I been deceived? Dost thou not blush</line>
+          <line>To look upon me, to behold me thus</line>
+          <line>Beneath thy feet imploring? Base betrayer!</line>
+          <line>To rob me of my bow, the means of life,</line>
+          <line>The only means- give 'em, restore 'em to me!</line>
+          <line>Do not take all Alas Alas! he hears me not,</line>
+          <line>Nor deigns to speak, but casts an angry look</line>
+          <line>That says I never shall be free again.</line>
+          <line>O mountains, rivers, rocks, and savage herds!</line>
+          <line>To you I speak- to you alone I now</line>
+          <line>Must breathe my sorrows; you are wont to hear</line>
+          <line>My sad complaints, and I will tell you all</line>
+          <line>That I have suffered from Achilles' son,</line>
+          <line>Who, bound by solemn oath to bear me hence</line>
+          <line>To my dear native soil, now sails for Troy.</line>
+          <line>The perjured wretch first gave his plighted hand,</line>
+          <line>Then stole the sacred arrows of my friend,</line>
+          <line>The son of Jove, the great Alcides; those</line>
+          <line>He means to show the Greeks, to snatch me hence</line>
+          <line>And boast his prize, as if poor Philoctetes,</line>
+          <line>This empty shade, were worthy of his arm.</line>
+          <line>Had I been what I was, he ne'er had thus</line>
+          <line>Subdued me, and e'en now to fraud alone</line>
+          <line>He owes the conquest. I have been betrayed!</line>
+          <line>Give me my arms again, and be thyself</line>
+          <line>Once more. Oh, speak! Thou wilt not? Then I'm lost.</line>
+          <line>O my poor hut! again I come to thee</line>
+          <line>Naked and destitute of food; once more</line>
+          <line>Receive me, here to die; for now, no longer</line>
+          <line>Shall my swift arrow reach the flying prey,</line>
+          <line>Or on the mountains pierce the wandering herd:</line>
+          <line>I shall myself afford a banquet now</line>
+          <line>To those I used to feed on- they the hunters,</line>
+          <line>And I their easy prey; so shall the blood</line>
+          <line>Which I so oft have shed be paid by mine;</line>
+          <line>And all this too from him whom once I deemed</line>
+          <line>Stranger to fraud nor capable of ill;</line>
+          <line>And yet I will not curse thee till I know</line>
+          <line>Whether thou still retainst thy horrid purpose,</line>
+          <line>Or dost repent thee of it; if thou dost not,</line>
+          <line>Destruction wait thee!</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>We attend your pleasure,</line>
+          <line>My royal lord, we must be gone; determine</line>
+          <line>To leave, or take him with us.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>His distress</line>
+          <line>Doth move me much. Trust me, I long have felt</line>
+          <line>Compassion for him.</line>
+          <line>PHILOCTETES</line>
+          <line>Oh then by the gods</line>
+          <line>Pity me now, my son, nor let mankind</line>
+          <line>Reproach thee for a fraud so base.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Alas!</line>
+          <line>What shall I do? Would I were still at Scyros!</line>
+          <line>For I am most unhappy.</line>
+          <line>PHILOCTETES</line>
+          <line>O my son!</line>
+          <line>Thou art not base by nature, but misguided</line>
+          <line>By those who are, to deeds unworthy of thee.</line>
+          <line>Turn then thy fraud on them who best deserve it;</line>
+          <line>Restore my arms, and leave me.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Speak, my friends,</line>
+          <line>What's to be done?</line>
+          <line>ULYSSES enters suddenly.</line>
+          <line>ULYSSES</line>
+          <line>Ah! dost thou hesitate?</line>
+          <line>Traitor, be gone! Give me the arms.</line>
+          <line>PHILOCTETES</line>
+          <line>Ah me!</line>
+          <line>Ulysses here?</line>
+          <line>ULYSSES</line>
+          <line>Aye! 'tis Ulysses' self</line>
+          <line>That stands before thee.</line>
+          <line>PHILOCTETES</line>
+          <line>Then I'm lost, betrayed!</line>
+          <line>This was the cruel spoiler.</line>
+          <line>ULYSSES</line>
+          <line>Doubt it not.</line>
+          <line>'Twas I; I do confess it.</line>
+          <line>PHILOCTETES</line>
+          <line>to NEOPTOLEMUS</line>
+          <line>O my son!</line>
+          <line>Give me them back.</line>
+          <line>ULYSSES</line>
+          <line>It must not be; with them</line>
+          <line>Thyself must go, or we shall drag thee hence.</line>
+          <line>PHILOCTETES</line>
+          <line>And will they force me? O thou daring villain!</line>
+          <line>ULYSSES</line>
+          <line>They will, unless thou dost consent to go.</line>
+          <line>PHILOCTETES</line>
+          <line>Wilt thou, O Lemnos! wilt thou, mighty Vulcan!</line>
+          <line>With thy all-conquering fire, permit me thus</line>
+          <line>To be torn from thee?</line>
+          <line>ULYSSES</line>
+          <line>Know, great Jove himself</line>
+          <line>Doth here preside. He hath decreed thy fate;</line>
+          <line>I but perform his will.</line>
+          <line>PHILOCTETES</line>
+          <line>Detested wretch,</line>
+          <line>Mak'st thou the gods a cover for thy crime?</line>
+          <line>Do they teach falsehood?</line>
+          <line>ULYSSES</line>
+          <line>No, they taught me truth,</line>
+          <line>And therefore, hence- that way thy journey lies.</line>
+          <line>Pointing to the sea</line>
+          <line>PHILOCTETES</line>
+          <line>It doth not.</line>
+          <line>ULYSSES</line>
+          <line>But I say it must be so.</line>
+          <line>PHILOCTETES</line>
+          <line>And Philoctetes then was born a slave!</line>
+          <line>I did not know it,</line>
+          <line>ULYSSES</line>
+          <line>No; I mean to place thee</line>
+          <line>E'en with the noblest, e'en with those by whom</line>
+          <line>Proud Troy must perish.</line>
+          <line>PHILOCTETES</line>
+          <line>Never will I go,</line>
+          <line>Befall what may, whilst this deep cave is open</line>
+          <line>To bury all my sorrows.</line>
+          <line>ULYSSES</line>
+          <line>What wouldst do?</line>
+          <line>PHILOCTETES</line>
+          <line>Here throw me down, dash out my desperate</line>
+          <line>brains</line>
+          <line>Against this rock, and sprinkle it with my blood.</line>
+          <line>ULYSSES</line>
+          <line>to the CHORUS</line>
+          <line>Seize, and prevent him!</line>
+          <line>They seize him.</line>
+          <line>PHILOCTETES</line>
+          <line>Manacled! O hands!</line>
+          <line>How helpless are you now! those arms, which once</line>
+          <line>Protected, thus torn from you!</line>
+          <line>To ULYSSES</line>
+          <line>Thou abandoned,</line>
+          <line>Thou shameless wretch! from whom nor truth nor justice,</line>
+          <line>Naught that becomes the generous mind, can flow,</line>
+          <line>How hast thou used me! how betrayed! Suborned</line>
+          <line>This stranger, this poor youth, who, worthier far</line>
+          <line>To be my friend than thine, was only here</line>
+          <line>Thy instrument; he knew not what he did,</line>
+          <line>And now, thou seest, repents him of the crime</line>
+          <line>Which brought such guilt on him, such woes on me.</line>
+          <line>But thy foul soul, which from its dark recess</line>
+          <line>Trembling looks forth, beheld him void of art,</line>
+          <line>Unwilling as he was, instructed him,</line>
+          <line>And made him soon a master in deceit.</line>
+          <line>I am thy prisoner now; e'en now thou meanst</line>
+          <line>To drag me hence, from this unhappy shore,</line>
+          <line>Where first thy malice left me, a poor exile,</line>
+          <line>Deserted, friendless, and though living, dead</line>
+          <line>To all mankind. Perish the vile betrayer!</line>
+          <line>Oh! I have cursed thee often, but the gods</line>
+          <line>Will never bear the prayers of Philoctetes.</line>
+          <line>Life and its joys are thine, whilst I, unhappy,</line>
+          <line>Am but the scorn of thee, and the Atreidae,</line>
+          <line>Thy haughty masters. Fraud and force compelled thee,</line>
+          <line>Or thou hadst never sailed with them to Troy.</line>
+          <line>I lent my willing aid; with seven brave ships</line>
+          <line>I ploughed the main to serve them. In return</line>
+          <line>They cast me forth, disgraced me, left me here.</line>
+          <line>Thou sayst they did it; they impute the crime</line>
+          <line>To thee. And what will you do with me now?</line>
+          <line>And whither must I go? What end, what purpose</line>
+          <line>Could urge thee to it? I am nothing, lost</line>
+          <line>And dead already. Wherefore- tell me, wherefore?-</line>
+          <line>Am I not still the same detested burthen,</line>
+          <line>Loathsome and lame? Again must Philoctetes</line>
+          <line>Disturb your holy rites? If I am with you</line>
+          <line>How can you make libations? That was once</line>
+          <line>Your vile pretence for inhumanity.</line>
+          <line>Oh! may you perish for the deed! The gods</line>
+          <line>Will grant it sure, if justice be their care</line>
+          <line>And that it is I know. You had not left</line>
+          <line>Your native soil to seek a wretch like me</line>
+          <line>Had not some impulse from the powers above,</line>
+          <line>Spite of yourselves, ordained it. O my country!</line>
+          <line>And you, O gods! who look upon this deed,</line>
+          <line>Punish, in pity to me, punish all</line>
+          <line>The guilty band! Could I behold them perish,</line>
+          <line>My wounds were nothing; that would heal them all.</line>
+          <line>LEADER</line>
+          <line>to ULYSSES</line>
+          <line>Observe, my lord, what bitterness of soul</line>
+          <line>His words express; he bends not to misfortune,</line>
+          <line>But seems to brave it.</line>
+          <line>ULYSSES</line>
+          <line>I could answer him,</line>
+          <line>Were this a time for words; but now, no more</line>
+          <line>Than this- I act as best befits our purpose.</line>
+          <line>Where virtue, truth, and justice are required</line>
+          <line>Ulysses yields to none; I was not born</line>
+          <line>To be o'ercome, and yet submit to thee.</line>
+          <line>Let him remain. Thy arrows shall suffice;</line>
+          <line>We want thee not! Teucer can draw thy bow</line>
+          <line>As well as thou; myself with equal strength</line>
+          <line>Can aim the deadly shaft, with equal skill.</line>
+          <line>What could thy presence do? Let Lemnos keep thee.</line>
+          <line>Farewell! perhaps the honours once designed</line>
+          <line>For thee may be reserved to grace Ulysses.</line>
+          <line>PHILOCTETES</line>
+          <line>Alas! shall Greece then see my deadliest</line>
+          <line>foe</line>
+          <line>Adorned with arms which I alone should bear?</line>
+          <line>ULYSSES</line>
+          <line>No more! I must be gone.</line>
+          <line>PHILOCTETES</line>
+          <line>to NEOPTOLEMUS</line>
+          <line>Son of Achilles,</line>
+          <line>Thou wilt not leave me too? I must not lose</line>
+          <line>Thy converse, thy assistance.</line>
+          <line>ULYSSES</line>
+          <line>to NEOPTOLEMUS</line>
+          <line>Look not on him;</line>
+          <line>Away, I charge thee! 'Twould be fatal to us.</line>
+          <line>PHILOCTETES</line>
+          <line>to the CHORUS</line>
+          <line>Will you forsake me, friends? Dwells no compassion</line>
+          <line>Within your breasts for me?</line>
+          <line>LEADER</line>
+          <line>pointing to NEOPTOLEMUS</line>
+          <line>He is our master;</line>
+          <line>We speak and act but as his will directs.</line>
+          <line>NEOPTOLEMUS</line>
+          <line>I know be will upbraid me for this weakness,</line>
+          <line>But 'tis my nature, and I must consent,</line>
+          <line>Since Philoctetes asks it. Stay you with him,</line>
+          <line>Till to the gods our pious prayers we offer,</line>
+          <line>And all things are prepared for our departure;</line>
+          <line>Perhaps, meantime, to better thoughts his mind</line>
+          <line>May turn relenting. We must go. Remember,</line>
+          <line>When we shall call you, follow instantly.</line>
+          <line>NEOPTOLEMUS, still with the bow in his hands, goes out with ULYSSES.</line>
+          <line>The lines in the following scene between PHILOCTETES and the CHORUS are</line>
+          <line>chanted responsively.</line>
+          <line>PHILOCTETES</line>
+          <line>O my poor hut! and is it then decreed</line>
+          <line>Again I come to thee to part no more,</line>
+          <line>To end my wretched days in this sad cave,</line>
+          <line>The scene of all my woes? For whither now</line>
+          <line>Can I betake me? Who will feed, support,</line>
+          <line>Or cherish Philoctetes? Not a hope</line>
+          <line>Remains for me. Oh! that th' impetuous storms</line>
+          <line>Would bear me with them to some distant clime!</line>
+          <line>For I must perish here.</line>
+          <line>CHORUS</line>
+          <line>Unhappy man!</line>
+          <line>Thou hast provoked thy fate; thyself alone</line>
+          <line>Art to thyself a foe, to scorn the good,</line>
+          <line>Which wisdom bids thee take, and choose misfortune.</line>
+          <line>PHILOCTETES</line>
+          <line>Wretch that I am, to perish here alone!</line>
+          <line>Oh! I shall see the face of man no more,</line>
+          <line>Nor shall my arrows pierce their winged prey,</line>
+          <line>And bring me sustenance! Such vile delusions</line>
+          <line>Used to betray me! Oh! that pains like those</line>
+          <line>I feel might reach the author of my woes!</line>
+          <line>CHORUS</line>
+          <line>The gods decreed it; we are not to blame.</line>
+          <line>Heap not thy curses therefore on the guiltless,</line>
+          <line>But take our friendship.</line>
+          <line>PHILOCTETES</line>
+          <line>pointing to the sea-shore</line>
+          <line>I behold him there;</line>
+          <line>E'en now I see him laughing me to scorn</line>
+          <line>On yonder shore, and in his hands the darts</line>
+          <line>He waves triumphant, which no arms but these</line>
+          <line>Had ever borne. O my dear glorious treasure!</line>
+          <line>Hadst thou a mind to feel th' indignity,</line>
+          <line>How wouldst thou grieve to change thy noble master,</line>
+          <line>The friend of great Alcides, for a wretch</line>
+          <line>So vile, so base, so impious as Ulysses!</line>
+          <line>CHORUS</line>
+          <line>justice will ever rule the good man's tongue,</line>
+          <line>Nor from his lips reproach and bitterness</line>
+          <line>Invidious flow. Ulysses, by the voice</line>
+          <line>Of Greece appointed, only sought a friend</line>
+          <line>To join the common cause, and serve his country.</line>
+          <line>PHILOCTETES</line>
+          <line>Hear me, ye winged inhabitants of air,</line>
+          <line>And you, who on these mountains love to feed,</line>
+          <line>My savage prey, whom once I could pursue;</line>
+          <line>Fearful no more of Philoctetes, fly</line>
+          <line>This hollow rock- I cannot hurt you now;</line>
+          <line>You need not dread to enter here. Alas!</line>
+          <line>You now may come, and in your turn regale</line>
+          <line>On these poor limbs, when I shall be no more.</line>
+          <line>Where can I hope for food? or who can breathe</line>
+          <line>This vital air, when life-preserving earth</line>
+          <line>No longer will assist him?</line>
+          <line>CHORUS</line>
+          <line>By the gods!</line>
+          <line>Let me entreat thee, if thou dost regard</line>
+          <line>Our master, and thy friend, come to him now,</line>
+          <line>Whilst thou mayst 'scape this sad calamity;</line>
+          <line>Who but thyself would choose to be unhappy</line>
+          <line>That could prevent it?</line>
+          <line>PHILOCTETES</line>
+          <line>Oh! you have brought back</line>
+          <line>Once more the sad remembrance of my griefs;</line>
+          <line>Why, why, my friends, would you afflict me thus?</line>
+          <line>CHORUS</line>
+          <line>Afflict thee- how?</line>
+          <line>PHILOCTETES</line>
+          <line>Think you I'll e'er return</line>
+          <line>To hateful Troy?</line>
+          <line>CHORUS</line>
+          <line>We would advise thee to it.</line>
+          <line>PHILOCTETES</line>
+          <line>I'll hear no more. Go, leave me!</line>
+          <line>CHORUS</line>
+          <line>That we shall</line>
+          <line>Most gladly. To the ships, my friends; away!</line>
+          <line>Going</line>
+          <line>Obey your orders.</line>
+          <line>PHILOCTETES</line>
+          <line>stops them</line>
+          <line>By protecting Jove,</line>
+          <line>Who hears the suppliant's prayer, do not forsake me!</line>
+          <line>CHORUS</line>
+          <line>returning</line>
+          <line>Be calm then.</line>
+          <line>PHILOCTETES</line>
+          <line>O my friends! will you then stay?</line>
+          <line>Do, by the gods I beg you.</line>
+          <line>CHORUS</line>
+          <line>Why that groan?</line>
+          <line>PHILOCTETES</line>
+          <line>Alas! I die. My wound, my wound! Hereafter</line>
+          <line>What can I do? You will not leave me! Hear-</line>
+          <line>CHORUS</line>
+          <line>What canst thou say we do not know already?</line>
+          <line>PHILOCTETES</line>
+          <line>O'erwhelmed by such a storm of griefs as I</line>
+          <line>am,</line>
+          <line>You should not thus resent a madman's frenzy.</line>
+          <line>CHORUS</line>
+          <line>Comply then and be happy.</line>
+          <line>PHILOCTETES</line>
+          <line>Never, never!</line>
+          <line>Be sure of that. Tho' thunder-bearing Jove</line>
+          <line>Should with his lightnings blast me, would I go?</line>
+          <line>No! Let Troy perish, perish all the host</line>
+          <line>Who sent me here to die; but, O my friends!</line>
+          <line>Grant me this last request.</line>
+          <line>CHORUS</line>
+          <line>What is it? Speak.</line>
+          <line>PHILOCTETES</line>
+          <line>A sword, a dart, some instrument of death.</line>
+          <line>CHORUS</line>
+          <line>What wouldst thou do?</line>
+          <line>PHILOCTETES</line>
+          <line>I'd hack off every limb.</line>
+          <line>Death, my soul longs for death.</line>
+          <line>CHORUS</line>
+          <line>But wherefore is it?</line>
+          <line>PHILOCTETES</line>
+          <line>I'll seek my father.</line>
+          <line>CHORUS</line>
+          <line>Whither?</line>
+          <line>PHILOCTETES</line>
+          <line>In the tomb;</line>
+          <line>There he must be. O Scyros! O my country!</line>
+          <line>How could I bear to see thee as I am-</line>
+          <line>I who had left thy sacred shores to aid</line>
+          <line>The hateful sons of Greece? O misery!</line>
+          <line>He goes into the cave.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>speaking</line>
+          <line>Ere now we should have taken thee to our ships,</line>
+          <line>But that advancing this way I behold</line>
+          <line>Ulysses, and with him Achilles' son.</line>
+          <line>NEOPTOLEMUS enters still carrying the bow; he is followed closely by</line>
+          <line>ULYSSES.</line>
+          <line>ULYSSES</line>
+          <line>Why this return? Wherefore this haste?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>I come</line>
+          <line>To purge me of my crimes.</line>
+          <line>ULYSSES</line>
+          <line>Indeed! What crimes?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>My blind obedience to the Grecian host</line>
+          <line>And to thy counsels.</line>
+          <line>ULYSSES</line>
+          <line>Hast thou practised aught</line>
+          <line>Base or unworthy of thee?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Yes; by art</line>
+          <line>And vile deceit betrayed th' unhappy.</line>
+          <line>ULYSSES</line>
+          <line>Whom?</line>
+          <line>Alas! what mean you?</line>
+          <line>NEOPTOLEMUS</line>
+          <line>Nothing. But the son</line>
+          <line>Of Poeas-</line>
+          <line>ULYSSES</line>
+          <line>BLOC</line>
+        </stanza>
+      </poem>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="sophocles-philoct-colophon">
+        <p xml:id="sophocles-philoct-colophon-p-1">Author: Sophocles</p>
+        <p xml:id="sophocles-philoct-colophon-p-2">Translated by Thomas Francklin</p>
+        <p xml:id="sophocles-philoct-colophon-p-3">Written: 409 BCE</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

@@ -1,0 +1,1355 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="euripides-alcestis">
+    <title>Alcestis</title>
+    <chapter xml:id="alcestis-alcestis">
+      <title>Alcestis</title>
+      <p xml:id="alcestis-alcestis-head-1">
+        <em>Dramatis Personae</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-2">APOLLO DEATH CHORUS OF OLD MEN A WOMAN SERVANT ALCESTIS, the Queen, wife of ADMETUS ADMETUS, King of Thessaly EUMELUS, their child HERACLES PHERES, father of ADMETUS Scene At Pherae, outside the Palace of ADMETUS, King of Thessaly. The centre of the scene represents a portico with columns and a large double-door. To the left are the women's quarters, to the right the guest rooms. The centre doors of the Palace slowly open inwards, and Apollo comes out. In his left hand he carries a large unstrung golden bow. He moves slowly and majestically, turns, and raises his right hand in salutation to the Palace.</p>
+      <p xml:id="alcestis-alcestis-head-3">
+        <em>APOLLO</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-4">Dwelling of Admetus, wherein I, a God, deigned to accept the food of serfs!</p>
+      <p xml:id="alcestis-alcestis-p-5">The cause was Zeus. He struck Asclepius, my son, full in the breast with a bolt of thunder, and laid him dead. Then in wild rage I slew the Cyclopes who forge the fire of Zeus. To atone for this my Father forced me to labour as a hireling for a mortal man; and I came to this country, and tended oxen for my host. To this hour I have protected him and his. I, who am just, chanced on the son of Pheres, a just man, whom I have saved from Death by tricking the Fates. The Goddesses pledged me their faith Admetus should escape immediate death if, in exchange, another corpse were given to the Under-Gods.</p>
+      <p xml:id="alcestis-alcestis-p-6">One by one he tested all his friends, and even his father and the old mother who bad brought him forth-and found none that would die for him and never more behold the light of day, save only his wife. Now, her spirit waiting to break loose, she droops upon his arm within the house; this is the day when she must die and render up her life.</p>
+      <p xml:id="alcestis-alcestis-p-7">But I must leave this Palace's dear roof, for fear pollution soil me in the house.</p>
+      <p xml:id="alcestis-alcestis-p-8">See! Death, Lord of All the Dead, now comes to lead her to the house of Hades! Most punctually he comes! How well he marked the day she had to die! From the right comes DEATH, with a drawn sword in his hand. He moves stealthily towards the Palace; then sees APOLLO and halts abruptly. The two Deities confront each other.</p>
+      <p xml:id="alcestis-alcestis-head-9">
+        <em>DEATH</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-10">Ha! Phoebus! You! Before this Palace! Lawlessly would you grasp, abolish the rights of the Lower Gods! Did you not beguile the Fates and snatch Admetus from the grave? Does not that suffice? Now, once again, you have armed your hand with the bow, to guard the daughter of Pelias who must die in her husband's stead!</p>
+      <p xml:id="alcestis-alcestis-head-11">
+        <em>APOLLO</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-12">Fear not! I hold for right, and proffer you just words.</p>
+      <p xml:id="alcestis-alcestis-head-13">
+        <em>DEATH</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-14">If you hold for right, why then your bow?</p>
+      <p xml:id="alcestis-alcestis-head-15">
+        <em>APOLLO</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-16">My custom is ever to carry it.</p>
+      <p xml:id="alcestis-alcestis-head-17">
+        <em>DEATH</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-18">Yes! And you use it unjustly to aid this house!</p>
+      <p xml:id="alcestis-alcestis-head-19">
+        <em>APOLLO</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-20">I grieve for a friend's woe.</p>
+      <p xml:id="alcestis-alcestis-head-21">
+        <em>DEATH</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-22">So you would rob me of a second body?</p>
+      <p xml:id="alcestis-alcestis-head-23">
+        <em>APOLLO</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-24">Not by force I won the other.</p>
+      <p xml:id="alcestis-alcestis-head-25">
+        <em>DEATH</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-26">Why, then, is he in the world and not below the ground?</p>
+      <p xml:id="alcestis-alcestis-head-27">
+        <em>APOLLO</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-28">In his stead he gives his wife-whom you have come to take.</p>
+      <p xml:id="alcestis-alcestis-head-29">
+        <em>DEATH</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-30">And shall take-to the Underworld below the earth!</p>
+      <p xml:id="alcestis-alcestis-head-31">
+        <em>APOLLO</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-32">Take her, and go! I know not if I can persuade you...</p>
+      <p xml:id="alcestis-alcestis-head-33">
+        <em>DEATH</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-34">Not to kill her I must kill? I am appointed to that task.</p>
+      <p xml:id="alcestis-alcestis-head-35">
+        <em>APOLLO</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-36">No, no! But to delay death for those about to die.</p>
+      <p xml:id="alcestis-alcestis-head-37">
+        <em>DEATH</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-38">I hear your words and guess your wish!</p>
+      <p xml:id="alcestis-alcestis-head-39">
+        <em>APOLLO</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-40">May not Alcestis live to old age?</p>
+      <p xml:id="alcestis-alcestis-head-41">
+        <em>DEATH</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-42">No! I also prize my rights!</p>
+      <p xml:id="alcestis-alcestis-head-43">
+        <em>APOLLO</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-44">Yet at most you win one life.</p>
+      <p xml:id="alcestis-alcestis-head-45">
+        <em>DEATH</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-46">They who die young yield me a greater prize.</p>
+      <p xml:id="alcestis-alcestis-head-47">
+        <em>APOLLO</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-48">If she dies old, the burial will be richer.</p>
+      <p xml:id="alcestis-alcestis-head-49">
+        <em>DEATH</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-50">Phoebus, that argument favours the rich.</p>
+      <p xml:id="alcestis-alcestis-head-51">
+        <em>APOLLO</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-52">What! Are you witty unawares?</p>
+      <p xml:id="alcestis-alcestis-head-53">
+        <em>DEATH</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-54">The rich would gladly pay to die old.</p>
+      <p xml:id="alcestis-alcestis-head-55">
+        <em>APOLLO</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-56">So you will not grant me this favour?</p>
+      <p xml:id="alcestis-alcestis-head-57">
+        <em>DEATH</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-58">Not I! You know my nature.</p>
+      <p xml:id="alcestis-alcestis-head-59">
+        <em>APOLLO</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-60">Yes! Hateful to men and a horror to the gods!</p>
+      <p xml:id="alcestis-alcestis-head-61">
+        <em>DEATH</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-62">You cannot always have more than your due.</p>
+      <p xml:id="alcestis-alcestis-head-63">
+        <em>APOLLO</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-64">Yet you shall change, most cruel though you are! For a man comes to the dwelling of Pheres, sent by Eurystheus to fetch a horse-drawn chariot from the harsh-wintered lands of Thrace; and he shall be a guest in the house of Admetus, and by force shall he tear this woman from you. Thus shall you gain no thanks from us, and yet you shall do this thing-and my hatred be upon you APOLLO goes out. DEATH gazes after him derisively.</p>
+      <p xml:id="alcestis-alcestis-head-65">
+        <em>DEATH</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-66">Talk all you will, you get no more of me! The woman shall go down to the dwelling of Hades. Now must I go to consecrate her for the sacrifice with this sword; for when once this blade has shorn the victim's hair, then he is sacred to the Lower Gods! DEATH enters the Palace by the open main door. The CHORUS enters from the right. They are the Elders or Notables of the city, and, therefore move slowly, leaning upon their staffs.</p>
+      <p xml:id="alcestis-alcestis-head-67">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-68">chanting Why is there no sound outside the Palace? Why is the dwelling of Admetus silent? Not a friend here to tell me if I must weep for a dead Queen or whether she lives and looks upon the light, Alcestis, the daughter of Pelias, whom among all women I hold the best wife to her spouse!</p>
+      <p xml:id="alcestis-alcestis-head-69">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-70">Singing Is a sob to be heard? Or the beating of hands In the house? The lament for her end? Not one, Not one of her servants Stands at the gate!</p>
+      <p xml:id="alcestis-alcestis-p-71">Ah! to roll back the wave of our woe, O Healer, Appear!</p>
+      <p xml:id="alcestis-alcestis-head-72">
+        <em>FIRST SEMI-CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-73">Were she dead They had not been silent.</p>
+      <p xml:id="alcestis-alcestis-head-74">
+        <em>SECOND SEMI-CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-75">She is but a dead body!</p>
+      <p xml:id="alcestis-alcestis-head-76">
+        <em>FIRST SEMI-CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-77">Yet she has not departed the house.</p>
+      <p xml:id="alcestis-alcestis-head-78">
+        <em>SECOND SEMI-CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-79">Ah! Let me not boast! Why do you cling to hope?</p>
+      <p xml:id="alcestis-alcestis-head-80">
+        <em>FIRST SEMI-CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-81">Would Admetus bury her solitary, Make a grave alone for a wife so dear?</p>
+      <p xml:id="alcestis-alcestis-head-82">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-83">At the gate I see not The lustral water from the spring Which stands at the gates of the dead! No shorn tress in the portal Laid in lament for the dead! The young women beat not their hands!</p>
+      <p xml:id="alcestis-alcestis-head-84">
+        <em>SECOND SEMI-CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-85">Yet to-day is the day appointed....</p>
+      <p xml:id="alcestis-alcestis-head-86">
+        <em>FIRST SEMI-CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-87">Ah! What have you said?</p>
+      <p xml:id="alcestis-alcestis-head-88">
+        <em>SECOND SEMI-CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-89">When she must descend under earth</p>
+      <p xml:id="alcestis-alcestis-head-90">
+        <em>FIRST SEMI-CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-91">You have pierced my soul! You have pierced my mind!</p>
+      <p xml:id="alcestis-alcestis-head-92">
+        <em>SECOND SEMI-CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-93">He that for long Has been held in esteem Must weep when the good are destroyed.</p>
+      <p xml:id="alcestis-alcestis-head-94">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-95">No! There is no place on earth To send forth a suppliant ship- Not to Lycia, Not to Ammon's waterless shrine- To save her from death! The dreadful doom is at hand. To what laden altar of what God Shall I turn my steps?</p>
+      <p xml:id="alcestis-alcestis-p-96">He alone- If the light yet shone for his eye- Asclepius, Phoebus's son, Could have led her back From the land of shadows, From the gates of Hades, For he raised the dead Ere the Zeus-driven shaft Slew him with thunder fire.... But now What hope can I hold for her life?</p>
+      <p xml:id="alcestis-alcestis-head-97">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-98">chanting The King has fulfilled Every rite; The altars of all the Gods Drip with the blood of slain beasts: Nothing, nothing avails. From the women's quarters in the left wing of the Palace comes a woman in tears. She is not a slave, but one of the personal attendants on the Queen. But now from the house comes one of her women servants, all in tears. What now shall I learn? To the weeping Servant It is well to weep when our lords are in sorrow-but tell us, we would know, is she alive, is she dead?</p>
+      <p xml:id="alcestis-alcestis-head-99">
+        <em>SERVANT</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-100">You may say she is both alive and dead.</p>
+      <p xml:id="alcestis-alcestis-head-101">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-102">How can the same man be dead and yet behold the light?</p>
+      <p xml:id="alcestis-alcestis-head-103">
+        <em>SERVANT</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-104">She gasps, she is on the verge of death.</p>
+      <p xml:id="alcestis-alcestis-head-105">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-106">Ah, unhappy man! For such a husband what loss is such a wife!</p>
+      <p xml:id="alcestis-alcestis-head-107">
+        <em>SERVANT</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-108">The King will not know his loss until he suffers it.</p>
+      <p xml:id="alcestis-alcestis-head-109">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-110">Then there is no hope that her life may be saved?</p>
+      <p xml:id="alcestis-alcestis-head-111">
+        <em>SERVANT</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-112">The fated day constrains her.</p>
+      <p xml:id="alcestis-alcestis-head-113">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-114">Are all things befitting prepared for her?</p>
+      <p xml:id="alcestis-alcestis-head-115">
+        <em>SERVANT</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-116">The robes in which her lord will bury her are ready.</p>
+      <p xml:id="alcestis-alcestis-head-117">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-118">Then let her know that she dies gloriously, the best of women beneath the sun by far!</p>
+      <p xml:id="alcestis-alcestis-head-119">
+        <em>SERVANT</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-120">How should she not be the best! Who shall deny it? What should the best among women be? How better might a woman hold faith to her lord than gladly to die for him? This the whole city knows, but you will marvel when you hear what she has done within the house. When she knew that the last of her days was come she bathed her white body in river water, she took garments and gems from her rooms of cedar wood, and clad herself nobly; then, standing before the hearth-shrine, she uttered this prayer:</p>
+      <p xml:id="alcestis-alcestis-p-121">'O Goddess, since now I must descend beneath the earth, for the last time I make supplication to you: and entreat you to protect my motherless children. Wed my son to a fair bride, and my daughter to a noble husband. Let not my children die untimely, as I their mother am destroyed, but grant that they live out happy lives with good fortune in their own land!'</p>
+      <p xml:id="alcestis-alcestis-p-122">To every altar in Admetus's house she went, hung them with garlands. offered prayer, cut myrtle boughs-unweeping, unlamenting; nor did the coming doom change the bright colour of her face.</p>
+      <p xml:id="alcestis-alcestis-p-123">Then to her marriage-room she went, flung herself down upon her bed, and wept, and said:</p>
+      <p xml:id="alcestis-alcestis-p-124">'O my marriage-bed, wherein I loosed my virgin girdle to him for whom I die! Farewell! I have no hatred for you. Only me you lose. Because I held my faith to you and to my lord-I must die. Another woman shall possess you, not more chaste indeed than I, more fortunate perhaps.'</p>
+      <p xml:id="alcestis-alcestis-p-125">She fell upon her knees and kissed it, and all the bed was damp with the, tide of tears which flooded to her eyes. And when she was fulfilled of many tears, drooping she rose from her bed and made as if to go, and many times she turned to go and many times turned back, and flung herself once more upon the bed.</p>
+      <p xml:id="alcestis-alcestis-p-126">Her children clung to their mother's dress, and wept; and she clasped them in her arms and kissed them turn by turn, as a dying woman.</p>
+      <p xml:id="alcestis-alcestis-p-127">All the servants in the house wept with compassion for their Queen, But she held out her hand to each, and there was none so base to whom she did not speak, and who did not reply again.</p>
+      <p xml:id="alcestis-alcestis-p-128">Such is the misery in Admetus's house. If he had died, he would be nothing now; and, having escaped, he suffers an agony he will never forget.</p>
+      <p xml:id="alcestis-alcestis-head-129">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-130">And does Admetus lament this woe-since he must be robbed of so noble a woman?</p>
+      <p xml:id="alcestis-alcestis-head-131">
+        <em>SERVANT</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-132">He weeps, and clasps in his arms his dear bedfellow, and cries to her not to abandon him, asking impossible things. For she pines, and is wasted by sickness. She falls away, a frail burden on his arm; and yet, though faintly, she still breathes, still strives to look upon the sunlight, which she shall never see hereafter-since now for the last time she looks upon the orb and splendour of the sun I</p>
+      <p xml:id="alcestis-alcestis-p-133">I go, and shall announce that you are here; for all men are not so well-minded to their lords as loyally to stand near them in misfortunes, but you for long have been a friend to both my lords. She goes back into the women's quarters of the Palace. The CHORUS now begins to sing.</p>
+      <p xml:id="alcestis-alcestis-head-134">
+        <em>FIRST SEMI-CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-135">O Zeus, What end to these woes? What escape from the Fate Which oppresses our lords?</p>
+      <p xml:id="alcestis-alcestis-head-136">
+        <em>SECOND SEMI-CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-137">Will none come forth? Must I shear my hair? Must we wrap ourselves In black mourning folds?</p>
+      <p xml:id="alcestis-alcestis-head-138">
+        <em>FIRST SEMI-CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-139">It is certain, O friends, it is certain? But still let us cry to the Gods; Very great is the power of the Gods.</p>
+      <p xml:id="alcestis-alcestis-head-140">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-141">O King, O Healer, Seek out appeasement To Admetus's agony! Grant this, Oh, grant it! Once before did you find it; Now once more Be the Releaser from death. The Restrainer of blood-drenched Hades!</p>
+      <p xml:id="alcestis-alcestis-head-142">
+        <em>SECOND SEMI-CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-143">Alas! O son of Pheres. What ills shall you suffer Being robbed of your spouse!</p>
+      <p xml:id="alcestis-alcestis-head-144">
+        <em>FIRST SEMI-CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-145">At sight of such woes Shall we cut our throats? Shall we slip A dangling noose round our necks?</p>
+      <p xml:id="alcestis-alcestis-head-146">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-147">See! See! She comes From the house with her lord! Cry out, Oh, lament. O land of Pherae, For the best of women Fades away in her doom Under the earth, To dark Hades! From the central door of the Palace comes a splendid but tragical procession. Preceded by the royal guards, ADMETUS enters, supporting ALCESTIS. The two children, a boy and a girl, cling to their mother's dress. There is a train of attendants and waiting women, who bring a low throne for the fainting ALCESTIS.</p>
+      <p xml:id="alcestis-alcestis-head-148">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-149">chanting Never shall I say that we ought to rejoice in marriage, but rather weep; this have I seen from of old and now I look upon the fate of the King, who loses the best of wives, and henceforth until the end his life shall be intolerable.</p>
+      <p xml:id="alcestis-alcestis-head-150">
+        <em>ALCESTIS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-151">chanting Sun, and you, light of day, Vast whirlings of swift cloud!</p>
+      <p xml:id="alcestis-alcestis-head-152">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-153">The sun looks upon you and me, both of us miserable, who have wrought nothing against the Gods to deserve death.</p>
+      <p xml:id="alcestis-alcestis-head-154">
+        <em>ALCESTIS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-155">chanting O Earth, O roof-tree of my home, Bridal-bed of my country, Iolcus!</p>
+      <p xml:id="alcestis-alcestis-head-156">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-157">Rouse up, O unhappy one, and, do not leave me! Call upon the mighty Gods to pity!</p>
+      <p xml:id="alcestis-alcestis-head-158">
+        <em>ALCESTIS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-159">starting up and gazing wildly in terror, chanting I see the two-oared boat, I see the boat on the lake! And Charon, Ferryman of the Dead, Calls to me, his hand on the oar: 'Why linger? Hasten! You delay me!' Angrily he urges me.</p>
+      <p xml:id="alcestis-alcestis-head-160">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-161">Alas! How bitter to me is that ferrying of which you speak! O my unhappy one, how we suffer!</p>
+      <p xml:id="alcestis-alcestis-head-162">
+        <em>ALCESTIS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-163">chanting He drags me, he drags me away- Do you not see?- To the House of the Dead, The Winged One Glaring under dark brows, Hades!- What is it you do? Set me free!- What a path must I travel, O most hapless of women!</p>
+      <p xml:id="alcestis-alcestis-head-164">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-165">O piteous to those that love you, above all to me and to these children who sorrow in this common grief!</p>
+      <p xml:id="alcestis-alcestis-head-166">
+        <em>ALCESTIS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-167">chanting Loose me, Oh, loose me now; Lay me down; All strength is gone from my feet. She falls back in the throne. Hades draws near! Dark night falls on my eyes, My children, my children, Never more, Oh, never more Shall your mother be yours! O children, farewell, Live happy in the light of day!</p>
+      <p xml:id="alcestis-alcestis-head-168">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-169">chanting Alas! I hear this unhappy speech, and for me it is worse than all death. Ah! By the Gods, do not abandon me! Ah! By our children, whom you leave motherless, take heart! If you die, I become as nothing; in you we have our life and death; we revere your love.</p>
+      <p xml:id="alcestis-alcestis-head-170">
+        <em>ALCESTIS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-171">recovering herself Admetus, you see the things I suffer; and now before I die I mean to tell you what I wish.</p>
+      <p xml:id="alcestis-alcestis-p-172">To show you honour and-at the cost of my life-that you may still behold the light, I die; and yet I might have lived and wedded any in Thessaly I chose, and dwelt with happiness in a royal home. But, torn from you, I would not live with fatherless children, nor have I hoarded up those gifts of youth in which I found delight. Yet he who begot you, she who brought you forth, abandoned you when it had been beautiful in them to die, beautiful to die with dignity to save their son! They had no child but you, no hope if you were dead that other children might be born to them. Thus I should have lived my life out, and you too, and you would not lament as now, made solitary from your wife, that you must rear our children motherless!</p>
+      <p xml:id="alcestis-alcestis-p-173">But these things are a God's doing and are thus. Well! Do not forget this gift, for I shall ask-not a recompense, since nothing is more precious than life, but-only what is just, as you yourself will say, since if you have not lost your senses you must love these children no less than I. Let them be masters in my house; marry not again, and set a stepmother over them, a woman harsher than I, who in her jealousy will lift her hand against my children and yours. Ah! not this, let not this be, I entreat you! The new stepmother hates the first wife's children, the viper itself is not more cruel. The son indeed finds a strong rampart in his father-but you, my daughter, how shall you live your virgin life out in happiness? How will you fare with your father's new wife? Ah! Let her not cast evil report upon you and thus wreck your marriage in the height of your youth! You will have no mother, O my child, to give you in marriage, to comfort you in childbed when none is tenderer than a mother!</p>
+      <p xml:id="alcestis-alcestis-p-174">And I must die. Not to-morrow. nor to-morrow's morrow comes this misfortune on me, but even now I shall be named with those that are no more. Farewell! Live happy! You, my husband, may boast you had the best of wives; and you, my children, that you lost the best of mothers! She falls back.</p>
+      <p xml:id="alcestis-alcestis-head-175">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-176">Take heart! I do not hesitate to speak for him. This he will do, unless he has lost his senses.</p>
+      <p xml:id="alcestis-alcestis-head-177">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-178">It shall be so, it shall be! Have no fear! And since I held you living as my wife, so, when dead, you only shall be called my wife, and in your place no bride of Thessaly shall salute me hers; no other woman is noble enough for that, no other indeed so beautiful of face. My children shall suffice me; I pray the Gods I may enjoy them, since you we have not enjoyed.</p>
+      <p xml:id="alcestis-alcestis-p-179">I shall wear mourning for you, O my wife, not for one year but all my days, abhorring the woman who bore me, hating my father-for they loved me in words, not deeds. But you-to save my life you give the dearest thing you have! Should I not weep then, losing such a wife as you?</p>
+      <p xml:id="alcestis-alcestis-p-180">I shall make an end of merry drinking parties, and of flower-crowned feasts and of the music which possessed my house. Never again shall I touch the lyre, never again shall I raise my spirits to sing to the Libyan flute-for you have taken from me all my joy. Your image, carven by the skilled hands of artists, shall be laid in our marriage-bed; I shall clasp it, and my hands shall cling to it and I shall speak your name and so, not having you, shall think I have my dear wife in my arms-a cold delight, I know, but it will lighten the burden of my days. Often you will gladden me, appearing in my dreams; for sweet it is to look on those we love in dreams, however brief the night.</p>
+      <p xml:id="alcestis-alcestis-p-181">Ah! If I had the tongue and song of Orpheus so that I might charm Demeter's Daughter or her Lord, and snatch you back from Hades, would go down to hell; and neither Pluto's dog nor Charon, Leader of the Dead, should hinder me until I had brought your life back to the light!</p>
+      <p xml:id="alcestis-alcestis-p-182">At least await me there whenever I shall die, and prepare the house where you will dwell with me. I shall lay a solemn charge upon these children to stretch me in the same cedar shroud with you, and lay my side against your side; for even in death let me not be separate from you, you who alone were faithful to me!</p>
+      <p xml:id="alcestis-alcestis-head-183">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-184">to ADMETUS And I also will keep this sad mourning with you, as a friend with a friend; for she is worthy of it.</p>
+      <p xml:id="alcestis-alcestis-head-185">
+        <em>ALCESTIS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-186">O my children, you have heard your father say that never will he set another wife over you and never thus insult me.</p>
+      <p xml:id="alcestis-alcestis-head-187">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-188">Again I say it, and will perform it too!</p>
+      <p xml:id="alcestis-alcestis-head-189">
+        <em>ALCESTIS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-190">placing the children's hands in his Then take these children from my hand.</p>
+      <p xml:id="alcestis-alcestis-head-191">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-192">I take them-dear gifts from a dear hand.</p>
+      <p xml:id="alcestis-alcestis-head-193">
+        <em>ALCESTIS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-194">Now you must be the mother for me to my children.</p>
+      <p xml:id="alcestis-alcestis-head-195">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-196">It must be so, since they are robbed of you.</p>
+      <p xml:id="alcestis-alcestis-head-197">
+        <em>ALCESTIS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-198">O children, I should have lived my life out-and I go to the Underworld.</p>
+      <p xml:id="alcestis-alcestis-head-199">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-200">Alas! What shall I do, left alone by you?</p>
+      <p xml:id="alcestis-alcestis-head-201">
+        <em>ALCESTIS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-202">Time will console you. The dead are nothing.</p>
+      <p xml:id="alcestis-alcestis-head-203">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-204">Take me with you, by the Gods! Take me to the Underworld!</p>
+      <p xml:id="alcestis-alcestis-head-205">
+        <em>ALCESTIS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-206">It is enough that I should die-for you.</p>
+      <p xml:id="alcestis-alcestis-head-207">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-208">O Fate, what a wife you steal from me!</p>
+      <p xml:id="alcestis-alcestis-head-209">
+        <em>ALCESTIS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-210">growing faint My dimmed eyes are heavily oppressed.</p>
+      <p xml:id="alcestis-alcestis-head-211">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-212">O woman, I am lost if you leave me!</p>
+      <p xml:id="alcestis-alcestis-head-213">
+        <em>ALCESTIS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-214">You may say of me that I am nothing.</p>
+      <p xml:id="alcestis-alcestis-head-215">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-216">Lift up your head! Do not abandon your children!</p>
+      <p xml:id="alcestis-alcestis-head-217">
+        <em>ALCESTIS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-218">Ah! Indeed it is unwillingly-but, farewell, my children!</p>
+      <p xml:id="alcestis-alcestis-head-219">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-220">Look at them, look....</p>
+      <p xml:id="alcestis-alcestis-head-221">
+        <em>ALCESTIS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-222">I am nothing.</p>
+      <p xml:id="alcestis-alcestis-head-223">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-224">What are you doing? Are you leaving me?</p>
+      <p xml:id="alcestis-alcestis-head-225">
+        <em>ALCESTIS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-226">falling back dead Farewell.</p>
+      <p xml:id="alcestis-alcestis-head-227">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-228">staring at the body Wretch that I am, I am lost!</p>
+      <p xml:id="alcestis-alcestis-head-229">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-230">She is gone! The wife of Admetus is no more.</p>
+      <p xml:id="alcestis-alcestis-head-231">
+        <em>EUMELUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-232">chanting Ah! Misery! Mother has gone, Gone to the Underworld! She lives no more, O my Father, In the sunlight. O sad one, You have left us To live motherless!</p>
+      <p xml:id="alcestis-alcestis-p-233">See, Oh, see her eyelids And her drooping hands! Mother, Mother, Hearken to me, listen, I beseech you! I-I-Mother!- I am calling to you, Your little bird fallen upon your face!</p>
+      <p xml:id="alcestis-alcestis-head-234">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-235">She hears not, she sees not. You and I are smitten by a dread calamity.</p>
+      <p xml:id="alcestis-alcestis-head-236">
+        <em>EUMELUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-237">chanting Father, I am a child, And I am left Like a lonely ship By the mother I loved. Oh! The cruel things I suffer! And you, little sister, Suffer with me.</p>
+      <p xml:id="alcestis-alcestis-p-238">O my Father, Vain, vain was your wedding, You did not walk with her To the end of old age. She died first; And your death, O Mother, Destroys our house.</p>
+      <p xml:id="alcestis-alcestis-head-239">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-240">Admetus, you must endure this calamity. You are not the first and will not be the last to lose a noble wife. We all are doomed to die.</p>
+      <p xml:id="alcestis-alcestis-head-241">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-242">I know it. Not unawares did this woe swoop down on me; for long it has gnawed at me.</p>
+      <p xml:id="alcestis-alcestis-p-243">But, since I shall ordain the funeral rites for this dead body, you must be there, and meanwhile let a threnody re-echo to the implacable God of the Underworld. And all you men of Thessaly whom I rule-I order you to share the mourning for this woman with severed hair and black-robed garb. You who yoke the four-horsed chariot and the swift single horses, cut the mane from their necks with your steel.</p>
+      <p xml:id="alcestis-alcestis-p-244">Let there be no noise of flutes or lyre within the city until twelve moons are fulfilled. Never shall I bury another body so dear to me, never one that has loved me better. From me she deserves all honour, since she alone would die for me! The body of ALCESTIS is carried solemnly into the Palace, followed by ADMETUS, With bowed head, holding one of his children by each hand. When all have entered, the great doors are quietly shut.</p>
+      <p xml:id="alcestis-alcestis-head-245">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-246">singing strophe 1 O Daughter of Pelias, Hail to you in the house of Hades, In the sunless home where you shall dwell! Let Hades, the dark-haired God, Let the old man, Leader of the Dead, Who sits at the oar and helm, Know you: Far, far off is the best of women Borne beyond the flood of Acheron In the two-oared boat! antistrophe 1 Often shall the Muses' servants Sing of you to the seven-toned Lyre-shell of the mountain-tortoise, And praise you with mourning songs at Sparta When the circling season Brings back the month Carneius Under the nightlong upraised moon, And in bright glad Athens. Such a theme do you leave by your death For the music of singers! strophe 2 Ah! That I had the power To bring you back to the light From the dark halls of Hades, And from the waves of Cocytus With the oar of the river of hell Oh, you only, O dearest of women, You only dared give your life For the life of your lord in Hades! Light rest the earth above you, O woman. If your lord choose another bridal-bed He shall be hateful to me As to your own children. antistrophe When his mother And the old father that begot him Would not give their bodies to the earth For their son's sake, They dared not deliver him-O cruel! Though their heads were grey. But you, In your lively youth, Died for him, and are gone from the light! Ah! might I be joined With a wife so dear! But in life such fortune is rare. How happy were my days with her! From the left HERACLES enters. He is black-bearded and of great physical strength; he wears a lion-skin over his shoulders and carries a large club.</p>
+      <p xml:id="alcestis-alcestis-head-247">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-248">with a gesture of salutation Friends, dwellers in the lands of Pherae, do I find Admetus in his home?</p>
+      <p xml:id="alcestis-alcestis-head-249">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-250">The son of Pheres is in his home, O Heracles. But, tell us, what brings you to the land of Thessaly and to the city of Pherae?</p>
+      <p xml:id="alcestis-alcestis-head-251">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-252">I have a task I must achieve for Eurystheus of Tiryns.</p>
+      <p xml:id="alcestis-alcestis-head-253">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-254">Where do you go? To what quest are you yoked?</p>
+      <p xml:id="alcestis-alcestis-head-255">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-256">The quest of the four-horsed chariot of Diomedes, the Thracian.</p>
+      <p xml:id="alcestis-alcestis-head-257">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-258">But how will you achieve it? Do you know this stranger?</p>
+      <p xml:id="alcestis-alcestis-head-259">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-260">No, I have never been to the land of the Bistones.</p>
+      <p xml:id="alcestis-alcestis-head-261">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-262">You cannot obtain the horses without a struggle.</p>
+      <p xml:id="alcestis-alcestis-head-263">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-264">I cannot renounce my labours.</p>
+      <p xml:id="alcestis-alcestis-head-265">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-266">You must kill to return, or you will remain there dead.</p>
+      <p xml:id="alcestis-alcestis-head-267">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-268">It will not be the first contest I have risked.</p>
+      <p xml:id="alcestis-alcestis-head-269">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-270">And if you conquer the King will you gain anything?</p>
+      <p xml:id="alcestis-alcestis-head-271">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-272">I shall bring back his foals to the lord of Tiryns.</p>
+      <p xml:id="alcestis-alcestis-head-273">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-274">It is not easy to thrust the bit into their jaws.</p>
+      <p xml:id="alcestis-alcestis-head-275">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-276">Only if they breathe fire from their nostrils!</p>
+      <p xml:id="alcestis-alcestis-head-277">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-278">But they tear men with their swift jaws.</p>
+      <p xml:id="alcestis-alcestis-head-279">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-280">You speak of the food of wild mountain beasts, not of horses.</p>
+      <p xml:id="alcestis-alcestis-head-281">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-282">You may see their mangers foul with blood.</p>
+      <p xml:id="alcestis-alcestis-head-283">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-284">Of what father does the breeder boast himself the son?</p>
+      <p xml:id="alcestis-alcestis-head-285">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-286">Of Ares, the lord of the gold-rich shield of Thrace!</p>
+      <p xml:id="alcestis-alcestis-head-287">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-288">In this task once more you remind me of my fate, which is ever upon harsh steep ways, since I must join battle with the sons of Ares-first with Lycaon, then with Cycnus, and now in this third contest I am come to match myself with these steeds and their master!</p>
+      <p xml:id="alcestis-alcestis-head-289">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-290">But see, the lord of this land, Admetus himself, comes from the house! The central doors of the Palace have opened, and ADMETUS comes slowly on the Stage, preceded and followed by guards and attendants. The King has put off all symbols of royalty, and is dressed in black. His tong hair is clipped close to his head. ADMETUS dissembles his grief throughout this scene, in obedience to the laws of hospitality, which were particularly reverenced in Thessaly.</p>
+      <p xml:id="alcestis-alcestis-head-291">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-292">Hail Son of Zeus and of the blood of Perseus!</p>
+      <p xml:id="alcestis-alcestis-head-293">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-294">And hail to you, Admetus, lord of the Thessalians</p>
+      <p xml:id="alcestis-alcestis-head-295">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-296">May it be so! I know your friendship well.</p>
+      <p xml:id="alcestis-alcestis-head-297">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-298">What means this shorn hair, this mourning robe?</p>
+      <p xml:id="alcestis-alcestis-head-299">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-300">To-day I must bury a dead body.</p>
+      <p xml:id="alcestis-alcestis-head-301">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-302">May a God avert harm from your children!</p>
+      <p xml:id="alcestis-alcestis-head-303">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-304">The children I have begotten are alive in the house.</p>
+      <p xml:id="alcestis-alcestis-head-305">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-306">Your father was ripe for death-if it is he has gone?</p>
+      <p xml:id="alcestis-alcestis-head-307">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-308">He lives-and she who brought me forth, O Heracles.</p>
+      <p xml:id="alcestis-alcestis-head-309">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-310">Your wife-Alcestis-she is not dead?</p>
+      <p xml:id="alcestis-alcestis-head-311">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-312">evasively Of her I might make a double answer.</p>
+      <p xml:id="alcestis-alcestis-head-313">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-314">Do you mean that she is dead or alive?</p>
+      <p xml:id="alcestis-alcestis-head-315">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-316">ambiguously She is and is not-and for this I grieve.</p>
+      <p xml:id="alcestis-alcestis-head-317">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-318">perplexed I am no wiser-you speak obscurely.</p>
+      <p xml:id="alcestis-alcestis-head-319">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-320">Did you not know the fate which must befall her?</p>
+      <p xml:id="alcestis-alcestis-head-321">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-322">I know she submitted to die for you.</p>
+      <p xml:id="alcestis-alcestis-head-323">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-324">How then can she be alive, having consented to this?</p>
+      <p xml:id="alcestis-alcestis-head-325">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-326">Ah! Do not weep for your wife till that time comes.</p>
+      <p xml:id="alcestis-alcestis-head-327">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-328">Those who are about to die are dead, and the dead are nothing.</p>
+      <p xml:id="alcestis-alcestis-head-329">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-330">Men hold that to be and not to be are different things.</p>
+      <p xml:id="alcestis-alcestis-head-331">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-332">You hold for one, Heracles, and I for the other.</p>
+      <p xml:id="alcestis-alcestis-head-333">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-334">Whom, then, do you mourn? Which of your friends is dead?</p>
+      <p xml:id="alcestis-alcestis-head-335">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-336">A woman. We spoke of her just now.</p>
+      <p xml:id="alcestis-alcestis-head-337">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-338">mistaking his meaning A stranger? Or one born of your kin?</p>
+      <p xml:id="alcestis-alcestis-head-339">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-340">A stranger, but one related to this house.</p>
+      <p xml:id="alcestis-alcestis-head-341">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-342">But how, then, did she chance to die in your house?</p>
+      <p xml:id="alcestis-alcestis-head-343">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-344">When her father died she was sheltered here.</p>
+      <p xml:id="alcestis-alcestis-head-345">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-346">Alas! Would I had not found you in this grief, Admetus!</p>
+      <p xml:id="alcestis-alcestis-head-347">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-348">What plan are you weaving with those words?</p>
+      <p xml:id="alcestis-alcestis-head-349">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-350">I shall go to the hearth of another friend.</p>
+      <p xml:id="alcestis-alcestis-head-351">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-352">Not so, O King! This wrong must not be.</p>
+      <p xml:id="alcestis-alcestis-head-353">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-354">hesitating The coming of a guest is troublesome to those who mourn.</p>
+      <p xml:id="alcestis-alcestis-head-355">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-356">decisively The dead are dead. Enter my house.</p>
+      <p xml:id="alcestis-alcestis-head-357">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-358">But it is shameful to feast among weeping friends.</p>
+      <p xml:id="alcestis-alcestis-head-359">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-360">We shall put you in the guest-rooms, which are far apart.</p>
+      <p xml:id="alcestis-alcestis-head-361">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-362">Let me go, and I will give you a thousand thanks.</p>
+      <p xml:id="alcestis-alcestis-head-363">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-364">No, you shall not go to another man's hearth. To a servant Guide him, and open for him the guest-rooms apart from the house. HERACLES enters the Palace by the guests' door; when he has gone in, ADMETUS turns to the other servants Close the inner door of the courtyard; it is unseemly that guests rejoicing at table should hear lamentations, and be saddened. The attendants go into the Palace.</p>
+      <p xml:id="alcestis-alcestis-head-365">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-366">What are you about? When such a calamity has fallen upon you, Admetus, have you the heart to entertain a guest? Are you mad?</p>
+      <p xml:id="alcestis-alcestis-head-367">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-368">And if I had driven away a guest who came to my house and city, would you have praised me more? No, indeed! My misfortune would have been no less, and I inhospitable. One more ill would have been added to those I have if my house were called inhospitable. I myself find him the best of hosts when I enter the thirsty land of Argos.</p>
+      <p xml:id="alcestis-alcestis-head-369">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-370">But why did you hide from him the fate that has befallen, if the man came as a friend, as you say?</p>
+      <p xml:id="alcestis-alcestis-head-371">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-372">Never would he have entered my house if he had guessed my misfortune.</p>
+      <p xml:id="alcestis-alcestis-p-373">To some, I know, I shall appear senseless in doing this, and they will blame me; but my roof knows not to reject or insult a guest. He goes into the Palace, as the CHORUS begins its song.</p>
+      <p xml:id="alcestis-alcestis-head-374">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-375">singing strophe 1 O house of a bountiful lord, Ever open to many guests, The God of Pytho, Apollo of the beautiful lyre, Deigned to dwell in you And to live a shepherd in your lands! On the slope of the hillsides He played melodies of mating On the Pipes of Pan to his herds. antistrophe And the dappled lynxes fed with them In joy at your singing; From the wooded vale of Orthrys Came a yellow troop of lions; To the sound of your lyre, O Phoebus, Danced the dappled fawn Moving on light feet Beyond the high-crested pines, Charmed by your sweet singing. strophe He dwells in a home most rich in flocks By the lovely moving Boebian lake. At the dark stabling-place of the Sun He takes the sky of the Molossians As a bourne to his ploughing of fields, To the soils of his plains; He bears sway As far as the harbourless Coast of the Aegean Sea, As far as Pelion. antistrophe 2 Even to-day he opened his house And received a guest, Though his eyelids were wet With tears wept by the corpse Of a dear bedfellow dead in the house. For the noble spirit is proclaimed by honour; All wisdom lies with the good. I admire him: And in my soul I know The devout man shall have joy. The funeral procession of ALCESTIS enters from the door of the women's quarters. The body, carried on a bier by men servants, is followed by ADMETUS and his two children. Behind them comes a train of attendants and servants carrying the funeral offerings. All are in mourning. ADMETUS addresses the CHORUS.</p>
+      <p xml:id="alcestis-alcestis-head-376">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-377">O friendly presence of you men of Pherae! Now that the body is prepared, and the servants bear it on high to the tomb and the fire, do you, as is fitting, salute the dead as she goes forth on her last journey. PHERES, the father of ADMETUS, enters, followed by attendants bearing funeral offerings.</p>
+      <p xml:id="alcestis-alcestis-head-378">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-379">But I see your father, tottering with an old man's walk, and his followers bearing in their hands for your wife garments as an offering to the dead.</p>
+      <p xml:id="alcestis-alcestis-head-380">
+        <em>PHERES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-381">My son, I have come to share your sorrow, for the wife you have lost was indeed noble and virtuous-none can deny it. But these things must be endured, however intolerable they may be.</p>
+      <p xml:id="alcestis-alcestis-p-382">Take these garments, and let her descend under the earth. Her body must be honoured, for she died to save your life, my son; she has not made me childless, nor left me to be destroyed without you in my hapless old age; and she has given glorious fame to all women by daring so noble a deed! He lifts his hand in salutation to the body of ALCESTIS. O woman, who saved my son, who raised me up when I had fallen, hail! Be happy in the halls of Hades! I declare it-such marriages are profitable to mankind; otherwise, it is foolish to marry.</p>
+      <p xml:id="alcestis-alcestis-head-383">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-384">furiously It was not my wish that you should come to this burial, and I deny that your presence is that of a friend! She shall never wear these garments of yours; she needs not your gifts for her burial. You should have grieved when I was, about to die; but you stood aside, and now do you come to wail over a corpse when you, an old man, allowed a young woman to die?</p>
+      <p xml:id="alcestis-alcestis-p-385">Were you in very truth father of this body of mine? Did she, who claims to be and is called my mother, bring me forth? Or was I bred of a slave's seed and secretly brought to your wife's breast? You have proved what you are when it comes to the test, and therefore I am not your begotten son; or you surpass all men in cowardice, for, being at the very verge and end of life, you had neither courage nor will to die for your son. But this you left to a woman, a stranger, whom alone I hold as my father and my mother!</p>
+      <p xml:id="alcestis-alcestis-p-386">Yet it had been a beautiful deed in you to die for your son, and short indeed was the time left you to live. She and I would have lived out our lives, and I should not now be here alone lamenting my misery.</p>
+      <p xml:id="alcestis-alcestis-p-387">You enjoyed all that a happy man can enjoy-you passed the flower of your age as a king, and in me your son you had an heir to your dominion; you would not have died childless, leaving an orphaned house to be plundered by strangers. You will not say that you abandoned me to death because I dishonoured your old age, for above all I was respectful to you-and this is the gratitude I have from you and my mother!</p>
+      <p xml:id="alcestis-alcestis-p-388">Beget more sons, and quickly, to cherish your old age and wrap you in a shroud when dead and lay your body out in state! This hand of mine shall not inter you. I am dead to you. I look upon the light of day because another saved me-I say I am her son, and will cherish her old age!</p>
+      <p xml:id="alcestis-alcestis-p-389">Vainly do old men pray for death, regretting their age and the long span of life. If death draws near, none wants to die, and age is no more a burden to him.</p>
+      <p xml:id="alcestis-alcestis-head-390">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-391">Admetus! The present misfortune is enough. Do not provoke your father's spirit. ADMETUS turns angrily to depart, but PHERES prevents him.</p>
+      <p xml:id="alcestis-alcestis-head-392">
+        <em>PHERES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-393">My son, do you think you are pursuing some hireling Lydian or Phrygian with your taunts? Do you know I am a Thessalian, a free man lawfully begotten by a Thessalian father? You are over-insolent, and you shall not leave thus, after wounding me with your boyish insults. I indeed begot you, and bred you up to be lord of this land, but I am not bound to die for you. It is not a law of our ancestors or of Hellas that the fathers should die for the children! You were born to live your own life, whether miserable or fortunate; and what is due to you from me you have. You rule over many men, and I shall leave you many wide fields even as received them from my own father. How, then, have I wronged you? Of what have I robbed you? Do not die for me, any more than I die for you. You love to look upon the light of day-do you think your father hates it? I tell myself that we are a long time underground and that life is short, but sweet.</p>
+      <p xml:id="alcestis-alcestis-p-394">But you-you strove shamelessly not to die, and you are alive, you shirked your fate by killing her! And you call me a coward, you, the worst of cowards, surpassed by a woman who died for you, pretty boy? And now you insult those who should be dear to you, when they refuse to die for a coward like you!</p>
+      <p xml:id="alcestis-alcestis-p-395">Be silent! Learn that if you love your life, so do others. If you utter insults, you shall hear many, and true ones too!</p>
+      <p xml:id="alcestis-alcestis-head-396">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-397">These insults and those that went before suffice. Old man, cease to revile your son.</p>
+      <p xml:id="alcestis-alcestis-head-398">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-399">to PHERES Speak on! I shall refute you. If the truth wounds you when you hear it you should not have wronged me.</p>
+      <p xml:id="alcestis-alcestis-head-400">
+        <em>PHERES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-401">I should have wronged you far more if I had died for you.</p>
+      <p xml:id="alcestis-alcestis-head-402">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-403">It is the same then to die an old man and in the flower of life?</p>
+      <p xml:id="alcestis-alcestis-head-404">
+        <em>PHERES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-405">We should live one life, not two.</p>
+      <p xml:id="alcestis-alcestis-head-406">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-407">May you live longer than God!</p>
+      <p xml:id="alcestis-alcestis-head-408">
+        <em>PHERES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-409">Do you curse your parents when they have done you no wrong?</p>
+      <p xml:id="alcestis-alcestis-head-410">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-411">I see you are in love with long life.</p>
+      <p xml:id="alcestis-alcestis-head-412">
+        <em>PHERES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-413">But you are not carrying her dead body in place of your own?</p>
+      <p xml:id="alcestis-alcestis-head-414">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-415">It is the proof of your cowardice, O worst of men.</p>
+      <p xml:id="alcestis-alcestis-head-416">
+        <em>PHERES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-417">You cannot say she died for me!</p>
+      <p xml:id="alcestis-alcestis-head-418">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-419">Alas! May you one day need my help.</p>
+      <p xml:id="alcestis-alcestis-head-420">
+        <em>PHERES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-421">Woo many women, so that more may die for you.</p>
+      <p xml:id="alcestis-alcestis-head-422">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-423">To your shame be it-you who dared not die.</p>
+      <p xml:id="alcestis-alcestis-head-424">
+        <em>PHERES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-425">Sweet is the daylight of the Gods, very sweet.</p>
+      <p xml:id="alcestis-alcestis-head-426">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-427">Your spirit is mean, not a man's.</p>
+      <p xml:id="alcestis-alcestis-head-428">
+        <em>PHERES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-429">Would you laugh to carry an old man's body to the grave?</p>
+      <p xml:id="alcestis-alcestis-head-430">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-431">You will die infamous, whenever you die.</p>
+      <p xml:id="alcestis-alcestis-head-432">
+        <em>PHERES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-433">It will matter little enough to me to hear ill of myself when I am dead!</p>
+      <p xml:id="alcestis-alcestis-head-434">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-435">Alas! Alas! full of impudence. is old age!</p>
+      <p xml:id="alcestis-alcestis-head-436">
+        <em>PHERES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-437">She was not impudent, but foolish,</p>
+      <p xml:id="alcestis-alcestis-head-438">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-439">Go! Leave me to bury her body.</p>
+      <p xml:id="alcestis-alcestis-head-440">
+        <em>PHERES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-441">turning away I go. You, her murderer, will bury her-but soon you must render an account to her relatives. Acastus is not a man if he fails to avenge his sister's blood on you! PHERES goes out by the way he entered, followed by his attendants. ADMETUS gazes angrily after him.</p>
+      <p xml:id="alcestis-alcestis-head-442">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-443">Go with a curse, you, and she who dwells with you! Grow old, as you ought, childless though you have a child. You shall never return to this house. And if I could renounce your hearth as my father's by heralds, I would do it. But we-since this sorrow must be endured-let us go, and set her body on the funeral pyre. The Procession moves slowly along the stage, and is joined by the CHORUS. As they pass, the LEADER salutes the body of ALCESTIS.</p>
+      <p xml:id="alcestis-alcestis-head-444">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-445">chanting Alas! Alas! You who suffer for your courage, O noblest and best of women, hail! May Hermes of the Dead, may Hades, greet you kindly. If there are rewards for the dead, may you share them as you sit by the bride of the Lord of the Dead! The Procession has filed out. A servant in mourning hurries out from the guests' quarters.</p>
+      <p xml:id="alcestis-alcestis-head-446">
+        <em>SERVANT</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-447">Many guests from every land, I know, have come to the Palace of Admetus, and I have set food before them, but never one worse than this guest have I welcomed to the hearth.</p>
+      <p xml:id="alcestis-alcestis-p-448">First, though he saw our Lord was in mourning, he entered, and dared to pass through the gates. Then, knowing our misfortune, he did not soberly accept what was offered him, but if anything was not served to him he ordered us to bring it. In both hands he took a cup of ivy-wood, and drank the unmixed wine of the dark grape-mother, until he was encompassed and heated with the flame of wine. He crowned his head with myrtle sprays, howling discordant songs. There was he caring nothing for Admetus's misery, and we servants weeping for our Queen; and yet we hid our tear-laden eyes from the guest, for so Admetus had commanded.</p>
+      <p xml:id="alcestis-alcestis-p-449">And now in the Palace I must entertain this stranger, some villainous thief and brigand, while she, the Queen I mourn, has gone from the house unfollowed, unsaluted, she who was as a mother to me and all us servants, for she sheltered us from a myriad troubles by softening her husband's wrath.</p>
+      <p xml:id="alcestis-alcestis-p-450">Am I not right, then, to hate this stranger, who came to us in the midst of sorrow? HERACLES comes from the Palace. He is drunkenly merry, with a myrtle wreath on his head, and a large cup and wine-skin in his hands. He staggers a little.</p>
+      <p xml:id="alcestis-alcestis-head-451">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-452">Hey, you! Why so solemn and anxious? A servant should not be sullen with guests, but greet them with a cheerful heart.</p>
+      <p xml:id="alcestis-alcestis-p-453">You see before you a man who is your lord's friend, and you greet him with a gloomy, frowning face, because of your zeal about a strange woman's death. Come here, and let me make you a little wiser! With drunken gravity Know the nature of human life? Don't think you do. You couldn't. Listen to me. All mortals must die. Isn't one who knows if he'll be alive to-morrow morning. Who knows where Fortune will lead? Nobody can teach it. Nobody learn it by rules. So, rejoice in what you hear, and learn from me! Count each day as it comes as Life-and leave the rest to Fortune. Above all, honour the Love Goddess, sweetest of all the Gods to mortal men, a kindly goddess! Put all the rest aside. Trust in what I say, if you think I speak truth-as I believe. Get rid of this gloom, rise superior to Fortune. Crown yourself with flowers and drink with me, won't you? I know the regular clink of the wine-cup will row you from darkness and gloom to another haven. Mortals should think mortal thoughts. To all solemn and frowning men, life I say is not life, but a disaster.</p>
+      <p xml:id="alcestis-alcestis-head-454">
+        <em>SERVANT</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-455">We know all that, but what we endure here to-day is far indeed from gladness and laughter.</p>
+      <p xml:id="alcestis-alcestis-head-456">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-457">But the dead woman was a stranger. Lament not overmuch, then, for the Lords of this Palace are still alive.</p>
+      <p xml:id="alcestis-alcestis-head-458">
+        <em>SERVANT</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-459">How, alive? Do you not know the misery of this house?</p>
+      <p xml:id="alcestis-alcestis-head-460">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-461">Your lord did not lie to me?</p>
+      <p xml:id="alcestis-alcestis-head-462">
+        <em>SERVANT</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-463">He goes too far in hospitality!</p>
+      <p xml:id="alcestis-alcestis-head-464">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-465">But why should I suffer for a stranger's death?</p>
+      <p xml:id="alcestis-alcestis-head-466">
+        <em>SERVANT</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-467">It touches this house only too nearly.</p>
+      <p xml:id="alcestis-alcestis-head-468">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-469">Did he hide some misfortune from me?</p>
+      <p xml:id="alcestis-alcestis-head-470">
+        <em>SERVANT</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-471">Go in peace! The miseries of our lords concern us.</p>
+      <p xml:id="alcestis-alcestis-head-472">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-473">That speech does not imply mourning for a stranger!</p>
+      <p xml:id="alcestis-alcestis-head-474">
+        <em>SERVANT</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-475">No, or I should not have been disgusted to see you drinking.</p>
+      <p xml:id="alcestis-alcestis-head-476">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-477">Have I then been basely treated by my host?</p>
+      <p xml:id="alcestis-alcestis-head-478">
+        <em>SERVANT</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-479">You did not come to this house at a welcome hour. We are in mourning. You see my head is shaved and the black garments I wear.</p>
+      <p xml:id="alcestis-alcestis-head-480">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-481">But who, then, is dead? One of the children? The old father?</p>
+      <p xml:id="alcestis-alcestis-head-482">
+        <em>SERVANT</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-483">O stranger, Admetus no longer has a wife.</p>
+      <p xml:id="alcestis-alcestis-head-484">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-485">What! And yet I was received in this way?</p>
+      <p xml:id="alcestis-alcestis-head-486">
+        <em>SERVANT</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-487">He was ashamed to send you away from his house.</p>
+      <p xml:id="alcestis-alcestis-head-488">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-489">O hapless one! What a wife you have lost!</p>
+      <p xml:id="alcestis-alcestis-head-490">
+        <em>SERVANT</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-491">Not she alone, but all of us are lost.</p>
+      <p xml:id="alcestis-alcestis-head-492">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-493">now completely sobered I felt there was something when I saw his tear-wet eyes, his shaven head, his distracted look. But he persuaded me he was taking the body of a stranger to the grave. Against my will I entered these ates, and drank in the home of this generous man-and he in such grief! And shall I drink at such a time with garlands of flowers on my head? You, why did you not tell me that such misery had come upon this house? Where is he burying her? Where shall I find him?</p>
+      <p xml:id="alcestis-alcestis-head-494">
+        <em>SERVANT</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-495">Beside the straight road which leads to Larissa you will see a tomb of polished stone outside the walls. Returns to the servants' quarters</p>
+      <p xml:id="alcestis-alcestis-head-496">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-497">O heart of me, much-enduring heart, O right arm, now indeed must you show what son was born to Zeus by Alcmena, the Tirynthian, daughter of Electryon! For I must save this dead woman, and bring back Alcestis to this house as a grace to Admetus.</p>
+      <p xml:id="alcestis-alcestis-p-498">I shall watch for Death, the black-robed Lord of the Dead, and I know I shall find him near the tomb, drinking the blood of the sacrifices. If can leap upon him from an ambush, seize him, grasp him in my arms, no power in the world shall tear his bruised sides from me until he has yielded up this woman. If I miss my prey, if he does not come near the bleeding sacrifice, I will go down to Kore and her lord in their sunless dwelling, and I will make my entreaty to them, and I know they will give me Alcestis to bring back to the hands of the host who welcomed me, who did not repulse me from his house, though he was smitten with heavy woe which most nobly he hid from me! Where would be a warmer welcome in Thessaly or in all the dwellings of Hellas?</p>
+      <p xml:id="alcestis-alcestis-p-499">He shall not say he was generous to an ingrate! HERACLES goes out. Presently ADMETUS and his attendants, followed by the CHORUS, return from the burial of ALCESTIS.</p>
+      <p xml:id="alcestis-alcestis-head-500">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-501">chanting Alas! Hateful approach, hateful sight of my widowed house! Oh me! Oh me! Alas! Whither shall I go? Where rest? What can I say? What refrain from saying? Why can I not die? Indeed my mother bore me for a hapless fate. I envy the dead, I long to be with them, theirs are the dwellings where I would be. Without pleasure I look upon the light of day and set my feet upon the earth-so precious a hostage has Death taken from me to deliver unto Hades!</p>
+      <p xml:id="alcestis-alcestis-head-502">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-503">chanting responsively with ADMETUS Go forward, Enter your house.</p>
+      <p xml:id="alcestis-alcestis-head-504">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-505">Alas!</p>
+      <p xml:id="alcestis-alcestis-head-506">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-507">Your grief deserves our tears.</p>
+      <p xml:id="alcestis-alcestis-head-508">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-509">O Gods!</p>
+      <p xml:id="alcestis-alcestis-head-510">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-511">I know you have entered into sorrow.</p>
+      <p xml:id="alcestis-alcestis-head-512">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-513">Woe! Woe!</p>
+      <p xml:id="alcestis-alcestis-head-514">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-515">Yet you bring no aid to the dead.</p>
+      <p xml:id="alcestis-alcestis-head-516">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-517">Oh me! Oh me!</p>
+      <p xml:id="alcestis-alcestis-head-518">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-519">Heavy shall it be for you Never to look again On the face of the woman you love.</p>
+      <p xml:id="alcestis-alcestis-head-520">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-521">You bring to my mind the grief that breaks my heart. What sorrow is worse for a man than the loss of such a woman? I would I had never married, never shared my house with her. I envy the wifeless and the childless. They live but one life-what is suffering to them? But the sickness of children, bridal-beds ravished by Death-dreadful! when we might be wifeless and childless to the end.</p>
+      <p xml:id="alcestis-alcestis-head-522">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-523">Chance, dreadful Chance, has stricken you.</p>
+      <p xml:id="alcestis-alcestis-head-524">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-525">Alas!</p>
+      <p xml:id="alcestis-alcestis-head-526">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-527">But you set no limit to your grief.</p>
+      <p xml:id="alcestis-alcestis-head-528">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-529">Ah! Gods!</p>
+      <p xml:id="alcestis-alcestis-head-530">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-531">A heavy burden to bear, and yet...</p>
+      <p xml:id="alcestis-alcestis-head-532">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-533">Woe! Woe!</p>
+      <p xml:id="alcestis-alcestis-head-534">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-535">Courage! You are not the first to lose...</p>
+      <p xml:id="alcestis-alcestis-head-536">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-537">Oh me! Oh me!</p>
+      <p xml:id="alcestis-alcestis-head-538">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-539">A wife. Different men Fate crushes with different blows.</p>
+      <p xml:id="alcestis-alcestis-head-540">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-541">O long grief and mourning for those beloved under the earth! Why did you stay me from casting myself into the hollow grave to lie down for ever in death by the best of women? Two lives, not one, had then been seized by Hades, most faithful one to the other; and together we should have crossed the lake of the Underworld.</p>
+      <p xml:id="alcestis-alcestis-head-542">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-543">A son most worthy of tears Was lost to one of my house, Yet, childless, he suffered with courage, Though the white was thick in his hair And his days were far-spent!</p>
+      <p xml:id="alcestis-alcestis-head-544">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-545">O visage of my house! How shall I enter you? How shall I dwell in you, now that Fate has turned its face from me? How great is the change! Once, of old, I entered my house with marriage-songs and the torches of Pelion, holding a loved woman by the hand, followed by a merry crowd shouting good wishes to her who is dead and to me, because we had joined our lives, being both noble and born of noble lines. Today, in place of marriage-songs are lamentations; instead of white garments I am clad in mourning, to return to my house and a solitary bed.</p>
+      <p xml:id="alcestis-alcestis-head-546">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-547">Grief has fallen upon you In the midst of a happy life Untouched by misfortune. But your life and your spirit are safe. She is dead, She has left your love. Is this so new? Ere now many men Death has severed from wives.</p>
+      <p xml:id="alcestis-alcestis-head-548">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-549">speaking O friends, whatsoever may be thought by others, to me it seems that my wife's fate is happier than mine. Now, no pain ever shall touch her again; she has reached the noble end of all her sufferings. But I, I who should have died, I have escaped my fate, only to drag out a wretched life. Only now do I perceive it.</p>
+      <p xml:id="alcestis-alcestis-p-550">How shall I summon strength to enter this house? Whom shall I greet? Who will greet me in joy at my coming? Whither shall I turn my steps? I shall be driven forth by solitude when I see my bed widowed of my wife, empty the chairs on which she sat, a dusty floor beneath my roof, my children falling at my knees and calling for their mother, and the servants lamenting for the noble lady lost from the house!</p>
+      <p xml:id="alcestis-alcestis-p-551">Such will be my life within the house. Without, I shall be driven from marriage-feasts and gatherings of the women of Thessaly. I shall not endure to look upon my wife's friends. Those who hate me will say: 'See how he lives in shame, the man who dared not die, the coward who gave his wife to Hades in his stead! Is that a man? He hates his parents, yet he himself refused to die!'</p>
+      <p xml:id="alcestis-alcestis-p-552">This evil fame I have added to my other sorrows. O my friends, what then avails it that I live, if I must live in misery and shame? He covers his head with his robe, and crouches in abject misery on the steps of his Palace.</p>
+      <p xml:id="alcestis-alcestis-head-553">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-554">singing strophe 1 I have lived with the Muses And on lofty heights: Many doctrines have I learned; But Fate is above us all. Nothing avails against Fate Neither the Thracian tablets Marked with Orphic symbols, Nor the herbs given by Phoebus To the children of Asclepius To heal men of their sickness. antistrophe None can come near to her altars, None worship her statues; She regards not our sacrifice. O sacred goddess, Bear no more hardly upon me Than in days overpast! With a gesture Zeus judges, But the sentence is yours. Hard iron yields to your strength; Your fierce will knows not gentleness. strophe And the Goddess has bound you Ineluctably in the gyves of her hands. Yield. Can your tears give life to the dead? For the sons of the Gods Swoon in the shadow of Death. Dear was she in our midst, Dear still among the dead, For the noblest of women was she Who lay in your bed. antistrophe 2 Ah! Let the grave of your spouse Be no more counted as a tomb, But revered as the Gods, And greeted by all who pass by! The wanderer shall turn from his path, Saying: 'She died for her lord; A blessed spirit she is now. Hail, O sacred lady, be our friend!' Thus shall men speak of her. ADMETUS is still crouched on the Palace steps, when HERACLES enters from the side, leading a veiled woman.</p>
+      <p xml:id="alcestis-alcestis-head-555">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-556">But see! The son of Alcmena, as I think, comes to your house. ADMETUS uncovers his head, and faces the newcomer.</p>
+      <p xml:id="alcestis-alcestis-head-557">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-558">Admetus, a man should speak freely to his friends, and not keep reproaches silent in his heart. Since I was near you in your misfortune, should have wished to show myself your friend. But you did not tell me the dead body was your wife's, and you took me into your house as if you were in mourning only for a stranger. And I put a garland of flowers upon my head, and poured wine-offerings to the Gods, when your house was filled with lamentation. I blame you, yes, I blame you for this-but I will not upbraid you in your misfortune.</p>
+      <p xml:id="alcestis-alcestis-p-559">Why I turned back and am here, I shall tell you. Take and keep this woman for me until I have slain the King of the Bistones and return here with the horses of Thrace. If ill happens to me-may I return safely!-I give her to you to serve in your house.</p>
+      <p xml:id="alcestis-alcestis-p-560">With much striving I won her to my hands. On my way I found public games, worthy of athletes, and I have brought back this woman whom I won as the prize of victory. The winners of the easy tests had horses; heads of cattle were given to those who won in boxing and wrestling. Then came a woman as a prize. Since I was present, it would have been shameful for me to miss this glorious gain. Therefore, as I said, you must take care of this woman, whom I bring to you, not as one stolen but as the prize of my efforts. Perhaps in time you will approve of what I do.</p>
+      <p xml:id="alcestis-alcestis-head-561">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-562">Not from disdain, nor to treat you as a foe, did I conceal my wife's fate from you. But if you had turned aside to another man's hearth, one more grief had been added to my sorrow. It was enough that I should weep my woe.</p>
+      <p xml:id="alcestis-alcestis-p-563">This woman-O King, I beg it may be thus-enjoin some other Thessalian, one who is not in sorrow, to guard her. In Pherae there are many to welcome you. Do not remind me of my grief. Seeing her in my house, I could not restrain my tears. Add not a further anguish to my pain, for what I suffer is too great. And then-where could I harbour a young woman in my house? For she is young-I see by her clothes and jewels. Could she live with the men under my roof? How, then, could she remain chaste, if she moved to and fro among the young men? Heracles, it is not easy to restrain the young....I am thinking of your interests....Must I take her to my dead wife's room? How could I endure her to enter that bed? I fear a double reproach-from my people, who would accuse me of betraying my saviour to slip into another woman's bed, and from my dead wife, who deserves my respect, for which I must take care.</p>
+      <p xml:id="alcestis-alcestis-p-564">O woman, whosoever you may be, you have the form of Alcestis, and your body is like hers.</p>
+      <p xml:id="alcestis-alcestis-p-565">Ah! By all the Gods, take her from my sight! Do not insult a broken man. When I look upon her-she seems my wife-my heart is torn asunder-tears flow from my eyes. Miserable creature that I am, now taste the bitterness of my sorrow.</p>
+      <p xml:id="alcestis-alcestis-head-566">
+        <em>LEADER</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-567">I do not praise this meeting; but, whatever happens, we must accept the gifts of the Gods.</p>
+      <p xml:id="alcestis-alcestis-head-568">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-569">Oh, that I might bring your wife back into the light of day from the dwelling of the Under-Gods, as a gift of grace to you!</p>
+      <p xml:id="alcestis-alcestis-head-570">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-571">I know you would wish this-but to what end? The dead cannot return to the light of day.</p>
+      <p xml:id="alcestis-alcestis-head-572">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-573">Do not exaggerate, but bear this with decorum.</p>
+      <p xml:id="alcestis-alcestis-head-574">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-575">Easier to advise than bear the test.</p>
+      <p xml:id="alcestis-alcestis-head-576">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-577">How will it aid you to lament for ever?</p>
+      <p xml:id="alcestis-alcestis-head-578">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-579">I know-but my love whirls me away.</p>
+      <p xml:id="alcestis-alcestis-head-580">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-581">Love for the dead leads us to tears.</p>
+      <p xml:id="alcestis-alcestis-head-582">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-583">I am overwhelmed beyond words.</p>
+      <p xml:id="alcestis-alcestis-head-584">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-585">You have lost a good wife-who denies it?</p>
+      <p xml:id="alcestis-alcestis-head-586">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-587">So that for me there is no more pleasure in life.</p>
+      <p xml:id="alcestis-alcestis-head-588">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-589">Time will heal this open wound.</p>
+      <p xml:id="alcestis-alcestis-head-590">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-591">You might say Time, if Time were death!</p>
+      <p xml:id="alcestis-alcestis-head-592">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-593">Another woman, a new marriage, shall console you.</p>
+      <p xml:id="alcestis-alcestis-head-594">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-595">Oh, hush! What have you said? A thing unbelievable!</p>
+      <p xml:id="alcestis-alcestis-head-596">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-597">What! You will not marry? Your bed will remain widowed?</p>
+      <p xml:id="alcestis-alcestis-head-598">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-599">No other woman shall ever lie at my side.</p>
+      <p xml:id="alcestis-alcestis-head-600">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-601">Do you think that avails the dead?</p>
+      <p xml:id="alcestis-alcestis-head-602">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-603">Wherever she may be, I must do her honour.</p>
+      <p xml:id="alcestis-alcestis-head-604">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-605">I praise you-but men will call you mad.</p>
+      <p xml:id="alcestis-alcestis-head-606">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-607">Yet never more shall I be called a bridegroom.</p>
+      <p xml:id="alcestis-alcestis-head-608">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-609">I praise your faithful love to your wife-</p>
+      <p xml:id="alcestis-alcestis-head-610">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-611">May I die if I betray her even when dead!</p>
+      <p xml:id="alcestis-alcestis-head-612">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-613">offering him the veiled woman's hand. Receive her then into your noble house.</p>
+      <p xml:id="alcestis-alcestis-head-614">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-615">No, by Zeus who begot you, no!</p>
+      <p xml:id="alcestis-alcestis-head-616">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-617">Yet you will do wrong if you do not take her.</p>
+      <p xml:id="alcestis-alcestis-head-618">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-619">If I do it, remorse will tear my heart.</p>
+      <p xml:id="alcestis-alcestis-head-620">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-621">Yield-perhaps it will be a good thing for you.</p>
+      <p xml:id="alcestis-alcestis-head-622">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-623">Ah! If only you had not won her in the contest!</p>
+      <p xml:id="alcestis-alcestis-head-624">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-625">But I conquered-and you conquered with me.</p>
+      <p xml:id="alcestis-alcestis-head-626">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-627">It is true-but let the woman go hence.</p>
+      <p xml:id="alcestis-alcestis-head-628">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-629">She shall go, if she must. But first-ought she to go?</p>
+      <p xml:id="alcestis-alcestis-head-630">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-631">She must-unless it would anger you.</p>
+      <p xml:id="alcestis-alcestis-head-632">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-633">There is good reason for my zeal.</p>
+      <p xml:id="alcestis-alcestis-head-634">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-635">You have conquered then-but not for my pleasure.</p>
+      <p xml:id="alcestis-alcestis-head-636">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-637">One day you will praise me for it-be persuaded.</p>
+      <p xml:id="alcestis-alcestis-head-638">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-639">to his attendants Lead her in, since she must be received in this house.</p>
+      <p xml:id="alcestis-alcestis-head-640">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-641">No, I cannot leave such a woman to servants.</p>
+      <p xml:id="alcestis-alcestis-head-642">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-643">Then lead her in yourself, if you wish.</p>
+      <p xml:id="alcestis-alcestis-head-644">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-645">I must leave her in your hands.</p>
+      <p xml:id="alcestis-alcestis-head-646">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-647">I must not touch her-let her go into the house.</p>
+      <p xml:id="alcestis-alcestis-head-648">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-649">I trust only in your right hand.</p>
+      <p xml:id="alcestis-alcestis-head-650">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-651">O King, you force me to this against my will.</p>
+      <p xml:id="alcestis-alcestis-head-652">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-653">Put forth your hand and take this woman.</p>
+      <p xml:id="alcestis-alcestis-head-654">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-655">turning aside his head It is held out.</p>
+      <p xml:id="alcestis-alcestis-head-656">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-657">As if you were cutting off a Gorgon's head! Do you hold her?</p>
+      <p xml:id="alcestis-alcestis-head-658">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-659">Yes.</p>
+      <p xml:id="alcestis-alcestis-head-660">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-661">Then keep her. You shall not deny that the son of Zeus is a grateful guest. Takes off the veil and shows ALCESTIS. Look at her, and see if she is not like your wife. And may joy put an end to all your sorrow!</p>
+      <p xml:id="alcestis-alcestis-head-662">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-663">drops her hand and starts back O Gods! What am I to say? Unhoped-for wonder! Do I really look upon my wife? Or I am snared in the mockery of a God?</p>
+      <p xml:id="alcestis-alcestis-head-664">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-665">No you look upon your wife indeed.</p>
+      <p xml:id="alcestis-alcestis-head-666">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-667">Beware! May it not be some phantom from the Underworld?</p>
+      <p xml:id="alcestis-alcestis-head-668">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-669">Do not think your guest a sorcerer.</p>
+      <p xml:id="alcestis-alcestis-head-670">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-671">But do I indeed look upon the wife I buried?</p>
+      <p xml:id="alcestis-alcestis-head-672">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-673">Yes-but I do not wonder at your mistrust.</p>
+      <p xml:id="alcestis-alcestis-head-674">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-675">Can I touch, speak to her, as my living wife?</p>
+      <p xml:id="alcestis-alcestis-head-676">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-677">Speak to her-you have all you desired.</p>
+      <p xml:id="alcestis-alcestis-head-678">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-679">taking ALCESTIS in his arms O face and body of the dearest of women! I have you once more, when I thought I should never see you again!</p>
+      <p xml:id="alcestis-alcestis-head-680">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-681">You have her-may the envy of the Gods be averted from you!</p>
+      <p xml:id="alcestis-alcestis-head-682">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-683">O noble son of greatest Zeus, fortune be yours, and may your Father guard you! But how did you bring her back from the Underworld to the light of day?</p>
+      <p xml:id="alcestis-alcestis-head-684">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-685">By fighting with the spirit who was her master.</p>
+      <p xml:id="alcestis-alcestis-head-686">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-687">Then did you contend with Death?</p>
+      <p xml:id="alcestis-alcestis-head-688">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-689">I hid by the tomb and leaped upon him.</p>
+      <p xml:id="alcestis-alcestis-head-690">
+        <em>ADMETUS</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-691">But why is she speechless?</p>
+      <p xml:id="alcestis-alcestis-head-692">
+        <em>HERACLES</em>
+      </p>
+      <p xml:id="alcestis-alcestis-p-693">You may not hear her voice until she is purified from her consecration to the Lower Gods, and until the third dawn has risen. Lead her in.</p>
+      <p xml:id="alcestis-alcestis-p-694">And you, Admetus, show as ever a good man's welcome to your guests.</p>
+      <p xml:id="alcestis-alcestis-p-695">Farewell! I go to fu</p>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="euripides-alcestis-colophon">
+        <p xml:id="euripides-alcestis-colophon-p-1">Author: Euripides</p>
+        <p xml:id="euripides-alcestis-colophon-p-2">Translated by Richard Aldington</p>
+        <p xml:id="euripides-alcestis-colophon-p-3">Written: 438 BCE</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

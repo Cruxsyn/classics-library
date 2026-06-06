@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="isocrates-isoc-3">
+    <title>Nicocles, or The Cyprians</title>
+    <chapter xml:id="isoc-3-nicocles-or-the-cyprians">
+      <title>Nicocles, or The Cyprians</title>
+      <p xml:id="isoc-3-nicocles-or-the-cyprians-head-1">
+        <em>Nicocles, or The Cyprians</em>
+      </p>
+      <p xml:id="isoc-3-nicocles-or-the-cyprians-p-2">By Isocrates</p>
+      <p xml:id="isoc-3-nicocles-or-the-cyprians-p-3">Translated by George Norlin This work is only provided via the Perseus Project at Tufts University. You may begin reading the English translation as well as the Greek version and a Greek version with morphological links . If you have any questions about the Perseus Project texts in the Internet Classics Archive, including the Perseus Project copyright notice , please consult the help pages . Please direct any inquiries about the texts themselves to the Perseus Project Webmaster at webmaster@perseus.tufts.edu. © 1994-2009</p>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="isocrates-isoc-3-colophon">
+        <p xml:id="isocrates-isoc-3-colophon-p-1">Author: Isocrates</p>
+        <p xml:id="isocrates-isoc-3-colophon-p-2">Translated by George Norlin</p>
+        <p xml:id="isocrates-isoc-3-colophon-p-3">From the Perseus Project</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

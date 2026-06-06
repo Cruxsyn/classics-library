@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="isocrates-isoc-13">
+    <title>Against the Sophists</title>
+    <backmatter>
+      <colophon xml:id="isocrates-isoc-13-colophon">
+        <p xml:id="isocrates-isoc-13-colophon-p-1">Author: Isocrates</p>
+        <p xml:id="isocrates-isoc-13-colophon-p-2">Translated by George Norlin</p>
+        <p xml:id="isocrates-isoc-13-colophon-p-3">From the Perseus Project</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

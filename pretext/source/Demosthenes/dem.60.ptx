@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="demosthenes-dem-60">
+    <title>Funeral Speech</title>
+    <chapter xml:id="dem-60-funeral-speech">
+      <title>Funeral Speech</title>
+      <p xml:id="dem-60-funeral-speech-head-1">
+        <em>Funeral Speech</em>
+      </p>
+      <p xml:id="dem-60-funeral-speech-p-2">By Demosthenes</p>
+      <p xml:id="dem-60-funeral-speech-p-3">Translated by Vince/DeWitt/Murray This work is only provided via the Perseus Project at Tufts University. You may begin reading the English translation as well as the Greek version and a Greek version with morphological links . If you have any questions about the Perseus Project texts in the Internet Classics Archive, including the Perseus Project copyright notice , please consult the help pages . Please direct any inquiries about the texts themselves to the Perseus Project Webmaster at webmaster@perseus.tufts.edu. © 1994-2009</p>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="demosthenes-dem-60-colophon">
+        <p xml:id="demosthenes-dem-60-colophon-p-1">Author: Demosthenes</p>
+        <p xml:id="demosthenes-dem-60-colophon-p-2">Translated by Vince/DeWitt/Murray</p>
+        <p xml:id="demosthenes-dem-60-colophon-p-3">From the Perseus Project</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

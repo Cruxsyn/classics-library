@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="lysias-lys-15">
+    <title>Against Alcibiades 2</title>
+    <chapter xml:id="lys-15-against-alcibiades-2">
+      <title>Against Alcibiades 2</title>
+      <p xml:id="lys-15-against-alcibiades-2-head-1">
+        <em>Against Alcibiades 2</em>
+      </p>
+      <p xml:id="lys-15-against-alcibiades-2-p-2">By Lysias</p>
+      <p xml:id="lys-15-against-alcibiades-2-p-3">Translated by W. R. M. Lamb This work is only provided via the Perseus Project at Tufts University. You may begin reading the English translation as well as the Greek version and a Greek version with morphological links . If you have any questions about the Perseus Project texts in the Internet Classics Archive, including the Perseus Project copyright notice , please consult the help pages . Please direct any inquiries about the texts themselves to the Perseus Project Webmaster at webmaster@perseus.tufts.edu. © 1994-2009</p>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="lysias-lys-15-colophon">
+        <p xml:id="lysias-lys-15-colophon-p-1">Author: Lysias</p>
+        <p xml:id="lysias-lys-15-colophon-p-2">Translated by W. R. M. Lamb</p>
+        <p xml:id="lysias-lys-15-colophon-p-3">From the Perseus Project</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

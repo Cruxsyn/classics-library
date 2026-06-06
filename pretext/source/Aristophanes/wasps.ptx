@@ -1,0 +1,1412 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="aristophanes-wasps">
+    <title>The Wasps</title>
+    <chapter xml:id="wasps-the-wasps">
+      <title>The Wasps</title>
+      <p xml:id="wasps-the-wasps-head-1">
+        <em>Dramatis Personae</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-2">PHILOCLEON BDELYCLEON, his Son SOSIAS, Slave of Philocleon XANTHIAS, Slave of Philocleon BOYS DOGS A GUEST A BAKER'S WIFE AN ACCUSER CHORUS OF WASPS Scene In the background is the house of PHILOCLEON, surrounded by a huge net. Two slaves are on guard, one of them asleep. On the roof is BDELYCLEON.</p>
+      <p xml:id="wasps-the-wasps-head-3">
+        <em>SOSIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-4">waking XANTHIAS up Why, Xanthias! what are you doing, wretched man?</p>
+      <p xml:id="wasps-the-wasps-head-5">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-6">I am teaching myself how to rest; I have been awake and on watch the whole night.</p>
+      <p xml:id="wasps-the-wasps-head-7">
+        <em>SOSIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-8">So you want to earn trouble for your ribs, eh? Don't you know what sort of animal we are guarding here?</p>
+      <p xml:id="wasps-the-wasps-head-9">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-10">Aye indeed! but I want to put my cares to sleep for a while. He falls asleep again.</p>
+      <p xml:id="wasps-the-wasps-head-11">
+        <em>SOSIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-12">Beware what you do. I too feel soft sleep spreading over my eyes,</p>
+      <p xml:id="wasps-the-wasps-head-13">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-14">Are you crazy, like a Corybant?</p>
+      <p xml:id="wasps-the-wasps-head-15">
+        <em>SOSIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-16">No! It's Bacchus who lulls me off.</p>
+      <p xml:id="wasps-the-wasps-head-17">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-18">Then you serve the same god as myself. just now a heavy slumber settled on my eyelids like a hostile Mede; I nodded and, faith! I had a wondrous dream.</p>
+      <p xml:id="wasps-the-wasps-head-19">
+        <em>SOSIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-20">Indeed! and so had I. A dream such as I never had before. But first tell me yours.</p>
+      <p xml:id="wasps-the-wasps-head-21">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-22">I saw an eagle, a gigantic bird, descend upon the market-place; it seized a brazen buckler with its talons and bore it away into the highest heavens; then I saw it was Cleonymus had thrown it away.</p>
+      <p xml:id="wasps-the-wasps-head-23">
+        <em>SOSIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-24">This Cleonymus is a riddle worth propounding among guests. How can one and the same animal have cast away his buckler both on land, in the sky and at sea?</p>
+      <p xml:id="wasps-the-wasps-head-25">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-26">Alas! what ill does such a dream portend for me?</p>
+      <p xml:id="wasps-the-wasps-head-27">
+        <em>SOSIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-28">Rest undisturbed! Please the gods, no evil will befall you.</p>
+      <p xml:id="wasps-the-wasps-head-29">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-30">Nevertheless, it's a fatal omen when a man throws away his weapons. But what was your dream? Let me hear.</p>
+      <p xml:id="wasps-the-wasps-head-31">
+        <em>SOSIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-32">Oh! it is a dream of high import. It has reference to the hull of the State; to nothing less.</p>
+      <p xml:id="wasps-the-wasps-head-33">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-34">Tell it to me quickly; show me its very keel.</p>
+      <p xml:id="wasps-the-wasps-head-35">
+        <em>SOSIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-36">In my first slumber I thought I saw sheep, wearing cloaks and carrying staves, met in assembly on the Pnyx; a rapacious whale was haranguing them and screaming like a pig that is being grilled.</p>
+      <p xml:id="wasps-the-wasps-head-37">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-38">Faugh! faugh!</p>
+      <p xml:id="wasps-the-wasps-head-39">
+        <em>SOSIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-40">What's the matter?</p>
+      <p xml:id="wasps-the-wasps-head-41">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-42">Enough, enough, spare me. Your dream stinks vilely of old leather.</p>
+      <p xml:id="wasps-the-wasps-head-43">
+        <em>SOSIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-44">Then this scoundrelly whale seized a balance and set to weighing ox-fat.</p>
+      <p xml:id="wasps-the-wasps-head-45">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-46">Alas! it's our poor Athenian people, whom this accursed beast wishes to cut up and despoil of their fat.</p>
+      <p xml:id="wasps-the-wasps-head-47">
+        <em>SOSIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-48">Seated on the ground close to it, I saw Theorus, who had the head of crow. Then Alcibiades said to me in his lisping way, "Do you thee? Theoruth hath a crow'th head."</p>
+      <p xml:id="wasps-the-wasps-head-49">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-50">Ah! that's very well lisped indeed!</p>
+      <p xml:id="wasps-the-wasps-head-51">
+        <em>SOSIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-52">Isn't this mighty strange? Theorus turning into a crow!</p>
+      <p xml:id="wasps-the-wasps-head-53">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-54">No, it is glorious.</p>
+      <p xml:id="wasps-the-wasps-head-55">
+        <em>SOSIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-56">Why?</p>
+      <p xml:id="wasps-the-wasps-head-57">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-58">Why? He was a man and now he has suddenly become a crow; does it not foretoken that he will take his flight from here and go to the crows?</p>
+      <p xml:id="wasps-the-wasps-head-59">
+        <em>SOSIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-60">Interpreting dreams so aptly certainly is worth two obols.</p>
+      <p xml:id="wasps-the-wasps-head-61">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-62">turning to the audience Come, I must explain the matter to the spectators. But first a few words of preamble: expect nothing very high-flown from us, nor any jests stolen from Megara; we have no slaves, who throw baskets of nuts to the spectators, nor any Heracles to be robbed of his dinner, nor does Euripides get loaded with contumely; and despite the happy chance that gave Cleon his fame we shall not go out of our way to belabour him again, Our little subject is not wanting in sense; it is well within your capacity and at the same time cleverer than many vulgar comedies.-We have a master of great renown, who is now sleeping up there on the other story. He has bidden us keep guard over his father, whom he has locked in, so. that he may not go out. This father has a curious complaint; not one of you could hit upon or guess it, if I did not tell you.-Well then, try! I hear Amynias, the son of Pronapus, over there, saying, "He is addicted to gambling." He's wrong! He is imputing his own malady to others. Yet love is indeed the principal part of his disease. Ah! here Sosias is telling Dercylus, "He loves drinking." Wrong again! the love of wine is a good man's failing. "Well then," says Nicostratus of the Scambonian deme, "he either loves sacrifices or else strangers." God no! he is not fond of strangers, Nicostratus, for he who says "Philoxenus" means a pederast, It's mere waste of time, you will not find it out. If you want to know it, keep silence! I will tell your our master's complaint; of all men, it is he who is fondest of the Heliaea. Thus, to be judging is his hobby, and he groans if he is not sitting on the first seat. He does not close an eye at night, and if he dozes off for an instant his mind flies instantly to the clepsydra. He is so accustomed to hold the balloting pebble, that he awakes with his three fingers pinched together as if he were offering incense to the new moon. If he sees scribbled on some doorway, "How charming is Demos, the son of Pyrilampes!" he will write beneath it, "How charming is Cemos!" His cock crowed one evening; said he, "He has had money from the accused to awaken me too late. As soon as he rises from supper he bawls for his shoes and away he rushes down there before dawn to sleep beforehand, glued fast to the column like an oyster. He is a merciless judge, never failing to draw the convicting line and return home with his nails full of wax like a bumble-bee. Fearing he might run short of pebbles he keeps enough at home to cover a sea-beach, so that he may have the means of recording his sentence. Such is his madness, and all advice is useless; he only judges the more each day. So we keep him under lock and key, to prevent his going out; for his son is broken-hearted over this mania. At first he tried him with gentleness, wanted to persuade him to wear the cloak no longer, to go out no more; unable to convince him, he had him bathed and purified according to the ritual without any greater success, and then handed him over to the Corybantes; but the old man escaped them, and carrying off the kettledrum, rushed right into the midst of the Heliasts. As Cybele could do nothing with her rites, his son took him to Aegina and forcibly made him lie one night in the temple of Asclepius, the God of Healing, but before daylight there he was to be seen at the gate of the tribunal. Since then we let him go out no more, but he escaped us by the drains or by the skylight, so we stuffed up every opening with old rags and made all secure; then he drove short sticks into the wall and sprang from rung to rung like a magpie. Now we have stretched-nets all around the court and we keep watch and ward. The old man's name is Philocleon, it's the best name he could have, and the son is called Edelycleon, for he is a man very fit to cure an insolent fellow of his boasting.</p>
+      <p xml:id="wasps-the-wasps-head-63">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-64">from the roof Xanthias! Sosias! Are you asleep?</p>
+      <p xml:id="wasps-the-wasps-head-65">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-66">Alas!</p>
+      <p xml:id="wasps-the-wasps-head-67">
+        <em>SOSIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-68">What is the matter?</p>
+      <p xml:id="wasps-the-wasps-head-69">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-70">Why, Bdelycleon is getting up.</p>
+      <p xml:id="wasps-the-wasps-head-71">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-72">Will neither of you come here? My father has got into the stove-chamber and is ferreting about like a rat in his hole. Take care he does not escape through the bath drain. You there, put all your weight against the door.</p>
+      <p xml:id="wasps-the-wasps-head-73">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-74">Yes, master.</p>
+      <p xml:id="wasps-the-wasps-head-75">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-76">By Zeus! what is that noise in the chimney? Hullo! who are you?</p>
+      <p xml:id="wasps-the-wasps-head-77">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-78">poking his head out of the chimney I am the smoke going up.</p>
+      <p xml:id="wasps-the-wasps-head-79">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-80">Smoke? smoke of what wood?</p>
+      <p xml:id="wasps-the-wasps-head-81">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-82">Of fig-wood.</p>
+      <p xml:id="wasps-the-wasps-head-83">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-84">Ah! that's the most acrid of all. But you shall not get out. Where is the chimney cover? Come down again. Now, up with another cross-bar. Now look out for some fresh dodge. But am I not the most unfortunate of men? Henceforward I shall only be called the son of Capnius.</p>
+      <p xml:id="wasps-the-wasps-head-85">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-86">He is pushing the door.</p>
+      <p xml:id="wasps-the-wasps-head-87">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-88">Throw your weight upon it, come, put heart into the work. I will come and help you. Watch both lock and bolt. Take care he does not gnaw through the peg.</p>
+      <p xml:id="wasps-the-wasps-head-89">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-90">from within What are you doing, you wretches? Let me go out; it is imperative that I go and judge, or Dracontides will be acquitted.</p>
+      <p xml:id="wasps-the-wasps-head-91">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-92">Would you mind that?</p>
+      <p xml:id="wasps-the-wasps-head-93">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-94">Once at Delphi, the god, whom I was consulting, foretold, that if an accused man escaped me, I should die of consumption.</p>
+      <p xml:id="wasps-the-wasps-head-95">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-96">Apollo the Saviour, what a prophecy!</p>
+      <p xml:id="wasps-the-wasps-head-97">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-98">Ah! I beseech you, if you do not want my death, let me go.</p>
+      <p xml:id="wasps-the-wasps-head-99">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-100">No, Philocleon, no never, by Posidon!</p>
+      <p xml:id="wasps-the-wasps-head-101">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-102">Well then, I shall gnaw through the net with my teeth.</p>
+      <p xml:id="wasps-the-wasps-head-103">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-104">But you have no teeth.</p>
+      <p xml:id="wasps-the-wasps-head-105">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-106">Oh! you rascal, how can I kill you? How? Give me a sword, quick, or a conviction tablet.</p>
+      <p xml:id="wasps-the-wasps-head-107">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-108">Our friend is planning some great crime.</p>
+      <p xml:id="wasps-the-wasps-head-109">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-110">No, by Zeus! but I want to go and sell my ass and its panniers, for it's the first of the month.</p>
+      <p xml:id="wasps-the-wasps-head-111">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-112">Could I not sell it just as well?</p>
+      <p xml:id="wasps-the-wasps-head-113">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-114">Not as well as I could.</p>
+      <p xml:id="wasps-the-wasps-head-115">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-116">No, but better.</p>
+      <p xml:id="wasps-the-wasps-head-117">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-118">Bring out the ass anyway.</p>
+      <p xml:id="wasps-the-wasps-head-119">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-120">What a clever excuse he has found now! What cunning to get you to let him go out!</p>
+      <p xml:id="wasps-the-wasps-head-121">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-122">Yes, but I have not swallowed the hook; I scented the trick. I will go in and fetch the ass, so that the old man may not point his weapons that way again. He goes in, returning immediately with the ass. Stupid old ass, are you weeping because you are going to be sold? Come, go a bit quicker. Why, what are you moaning and groaning for? You might be carrying another Odysseus.</p>
+      <p xml:id="wasps-the-wasps-head-123">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-124">Why, certainly, so he is! someone has crept beneath his belly.</p>
+      <p xml:id="wasps-the-wasps-head-125">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-126">Who, who? Let's see. Why it's he! What does this mean? Who are you? Come, speak!</p>
+      <p xml:id="wasps-the-wasps-head-127">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-128">I am Noman.</p>
+      <p xml:id="wasps-the-wasps-head-129">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-130">Noman? Of what country?</p>
+      <p xml:id="wasps-the-wasps-head-131">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-132">Of Ithaca, son of Apodrasippides.</p>
+      <p xml:id="wasps-the-wasps-head-133">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-134">Ha! Mister Noman, you will not laugh presently. Pull him out quick. Ah! the wretch, where has he crept to? Does he not resemble a she-ass to the life?</p>
+      <p xml:id="wasps-the-wasps-head-135">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-136">If you do not leave me in peace, I shall sue.</p>
+      <p xml:id="wasps-the-wasps-head-137">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-138">And what will the suit be about?</p>
+      <p xml:id="wasps-the-wasps-head-139">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-140">The shade of an ass.</p>
+      <p xml:id="wasps-the-wasps-head-141">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-142">You are a poor man of very little wit, but thoroughly brazen.</p>
+      <p xml:id="wasps-the-wasps-head-143">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-144">A poor man! Ah! by Zeus! you know not now what I am worth; but you will know when you disembowel the old Heliast's money-bag.</p>
+      <p xml:id="wasps-the-wasps-head-145">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-146">Come, get back indoors, both you and your ass.</p>
+      <p xml:id="wasps-the-wasps-head-147">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-148">Oh! my brethren of the tribunal! oh! Cleon! to the rescue!</p>
+      <p xml:id="wasps-the-wasps-head-149">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-150">Go and bawl in there under lock and key. And you there, pile plenty of stones against the door, thrust the bolt home into the staple, and to keep this beam in its place roll that great mortar against it. Quick's the word.</p>
+      <p xml:id="wasps-the-wasps-head-151">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-152">Oh! my god! whence did this brick fall on me?</p>
+      <p xml:id="wasps-the-wasps-head-153">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-154">Perhaps a rat loosened it.</p>
+      <p xml:id="wasps-the-wasps-head-155">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-156">A rat? it's surely our gutter-judge, who has crept beneath the tiles of the roof.</p>
+      <p xml:id="wasps-the-wasps-head-157">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-158">Ah! woe to us! there he is, he has turned into a sparrow; he will be flying off. Where is the net? where? Shoo! shoo! get back! Ah! by Zeus! I would rather have to guard Scione than such a father.</p>
+      <p xml:id="wasps-the-wasps-head-159">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-160">And now that we have driven him in thoroughly and he can no longer escape without our knowledge, can we not have a few winks of sleep, no matter how few?</p>
+      <p xml:id="wasps-the-wasps-head-161">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-162">Why, wretch! the other jurymen will be here almost directly to summon my father!</p>
+      <p xml:id="wasps-the-wasps-head-163">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-164">Why, it's scarcely dawn yet!</p>
+      <p xml:id="wasps-the-wasps-head-165">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-166">Ah, they must have risen late to-day. Generally it is the middle of the night when they come to fetch him. They arrive here, carrying lanterns in their hands and singing the charming old verses of Phrynichus' Sidonian Women; it's their way of calling him.</p>
+      <p xml:id="wasps-the-wasps-head-167">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-168">Well, if need be, we will chase them off with stones.</p>
+      <p xml:id="wasps-the-wasps-head-169">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-170">What! you dare to speak so? Why, this class of old men, if irritated, becomes as terrible as a swarm of wasps. They carry below their loins the sharpest of stings, with which to prick their foes; they shout and leap and their stings burn like so many sparks.</p>
+      <p xml:id="wasps-the-wasps-head-171">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-172">Have no fear! If I can find stones to throw into this nest of jurymen-wasps, I shall soon have them cleared off. Enter the CHORUS, composed of old men costumed as wasps.</p>
+      <p xml:id="wasps-the-wasps-head-173">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-174">March on, advance boldly and bravely! Comias, your feet are dragging; once you were as tough as a dog-skin strap and now even Charinades walks better than you. Ha! Strymodorus of Conthyle, you best of mates, where is Euergides and where is Chabes of Phlya? Ha, ha, bravo! there you are, the last of the lads with whom we mounted guard together at Byzantium. Do you remember how, one night, prowling round, we noiselessly stole the kneading-trough of a baker's wife; we split it in two and cooked our green-stuff with it.-But let us hasten, for the case of Laches comes on to-day, and they all say he has embezzled a pot of money. Hence Cleon, our protector, advised us yesterday to come early and with a three days' stock of fiery rage so as to chastise him for his crimes. Let us hurry, comrades, before it is light; come, let us search every nook with our lanterns to see whether those who wish us ill have not set us some trap.</p>
+      <p xml:id="wasps-the-wasps-head-175">
+        <em>BOY</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-176">Father, father, watch out for the mud.</p>
+      <p xml:id="wasps-the-wasps-head-177">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-178">Pick up a blade of straw and trim your lamp.</p>
+      <p xml:id="wasps-the-wasps-head-179">
+        <em>BOY</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-180">No. I can trim it quite well with my finger.</p>
+      <p xml:id="wasps-the-wasps-head-181">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-182">Why do you pull out the wick, you little dolt? Oil is scarce, and it's not you who suffer when it has to be paid for. Strikes him.</p>
+      <p xml:id="wasps-the-wasps-head-183">
+        <em>BOY</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-184">If you teach us again with your fists, we shall put out the lamps and go home; then you will have no light and will squatter about in the mud like ducks in the dark.</p>
+      <p xml:id="wasps-the-wasps-head-185">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-186">I know how to punish offenders bigger than you. But I think I am treading in some mud. Oh! it's certain it will rain in torrents for four days at least; look at the snuff in our lamps; that is always a sign of heavy rain; but the rain and the north wind will be good for the crops that are still standing. Why, what can have happened to our mate, who lives here? Why does he not come to join our party? There used to be no need to haul him in our wake, for he would march at our head singing the verses of Phrynichus; he was a lover of singing. Should we not, friends, make a halt here and sing to call him out? The charm of my voice will fetch him out, if he hears it.</p>
+      <p xml:id="wasps-the-wasps-head-187">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-188">singing Why does the old man not show himself before the door? Why does he not answer? Has he lost his shoes? has he stubbed his toe in the dark and thus got a swollen ankle? Perhaps he has a tumour in his groin. He was the hardest of us all; he alone never allowed himself to be moved. If anyone tried to move him, he would lower his head, saying, "You might just as well try to boil a stone." But I bethink me, an accused man escaped us yesterday through his false pretence that he loved Athens and had been the first to unfold the Samian plot. Perhaps his acquittal has so distressed Philocleon that he is abed with fever-he is quite capable of such a thing.-Friend, arise, do not thus vex your heart, but forget your wrath. To-day we have to judge a man made wealthy by-treason, one of those who set Thrace free; we have to prepare him a funeral urn....so march on, my boy, get going. Here a duet begins between the BOY and the CHORUS.</p>
+      <p xml:id="wasps-the-wasps-head-189">
+        <em>BOY</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-190">Father, would you give me something if I asked for it?</p>
+      <p xml:id="wasps-the-wasps-head-191">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-192">Assuredly, my child, but tell me what nice thing do you want me to buy you? A set of knuckle-bones, I suppose.</p>
+      <p xml:id="wasps-the-wasps-head-193">
+        <em>BOY</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-194">No, father, I prefer figs; they are better.</p>
+      <p xml:id="wasps-the-wasps-head-195">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-196">No, by Zeus! even if you were to hang yourself with vexation.</p>
+      <p xml:id="wasps-the-wasps-head-197">
+        <em>BOY</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-198">Well then, I will lead you no farther.</p>
+      <p xml:id="wasps-the-wasps-head-199">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-200">With my small pay, I am obliged to buy bread, wood, and stew; and now you ask me for figs!</p>
+      <p xml:id="wasps-the-wasps-head-201">
+        <em>BOY</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-202">But, father, if the Archon should not form a court to-day, how are we to buy our dinner? Have you some good hope to offer us or only "Helle's sacred waves"?</p>
+      <p xml:id="wasps-the-wasps-head-203">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-204">Alas! alas! I have not a notion how we shall dine.</p>
+      <p xml:id="wasps-the-wasps-head-205">
+        <em>BOY</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-206">Oh! my poor mother! why did you let me see this day?</p>
+      <p xml:id="wasps-the-wasps-head-207">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-208">So that you might give me troubles to feed on.</p>
+      <p xml:id="wasps-the-wasps-head-209">
+        <em>BOY</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-210">Little wallet, you seem like to be a mere useless ornament!</p>
+      <p xml:id="wasps-the-wasps-head-211">
+        <em>BOY AND CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-212">It is our destiny to groan.</p>
+      <p xml:id="wasps-the-wasps-head-213">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-214">appearing at an upper window; singing My friends, I have long been pining away while listening to you from my window, but I absolutely know not what to do. I am detained here, because I have long wanted to go with you to the law-court and do all the harm I can. Oh! Zeus! cause the peals of thy thunder to roll, change me quickly into smoke or make me into a Proxenides, a tissue of falsehoods, like the son of Sellus. Oh, King of Heaven! hesitate not to grant me this favour, pity my misfortune or else may thy dazzling lightning instantly reduce me to ashes; then carry me hence, and may thy breath hurl me into some strong, hot marinade or turn me into one of the stones on which the votes are counted.</p>
+      <p xml:id="wasps-the-wasps-head-215">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-216">singing Who is it detains you and shuts you in? Speak, for you are talking to friends.</p>
+      <p xml:id="wasps-the-wasps-head-217">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-218">singing My son. But no bawling, he is there in front asleep; lower your voice.</p>
+      <p xml:id="wasps-the-wasps-head-219">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-220">singing But, poor fellow, what is his aim? what is his object?</p>
+      <p xml:id="wasps-the-wasps-head-221">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-222">singing My friends, he will not have me judge nor do anyone any ill, but he wants me to stay at home and enjoy myself, and I will not. And does this wretch, this Demologocleon dare to say such odious things, just because you tell the truth about our navy? He would not have dared, had he not been a conspirator.</p>
+      <p xml:id="wasps-the-wasps-head-223">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-224">But meanwhile, you must devise some new dodge, so that you can come down here without his knowledge.</p>
+      <p xml:id="wasps-the-wasps-head-225">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-226">But what? Try to find some way. For myself, I am ready for anything, so much do I burn to run along the tiers of the tribunal with my voting-pebble in my hand.</p>
+      <p xml:id="wasps-the-wasps-head-227">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-228">There is surely some hole through which you could manage to squeeze from within, and escape dressed in rags, like the crafty Odysseus.</p>
+      <p xml:id="wasps-the-wasps-head-229">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-230">Everything is sealed fast; not so much as a gnat could get through. Think of some other plan; there is no possible hole of escape.</p>
+      <p xml:id="wasps-the-wasps-head-231">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-232">Do you recall how, when you were with the army at the taking of Naxos, you descended so readily from the top of the wall by means of the spits you had stolen?</p>
+      <p xml:id="wasps-the-wasps-head-233">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-234">I remember that well enough, but what connection is there with present circumstances? I was young, clever at thieving, I had all my strength, none watched over me, and I could run off without fear. But to-day men-at-arms are placed at every outlet to watch me, and two of them are lying in wait for me at this very door armed with spits, just as folks lie in wait for a cat that has stolen a piece of meat.</p>
+      <p xml:id="wasps-the-wasps-head-235">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-236">singing Come, discover some way as quick as possible. Here is the dawn come, my dear little friend.</p>
+      <p xml:id="wasps-the-wasps-head-237">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-238">singing The best way is to gnaw through the net. Oh! goddess who watchest over the nets, forgive me for making a hole in this one.</p>
+      <p xml:id="wasps-the-wasps-head-239">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-240">singing It's acting like a man eager for his safety. Get your jaws to work.</p>
+      <p xml:id="wasps-the-wasps-head-241">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-242">singing There! it's gnawed through! But no shouting! let Bdelycleon notice nothing!</p>
+      <p xml:id="wasps-the-wasps-head-243">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-244">singing Have no fear, have no fear! if he breathes a syllable, it will be to bruise his own knuckles; he will have to fight to defend his own head. We shall teach him not to insult the mysteries of the goddesses.</p>
+      <p xml:id="wasps-the-wasps-head-245">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-246">But fasten a rope to the window, tie it around your body and let yourself down to the ground, with your heart bursting with the fury of Diopithes.</p>
+      <p xml:id="wasps-the-wasps-head-247">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-248">But if these notice it and want to fish me up and drag me back into the house, what will you do? Tell me that.</p>
+      <p xml:id="wasps-the-wasps-head-249">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-250">We shall call up the full strength of our oak-tough courage to your aid. That is what we will do.</p>
+      <p xml:id="wasps-the-wasps-head-251">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-252">I trust myself to you and risk the danger. If misfortune overtakes me, take away my body, bathe it with your tears and bury it beneath the bar of the tribunal.</p>
+      <p xml:id="wasps-the-wasps-head-253">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-254">Nothing will happen to you, rest assured. Come, friend, have courage and let yourself slide down while you invoke your country's gods.</p>
+      <p xml:id="wasps-the-wasps-head-255">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-256">Oh! mighty Lycus! noble hero and my neighbour, thou, like myself, takest pleasure in the tears and the groans of the accused. If thou art come to live near the tribunal, 'tis with the express design of hearing them incessantly; thou alone of all the heroes hast wished to remain among those who weep. Have pity on me and save him, who lives close to thee; I swear I will never make water, never, nor ever let a fart, against the railing of thy statue. He slides down as quietly as possible; nevertheless BDELYCLEON wakes up.</p>
+      <p xml:id="wasps-the-wasps-head-257">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-258">to XANTHIAS Ho, there! ho! get up!</p>
+      <p xml:id="wasps-the-wasps-head-259">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-260">waking up What's the matter?</p>
+      <p xml:id="wasps-the-wasps-head-261">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-262">I thought I heard talking close to me. Is the old man at it again, escaping through some loophole?</p>
+      <p xml:id="wasps-the-wasps-head-263">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-264">No, by Zeus! no, but he is letting himself down by a rope.</p>
+      <p xml:id="wasps-the-wasps-head-265">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-266">Ha, rascal! what are you doing there? You shall not descend. To XANTHIAS Mount quick to the other window, strike him with the boughs that hang over the entrance; perhaps he will turn back when he feels himself being thrashed.</p>
+      <p xml:id="wasps-the-wasps-head-267">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-268">to the audience To the rescue! all you, who are going to have lawsuits this year-Smicythion, Tisiades, Chremon and Pheredipnus. It's now or never, before they force me to return, that you must help.</p>
+      <p xml:id="wasps-the-wasps-head-269">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-270">Why do we delay to let loose that fury, that is so terrible, when our nests are attacked?</p>
+      <p xml:id="wasps-the-wasps-head-271">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-272">singing I feel my angry sting is stiffening, that sharp sting, with which we punish our enemies. Come, children, cast your cloaks to the winds, run, shout, tell Cleon what is happening, that he may march against this foe of our city, who deserves death, since he proposes to prevent the trial of lawsuits. The Boys run off, taking the CHORUS' mantles with them.</p>
+      <p xml:id="wasps-the-wasps-head-273">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-274">rushing out of the house with the two slaves and seizing his father Friends, listen to the truth, instead of bawling.</p>
+      <p xml:id="wasps-the-wasps-head-275">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-276">By Zeus! we will shout to heaven.</p>
+      <p xml:id="wasps-the-wasps-head-277">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-278">And I shall not let him go.</p>
+      <p xml:id="wasps-the-wasps-head-279">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-280">Why, this is intolerable, 'tis manifest tyranny.</p>
+      <p xml:id="wasps-the-wasps-head-281">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-282">singing Oh! citizens, oh! Theorus, the enemy of the gods! and all you flatterers, who rule us! come to our aid.</p>
+      <p xml:id="wasps-the-wasps-head-283">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-284">By Heracles! they have stings. Do you see them, master?</p>
+      <p xml:id="wasps-the-wasps-head-285">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-286">It was with these weapons that they killed Philippus the son of Gorgias when he was put on trial.</p>
+      <p xml:id="wasps-the-wasps-head-287">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-288">And you too shall die. Turn yourselves this way, all, with your stings out for attack and throw yourselves upon him in good and serried order, and swelled up with wrath and rage. Let him learn to know the sort of foes he has dared to irritate.</p>
+      <p xml:id="wasps-the-wasps-head-289">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-290">The fight will be fast and furious, by great Zeus! I tremble at the sight of their stings.</p>
+      <p xml:id="wasps-the-wasps-head-291">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-292">singing Let this man go, unless you want to envy the tortoise his hard shell.</p>
+      <p xml:id="wasps-the-wasps-head-293">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-294">Come, my dear companions, wasps with relentless hearts, fly against him, animated with your fury. Sting him in the arse, eyes, and fingers.</p>
+      <p xml:id="wasps-the-wasps-head-295">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-296">opening the door and trying to shove his struggling father in Midas, Phryx, Masyntias, here! Come and help. Seize this man and hand him over to no one, otherwise you shall starve to death in chains. Fear nothing, I have often heard the crackling of fig-leaves in the fire.</p>
+      <p xml:id="wasps-the-wasps-head-297">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-298">If you won't let him go, I shall bury this sting in your body.</p>
+      <p xml:id="wasps-the-wasps-head-299">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-300">Oh, Cecrops, mighty hero with the tail of a dragon! Seest thou how these barbarians ill-use me-me, who have many a time made them weep a full bushel of tears?</p>
+      <p xml:id="wasps-the-wasps-head-301">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-302">Is not old age filled with cruel ills? What violence these two slaves offer to their old master! they have forgotten all bygones, the fur-coats and the jackets and the caps he bought for them; in winter he watched that their feet should not get frozen. And only see them now; there is no gentleness in their look nor any recollection of the slippers of other days.</p>
+      <p xml:id="wasps-the-wasps-head-303">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-304">to XANTHIAS Will you let me go, you accursed animal? Don't you remember the day when I surprised you stealing the grapes; I tied you to an olive-tree and I cut open your bottom with such vigorous lashes that folks thought you had been raped. Get away, you are ungrateful. But let go of me, and you too, before my son comes up.</p>
+      <p xml:id="wasps-the-wasps-head-305">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-306">You shall repay us for all this, and that soon. Tremble at our ferocious glance; you shall taste our just anger.</p>
+      <p xml:id="wasps-the-wasps-head-307">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-308">Strike! strike! Xanthias! Drive these wasps away from the house.</p>
+      <p xml:id="wasps-the-wasps-head-309">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-310">That's just what I am doing.</p>
+      <p xml:id="wasps-the-wasps-head-311">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-312">Blind them with smoke too!</p>
+      <p xml:id="wasps-the-wasps-head-313">
+        <em>XANTHIAS AND SOSIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-314">You will not go? The plague seize you! Will you not clear off?</p>
+      <p xml:id="wasps-the-wasps-head-315">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-316">Hit them with your stick Xanthias, and you Sosias, to smoke them out better, throw Aeschines, the son of Sellartius, on the fire.</p>
+      <p xml:id="wasps-the-wasps-head-317">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-318">as the CHORUS retires from the unequal conquest There, we were bound to drive you off sooner or later!</p>
+      <p xml:id="wasps-the-wasps-head-319">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-320">Eh! by Zeus! you would not have put them to flight so easily if they had fed on the verses of Philocles.</p>
+      <p xml:id="wasps-the-wasps-head-321">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-322">singing It is clear to all the poor that tyranny has attacked us sorely. Proud emulator of Amynias, you, who only take pleasure in doing ill, see how you are preventing us from obeying the laws of the city; you do not even seek a pretext or any plausible excuse, but claim to rule alone.</p>
+      <p xml:id="wasps-the-wasps-head-323">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-324">Hold! A truce to all blows and brawling! Had we not better confer together and come to some understanding?</p>
+      <p xml:id="wasps-the-wasps-head-325">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-326">Confer with you, the people's foe! with you, a royalist....</p>
+      <p xml:id="wasps-the-wasps-head-327">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-328">singing ....and accomplice of Brasidas, you with your woollen-fringed coat and your long beard?</p>
+      <p xml:id="wasps-the-wasps-head-329">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-330">Ah! it would be better to separate altogether from my father than to steer my boat daily through such stormy seas!</p>
+      <p xml:id="wasps-the-wasps-head-331">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-332">Oh! you have but reached the parsley and the rue, to use the common saying. What you are suffering is nothing! but welcome the hour when the advocate shall adduce all these same arguments against you and shall summon your accomplices to give witness.</p>
+      <p xml:id="wasps-the-wasps-head-333">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-334">In the name of the gods! withdraw or we shall fight you the whole day long.</p>
+      <p xml:id="wasps-the-wasps-head-335">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-336">singing No, not as long as I retain an atom of breath. Ha! your desire is to tyrannize over us!</p>
+      <p xml:id="wasps-the-wasps-head-337">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-338">Everything is now tyranny with us, no matter what is concerned, whether it be large or small. Tyranny! I have not heard the word mentioned once in fifty years, and now it is more common than salt-fish, the word is even current on the market. If you are buying gurnards and don't want anchovies, the huckster next door, who is selling the latter, at once exclaims, "That is a man whose kitchen savours of tyranny!" If you ask for onions to season your fish, the green-stuff woman winks one eye and asks, "Ha, you ask for onions! are you seeking to tyrannize, or do you think that Athens must pay you your seasonings as a tribute?"</p>
+      <p xml:id="wasps-the-wasps-head-339">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-340">Yesterday I went to see a whore about noon and told her to get on top; she flew into a rage, pretending I wanted to restore the tyranny of Hippias.</p>
+      <p xml:id="wasps-the-wasps-head-341">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-342">That's the talk that pleases the people! As for myself, I want my father to lead a joyous life like Morychus instead of going away before dawn basely to calumniate and condemn; and for this I am accused of conspiracy and tyrannical practice!</p>
+      <p xml:id="wasps-the-wasps-head-343">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-344">And quite right too, by Zeus! The most exquisite dishes do not make up to me for the life of which you deprive me. I scorn your red mullet and your eels, and would far rather eat a nice little lawsuitlet cooked in the pot.</p>
+      <p xml:id="wasps-the-wasps-head-345">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-346">That's because you have got used to seeking your pleasure in it; but if you will agree to keep silence and hear me, I think I could persuade you that you deceive yourself altogether.</p>
+      <p xml:id="wasps-the-wasps-head-347">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-348">I deceive myself, when I am judging?</p>
+      <p xml:id="wasps-the-wasps-head-349">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-350">You do not see that you are the laughing-stock of these men, whom you are ready to worship. You are their slave and do not know it.</p>
+      <p xml:id="wasps-the-wasps-head-351">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-352">I a slave, I, who lord it over all?</p>
+      <p xml:id="wasps-the-wasps-head-353">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-354">Not at all, you think you are ruling when you are only obeying. Tell me, father, what do you get out of the tribute paid by so many Greek towns.</p>
+      <p xml:id="wasps-the-wasps-head-355">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-356">Much, and I appoint my colleagues jurymen.</p>
+      <p xml:id="wasps-the-wasps-head-357">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-358">And I also. To the slaves Release him.</p>
+      <p xml:id="wasps-the-wasps-head-359">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-360">And bring me a sword; If I am worsted in this debate, I shall fall on the blade.</p>
+      <p xml:id="wasps-the-wasps-head-361">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-362">Tell me whether you will accept the verdict of the Court.</p>
+      <p xml:id="wasps-the-wasps-head-363">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-364">May I never drink my Heliast's pay in honour of the Good Genius, it if I do not.</p>
+      <p xml:id="wasps-the-wasps-head-365">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-366">singing Now it is necessary for you, who are of our school, to say something novel, that you may not seem...</p>
+      <p xml:id="wasps-the-wasps-head-367">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-368">interrupting And I must note down everything he says, so as to remember it; someone bring me a tablet, quick.</p>
+      <p xml:id="wasps-the-wasps-head-369">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-370">singing ....to side with this youth in his opinions. You see how serious the question has become; if he should prevail, which the gods forfend, it will be all over for us.</p>
+      <p xml:id="wasps-the-wasps-head-371">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-372">But what will you say of it, if he should triumph in the debate?</p>
+      <p xml:id="wasps-the-wasps-head-373">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-374">singing That old men are no longer good for anything; we shall be perpetually laughed at in the streets, shall be called thallophores, mere brief-bags.</p>
+      <p xml:id="wasps-the-wasps-head-375">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-376">You are to be the champion of all our rights and sovereignty. Come, take courage! Bring into action all the resources of your wit.</p>
+      <p xml:id="wasps-the-wasps-head-377">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-378">At the outset I will prove to you that there exists no king whose might is greater than ours. Is there a pleasure, a blessing comparable with that of a juryman? Is there a being who lives more in the midst of delights, who is more feared, aged though he be? From the moment I leave my bed, men of power, the most illustrious in the city, await me at the bar of the tribunal; the moment I am seen from the greatest distance, they come forward to offer me a gentle handy-that has pilfered the public funds; they entreat me, bowing right low and with a piteous voice, "Oh, father," they say, "pity me, I adjure you by the profit you were able to make in the public service or in the army, when dealing with the victuals." Why, the man who speaks thus would not know of my existence, had I not let him off on some former occasion.</p>
+      <p xml:id="wasps-the-wasps-head-379">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-380">Let us note this first point, the supplicants.</p>
+      <p xml:id="wasps-the-wasps-head-381">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-382">These entreaties have appeased my wrath, and I enter-firmly resolved to do nothing that I have promised. Nevertheless I listen to the accused. Oh! what tricks to secure acquittal! Ah! there is no form of flattery that is not addressed to the Heliast! Some groan over their poverty and exaggerate it. Others tell us anecdotes or some comic story from Aesop. Others, again, cut jokes; they fancy I shall be appeased if I won If we are not even then won over, why, then they drag forward their young children by the hand, both boys and girls, who prostrate themselves and whine with one accord, and then the father, trembling as if before a god, beseeches me not to condemn him out of pity for them, "If you love the voice of the lamb, have pity on my sons"; and because I am fond of little sows, I must yield to his daughter's prayers. Then we relax the heat of our wrath a little for him. Is not this great power indeed, which allows even wealth to be disdained?</p>
+      <p xml:id="wasps-the-wasps-head-383">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-384">A second point to note, the disdain of wealth. And now recall to me what are the advantages you enjoy, you, who pretend to rule over Greece?</p>
+      <p xml:id="wasps-the-wasps-head-385">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-386">We are entrusted with the inspection of the young men, and thus we have a right to examine their tools. If Oeagrus is accused, he is not acquitted before he has recited a passage from 'Niobe' and he chooses the finest. If a flute-player gains his case, he adjusts his mouth-strap in return and plays us the final air while we are leaving. A father on his death-bed names some husband for his daughter, who is his sole heir; but we care little for his will or for the shell so solemnly placed over the seal; we give the young maiden to him who has best known how to secure our wavour. Name me another duty that is so important and so irresponsible.</p>
+      <p xml:id="wasps-the-wasps-head-387">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-388">Aye, it's a fine privilege, and the only one on which I can congratulate you; but surely to violate the will is to act badly towards the heiress.</p>
+      <p xml:id="wasps-the-wasps-head-389">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-390">And if the Senate and the people have trouble in deciding some important case, it is decreed to send the culprits before the Heliasts; then Euathlus and the illustrious Colaconymus, who cast away his shield, swear not to betray us and to fight for the people. Did ever an orator carry the day with his opinion if he had not first declared that the jury should be dismissed for the day as soon as they had given their first verdict? We are the only ones whom Cleon, the great bawler, does not badger. On the contrary, he protects and caresses us; he keeps off the flies, which is what you have never done for your father. Theorus, who is a man not less illustrious than Euphemius, takes the sponge out of the pot and blacks our shoes. See then what good things you deprive and despoil me of. Pray, is this obeying or being a slave, as you pretended to be able to prove?</p>
+      <p xml:id="wasps-the-wasps-head-391">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-392">Talk away to your heart's content; you must come to a stop at last and then you shall see that this grand power only resembles an anus; no matter how much you wash it, you can never get it clean.</p>
+      <p xml:id="wasps-the-wasps-head-393">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-394">But I am forgetting the most pleasing thing of all. When I return home with my pay, everyone runs to greet me because of my money. First my daughter bathes me, anoints my feet, stoops to kiss me and, while she is calling me "her dearest father," fishes out my triobolus with her tongue; then my little wife comes to wheedle me and brings a nice light cake; she sits beside me and entreats me in a thousand ways, "Do take this now; do have some more." All this delights me hugely, and I have no need to turn towards you or the steward to know when it shall please him to serve my dinner, all the while cursing and grumbling. But if he does not quickly knead my cake, I have something which is my defence, my shield against all ills. If you do not pour me out drink, I have brought this long-eared jar full of wine. How it brays, when I bend back and bury its neck in my mouth! It farts like a whole army, and how I laugh at your wine-skins. With increasing excitement As to power, am I not equal to the king of the gods? If our assembly is noisy, all say as they pass, "Great gods! the tribunal is rolling out its thunder!" If I let loose the lightning, the richest, aye, the noblest are half dead with terror and crap for fright. You yourself are afraid of me, yea, by Demeter! you are afraid. But may I die if you frighten me.</p>
+      <p xml:id="wasps-the-wasps-head-395">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-396">singing Never have I heard speech so elegant or so sensible.</p>
+      <p xml:id="wasps-the-wasps-head-397">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-398">Ah! he thought he had only to turn me round his finger; he should, however have known the vigour of my eloquence.</p>
+      <p xml:id="wasps-the-wasps-head-399">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-400">singing He has said everything without omission. I felt myself grow taller while I listened to him. Methought myself meting out justice in the Islands of the Blest, so much was I taken with the charm of his words.</p>
+      <p xml:id="wasps-the-wasps-head-401">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-402">How overjoyed they are! What extravagant delight! Ah! ah! you are going to get a thrashing to-day.</p>
+      <p xml:id="wasps-the-wasps-head-403">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-404">singing Come, plot everything you can to beat him; 'tis not easy to soften me if you do no talk on my side.</p>
+      <p xml:id="wasps-the-wasps-head-405">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-406">If you have nothing but nonsense to spout, it's time to buy a good millstone, freshly cut withal, to crush my anger.</p>
+      <p xml:id="wasps-the-wasps-head-407">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-408">The cure of a disease, so inveterate and so widespread in Athens, is a difficult task and of too great importance for the scope of comedy. Nevertheless, my old father....</p>
+      <p xml:id="wasps-the-wasps-head-409">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-410">Cease to call me by that name, for, if you do not prove me a slave and that quickly too, you must die by my hand, even if I must be deprived of my share in the sacred feasts.</p>
+      <p xml:id="wasps-the-wasps-head-411">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-412">Listen to me, dear little father, unruffle that frowning brow and reckon, you can do so without trouble, not with pebbles, but on your fingers, what is the sum-total of the tribute paid by the allied towns; besides this we have the direct imposts, a mass of percentage dues, the fees of the courts of justice, the produce from the mines, the markets, the harbours, tile public lands and the confiscations. All these together amount to nearly two thousand talents. Take from this sum the annual pay of the dicasts; they number six thousand, and there have never been more in this town; so therefore it is one hundred and fifty talents that come to you.</p>
+      <p xml:id="wasps-the-wasps-head-413">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-414">What! our pay is not even a tithe of the state revenue?</p>
+      <p xml:id="wasps-the-wasps-head-415">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-416">Why no, certainly not.</p>
+      <p xml:id="wasps-the-wasps-head-417">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-418">And where does the rest go then?</p>
+      <p xml:id="wasps-the-wasps-head-419">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-420">To those who say: "I shall never betray the interests of the masses; I shall always fight for the people." And it is you, father, who let yourself be caught with their fine talk, who give them all power over yourself. They are the men who extort fifty talents at a time by threat and intimidation from the allies. "Pay tribute to me," they say, "or I shall loose the lightning on you-town and destroy it." And you, you are content to gnaw the crumbs of your own might. What do the allies do? They see that the Athenian mob lives on the tribunal in niggard and miserable fashion, and they count you for nothing, for not more than the vote of Connus; it is on those wretches that they lavish everything, dishes of salt fish, wine, tapestries, cheese, honey, chaplets, necklets, drinking-cups, all that yields pleasure and health. And you, their master, to you as a reward for all your toil both on land and sea, nothing is given, not even a clove of garlic to eat with your little fish.</p>
+      <p xml:id="wasps-the-wasps-head-421">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-422">No, undoubtedly not; I have had to send and buy some from Eucharides. But you told me I was a slave. Prove it then, for I am dying with impatience.</p>
+      <p xml:id="wasps-the-wasps-head-423">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-424">Is it not the worst of all slaveries to see all these wretches and their flatterers, whom they gorge with gold, at the head of affairs? As for you, you are content with the three obols which they give you and which you have so painfully earned in the galleys, in battles and sieges. But what I stomach least is that you go to sit on the tribunal by order. Some young fairy, the son of Chaereas, to wit, enters your house wiggling his arse, foul with debauchery, on his straddling legs and charges you to come and judge at daybreak, and precisely to the minute. "He who presents himself after the opening of the Court," says he, "will not get the triobolus." But he himself, though he arrives late, will nevertheless get his drachma as a public advocate. If an accused man makes him some present, he shares it with a colleague and the pair agree to arrange the matter like two sawyers, one of whom pulls and the other pushes. As for you, you have only eyes for the public pay-clerk, and you see nothing.</p>
+      <p xml:id="wasps-the-wasps-head-425">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-426">Can it be I am treated thus? Oh! what is it you are saying? You stir me to the bottom of my heart! I am all ears! I cannot express what I feel.</p>
+      <p xml:id="wasps-the-wasps-head-427">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-428">Consider then; you might be rich, both you and all the others; I know not why you let yourself be fooled by these folk who call themselves the people's friends. A myriad of towns obey you, from the Euxine to Sardis. What do you gain thereby? Nothing but this miserable pay, and even that is like the oil with which the flock of wool is impregnated and is doled to you drop by drop, just enough to keep you from dying of hunger. They want you to be poor, and I will tell you why. It is so that you may know only those who nourish you, and so that, if it pleases them to loose you against one of their foes, you shall leap upon him with fury. If they wished to assure the well-being of the people, nothing would be easier for them. We have now a thousand towns that pay us tribute; let them comand each of these to feed twenty Athenians; then twenty thousand of our citizens would be eating nothing but hare, would drink nothing but the purest of milk, and always crowned with garlands, would be enjoying the delights to which the great name of their country and the trophies of Marathon give them the right; whereas to-day you are like the hired labourers who gather the olives; you follow him who pays you.</p>
+      <p xml:id="wasps-the-wasps-head-429">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-430">Alas! my hand is benumbed; I can no longer draw my sword. What has become of my strength?</p>
+      <p xml:id="wasps-the-wasps-head-431">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-432">When they are afraid, they promise to divide Euboea among you and to give each fifty bushels of wheat, but what have they given you? Nothing excepting, quite recently, five bushels of barley, and even these you have only obtained with great difficulty, on proving you were not aliens, and then choenix by choenix. With increasing excitement That is why I always kept you shut in; I wanted you to be fed by me and no longer at the beck of these blustering braggarts. Even now I am ready to let you have all you want, provided you no longer let yourself be suckled by the payclerk.</p>
+      <p xml:id="wasps-the-wasps-head-433">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-434">to BDELYCLEON He was right who said, "Decide nothing till you have heard both sides," for now it seems to me that you are the one who gains the complete victory. My wrath is appeased and I throw away my sticks. To PHILOCLEON But, you, our comrade and contemporary....</p>
+      <p xml:id="wasps-the-wasps-head-435">
+        <em>FIRST SEMI-CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-436">taking this up in song .... let yourself be won over by his words; come, be not too obstinate or too perverse. Would that I had a relative or kinsman to correct me thus! Clearly some god is at hand and is now protecting you and loading you with benefits. Accept them.</p>
+      <p xml:id="wasps-the-wasps-head-437">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-438">I will feed him, I will give him everything that is suitable for an old man; oatmeal gruel, a cloak, soft furs, and a wench to rub his tool and his loins. But he keeps silent and will not utter a sound; that's a bad sign.</p>
+      <p xml:id="wasps-the-wasps-head-439">
+        <em>SECOND SEMI-CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-440">singing He has thought the thing over and has recognized his folly; he is reproaching himself for not having followed your advice always. But there he is, converted by your words, and wiser now, so that he will no doubt alter his ways in the future and always believe in none but you.</p>
+      <p xml:id="wasps-the-wasps-head-441">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-442">Alas! alas!</p>
+      <p xml:id="wasps-the-wasps-head-443">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-444">Now why this lamentation?</p>
+      <p xml:id="wasps-the-wasps-head-445">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-446">in tragic style A truce to your promises! What I love is down there, down there I want to be, there, where the herald cries, "Who has not yet voted? Let him rise!" I want to be the last of all to leave the urn. Oh, my soul, my soul! where art thou? come! oh! dark shadows, make way for me! By Heracles, may I reach the court in time to convict Cleon of theft.</p>
+      <p xml:id="wasps-the-wasps-head-447">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-448">Come, father, in the name of the gods, believe me!</p>
+      <p xml:id="wasps-the-wasps-head-449">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-450">Believe you! Ask me anything, anything, except one.</p>
+      <p xml:id="wasps-the-wasps-head-451">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-452">What is it? Let us hear.</p>
+      <p xml:id="wasps-the-wasps-head-453">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-454">Not to judge any more! Before I consent, I shall have appeared before Pluto.</p>
+      <p xml:id="wasps-the-wasps-head-455">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-456">Very well then, since you find so much pleasure in it, go down there no more, but stay here and deal out justice to your slaves.</p>
+      <p xml:id="wasps-the-wasps-head-457">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-458">But what is there to judge? Are you mad?</p>
+      <p xml:id="wasps-the-wasps-head-459">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-460">Everything as in a tribunal. If a servant opens a door secretly, you inflict upon him a simple fine; that's what you have repeatedly done down there. Everything can be arranged to suit you. If it is warm in the morning, you can judge in the sunlight; if it is snowing, then seated at your fire; if it rains, you go indoors; and if you don't rise till noon, there will be no Thesmothetes to exclude you from the precincts.</p>
+      <p xml:id="wasps-the-wasps-head-461">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-462">The notion pleases me.</p>
+      <p xml:id="wasps-the-wasps-head-463">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-464">Moreover, if a pleader is long-winded, you will not be hungering and chafing and seeking vengeance on the accused.</p>
+      <p xml:id="wasps-the-wasps-head-465">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-466">But could I judge as well with my mouth full?</p>
+      <p xml:id="wasps-the-wasps-head-467">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-468">Much better. Is it not said, that the dicasts, when deceived by lying witnesses, have need to ruminate well in order to arrive at the truth?</p>
+      <p xml:id="wasps-the-wasps-head-469">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-470">Well said, but you have not told me yet who will pay my salary.</p>
+      <p xml:id="wasps-the-wasps-head-471">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-472">I will.</p>
+      <p xml:id="wasps-the-wasps-head-473">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-474">So much the better; in this way I shall be paid by myself. Because that damned jester, Lysistratus, played me an infamous trick the other day. He received a drachma for the two of us and went on the fish-market to get it changed and then brought me back three mullet scales. I took them for obols and crammed them into my mouth; but the smell choked me and I quickly spat them out. So I dragged him before the court.</p>
+      <p xml:id="wasps-the-wasps-head-475">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-476">And what did he say to that?</p>
+      <p xml:id="wasps-the-wasps-head-477">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-478">Well, he pretended I had the stomach of a cock. "You have soon digested the money," he said with a laugh.</p>
+      <p xml:id="wasps-the-wasps-head-479">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-480">You see, that is yet another advantage.</p>
+      <p xml:id="wasps-the-wasps-head-481">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-482">And no small one either. Come, do as you will.</p>
+      <p xml:id="wasps-the-wasps-head-483">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-484">Wait! I will bring everything here. He goes into the house.</p>
+      <p xml:id="wasps-the-wasps-head-485">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-486">to himself You see, the oracles are coming true; I have heard it foretold, that one day the Athenians would dispense justice in their own houses, that each citizen. would have himself a little tribunal constructed in his porch similar to the altars of Hecate, and that there would be such before every door.</p>
+      <p xml:id="wasps-the-wasps-head-487">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-488">returning with slaves who are carrying various objects There, what do you think of that? I have brought you everything needful and much more into the bargain. See, here is a thunder-mug in case you have to pee; I shall hang it up beside you.</p>
+      <p xml:id="wasps-the-wasps-head-489">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-490">Good idea! Right useful at my age. You have found the true alleviation of bladder troubles.</p>
+      <p xml:id="wasps-the-wasps-head-491">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-492">Here is a fire, and near to it are lentils, should you want to have a bite to eat.</p>
+      <p xml:id="wasps-the-wasps-head-493">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-494">That's admirably arranged. In this way, even when feverish, I shall nevertheless receive my pay; and besides, I could eat my lentils without quitting my seat. But why this cock?</p>
+      <p xml:id="wasps-the-wasps-head-495">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-496">So that, should you doze during some pleading, he may awaken you by crowing up there.</p>
+      <p xml:id="wasps-the-wasps-head-497">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-498">I want only for one thing more; all the rest is as good as can be.</p>
+      <p xml:id="wasps-the-wasps-head-499">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-500">What is that?</p>
+      <p xml:id="wasps-the-wasps-head-501">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-502">If only they could bring me an image of the hero Lycus.</p>
+      <p xml:id="wasps-the-wasps-head-503">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-504">Here it is! Why, you might think it was the god himself!</p>
+      <p xml:id="wasps-the-wasps-head-505">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-506">Oh! hero, my master I how repulsive you are to look at I</p>
+      <p xml:id="wasps-the-wasps-head-507">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-508">He looks just like Cleonymus.</p>
+      <p xml:id="wasps-the-wasps-head-509">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-510">That is why, hero though he be, he has no weapon.</p>
+      <p xml:id="wasps-the-wasps-head-511">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-512">The sooner you take your seat, the sooner I shall call a case.</p>
+      <p xml:id="wasps-the-wasps-head-513">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-514">Call it, for I have been seated ever so long.</p>
+      <p xml:id="wasps-the-wasps-head-515">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-516">Let us see. What case shall we bring up first? Is there a slave who has done something wrong? Ah! you Thracian there, you burnt the stew-pot the other day.</p>
+      <p xml:id="wasps-the-wasps-head-517">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-518">Wait, wait! This is a fine state of affairs! You almost made me judge without a bar, and that is the most sacred thing of all for us.</p>
+      <p xml:id="wasps-the-wasps-head-519">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-520">There isn't any, by Zeus.</p>
+      <p xml:id="wasps-the-wasps-head-521">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-522">I'll run indoors and get one myself. Exit</p>
+      <p xml:id="wasps-the-wasps-head-523">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-524">What does it matter? Terrible thing, the force of habit.</p>
+      <p xml:id="wasps-the-wasps-head-525">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-526">coming out of the house Damn that animal! How can anyone keep such a dog?</p>
+      <p xml:id="wasps-the-wasps-head-527">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-528">Hullo! what's the matter?</p>
+      <p xml:id="wasps-the-wasps-head-529">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-530">Oh, it's Labes, who has just rushed into the kitchen and seized a whole Sicilian cheese and gobbled it up.</p>
+      <p xml:id="wasps-the-wasps-head-531">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-532">Good! this will be the first offence I shall make my father try. To XANTHIAS Come along and lay your accusation. XANTHIAS No, not I; the other dog vows he will be accuser, if the matter is brought up for trial.</p>
+      <p xml:id="wasps-the-wasps-head-533">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-534">Well then, bring them both along.</p>
+      <p xml:id="wasps-the-wasps-head-535">
+        <em>XANTHIAS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-536">That's what we'll have to do. He goes hack into the house. A moment later PHILOCLEON comes out.</p>
+      <p xml:id="wasps-the-wasps-head-537">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-538">What is this?</p>
+      <p xml:id="wasps-the-wasps-head-539">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-540">The pig-trough of the swine dedicated to Hestia.</p>
+      <p xml:id="wasps-the-wasps-head-541">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-542">Did you steal it from a shrine?</p>
+      <p xml:id="wasps-the-wasps-head-543">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-544">No, no, by addressing Hestia first, I might, thanks to her, crush an adversary. But put an end to delay by calling up the case. My verdict is already settled.</p>
+      <p xml:id="wasps-the-wasps-head-545">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-546">Wait! I still have to bring out the tablets and the scrolls. He goes into the house.</p>
+      <p xml:id="wasps-the-wasps-head-547">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-548">Oh! I am boiling, I am dying with impatience at your delays. I could have traced the sentence in the dust.</p>
+      <p xml:id="wasps-the-wasps-head-549">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-550">coming out with tablets and scrolls There you are.</p>
+      <p xml:id="wasps-the-wasps-head-551">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-552">Then call the case.</p>
+      <p xml:id="wasps-the-wasps-head-553">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-554">Right. Who is first on the docket?</p>
+      <p xml:id="wasps-the-wasps-head-555">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-556">My god! This is unbearable! I have forgotten the urns.</p>
+      <p xml:id="wasps-the-wasps-head-557">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-558">Now where are you going?</p>
+      <p xml:id="wasps-the-wasps-head-559">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-560">To look for the urns.</p>
+      <p xml:id="wasps-the-wasps-head-561">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-562">Don't bother, I have these pots.</p>
+      <p xml:id="wasps-the-wasps-head-563">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-564">Very well, then we have all we need, except the clepsydra.</p>
+      <p xml:id="wasps-the-wasps-head-565">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-566">pointing to the thunder-mug What is this if it is not a clepsydra?</p>
+      <p xml:id="wasps-the-wasps-head-567">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-568">You know how to supply everything.</p>
+      <p xml:id="wasps-the-wasps-head-569">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-570">Let fire be brought quickly from the house with myrtle boughs and incense, and let us invoke the gods before opening the sitting.</p>
+      <p xml:id="wasps-the-wasps-head-571">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-572">Offer them libations and your vows and we will thank them that a noble agreement has put an end to your bickerings and strife. And first let there be a sacred silence.</p>
+      <p xml:id="wasps-the-wasps-head-573">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-574">singing Oh! god of Delphi! oh! Phoebus Apollo! convert into the greatest blessing for us all what is now happening before this house, and cure us of our error, oh, Paean, our helper!</p>
+      <p xml:id="wasps-the-wasps-head-575">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-576">solemnly Oh, Powerful god, Apollo Aguieus, who watchest at the door of my entrance hall, accept this fresh sacrifice; I offer it that you may deign to soften my father's excessive severity; he is as hard as iron, his heart is like sour wine; do thou pour into it a little honey. Let him become gentle toward other men, let him take more interest in the accused than in the accusers, may he allow himself to be softened by entreaties; calm his acrid humour and deprive his irritable mind of all sting.</p>
+      <p xml:id="wasps-the-wasps-head-577">
+        <em>CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-578">singing We unite our vows and chants to those of this new magistrate. His words have won our favour and we are convinced that he loves the people more than any of the young men of the present day. XANTHIAS brings in two persons costumed as dogs, but with masks that suggest Laches and Cleon.</p>
+      <p xml:id="wasps-the-wasps-head-579">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-580">If there be any judge near at hand, let him enter; once the proceedings have opened, we shall admit him no more.</p>
+      <p xml:id="wasps-the-wasps-head-581">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-582">Who is the defendant?</p>
+      <p xml:id="wasps-the-wasps-head-583">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-584">This one.</p>
+      <p xml:id="wasps-the-wasps-head-585">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-586">aside He does not stand a chance.</p>
+      <p xml:id="wasps-the-wasps-head-587">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-588">Listen to the indictment. A dog of Cydathenaea doth hereby charge Labes of Aexonia with having devoured a Sicilian cheese by himself without accomplices. Penalty demanded, a collar of fig-tree wood.</p>
+      <p xml:id="wasps-the-wasps-head-589">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-590">Nay, a dog's death, if convicted.</p>
+      <p xml:id="wasps-the-wasps-head-591">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-592">This is Labes, the defendant.</p>
+      <p xml:id="wasps-the-wasps-head-593">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-594">Oh! what a wretched brute! how entirely he looks the rogue! He thinks to deceive me by keeping his jaws closed. Where is the plaintiff, the dog of Cydathenaea?</p>
+      <p xml:id="wasps-the-wasps-head-595">
+        <em>DOG</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-596">Bow wow! bow wow!</p>
+      <p xml:id="wasps-the-wasps-head-597">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-598">Here he is.</p>
+      <p xml:id="wasps-the-wasps-head-599">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-600">Why, he's another Labes, a great barker and a licker of dishes.</p>
+      <p xml:id="wasps-the-wasps-head-601">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-602">as Herald Silence! Keep your seats! To the Cydathenaean dog. And you, up on your feet and accuse him.</p>
+      <p xml:id="wasps-the-wasps-head-603">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-604">Go on, and I will help myself and eat these lentils.</p>
+      <p xml:id="wasps-the-wasps-head-605">
+        <em>DOG</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-606">Gentlemen of the jury, listen to this indictment I have drawn up. He has committed the blackest of crimes, against both me and the seamen. He sought refuge in a dark corner to glutton on a big Sicilian cheese, with which he sated his hunger.</p>
+      <p xml:id="wasps-the-wasps-head-607">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-608">Why, the crime is clear; the filthy brute this very moment belched forth a horrible odour of cheese right under my nose.</p>
+      <p xml:id="wasps-the-wasps-head-609">
+        <em>DOG</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-610">And he refused to share with me. And yet can anyone style himself your benefactor, when he does not cast a morsel to your poor dog?</p>
+      <p xml:id="wasps-the-wasps-head-611">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-612">He has not shared anything, not even with his comrade. His madness is as hot as my lentils.</p>
+      <p xml:id="wasps-the-wasps-head-613">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-614">In the name of the gods, father! No hurried verdict without hearing the other side!</p>
+      <p xml:id="wasps-the-wasps-head-615">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-616">But the evidence is plain; the fact speaks for itself.</p>
+      <p xml:id="wasps-the-wasps-head-617">
+        <em>DOG</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-618">Then beware of acquitting the most selfish of canine gluttons, who has devoured the whole cheese, rind and all, prowling round the platter.</p>
+      <p xml:id="wasps-the-wasps-head-619">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-620">There is not even enough left for me to fill up the chinks in my pitcher.</p>
+      <p xml:id="wasps-the-wasps-head-621">
+        <em>DOG</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-622">Besides, you must punish him, because the same house cannot keep two thieves. Let me not have barked in vain, else I shall never bark again.</p>
+      <p xml:id="wasps-the-wasps-head-623">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-624">Oh! the black deeds he has just denounced! What a shameless thief! Say, cock, is not that your opinion too? Ha, ha! He thinks as I do. Here, Thesmothetes! where are you? Hand me the thunder-mug.</p>
+      <p xml:id="wasps-the-wasps-head-625">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-626">Get it yourself. I go to call the witnesses; these are a plate, a pestle, a cheese knife, a brazier, a stew-pot and other half-burnt utensils. To PHILOCLEON But you have not finished? you are piddling away still! Have done and be seated.</p>
+      <p xml:id="wasps-the-wasps-head-627">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-628">Ha, ha! I reckon I know somebody who will crap for fright to-day.</p>
+      <p xml:id="wasps-the-wasps-head-629">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-630">Will you never cease showing yourself hard and intractable, and especially to the accused? You tear them to pieces tooth and nail. To LABES Come forward and defend yourself. What means this silence? Answer.</p>
+      <p xml:id="wasps-the-wasps-head-631">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-632">No doubt he has nothing to say.</p>
+      <p xml:id="wasps-the-wasps-head-633">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-634">Not at all, I think he has got what happened once to Thucydides in court; his jaws suddenly set fast. Get away! I will undertake your defence.-Gentlemen of the jury, it is a difficult thing to speak for a dog who has been calumniated, but nevertheless I will try. He is a good dog, and he chases wolves finely.</p>
+      <p xml:id="wasps-the-wasps-head-635">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-636">He is a thief and a conspirator.</p>
+      <p xml:id="wasps-the-wasps-head-637">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-638">No, he is the best of all our dogs; he is capable of guarding a whole flock.</p>
+      <p xml:id="wasps-the-wasps-head-639">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-640">And what good is that, if he eats the cheese?</p>
+      <p xml:id="wasps-the-wasps-head-641">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-642">What? he fights for you, he guards your door; he is an excellent dog in every respect. Forgive him his larceny! he is wretchedly ignorant, he cannot play the lyre.</p>
+      <p xml:id="wasps-the-wasps-head-643">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-644">I wish he did not know how to write either; then the rascal would not have drawn up his pleadings.</p>
+      <p xml:id="wasps-the-wasps-head-645">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-646">Witnesses, I pray you, listen. Come forward, grating-knife, and speak up; answer me clearly. You were paymaster at the time. Did you grate out to the soldiers what was given you?-He says he did so.</p>
+      <p xml:id="wasps-the-wasps-head-647">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-648">But, by Zeus! he lies.</p>
+      <p xml:id="wasps-the-wasps-head-649">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-650">Oh! have patience. Take pity on the unfortunate. Labes feeds only on fish-bones and fishes' heads and has not an instant of peace. The other is good only to guard the house; he never moves from here, but demands his share of all that is brought in and bites those who refuse.</p>
+      <p xml:id="wasps-the-wasps-head-651">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-652">aside Oh! Heaven! have I fallen ill? I feel my anger cooling! Woe to me! I am softening!</p>
+      <p xml:id="wasps-the-wasps-head-653">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-654">Have pity, father, pity, I adjure you; you would not have him dead. Where are his puppies? A group of children costumed as puppies comes out. Come, poor little beasties, yap, up on your haunches, beg and whine!</p>
+      <p xml:id="wasps-the-wasps-head-655">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-656">Descend, descend, descend, descend!</p>
+      <p xml:id="wasps-the-wasps-head-657">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-658">I will descend, although that word, "descend," has too often raised false hope. None the less, I will descend.</p>
+      <p xml:id="wasps-the-wasps-head-659">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-660">Plague seize it! Have I then done wrong to eat! What! I, crying! Ah! I certainly should not be weeping, if I were not stuffed with lentils.</p>
+      <p xml:id="wasps-the-wasps-head-661">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-662">Then he is acquitted?</p>
+      <p xml:id="wasps-the-wasps-head-663">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-664">It is difficult to tell.</p>
+      <p xml:id="wasps-the-wasps-head-665">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-666">Ah! my dear father, be good! be humane! Take this voting pebble and rush with your eyes closed to that second urn and, father, acquit him.</p>
+      <p xml:id="wasps-the-wasps-head-667">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-668">No, I know no more how to acquit than to play the lyre.</p>
+      <p xml:id="wasps-the-wasps-head-669">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-670">Come quickly, I will show you the way. He takes his father by the hand and leads him to the second urn.</p>
+      <p xml:id="wasps-the-wasps-head-671">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-672">Is this the first urn?</p>
+      <p xml:id="wasps-the-wasps-head-673">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-674">Yes.</p>
+      <p xml:id="wasps-the-wasps-head-675">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-676">dropping in his vote Then I have voted.</p>
+      <p xml:id="wasps-the-wasps-head-677">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-678">aside I have fooled him and he has acquitted in spite of himself. To PHILOCLEON Come, I will turn out the urns.</p>
+      <p xml:id="wasps-the-wasps-head-679">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-680">What is the result?</p>
+      <p xml:id="wasps-the-wasps-head-681">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-682">We shall see. He examines both urns. Labes, you stand acquitted. PHILOCLEON faints Eh! father, what's the matter, what is it? (To slaves) Water! water! To PHILOCLEON Pull yourself together, sir!</p>
+      <p xml:id="wasps-the-wasps-head-683">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-684">weakly Tell me! Is he really acquitted?</p>
+      <p xml:id="wasps-the-wasps-head-685">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-686">Yes, certainly.</p>
+      <p xml:id="wasps-the-wasps-head-687">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-688">falling back Then it's all over with me!</p>
+      <p xml:id="wasps-the-wasps-head-689">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-690">Courage, dear father, don't let this afflict you so terribly.</p>
+      <p xml:id="wasps-the-wasps-head-691">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-692">dolefully And so I have charged my conscience with the acquittal of an accused being! What will become of me? Sacred gods! forgive me. I did it despite myself; it is not in my character.</p>
+      <p xml:id="wasps-the-wasps-head-693">
+        <em>BDELYCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-694">Do not vex yourself, father; I will feed you well, will take you everywhere to eat and drink with me; you shall go to every feast; henceforth your life shall be nothing but pleasure, and Hyperbolus shall no longer have you for a tool. But come, let us go in.</p>
+      <p xml:id="wasps-the-wasps-head-695">
+        <em>PHILOCLEON</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-696">resignedly So be it; if you will, let us go in. They all go into the house.</p>
+      <p xml:id="wasps-the-wasps-head-697">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="wasps-the-wasps-p-698">Go where it pleases you and may your happiness be great. The CHORUS turns and faces the audience. You meanwhile, oh! countless myriads, listen to the sound counsels I am going to give you and take care they are not lost upon you. That would be the fate of vulgar spectators, not that of such an audience. Hence, people, lend me your ear, if you love frank speaking.</p>
+      <p xml:id="wasps-the-wasps-p-699">The poet has a reproach to make against his audience; he says you have ill-treated him in return for the many services he has rendered you. At first he kept himself in the background and lent help secretly to other poets, and like the prophetic Genius, who hid himself in the belly of Eurycles, slipped within the spirit of another and whispered to him many a comic hit. Later he ran the risks of the theatre on his own account, with his face uncovered, and dared to guide his Muse unaided. Though overladen with success and honours more than any of your poets, indeed despite all his glory, he does not yet believe he has attained his goal; his heart is not swollen with pride and he does not seek to seduce the young folk in the wrestling school. If any lover runs up to him to complain because he is furious at seeing the object of his passion derided on the stage, he takes no heed of such reproaches, for he is inspired only with honest motives and his Muse is no pander. From the very outset of his dramatic career he has disdained to assail those who were men, but with a courage worthy of Heracles himself he attacked the most formidable monsters, and at the beginning went straight for that beast with the sharp teeth, with the terrible eyes that flashed lambent fire like those of Cynna, surround</p>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="aristophanes-wasps-colophon">
+        <p xml:id="aristophanes-wasps-colophon-p-1">Author: Aristophanes</p>
+        <p xml:id="aristophanes-wasps-colophon-p-2">Written: 422 BCE</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

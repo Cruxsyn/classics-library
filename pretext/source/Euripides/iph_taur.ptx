@@ -1,0 +1,1564 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="euripides-iph-taur">
+    <title>Iphigenia in Tauris</title>
+    <chapter xml:id="iph-taur-iphigenia-in-tauris">
+      <title>Iphigenia in Tauris</title>
+      <poem xml:id="iph-taur-iphigenia-in-tauris-poem-1">
+        <stanza xml:id="iph-taur-iphigenia-in-tauris-stanza-1-1">
+          <line>Dramatis Personae</line>
+          <line>IPHIGENIA, daughter of Agamemnon</line>
+          <line>ORESTES, brother of IPHIGENIA</line>
+          <line>PYLADES, friend Of ORESTES</line>
+          <line>THOAS, King of the Taurians</line>
+          <line>HERDSMAN</line>
+          <line>MESSENGER</line>
+          <line>MINERVA</line>
+          <line>CHORUS OF GREEK WOMEN, captives, attendants on IPHIGENIA in the</line>
+          <line>Scene Before the great temple of Diana of the Taurians. A blood- stained altar is prominently in view. IPHIGENIA, clad as a priestess, enters from the temple.</line>
+          <line>IPHIGENIA</line>
+          <line>To Pisa, by the fleetest coursers borne,</line>
+          <line>Comes Pelops, son of Tantalus, and weds</line>
+          <line>The virgin daughter of Oenomaus:</line>
+          <line>From her sprung Atreus; Menelaus from him,</line>
+          <line>And Agamemnon; I from him derive</line>
+          <line>My birth, his Iphigenia, by his queen,</line>
+          <line>Daughter of Tyndarus. Where frequent winds</line>
+          <line>Swell the vex'd Euripus with eddying blasts,</line>
+          <line>And roll the darkening waves, my father slew me,</line>
+          <line>A victim to Diana, so he thought,</line>
+          <line>For Helen's sake, its bay where Aulis winds,</line>
+          <line>To fame well known; for there his thousand ships,</line>
+          <line>The armament of Greece, the imperial chief</line>
+          <line>Convened, desirous that his Greeks should snatch</line>
+          <line>The glorious crown of victory from Troy,</line>
+          <line>And punish the base insult to the bed</line>
+          <line>Of Helen, vengeance grateful to the soul</line>
+          <line>Of Menelaus. But 'gainst his ships the sea</line>
+          <line>Long barr'd, and not one favouring breeze to swell</line>
+          <line>His flagging sails, the hallow'd flames the chief</line>
+          <line>Consults, and Calchas thus disclosed the fates:-</line>
+          <line>"Imperial leader of the Grecian host,</line>
+          <line>Hence shalt thou not unmoor thy vessels, ere</line>
+          <line>Diana as a victim shall receive</line>
+          <line>Thy daughter Iphigenia: what the year</line>
+          <line>Most beauteous should produce, thou to the queen</line>
+          <line>Dispensing light didst vow to sacrifice:</line>
+          <line>A daughter Clytemnestra in thy house</line>
+          <line>Then bore (the peerless grace of beauty thus</line>
+          <line>To me assigning); her must thou devote</line>
+          <line>The victim." Then Ulysses by his arts,</line>
+          <line>Me, to Achilles as design'd a bride,</line>
+          <line>Won from my mother. My unhappy fate</line>
+          <line>To Aulis brought me; on the altar there</line>
+          <line>High was I placed, and o'er me gleam'd the sword,</line>
+          <line>Aiming the fatal wound: but from the stroke</line>
+          <line>Diana snatch'd me, in exchange a hind</line>
+          <line>Giving the Grecians; through the lucid air</line>
+          <line>Me she conveyed to Tauris, here to dwell,</line>
+          <line>Where o'er barbarians a barbaric king</line>
+          <line>Holds his rude sway, named Thoas, whose swift foot</line>
+          <line>Equals the rapid wing: me he appoints</line>
+          <line>The priestess of this temple, where such rites</line>
+          <line>Are pleasing to Diana, that the name</line>
+          <line>Alone claims honour; for I sacrifice</line>
+          <line>(Such, ere I came, the custom of the state)</line>
+          <line>Whatever Grecian to this savage shore</line>
+          <line>Is driven: the previous rites are mine; the deed</line>
+          <line>Of blood, too horrid to be told, devolves</line>
+          <line>On others in the temple: but the rest,</line>
+          <line>In reverence to the goddess, I forbear.</line>
+          <line>But the strange visions which the night now past</line>
+          <line>Brought with it, to the air, if that may soothe</line>
+          <line>My troubled thought, I will relate. I seem'd,</line>
+          <line>As I lay sleeping, from this land removed,</line>
+          <line>To dwell at Argos, resting on my couch</line>
+          <line>Mid the apartments of the virgin train.</line>
+          <line>Sudden the firm earth shook: I fled, and stood</line>
+          <line>Without; the battlements I saw, and all</line>
+          <line>The rocking roof fall from its lofty height</line>
+          <line>In ruins to the ground: of all the house,</line>
+          <line>My father's house, one pillar, as I thought,</line>
+          <line>Alone was left, which from its cornice waved</line>
+          <line>A length of auburn locks, and human voice</line>
+          <line>Assumed: the bloody office, which is mine</line>
+          <line>To strangers here, respecting, I to death,</line>
+          <line>Sprinkling the lustral drops, devoted it</line>
+          <line>With many tears. My dream I thus expound:-</line>
+          <line>Orestes, whom I hallow'd by my rites,</line>
+          <line>Is dead: for sons are pillars of the house;</line>
+          <line>They, whom my lustral lavers sprinkle, die.</line>
+          <line>I cannot to my friends apply my dream,</line>
+          <line>For Strophius, when I perish'd, had no son.</line>
+          <line>Now, to my brother, absent though he be,</line>
+          <line>Libations will I offer: this, at least,</line>
+          <line>With the attendants given me by the king,</line>
+          <line>Virgins of Greece, I can: but what the cause</line>
+          <line>They yet attend me not within the house,</line>
+          <line>The temple of the goddess, where I dwell?</line>
+          <line>She goes into the temple. ORESTES and PYLADES enter</line>
+          <line>cautiously.</line>
+          <line>ORESTES</line>
+          <line>Keep careful watch, lest some one come this way.</line>
+          <line>PYLADES</line>
+          <line>I watch, and turn mine eye to every part.</line>
+          <line>ORESTES</line>
+          <line>And dost thou, Pylades, imagine this</line>
+          <line>The temple of the goddess, which we seek,</line>
+          <line>Our sails from Argos sweeping o'er the main?</line>
+          <line>PYLADES</line>
+          <line>Orestes, such my thought, and must be thine.</line>
+          <line>ORESTES</line>
+          <line>And this the altar wet with Grecian blood?</line>
+          <line>PYLADES</line>
+          <line>Crimson'd with gore behold its sculptured wreaths.</line>
+          <line>ORESTES</line>
+          <line>See, from the battlements what trophies hang!</line>
+          <line>PYLADES</line>
+          <line>The spoils of strangers that have here been slain.</line>
+          <line>ORESTES</line>
+          <line>Behooves us then to watch with careful eye.</line>
+          <line>O Phoebus, by thy oracles again</line>
+          <line>Why hast thou led me to these toils? E'er since,</line>
+          <line>In vengeance for my father's blood, I slew</line>
+          <line>My mother, ceaseless by the Furies driven,</line>
+          <line>Vagrant, an outcast, many a bending course</line>
+          <line>My feet have trod: to thee I came, of the</line>
+          <line>Inquired this whirling frenzy by what means,</line>
+          <line>And by what means my labours I might end.</line>
+          <line>Thy voice commanded me to speed my course</line>
+          <line>To this wild coast of Tauris, where a shrine</line>
+          <line>Thy sister hath, Diana; thence to take</line>
+          <line>The statue of the goddess, which from heaven</line>
+          <line>(So say the natives) to this temple fell:</line>
+          <line>This image, or by fraud or fortune won,</line>
+          <line>The dangerous toil achieved, to place the prize</line>
+          <line>In the Athenian land: no more was said;</line>
+          <line>But that, performing this, I should obtain</line>
+          <line>Rest from my toils. Obedient to thy words,</line>
+          <line>On this unknown, inhospitable coast</line>
+          <line>Am I arrived. Now, Pylades (for thou</line>
+          <line>Art my associate in this dangerous task,)</line>
+          <line>Of thee I ask, What shall we do? for high</line>
+          <line>The walls, thou seest, which fence the temple round.</line>
+          <line>Shall we ascend their height? But how escape</line>
+          <line>Observing eyes? Or burst the brazen bars?</line>
+          <line>Of these we nothing know: in the attempt</line>
+          <line>To force the gates, or meditating means</line>
+          <line>To enter, if detected, we shall die.</line>
+          <line>Shall we then, ere we die, by flight regain</line>
+          <line>The ship in which we hither plough'd the sea?</line>
+          <line>PYLADES</line>
+          <line>Of flight we brook no thought, nor such hath</line>
+          <line>been</line>
+          <line>Our wont; nor may the god's commanding voice</line>
+          <line>Be disobey'd; but from the temple now</line>
+          <line>Retiring, in some cave, which the black sea</line>
+          <line>Beats with its billows, we may lie conceal'd</line>
+          <line>At distance from our bark, lest some, whose eyes</line>
+          <line>May note it, bear the tidings to the king,</line>
+          <line>And we be seized by force. But when the eye</line>
+          <line>Of night comes darkling on, then must we dare,</line>
+          <line>And take the polish'd image from the shrine,</line>
+          <line>Attempting all things: and the vacant space</line>
+          <line>Between the triglyphs (mark it well) enough</line>
+          <line>Is open to admit us; by that way</line>
+          <line>Attempt we to descend: in toils the brave</line>
+          <line>Are daring; of no worth the abject soul.</line>
+          <line>ORESTES</line>
+          <line>This length of sea we plough'd not, from this</line>
+          <line>coast,</line>
+          <line>Nothing effected, to return: but well</line>
+          <line>Hast thou advised; the god must be obey'd.</line>
+          <line>Retire we then where we may lie conceal'd;</line>
+          <line>For never from the god will come the cause,</line>
+          <line>That what his sacred voice commands should fall</line>
+          <line>Effectless. We must dare. No toil to youth</line>
+          <line>Excuse, which justifies inaction, brings.</line>
+          <line>They go out. IPHIGENIA and the CHORUS enter from the</line>
+          <line>temple.</line>
+          <line>IPHIGENIA</line>
+          <line>singing</line>
+          <line>You, who your savage dwellings hold</line>
+          <line>Nigh this inhospitable main,</line>
+          <line>'Gainst clashing rocks with fury roll'd,</line>
+          <line>From all but hallow'd words abstain.</line>
+          <line>Virgin queen, Latona's grace, joying in the mountain</line>
+          <line>chase,</line>
+          <line>To thy court, thy rich domain,</line>
+          <line>To thy beauteous-pillar'd fane</line>
+          <line>Where our wondering eyes behold</line>
+          <line>Battlements that blaze with gold,</line>
+          <line>Thus my virgin steps I bend,</line>
+          <line>Holy, the holy to attend;</line>
+          <line>Servant, virgin queen, to thee;</line>
+          <line>Power, who bear'st life's golden key,</line>
+          <line>Far from Greece for steeds renown'd,</line>
+          <line>From her walls with towers crown'd,</line>
+          <line>From the beauteous-planted meads</line>
+          <line>Where his train Eurotas leads,</line>
+          <line>Visiting the loved retreats,</line>
+          <line>Once my father's royal seats.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>I come. What cares disturb thy rest?</line>
+          <line>Why hast thou brought me to the shrine?</line>
+          <line>Doth some fresh grief afflict thy breast?</line>
+          <line>Why bring me to this seat divine?</line>
+          <line>Thou daughter of that chief, whose powers</line>
+          <line>Plough'd with a thousand keels the strand</line>
+          <line>And ranged in arms shook Troy's proud towers</line>
+          <line>Beneath the Atreidae's great command!</line>
+          <line>IPHIGENIA</line>
+          <line>singing</line>
+          <line>O ye attendant train,</line>
+          <line>How is my heart oppress'd with wo!</line>
+          <line>What notes, save notes of grief, can flow,</line>
+          <line>A harsh and unmelodious strain?</line>
+          <line>My soul domestic ills oppress with dread,</line>
+          <line>And bid me mourn a brother dead.</line>
+          <line>What visions did my sleeping sense appall</line>
+          <line>In the past dark and midnight hour!</line>
+          <line>'Tis ruin, ruin all.</line>
+          <line>My father's houses-it is no more:</line>
+          <line>No more is his illustrious line.</line>
+          <line>What dreadful deeds hath Argos known!</line>
+          <line>One only brother, Fate, was mine;</line>
+          <line>And dost thou rend him from me? Is he gone</line>
+          <line>To Pluto's dreary realms below?</line>
+          <line>For him, as dead, with pious care</line>
+          <line>This goblet I prepare;</line>
+          <line>And on the bosom of the earth shall flow</line>
+          <line>Streams from the heifer mountain-bred,</line>
+          <line>The grape's rich juice, and, mix'd with these,</line>
+          <line>The labour of the yellow bees,</line>
+          <line>Libations soothing to the dead.</line>
+          <line>Give me the oblation: let me hold</line>
+          <line>The foaming goblet's hallow'd gold.</line>
+          <line>O thou, the earth beneath,</line>
+          <line>Who didst from Agamemnon spring;</line>
+          <line>To thee, deprived of vital breath,</line>
+          <line>I these libations bring.</line>
+          <line>Accept them: to thy honour'd tomb,</line>
+          <line>Never, ah! never shall I come;</line>
+          <line>Never these golden tresses bear,</line>
+          <line>To place them there, there shed the tear;</line>
+          <line>For from my country far, a hind</line>
+          <line>There deem'd as slain, my wild abode I find.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>To thee thy faithful train</line>
+          <line>The Asiatic hymn will raise,</line>
+          <line>A doleful, a barbaric strain,</line>
+          <line>Responsive to thy lays,</line>
+          <line>And steep in tears the mournful song,-</line>
+          <line>Notes, which to the dead belong;</line>
+          <line>Dismal notes, attuned to woe</line>
+          <line>By Pluto in the realms below:</line>
+          <line>No sprightly air shall we employ</line>
+          <line>To cheer the soul, and wake the sense of joy.</line>
+          <line>IPHIGENIA</line>
+          <line>singing</line>
+          <line>The Atreidae are no more;</line>
+          <line>Extinct their sceptre's golden light;</line>
+          <line>My father's house from its proud height</line>
+          <line>Is fallen: its ruins I deplore.</line>
+          <line>Who of her kings at Argos holds his reign,</line>
+          <line>Her kings once bless'd? But Sorrow's train</line>
+          <line>Rolls on impetuous for the rapid steeds</line>
+          <line>Which o'er the strand with Pelops fly.</line>
+          <line>From what atrocious deeds</line>
+          <line>Starts the sun back, his sacred eye</line>
+          <line>Of brightness, loathing, turn'd aside?</line>
+          <line>And fatal to their house arose,</line>
+          <line>From the rich ram, Thessalia's golden pride,</line>
+          <line>Slaughter on slaughter, woes on woes:</line>
+          <line>Thence, from the dead ages past,</line>
+          <line>Vengeance came rushing on its prey,</line>
+          <line>And swept the race of Tantalus away.</line>
+          <line>Fatal to thee its ruthless haste;</line>
+          <line>To me too fatal, from the hour</line>
+          <line>My mother wedded, from the night</line>
+          <line>She gave me to life's opening light,</line>
+          <line>Nursed by affliction's cruel power.</line>
+          <line>Early to me, the Fates unkind,</line>
+          <line>To know what sorrow is assign'd:</line>
+          <line>Me Leda's daughter, hapless dame,</line>
+          <line>First blooming offspring of her bed</line>
+          <line>(A father's conduct here I blame,)</line>
+          <line>A joyless victim bred;</line>
+          <line>When o'er the strand of Aulis, in the pride</line>
+          <line>Of beauty kindling flames of love,</line>
+          <line>High on my splendid car I move,</line>
+          <line>Betrothed to Thetis' son a bride:</line>
+          <line>Ah, hapless bride, to all the train</line>
+          <line>Of Grecian fair preferr'd in vain!</line>
+          <line>But now, a stranger on this strand,</line>
+          <line>'Gainst which the wild waves beat,</line>
+          <line>I hold my dreary, joyless seat,</line>
+          <line>Far distant from my native land,</line>
+          <line>Nor nuptial bed is mine, nor child, nor friend.</line>
+          <line>At Argos now no more I raise</line>
+          <line>The festal song in Juno's praise;</line>
+          <line>Nor o'er the loom sweet-sounding bend,</line>
+          <line>As the creative shuttle flies;</line>
+          <line>Give forms of Titans fierce to rise;</line>
+          <line>And, dreadful with her purple spear,</line>
+          <line>Image Athenian Pallas there:</line>
+          <line>But on this barbarous shore</line>
+          <line>The unhappy stranger's fate I moan,</line>
+          <line>The ruthless altar stain'd with gore,</line>
+          <line>His deep and dying groan;</line>
+          <line>And, for each tear that weeps his woes,</line>
+          <line>From me a tear of pity flows.</line>
+          <line>Of these the sad remembrance now must sleep:</line>
+          <line>A brother dead, ah me! I weep:</line>
+          <line>At Argos him, by fate oppress'd,</line>
+          <line>I left an infant at the breast,</line>
+          <line>A beauteous bud, whose opening charms</line>
+          <line>Then blossom'd in his mother's arms;</line>
+          <line>Orestes, born to high command,</line>
+          <line>The imperial sceptre of the Argive land.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>Leaving the sea-wash'd shore a herdsman</line>
+          <line>comes</line>
+          <line>Speeding, with some fresh tidings to thee fraught.</line>
+          <line>A HERDSMAN enters.</line>
+          <line>HERDSMAN</line>
+          <line>Daughter of Agamemnon, and bright gem</line>
+          <line>Of Clytemnestra, hear strange things from me.</line>
+          <line>IPHIGENIA</line>
+          <line>And what of terror doth thy tale import?</line>
+          <line>HERDSMAN</line>
+          <line>Two youths, swift-rowing 'twixt the clashing</line>
+          <line>rocks</line>
+          <line>Of our wild sea, are landed on the beach,</line>
+          <line>A grateful offering at Diana's shrine,</line>
+          <line>And victims to the goddess. Haste, prepare</line>
+          <line>The sacred lavers, and the previous rites.</line>
+          <line>IPHIGENIA</line>
+          <line>Whence are the strangers? from what country named?</line>
+          <line>HERDSMAN</line>
+          <line>From Greece: this only, nothing more, I know.</line>
+          <line>IPHIGENIA</line>
+          <line>Didst thou not hear what names the strangers bear?</line>
+          <line>HERDSMAN</line>
+          <line>One by the other was call'd Pylades.</line>
+          <line>IPHIGENIA</line>
+          <line>How is the stranger, his companion, named?</line>
+          <line>HERDSMAN</line>
+          <line>This none of us can tell: we heard it not.</line>
+          <line>IPHIGENIA</line>
+          <line>How saw you them? how seized them? by what chance?</line>
+          <line>HERDSMAN</line>
+          <line>Mid the rude cliffs that o'er the Euxine hang-</line>
+          <line>IPHIGENIA</line>
+          <line>And what concern have herdsmen with the sea?</line>
+          <line>HERDSMAN</line>
+          <line>To wash our herds in the salt wave we came.</line>
+          <line>IPHIGENIA</line>
+          <line>To what I ask'd return: how seized you them?</line>
+          <line>Tell me the manner; this I wish to know:</line>
+          <line>For slow the victims come, nor hath some while</line>
+          <line>The altar of the goddess, as was wont,</line>
+          <line>Been crimson'd with the streams of Grecian blood.</line>
+          <line>HERDSMAN</line>
+          <line>Our herds, which in the forest feed, we</line>
+          <line>drove</line>
+          <line>Amid the tide that rushes to the shore,</line>
+          <line>'Twixt the Symplegades: it was the place,</line>
+          <line>Where in the rifted rock the chafing surge</line>
+          <line>Hath hallow'd a rude cave, the haunt of those</line>
+          <line>Whose quest is purple. Of our number there</line>
+          <line>A herdsman saw two youths, and back return'd</line>
+          <line>With soft and silent step; then pointing, said,</line>
+          <line>"Do you not see them? These are deities</line>
+          <line>That sit there." One, who with religious awe</line>
+          <line>Revered the gods, with hands uplifted pray'd,</line>
+          <line>His eyes fix'd on them,-"Son of the sea-nymph</line>
+          <line>Leucothoe, guardian of the labouring bark,</line>
+          <line>Our lord Palaemon, be propitious to us!</line>
+          <line>Or sit you on our shores, bright sons of Jove,</line>
+          <line>Castor and Pollux? Or the glorious boast</line>
+          <line>Of Nereus, father of the noble choir</line>
+          <line>Of fifty Nereids?" One, whose untaught mind</line>
+          <line>Audacious folly harden'd 'gainst the sense</line>
+          <line>Of holy awe, scoff'd at his prayers, and said,-</line>
+          <line>"These are wreck'd mariners, that take their seat</line>
+          <line>In the cleft rock through fear, as they have heard</line>
+          <line>Our prescribed rite, that here we sacrifice</line>
+          <line>The stranger." To the greater part he seem'd</line>
+          <line>Well to have spoken, and we judged it meet</line>
+          <line>To seize the victims, by our country's law</line>
+          <line>Due to the goddess. Of the stranger youths,</line>
+          <line>One at this instant started from the rock:</line>
+          <line>Awhile he stood, and wildly toss'd his head,</line>
+          <line>And groan'd, his loose arms trembling all their</line>
+          <line>length,</line>
+          <line>Convulsed with madness; and a hunter loud</line>
+          <line>Then cried,-"Dost thou behold her, Pylades?</line>
+          <line>Dost thou not see this dragon fierce from hell</line>
+          <line>Rushing to kill me, and against me rousing</line>
+          <line>Her horrid vipers? See this other here,</line>
+          <line>Emitting fire and slaughter from her vests,</line>
+          <line>Sails on her wings, my mother in her arms</line>
+          <line>Bearing, to hurl this mass of rock upon me!</line>
+          <line>Ah, she will kill me! Whither shall I fly?"</line>
+          <line>His visage might we see no more the same,</line>
+          <line>And his voice varied; now the roar of bulls,</line>
+          <line>The howl of dogs now uttering, mimic sounds</line>
+          <line>Sent by the maddening Furies, as they say.</line>
+          <line>Together thronging, as of death assured,</line>
+          <line>We sit in silence; but he drew his sword,</line>
+          <line>And, like a lion rushing mid our herds,</line>
+          <line>Plunged in their sides the weapon, weening thus</line>
+          <line>To drive the Furies, till the briny wave</line>
+          <line>Foam'd with their blood. But when among our herds</line>
+          <line>We saw this havoc made, we all 'gan rouse</line>
+          <line>To arms, and blew our sounding shells to alarm</line>
+          <line>The neighbouring peasants; for we thought in fight</line>
+          <line>Rude herdsmen to these youthful strangers, train'd</line>
+          <line>To arms, ill match'd; and forthwith to our aid</line>
+          <line>Flock'd numbers. But, his frenzy of its force</line>
+          <line>Abating, on the earth the stranger falls,</line>
+          <line>Foam bursting from his mouth: but when he saw</line>
+          <line>The advantage, each adventured on and hurl'd</line>
+          <line>What might annoy him fallen: the other youth</line>
+          <line>Wiped off the foam, took of his person care,</line>
+          <line>His fine-wrought robe spread over him; with heed</line>
+          <line>The flying stones observing, warded of</line>
+          <line>The wounds, and each kind office to his friend</line>
+          <line>Attentively perform'd. His sense return'd;</line>
+          <line>The stranger started up, and soon perceived</line>
+          <line>The tide of foes that roll'd impetuous on,</line>
+          <line>The danger and distress that closed them round.</line>
+          <line>He heaved a sigh; an unremitting storm</line>
+          <line>Of stones we pour'd, and each incited each:</line>
+          <line>Then we his dreadful exhortation heard:-</line>
+          <line>"Pylades, we shall die; but let us die</line>
+          <line>With glory: draw thy sword, and follow me."</line>
+          <line>But when we saw the enemies advance</line>
+          <line>With brandish'd swords, the steep heights crown'd with</line>
+          <line>wood</line>
+          <line>We fell in flight: but others, if one flies,</line>
+          <line>Press on them; if again they drive these back,</line>
+          <line>What before fled turns, with a storm of stones</line>
+          <line>Assaulting them; but, what exceeds belief,</line>
+          <line>Hurl'd by a thousand hands, not one could hit</line>
+          <line>The victims of the goddess: scarce at length,</line>
+          <line>Not by brave daring seized we them, but round</line>
+          <line>We closed upon them, and their swords with stones</line>
+          <line>Beat, wily, from their hands; for on their knees</line>
+          <line>They through fatigue had sunk upon the ground:</line>
+          <line>We bare them to the monarch of this land:</line>
+          <line>He view'd them, and without delay to the</line>
+          <line>Sent them devoted to the cleansing vase,</line>
+          <line>And to the altar. Victims such as these,</line>
+          <line>O virgin, wish to find; for if such youths</line>
+          <line>Thou offer, for thy slaughter Greece will pay,</line>
+          <line>Her wrongs to thee at Aulis well avenged.</line>
+          <line>LEADER</line>
+          <line>These things are wonderful, which thou hast</line>
+          <line>told</line>
+          <line>Of him, whoe'er he be, the youth from Greece</line>
+          <line>Arrived on this inhospitable shore.</line>
+          <line>IPHIGENIA</line>
+          <line>'Tis well: go thou, and bring the strangers</line>
+          <line>hither:</line>
+          <line>What here is to be done shall be our care.</line>
+          <line>The HERDSMAN departs.</line>
+          <line>O my unhappy heart! before this hour</line>
+          <line>To strangers thou wast gentle, always touch'd</line>
+          <line>With pity, and with tears their tears repaid,</line>
+          <line>When Grecians, natives of my country, came</line>
+          <line>Into my hands: but from the dreams, which prompt</line>
+          <line>To deeds ungentle, showing that no more</line>
+          <line>Orestes views the sun's fair light, whoe'er</line>
+          <line>Ye are that hither come, me will you find</line>
+          <line>Relentless now. This is the truth, my friends:</line>
+          <line>My heart is rent; and never will the wretch,</line>
+          <line>Who feels affliction's cruel tortures, bear</line>
+          <line>Good-will to those that are more fortunate.</line>
+          <line>Never came gale from Jove, nor flying bark,</line>
+          <line>Which 'twixt the dangerous rocks of the Euxine sea</line>
+          <line>Brought Helen hither, who my ruin wrought,</line>
+          <line>Nor Menelaus; that on them my foul wrongs</line>
+          <line>I might repay, and with an Aulis here</line>
+          <line>Requite the Aulis there, where I was seized,</line>
+          <line>And, as a heifer, by the Grecians slain:</line>
+          <line>My father too, who gave me birth, was priest.</line>
+          <line>Ah me! the sad remembrance of those ills</line>
+          <line>Yet lives: how often did I stroke thy cheek,</line>
+          <line>And, hanging on thy knees, address thee thus:-</line>
+          <line>"Alas, my father! I by thee am led</line>
+          <line>A bride to bridal rites unbless'd and base:</line>
+          <line>Them, while by thee I bleed, my mother hymns,</line>
+          <line>And the Argive dames, with hymeneal strains,</line>
+          <line>And with the jocund pipe the house resounds:</line>
+          <line>But at the altar I by thee am slain;</line>
+          <line>For Pluto was the Achilles, not the son</line>
+          <line>Of Peleus, whom to me thou didst announce</line>
+          <line>The affianced bridegroom, and by guile didst bring</line>
+          <line>To bloody nuptials in the rolling car."</line>
+          <line>But, o'er mine eyes the veil's fine texture spread,</line>
+          <line>This brother in my hands who now is lost,</line>
+          <line>I clasp'd not, though his sister; did not press</line>
+          <line>My lips to his, through virgin modesty,</line>
+          <line>As going to the house of Peleus: then</line>
+          <line>Each fond embrace I to another time</line>
+          <line>Deferr'd, as soon to Argos to return.</line>
+          <line>If, O unhappy brother, thou art dead,</line>
+          <line>From what a state, thy father's envied height</line>
+          <line>Of glory, loved Orestes, art thou torn!-</line>
+          <line>These false rules of the goddess much I blame:</line>
+          <line>Whoe'er of mortals is with slaughter stain'd,</line>
+          <line>Or hath at childbirth given assisting hands,</line>
+          <line>Or chanced to touch aught dead, she as impure</line>
+          <line>Drives from her altars; yet herself delights</line>
+          <line>In human victims bleeding at her shrine.</line>
+          <line>Ne'er did Latona from the embrace of Jove</line>
+          <line>Bring forth such inconsistence: I then deem</line>
+          <line>The feast of Tantalus, where gods were guests,</line>
+          <line>Unworthy of belief, as that they fed</line>
+          <line>On his son's flesh delighted; and I think</line>
+          <line>These people, who themselves have a wild joy</line>
+          <line>In shedding human blood, their savage guilt</line>
+          <line>Charge on the goddess: for this truth I hold;</line>
+          <line>None of the gods is evil, or doth wrong.</line>
+          <line>She enters the temple.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>strophe 1</line>
+          <line>Ye rocks, ye dashing rocks, whose brow</line>
+          <line>Frowns o'er the darken'd deeps below;</line>
+          <line>Whose wild, inhospitable wave,</line>
+          <line>From Argos flying and her native spring,</line>
+          <line>The virgin once was known to brave,</line>
+          <line>Tormented with the brize's maddening sting,</line>
+          <line>From Europe when the rude sea o'er</line>
+          <line>She pass'd to Asia's adverse shore;</line>
+          <line>Who are these hapless youths, that dare to land,</line>
+          <line>Leaving those soft, irriguous meads,</line>
+          <line>Where, his green margin fringed with reeds,</line>
+          <line>Eurotas rolls his ample tide,</line>
+          <line>Or Dirce's hallow'd waters glide,</line>
+          <line>And touch this barbarous, stranger-hating strand,</line>
+          <line>The altars where a virgin dews,</line>
+          <line>And blood the pillar'd shrine imbrues? antistrophe</line>
+          <line>Did they with oars impetuous sweep</line>
+          <line>(Rank answering rank) the foamy deep,</line>
+          <line>And wing their bark with flying sails,</line>
+          <line>To raise their humble fortune their desire;</line>
+          <line>Eager to catch the rising gales,</line>
+          <line>Their bosoms with the love of gain on fire?</line>
+          <line>For sweet is hope to man's fond breast;</line>
+          <line>The hope of gain, insatiate guest,</line>
+          <line>Though on her oft attends Misfortune's train;</line>
+          <line>For daring man she tempts to brave</line>
+          <line>The dangers of the boisterous wave,</line>
+          <line>And leads him heedless of his fate</line>
+          <line>Through many a distant barbarous state.</line>
+          <line>Vain his opinions, his pursuits are vain!</line>
+          <line>Boundless o'er some her power is shown,</line>
+          <line>But some her temperate influence own. strophe</line>
+          <line>How did they pass the dangerous rocks</line>
+          <line>Clashing with rude, tremendous shocks?</line>
+          <line>How pass the savage-howling shore,</line>
+          <line>Where once the unhappy Phineus held his reign,</line>
+          <line>And sleep affrighted flies its roar,</line>
+          <line>Steering their rough course o'er this boisterous</line>
+          <line>main,</line>
+          <line>Form'd in a ring, beneath whose waves</line>
+          <line>The Nereid train in high arch'd caves</line>
+          <line>Weave the light dance, and raise the sprightly song,</line>
+          <line>While, whispering in their swelling sails,</line>
+          <line>Soft Zephyrs breathe, or southern gales</line>
+          <line>Piping amid their tackling play,</line>
+          <line>As their bark ploughs its watery way</line>
+          <line>Those hoary cliffs, the haunts of birds, along,</line>
+          <line>To that wild strand, the rapid race</line>
+          <line>Where once Achilles deign'd to grace? antistrophe</line>
+          <line>O that from Troy some chance would bear</line>
+          <line>Leda's loved daughter, fatal fair</line>
+          <line>(The royal virgin's vows are mine)</line>
+          <line>That her bright tresses roll'd in crimson dew,</line>
+          <line>Her warm blood flowing at this shrine</line>
+          <line>The altar of the goddess might imbrue;</line>
+          <line>And Vengeance, righteous to repay</line>
+          <line>Her former mischiefs, seize her prey!</line>
+          <line>But with what rapture should I hear his voice,</line>
+          <line>If one this shore should reach from Greece,</line>
+          <line>And bid the toils of slavery cease!</line>
+          <line>Or might I in the hour of rest</line>
+          <line>With pleasing dreams of Greece be bless'd;</line>
+          <line>So in my house, my native land rejoice;</line>
+          <line>In sleep enjoy the pleasing strain</line>
+          <line>For happiness restored again</line>
+          <line>IPHIGENIA enters from the temple.</line>
+          <line>IPHIGENIA</line>
+          <line>But the two youths, their hands fast bound in</line>
+          <line>chains,</line>
+          <line>The late-seized victims to the goddess, come.</line>
+          <line>Silence, my friends; for, destined at the shrine</line>
+          <line>To bleed, the Grecian strangers near approach;</line>
+          <line>And no false tidings did the herdsman bring.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>Goddess revered, if grateful to thy soul</line>
+          <line>This state presents such sacrifice, accept</line>
+          <line>The victims, which the custom of this land</line>
+          <line>Gives thee, but deem'd unholy by the Greeks.</line>
+          <line>Guards lead in ORESTES and PYLADES, bound.</line>
+          <line>IPHIGENIA</line>
+          <line>No more; that to the goddess each due rite</line>
+          <line>Be well perform'd shall be my care. Unchain</line>
+          <line>The strangers' hands; that, hallow'd as they are,</line>
+          <line>They may no more be bound.</line>
+          <line>The guards release ORESTES and PYLADES.</line>
+          <line>Go you, prepare</line>
+          <line>Within the temple what the rites require.</line>
+          <line>Unhappy youths, what mother brought you forth,</line>
+          <line>Your father who? Your sister, if perchance</line>
+          <line>Ye have a sister, of what youths deprived?</line>
+          <line>For brother she shall have no more. Who knows</line>
+          <line>Whom such misfortunes may attend? For dark</line>
+          <line>What the gods will creeps on; and none can tell</line>
+          <line>The ills to come: this fortune from the sight</line>
+          <line>Obscures. But, O unhappy strangers, say,</line>
+          <line>Whence came you? Sail'd you long since for this</line>
+          <line>land?</line>
+          <line>But long will be your absence from your homes,</line>
+          <line>For ever, in the dreary realms below.</line>
+          <line>ORESTES</line>
+          <line>Lady, whoe'er thou art, why for these things</line>
+          <line>Dost thou lament? why mourn for ills, which soon</line>
+          <line>Will fall on us? Him I esteem unwise,</line>
+          <line>Who, when he sees death near, tries to o'ercome</line>
+          <line>Its terrors with bewailings, without hope</line>
+          <line>Of safety: ill he adds to ill, and makes</line>
+          <line>His folly known, yet dies. We must give way</line>
+          <line>To fortune; therefore mourn not thou for us:</line>
+          <line>We know, we are acquainted with your rites.</line>
+          <line>IPHIGENIA</line>
+          <line>Which of you by the name of Pylades</line>
+          <line>Is call'd? This first it is my wish to know.</line>
+          <line>ORESTES</line>
+          <line>If aught of pleasure that may give thee, he.</line>
+          <line>IPHIGENIA</line>
+          <line>A native of what Grecian state, declare.</line>
+          <line>ORESTES</line>
+          <line>What profit knowing this wouldst thou obtain?</line>
+          <line>IPHIGENIA</line>
+          <line>And are you brothers, of one mother born?</line>
+          <line>ORESTES</line>
+          <line>Brothers by friendship, lady, not by birth.</line>
+          <line>IPHIGENIA</line>
+          <line>To thee what name was by thy father given?</line>
+          <line>ORESTES</line>
+          <line>With just cause I Unhappy might be call'd.</line>
+          <line>IPHIGENIA</line>
+          <line>I ask not that; to fortune that ascribe.</line>
+          <line>ORESTES</line>
+          <line>Dying unknown, rude scoffs I shall avoid.</line>
+          <line>IPHIGENIA</line>
+          <line>Wilt thou refuse? Why are thy thoughts so high?</line>
+          <line>ORESTES</line>
+          <line>My body thou mayst kill, but not my name.</line>
+          <line>IPHIGENIA</line>
+          <line>Wilt thou not say a native of what state?</line>
+          <line>ORESTES</line>
+          <line>The question naught avails, since I must die.</line>
+          <line>IPHIGENIA</line>
+          <line>What hinders thee from granting me this grace?</line>
+          <line>ORESTES</line>
+          <line>The illustrious Argos I my country boast.</line>
+          <line>IPHIGENIA</line>
+          <line>By the gods, stranger, is thy birth from thence?</line>
+          <line>ORESTES</line>
+          <line>My birth is from Mycenae, once the bless'd.</line>
+          <line>IPHIGENIA</line>
+          <line>Dost thou an exile fly, or by what fate?</line>
+          <line>ORESTES</line>
+          <line>Of my free will, in part not free, I fly.</line>
+          <line>IPHIGENIA</line>
+          <line>Wilt thou then tell me what I wish to know?</line>
+          <line>ORESTES</line>
+          <line>Whate'er is foreign to my private griefs.</line>
+          <line>IPHIGENIA</line>
+          <line>To my dear wish from Argos art thou come.</line>
+          <line>ORESTES</line>
+          <line>Not to my wish; but if to thine, enjoy it.</line>
+          <line>IPHIGENIA</line>
+          <line>Troy, whose fame spreads so wide, perchance thou know'st.</line>
+          <line>ORESTES</line>
+          <line>O that I ne'er had known her, ev'n in dreams!</line>
+          <line>IPHIGENIA</line>
+          <line>They say she is no more, by war destroy'd.</line>
+          <line>ORESTES</line>
+          <line>It is so: you have heard no false reports.</line>
+          <line>IPHIGENIA</line>
+          <line>Is Helena with Menelaus return'd?</line>
+          <line>ORESTES</line>
+          <line>She is; and one I love her coming rues.</line>
+          <line>IPHIGENIA</line>
+          <line>Where is she? Me too she of old hath wrong'd.</line>
+          <line>ORESTES</line>
+          <line>At Sparta with her former lord she dwells.</line>
+          <line>IPHIGENIA</line>
+          <line>By Greece, and not by me alone abhorr'd!</line>
+          <line>ORESTES</line>
+          <line>I from her nuptials have my share of grief.</line>
+          <line>IPHIGENIA</line>
+          <line>And are the Greeks, as Fame reports, return'd?</line>
+          <line>ORESTES</line>
+          <line>How briefly all things dost thou ask at once!</line>
+          <line>IPHIGENIA</line>
+          <line>This favour, ere thou die, I wish to obtain.</line>
+          <line>ORESTES</line>
+          <line>Ask, then: since such thy wish, I will inform thee.</line>
+          <line>IPHIGENIA</line>
+          <line>Calchas, a prophet,-came he back from Troy?</line>
+          <line>ORESTES</line>
+          <line>He perish'd at Mycenae such the fame.</line>
+          <line>IPHIGENIA</line>
+          <line>Goddess revered! But doth Ulysses live?</line>
+          <line>ORESTES</line>
+          <line>He lives, they say, but is not yet return'd.</line>
+          <line>IPHIGENIA</line>
+          <line>Perish the wretch, nor see his country more!</line>
+          <line>ORESTES</line>
+          <line>Wish him not ill, for all with him is ill.</line>
+          <line>IPHIGENIA</line>
+          <line>But doth the son of sea-born Thetis live?</line>
+          <line>ORESTES</line>
+          <line>He lives not: vain his nuptial rites at Aulis.</line>
+          <line>IPHIGENIA</line>
+          <line>That all was fraud, as those who felt it say.</line>
+          <line>ORESTES</line>
+          <line>But who art thou, inquiring thus of Greece?</line>
+          <line>IPHIGENIA</line>
+          <line>I am from thence, in early youth undone.</line>
+          <line>ORESTES</line>
+          <line>Thou hast a right to inquire what there hath pass'd.</line>
+          <line>IPHIGENIA</line>
+          <line>What know'st thou of the chief, men call the bless'd?</line>
+          <line>ORESTES</line>
+          <line>Who? Of the bless'd was not the chief I knew.</line>
+          <line>IPHIGENIA</line>
+          <line>The royal Agamemnon, son of Atreus.</line>
+          <line>ORESTES</line>
+          <line>Of him I know not, lady; cease to ask.</line>
+          <line>IPHIGENIA</line>
+          <line>Nay, by the gods, tell me, and cheer my soul.</line>
+          <line>ORESTES</line>
+          <line>He's dead, the unhappy chief: no single ill.</line>
+          <line>IPHIGENIA</line>
+          <line>Dead! By what adverse fate? O wretched me!</line>
+          <line>ORESTES</line>
+          <line>Why mourn for this? How doth it touch thy breast?</line>
+          <line>IPHIGENIA</line>
+          <line>The glories of his former state I mourn.</line>
+          <line>ORESTES</line>
+          <line>Dreadfully murdered by a woman's hand.</line>
+          <line>IPHIGENIA</line>
+          <line>How wretched she that slew him, he thus slain!</line>
+          <line>ORESTES</line>
+          <line>Now then forbear: of him inquire no more.</line>
+          <line>IPHIGENIA</line>
+          <line>This only: lives the unhappy monarch's wife?</line>
+          <line>ORESTES</line>
+          <line>She, lady, is no more, slain by her son.</line>
+          <line>IPHIGENIA</line>
+          <line>Alas, the ruin'd house! What his intent?</line>
+          <line>ORESTES</line>
+          <line>To avenge on her his noble father slain.</line>
+          <line>IPHIGENIA</line>
+          <line>An ill, but righteous deed, how justly done!</line>
+          <line>ORESTES</line>
+          <line>Though righteous, by the gods be is not bless'd.</line>
+          <line>IPHIGENIA</line>
+          <line>Hath Agamemnon other offspring left?</line>
+          <line>ORESTES</line>
+          <line>He left one virgin daughter, named Electra.</line>
+          <line>IPHIGENIA</line>
+          <line>Of her that died a victim is aught said?</line>
+          <line>ORESTES</line>
+          <line>This only, dead, she sees the light no more.</line>
+          <line>IPHIGENIA</line>
+          <line>Unhappy she! the father too who slew her!</line>
+          <line>ORESTES</line>
+          <line>For a bad woman she unseemly died.</line>
+          <line>IPHIGENIA</line>
+          <line>At Argos lives the murdered father's son?</line>
+          <line>ORESTES</line>
+          <line>Nowhere he lives, poor wretch! and everywhere.</line>
+          <line>IPHIGENIA</line>
+          <line>False dreams, farewell; for nothing you import.</line>
+          <line>ORESTES</line>
+          <line>Nor are those gods, that have the name of</line>
+          <line>wise,</line>
+          <line>Less false than fleeting dreams. In things divine,</line>
+          <line>And in things human, great confusion reigns.</line>
+          <line>One thing is left; that, not unwise of soul,</line>
+          <line>Obedient to the prophet's voice he perish'd;</line>
+          <line>For that he perish'd, they who know report.</line>
+          <line>LEADER</line>
+          <line>What shall we know, what of our parents</line>
+          <line>know?</line>
+          <line>If yet they live or not, who can inform us?</line>
+          <line>IPHIGENIA</line>
+          <line>Hear me: this converse prompts a thought, which</line>
+          <line>gives</line>
+          <line>Promise of good, ye youths of Greece, to you,</line>
+          <line>To these, and me: thus may it well be done,</line>
+          <line>If, willing to my purpose, all assent.</line>
+          <line>Wilt thou, if I shall save thee, go for me</line>
+          <line>A messenger to Argos, to my friends</line>
+          <line>Charged with a letter, which a captive wrote,</line>
+          <line>Who pitied me, nor murderous thought my hand,</line>
+          <line>But that he died beneath the law, these rites</line>
+          <line>The goddess deeming just? for from that hour</line>
+          <line>I have not found who might to Argos bear</line>
+          <line>Himself my message, back with life return'd,</line>
+          <line>Or send to any of my friends my letter.</line>
+          <line>Thou, therefore, since it seems thou dost not bear</line>
+          <line>Ill-will to me, and dost Mycenae know,</line>
+          <line>And those I wish to address, be safe, and live,</line>
+          <line>No base reward for a light letter, life</line>
+          <line>Receiving; and let him, since thus the state</line>
+          <line>Requires, without thee to the goddess bleed.</line>
+          <line>ORESTES</line>
+          <line>Virgin unknown, well hast thou said in all</line>
+          <line>Save this, that to the goddess he should bleed</line>
+          <line>A victim; that were heavy grief indeed.</line>
+          <line>I steer'd the vessel to these ills; he sail'd</line>
+          <line>Attendant on my toils: to gain thy grace</line>
+          <line>By his destruction, and withdraw myself</line>
+          <line>From sufferings, were unjust: thus let it be:</line>
+          <line>Give him the letter; to fulfil thy wish,</line>
+          <line>To Argos he will bear it: me let him</line>
+          <line>Who claims that office, slay: base is his soul,</line>
+          <line>Who in calamities involves his friends,</line>
+          <line>And saves himself; this is a friend, whose life,</line>
+          <line>Dear to me as my own, I would preserve.</line>
+          <line>IPHIGENIA</line>
+          <line>Excellent spirit! from some noble root</line>
+          <line>It shows thee sprung, and to thy friends a friend</line>
+          <line>Sincere; of those that share my blood if one</line>
+          <line>Remains, such may he be! for I am not</line>
+          <line>Without a brother, strangers, from my sight</line>
+          <line>Though distant now. Since then thy wish is such,</line>
+          <line>Him will I send to Argos; he shall bear</line>
+          <line>My letter; thou shalt die; for this desire</line>
+          <line>Hath strong possession of thy noble soul.</line>
+          <line>ORESTES</line>
+          <line>Who then shall do the dreadful deed, and slay me?</line>
+          <line>IPHIGENIA</line>
+          <line>I: to atone the goddess is my charge.</line>
+          <line>ORESTES</line>
+          <line>A charge unenvied, virgin, and unbless'd.</line>
+          <line>IPHIGENIA</line>
+          <line>Necessity constrains: I must obey.</line>
+          <line>ORESTES</line>
+          <line>Wilt thou, a woman, plunge the sword in men?</line>
+          <line>IPHIGENIA</line>
+          <line>No: but thy locks to sprinkle round is mine.</line>
+          <line>ORESTES</line>
+          <line>Whose then, if I may ask, the bloody deed?</line>
+          <line>IPHIGENIA</line>
+          <line>To some within the temple this belongs.</line>
+          <line>ORESTES</line>
+          <line>What tomb is destined to receive my corse?</line>
+          <line>IPHIGENIA</line>
+          <line>The hallow'd fire within, and a dark cave.</line>
+          <line>ORESTES</line>
+          <line>O, that a sister's hand might wrap these limbs!</line>
+          <line>IPHIGENIA</line>
+          <line>Vain wish, unhappy youth, whoe'er thou art,</line>
+          <line>Hast thou conceived; for from this barbarous land</line>
+          <line>Far is her dwelling. Yet, of what my power</line>
+          <line>Permits (since thou from Argos draw'st thy birth,)</line>
+          <line>No grace will I omit: for in the tomb</line>
+          <line>I will place much of ornament, and pour</line>
+          <line>The dulcet labour of the yellow bee,</line>
+          <line>From mountain flowers extracted, on thy pyre.</line>
+          <line>But I will go, and from the temple bring</line>
+          <line>The letter; yet 'gainst me no hostile thought</line>
+          <line>Conceive. You, that attend here, guard them well,</line>
+          <line>But without chains. To one, whom most I love</line>
+          <line>Of all my friends, to Argos I shall send</line>
+          <line>Tidings perchance unlook'd for; and this letter,</line>
+          <line>Declaring those whom he thought dead alive,</line>
+          <line>Shall bear him an assured and solid joy.</line>
+          <line>She enters the temple.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Thee, o'er whose limbs the bloody drops shall soon</line>
+          <line>Be from the lavers sprinkled, I lament.</line>
+          <line>ORESTES</line>
+          <line>This asks no pity, strangers: but farewell.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Thee for thy happy fate we reverence, youth</line>
+          <line>Who to thy country shall again return.</line>
+          <line>PYLADES</line>
+          <line>To friends unwish'd, who leave their friends to die.</line>
+          <line>CHORUS</line>
+          <line>chanting</line>
+          <line>Painful dismission! Which shall I esteem</line>
+          <line>Most lost, alas, alas! which most undone?</line>
+          <line>For doubts my wavering judgment yet divide,</line>
+          <line>If chief for thee my sighs should swell, or thee.</line>
+          <line>ORESTES</line>
+          <line>By the gods, Pylades, is thy mind touch'd</line>
+          <line>In manner like as mine?</line>
+          <line>PYLADES</line>
+          <line>I cannot tell;</line>
+          <line>Nor to thy question have I to reply.</line>
+          <line>ORESTES</line>
+          <line>Who is this virgin? With what zeal for Greece</line>
+          <line>Made she inquiries of us what the toils</line>
+          <line>At Troy, if yet the Grecians were return'd,</line>
+          <line>And Calchas, from the flight of birds who form'd</line>
+          <line>Presages of the future. And she named</line>
+          <line>Achilles: with what tenderness bewail'd</line>
+          <line>The unhappy Agamemnon! Of his wife</line>
+          <line>She ask'd me,-of his children: thence her race</line>
+          <line>This unknown virgin draws, an Argive; else</line>
+          <line>Ne'er would she send this letter, nor have wish'd</line>
+          <line>To know these things, as if she bore a share</line>
+          <line>(If Argos flourish) in its prosperous state.</line>
+          <line>PYLADES</line>
+          <line>Such were my thoughts</line>
+          <line>but thou hast given them words, Preventing me</line>
+          <line>of every circumstance,</line>
+          <line>Save one: the fate of kings all know, whose state</line>
+          <line>Holds aught of rank. But pass to other thoughts.</line>
+          <line>ORESTES</line>
+          <line>What? Share them; so thou best mayst be inform'd.</line>
+          <line>PYLADES</line>
+          <line>That thou shouldst die, and I behold this</line>
+          <line>light,</line>
+          <line>Were base: with thee I sail'd, with thee to die</line>
+          <line>Becomes me; else shall I obtain the name</line>
+          <line>Of a vile coward through the Argive state,</line>
+          <line>And the deep vales of Phocis. Most will think</line>
+          <line>(For most think ill) that by betraying the</line>
+          <line>I saved myself, home to return alone;</line>
+          <line>Or haply that I slew thee, and thy death</line>
+          <line>Contrived, that in the ruin of thy house</line>
+          <line>Thy empire I might grasp, to me devolved</line>
+          <line>As wedded to thy sister, now sole heir.</line>
+          <line>These things I fear, and hold them infamous.</line>
+          <line>Behooves me then with thee to die, with the</line>
+          <line>To bleed a victim, on the pyre with thine</line>
+          <line>To give my body to the flames; for this</line>
+          <line>Becomes me as thy friend. who dreads reproach.</line>
+          <line>ORESTES</line>
+          <line>Speak more auspicious words: 'tis mine to</line>
+          <line>bear</line>
+          <line>Ills that are mine; and single when the wo,</line>
+          <line>I would not bear it double. What thou say'st</line>
+          <line>Is vile and infamous, would light on me,</line>
+          <line>Should I cause thee to die, who in my toils</line>
+          <line>Hast borne a share: to me, who from the gods</line>
+          <line>Suffer afflictions which I suffer, death</line>
+          <line>Is not unwelcome: thou art happy, thine</line>
+          <line>An unpolluted and a prosperous house;</line>
+          <line>Mine impious and unbless'd: if thou art saved,</line>
+          <line>And from my sister (whom I gave to thee,</line>
+          <line>Betroth'd thy bride) art bless'd with sons, my name</line>
+          <line>May yet remain, nor all my father's house</line>
+          <line>In total ruin sink. Go then, and live:</line>
+          <line>Dwell in the mansion of thy ancestors:</line>
+          <line>And when thou comest to Greece, to Argos famed</line>
+          <line>For warrior-steeds, by this right hand I charge</line>
+          <line>the</line>
+          <line>Raise a sepulchral mound, and on it place</line>
+          <line>A monument to me; and to my tomb</line>
+          <line>Her tears, her tresses let my sister give;</line>
+          <line>And say, that by an Argive woman's hand</line>
+          <line>I perish'd, to the altar's bloody rites</line>
+          <line>A hallow'd victim. Never let thy soul</line>
+          <line>Betray my sister, for thou seest her state,</line>
+          <line>Of friends how destitute, her father's house</line>
+          <line>How desolate. Farewell. Of all my friends,</line>
+          <line>Thee have I found most friendly, from my youth</line>
+          <line>Train'd up with me, in all my sylvan sports</line>
+          <line>Thou dear associate, and through many toils</line>
+          <line>Thou faithful partner of my miseries.</line>
+          <line>Me Phoebus, though a prophet, hath deceived,</line>
+          <line>And, meditating guile, hath driven me far</line>
+          <line>From Greece, of former oracles ashamed;</line>
+          <line>To him resign'd, obedient to his words,</line>
+          <line>I slew my mother, and my meed is death.</line>
+          <line>PYLADES</line>
+          <line>Yes, I will raise thy tomb: thy sister's</line>
+          <line>bed</line>
+          <line>I never will betray, unhappy youth,</line>
+          <line>For I will hold thee dearer when thou art dead,</line>
+          <line>Than while thou livest; nor hath yet the voice</line>
+          <line>Of Phoebus quite destroy'd thee, though thou stand</line>
+          <line>To sometimes mighty but sometimes mighty woes</line>
+          <line>Yield mighty changes, so when Fortune wills.</line>
+          <line>ORESTES</line>
+          <line>Forbear: the words of Phoebus naught avail</line>
+          <line>me;</line>
+          <line>For, passing from the shrine, the virgin comes.</line>
+          <line>IPHIGENIA enters from the temple. She is carrying a</line>
+          <line>letter.</line>
+          <line>IPHIGENIA</line>
+          <line>to the guards</line>
+          <line>Go you away, and in the shrine prepare</line>
+          <line>What those, who o'er the rites preside, require.</line>
+          <line>The guards go into the temple.</line>
+          <line>Here, strangers, is the letter folded close:</line>
+          <line>What I would further, hear. The mind of man</line>
+          <line>In dangers, and again, from fear relieved,</line>
+          <line>Of safety when assured, is not the same:</line>
+          <line>I therefore fear lest he, who should convey</line>
+          <line>To Argos this epistle, when return'd</line>
+          <line>Safe to his native country, will neglect</line>
+          <line>My letter, as a thing of little worth.</line>
+          <line>ORESTES</line>
+          <line>What wouldst thou then? What is thy anxious thought?</line>
+          <line>IPHIGENIA</line>
+          <line>This: let him give an oath that he will</line>
+          <line>bear</line>
+          <line>To Argos this epistle to those friends,</line>
+          <line>To whom it is my ardent wish to send it.</line>
+          <line>ORESTES</line>
+          <line>And wilt thou in return give him thy oath?</line>
+          <line>IPHIGENIA</line>
+          <line>That I will do, or will not do, say what.</line>
+          <line>ORESTES</line>
+          <line>To send him from this barbarous shore alive.</line>
+          <line>IPHIGENIA</line>
+          <line>That's just: how should he bear my letter else?</line>
+          <line>ORESTES</line>
+          <line>But will the monarch to these things assent?</line>
+          <line>IPHIGENIA</line>
+          <line>By me induced. Him I will see embark'd.</line>
+          <line>ORESTES</line>
+          <line>Swear then; and thou propose the righteous oath.</line>
+          <line>IPHIGENIA</line>
+          <line>This, let him say, he to my friends will give.</line>
+          <line>PYLADES</line>
+          <line>Well, to thy friends this letter I will give.</line>
+          <line>IPHIGENIA</line>
+          <line>Thee will I send safe through the darkening rocks.</line>
+          <line>PYLADES</line>
+          <line>What god dost thou invoke to attest thy oath?</line>
+          <line>IPHIGENIA</line>
+          <line>Diana, at whose shrine high charge I hold.</line>
+          <line>PYLADES</line>
+          <line>And I heaven's potent king, the awful Jove.</line>
+          <line>IPHIGENIA</line>
+          <line>But if thou slight thy oath, and do me wrong?</line>
+          <line>PYLADES</line>
+          <line>Never may I return. But if thou fail,</line>
+          <line>And save me not?</line>
+          <line>IPHIGENIA</line>
+          <line>Then never, while I live,</line>
+          <line>May I revisit my loved Argos more!</line>
+          <line>PYLADES</line>
+          <line>One thing, not mention'd, thy attention claims.</line>
+          <line>IPHIGENIA</line>
+          <line>If honour owes it, this will touch us both.</line>
+          <line>PYLADES</line>
+          <line>Let me in this be pardon'd, if the bark</line>
+          <line>Be lost, and with it in the surging waves</line>
+          <line>Thy letter perish, and I naked gain</line>
+          <line>The shore; no longer binding be the oath.</line>
+          <line>IPHIGENIA</line>
+          <line>Know'st thou what I will do? For various</line>
+          <line>ills</line>
+          <line>Arise to those that plough the dangerous deep.</line>
+          <line>What in this letter is contain'd, what here</line>
+          <line>Is written, all I will repeat to thee,</line>
+          <line>That thou mayst bear my message to my friends.</line>
+          <line>'Gainst danger thus I guard: if thou preserve</line>
+          <line>The letter, that though silent will declare</line>
+          <line>My purport; if it perish in the sea,</line>
+          <line>Saving thyself, my words too thou wilt save.</line>
+          <line>PYLADES</line>
+          <line>Well hast thou said touching the gods and</line>
+          <line>me.</line>
+          <line>Say then to whom at Argos shall I bear</line>
+          <line>This letter? What relate as heard from thee?</line>
+          <line>IPHIGENIA</line>
+          <line>reading</line>
+          <line>This message to Orestes, to the son</line>
+          <line>Of Agamemnon, bear:-She, who was slain</line>
+          <line>At Aulis, Iphigenia, sends thee this:</line>
+          <line>She lives, but not to those who then were there.</line>
+          <line>ORESTES</line>
+          <line>Where is she? From the dead return'd to life?</line>
+          <line>IPHIGENIA</line>
+          <line>She whom thou seest: but interrupt me not.</line>
+          <line>To Argos, O my brother, ere I die,</line>
+          <line>Bear me from this barbaric land, and far</line>
+          <line>Remove me from this altar's bloody rites,</line>
+          <line>At which to slay the stranger is my charge.-</line>
+          <line>ORESTES</line>
+          <line>What shall I say? Where are we, Pylades?</line>
+          <line>IPHIGENIA</line>
+          <line>Or on thy house for vengeance will I call,</line>
+          <line>Orestes. Twice repeated, learn the name.</line>
+          <line>ORESTES</line>
+          <line>Ye gods!</line>
+          <line>IPHIGENIA</line>
+          <line>In my cause why invoke the gods?</line>
+          <line>ORESTES</line>
+          <line>Nothing: proceed: my thoughts were wandering</line>
+          <line>wide:</line>
+          <line>Strange things of thee unask'd I soon shall learn.</line>
+          <line>IPHIGENIA</line>
+          <line>Tell him the goddess saved me, in exchange</line>
+          <line>A hind presenting, which my father slew</line>
+          <line>A victim, deeming that he plunged his sword</line>
+          <line>Deep in my breast: me in this land she placed.</line>
+          <line>Thou hast my charge: and this my letter speaks.</line>
+          <line>PYLADES</line>
+          <line>O, thou hast bound me with an easy oath:</line>
+          <line>What I have sworn with honest purpose, long</line>
+          <line>Defer I not, but thus discharge mine oath.</line>
+          <line>To thee a letter from thy sister, lo,</line>
+          <line>I bear, Orestes; and I give it thee.</line>
+          <line>PYLADES hands the letter to ORESTES.</line>
+          <line>ORESTES</line>
+          <line>I do receive it, but forbear to unclose its foldings, greater</line>
+          <line>pleasure first to enjoy</line>
+          <line>Than words can give. My sister, O most dear,</line>
+          <line>Astonish'd ev'n to disbelief, I throw</line>
+          <line>Mine arms around thee with a fond embrace,</line>
+          <line>In transport at the wondrous things I hear.</line>
+          <line>LEADER OF THE CHORUS</line>
+          <line>Stranger, thou dost not well with hands</line>
+          <line>profane</line>
+          <line>Thus to pollute the priestess of the shrine,</line>
+          <line>Grasping her garments hallow'd from the touch.</line>
+          <line>ORESTES</line>
+          <line>My sister, my dear sister, from one sire,</line>
+          <line>From Agamemnon sprung, turn not away,</line>
+          <line>Holding thy brother thus beyond all hope.</line>
+          <line>IPHIGENIA</line>
+          <line>My brother! Thou my brother! Wilt thou not</line>
+          <line>Unsay these words? At Argos far he dwells.</line>
+          <line>ORESTES</line>
+          <line>Thy brother, O unhappy! is not there.</line>
+          <line>IPHIGENIA</line>
+          <line>Thee did the Spartan Tyndarus bring forth?</line>
+          <line>ORESTES</line>
+          <line>And from the son of Pelops' son I sprung,</line>
+          <line>IPHIGENIA</line>
+          <line>What say'st thou? Canst thou give me proof of this?</line>
+          <line>ORESTES</line>
+          <line>I can: ask something of my father's house.</line>
+          <line>IPHIGENIA</line>
+          <line>Nay, it is thine to speak, mine to attend.</line>
+          <line>ORESTES</line>
+          <line>First let me mention things which I have</line>
+          <line>heard</line>
+          <line>Electra speak: to thee is known the strife</line>
+          <line>Which fierce 'twixt Atreus and Thyestes rose.</line>
+          <line>IPHIGENIA</line>
+          <line>Yes, I have heard it; for the golden ram,-</line>
+          <line>ORESTES</line>
+          <line>In the rich texture didst thou not inweave it?</line>
+          <line>IPHIGENIA</line>
+          <line>O thou most dear! Thou windest near my heart.</line>
+          <line>ORESTES</line>
+          <line>And image in the web the averted sun?</line>
+          <line>IPHIGENIA</line>
+          <line>In the fine threads that figure did I work.</line>
+          <line>ORESTES</line>
+          <line>For Aulis did thy mother bathe thy limbs?</line>
+          <line>IPHIGENIA</line>
+          <line>I know it, to unlucky spousals led.</line>
+          <line>ORESTES</line>
+          <line>Why to thy mother didst thou send thy locks?</line>
+          <line>IPHIGENIA</line>
+          <line>Devoted for my body to the tomb.</line>
+          <line>ORESTES</line>
+          <line>What I myself have seen I now as proofs</line>
+          <line>Will mention. In thy father's house, hung high</line>
+          <line>Within thy virgin chambers, the old spear</line>
+          <line>Of Pelops, which he brandish'd when he slew</line>
+          <line>Oenomaus, and won his beauteous bride,</line>
+          <line>The virgin Hippodamia, Pisa's boast.</line>
+          <line>IPHIGENIA</line>
+          <line>O thou most dear (for thou art he,) most</line>
+          <line>dear</line>
+          <line>Acknowledged, thee, Orestes, do I hold,</line>
+          <line>From Argos, from thy country distant far?</line>
+          <line>ORESTES</line>
+          <line>And hold I thee, my sister, long deem'd</line>
+          <line>dead?</line>
+          <line>Grief mix'd with joy, and tears, not taught by woe</line>
+          <line>To rise, stand melting in thy eyes and mine.</line>
+          <line>IPHIGENIA</line>
+          <line>Thee yet an infant in thy nurse's arms</line>
+          <line>I left, a babe I left thee in the house.</line>
+          <line>Thou art more happy, O my soul, than speech</line>
+          <line>Knows to express. What shall I say? 'tis all</line>
+          <line>Surpassing wonder and the power of words.</line>
+          <line>ORESTES</line>
+          <line>May we together from this hour be bless'd!</line>
+          <line>IPHIGENIA</line>
+          <line>An unexpected pleasure, O my friends,</line>
+          <line>Have I received; yet fear I from my hands</line>
+          <line>Lest to the air it fly. O sacred hearths</line>
+          <line>Raised by the Cyclops! O my country, loved</line>
+          <line>Mycenae! Now that thou didst give me birth,</line>
+          <line>T thank thee; now I thank thee, that my youth</line>
+          <line>Thou trainedst, since my brother thou has train'd,</line>
+          <line>A beam of light, the glory of his house.</line>
+          <line>ORESTES</line>
+          <line>We in our race are happy; but our life,</line>
+          <line>My sister, by misfortunes is unhappy.</line>
+          <line>IPHIGENIA</line>
+          <line>I was, I know, unhappy, when the sword</line>
+          <line>My father, frantic, pointed at my neck.</line>
+          <line>ORESTES</line>
+          <line>Ah me! methinks ev'n now I see thee there.</line>
+          <line>IPHIGENIA</line>
+          <line>When to Achilles, brother, not a bride,</line>
+          <line>I to the sacrifice by guile was led,</line>
+          <line>And tears and groans the altar compass'd round.</line>
+          <line>ORESTES</line>
+          <line>Alas, the lavers there!</line>
+          <line>IPHIGENIA</line>
+          <line>I mourn'd the deed</line>
+          <line>My father dared; unlike a father's love;</line>
+          <line>Cruel, unlike a father's love, to me.</line>
+          <line>ORESTES</line>
+          <line>Ill deeds succeed to ill: if thou hadst</line>
+          <line>slain</line>
+          <line>Thy brother, by some god impell'd, what griefs</line>
+          <line>Must have been thine at such a dreadful deed!</line>
+          <line>IPHIGENIA</line>
+          <line>chanting</line>
+          <line>Dreadful my brother, O how dreadful! scarce</line>
+          <line>Hast thou escaped a foul, unhallow'd death,</line>
+          <line>Slain by my hands. But how will these things end?</line>
+          <line>What Fortune will assist me? What safe means</line>
+          <line>Shall I devise to send thee from this state,</line>
+          <line>From slaughter, to thy native land, to Argos,</line>
+          <line>Ere with thy blood the cruel sword be stain'd?</line>
+          <line>This to devise, O my unhappy soul!</line>
+          <line>This to devise is thine. Wilt thou by land,</line>
+          <line>Thy bark deserted, speed thy flight on foot?</line>
+          <line>Perils await thee mid these barbarous tribes,</line>
+          <line>Through pathless wilds; and 'twixt the clashing</line>
+          <line>rocks,</line>
+          <line>Narrow the passage for the flying bark,</line>
+          <line>And long. Unhappy, ah, unhappy me!</line>
+          <line>What god, what mortal, what unlook'd-for chance</line>
+          <line>Will expedite our dangerous way, and show</line>
+          <line>Two sprung from Atreus a release from ills?</line>
+          <line>LEADER</line>
+          <line>What having seen and heard I shall relate,</line>
+          <line>Is marvellous, and passes fabling tales.</line>
+          <line>PYLADES</line>
+          <line>When after absence long, Orestes, friend</line>
+          <line>Meets friend, embraces will express their joy.</line>
+          <line>Behooves us now, bidding farewell to grief,</line>
+          <line>And heedful to obtain the glorious name</line>
+          <line>Of safety, from this barbarous land to fly.</line>
+          <line>The wise, of fortune not regardless, seize</line>
+          <line>The occasion, and to happiness advance.</line>
+          <line>ORESTES</line>
+          <line>Well hast thou said; and Fortune here, I</line>
+          <line>ween,</line>
+          <line>Will aid us; to the firm and strenuous mind</line>
+          <line>More potent works the influence divine.</line>
+          <line>IPHIGENIA</line>
+          <line>Nothing shall check, nothing restrain my</line>
+          <line>speech:</line>
+          <line>First will I question thee what fortune waits</line>
+          <line>Electra: this to know would yield me joy.</line>
+          <line>ORESTES</line>
+          <line>With him</line>
+          <line>pointing to Pylades</line>
+          <line>she dwells, and happy is her life,</line>
+          <line>IPHIGENIA</line>
+          <line>Whence then is he? and from what father sprung?</line>
+          <line>ORESTES</line>
+          <line>From Phocis: Strophius is his father named.</line>
+          <line>IPHIGENIA</line>
+          <line>By Atreus' daughter to my blood allied?</line>
+          <line>ORESTES</line>
+          <line>Nearly allied: my only faithful friend.</line>
+          <line>IPHIGENIA</line>
+          <line>He was not then, me when my father slew.</line>
+          <line>ORESTES</line>
+          <line>Childless was Strophius for some length of time.</line>
+          <line>IPHIGENIA</line>
+          <line>O thou, the husband of my sister, hail</line>
+          <line>ORESTES</line>
+          <line>More than relation, my preserver too.</line>
+          <line>IPHIGENIA</line>
+          <line>But to thy mother why that dreadful deed?</line>
+          <line>ORESTES</line>
+          <line>Of that no more: to avenge my father's death.</line>
+          <line>IPHIGENIA</line>
+          <line>But for what cause did she her husband slay?</line>
+          <line>ORESTES</line>
+          <line>Of her inquire not: thou wouldst blush to hear.</line>
+          <line>IPHIGENIA</line>
+          <line>The eyes of Argos now are raised to thee.</line>
+          <line>ORESTES</line>
+          <line>There Menelaus is lord; I, outcast, fly.</line>
+          <line>IPHIGENIA</line>
+          <line>Hath he then wrong'd his brother's ruin'd house?</line>
+          <line>ORESTES</line>
+          <line>Not so: the Furies fright me from the land.</line>
+          <line>IPHIGENIA</line>
+          <line>The madness this, which seized thee on the shore?</line>
+          <line>ORESTES</line>
+          <line>I was not first beheld unhappy there.</line>
+          <line>IPHIGENIA</line>
+          <line>Stern powers! they haunt thee for thy mother's blood.</line>
+          <line>ORESTES</line>
+          <line>And ruthless make me champ the bloody bit.</line>
+          <line>IPHIGENIA</line>
+          <line>Why to this region has thou steer'd thy course?</line>
+          <line>ORESTES</line>
+          <line>Commanded by Apollo's voice, I come.</line>
+          <line>IPHIGENIA</line>
+          <line>With what intent? if that may be disclosed.</line>
+          <line>ORESTES</line>
+          <line>I will inform thee, though to length of</line>
+          <line>speech</line>
+          <line>This leads. When vengeance from my hands o'ertook</line>
+          <line>My mother's deeds-foul deeds, which let me pass</line>
+          <line>In silence-by the Furies' fierce assaults</line>
+          <line>To flight I was impell'd: to Athens then</line>
+          <line>Apollo sent me, that, my cause there heard,</line>
+          <line>I might appease the vengeful powers, whose names</line>
+          <line>May not be utter'd: the tribunal there</line>
+          <line>Is holy, which for Mars, when stain'd with blood,</line>
+          <line>Jove in old times establish'd. There arrived,</line>
+          <line>None willingly received me, by the gods</line>
+          <line>As one abhorr'd; and they, who felt the touch</line>
+          <line>Of shame, the hospitable board alone</line>
+          <line>Yielded; and though one common roof beneath,</line>
+          <line>Their silence showing they disdain'd to hold</line>
+          <line>Converse with me, I took from them apart</line>
+          <line>A lone repast; to each was placed a bowl</line>
+          <line>Of the same measure; this they filled with wine,</line>
+          <line>And bathed their spirits in delight. Unmeet</line>
+          <line>I deem'd it to express offence at those</line>
+          <line>Who entertain'd me, but in silence grieved,</line>
+          <line>Showing a cheer as though I mark'd it not,</line>
+          <line>And sigh'd for that I shed my mother's blood.</line>
+          <line>A feast, I hear, at Athens is ordain'd</line>
+          <line>From this my evil plight, ev'n yet observed,</line>
+          <line>In which the equal-measured bowl then used</line>
+          <line>Is by that people held in honour high.</line>
+          <line>But when to the tribunal on the mount</line>
+          <line>Of Mars I came, one stand I took, and one</line>
+          <line>The eldest of the Furies opposite:</line>
+          <line>The cause was heard touching my mother's blood,</line>
+          <line>And Phoebus saved me by his evidence:</line>
+          <line>Equal, by Pallas number'd, were the votes</line>
+          <line>And I from doom of blood victorious freed</line>
+          <line>Such of the Furies as there sat, appeased</line>
+          <line>By the just sentence, nigh the court resolved</line>
+          <line>To fix their seat; but others, whom the law</line>
+          <line>Appeased not, with relentless tortures still</line>
+          <line>Pursued me, till I reach'd the hallow'd soil</line>
+          <line>Of Phoebus: stretch'd before his shrine, I swore</line>
+          <line>Foodless to waste my wretched life away,</line>
+          <line>Unless the god, by whom I was undone,</line>
+          <line>Would save me: from the golden tripod burst</line>
+          <line>The voice divine, and sent me to this shore,</line>
+          <line>Commanding me to bear the image hence,</line>
+          <line>Which fell from Jove, and in the Athenian land</line>
+          <line>To fix it. What the oracular voice assign'd</line>
+          <line>My safety, do thou aid: if we obtain</line>
+          <line>The statue of the goddess, I no more</line>
+          <line>With madness shall be tortured, but this arm</line>
+          <line>Shall place thee in my bark, which ploughs the waves</line>
+          <line>With many an oar, and to Mycenae safe</line>
+          <line>Bear thee again. Show then a sister's love,</line>
+          <line>O thou most dear; preserve thy father's house,</line>
+          <line>Preserve me too; for me destruction waits,</line>
+          <line>And all the race of Pelops, if we bear not</line>
+          <line>This heaven-descended image from the shrine.</line>
+          <line>LEADER</line>
+          <line>The anger of the gods hath raged severe,</line>
+          <line>And plunged the race of Tantalus in woes.</line>
+          <line>IPHIGENIA</line>
+          <line>Ere thy arrival here, a fond desire</line>
+          <line>To be again at Argos, and to see</line>
+          <line>Thee, my loved brother, fill'd my soul. Thy wish</line>
+          <line>Is my warm wish, to free thee from thy toils,</line>
+          <line>And from its ruins raise my father's house;</line>
+          <line>Nor harbour I 'gainst him, that slew me, thought</line>
+          <line>Of harsh resentment: from thy blood my hands</line>
+          <line>Would I keep pure, thy house I would preserve.</line>
+          <line>But from the goddess how may this be hid?</line>
+          <line>The tyrant too I fear, when he shall find</line>
+          <line>The statue on its marble base no more.</line>
+          <line>What then from death will save me? What excuse</line>
+          <line>Shall I devise? Yet by one daring deed</line>
+          <line>Might these things be achieved: couldst thou bear</line>
+          <line>hence</line>
+          <line>The image, me too in thy gallant bark</line>
+          <line>Placing secure, how glorious were the attempt!</line>
+          <line>Me if thou join not with thee, I am lost</line>
+          <line>Indeed; but thou, with prudent measures form'd,</line>
+          <line>Return. I fly no danger, not ev'n death,</line>
+          <line>Be death required, to save thee: no: the man</line>
+          <line>Dying is mourn'd, as to his house a loss;</line>
+          <line>But woman's weakness is of light esteem.</line>
+          <line>ORESTES</line>
+          <line>I would not be the murderer of my mother,</line>
+          <line>And of thee too; sufficient is her blood.</line>
+          <line>No; I will share thy fortune, live with thee,</line>
+          <line>Or with thee die: to Argos I will lead thee,</line>
+          <line>If here I perish not; or dying, here</line>
+          <line>Remain with thee. But what my mind suggests,</line>
+          <line>Hear: if Diana were averse to this,</line>
+          <line>How could the voice of Phoebus from his shrine</line>
+          <line>Declare that to the state of Pallas hence</line>
+          <line>The statue of the goddess I should bear,</line>
+          <line>And see thy face? All this, together weigh'd,</line>
+          <line>Gives hope of fair success, and our return.</line>
+          <line>IPHIGENIA</line>
+          <line>But how effect it, that we neither die,</line>
+          <line>And what we wish achieve? For our return</line>
+          <line>On this depends: this claims deliberate thought.</line>
+          <line>ORESTES</line>
+          <line>Have we not means to work the tyrant's death?</line>
+          <line>IPHIGENIA</line>
+          <line>For strangers full of peril were the attempt.</line>
+          <line>ORESTES</line>
+          <line>Thee would it save and me, it must be dared.</line>
+          <line>IPHIGENIA</line>
+          <line>I could not: yet thy promptness I approve.</line>
+          <line>ORESTES</line>
+          <line>What if thou lodge me in the shrine conceal'd?</line>
+          <line>IPHIGENIA</line>
+          <line>That in the shades of night we may escape?</line>
+          <line>ORESTES</line>
+          <line>Night is a friend to frauds, the light to truth.</line>
+          <line>IPHIGENIA</line>
+          <line>Within are sacred guards; we 'scape not them.</line>
+          <line>ORESTES</line>
+          <line>Ruin then waits us: how can we be saved?</line>
+          <line>IPHIGENIA</line>
+          <line>I think I have some new and safe device.</line>
+          <line>ORESTES</line>
+          <line>What is it? Let me know: impart thy thought,</line>
+          <line>IPHIGENIA</line>
+          <line>Thy sufferings for my purpose I will use,-</line>
+          <line>ORESTES</line>
+          <line>To form devices quick is woman's wit.</line>
+          <line>IPHIGENIA</line>
+          <line>And say, thy mother slain, thou fledd'st from Argos.</line>
+          <line>ORESTES</line>
+          <line>If to aught good, avail thee of my ills.</line>
+          <line>IPHIGENIA</line>
+          <line>Unmeet then at this shrine to offer thee.</line>
+          <line>ORESTES</line>
+          <line>What cause alleged? I reach not thine intent.</line>
+          <line>IPHIGENIA</line>
+          <line>As now impure: when hallow'd, I will slay thee.</line>
+          <line>ORESTES</line>
+          <line>How is the image thus more promptly gain'd?</line>
+          <line>IPHIGENIA</line>
+          <line>Thee I will hallow in the ocean waves.</line>
+          <line>ORESTES</line>
+          <line>The statue we would gain is in the temple.</line>
+          <line>IPHIGENIA</line>
+          <line>That, by thy touch polluted, I would cleanse.</line>
+          <line>ORESTES</line>
+          <line>Where? On the watery margin of the main?</line>
+          <line>IPHIGENIA</line>
+          <line>Where thy tall bark secured with cables rides.</line>
+          <line>ORESTES</line>
+          <line>And who shall bear the image in his hands?</line>
+          <line>IPHIGENIA</line>
+          <line>Myself; profaned by any touch, but mine.</line>
+          <line>ORESTES</line>
+          <line>What of this blood shall on my friend be charged?</line>
+          <line>IPHIGENIA</line>
+          <line>His hands, it shall be said, like thine are stain'd.</line>
+          <line>ORESTES</line>
+          <line>In secret this, or to the king disclosed?</line>
+          <line>IPHIGENIA</line>
+          <line>With his assent; I cannot hide it from him.</line>
+          <line>ORESTES</line>
+          <line>My bark with ready oars attends thee near.</line>
+          <line>IPHIGENIA</line>
+          <line>That all be well appointed, be thy charge.</line>
+          <line>ORESTES</line>
+          <line>One thing alone remains; that these conceal</line>
+          <line>Our purpose: but address them, teach thy tongue</line>
+          <line>Persuasive words: a woman hath the power</line>
+          <line>To melt the heart to pity: thus perchance</line>
+          <line>All things may to our warmest wish succeed.</line>
+          <line>IPHIGENIA</line>
+          <line>Ye train of females, to my soul most dear,</line>
+          <line>On you mine eyes are turn'd, on you depends</line>
+          <line>My fate; with prosperous fortune to be bless'd,</line>
+          <line>Or to be nothing, to my country lost,</line>
+          <line>Of a dear kinsman and a much-loved brother</line>
+          <line>Deprived. This plea I first would urge, that we</line>
+          <line>Are women, and have hearts by nature form'd</line>
+          <line>To love each other, of our mutual trusts</line>
+          <line>Most firm preservers. Touching our design,</line>
+          <line>Be silent, and assist our flight: naught claims</line>
+          <line>More honour than the faithful tongue. You see</line>
+          <line>How the same fortune links us three, most dear</line>
+          <line>Each to the other, to revisit safe</line>
+          <line>Our country, or to die. If I am saved,</line>
+          <line>That thou mayst share my fortune, I to Greece</line>
+          <line>Will bring thee safe: but thee by this right hand,</line>
+          <line>Thee I conjure, and thee; by this loved cheek</line>
+          <line>Thee, by thy knees, by all that in your house</line>
+          <line>Is dearest to you, father, mother, child,</line>
+          <line>If you have children. What do you reply?</line>
+          <line>Which of you speaks assent? Or which dissents?</line>
+          <line>But be you all assenting: for my plea</line>
+          <line>If you approve not, ruin falls on me,</line>
+          <line>And my unhappy brother too must die.</line>
+          <line>LEADER</line>
+          <line>Be confident, loved lady and consult</line>
+          <line>Only thy safety: all thou givest in charge,</line>
+          <line>Be witness, mighty Jove, I will conceal.</line>
+          <line>IPHIGENIA</line>
+          <line>O, for this generous promise be you bless'd.</line>
+          <line>To ORESTES and PYLADES</line>
+          <line>To enter now the temple be thy part,</line>
+          <line>And thine: for soon the monarch of the land</line>
+          <line>Will come, inquiring if the strangers yet</line>
+          <line>Have bow'd their necks as victims at the shrine.</line>
+          <line>Goddess revered, who in the dreadful bay</line>
+          <line>Of Aulis from my father's slaughtering hand</line>
+          <line>Didst save me; save me now, and these: through thee,</line>
+          <line>Else will the voice of Phoebus be no more</line>
+          <line>Held true by mortals. From this barbarous land</line>
+          <line>To Athens go propitious: here to dwell</line>
+          <line>Beseems thee not; thine be a polish'd state!</line>
+          <line>ORESTES, PYLADES, and IPHIGENIA enter the temple.</line>
+          <line>CHORUS</line>
+          <line>singing</line>
+          <line>strophe 1</line>
+          <line>O bird, that round each craggy height</line>
+          <line>Projecting o'er the sea below,</line>
+          <line>Wheelest thy mel</line>
+        </stanza>
+      </poem>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="euripides-iph-taur-colophon">
+        <p xml:id="euripides-iph-taur-colophon-p-1">Author: Euripides</p>
+        <p xml:id="euripides-iph-taur-colophon-p-2">Translated by Robert Potter</p>
+        <p xml:id="euripides-iph-taur-colophon-p-3">Written: 414-412 BCE</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

@@ -1,0 +1,1939 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="aristophanes-plutus">
+    <title>Plutus</title>
+    <chapter xml:id="plutus-plutus">
+      <title>Plutus</title>
+      <p xml:id="plutus-plutus-head-1">
+        <em>Dramatis Personae</em>
+      </p>
+      <p xml:id="plutus-plutus-p-2">CHREMYLUS CARIO, Servant of Chremylus PLUTUS, God of Riches BLEPSIDEMUS, friend of Chremylus POVERTY WIFE OF CHREMYLUS A JUST MAN AN INFORMER AN OLD WOMAN A YOUTH HERMES A PRIEST OF ZEUS CHORUS OF RUSTICS Scene The Orchestra represents a public square in Athens. In the background is the house of CHREMYLUS. A ragged old blind man enters, followed by CHREMYLUS and his slave CARIO.</p>
+      <p xml:id="plutus-plutus-head-3">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-4">What an unhappy fate, great gods, to be the slave of a fool! A servant may give the best of advice, but if his master does not follow it, the pool slave must inevitably have his share in the disaster; for fortune does not allow him to dispose of his own body, it belongs to his master who has bought it. Alas! 'tis the way of the world. But the god, Apollo, in tragic style whose oracles the Pythian priestess on her golden tripod makes known to us, deserves my censure, for surely he is a physician and a cunning diviner; and yet my master is leaving his temple infected with mere madness and insists on following a blind man. Is this not opposed to all good sense? It is for us, who see clearly, to guide those who don't; whereas he clings to the trail of a blind fellow and compels me to do the same without answering my questions with ever a word. To CHREMYLUS Aye, master, unless you tell me why we are following this unknown fellow, I will not be silent, but I will worry and torment you, for you cannot beat me because of my sacred chaplet of laurel.</p>
+      <p xml:id="plutus-plutus-head-5">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-6">No, but if you worry me I will take off your chaplets, and then you will only get a sounder thrashing.</p>
+      <p xml:id="plutus-plutus-head-7">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-8">That's an old song! I am going to leave you no peace till you have told me who this man is; and if I ask it, it's entirely because of my interest in you.</p>
+      <p xml:id="plutus-plutus-head-9">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-10">Well, be it so. I will reveal it to you as being the most faithful and the most rascally of all my servants. I honoured the gods and did what was right, and yet I was none the less poor and unfortunate.</p>
+      <p xml:id="plutus-plutus-head-11">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-12">I know it but too well.</p>
+      <p xml:id="plutus-plutus-head-13">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-14">Others amassed wealth-the sacrilegious, the demagogues, the informers, indeed every sort of rascal.</p>
+      <p xml:id="plutus-plutus-head-15">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-16">I believe you.</p>
+      <p xml:id="plutus-plutus-head-17">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-18">Therefore I came to consult the oracle of the god, not on my own account, for my unfortunate life is nearing its end, but for my only son; I wanted to ask Apollo if it was necessary for him to become a thorough knave and renounce his virtuous principles, since that seemed to me to be the only way to succeed in life.</p>
+      <p xml:id="plutus-plutus-head-19">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-20">with ironic gravity And with what responding tones did the sacred tripod resound?</p>
+      <p xml:id="plutus-plutus-head-21">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-22">You shall know. The god ordered me in plain terms to follow the first man I should meet upon leaving the temple and to persuade him to accompany me home.</p>
+      <p xml:id="plutus-plutus-head-23">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-24">And who was the first one you met?</p>
+      <p xml:id="plutus-plutus-head-25">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-26">This blind man.</p>
+      <p xml:id="plutus-plutus-head-27">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-28">And you are stupid enough not to understand the meaning of such an answer! Why, the god was advising you thereby, and that in the clearest possible way, to bring up your son according to the fashion of your country.</p>
+      <p xml:id="plutus-plutus-head-29">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-30">What makes you think that?</p>
+      <p xml:id="plutus-plutus-head-31">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-32">Is it not evident to the blind, that nowadays to do nothing that is right is the best way to get on?</p>
+      <p xml:id="plutus-plutus-head-33">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-34">No, that is not the meaning of the oracle; there must be another that is nobler. If this blind man would tell us who he is and why and with what object he has led us here, we should no doubt understand what our oracle really does mean.</p>
+      <p xml:id="plutus-plutus-head-35">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-36">to PLUTUS Come, tell us at once who you are, or I shall give effect to my threat. He menaces him. And quick too, be quick, I say.</p>
+      <p xml:id="plutus-plutus-head-37">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-38">I'll thrash you.</p>
+      <p xml:id="plutus-plutus-head-39">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-40">to CHREMYLUS Do you understand who he says he is?</p>
+      <p xml:id="plutus-plutus-head-41">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-42">It's to you and not to me that he replies thus: your mode of questioning him was ill-advised. To PLUTUS Come, friend, if you care to oblige an honest man, answer me.</p>
+      <p xml:id="plutus-plutus-head-43">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-44">I'll knock you down.</p>
+      <p xml:id="plutus-plutus-head-45">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-46">sarcastically Ah! what a pleasant fellow and what a delightful prophecy the god has given you!</p>
+      <p xml:id="plutus-plutus-head-47">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-48">to PLUTUS By Demeter, you'll have no reason to laugh presently.</p>
+      <p xml:id="plutus-plutus-head-49">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-50">If you don't speak, you wretch, I will surely do you an ill turn.</p>
+      <p xml:id="plutus-plutus-head-51">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-52">Friends, take yourselves off and leave me.</p>
+      <p xml:id="plutus-plutus-head-53">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-54">That we very certainly shan't.</p>
+      <p xml:id="plutus-plutus-head-55">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-56">This, master, is the best thing to do. I'll undertake to secure him the most frightful death; I will lead him to the verge of a precipice and then leave him there, so that he'll break his neck when he pitches over.</p>
+      <p xml:id="plutus-plutus-head-57">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-58">Well then, seize him right away. CARIO does so.</p>
+      <p xml:id="plutus-plutus-head-59">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-60">Oh, no! Have mercy!</p>
+      <p xml:id="plutus-plutus-head-61">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-62">Will thou speak then?</p>
+      <p xml:id="plutus-plutus-head-63">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-64">But if you learn who I am, I know well that you will ill-use me and will let me go again.</p>
+      <p xml:id="plutus-plutus-head-65">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-66">I call the gods to witness that you have naught to fear if you will only speak.</p>
+      <p xml:id="plutus-plutus-head-67">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-68">Well then, first unhand me.</p>
+      <p xml:id="plutus-plutus-head-69">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-70">There! we set you free.</p>
+      <p xml:id="plutus-plutus-head-71">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-72">Listen then, since I must reveal what I had intended to keep a secret. I am Plutus.</p>
+      <p xml:id="plutus-plutus-head-73">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-74">Oh! you wretched rascal! You Plutus all the while, and you never said so!</p>
+      <p xml:id="plutus-plutus-head-75">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-76">You, Plutus, and in this piteous guise! Oh, Phoebus Apollo! oh, ye gods of heaven and hell! Oh, Zeus! is it really and truly as you say?</p>
+      <p xml:id="plutus-plutus-head-77">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-78">Yes.</p>
+      <p xml:id="plutus-plutus-head-79">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-80">Plutus' very own self?</p>
+      <p xml:id="plutus-plutus-head-81">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-82">His own very self and none other.</p>
+      <p xml:id="plutus-plutus-head-83">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-84">But tell me, how come you're so squalid?</p>
+      <p xml:id="plutus-plutus-head-85">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-86">I have just left Patrocles' house, who has not had a bath since his birth.</p>
+      <p xml:id="plutus-plutus-head-87">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-88">But your infirmity; how did that happen? Tell me.</p>
+      <p xml:id="plutus-plutus-head-89">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-90">Zeus inflicted it on me, because of his jealousy of-mankind. When I was young, I threatened him that I would only go to the just, the wise, the men of ordered life; to prevent my distinguishing these, he struck me with blindness' so much does he envy the good!</p>
+      <p xml:id="plutus-plutus-head-91">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-92">And yet, it's only the upright and just who honour him.</p>
+      <p xml:id="plutus-plutus-head-93">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-94">Quite true.</p>
+      <p xml:id="plutus-plutus-head-95">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-96">Therefore, if ever you recovered your sight, you would shun the wicked?</p>
+      <p xml:id="plutus-plutus-head-97">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-98">Undoubtedly.</p>
+      <p xml:id="plutus-plutus-head-99">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-100">You would visit the good?</p>
+      <p xml:id="plutus-plutus-head-101">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-102">Assuredly. It is a very long time since I saw them.</p>
+      <p xml:id="plutus-plutus-head-103">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-104">to the audience That's not astonishing. I, who see clearly, don't see a single one.</p>
+      <p xml:id="plutus-plutus-head-105">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-106">Now let me leave you, for I have told you everything.</p>
+      <p xml:id="plutus-plutus-head-107">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-108">No, certainly not! we shall fasten ourselves on to you faster than ever.</p>
+      <p xml:id="plutus-plutus-head-109">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-110">Did I not tell you, you were going to plague me?</p>
+      <p xml:id="plutus-plutus-head-111">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-112">Oh! I adjure you, believe what I say and don't leave me; for you will seek in vain for a more honest man than myself.</p>
+      <p xml:id="plutus-plutus-head-113">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-114">There is only one man more worthy; and that is I.</p>
+      <p xml:id="plutus-plutus-head-115">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-116">All talk like this, but as soon as they secure my favours and grow rich, their wickedness knows no bounds.</p>
+      <p xml:id="plutus-plutus-head-117">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-118">And yet all men are not wicked.</p>
+      <p xml:id="plutus-plutus-head-119">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-120">All. There's no exception.</p>
+      <p xml:id="plutus-plutus-head-121">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-122">You shall pay for that opinion.</p>
+      <p xml:id="plutus-plutus-head-123">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-124">Listen to what happiness there is in store for you, if you but stay with us. I have hope; aye, I have good hope with the god's help to deliver you from that blindness, in fact to restore your sight.</p>
+      <p xml:id="plutus-plutus-head-125">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-126">Oh! do nothing of the kind, for I don't wish to recover it.</p>
+      <p xml:id="plutus-plutus-head-127">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-128">What's that you say?</p>
+      <p xml:id="plutus-plutus-head-129">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-130">This fellow hugs his own misery.</p>
+      <p xml:id="plutus-plutus-head-131">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-132">If you were mad enough to cure me, and Zeus heard of it, he would overwhelm me with his anger.</p>
+      <p xml:id="plutus-plutus-head-133">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-134">And is he not doing this now by leaving you to grope your wandering way?</p>
+      <p xml:id="plutus-plutus-head-135">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-136">I don't know; but I'm horribly afraid of him.</p>
+      <p xml:id="plutus-plutus-head-137">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-138">Indeed? Ah! you are the biggest poltroon of all the gods! Why, Zeus with his throne and his lightnings would not be worth an obolus if you recovered your sight, were it but for a few moments.</p>
+      <p xml:id="plutus-plutus-head-139">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-140">Impious man, don't talk like that.</p>
+      <p xml:id="plutus-plutus-head-141">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-142">Fear nothing! I will prove to you that you are far more powerful and mightier than he.</p>
+      <p xml:id="plutus-plutus-head-143">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-144">I mightier than he?</p>
+      <p xml:id="plutus-plutus-head-145">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-146">Aye, by heaven! To CARIO For instance, what is the basis of the power that Zeus wields over the other gods?</p>
+      <p xml:id="plutus-plutus-head-147">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-148">Money; he has so much of it.</p>
+      <p xml:id="plutus-plutus-head-149">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-150">And who gives it to him?</p>
+      <p xml:id="plutus-plutus-head-151">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-152">pointing to Plutus This fellow.</p>
+      <p xml:id="plutus-plutus-head-153">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-154">If sacrifices are offered to him, is not Plutus their cause?</p>
+      <p xml:id="plutus-plutus-head-155">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-156">Undoubtedly, for it's wealth that all demand and clamour most loudly for.</p>
+      <p xml:id="plutus-plutus-head-157">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-158">Thus it's Plutus who is the fount of all the honours rendered to Zeus, whose worship he can wither up at the root, if it so pleases him.</p>
+      <p xml:id="plutus-plutus-head-159">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-160">And how so?</p>
+      <p xml:id="plutus-plutus-head-161">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-162">Not an ox, nor a cake, nor indeed anything at all could be offered, if you did not wish it.</p>
+      <p xml:id="plutus-plutus-head-163">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-164">Why?</p>
+      <p xml:id="plutus-plutus-head-165">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-166">Why? but what means are there to buy anything if you are not there to give the money? Hence if Zeus should cause you any trouble, you will destroy his power without other help.</p>
+      <p xml:id="plutus-plutus-head-167">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-168">So it's because of me that sacrifices are offered to him?</p>
+      <p xml:id="plutus-plutus-head-169">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-170">Most assuredly. Whatever is dazzling, beautiful or charming in the eyes of mankind, comes from you. Does not everything depend on wealth?</p>
+      <p xml:id="plutus-plutus-head-171">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-172">I myself was bought for a few coins; if I'm a slave, it's only because I was not rich.</p>
+      <p xml:id="plutus-plutus-head-173">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-174">And what of the Corinthian whores? If a poor man offers them proposals, they do not listen; but if it be a rich one, instantly they turn their arses to him.</p>
+      <p xml:id="plutus-plutus-head-175">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-176">It's the same with the lads; they care not for love, to them money means everything.</p>
+      <p xml:id="plutus-plutus-head-177">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-178">You speak of male whores; yet some of them are honest, and it's not money they ask of their patrons.</p>
+      <p xml:id="plutus-plutus-head-179">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-180">What then?</p>
+      <p xml:id="plutus-plutus-head-181">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-182">A fine horse, a pack of hounds.</p>
+      <p xml:id="plutus-plutus-head-183">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-184">Yes, they would blush to ask for money and cleverly disguise their shame.</p>
+      <p xml:id="plutus-plutus-head-185">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-186">It is in you that every art, all human inventions, have had their origin; it is through you that one man sits cutting leather in his shop.</p>
+      <p xml:id="plutus-plutus-head-187">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-188">That another fashions iron or wood.</p>
+      <p xml:id="plutus-plutus-head-189">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-190">That yet another chases the gold he has received from you.</p>
+      <p xml:id="plutus-plutus-head-191">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-192">That one is a fuller.</p>
+      <p xml:id="plutus-plutus-head-193">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-194">That the other washes wool.</p>
+      <p xml:id="plutus-plutus-head-195">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-196">That this one is a tanner.</p>
+      <p xml:id="plutus-plutus-head-197">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-198">And that other sells onions.</p>
+      <p xml:id="plutus-plutus-head-199">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-200">And if the adulterer, caught red-handed, is depilated, it's on account of you.</p>
+      <p xml:id="plutus-plutus-head-201">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-202">Oh! great gods! I knew naught of all this!</p>
+      <p xml:id="plutus-plutus-head-203">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-204">to CHREMYLUS Is it not he who lends the Great King all his pride? Is it not he who draws the citizens to the Assembly?</p>
+      <p xml:id="plutus-plutus-head-205">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-206">And tell me, is it not you who equip the triremes?</p>
+      <p xml:id="plutus-plutus-head-207">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-208">And who feed our mercenaries at Corinth? Are not you the cause of Pamphilus' sufferings?</p>
+      <p xml:id="plutus-plutus-head-209">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-210">And of the needle-seller's with Pamphilus?</p>
+      <p xml:id="plutus-plutus-head-211">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-212">It is not because of you that Agyrrhius farts so loudly?</p>
+      <p xml:id="plutus-plutus-head-213">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-214">And that Philepsius rolls off his fables? That troops are sent to succour the Egyptians? And that Lais is kept by Philonides?</p>
+      <p xml:id="plutus-plutus-head-215">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-216">That the tower of Timotheus...</p>
+      <p xml:id="plutus-plutus-head-217">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-218">To CARIO ...May it fall upon your head! To PLUTUS In short, Plutus, it is through you that everything is done; you must realize that you are the sole cause both of good and evil.</p>
+      <p xml:id="plutus-plutus-head-219">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-220">In war, it's the flag under which you serve that victory favours.</p>
+      <p xml:id="plutus-plutus-head-221">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-222">What! I can do so many things by myself and unaided?</p>
+      <p xml:id="plutus-plutus-head-223">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-224">And many others besides; wherefore men are never tired of your gifts. They get weary of all else,-of love...</p>
+      <p xml:id="plutus-plutus-head-225">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-226">Bread.</p>
+      <p xml:id="plutus-plutus-head-227">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-228">Music.</p>
+      <p xml:id="plutus-plutus-head-229">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-230">Sweetmeats.</p>
+      <p xml:id="plutus-plutus-head-231">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-232">Honours.</p>
+      <p xml:id="plutus-plutus-head-233">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-234">Cakes.</p>
+      <p xml:id="plutus-plutus-head-235">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-236">Battles.</p>
+      <p xml:id="plutus-plutus-head-237">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-238">Figs.</p>
+      <p xml:id="plutus-plutus-head-239">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-240">Ambition.</p>
+      <p xml:id="plutus-plutus-head-241">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-242">Gruel.</p>
+      <p xml:id="plutus-plutus-head-243">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-244">Military advancement.</p>
+      <p xml:id="plutus-plutus-head-245">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-246">Lentil soup.</p>
+      <p xml:id="plutus-plutus-head-247">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-248">But of you they never tire. If a man has thirteen talents, he has all the greater ardour to possess sixteen; if that wish is achieved, he will want forty or will complain that he knows not how to make both ends meet.</p>
+      <p xml:id="plutus-plutus-head-249">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-250">All this, I suppose, is very true; there is but one point that makes me feel a bit uneasy.</p>
+      <p xml:id="plutus-plutus-head-251">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-252">And that is?</p>
+      <p xml:id="plutus-plutus-head-253">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-254">How could I use this power, which you say I have?</p>
+      <p xml:id="plutus-plutus-head-255">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-256">Ah! they were quite right who said there's nothing more timorous than Plutus</p>
+      <p xml:id="plutus-plutus-head-257">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-258">No, no; it was a thief who calumniated me. Having broken into a house, he found everything locked up and could take nothing, so he dubbed my prudence fear.</p>
+      <p xml:id="plutus-plutus-head-259">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-260">Don't be disturbed; if you support me zealously, I'll make you more sharp-sighted than Lynceus.</p>
+      <p xml:id="plutus-plutus-head-261">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-262">And how should you be able to do that, you. who are but a mortal?</p>
+      <p xml:id="plutus-plutus-head-263">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-264">I have great hope, after the answer Apollo gave me, shaking his sacred laurels the while.</p>
+      <p xml:id="plutus-plutus-head-265">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-266">Is he in the plot then?</p>
+      <p xml:id="plutus-plutus-head-267">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-268">Surely.</p>
+      <p xml:id="plutus-plutus-head-269">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-270">Take care what you say.</p>
+      <p xml:id="plutus-plutus-head-271">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-272">Never fear, friend; for, be well assured, that if it has to cost me my life, I will carry out what I have in my head.</p>
+      <p xml:id="plutus-plutus-head-273">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-274">And I will help you, if you permit it.</p>
+      <p xml:id="plutus-plutus-head-275">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-276">We shall have many other helpers as well-all the worthy folk who are wanting for bread.</p>
+      <p xml:id="plutus-plutus-head-277">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-278">Ah! they'll prove sorry helpers.</p>
+      <p xml:id="plutus-plutus-head-279">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-280">No, not so, once they've grown rich. But you, Cario, run quick...</p>
+      <p xml:id="plutus-plutus-head-281">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-282">Where?</p>
+      <p xml:id="plutus-plutus-head-283">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-284">...to call my comrades, the other husbandmen (you'll probably find the poor fellows toiling away in the fields,) that each of them may come here to take his share of the gifts of Plutus.</p>
+      <p xml:id="plutus-plutus-head-285">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-286">I'm off. But let someone come from the house to take this morsel of meat.</p>
+      <p xml:id="plutus-plutus-head-287">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-288">I'll see to that; you run your hardest. As for you, Plutus, the most excellent of all the gods, come in here with me; this is the house you must fill with riches to-day, by fair means or foul.</p>
+      <p xml:id="plutus-plutus-head-289">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-290">I don't at all like going into other folks' houses in this manner; I have never got any good from it. If I got inside a miser's house, straightway he would bury me deep underground; if some honest fellow among his friends came to ask him for the smallest coin, he would deny ever having seen me. Then if I went to a fool's house, he would sacrifice in dicing and wenching, and very soon I should be completely stripped and pitched out of doors.</p>
+      <p xml:id="plutus-plutus-head-291">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-292">That's because you have never met a man who knew how to avoid the two extremes; moderation is the strong point in my character. I love saving as much as anybody, and I know how to spend, when it's needed. But let us go in; I want to make you known to my wife and to my only son, whom I love most of all after yourself.</p>
+      <p xml:id="plutus-plutus-head-293">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-294">I'm quite sure of that.</p>
+      <p xml:id="plutus-plutus-head-295">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-296">Why should I hide the truth from you? They enter CHREMYLUS' house.</p>
+      <p xml:id="plutus-plutus-head-297">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-298">to the CHORUS, which has followed him in Come, you active workers, who, like my master, eat nothing but garlic and the poorest food, you who are his friends and his neighbours, hasten your steps, hurry yourselves; there's not a moment to lose; this is the critical hour, when your presence and your support are needed by him.</p>
+      <p xml:id="plutus-plutus-head-299">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-300">Why, don't you see we are speeding as fast as men can, who are already enfeebled by age? But do you deem it fitting to make us run like this before ever telling us why your master has called us?</p>
+      <p xml:id="plutus-plutus-head-301">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-302">I've grown hoarse with the telling, but you won't listen. My master is going to drag you all out of the stupid, sapless life you are leading and ensure you, one full of all delights.</p>
+      <p xml:id="plutus-plutus-head-303">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-304">And how is he going to manage that?</p>
+      <p xml:id="plutus-plutus-head-305">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-306">My poor friends, he has brought with him a disgusting old fellow, all bent and wrinkled, with a most pitiful appearance, bald and toothless; upon my word, I even believe he is circumcised like some vile barbarian.</p>
+      <p xml:id="plutus-plutus-head-307">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-308">This news is worth its weight in gold! What are you saying? Repeat it to me; no doubt it means he is bringing back a heap of wealth.</p>
+      <p xml:id="plutus-plutus-head-309">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-310">No, but a heap of all the infirmities attendant on old age.</p>
+      <p xml:id="plutus-plutus-head-311">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-312">If you are tricking us, you shall pay us for it. Beware of our sticks!</p>
+      <p xml:id="plutus-plutus-head-313">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-314">Do you deem me so brazen as all that, and my words mere lies?</p>
+      <p xml:id="plutus-plutus-head-315">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-316">What serious airs the rascal puts on! Look! his legs are already shrieking, "oh! oh!" They are asking for the shackles and wedges.</p>
+      <p xml:id="plutus-plutus-head-317">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-318">It's in the tomb that it's your lot to judge. Why don't you go there? Charon has given you your ticket.</p>
+      <p xml:id="plutus-plutus-head-319">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-320">Plague take you! you cursed rascal, who rail at us and have not even the heart to tell us why your master has made us come. We were pressed for time and tired out, yet we came with all haste, and in our hurry we have passed by lots of wild onions without even gathering them.</p>
+      <p xml:id="plutus-plutus-head-321">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-322">I will no longer conceal the truth from you. Friends, it's Plutus whom my master brings, Plutus, who will give you riches.</p>
+      <p xml:id="plutus-plutus-head-323">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-324">What! we shall really all become rich?</p>
+      <p xml:id="plutus-plutus-head-325">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-326">Aye, certainly; you will then be Midases, provided you grow ass's ears.</p>
+      <p xml:id="plutus-plutus-head-327">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-328">What joy, what happiness! If what you tell me is true, I long to dance with delight.</p>
+      <p xml:id="plutus-plutus-head-329">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-330">singing, with appropriate gestures And I too, threttanelo! want to imitate the Cyclops and lead your troop by stamping like this. Do you, my dear little ones, cry, aye, cry again and bleat forth the plaintive song of the sheep and of the stinking goats; follow me like lascivious goats with their tools out.</p>
+      <p xml:id="plutus-plutus-head-331">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-332">Singing, to the same tune and with similar mimicry As for us, threttanelo! we will seek you, dear Cyclops, bleating, and if we find you with your wallet full of fresh herbs, all disgusting in your filth, sodden with wine and sleeping in the midst of your sheep, we will seize a great flaming stake and burn out your eye.</p>
+      <p xml:id="plutus-plutus-head-333">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-334">I will copy that Circe of Corinth, whose potent philtres compelled the companions of Philonides like swine to swallow balls of dung, which she herself had kneaded with her hands; and do you too grunt with joy and follow your mother, my little pigs.</p>
+      <p xml:id="plutus-plutus-head-335">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-336">Oh! Circe with the potent philtress, who besmear your companions so filthily, what pleasure I shall have in imitating the son of Laertes! I will hang you up by your balls, I will rub your nose with dung like a goat, and like Aristyllus you shall say through your half-opened lips, "Follow your mother, my little pigs."</p>
+      <p xml:id="plutus-plutus-head-337">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-338">Enough of tomfoolery, assume a grave demeanour; unknown to my master I am going to take bread and meat; and when I have fed well, I shall resume my work. Interlude of dancing by the CHORUS.</p>
+      <p xml:id="plutus-plutus-head-339">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-340">coming out of his house To say, "Hail! my dear neighbours!" is an old form of greeting and well worn with use; so therefore I embrace you, because you have not crept like tortoises, but have come rushing here in all haste. Now help me to watch carefully and closely over the god.</p>
+      <p xml:id="plutus-plutus-head-341">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-342">Be at ease. You shall see with what martial zeal I will guard him. What! we jostle each other at the Assembly for three obols, and am I going to let Plutus in person be stolen from me?</p>
+      <p xml:id="plutus-plutus-head-343">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-344">But I see Blepsidemus; by his bearing and his haste I can readily see he knows or suspects something.</p>
+      <p xml:id="plutus-plutus-head-345">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-346">What has happened then? Whence, how has Chremylus suddenly grown rich? I don't believe a word of it. Nevertheless, nothing but his sudden fortune was being talked about in the barber-shops. But I am above all surprised that his good fortune has not made him forget his friends; that is not the usual way!</p>
+      <p xml:id="plutus-plutus-head-347">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-348">By the gods, Blepsidemus, I will hide nothing from you. To-day things are better than yesterday; let us share, for are you not my friend?</p>
+      <p xml:id="plutus-plutus-head-349">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-350">Have you really grown rich as they say?</p>
+      <p xml:id="plutus-plutus-head-351">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-352">I shall be soon, if the god agrees to it. But there is still some risk to run.</p>
+      <p xml:id="plutus-plutus-head-353">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-354">What risk?</p>
+      <p xml:id="plutus-plutus-head-355">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-356">Well...</p>
+      <p xml:id="plutus-plutus-head-357">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-358">Tell me, quick!</p>
+      <p xml:id="plutus-plutus-head-359">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-360">If we succeed, we are happy for ever, but if we fail, it is all over with us.</p>
+      <p xml:id="plutus-plutus-head-361">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-362">It's a bad business, and one that doesn't please me! To grow rich all at once and yet to be fearful! ah! I suspect something that's little good.</p>
+      <p xml:id="plutus-plutus-head-363">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-364">What do you mean?</p>
+      <p xml:id="plutus-plutus-head-365">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-366">No doubt you have just stolen some gold and silver from some temple and are repenting.</p>
+      <p xml:id="plutus-plutus-head-367">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-368">Nay! heaven preserve me from that!</p>
+      <p xml:id="plutus-plutus-head-369">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-370">A truce to idle phrases! the thing is only too apparent, my friend.</p>
+      <p xml:id="plutus-plutus-head-371">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-372">Don't suspect such a thing of me.</p>
+      <p xml:id="plutus-plutus-head-373">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-374">Alas! then there is no honest man! not one, that can resist the attraction of gold!</p>
+      <p xml:id="plutus-plutus-head-375">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-376">By Demeter, you have no common sense.</p>
+      <p xml:id="plutus-plutus-head-377">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-378">aside How he has changed!</p>
+      <p xml:id="plutus-plutus-head-379">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-380">But, good gods, you are mad, my dear fellow!</p>
+      <p xml:id="plutus-plutus-head-381">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-382">aside His very look is distraught; he has done some crime!</p>
+      <p xml:id="plutus-plutus-head-383">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-384">Ah! I know the tune you are playing now; you think I have stolen, and want your share.</p>
+      <p xml:id="plutus-plutus-head-385">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-386">My share of what, pray?</p>
+      <p xml:id="plutus-plutus-head-387">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-388">You are beside the mark; the thing is quite otherwise.</p>
+      <p xml:id="plutus-plutus-head-389">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-390">Perhaps it's not a theft, but some piece of knavery!</p>
+      <p xml:id="plutus-plutus-head-391">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-392">You are insane!</p>
+      <p xml:id="plutus-plutus-head-393">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-394">What? You have done no man an injury?</p>
+      <p xml:id="plutus-plutus-head-395">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-396">No! assuredly not I</p>
+      <p xml:id="plutus-plutus-head-397">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-398">But, great gods, what am I to think? You won't tell me the truth.</p>
+      <p xml:id="plutus-plutus-head-399">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-400">You accuse me without really knowing anything.</p>
+      <p xml:id="plutus-plutus-head-401">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-402">Listen, friend, no doubt the matter can yet be hushed up, before it gets noised abroad, at trifling expense; I will buy the orators' silence.</p>
+      <p xml:id="plutus-plutus-head-403">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-404">Aye, you will lay out three minae and, as my friend, you will reckon twelve against me.</p>
+      <p xml:id="plutus-plutus-head-405">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-406">I know someone who will come and seat himself at the foot of the tribunal, holding a supplicant's bough in his hand and surrounded by his wife and children, for all the world like the Heraclidae of Pamphilus.</p>
+      <p xml:id="plutus-plutus-head-407">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-408">Not at all, poor fool! But, thanks to me, worthy folk alone shall be rich henceforth.</p>
+      <p xml:id="plutus-plutus-head-409">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-410">What are you saying? Have you then stolen so much as all that?</p>
+      <p xml:id="plutus-plutus-head-411">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-412">Oh your insults will be the death of me.</p>
+      <p xml:id="plutus-plutus-head-413">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-414">You're the one who is courting death.</p>
+      <p xml:id="plutus-plutus-head-415">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-416">Not so, you wretch, since I have Plutus.</p>
+      <p xml:id="plutus-plutus-head-417">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-418">You have Plutus? Which one?</p>
+      <p xml:id="plutus-plutus-head-419">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-420">The god himself.</p>
+      <p xml:id="plutus-plutus-head-421">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-422">And where is he?</p>
+      <p xml:id="plutus-plutus-head-423">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-424">There.</p>
+      <p xml:id="plutus-plutus-head-425">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-426">Where?</p>
+      <p xml:id="plutus-plutus-head-427">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-428">Indoors.</p>
+      <p xml:id="plutus-plutus-head-429">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-430">Indoors?</p>
+      <p xml:id="plutus-plutus-head-431">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-432">Aye, certainly.</p>
+      <p xml:id="plutus-plutus-head-433">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-434">Get you gone! Plutus in your house?</p>
+      <p xml:id="plutus-plutus-head-435">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-436">Yes, by the gods I</p>
+      <p xml:id="plutus-plutus-head-437">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-438">Are you telling the truth?</p>
+      <p xml:id="plutus-plutus-head-439">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-440">I am.</p>
+      <p xml:id="plutus-plutus-head-441">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-442">Swear it by Hestia.</p>
+      <p xml:id="plutus-plutus-head-443">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-444">I swear it by Posidon.</p>
+      <p xml:id="plutus-plutus-head-445">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-446">The god of the sea?</p>
+      <p xml:id="plutus-plutus-head-447">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-448">Yes, and by all the other Posidons, such there be.</p>
+      <p xml:id="plutus-plutus-head-449">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-450">And you don't send him to us, to your friends?</p>
+      <p xml:id="plutus-plutus-head-451">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-452">We've not got to that point yet.</p>
+      <p xml:id="plutus-plutus-head-453">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-454">What do you say? Is there no chance of sharing?</p>
+      <p xml:id="plutus-plutus-head-455">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-456">Why, no. We must first.</p>
+      <p xml:id="plutus-plutus-head-457">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-458">Do what?</p>
+      <p xml:id="plutus-plutus-head-459">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-460">...restore him his sight.</p>
+      <p xml:id="plutus-plutus-head-461">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-462">Restore whom his sight? Speak!</p>
+      <p xml:id="plutus-plutus-head-463">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-464">Plutus. It must be done, no matter how.</p>
+      <p xml:id="plutus-plutus-head-465">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-466">Is he then really blind?</p>
+      <p xml:id="plutus-plutus-head-467">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-468">Yes, undoubtedly.</p>
+      <p xml:id="plutus-plutus-head-469">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-470">I am no longer surprised he never came to me.</p>
+      <p xml:id="plutus-plutus-head-471">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-472">If it please the gods, he'll come there now.</p>
+      <p xml:id="plutus-plutus-head-473">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-474">Must we not go and seek a physician?</p>
+      <p xml:id="plutus-plutus-head-475">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-476">Seek physicians at Athens? Nay! there's no art where there's no fee.</p>
+      <p xml:id="plutus-plutus-head-477">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-478">running his eyes over the audience Let's look carefully.</p>
+      <p xml:id="plutus-plutus-head-479">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-480">after a thorough survey There is not one.</p>
+      <p xml:id="plutus-plutus-head-481">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-482">It's a positive fact; I don't know of one.</p>
+      <p xml:id="plutus-plutus-head-483">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-484">But I have thought the matter well over, and the best thing is to make Plutus lie in the Temple of Asclepius.</p>
+      <p xml:id="plutus-plutus-head-485">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-486">Unquestionably that's the very best thing. Hurry and lead him away to the temple.</p>
+      <p xml:id="plutus-plutus-head-487">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-488">I am going there.</p>
+      <p xml:id="plutus-plutus-head-489">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-490">Then hurry up.</p>
+      <p xml:id="plutus-plutus-head-491">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-492">That's just what I am doing. They are just leaving when POVERTY comes running in; she is a picture of squalor and the two men recoil in horror.</p>
+      <p xml:id="plutus-plutus-head-493">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-494">Unwise, perverse, unholy men! What are you daring to do, you pitiful, wretched mortals? Whither are you flying? Stop! I command it!</p>
+      <p xml:id="plutus-plutus-head-495">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-496">Oh! great gods!</p>
+      <p xml:id="plutus-plutus-head-497">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-498">My arm shall destroy you, you infamous beings! Such an attempt is not to be borne; neither man nor god has ever dared the like. You shall die!</p>
+      <p xml:id="plutus-plutus-head-499">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-500">And who are you? Oh! what a ghastly pallor!</p>
+      <p xml:id="plutus-plutus-head-501">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-502">Perhaps it's some Erinys, some Fury, from the theatre; there's a kind of wild tragic look in her eyes.</p>
+      <p xml:id="plutus-plutus-head-503">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-504">But she has no torch.</p>
+      <p xml:id="plutus-plutus-head-505">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-506">Let's knock her down!</p>
+      <p xml:id="plutus-plutus-head-507">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-508">Who do you think I am?</p>
+      <p xml:id="plutus-plutus-head-509">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-510">Some wine-shop keeper or egg-woman. Otherwise you would not have shrieked so loud at us, who have done nothing to you.</p>
+      <p xml:id="plutus-plutus-head-511">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-512">Indeed? And have you not done me the most deadly injury by seeking to banish me from every country?</p>
+      <p xml:id="plutus-plutus-head-513">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-514">Why, have you not got the Barathrum left? But who are you? Answer me quickly!</p>
+      <p xml:id="plutus-plutus-head-515">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-516">I am one that will punish you this very day for having wanted to make me disappear from here.</p>
+      <p xml:id="plutus-plutus-head-517">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-518">Might it be the tavern-keeper in my neighbourhood, who is always cheating me in measure?</p>
+      <p xml:id="plutus-plutus-head-519">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-520">I am Poverty, who have lived with you for so many years.</p>
+      <p xml:id="plutus-plutus-head-521">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-522">Oh! great Apollo! oh, ye gods! whither shall I fly? He starts to run away.</p>
+      <p xml:id="plutus-plutus-head-523">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-524">Here! what are you doing! You coward! Are going to leave me here?</p>
+      <p xml:id="plutus-plutus-head-525">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-526">still running Not I.</p>
+      <p xml:id="plutus-plutus-head-527">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-528">Stop then! Are two men to run away from one woman?</p>
+      <p xml:id="plutus-plutus-head-529">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-530">But, you wretch, it's Poverty, the most fearful monster that ever drew breath.</p>
+      <p xml:id="plutus-plutus-head-531">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-532">Stay where you are, I beg of you.</p>
+      <p xml:id="plutus-plutus-head-533">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-534">No no! a thousand times, no!</p>
+      <p xml:id="plutus-plutus-head-535">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-536">Could we do anything worse than leave the god in the lurch and fly before this woman without so much as ever offering to fight?</p>
+      <p xml:id="plutus-plutus-head-537">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-538">But what weapons have we? Are we in a condition to show fight? Where is the breastplate, the buckler, that this wretch has not pawned?</p>
+      <p xml:id="plutus-plutus-head-539">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-540">Be at ease. Plutus will readily triumph over her threats unaided.</p>
+      <p xml:id="plutus-plutus-head-541">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-542">Dare you reply, you scoundrels, you who are caught red-handed at the most horrible crime?</p>
+      <p xml:id="plutus-plutus-head-543">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-544">As for you, you cursed jade, you pursue me with your abuse, though I have never done you the slightest harm.</p>
+      <p xml:id="plutus-plutus-head-545">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-546">Do you think it is doing me no harm to restore Plutus to the use of his eyes?</p>
+      <p xml:id="plutus-plutus-head-547">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-548">Is this doing you harm, that we shower blessings on all men?</p>
+      <p xml:id="plutus-plutus-head-549">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-550">And what do you think will ensure their happiness?</p>
+      <p xml:id="plutus-plutus-head-551">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-552">Ah! first of all we shall drive you out of Greece.</p>
+      <p xml:id="plutus-plutus-head-553">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-554">Drive me out? Could you do mankind a greater harm?</p>
+      <p xml:id="plutus-plutus-head-555">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-556">Yes-if I gave up my intention to deliver them from you.</p>
+      <p xml:id="plutus-plutus-head-557">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-558">Well, let us discuss this point first. I propose to show that I am the sole cause of all your blessings, and that your safety depends on me alone. If I don't succeed, then do what you like to me.</p>
+      <p xml:id="plutus-plutus-head-559">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-560">How dare you talk like this, you impudent hussy?</p>
+      <p xml:id="plutus-plutus-head-561">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-562">Agree to hear me and I think it will be very easy for me to prove that you are entirely on the wrong road, when you want to make the just men wealthy.</p>
+      <p xml:id="plutus-plutus-head-563">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-564">Oh! cudgel and rope's end, come to my help!</p>
+      <p xml:id="plutus-plutus-head-565">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-566">Why such wrath and these shouts, before you hear my arguments?</p>
+      <p xml:id="plutus-plutus-head-567">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-568">But who could listen to such words without exclaiming?</p>
+      <p xml:id="plutus-plutus-head-569">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-570">Any man of sense.</p>
+      <p xml:id="plutus-plutus-head-571">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-572">But if you lose your case, what punishment will you submit to?</p>
+      <p xml:id="plutus-plutus-head-573">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-574">Choose what you will.</p>
+      <p xml:id="plutus-plutus-head-575">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-576">That's all right.</p>
+      <p xml:id="plutus-plutus-head-577">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-578">You shall suffer the same if you are beaten!</p>
+      <p xml:id="plutus-plutus-head-579">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-580">Do you think twenty deaths a sufficiently large stake?</p>
+      <p xml:id="plutus-plutus-head-581">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-582">Good enough for her, but for us two would suffice.</p>
+      <p xml:id="plutus-plutus-head-583">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-584">You won't escape, for is there indeed a single valid argument to oppose me with?</p>
+      <p xml:id="plutus-plutus-head-585">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-586">To beat her in this debate, you must call upon all your wits. Make no allowances and show no weakness!</p>
+      <p xml:id="plutus-plutus-head-587">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-588">It is right that the good should be happy, that the wicked and the impious, on the other hand, should be miserable; that is a truth, I believe, which no one will gainsay. To realize this condition of things is a proposal as great as it is noble and useful in every respect, and we have found a means of attaining the object of our wishes. If Plutus recovers his sight and ceases from wandering about unseeing and at random, he will go to seek the just men and never leave them again; he will shun the perverse and ungodly; so, thanks to him, all men will become honest, rich and pious. Can anything better be conceived for the public weal?</p>
+      <p xml:id="plutus-plutus-head-589">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-590">Of a certainty, no! I bear witness to that. It is not even necessary she should reply.</p>
+      <p xml:id="plutus-plutus-head-591">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-592">Does it not seem that everything is extravagance in the world, or rather madness, when you watch the way things go? A crowd of rogues enjoy blessings they have won by sheer injustice, while more honest folks are miserable, die of hunger, and spend their whole lives with you. Now, if Plutus became clear-sighted again and drove out Poverty, it would be the greatest blessing possible for the human race.</p>
+      <p xml:id="plutus-plutus-head-593">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-594">Here are two old men, whose brains are easy to confuse, who assist each other to talk rubbish and drivel to their hearts' content. But if your wishes were realized, your profit would be great! Let Plutus recover his sight and divide his favours out equally to all, and none will ply either trade or art any longer; all toil would be done away with. Who would wish to hammer iron, build ships, sew, turn, cut up leather, bake bricks, bleach linen, tan hides, or break up the soil of the earth with the plough and garner the gifts of Demeter, if he could live in idleness and free from all this work?</p>
+      <p xml:id="plutus-plutus-head-595">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-596">What nonsense all this is! All these trades which you just mention will be plied by our slaves.</p>
+      <p xml:id="plutus-plutus-head-597">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-598">Your slaves! And by what means will these slaves be got?</p>
+      <p xml:id="plutus-plutus-head-599">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-600">We will buy them.</p>
+      <p xml:id="plutus-plutus-head-601">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-602">But first say, who will sell them, if everyone is rich?</p>
+      <p xml:id="plutus-plutus-head-603">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-604">Some greedy dealer from Thessaly-the land which supplies so many.</p>
+      <p xml:id="plutus-plutus-head-605">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-606">But if your system is applied, there won't be a single slave-dealer left. What rich man would risk his life to devote himself to this traffic? You will have to toil, to dig and submit yourself to all kinds of hard labour; so that your life would be more wretched even than it is now.</p>
+      <p xml:id="plutus-plutus-head-607">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-608">May this prediction fall upon yourself!</p>
+      <p xml:id="plutus-plutus-head-609">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-610">You will not be able to sleep in a bed, for no more will ever be manufactured; nor on carpets, for who would weave them, if he had gold? When you bring a young bride to your dwelling, you will have no essences wherewith to perfume her, nor rich embroidered cloaks dyed with dazzling colours in which to clothe her. And yet what is the use of being rich, if you are to be deprived of all these enjoyments? On the other hand, you have all that you need in abundance, thanks to me; to the artisan I am like a severe mistress, who forces him by need and poverty to seek the means of earning his livelihood.</p>
+      <p xml:id="plutus-plutus-head-611">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-612">And what good thing can you give us, unless it be burns in the bath, and swarms of brats and old women who cry with hunger, and clouds uncountable of lice, gnats and flies, which hover about the wretch's head, trouble him, awake him and say, "You will be hungry, but get up!" Besides, to possess a rag in place of a mantle, a pallet of rushes swarming with bugs, that do not let you close your eyes, for a bed; a rotten piece of matting for a coverlet; a big stone for a pillow, on which to lay your head; to eat mallow roots instead of bread, and leaves of withered radish instead of cake; to have nothing but the cover of a broken jug for a stool, the stave of a cask, and broken at that, for a kneading-trough, that is the life you make for us! Are these the mighty benefits with which you pretend to load mankind?</p>
+      <p xml:id="plutus-plutus-head-613">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-614">It's not my life that you describe,; you are attacking the existence beggars lead.</p>
+      <p xml:id="plutus-plutus-head-615">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-616">Is Beggary not Poverty's sister?</p>
+      <p xml:id="plutus-plutus-head-617">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-618">Thrasybulus and Dionysius are one and the same according to you. No, my life is not like that and never will be. The beggar, whom you have depicted to us, never possesses anything. The poor man lives thriftily and attentive to his work: he has not got too much, but he does not lack what he really needs.</p>
+      <p xml:id="plutus-plutus-head-619">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-620">Oh! what a happy life, by Demeter! to live sparingly, to toil incessantly and not to leave enough to pay for a tomb!</p>
+      <p xml:id="plutus-plutus-head-621">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-622">That's it! jest, jeer, and never talk seriously! But what you don't know is this, that men with me are worth more, both in mind and body, than with Plutus. With him they are gouty, big-bellied, heavy of limb and scandalously stout; with me they are thin, wasp-waisted, and terrible to the foe.</p>
+      <p xml:id="plutus-plutus-head-623">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-624">No doubt it's by starving them that you give them that waspish waist.</p>
+      <p xml:id="plutus-plutus-head-625">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-626">As for behaviour, I will prove to you that modesty dwells with me and insolence with Plutus.</p>
+      <p xml:id="plutus-plutus-head-627">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-628">Oh the sweet modesty of stealing and burglary.</p>
+      <p xml:id="plutus-plutus-head-629">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-630">Look at the orators in our republics; as long as they are poor, both state and people can only praise their uprightness; but once they are fattened on the public funds, they conceive a hatred for justice, plan intrigues against the people and attack the democracy.</p>
+      <p xml:id="plutus-plutus-head-631">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-632">That is absolutely true, although your tongue is very vile. But it matters not, so don't put on those triumphant airs; you shall not be punished any the less for having tried to persuade me that poverty is worth more than wealth.</p>
+      <p xml:id="plutus-plutus-head-633">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-634">Not being able to refute my arguments, you chatter at random and exert yourself to no purpose.</p>
+      <p xml:id="plutus-plutus-head-635">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-636">Then tell me this, why does all mankind flee from you?</p>
+      <p xml:id="plutus-plutus-head-637">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-638">Because I make them better. Children do the very same; they flee from the wise counsels of their fathers. So difficult is it to see one's true interest.</p>
+      <p xml:id="plutus-plutus-head-639">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-640">Will you say that Zeus cannot discern what is best? Well, he takes Plutus to himself...</p>
+      <p xml:id="plutus-plutus-head-641">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-642">...and banishes Poverty to the earth.</p>
+      <p xml:id="plutus-plutus-head-643">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-644">Ah me! how purblind you are, you old fellows of the days of Cronus! Why, Zeus is poor, and I will clearly prove it to you. In the Olympic games, which he founded, and to which he convokes the whole of Greece every four years, why does he only crown the victorious athletes with wild olive? If he were rich he would give them gold.</p>
+      <p xml:id="plutus-plutus-head-645">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-646">That's the way he shows that he clings to his wealth; he is sparing with it, won't part with any portion of it, only bestows baubles on the victors and keeps his money for himself.</p>
+      <p xml:id="plutus-plutus-head-647">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-648">But wealth coupled to such sordid greed is yet more shameful than poverty.</p>
+      <p xml:id="plutus-plutus-head-649">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-650">May Zeus destroy you, both you and your chaplet of wild olive!</p>
+      <p xml:id="plutus-plutus-head-651">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-652">Thus you dare to maintain that Poverty is not the fount of all blessings!</p>
+      <p xml:id="plutus-plutus-head-653">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-654">Ask Hecate whether it is better to be rich or starving; she will tell you that the rich send her a meal every month and that the poor make it disappear before it is even served. But go and hang yourself and don't breathe another syllable. I will not be convinced against my will.</p>
+      <p xml:id="plutus-plutus-head-655">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-656">"Oh! citizens of Argos! do you hear what he says?"</p>
+      <p xml:id="plutus-plutus-head-657">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-658">Invoke Pauson, your boon companion, rather.</p>
+      <p xml:id="plutus-plutus-head-659">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-660">Alas! what is to become of me?</p>
+      <p xml:id="plutus-plutus-head-661">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-662">Get you gone, be off quick and a pleasant journey to you.</p>
+      <p xml:id="plutus-plutus-head-663">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-664">But where shall I go?</p>
+      <p xml:id="plutus-plutus-head-665">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-666">To gaol; but hurry up, let us put an end to this.</p>
+      <p xml:id="plutus-plutus-head-667">
+        <em>POVERTY</em>
+      </p>
+      <p xml:id="plutus-plutus-p-668">as she departs One day you will recall me.</p>
+      <p xml:id="plutus-plutus-head-669">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-670">Then you can return; but disappear for the present. I prefer to be rich; you are free to knock your head against the walls in your rage.</p>
+      <p xml:id="plutus-plutus-head-671">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-672">And I too welcome wealth. I want, when I leave the bath all perfumed with essences, to feast bravely with my wife and children and to fart in the faces of toilers and Poverty.</p>
+      <p xml:id="plutus-plutus-head-673">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-674">So that hussy has gone at last! But let us make haste to put Plutus to bed in the Temple of Asclepius.</p>
+      <p xml:id="plutus-plutus-head-675">
+        <em>BLEPSIDEMUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-676">Let us make haste; else some bothering fellow may again come to interrupt us.</p>
+      <p xml:id="plutus-plutus-head-677">
+        <em>CREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-678">loudly Cario, bring the coverlets and all that I have got ready from the house; let us conduct the god to the temple, taking care to observe all the proper rites. CARIO comes out of the house with a bundle under one arm and leading PLUTUS with the other. CHREMYLUS and BLEPSIDEMUS join him and all four of them depart. Interlude of dancing by the CHORUS.</p>
+      <p xml:id="plutus-plutus-head-679">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-680">Oh! you old fellows, who used to dip out the broth served to the poor at the festival of Theseus with little pieces of bread hollowed like a spoon, how worthy of envy is your fate! How happy you are, both you and all just men!</p>
+      <p xml:id="plutus-plutus-head-681">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-682">My good fellow, what has happened to your friends? You seem the bearer of good tidings.</p>
+      <p xml:id="plutus-plutus-head-683">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-684">What joy-for my master and even more for Plutus! The god has regained his sight; his eyes sparkle with the greatest brilliancy, thanks to the benevolent care of Asclepius.</p>
+      <p xml:id="plutus-plutus-head-685">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-686">Oh! what transports of joy! oh! what shouts of gladness!</p>
+      <p xml:id="plutus-plutus-head-687">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-688">Aye! one is compelled to rejoice, whether one will or not.</p>
+      <p xml:id="plutus-plutus-head-689">
+        <em>LEADER OF THE CHORUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-690">I will sing to the honour of Asclepius, the son of illustrious Zeus, with a resounding voice; he is the beneficent star which men adore.</p>
+      <p xml:id="plutus-plutus-head-691">
+        <em>CHREMYLUS' WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-692">coming out of the house What mean these shouts? Is there good news? With what impatience have I been waiting in the house, and for so long too!</p>
+      <p xml:id="plutus-plutus-head-693">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-694">Quick! quick, some wine, mistress. And drink some yourself, aside it's much to your taste. I bring you all blessings in a lump.</p>
+      <p xml:id="plutus-plutus-head-695">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-696">Where are they?</p>
+      <p xml:id="plutus-plutus-head-697">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-698">In my words, as you are going to see.</p>
+      <p xml:id="plutus-plutus-head-699">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-700">Have done with trifling! come, speak.</p>
+      <p xml:id="plutus-plutus-head-701">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-702">Listen, I am going to tell you everything from the feet to the head.</p>
+      <p xml:id="plutus-plutus-head-703">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-704">Oh! don't throw anything at my head.</p>
+      <p xml:id="plutus-plutus-head-705">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-706">Not even the happiness that has come to you?</p>
+      <p xml:id="plutus-plutus-head-707">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-708">No, no, nothing ... to annoy me.</p>
+      <p xml:id="plutus-plutus-head-709">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-710">Having arrived near to the temple with our patient, then so unfortunate, but now at the apex of happiness, of blessedness, we first led him down to the sea to purify him.</p>
+      <p xml:id="plutus-plutus-head-711">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-712">Ah! what a singular pleasure for an old man to bathe in the cold seawater!</p>
+      <p xml:id="plutus-plutus-head-713">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-714">in the manner of the tragic messenger Then we repaired to the temple of the god. Once the wafers and the various offerings had been consecrated upon the altar, and the cake of wheaten-meal had been banded over to the devouring Hephaestus, we made Plutus lie on a couch according to the rite, and each of us prepared himself a bed of leaves.</p>
+      <p xml:id="plutus-plutus-head-715">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-716">Had any other folk come to beseech the deity?</p>
+      <p xml:id="plutus-plutus-head-717">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-718">Yes. Firstly, Neoclides, who is blind, but steals much better than those who see clearly; then many others attacked by complaints of all kinds. The lights were put out and the priest enjoined us to sleep, especially recommending us to keep silent should we hear any noise. There we were all lying down quite quietly. I could not sleep; I was thinking of a certain stew-pan full of pap placed close to an old woman and just behind her head. I had a furious longing to slip towards that side. But just as I was lifting my head, I noticed the priest, who was sweeping off both the cakes and the figs on the sacred table; then he made the round of the altars and sanctified the cakes that remained, by stowing them away in a bag. I therefore resolved to follow such a pious example and made straight for the pap.</p>
+      <p xml:id="plutus-plutus-head-719">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-720">You rogue! and had you no fear of the god?</p>
+      <p xml:id="plutus-plutus-head-721">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-722">Aye, indeed! I feared that the god with his crown on his head might have been near the stew-pan before me. I said to myself, "Like priest, like god." On hearing the noise I made the old woman put out her hand, but I hissed and bit it, just as a sacred serpent might have done. Quick she drew back her hand, slipped down into the bed with her head beneath the coverlets and never moved again; only she let flee a fart in her fear which stank worse than a weasel. As for myself, I swallowed a goodly portion of the pap and, having made a good feed, went back to bed.</p>
+      <p xml:id="plutus-plutus-head-723">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-724">And did not the god come?</p>
+      <p xml:id="plutus-plutus-head-725">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-726">He did not tarry; and when he was near us, oh! dear! such a good joke happened. My belly was quite blown up, and I let a thunderous fart!</p>
+      <p xml:id="plutus-plutus-head-727">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-728">Doubtless the god pulled a wry face?</p>
+      <p xml:id="plutus-plutus-head-729">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-730">No, but Iaso blushed a little and Panacea turned her head away, holding her nose; my farts are not perfume.</p>
+      <p xml:id="plutus-plutus-head-731">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-732">And what did the god do?</p>
+      <p xml:id="plutus-plutus-head-733">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-734">He paid not the slightest heed.</p>
+      <p xml:id="plutus-plutus-head-735">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-736">He must then be a pretty coarse kind of god?</p>
+      <p xml:id="plutus-plutus-head-737">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-738">I don't say that, but he's used to tasting stools.</p>
+      <p xml:id="plutus-plutus-head-739">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-740">Impudent knave, go on with you!</p>
+      <p xml:id="plutus-plutus-head-741">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-742">Then I hid myself in my bed all a-tremble. Asclepius did the round of the patients and examined them all with great attention; then a slave placed beside him a stone mortar, a pestle and a little box.</p>
+      <p xml:id="plutus-plutus-head-743">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-744">Of stone?</p>
+      <p xml:id="plutus-plutus-head-745">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-746">No, not of stone.</p>
+      <p xml:id="plutus-plutus-head-747">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-748">But how could you see all this, you arch-rascal, when you say you were hiding all the time?</p>
+      <p xml:id="plutus-plutus-head-749">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-750">Why, great gods, through my cloak, for it's not without holes! He first prepared an ointment for Neoclides; he threw three heads of Tenian garlic into the mortar, pounded them with an admixture of fig-tree sap and lentisk, moistened the whole with Sphettian vinegar, and, turning back the patient's eyelids, applied his salve to the interior of the eyes, so that the pain might be more excruciating. Neoclides shrieked, howled, sprang towards the foot of his bed and wanted to bolt, but the god laughed and said to him, "Keep where you are with your salve; by doing this you will not go and perjure yourself before the Assembly."</p>
+      <p xml:id="plutus-plutus-head-751">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-752">What a wise god and what a friend to our city</p>
+      <p xml:id="plutus-plutus-head-753">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-754">Thereupon he came and seated himself at the head of Plutus' bed, took a perfectly clean rag and wiped his eyelids; Panacea covered his head and face with a purple cloth, while the god whistled, and two enormous snakes came rushing from the sanctuary.</p>
+      <p xml:id="plutus-plutus-head-755">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-756">Great gods!</p>
+      <p xml:id="plutus-plutus-head-757">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-758">They slipped gently beneath the purple cloth and, as far as I could judge, licked the patient's eyelids; for, in less time than even you need, mistress, to drain down ten beakers of wine, Plutus rose up; be could see. I clapped my hands with joy and awoke my master, and the god immediately disappeared with the serpents into the sanctuary. As for those who were lying near Plutus, you can imagine that they embraced him tenderly. Dawn broke and not one of them had closed an eye. As for myself, I did not cease thanking the god who had so quickly restored to Plutus his sight and had made Neoclides blinder than ever.</p>
+      <p xml:id="plutus-plutus-head-759">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-760">Oh! thou great Asclepius! How mighty is thy power! To CARIO But tell me, where is Plutus now?</p>
+      <p xml:id="plutus-plutus-head-761">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-762">He is approaching, escorted by an immense crowd. The rich, whose wealth is ill-gotten, are knitting their brows and shooting at him looks of fierce hate, while the just folk, who led a wretched existence, embrace him and grasp his hand in the transport of their joy; they follow in his wake, their heads wreathed with garlands, laughing and blessing their deliverer; the old men make the earth resound as they walk together keeping time. Come, all of you, all, down to the very least, dance, leap and form yourselves into a chorus; no longer do you risk being told, when you go home. "There is no meal in the bag."</p>
+      <p xml:id="plutus-plutus-head-763">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-764">And I, by Hecate! I will string you a garland of cakes for the good tidings you have brought me.</p>
+      <p xml:id="plutus-plutus-head-765">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-766">Hurry, make haste then; our friends are close at hand.</p>
+      <p xml:id="plutus-plutus-head-767">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-768">I will go indoors to fetch some gifts of welcome, to celebrate these eyes that have just been opened. She goes back into the house.</p>
+      <p xml:id="plutus-plutus-head-769">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-770">Meantime I am going forth to meet them. Exit Interlude of dancing by the CHORUS.</p>
+      <p xml:id="plutus-plutus-head-771">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-772">I adore thee, oh! thou divine sun, and thee I greet, thou city, the beloved of Pallas: be welcome, thou land of Cecrops, which hast received me. Alas! what manner of men I associated with! I blush to think of it. While, on the other hand, I shunned those who deserved my friendship; I knew neither the vices of the ones nor the virtues of the others. A two-fold mistake, and in both cases equally fatal! Ah! what a misfortune was mine! But I want to change everything; and in the future I mean to prove to mankind that, if I gave to the wicked, it was against my will.</p>
+      <p xml:id="plutus-plutus-head-773">
+        <em>CHREMYLUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-774">to the wings Get you gone! Oh! what a lot of friends spring into being when you are fortunate! They dig me with their elbows and bruise my shins to prove their affection. Each one wants to greet me. What a crowd of old fellows thronged round me on the market-place!</p>
+      <p xml:id="plutus-plutus-head-775">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-776">Oh! thou, who art dearest of all to me, and thou too, be welcome! Allow me, Plutus, to shower these gifts of welcome over you in due accord with custom.</p>
+      <p xml:id="plutus-plutus-head-777">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-778">No. This is the first house I enter after having regained my sight; I shall take nothing from it, for it is my place rather to give.</p>
+      <p xml:id="plutus-plutus-head-779">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-780">Do you refuse these gifts?</p>
+      <p xml:id="plutus-plutus-head-781">
+        <em>PLUTUS</em>
+      </p>
+      <p xml:id="plutus-plutus-p-782">I will accept them at your fireside, as custom requires. Besides, we shall thus avoid a ridiculous scene; it is not meet that the poet should throw dried figs and dainties to the spectators; it is a vulgar trick to make them laugh.</p>
+      <p xml:id="plutus-plutus-head-783">
+        <em>WIFE</em>
+      </p>
+      <p xml:id="plutus-plutus-p-784">You are right. Look! yonder's Dexinicus, who was already getting to his feet to catch the figs as they flew past him. Interlude of dancing by the CHORUS.</p>
+      <p xml:id="plutus-plutus-head-785">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-786">How pleasant it is, friends, to live well, especially when it costs nothing! What a deluge of blessings flood our household, and that too without our having wronged a single soul! Ah! what a delightful thing is wealth! The bin is full of white flour and the wine-jars run over with fragrant liquor; all the chests are crammed with gold and silver, it is a sight to see; the tank is full of oil, the phials with perfumes, and the garret with dried figs. Vinegar flasks, plates, stew-pots and all the platters are of brass; our rotten old wooden trenchers for the fish have to-day become dishes of silver; even the thunder-mug is of ivory. We others, the slaves, we play at odd and even with gold pieces, and carry luxury so far that we no longer wipe our arses with stones, but use garlic stalks instead. My master, at this moment, is crowned with flowers and sacrificing a pig, a goat and ram; it's the smoke that has driven me out, for I could no longer endure it, it hurt my eyes so. A JUST MAN enters, followed by a small slave-lad who carries a thread-bare cloak and a pair of badly worn sandals.</p>
+      <p xml:id="plutus-plutus-head-787">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-788">Come, my child, come with me. Let us go and find the god.</p>
+      <p xml:id="plutus-plutus-head-789">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-790">Who's this?</p>
+      <p xml:id="plutus-plutus-head-791">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-792">A man who was once wretched, but now is happy.</p>
+      <p xml:id="plutus-plutus-head-793">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-794">A just man then?</p>
+      <p xml:id="plutus-plutus-head-795">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-796">That's right.</p>
+      <p xml:id="plutus-plutus-head-797">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-798">Well! what do you want?</p>
+      <p xml:id="plutus-plutus-head-799">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-800">I come to thank the god for all the blessings he has showered on me. My father had left me a fairly decent fortune, and I helped those of my friends who were in want; it was, to my thinking, the most useful thing I could do with my fortune.</p>
+      <p xml:id="plutus-plutus-head-801">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-802">And you were quickly ruined?</p>
+      <p xml:id="plutus-plutus-head-803">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-804">Quite.</p>
+      <p xml:id="plutus-plutus-head-805">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-806">And since then you have been living in misery?</p>
+      <p xml:id="plutus-plutus-head-807">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-808">Quite; I thought I could count, in case of need, upon the friends whose property I had helped, but they turned their backs upon me and pretended not to see me.</p>
+      <p xml:id="plutus-plutus-head-809">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-810">They laughed at you, that's obvious.</p>
+      <p xml:id="plutus-plutus-head-811">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-812">Quite. With my empty coffers, I had no more friends. But my lot has changed, and so I come to the god to make him the acts of gratitude that are his due.</p>
+      <p xml:id="plutus-plutus-head-813">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-814">But why are you bringing this old cloak, which your slave is carrying! Tell me.</p>
+      <p xml:id="plutus-plutus-head-815">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-816">I wish to dedicate it to the god.</p>
+      <p xml:id="plutus-plutus-head-817">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-818">Were you initiated into the Great Mysteries in that cloak?</p>
+      <p xml:id="plutus-plutus-head-819">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-820">No, but I shivered in it for thirteen years.</p>
+      <p xml:id="plutus-plutus-head-821">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-822">And this footwear?</p>
+      <p xml:id="plutus-plutus-head-823">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-824">These also are my winter companions.</p>
+      <p xml:id="plutus-plutus-head-825">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-826">And you wish to dedicate them too?</p>
+      <p xml:id="plutus-plutus-head-827">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-828">Certainly.</p>
+      <p xml:id="plutus-plutus-head-829">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-830">Fine presents to offer to the god! An INFORMER enters, followed by a witness.</p>
+      <p xml:id="plutus-plutus-head-831">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-832">before he sees CARIO Alas! alas! I am a lost man. Ah! thrice, four, five, twelve times, or rather ten thousand times unhappy fate! Why, why must fortune deal me such rough blows?</p>
+      <p xml:id="plutus-plutus-head-833">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-834">Oh, Apollo, my tutelary! oh! ye favourable gods! what has overtaken this man?</p>
+      <p xml:id="plutus-plutus-head-835">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-836">to CARIO Ah! am I not deserving of pity? I have lost everything; this cursed god has stripped me bare. Ah! if there be justice in heaven, he shall be struck blind again,</p>
+      <p xml:id="plutus-plutus-head-837">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-838">I think I know what's the matter. If this man is unfortunate, it's because he's of little account and small honesty; and indeed he looks it too.</p>
+      <p xml:id="plutus-plutus-head-839">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-840">Then, by Zeus! his plight is but just.</p>
+      <p xml:id="plutus-plutus-head-841">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-842">He promised that if he recovered his sight, he would enrich us all unaided; whereas he has ruined more than one.</p>
+      <p xml:id="plutus-plutus-head-843">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-844">But whom has he thus ill-used?</p>
+      <p xml:id="plutus-plutus-head-845">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-846">Me.</p>
+      <p xml:id="plutus-plutus-head-847">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-848">You were doubtless a villainous thief then.</p>
+      <p xml:id="plutus-plutus-head-849">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-850">No, it is rather you yourselves who were such wretches; I am certain you have got my money.</p>
+      <p xml:id="plutus-plutus-head-851">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-852">Ha! by Demeter! an informer! What impudence! He's ravenously hungry, that's certain.</p>
+      <p xml:id="plutus-plutus-head-853">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-854">You shall follow me this very instant to the market-place, where the torture of the wheel shall force the confession of your misdeeds from you.</p>
+      <p xml:id="plutus-plutus-head-855">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-856">with a threatening gesture Watch out, now!</p>
+      <p xml:id="plutus-plutus-head-857">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-858">By Zeus the Deliverer, what gratitude all Greeks owe to Plutus, if he destroys these vile informers!</p>
+      <p xml:id="plutus-plutus-head-859">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-860">You are laughing at me. Well, then I denounce you as their accomplice. Where did you steal that new cloak from? Yesterday I saw you with one utterly worn out.</p>
+      <p xml:id="plutus-plutus-head-861">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-862">I fear you not, thanks to this ring, for which I paid Eudemus a drachma.</p>
+      <p xml:id="plutus-plutus-head-863">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-864">Ah! there's no ring to preserve you from the informer's bite.</p>
+      <p xml:id="plutus-plutus-head-865">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-866">The insolent wretches! But, my fine jokers, you have not told me what you are up to here. Nothing good, I'm sure of that.</p>
+      <p xml:id="plutus-plutus-head-867">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-868">Nothing of any good for you, be sure of that.</p>
+      <p xml:id="plutus-plutus-head-869">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-870">By Zeus! it's at my expense that you are about to dine.</p>
+      <p xml:id="plutus-plutus-head-871">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-872">You and your witness, I hope you both burst...</p>
+      <p xml:id="plutus-plutus-head-873">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-874">With an empty belly.</p>
+      <p xml:id="plutus-plutus-head-875">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-876">You deny it? I reckon, you villains, that there is much salt fish and roast meat in this house. He sniffs elaborately.</p>
+      <p xml:id="plutus-plutus-head-877">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-878">Can you smell anything, rascal?</p>
+      <p xml:id="plutus-plutus-head-879">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-880">The cold, perhaps.</p>
+      <p xml:id="plutus-plutus-head-881">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-882">Can such outrages be home, oh, Zeus! Ye gods! how cruel it is to see me treated thus, when I am such an honest fellow and such a good citizen!</p>
+      <p xml:id="plutus-plutus-head-883">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-884">You an honest man! you a good citizen!</p>
+      <p xml:id="plutus-plutus-head-885">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-886">A better one than any.</p>
+      <p xml:id="plutus-plutus-head-887">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-888">Ah! well then, answer my questions.</p>
+      <p xml:id="plutus-plutus-head-889">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-890">Concerning what?</p>
+      <p xml:id="plutus-plutus-head-891">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-892">Are you a husbandman?</p>
+      <p xml:id="plutus-plutus-head-893">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-894">D'ye take me for a fool?</p>
+      <p xml:id="plutus-plutus-head-895">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-896">A merchant?</p>
+      <p xml:id="plutus-plutus-head-897">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-898">I assume the title, when it serves me.</p>
+      <p xml:id="plutus-plutus-head-899">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-900">Do you ply any trade?</p>
+      <p xml:id="plutus-plutus-head-901">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-902">No, most assuredly not!</p>
+      <p xml:id="plutus-plutus-head-903">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-904">Then how do you live, if you do nothing?</p>
+      <p xml:id="plutus-plutus-head-905">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-906">I superintend public and private business.</p>
+      <p xml:id="plutus-plutus-head-907">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-908">You do? And by what right, pray?</p>
+      <p xml:id="plutus-plutus-head-909">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-910">Because it pleases me to do so.</p>
+      <p xml:id="plutus-plutus-head-911">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-912">Like a thief you sneak yourself in where you have no business. You are hated by all and you claim to be an honest man.</p>
+      <p xml:id="plutus-plutus-head-913">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-914">What, you fool? I have not the right to dedicate myself entirely to my country's service?</p>
+      <p xml:id="plutus-plutus-head-915">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-916">Is the country served by vile intrigue?</p>
+      <p xml:id="plutus-plutus-head-917">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-918">It is served by watching that the established law is observed-by allowing no one to violate it.</p>
+      <p xml:id="plutus-plutus-head-919">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-920">That's the duty of the tribunals; they are established to that end.</p>
+      <p xml:id="plutus-plutus-head-921">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-922">And who is the prosecutor before the dicasts?</p>
+      <p xml:id="plutus-plutus-head-923">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-924">Whoever wishes to be.</p>
+      <p xml:id="plutus-plutus-head-925">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-926">Well then, it is I who choose to be prosecutor; and thus all public affairs fall within my province.</p>
+      <p xml:id="plutus-plutus-head-927">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-928">I pity Athens for being in such vile clutches. But would you not prefer to live quietly and free from all care and anxiety?</p>
+      <p xml:id="plutus-plutus-head-929">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-930">To do nothing is to live an animal's life.</p>
+      <p xml:id="plutus-plutus-head-931">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-932">Thus you will not change your mode of life?</p>
+      <p xml:id="plutus-plutus-head-933">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-934">No, though they gave me Plutus himself and the silphium of Battus.</p>
+      <p xml:id="plutus-plutus-head-935">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-936">to the INFORMER Come, quick, off with your cloak. The INFORMER does not move.</p>
+      <p xml:id="plutus-plutus-head-937">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-938">Hi! friend! it's you they are speaking to.</p>
+      <p xml:id="plutus-plutus-head-939">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-940">Off with your shoes. The INFORMER still remains motionless.</p>
+      <p xml:id="plutus-plutus-head-941">
+        <em>JUST MAN</em>
+      </p>
+      <p xml:id="plutus-plutus-p-942">I say, all this is addressed to you.</p>
+      <p xml:id="plutus-plutus-head-943">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-944">defiantly Very well! let one of you come near me, if he dares.</p>
+      <p xml:id="plutus-plutus-head-945">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-946">I dare. He strips the INFORMER of his cloak and shoes. The witness runs away.</p>
+      <p xml:id="plutus-plutus-head-947">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-948">Alas! I am robbed of my clothes in full daylight.</p>
+      <p xml:id="plutus-plutus-head-949">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-950">That's what comes of meddling with other folk's business and living at their expense.</p>
+      <p xml:id="plutus-plutus-head-951">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-952">over his shoulder to the departing witness You see what is happening; I call you to witness.</p>
+      <p xml:id="plutus-plutus-head-953">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-954">laughing Look how the witness whom you brought is taking to his heels.</p>
+      <p xml:id="plutus-plutus-head-955">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-956">Great gods! I am all alone and they assault me.</p>
+      <p xml:id="plutus-plutus-head-957">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-958">Shout away!</p>
+      <p xml:id="plutus-plutus-head-959">
+        <em>INFORMER</em>
+      </p>
+      <p xml:id="plutus-plutus-p-960">Oh! woe, woe is me!</p>
+      <p xml:id="plutus-plutus-head-961">
+        <em>CARIO</em>
+      </p>
+      <p xml:id="plutus-plutus-p-962">Give me that old ragged cloak, that I may</p>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="aristophanes-plutus-colophon">
+        <p xml:id="aristophanes-plutus-colophon-p-1">Author: Aristophanes</p>
+        <p xml:id="aristophanes-plutus-colophon-p-2">Written: 380 BCE</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>
