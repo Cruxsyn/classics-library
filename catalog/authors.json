@@ -1,0 +1,533 @@
+[
+  {
+    "key": "Aeschines",
+    "name": "Aeschines",
+    "language": "Greek",
+    "dates": "390-314 BCE",
+    "workCount": 3,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Aeschylus",
+    "name": "Aeschylus",
+    "language": "Greek",
+    "dates": "525-456 BCE",
+    "workCount": 7,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Aesop",
+    "name": "Aesop",
+    "language": "Greek",
+    "dates": "6th century BCE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Andocides",
+    "name": "Andocides",
+    "language": "Greek",
+    "dates": "440-391 BCE",
+    "workCount": 4,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Antiphon",
+    "name": "Antiphon",
+    "language": "Greek",
+    "dates": "480-411 BCE",
+    "workCount": 6,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Antoninus",
+    "name": "Marcus Aurelius",
+    "language": "Greek",
+    "dates": "121-180 CE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Apollodorus",
+    "name": "Apollodorus",
+    "language": "Greek",
+    "dates": "140 BCE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Apollonius",
+    "name": "Apollonius",
+    "language": "Greek",
+    "dates": "ca. 295 BCE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Apuleius",
+    "name": "Apuleius",
+    "language": "Latin",
+    "dates": "124 CE-ca. 170 CE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Aristophanes",
+    "name": "Aristophanes",
+    "language": "Greek",
+    "dates": "450-388 BCE",
+    "workCount": 10,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Aristotle",
+    "name": "Aristotle",
+    "language": "Greek",
+    "dates": "384-322 BCE",
+    "workCount": 29,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Augustus",
+    "name": "Augustus",
+    "language": "Latin",
+    "dates": "63 BCE-14 CE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Bacchylides",
+    "name": "Bacchylides",
+    "language": "Greek",
+    "dates": "5th century BCE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Caesar",
+    "name": "Julius Caesar",
+    "language": "Latin",
+    "dates": "100-44 BCE",
+    "workCount": 5,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Carus",
+    "name": "Lucretius",
+    "language": "Latin",
+    "dates": "1st century BCE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Cicero",
+    "name": "Cicero",
+    "language": "Latin",
+    "dates": "106-43 BCE",
+    "workCount": 31,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Confucius",
+    "name": "Confucius",
+    "language": "Chinese",
+    "dates": "551-479 BCE",
+    "workCount": 3,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Demades",
+    "name": "Demades",
+    "language": "Greek",
+    "dates": "380-319 BCE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Demosthenes",
+    "name": "Demosthenes",
+    "language": "Greek",
+    "dates": "384-322 BCE",
+    "workCount": 63,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Dinarchus",
+    "name": "Dinarchus",
+    "language": "Greek",
+    "dates": "360-292 BCE",
+    "workCount": 3,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Diodorus",
+    "name": "Diodorus",
+    "language": "Greek",
+    "dates": "1st century BCE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Epictetus",
+    "name": "Epictetus",
+    "language": "Greek",
+    "dates": "55-105 CE",
+    "workCount": 3,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Epicurus",
+    "name": "Epicurus",
+    "language": "Greek",
+    "dates": "341-270 BCE",
+    "workCount": 2,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Euclid",
+    "name": "Euclid",
+    "language": "Greek",
+    "dates": "ca. 300 BCE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Euripides",
+    "name": "Euripides",
+    "language": "Greek",
+    "dates": "484-406 BCE",
+    "workCount": 19,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Ferdowsi",
+    "name": "Ferdowsi",
+    "language": "Persian",
+    "dates": "935-1020 CE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Galen",
+    "name": "Galen",
+    "language": "Greek",
+    "dates": "129-216 CE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Herodotus",
+    "name": "Herodotus",
+    "language": "Greek",
+    "dates": "484-430 BCE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Hesiod",
+    "name": "Hesiod",
+    "language": "Greek",
+    "dates": "700 BCE",
+    "workCount": 3,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Hippocrates",
+    "name": "Hippocrates",
+    "language": "Greek",
+    "dates": "460-377 BCE",
+    "workCount": 17,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Hirtius",
+    "name": "Hirtius",
+    "language": "Latin",
+    "dates": "90-43 BCE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Homer",
+    "name": "Homer",
+    "language": "Greek",
+    "dates": "800 BCE",
+    "workCount": 3,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Horace",
+    "name": "Horace",
+    "language": "Latin",
+    "dates": "65-8 BCE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Hyperides",
+    "name": "Hyperides",
+    "language": "Greek",
+    "dates": "390-322 BCE",
+    "workCount": 6,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Isaeus",
+    "name": "Isaeus",
+    "language": "Greek",
+    "dates": "420-350 BCE",
+    "workCount": 12,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Isocrates",
+    "name": "Isocrates",
+    "language": "Greek",
+    "dates": "436-338 BCE",
+    "workCount": 22,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Josephus",
+    "name": "Josephus",
+    "language": "Greek",
+    "dates": "37-100 CE",
+    "workCount": 3,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Khayyam",
+    "name": "Omar Khayyam",
+    "language": "Persian",
+    "dates": "1048-1141 CE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Lao",
+    "name": "Lao-tzu",
+    "language": "Chinese",
+    "dates": "6th century BCE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Livy",
+    "name": "Livy",
+    "language": "Latin",
+    "dates": "59 BCE-17 CE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Lucan",
+    "name": "Lucan",
+    "language": "Latin",
+    "dates": "39-65 CE",
+    "workCount": 0,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Lycurgus",
+    "name": "Lycurgus",
+    "language": "Greek",
+    "dates": "390-324 BCE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Lysias",
+    "name": "Lysias",
+    "language": "Greek",
+    "dates": "445-380 BCE",
+    "workCount": 34,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Ovid",
+    "name": "Ovid",
+    "language": "Latin",
+    "dates": "43 BCE-17 CE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Pausanias",
+    "name": "Pausanias",
+    "language": "Greek",
+    "dates": "143-176 CE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Pindar",
+    "name": "Pindar",
+    "language": "Greek",
+    "dates": "518-438 BCE",
+    "workCount": 4,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Plato",
+    "name": "Plato",
+    "language": "Greek",
+    "dates": "428-348 BCE",
+    "workCount": 25,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Plotinus",
+    "name": "Plotinus",
+    "language": "Greek",
+    "dates": "205-270 CE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Plutarch",
+    "name": "Plutarch",
+    "language": "Greek",
+    "dates": "46-119 CE",
+    "workCount": 67,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Porphyry",
+    "name": "Porphyry",
+    "language": "Greek",
+    "dates": "234-305 CE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Quintus",
+    "name": "Quintus",
+    "language": "Greek",
+    "dates": "ca. 375 CE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Sadi",
+    "name": "Sa'di",
+    "language": "Persian",
+    "dates": "1213-1291 CE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Sophocles",
+    "name": "Sophocles",
+    "language": "Greek",
+    "dates": "496-406 BCE",
+    "workCount": 7,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Strabo",
+    "name": "Strabo",
+    "language": "Greek",
+    "dates": "64 BCE-23 CE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Tacitus",
+    "name": "Tacitus",
+    "language": "Latin",
+    "dates": "56-120 CE",
+    "workCount": 2,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Thucydides",
+    "name": "Thucydides",
+    "language": "Greek",
+    "dates": "460-404 BCE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Tzu",
+    "name": "Sun Tzu",
+    "language": "Chinese",
+    "dates": "4th century BCE",
+    "workCount": 1,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Virgil",
+    "name": "Virgil",
+    "language": "Latin",
+    "dates": "70-19 BCE",
+    "workCount": 3,
+    "portrait": null,
+    "blurb": null
+  },
+  {
+    "key": "Xenophon",
+    "name": "Xenophon",
+    "language": "Greek",
+    "dates": "431-349 BCE",
+    "workCount": 14,
+    "portrait": null,
+    "blurb": null
+  }
+]

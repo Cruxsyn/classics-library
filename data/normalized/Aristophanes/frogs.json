@@ -1,0 +1,2869 @@
+{
+  "id": "Aristophanes/frogs",
+  "author": "Aristophanes",
+  "authorKey": "Aristophanes",
+  "title": "The Frogs",
+  "translator": null,
+  "language": "Greek",
+  "written": "405 BCE",
+  "sourceNote": null,
+  "shape": "single",
+  "landingUrl": "https://classics.mit.edu/Aristophanes/frogs.html",
+  "textUrls": [
+    "https://classics.mit.edu/Aristophanes/frogs.html"
+  ],
+  "txtUrl": "https://classics.mit.edu/Aristophanes/frogs.pl.txt",
+  "sections": [
+    {
+      "seq": 1,
+      "id": "frogs-the-frogs",
+      "heading": "The Frogs",
+      "partTitle": "The Frogs",
+      "blocks": [
+        {
+          "type": "verseLine",
+          "text": "Dramatis Personae",
+          "indent": 0,
+          "lineNo": 10
+        },
+        {
+          "type": "verseLine",
+          "text": "XANTHIAS, servant of DIONYSUS",
+          "indent": 0,
+          "lineNo": 11
+        },
+        {
+          "type": "verseLine",
+          "text": "DIONYSUS",
+          "indent": 0,
+          "lineNo": 12
+        },
+        {
+          "type": "verseLine",
+          "text": "HERACLES",
+          "indent": 0,
+          "lineNo": 13
+        },
+        {
+          "type": "verseLine",
+          "text": "A CORPSE",
+          "indent": 0,
+          "lineNo": 14
+        },
+        {
+          "type": "verseLine",
+          "text": "CHARON",
+          "indent": 0,
+          "lineNo": 15
+        },
+        {
+          "type": "verseLine",
+          "text": "AEACUS",
+          "indent": 0,
+          "lineNo": 16
+        },
+        {
+          "type": "verseLine",
+          "text": "A MAID SERVANT OF PERSEPHONE",
+          "indent": 0,
+          "lineNo": 17
+        },
+        {
+          "type": "verseLine",
+          "text": "HOSTESS, keeper of cook-shop",
+          "indent": 0,
+          "lineNo": 18
+        },
+        {
+          "type": "verseLine",
+          "text": "PLATHANE, her partner",
+          "indent": 0,
+          "lineNo": 19
+        },
+        {
+          "type": "verseLine",
+          "text": "EURIPIDES",
+          "indent": 0,
+          "lineNo": 20
+        },
+        {
+          "type": "verseLine",
+          "text": "AESCHYLUS",
+          "indent": 0,
+          "lineNo": 21
+        },
+        {
+          "type": "verseLine",
+          "text": "PLUTO",
+          "indent": 0,
+          "lineNo": 22
+        },
+        {
+          "type": "verseLine",
+          "text": "CHORUS OF FROGS",
+          "indent": 0,
+          "lineNo": 23
+        },
+        {
+          "type": "verseLine",
+          "text": "CHORUS OF BLESSED MYSTICS",
+          "indent": 0,
+          "lineNo": 24
+        },
+        {
+          "type": "verseLine",
+          "text": "Scene The scene shows the house of HERACLES in the background. There enter two travellers: DIONYSUS on foot, in his customary yellow robe and buskins but also with the club and lion's skin of Heracles, and his servant XANTHIAS on a donkey, carrying the luggage on a pole over his shoulder. XANTHIAS",
+          "indent": 0,
+          "lineNo": 25
+        },
+        {
+          "type": "verseLine",
+          "text": "Shall I crack any of those old jokes, master, At which the audience never fail to laugh? DIONYSUS",
+          "indent": 0,
+          "lineNo": 27
+        },
+        {
+          "type": "verseLine",
+          "text": "Aye, what you will, except \"I'm getting crushed\": Fight shy of that: I'm sick of that already. XANTHIAS",
+          "indent": 0,
+          "lineNo": 30
+        },
+        {
+          "type": "verseLine",
+          "text": "Nothing else smart? DIONYSUS",
+          "indent": 0,
+          "lineNo": 34
+        },
+        {
+          "type": "verseLine",
+          "text": "Aye, save \"my shoulder's aching.\" XANTHIAS",
+          "indent": 0,
+          "lineNo": 36
+        },
+        {
+          "type": "verseLine",
+          "text": "Come now, that comical joke? DIONYSUS",
+          "indent": 0,
+          "lineNo": 38
+        },
+        {
+          "type": "verseLine",
+          "text": "With all my heart. Only be careful not to shift your pole, And- XANTHIAS",
+          "indent": 0,
+          "lineNo": 40
+        },
+        {
+          "type": "verseLine",
+          "text": "What? DIONYSUS",
+          "indent": 0,
+          "lineNo": 44
+        },
+        {
+          "type": "verseLine",
+          "text": "And vow that you've a belly-ache. XANTHIAS",
+          "indent": 0,
+          "lineNo": 46
+        },
+        {
+          "type": "verseLine",
+          "text": "May I not say I'm overburdened so That if none ease me, I must ease myself? DIONYSUS",
+          "indent": 0,
+          "lineNo": 48
+        },
+        {
+          "type": "verseLine",
+          "text": "For mercy's sake, not till I'm going to vomit. XANTHIAS",
+          "indent": 0,
+          "lineNo": 51
+        },
+        {
+          "type": "verseLine",
+          "text": "What! must I bear these burdens, and not make One of the jokes Ameipsias and Lycis And Phrynichus, in every play they write, Put in the mouths of their burden-bearers? DIONYSUS",
+          "indent": 0,
+          "lineNo": 53
+        },
+        {
+          "type": "verseLine",
+          "text": "Don't make them; no! I tell you when I see Their plays, and hear those jokes, I come away More than a twelvemonth older than I went. XANTHIAS",
+          "indent": 0,
+          "lineNo": 59
+        },
+        {
+          "type": "verseLine",
+          "text": "O thrice unlucky neck of mine, which now Is getting crushed, yet must not crack its joke! DIONYSUS",
+          "indent": 0,
+          "lineNo": 63
+        },
+        {
+          "type": "verseLine",
+          "text": "Now is not this fine pampered insolence When I myself, Dionysus, son of-Pipkin, Toil on afoot, and let this fellow ride, Taking no trouble, and no burden bearing? XANTHIAS",
+          "indent": 0,
+          "lineNo": 66
+        },
+        {
+          "type": "verseLine",
+          "text": "What, don't I bear? DIONYSUS",
+          "indent": 0,
+          "lineNo": 71
+        },
+        {
+          "type": "verseLine",
+          "text": "How can you when you're riding? XANTHIAS",
+          "indent": 0,
+          "lineNo": 73
+        },
+        {
+          "type": "verseLine",
+          "text": "Why, I bear these. DIONYSUS",
+          "indent": 0,
+          "lineNo": 75
+        },
+        {
+          "type": "verseLine",
+          "text": "How? XANTHIAS",
+          "indent": 0,
+          "lineNo": 77
+        },
+        {
+          "type": "verseLine",
+          "text": "Most unwillingly. DIONYSUS",
+          "indent": 0,
+          "lineNo": 79
+        },
+        {
+          "type": "verseLine",
+          "text": "Does not the donkey bear the load you're bearing? XANTHIAS",
+          "indent": 0,
+          "lineNo": 81
+        },
+        {
+          "type": "verseLine",
+          "text": "Not what I bear myself: by Zeus, not he. DIONYSUS",
+          "indent": 0,
+          "lineNo": 83
+        },
+        {
+          "type": "verseLine",
+          "text": "How can you bear, when you are borne yourself? XANTHIAS",
+          "indent": 0,
+          "lineNo": 85
+        },
+        {
+          "type": "verseLine",
+          "text": "Don't know: but anyhow my shoulder's aching. DIONYSUS",
+          "indent": 0,
+          "lineNo": 87
+        },
+        {
+          "type": "verseLine",
+          "text": "Then since you say the donkey helps you not, You lift him up and carry him in turn. XANTHIAS",
+          "indent": 0,
+          "lineNo": 89
+        },
+        {
+          "type": "verseLine",
+          "text": "O hang it all! why didn't I fight at sea? You should have smarted bitterly for this. DIONYSUS",
+          "indent": 0,
+          "lineNo": 93
+        },
+        {
+          "type": "verseLine",
+          "text": "Get down, you rascal; I've been trudging on Till now I've reached the portal, where I'm going First to turn in. Boy! Boy! I say there, Boy! Enter HERACLES from house. HERACLES",
+          "indent": 0,
+          "lineNo": 96
+        },
+        {
+          "type": "verseLine",
+          "text": "Who banged the door? How like prancing Centaur He drove against it Mercy o' me, what's this? DIONYSUS",
+          "indent": 0,
+          "lineNo": 102
+        },
+        {
+          "type": "verseLine",
+          "text": "Boy. XANTHIAS",
+          "indent": 0,
+          "lineNo": 105
+        },
+        {
+          "type": "verseLine",
+          "text": "Yes. DIONYSUS",
+          "indent": 0,
+          "lineNo": 107
+        },
+        {
+          "type": "verseLine",
+          "text": "Did you observe? XANTHIAS",
+          "indent": 0,
+          "lineNo": 109
+        },
+        {
+          "type": "verseLine",
+          "text": "What? DIONYSUS",
+          "indent": 0,
+          "lineNo": 111
+        },
+        {
+          "type": "verseLine",
+          "text": "How alarmed he is. XANTHIAS",
+          "indent": 0,
+          "lineNo": 113
+        },
+        {
+          "type": "verseLine",
+          "text": "Aye truly, lest you've lost your wits. HERACLES",
+          "indent": 0,
+          "lineNo": 115
+        },
+        {
+          "type": "verseLine",
+          "text": "O by Demeter, I can't choose but laugh. Biting my lips won't stop me. Ha! ha! ha! DIONYSUS",
+          "indent": 0,
+          "lineNo": 117
+        },
+        {
+          "type": "verseLine",
+          "text": "Pray you, come hither, I have need of you. HERACLES",
+          "indent": 0,
+          "lineNo": 120
+        },
+        {
+          "type": "verseLine",
+          "text": "I vow I can't help laughing, I can't help it. A lion's hide upon a yellow silk, A club and buskin! What's it all about? Where were you going? DIONYSUS",
+          "indent": 0,
+          "lineNo": 122
+        },
+        {
+          "type": "verseLine",
+          "text": "I was serving lately Aboard the-Cleisthenes. More than a dozen of the enemy's ships. HERACLES",
+          "indent": 0,
+          "lineNo": 128
+        },
+        {
+          "type": "verseLine",
+          "text": "You two? DIONYSUS",
+          "indent": 0,
+          "lineNo": 132
+        },
+        {
+          "type": "verseLine",
+          "text": "We two. HERACLES",
+          "indent": 0,
+          "lineNo": 134
+        },
+        {
+          "type": "verseLine",
+          "text": "And then I awoke, and lo! DIONYSUS",
+          "indent": 0,
+          "lineNo": 136
+        },
+        {
+          "type": "verseLine",
+          "text": "There as, on deck, I'm reading to myself The Andromeda, a sudden pang of longing. Shoots through my heart, you can't conceive how keenly. HERACLES",
+          "indent": 0,
+          "lineNo": 138
+        },
+        {
+          "type": "verseLine",
+          "text": "How big a pang? DIONYSUS",
+          "indent": 0,
+          "lineNo": 142
+        },
+        {
+          "type": "verseLine",
+          "text": "A small one, Molon's size. HERACLES",
+          "indent": 0,
+          "lineNo": 144
+        },
+        {
+          "type": "verseLine",
+          "text": "Caused by a woman? DIONYSUS",
+          "indent": 0,
+          "lineNo": 146
+        },
+        {
+          "type": "verseLine",
+          "text": "No. HERACLES",
+          "indent": 0,
+          "lineNo": 148
+        },
+        {
+          "type": "verseLine",
+          "text": "A boy? DIONYSUS",
+          "indent": 0,
+          "lineNo": 150
+        },
+        {
+          "type": "verseLine",
+          "text": "No, no. HERACLES",
+          "indent": 0,
+          "lineNo": 152
+        },
+        {
+          "type": "verseLine",
+          "text": "A man? DIONYSUS",
+          "indent": 0,
+          "lineNo": 154
+        },
+        {
+          "type": "verseLine",
+          "text": "Ah! ah! HERACLES",
+          "indent": 0,
+          "lineNo": 156
+        },
+        {
+          "type": "verseLine",
+          "text": "Was it for Cleisthenes? DIONYSUS",
+          "indent": 0,
+          "lineNo": 158
+        },
+        {
+          "type": "verseLine",
+          "text": "Don't mock me, brother: on my life I am In a bad way: such fierce desire consumes me. HERACLES",
+          "indent": 0,
+          "lineNo": 160
+        },
+        {
+          "type": "verseLine",
+          "text": "Aye, little brother? how? DIONYSUS",
+          "indent": 0,
+          "lineNo": 163
+        },
+        {
+          "type": "verseLine",
+          "text": "I can't describe it. But yet I'll tell you in a riddling way. Have you e'er felt a sudden lust for soup? HERACLES",
+          "indent": 0,
+          "lineNo": 165
+        },
+        {
+          "type": "verseLine",
+          "text": "Soup! Zeus-a-mercy, yes, ten thousand times. DIONYSUS",
+          "indent": 0,
+          "lineNo": 169
+        },
+        {
+          "type": "verseLine",
+          "text": "Is the thing clear, or must I speak again? HERACLES",
+          "indent": 0,
+          "lineNo": 171
+        },
+        {
+          "type": "verseLine",
+          "text": "Not of the soup: I'm clear about the soup. DIONYSUS",
+          "indent": 0,
+          "lineNo": 173
+        },
+        {
+          "type": "verseLine",
+          "text": "Well, just that sort of pang devours my heart For lost Euripides. HERACLES",
+          "indent": 0,
+          "lineNo": 175
+        },
+        {
+          "type": "verseLine",
+          "text": "A dead man too. DIONYSUS",
+          "indent": 0,
+          "lineNo": 179
+        },
+        {
+          "type": "verseLine",
+          "text": "And no one shall persuade me not to go After the man. HERACLES",
+          "indent": 0,
+          "lineNo": 181
+        },
+        {
+          "type": "verseLine",
+          "text": "Do you mean below, to Hades? DIONYSUS",
+          "indent": 0,
+          "lineNo": 184
+        },
+        {
+          "type": "verseLine",
+          "text": "And lower still, if there's a lower still. HERACLES",
+          "indent": 0,
+          "lineNo": 186
+        },
+        {
+          "type": "verseLine",
+          "text": "What on earth for? DIONYSUS",
+          "indent": 0,
+          "lineNo": 188
+        },
+        {
+          "type": "verseLine",
+          "text": "I want a genuine poet, \"For some are not, and those that are, are bad.\" HERACLES",
+          "indent": 0,
+          "lineNo": 190
+        },
+        {
+          "type": "verseLine",
+          "text": "What! does not Iophon live? DIONYSUS",
+          "indent": 0,
+          "lineNo": 193
+        },
+        {
+          "type": "verseLine",
+          "text": "Well, he's the sole Good thing remaining, if even he is good. For even of that I'm not exactly certain. HERACLES",
+          "indent": 0,
+          "lineNo": 195
+        },
+        {
+          "type": "verseLine",
+          "text": "If go you must, there's Sophocles-he comes Before Euripides-why not take him? DIONYSUS",
+          "indent": 0,
+          "lineNo": 199
+        },
+        {
+          "type": "verseLine",
+          "text": "Not till I've tried if Iophon's coin rings true When he's alone, apart from Sophocles. Besides, Euripides, the crafty rogue, Will find a thousand shifts to get away, But he was easy here, is easy there. HERACLES",
+          "indent": 0,
+          "lineNo": 202
+        },
+        {
+          "type": "verseLine",
+          "text": "But Agathon, where is he? DIONYSUS",
+          "indent": 0,
+          "lineNo": 209
+        },
+        {
+          "type": "verseLine",
+          "text": "He has gone and left us. A genial poet, by his friends much missed. HERACLES",
+          "indent": 0,
+          "lineNo": 211
+        },
+        {
+          "type": "verseLine",
+          "text": "Gone where? DIONYSUS",
+          "indent": 0,
+          "lineNo": 214
+        },
+        {
+          "type": "verseLine",
+          "text": "To join the blessed in their banquets. HERACLES",
+          "indent": 0,
+          "lineNo": 216
+        },
+        {
+          "type": "verseLine",
+          "text": "But what of Xenocles? DIONYSUS",
+          "indent": 0,
+          "lineNo": 218
+        },
+        {
+          "type": "verseLine",
+          "text": "O he be hanged! HERACLES",
+          "indent": 0,
+          "lineNo": 220
+        },
+        {
+          "type": "verseLine",
+          "text": "Pythangelus? XANTHIAS",
+          "indent": 0,
+          "lineNo": 222
+        },
+        {
+          "type": "verseLine",
+          "text": "But never a word of me, Not though my shoulder's chafed so terribly. HERACLES But have you not a shoal of little songsters, Tragedians by the myriad, who can chatter A furlong faster than Euripides? DIONYSUS",
+          "indent": 0,
+          "lineNo": 224
+        },
+        {
+          "type": "verseLine",
+          "text": "Those be mere vintage-leavings, jabberers, choirs Of swallow-broods, degraders of their art, Who get one chorus, and are seen no more, The Muses' love once gained. But O, my friend, Search where you will, you'll never find a true Creative genius, uttering startling things. HERACLES",
+          "indent": 0,
+          "lineNo": 230
+        },
+        {
+          "type": "verseLine",
+          "text": "Creative? how do you mean? Who'll dare some novel venturesome conceit, \"Air, Zeus's chamber,\" or \"Time's foot,\" or this, \"'Twas not my mind that swore: my tongue committed A little perjury on its own account.\" HERACLES",
+          "indent": 0,
+          "lineNo": 238
+        },
+        {
+          "type": "verseLine",
+          "text": "You like that style? DIONYSUS",
+          "indent": 0,
+          "lineNo": 244
+        },
+        {
+          "type": "verseLine",
+          "text": "Like it? I dote upon it. HERACLES",
+          "indent": 0,
+          "lineNo": 246
+        },
+        {
+          "type": "verseLine",
+          "text": "I vow its ribald nonsense, and you know it. DIONYSUS",
+          "indent": 0,
+          "lineNo": 248
+        },
+        {
+          "type": "verseLine",
+          "text": "\"Rule not my mind\": you've got a house to mind. HERACLES",
+          "indent": 0,
+          "lineNo": 250
+        },
+        {
+          "type": "verseLine",
+          "text": "Really and truly though 'tis paltry stuff. DIONYSUS",
+          "indent": 0,
+          "lineNo": 252
+        },
+        {
+          "type": "verseLine",
+          "text": "Teach me to dine! XANTHIAS",
+          "indent": 0,
+          "lineNo": 254
+        },
+        {
+          "type": "verseLine",
+          "text": "But never a word of me. DIONYSUS",
+          "indent": 0,
+          "lineNo": 256
+        },
+        {
+          "type": "verseLine",
+          "text": "But tell me truly-'twas for this I came Dressed up to mimic you-what friends received And entertained you when you went below To bring back Cerberus, in case I need them. And tell me too the havens, fountains, shops, Roads, resting-places, stews, refreshment-rooms, Towns, lodgings, hostesses, with whom were found The fewest bugs. XANTHIAS",
+          "indent": 0,
+          "lineNo": 258
+        },
+        {
+          "type": "verseLine",
+          "text": "But never a word of me. HERACLES",
+          "indent": 0,
+          "lineNo": 267
+        },
+        {
+          "type": "verseLine",
+          "text": "You are really game to go? DIONYSUS",
+          "indent": 0,
+          "lineNo": 269
+        },
+        {
+          "type": "verseLine",
+          "text": "O drop that, can't you? And tell me this: of all the roads you know Which is the quickest way to get to Hades? I want one not too warm, nor yet too cold. HERACLES",
+          "indent": 0,
+          "lineNo": 271
+        },
+        {
+          "type": "verseLine",
+          "text": "Which shall I tell you first? which shall it be? There's one by rope and bench: you launch away And-hang yourself. DIONYSUS",
+          "indent": 0,
+          "lineNo": 276
+        },
+        {
+          "type": "verseLine",
+          "text": "No thank you: that's too stifling. HERACLES",
+          "indent": 0,
+          "lineNo": 281
+        },
+        {
+          "type": "verseLine",
+          "text": "Then there's a track, a short and beaten cut, By pestle and mortar. DIONYSUS",
+          "indent": 0,
+          "lineNo": 283
+        },
+        {
+          "type": "verseLine",
+          "text": "Hemlock, do you mean? HERACLES",
+          "indent": 0,
+          "lineNo": 287
+        },
+        {
+          "type": "verseLine",
+          "text": "Just so. DIONYSUS",
+          "indent": 0,
+          "lineNo": 289
+        },
+        {
+          "type": "verseLine",
+          "text": "No, that's too deathly cold a way; You have hardly started ere your shins get numbed. HERACLES",
+          "indent": 0,
+          "lineNo": 291
+        },
+        {
+          "type": "verseLine",
+          "text": "Well, would you like a steep and swift descent? DIONYSUS",
+          "indent": 0,
+          "lineNo": 294
+        },
+        {
+          "type": "verseLine",
+          "text": "Aye, that's the style: my walking powers are small. HERACLES",
+          "indent": 0,
+          "lineNo": 296
+        },
+        {
+          "type": "verseLine",
+          "text": "Go down to the Cerameicus. DIONYSUS",
+          "indent": 0,
+          "lineNo": 298
+        },
+        {
+          "type": "verseLine",
+          "text": "And do what? HERACLES",
+          "indent": 0,
+          "lineNo": 300
+        },
+        {
+          "type": "verseLine",
+          "text": "Climb to the tower's top pinnacle- DIONYSUS",
+          "indent": 0,
+          "lineNo": 302
+        },
+        {
+          "type": "verseLine",
+          "text": "And then? HERACLES",
+          "indent": 0,
+          "lineNo": 304
+        },
+        {
+          "type": "verseLine",
+          "text": "Observe the torch-race started, and when all The multitude is shouting \"Let them go,\" Let yourself go. DIONYSUS",
+          "indent": 0,
+          "lineNo": 306
+        },
+        {
+          "type": "verseLine",
+          "text": "Go! whither? HERACLES",
+          "indent": 0,
+          "lineNo": 311
+        },
+        {
+          "type": "verseLine",
+          "text": "To the ground. DIONYSUS",
+          "indent": 0,
+          "lineNo": 313
+        },
+        {
+          "type": "verseLine",
+          "text": "And lose, forsooth, two envelopes of brain. I'll not try that. HERACLES",
+          "indent": 0,
+          "lineNo": 315
+        },
+        {
+          "type": "verseLine",
+          "text": "Which will you try? DIONYSUS",
+          "indent": 0,
+          "lineNo": 318
+        },
+        {
+          "type": "verseLine",
+          "text": "The way You went yourself. HERACLES",
+          "indent": 0,
+          "lineNo": 320
+        },
+        {
+          "type": "verseLine",
+          "text": "A parlous voyage that, For first you'll come to an enormous lake Of fathomless depth. DIONYSUS",
+          "indent": 0,
+          "lineNo": 323
+        },
+        {
+          "type": "verseLine",
+          "text": "And how am I to cross? HERACLES",
+          "indent": 0,
+          "lineNo": 327
+        },
+        {
+          "type": "verseLine",
+          "text": "An ancient mariner will row you over In a wee boat, so big. The fare's two obols. DIONYSUS",
+          "indent": 0,
+          "lineNo": 329
+        },
+        {
+          "type": "verseLine",
+          "text": "Fie! The power two obols have, the whole world through! How came they thither! HERACLES",
+          "indent": 0,
+          "lineNo": 332
+        },
+        {
+          "type": "verseLine",
+          "text": "Theseus took them down. And next you'll see great snakes and savage monsters In tens of thousands. DIONYSUS",
+          "indent": 0,
+          "lineNo": 336
+        },
+        {
+          "type": "verseLine",
+          "text": "You needn't try to scare me, I'm going to go. HERACLES",
+          "indent": 0,
+          "lineNo": 340
+        },
+        {
+          "type": "verseLine",
+          "text": "Then weltering seas of filth And ever-rippling dung: and plunged therein, Whoso has wronged the stranger here on earth, Or robbed his boylove of the promised pay, Or swinged his mother, or profanely smitten His father's check, or sworn an oath forsworn, Or copied out a speech of Morsimus. DIONYSUS",
+          "indent": 0,
+          "lineNo": 343
+        },
+        {
+          "type": "verseLine",
+          "text": "There too, perdie, should he be plunged, whoe'er Has danced the sword-dance of Cinesias. HERACLES",
+          "indent": 0,
+          "lineNo": 351
+        },
+        {
+          "type": "verseLine",
+          "text": "And next the breath of flutes will float around you, And glorious sunshine, such as ours, you'll see, And myrtle groves, and happy bands who clap Their hands in triumph, men and women too. DIONYSUS",
+          "indent": 0,
+          "lineNo": 355
+        },
+        {
+          "type": "verseLine",
+          "text": "And who are they? HERACLES",
+          "indent": 0,
+          "lineNo": 361
+        },
+        {
+          "type": "verseLine",
+          "text": "The happy mystic bands, XANTHIAS",
+          "indent": 0,
+          "lineNo": 363
+        },
+        {
+          "type": "verseLine",
+          "text": "And I'm the donkey in the mystery show. But I'll not stand it, not one instant longer. HERACLES",
+          "indent": 0,
+          "lineNo": 365
+        },
+        {
+          "type": "verseLine",
+          "text": "Who'll tell you everything you want to know. You'll find them dwelling close beside the road You are going to travel, just at Pluto's gate. And fare thee well, my brother. DIONYSUS",
+          "indent": 0,
+          "lineNo": 368
+        },
+        {
+          "type": "verseLine",
+          "text": "And to you Good cheer. Exit HERACLES. Now sirrah, pick you up the traps. XANTHIAS",
+          "indent": 0,
+          "lineNo": 373
+        },
+        {
+          "type": "verseLine",
+          "text": "Before I've put them down? DIONYSUS",
+          "indent": 0,
+          "lineNo": 377
+        },
+        {
+          "type": "verseLine",
+          "text": "And quickly too. XANTHIAS",
+          "indent": 0,
+          "lineNo": 379
+        },
+        {
+          "type": "verseLine",
+          "text": "No, prithee, no: but hire a body, one They're carrying out, on purpose for the trip. DIONYSUS",
+          "indent": 0,
+          "lineNo": 381
+        },
+        {
+          "type": "verseLine",
+          "text": "If I can't find one? XANTHIAS",
+          "indent": 0,
+          "lineNo": 384
+        },
+        {
+          "type": "verseLine",
+          "text": "Then I'll take them. DIONYSUS",
+          "indent": 0,
+          "lineNo": 386
+        },
+        {
+          "type": "verseLine",
+          "text": "Good. And see they are carrying out a body now. Here a CORPSE, wrapped in its grave-clothes, and lying on a bier, is carried across the stage. Hallo! you there, you deadman, are you willing To carry down our little traps to Hades? CORPSE",
+          "indent": 0,
+          "lineNo": 388
+        },
+        {
+          "type": "verseLine",
+          "text": "What are they? DIONYSUS",
+          "indent": 0,
+          "lineNo": 395
+        },
+        {
+          "type": "verseLine",
+          "text": "These. CORPSE",
+          "indent": 0,
+          "lineNo": 397
+        },
+        {
+          "type": "verseLine",
+          "text": "Two drachmas for the job? DIONYSUS",
+          "indent": 0,
+          "lineNo": 399
+        },
+        {
+          "type": "verseLine",
+          "text": "Nay, that's too much. CORPSE",
+          "indent": 0,
+          "lineNo": 401
+        },
+        {
+          "type": "verseLine",
+          "text": "Out of the pathway, you! DIONYSUS",
+          "indent": 0,
+          "lineNo": 403
+        },
+        {
+          "type": "verseLine",
+          "text": "Beshrew thee, stop: may-be we'll strike a bargain. CORPSE",
+          "indent": 0,
+          "lineNo": 405
+        },
+        {
+          "type": "verseLine",
+          "text": "Pay me two drachmas, or it's no use talking. DIONYSUS",
+          "indent": 0,
+          "lineNo": 407
+        },
+        {
+          "type": "verseLine",
+          "text": "One and a half. CORPSE",
+          "indent": 0,
+          "lineNo": 409
+        },
+        {
+          "type": "verseLine",
+          "text": "I'd liefer live again I XANTHIAS",
+          "indent": 0,
+          "lineNo": 411
+        },
+        {
+          "type": "verseLine",
+          "text": "How absolute the knave is! He be hanged! I'll go myself. DIONYSUS",
+          "indent": 0,
+          "lineNo": 413
+        },
+        {
+          "type": "verseLine",
+          "text": "You're the right sort, my man. Now to the ferry. Enter CHARON. CHARON",
+          "indent": 0,
+          "lineNo": 416
+        },
+        {
+          "type": "verseLine",
+          "text": "Yoh, up! lay her to. XANTHIAS",
+          "indent": 0,
+          "lineNo": 420
+        },
+        {
+          "type": "verseLine",
+          "text": "Whatever's that? DIONYSUS",
+          "indent": 0,
+          "lineNo": 422
+        },
+        {
+          "type": "verseLine",
+          "text": "Why, that's the lake, by Zeus, Whereof he spake, and yon's the ferry-boat. XANTHIAS",
+          "indent": 0,
+          "lineNo": 424
+        },
+        {
+          "type": "verseLine",
+          "text": "Poseidon, yes, and that old fellow's Charon. DIONYSUS",
+          "indent": 0,
+          "lineNo": 427
+        },
+        {
+          "type": "verseLine",
+          "text": "Charon! O welcome, Charon! welcome, Charon! CHARON",
+          "indent": 0,
+          "lineNo": 429
+        },
+        {
+          "type": "verseLine",
+          "text": "Who's for the Rest from every pain and ill? Who's for the Lethe's plain? the Donkey-shearings? Who's for Cerberia? Taenarum? or the Ravens? DIONYSUS",
+          "indent": 0,
+          "lineNo": 431
+        },
+        {
+          "type": "verseLine",
+          "text": "I. CHARON",
+          "indent": 0,
+          "lineNo": 435
+        },
+        {
+          "type": "verseLine",
+          "text": "Hurry in. DIONYSUS",
+          "indent": 0,
+          "lineNo": 437
+        },
+        {
+          "type": "verseLine",
+          "text": "But where are you going really? In truth to the Ravens? CHARON",
+          "indent": 0,
+          "lineNo": 439
+        },
+        {
+          "type": "verseLine",
+          "text": "Aye, for your behoof. Step in. DIONYSUS",
+          "indent": 0,
+          "lineNo": 442
+        },
+        {
+          "type": "verseLine",
+          "text": "to XANTHIAS Now, lad. CHARON",
+          "indent": 0,
+          "lineNo": 444
+        },
+        {
+          "type": "verseLine",
+          "text": "A slave? I take no slave, Unless he has fought for his bodyrights at sea. XANTHIAS",
+          "indent": 0,
+          "lineNo": 447
+        },
+        {
+          "type": "verseLine",
+          "text": "I couldn't go. I'd got the eye-disease. CHARON",
+          "indent": 0,
+          "lineNo": 450
+        },
+        {
+          "type": "verseLine",
+          "text": "Then fetch a circuit round about the lake. XANTHIAS",
+          "indent": 0,
+          "lineNo": 452
+        },
+        {
+          "type": "verseLine",
+          "text": "Where must I wait? CHARON",
+          "indent": 0,
+          "lineNo": 454
+        },
+        {
+          "type": "verseLine",
+          "text": "Beside the Withering stone, Hard by the Rest. DIONYSUS",
+          "indent": 0,
+          "lineNo": 456
+        },
+        {
+          "type": "verseLine",
+          "text": "You understand? XANTHIAS",
+          "indent": 0,
+          "lineNo": 458
+        },
+        {
+          "type": "verseLine",
+          "text": "Too well. O, what ill omen crossed me as I started! Exit. CHARON",
+          "indent": 0,
+          "lineNo": 460
+        },
+        {
+          "type": "verseLine",
+          "text": "to DIONYSUS Sit to the oar. calling Who else for the boat? Be quick. to DIONYSUS Hi! what are you doing? DIONYSUS",
+          "indent": 0,
+          "lineNo": 463
+        },
+        {
+          "type": "verseLine",
+          "text": "What am I doing? Sitting On to the oar. You told me to, yourself CHARON",
+          "indent": 0,
+          "lineNo": 470
+        },
+        {
+          "type": "verseLine",
+          "text": "Now sit you there, you little Potgut. DIONYSUS",
+          "indent": 0,
+          "lineNo": 473
+        },
+        {
+          "type": "verseLine",
+          "text": "Now stretch your arms full length before you. CHARON",
+          "indent": 0,
+          "lineNo": 475
+        },
+        {
+          "type": "verseLine",
+          "text": "Come, don't keep fooling; plant your feet, Pull with a will. DIONYSUS",
+          "indent": 0,
+          "lineNo": 477
+        },
+        {
+          "type": "verseLine",
+          "text": "Why, how am I to pull? I'm not an oarsman, seaman, Salaminian. I can't. CHARON",
+          "indent": 0,
+          "lineNo": 479
+        },
+        {
+          "type": "verseLine",
+          "text": "You can. Just dip your oar in once, You'll hear the loveliest timing songs. DIONYSUS",
+          "indent": 0,
+          "lineNo": 482
+        },
+        {
+          "type": "verseLine",
+          "text": "What from? CHARON",
+          "indent": 0,
+          "lineNo": 485
+        },
+        {
+          "type": "verseLine",
+          "text": "Frog-swans, most wonderful. DIONYSUS",
+          "indent": 0,
+          "lineNo": 487
+        },
+        {
+          "type": "verseLine",
+          "text": "Then give the word. CHARON",
+          "indent": 0,
+          "lineNo": 489
+        },
+        {
+          "type": "verseLine",
+          "text": "Heave ahoy! heave ahoy I FROGS",
+          "indent": 0,
+          "lineNo": 491
+        },
+        {
+          "type": "verseLine",
+          "text": "off stage Brekekekex, ko-ax, ko-ax, Brekekekex, ko-ax, ko-ax! We children of the fountain and the lake Let us wake Our full choir-shout, as the flutes are ringing out, Our symphony of clear-voiced song. The song we used to love in the Marshland up above, In praise of Dionysus to produce, Of Nysaean Dionysus, son of Zeus, When the revel-tipsy throng, all crapulous and gay, To our precinct reeled along on the holy Pitcher day, Brekekekex, ko-ax, ko-ax. DIONYSUS",
+          "indent": 0,
+          "lineNo": 493
+        },
+        {
+          "type": "verseLine",
+          "text": "O, dear! O, dear! now I declare I've got a bump upon my rump, FROGS",
+          "indent": 0,
+          "lineNo": 509
+        },
+        {
+          "type": "verseLine",
+          "text": "Brekekekex, ko-ax, ko-ax. DIONYSUS",
+          "indent": 0,
+          "lineNo": 512
+        },
+        {
+          "type": "verseLine",
+          "text": "But you, perchance, don't care. FROGS",
+          "indent": 0,
+          "lineNo": 514
+        },
+        {
+          "type": "verseLine",
+          "text": "Brekekekex, ko-ax, ko-ax. DIONYSUS",
+          "indent": 0,
+          "lineNo": 516
+        },
+        {
+          "type": "verseLine",
+          "text": "Hang you, and your ko-axing tool There's nothing but ko-ax with you. FROGS",
+          "indent": 0,
+          "lineNo": 518
+        },
+        {
+          "type": "verseLine",
+          "text": "That is right, Mr. Busybody, right! For the Muses of the lyre love us well; And hornfoot Pan who plays on the pipe his jocund lays; And Apollo, Harper bright, in our Chorus takes delight; For the strong reed's sake which I grow within my lake To be girdled in his lyre's deep shell. Brekekekex, ko-ax, ko-ax. DIONYSUS",
+          "indent": 0,
+          "lineNo": 521
+        },
+        {
+          "type": "verseLine",
+          "text": "My hands are blistered very sore; My stern below is sweltering so, 'Twill soon, I know, upturn and roar Brekekekex, ko-ax, ko-ax. O tuneful race, O pray give o'er, O sing no more. FROGS",
+          "indent": 0,
+          "lineNo": 531
+        },
+        {
+          "type": "verseLine",
+          "text": "Ah, no! ah, no! Loud and louder our chant must flow. Sing if ever ye sang of yore, When in sunny and glorious days Through the rushes and marsh-flags springing On we swept, in the joy of singing Myriad-diving roundelays. Or when fleeing the storm, we went Down to the depths, and our choral song Wildly raised to a loud and long Bubble-bursting accompaniment. FROGS AND DIONYSUS",
+          "indent": 0,
+          "lineNo": 538
+        },
+        {
+          "type": "verseLine",
+          "text": "Brekekekex, ko-ax, ko-ax. DIONYSUS",
+          "indent": 0,
+          "lineNo": 550
+        },
+        {
+          "type": "verseLine",
+          "text": "This timing song I take from you. FROGS",
+          "indent": 0,
+          "lineNo": 552
+        },
+        {
+          "type": "verseLine",
+          "text": "That's a dreadful thing to do. DIONYSUS",
+          "indent": 0,
+          "lineNo": 554
+        },
+        {
+          "type": "verseLine",
+          "text": "Much more dreadful, if I row Till I burst myself, I trow. FROGS AND DIONYSUS",
+          "indent": 0,
+          "lineNo": 556
+        },
+        {
+          "type": "verseLine",
+          "text": "Brekekekex, ko-ax, ko-ax. DIONYSUS",
+          "indent": 0,
+          "lineNo": 559
+        },
+        {
+          "type": "verseLine",
+          "text": "Go, hang yourselves; for what care I? FROGS",
+          "indent": 0,
+          "lineNo": 561
+        },
+        {
+          "type": "verseLine",
+          "text": "All the same we'll shout and cry, Stretching all our throats with song, Shouting, crying, all day long, FROGS AND DIONYSUS",
+          "indent": 0,
+          "lineNo": 563
+        },
+        {
+          "type": "verseLine",
+          "text": "Brekekekex, ko-ax, ko-ax. DIONYSUS",
+          "indent": 0,
+          "lineNo": 567
+        },
+        {
+          "type": "verseLine",
+          "text": "In this you'll never, never win. FROGS",
+          "indent": 0,
+          "lineNo": 569
+        },
+        {
+          "type": "verseLine",
+          "text": "This you shall not beat us in. DIONYSUS",
+          "indent": 0,
+          "lineNo": 571
+        },
+        {
+          "type": "verseLine",
+          "text": "No, nor ye prevail o'er me. Never! never! I'll my song, Shout, if need be, all day Yong, Until I've learned to master your ko-ax. Brekekekex, ko-ax, ko-ax. I thought I'd put a stop to your ko-ax. CHARON",
+          "indent": 0,
+          "lineNo": 573
+        },
+        {
+          "type": "verseLine",
+          "text": "Stop! Easy! Take the oar and push her to. Now pay your fare and go. DIONYSUS",
+          "indent": 0,
+          "lineNo": 580
+        },
+        {
+          "type": "verseLine",
+          "text": "Here' tis: two obols. Xanthias! where's Xanthias? Is it Xanthias there? XANTHIAS",
+          "indent": 0,
+          "lineNo": 583
+        },
+        {
+          "type": "verseLine",
+          "text": "off stage Hoi, hoi! DIONYSUS",
+          "indent": 0,
+          "lineNo": 586
+        },
+        {
+          "type": "verseLine",
+          "text": "Come hither. XANTHIAS",
+          "indent": 0,
+          "lineNo": 589
+        },
+        {
+          "type": "verseLine",
+          "text": "Entering Glad to meet you, master. DIONYSUS",
+          "indent": 0,
+          "lineNo": 591
+        },
+        {
+          "type": "verseLine",
+          "text": "What have you there? XANTHIAS",
+          "indent": 0,
+          "lineNo": 594
+        },
+        {
+          "type": "verseLine",
+          "text": "Nothing but filth and darkness. DIONYSUS",
+          "indent": 0,
+          "lineNo": 596
+        },
+        {
+          "type": "verseLine",
+          "text": "But tell me, did you see the parricides And perjured folk he mentioned? XANTHIAS",
+          "indent": 0,
+          "lineNo": 598
+        },
+        {
+          "type": "verseLine",
+          "text": "Didn't you? DIONYSUS",
+          "indent": 0,
+          "lineNo": 601
+        },
+        {
+          "type": "verseLine",
+          "text": "Poseidon, yes. Why look! pointing to the audience I see them now. What's the next step? XANTHIAS",
+          "indent": 0,
+          "lineNo": 603
+        },
+        {
+          "type": "verseLine",
+          "text": "We'd best be moving on. This is the spot where Heracles declared Those savage monsters dwell. DIONYSUS",
+          "indent": 0,
+          "lineNo": 608
+        },
+        {
+          "type": "verseLine",
+          "text": "O hang the fellow. That's all his bluff: he thought to scare me off, The jealous dog, knowing my plucky ways. There's no such swaggerer lives as Heracles. Why, I'd like nothing better than to achieve Some bold adventure, worthy of our trip. XANTHIAS",
+          "indent": 0,
+          "lineNo": 612
+        },
+        {
+          "type": "verseLine",
+          "text": "I know you would. Hallo! I hear a noise. DIONYSUS",
+          "indent": 0,
+          "lineNo": 619
+        },
+        {
+          "type": "verseLine",
+          "text": "Where? what? XANTHIAS",
+          "indent": 0,
+          "lineNo": 621
+        },
+        {
+          "type": "verseLine",
+          "text": "Behind us, there. DIONYSUS",
+          "indent": 0,
+          "lineNo": 623
+        },
+        {
+          "type": "verseLine",
+          "text": "Get you behind. XANTHIAS",
+          "indent": 0,
+          "lineNo": 625
+        },
+        {
+          "type": "verseLine",
+          "text": "No, it's in front. DIONYSUS",
+          "indent": 0,
+          "lineNo": 627
+        },
+        {
+          "type": "verseLine",
+          "text": "Get you in front directly. XANTHIAS",
+          "indent": 0,
+          "lineNo": 629
+        },
+        {
+          "type": "verseLine",
+          "text": "And now I see the most ferocious monster. DIONYSUS",
+          "indent": 0,
+          "lineNo": 631
+        },
+        {
+          "type": "verseLine",
+          "text": "O, what's it like? XANTHIAS",
+          "indent": 0,
+          "lineNo": 633
+        },
+        {
+          "type": "verseLine",
+          "text": "Like everything by turns. Now it's a bull: now it's a mule: and now The loveliest girl. DIONYSUS",
+          "indent": 0,
+          "lineNo": 635
+        },
+        {
+          "type": "verseLine",
+          "text": "O, where? I'll go and meet her. XANTHIAS",
+          "indent": 0,
+          "lineNo": 639
+        },
+        {
+          "type": "verseLine",
+          "text": "It's ceased to be a girl: it's a dog now. DIONYSUS",
+          "indent": 0,
+          "lineNo": 641
+        },
+        {
+          "type": "verseLine",
+          "text": "It is Empusa! XANTHIAS",
+          "indent": 0,
+          "lineNo": 643
+        },
+        {
+          "type": "verseLine",
+          "text": "Well, its face is all Ablaze with fire. DIONYSUS",
+          "indent": 0,
+          "lineNo": 645
+        },
+        {
+          "type": "verseLine",
+          "text": "Has it a copper leg? XANTHIAS",
+          "indent": 0,
+          "lineNo": 648
+        },
+        {
+          "type": "verseLine",
+          "text": "A copper leg? yes, one; and one of cow dung. DIONYSUS",
+          "indent": 0,
+          "lineNo": 650
+        },
+        {
+          "type": "verseLine",
+          "text": "O, whither shall I flee? XANTHIAS",
+          "indent": 0,
+          "lineNo": 652
+        },
+        {
+          "type": "verseLine",
+          "text": "O, whither I? DIONYSUS",
+          "indent": 0,
+          "lineNo": 654
+        },
+        {
+          "type": "verseLine",
+          "text": "My priest, protect me, and we'll sup together. XANTHIAS",
+          "indent": 0,
+          "lineNo": 656
+        },
+        {
+          "type": "verseLine",
+          "text": "King Heracles, we're done for. DIONYSUS",
+          "indent": 0,
+          "lineNo": 658
+        },
+        {
+          "type": "verseLine",
+          "text": "O, forbear, Good fellow, call me anything but that. XANTHIAS",
+          "indent": 0,
+          "lineNo": 660
+        },
+        {
+          "type": "verseLine",
+          "text": "Well then, Dionysus. DIONYSUS",
+          "indent": 0,
+          "lineNo": 662
+        },
+        {
+          "type": "verseLine",
+          "text": "O, that's worse again, XANTHIAS",
+          "indent": 0,
+          "lineNo": 664
+        },
+        {
+          "type": "verseLine",
+          "text": "to the SPECTRE Aye, go thy way. O master, here, come here. DIONYSUS",
+          "indent": 0,
+          "lineNo": 666
+        },
+        {
+          "type": "verseLine",
+          "text": "O, what's up now? XANTHIAS",
+          "indent": 0,
+          "lineNo": 669
+        },
+        {
+          "type": "verseLine",
+          "text": "Take courage; all's serene. And, like Hegelochus, we now may say \"Out of the storm there comes a new wether.\" Empusa's gone. DIONYSUS",
+          "indent": 0,
+          "lineNo": 671
+        },
+        {
+          "type": "verseLine",
+          "text": "Swear it. XANTHIAS",
+          "indent": 0,
+          "lineNo": 676
+        },
+        {
+          "type": "verseLine",
+          "text": "By Zeus she is. DIONYSUS",
+          "indent": 0,
+          "lineNo": 678
+        },
+        {
+          "type": "verseLine",
+          "text": "Swear it again. XANTHIAS",
+          "indent": 0,
+          "lineNo": 680
+        },
+        {
+          "type": "verseLine",
+          "text": "By Zeus. DIONYSUS",
+          "indent": 0,
+          "lineNo": 682
+        },
+        {
+          "type": "verseLine",
+          "text": "Again. XANTHIAS",
+          "indent": 0,
+          "lineNo": 684
+        },
+        {
+          "type": "verseLine",
+          "text": "By Zeus. O dear, O dear, how pale I grew to see her, But he, from fright has yellowed me all over. DIONYSUS",
+          "indent": 0,
+          "lineNo": 686
+        },
+        {
+          "type": "verseLine",
+          "text": "Ah me, whence fall these evils on my head? on Who is the god to blame for my destruction? Air, Zeus's chamber, or the Foot of Time? A flute is played behind the scenes. XANTHIAS",
+          "indent": 0,
+          "lineNo": 690
+        },
+        {
+          "type": "verseLine",
+          "text": "What's the matter? DIONYSUS",
+          "indent": 0,
+          "lineNo": 696
+        },
+        {
+          "type": "verseLine",
+          "text": "The breath of flutes. XANTHIAS",
+          "indent": 0,
+          "lineNo": 698
+        },
+        {
+          "type": "verseLine",
+          "text": "Aye, and a whiff of torches Breathed o'er me too; a very mystic whiff. DIONYSUS",
+          "indent": 0,
+          "lineNo": 700
+        },
+        {
+          "type": "verseLine",
+          "text": "Then crouch we down, and mark what's going on. CHORUS",
+          "indent": 0,
+          "lineNo": 703
+        },
+        {
+          "type": "verseLine",
+          "text": "in the distance O lacchus! O lacchus! O Iacchus! XANTHIAS",
+          "indent": 0,
+          "lineNo": 705
+        },
+        {
+          "type": "verseLine",
+          "text": "I have it, master: 'tis those blessed Mystics, Of whom he told us, sporting hereabouts. They sing the Iacchus which Diagoras made. DIONYSUS",
+          "indent": 0,
+          "lineNo": 708
+        },
+        {
+          "type": "verseLine",
+          "text": "I think so too: we had better both keep quiet And so find out exactly what it is. Enter CHORUS, who had chanted the songs of the FROGS, as initiates. CHORUS",
+          "indent": 0,
+          "lineNo": 712
+        },
+        {
+          "type": "verseLine",
+          "text": "O Iacchus! power excelling, here in stately temples dwelling. O Iacchus! O lacchus! Come to tread this verdant level, Come to dance in mystic revel, Come whilst round thy forehead hurtles Many a wreath of fruitful myrtles, Come with wild and saucy paces Mingling in our joyous dance, Pure and holy, which embraces all the charms of all the Graces, When the mystic choirs advance. XANTHIAS",
+          "indent": 0,
+          "lineNo": 717
+        },
+        {
+          "type": "verseLine",
+          "text": "Holy and sacred queen, Demeter's daughter, O, what a jolly whiff of pork breathed o'er me! DIONYSUS",
+          "indent": 0,
+          "lineNo": 730
+        },
+        {
+          "type": "verseLine",
+          "text": "Hist! and perchance you'll get some tripe yourself. CHORUS",
+          "indent": 0,
+          "lineNo": 733
+        },
+        {
+          "type": "verseLine",
+          "text": "Come, arise, from sleep awaking, come the fiery torches shaking, O Iacchus! O Iacchus! Morning Star that shinest nightly. Lo, the mead is blazing brightly, Age forgets its years and sadness, Aged knees curvet for gladness, Lift thy flashing torches o'er us, Marshal all thy blameless train, Lead, O lead the way before us; lead the lovely youthful Chorus To the marshy flowery plain. All evil thoughts and profane be still: far hence, far hence from our choirs depart, Who knows not well what the Mystics tell, or is not holy and pure of heart; Who ne'er has the noble revelry learned, or danced the dance of the Muses high; or shared in the Bacchic rites which old bull-eating Cratinus's words supply; Who vulgar coarse buffoonery loves, though all untimely the they make; Or lives not easy and kind with all, or kindling faction forbears to slake, But fans the fire, from a base desire some pitiful gain for himself to reap; Or takes, in office, his gifts and bribes, while the city is tossed on the stormy deep; Who fort or fleet to the foe betrays; or, a vile Thorycion, ships away Forbidden stores from Aegina's shores, to Epidaurus across the Bay Transmitting oar-pads and sails and tar, that curst collector of five per cents; The knave who tries to procure supplies for the use of the enemy's armaments; The Cyclian singer who dares befoul the Lady Hecate's wayside shrine; The public speaker who once lampooned in our Bacchic feasts would, with heart malign, Keep nibbling away the Comedians' pay;- to these I utter my warning cry, I charge them once, I charge them twice, I charge them thrice, that they draw not nigh To the sacred dance of the Mystic choir. But ye, my comrades, awake the song, The night-long revels of joy and mirth which ever of right to our feast belong. Advance, true hearts, advance! On to the gladsome bowers, On to the sward, with flowers Embosomed bright! March on with jest, and jeer, and dance, Full well ye've supped to-night. March, chanting loud your lays, Your hearts and voices raising, The Saviour goddess praising Who vows she'll still Our city save to endless days, Whate'er Thorycion's will. Break off the measure, and change the time; and now with chanting and hymns adorn Demeter, goddess mighty and high, the harvest-queen, the giver of corn. O Lady, over our rites presiding, Preserve and succour thy choral throng, And grant us all, in thy help confiding, To dance and revel the whole day long; And much in earnest, and much in jest, Worthy thy feast, may we speak therein. And when we have bantered and laughed our best, The victor's wreath be it ours to win. Call we now the youthful god, call him hither without delay, Him who travels amongst his chorus, dancing along on the Sacred Way. O, come with the joy of thy festival song, O, come to the goddess, O, mix with our throng Untired, though the journey be never so long. O Lord of the frolic and dance, lacchus, beside me advance! For fun, and for cheapness, our dress thou hast rent, Through thee we may dance to the top of our bent, Reviling, and jeering, and none will resent. O Lord of the frolic and dance, lacchus, beside me advance! A sweet pretty girl I observed in the show, Her robe had been torn in the scuffle, and lo, There peeped through the tatters a bosom of snow. O Lord of the frolic and dance, lacchus, beside me advance! DIONYSUS",
+          "indent": 0,
+          "lineNo": 735
+        },
+        {
+          "type": "verseLine",
+          "text": "Wouldn't I like to follow on, and try A little sport and dancing? XANTHIAS",
+          "indent": 0,
+          "lineNo": 826
+        },
+        {
+          "type": "verseLine",
+          "text": "Wouldn't I? CHORUS",
+          "indent": 0,
+          "lineNo": 829
+        },
+        {
+          "type": "verseLine",
+          "text": "Shall we all a merry joke At Archedemus poke, Who has not cut his guildsmen yet, though seven years old; Yet up among the dead He is demagogue and head And contrives the topmost place of the rascaldom to hold? And Cleisthenes, they say, Is among the tombs all day, Bewailing for his lover with a lamentable whine. And Callias, I'm told, Has become a sailor bold, And casts a lion's hide o'er his members feminine. DIONYSUS",
+          "indent": 0,
+          "lineNo": 831
+        },
+        {
+          "type": "verseLine",
+          "text": "Can any of you tell Where Pluto here may dwell, For we, sirs, are two strangers who were never here before? CHORUS",
+          "indent": 0,
+          "lineNo": 846
+        },
+        {
+          "type": "verseLine",
+          "text": "O, then no further stray, Nor again inquire the way, For know that ye have journeyed to his very entrance-door. DIONYSUS",
+          "indent": 0,
+          "lineNo": 850
+        },
+        {
+          "type": "verseLine",
+          "text": "Take up the wraps, my lad. XANTHIAS",
+          "indent": 0,
+          "lineNo": 854
+        },
+        {
+          "type": "verseLine",
+          "text": "Now is not this too bad? Like \"Zeus's Corinth,\" he \"the wraps\" keeps saying o'er and o'er. CHORUS",
+          "indent": 0,
+          "lineNo": 856
+        },
+        {
+          "type": "verseLine",
+          "text": "Now wheel your sacred dances through the glade with flowers bedight, All ye who are partakers of the holy festal rite; And I will with the women and the holy maidens go Where they keep the nightly vigil, an auspicious light to show. Now haste we to the roses, And the meadows full of posies, Now haste we to the meadows In our own old way, In choral dances blending, In dances never ending, Which only for the holy The Destinies array. O, happy mystic chorus, The blessed sunshine o'er us On us alone is smiling, In its soft sweet light: On us who strove forever With holy, pure endeavour, Alike by friend and stranger To guide our steps aright. DIONYSUS",
+          "indent": 0,
+          "lineNo": 859
+        },
+        {
+          "type": "verseLine",
+          "text": "What's the right way to knock? I wonder how The natives here are wont to knock at doors. XANTHIAS",
+          "indent": 0,
+          "lineNo": 882
+        },
+        {
+          "type": "verseLine",
+          "text": "No dawdling: taste the door. You've got, remember, The lion-hide and pride of Heracles. DIONYSUS",
+          "indent": 0,
+          "lineNo": 886
+        },
+        {
+          "type": "verseLine",
+          "text": "knocking Boy! boy! The door opens. AEACUS appears. AEACUS",
+          "indent": 0,
+          "lineNo": 890
+        },
+        {
+          "type": "verseLine",
+          "text": "Who's there? DIONYSUS",
+          "indent": 0,
+          "lineNo": 894
+        },
+        {
+          "type": "verseLine",
+          "text": "I, Heracles the strong! AEACUS",
+          "indent": 0,
+          "lineNo": 896
+        },
+        {
+          "type": "verseLine",
+          "text": "O, you most shameless desperate ruffian, you O, villain, villain, arrant vilest villain! Who seized our Cerberus by the throat, and fled, And ran, and rushed, and bolted, haling of The dog, my charge! But now I've got thee fast. So close the Styx's inky-hearted rock, The blood-bedabbled peak of Acheron Shall hem thee in: the hell-hounds of Cocytus Prowl round thee; whilst the hundred-headed Asp Shall rive thy heart-strings: the Tartesian Lamprey Prey on thy lungs: and those Tithrasian Gorgons Mangle and tear thy kidneys, mauling them, Entrails and all, into one bloody mash. I'll speed a running foot to fetch them hither. Exit AEACUS. XANTHIAS",
+          "indent": 0,
+          "lineNo": 898
+        },
+        {
+          "type": "verseLine",
+          "text": "Hallo! what now? DIONYSUS",
+          "indent": 0,
+          "lineNo": 915
+        },
+        {
+          "type": "verseLine",
+          "text": "I've done it: call the god. XANTHIAS",
+          "indent": 0,
+          "lineNo": 917
+        },
+        {
+          "type": "verseLine",
+          "text": "Get up, you laughing-stock; get up directly, Before you're seen. DIONYSUS",
+          "indent": 0,
+          "lineNo": 919
+        },
+        {
+          "type": "verseLine",
+          "text": "What, I get up? I'm fainting. Please dab a sponge of water on my heart. XANTHIAS",
+          "indent": 0,
+          "lineNo": 922
+        },
+        {
+          "type": "verseLine",
+          "text": "Here! Dab it on. DIONYSUS",
+          "indent": 0,
+          "lineNo": 925
+        },
+        {
+          "type": "verseLine",
+          "text": "Where is it? XANTHIAS",
+          "indent": 0,
+          "lineNo": 927
+        },
+        {
+          "type": "verseLine",
+          "text": "Ye golden gods, Lies your heart there? DIONYSUS",
+          "indent": 0,
+          "lineNo": 929
+        },
+        {
+          "type": "verseLine",
+          "text": "It got so terrified It fluttered down into my stomach's pit. XANTHIAS",
+          "indent": 0,
+          "lineNo": 932
+        },
+        {
+          "type": "verseLine",
+          "text": "Cowardliest of gods and men! DIONYSUS",
+          "indent": 0,
+          "lineNo": 935
+        },
+        {
+          "type": "verseLine",
+          "text": "The cowardliest? I? What I, who asked you for a sponge, a thing A coward never would have done! XANTHIAS",
+          "indent": 0,
+          "lineNo": 937
+        },
+        {
+          "type": "verseLine",
+          "text": "What then? DIONYSUS",
+          "indent": 0,
+          "lineNo": 941
+        },
+        {
+          "type": "verseLine",
+          "text": "A coward would have lain there wallowing; But I stood up, and wiped myself withal. XANTHIAS",
+          "indent": 0,
+          "lineNo": 943
+        },
+        {
+          "type": "verseLine",
+          "text": "Poseidon! quite heroic. DIONYSUS",
+          "indent": 0,
+          "lineNo": 946
+        },
+        {
+          "type": "verseLine",
+          "text": "'Deed I think so. But weren't you frightened at those dreadful threats And shoutings? XANTHIAS",
+          "indent": 0,
+          "lineNo": 948
+        },
+        {
+          "type": "verseLine",
+          "text": "Frightened? Not a bit. I cared not. DIONYSUS",
+          "indent": 0,
+          "lineNo": 952
+        },
+        {
+          "type": "verseLine",
+          "text": "Come then, if you're so very brave a man, Will you be I, and take the hero's club And lion's skin, since you're so monstrous plucky? And I'll be now the slave, and bear the luggage. XANTHIAS",
+          "indent": 0,
+          "lineNo": 954
+        },
+        {
+          "type": "verseLine",
+          "text": "Hand them across. I cannot choose but take them. And now observe the Xanthio-heracles If I'm a coward and a sneak like you. DIONYSUS",
+          "indent": 0,
+          "lineNo": 959
+        },
+        {
+          "type": "verseLine",
+          "text": "Nay, you're the rogue from Melite's own self. And I'll pick up and carry on the traps. Enter a MAID-SERVANT of Persephone, from the door. MAID",
+          "indent": 0,
+          "lineNo": 964
+        },
+        {
+          "type": "verseLine",
+          "text": "O welcome, Heracles! come in, sweetheart. My Lidy, when they told her, set to work, Baked mighty loaves, boiled two or three tureens Of lentil soup, roasted a prime ox whole, Made rolls and honey-cakes. So come along. XANTHIAS",
+          "indent": 0,
+          "lineNo": 969
+        },
+        {
+          "type": "verseLine",
+          "text": "declining You are too kind. MAID",
+          "indent": 0,
+          "lineNo": 975
+        },
+        {
+          "type": "verseLine",
+          "text": "I will not let you go. I will not let you! Why, she's stewing slices Of juicy bird's-flesh, and she's making comfits, And tempering down her richest wine. Come, dear, Come along in. XANTHIAS",
+          "indent": 0,
+          "lineNo": 978
+        },
+        {
+          "type": "verseLine",
+          "text": "still declining Pray thank her. MAID",
+          "indent": 0,
+          "lineNo": 984
+        },
+        {
+          "type": "verseLine",
+          "text": "O you're jesting, I shall not let you off: there's such a lovely Flute-girl all ready, and we've two or three Dancing-girls also. XANTHIAS",
+          "indent": 0,
+          "lineNo": 987
+        },
+        {
+          "type": "verseLine",
+          "text": "Eh! what! Dancing-girls? MAID",
+          "indent": 0,
+          "lineNo": 992
+        },
+        {
+          "type": "verseLine",
+          "text": "Young budding virgins, freshly tired and trimmed. Come, dear, come in. The cook was dishing up The cutlets, and they are bringing in the tables. XANTHIAS",
+          "indent": 0,
+          "lineNo": 994
+        },
+        {
+          "type": "verseLine",
+          "text": "Then go you in, and tell those dancing-girls Of whom you spake, I'm coming in Myself. Exit MAID. Pick up the traps, my lad, and follow me. DIONYSUS",
+          "indent": 0,
+          "lineNo": 999
+        },
+        {
+          "type": "verseLine",
+          "text": "Hi! stop! you're not in earnest, just because I dressed you up, in fun, as Heracles? Come, don't keep fooling, Xanthias, but lift And carry in the traps yourself You are never going to strip me of these togs You gave me! DIONYSUS",
+          "indent": 0,
+          "lineNo": 1004
+        },
+        {
+          "type": "verseLine",
+          "text": "Going to? No, I'm doing it now. off with that lion-skin. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1011
+        },
+        {
+          "type": "verseLine",
+          "text": "Bear witness all, The gods shall judge between us. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1013
+        },
+        {
+          "type": "verseLine",
+          "text": "Gods, indeed! Why, how could you (the vain and foolish thought I) A slave, a mortal, act Alemena's son? XANTHIAS",
+          "indent": 0,
+          "lineNo": 1016
+        },
+        {
+          "type": "verseLine",
+          "text": "All right then, take them; maybe, if God will, You'll soon require my services again. CHORUS",
+          "indent": 0,
+          "lineNo": 1021
+        },
+        {
+          "type": "verseLine",
+          "text": "This is the part of a dexterous clever Man with his wits about him ever, One who has travelled the world to see; Always to shift, and to keep through all Close to the sunny side of the wall; Not like a pictured block to be, Standing always in one position; Nay but to veer, with expedition, And ever to catch the favouring breeze, This is the part of a shrewd tactician, This is to be a-Theramenes! DIONYSUS",
+          "indent": 0,
+          "lineNo": 1025
+        },
+        {
+          "type": "verseLine",
+          "text": "Truly an exquisite joke 'twould be, Him with a dancing-girl to see, Lolling at ease on Milesian rugs; Me, like a slave, beside him standing, Aught that he wants to his lordship handing; Then as the damsel fair he hugs, Seeing me all on fire to embrace her, He would perchance (for there's no man baser), Turning him round like a lazy lout, Straight on my mouth deliver a facer, Knocking my ivory choirmen out. Enter HOSTESS and PLATHANE. Hostess. O Plathane! Plathane! that naughty man, That's he who got into our tavern once, And ate up sixteen loaves. PLATHANE",
+          "indent": 0,
+          "lineNo": 1037
+        },
+        {
+          "type": "verseLine",
+          "text": "O, so he is! The very man. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1053
+        },
+        {
+          "type": "verseLine",
+          "text": "Bad luck for somebody! HOSTESS",
+          "indent": 0,
+          "lineNo": 1055
+        },
+        {
+          "type": "verseLine",
+          "text": "O and, besides, those twenty bits of stew, Half-obol pieces. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1057
+        },
+        {
+          "type": "verseLine",
+          "text": "Somebody's going to catch it! HOSTESS",
+          "indent": 0,
+          "lineNo": 1060
+        },
+        {
+          "type": "verseLine",
+          "text": "That garlic too. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1062
+        },
+        {
+          "type": "verseLine",
+          "text": "Woman, you're talking nonsense. You don't know what you're saying. HOSTESS",
+          "indent": 0,
+          "lineNo": 1064
+        },
+        {
+          "type": "verseLine",
+          "text": "O, you thought I shouldn't know you with your buskins on! Ah, and I've not yet mentioned all that fish, No, nor the new-made cheese: he gulped it down, Baskets and all, unlucky that we were. And when I just alluded to the price, He looked so fierce, and bellowed like a bull. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1067
+        },
+        {
+          "type": "verseLine",
+          "text": "Yes, that's his way: that's what he always does. HOSTESS",
+          "indent": 0,
+          "lineNo": 1075
+        },
+        {
+          "type": "verseLine",
+          "text": "O, and he drew his sword, and seemed quite mad. PLATHANE",
+          "indent": 0,
+          "lineNo": 1077
+        },
+        {
+          "type": "verseLine",
+          "text": "O, that he did. HOSTESS",
+          "indent": 0,
+          "lineNo": 1079
+        },
+        {
+          "type": "verseLine",
+          "text": "And terrified us so We sprang up to the cockloft, she and I. Then out he hurled, decamping with the rugs. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1081
+        },
+        {
+          "type": "verseLine",
+          "text": "That's his way too; something must be done. HOSTESS",
+          "indent": 0,
+          "lineNo": 1085
+        },
+        {
+          "type": "verseLine",
+          "text": "Quick, run and call my patron Cleon here PLATHANE",
+          "indent": 0,
+          "lineNo": 1087
+        },
+        {
+          "type": "verseLine",
+          "text": "O, if you meet him, call Hyperbolus! We'll pay you out to-day. HOSTESS",
+          "indent": 0,
+          "lineNo": 1089
+        },
+        {
+          "type": "verseLine",
+          "text": "O filthy throat, O how I'd like to take a stone, and hack Those grinders out with which you chawed my wares. PLATHANE",
+          "indent": 0,
+          "lineNo": 1092
+        },
+        {
+          "type": "verseLine",
+          "text": "I'd like to pitch you in the deadman's pit. HOSTESS",
+          "indent": 0,
+          "lineNo": 1096
+        },
+        {
+          "type": "verseLine",
+          "text": "I'd like to get a reaping-hook and scoop That gullet out with which you gorged my tripe. But I'll to Cleon: he'll soon serve his writs; He'll twist it out of you to-day, he will. Exeunt HOSTESS and PLATHANE. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1098
+        },
+        {
+          "type": "verseLine",
+          "text": "Perdition seize me, if I don't love Xanthias. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1104
+        },
+        {
+          "type": "verseLine",
+          "text": "Aye, aye, I know your drift: stop, stop that talking I won't be Heracles. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1106
+        },
+        {
+          "type": "verseLine",
+          "text": "O, don't say so, Dear, darling Xanthias. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1110
+        },
+        {
+          "type": "verseLine",
+          "text": "Why, how can I, A slave, a mortal, act Alemena's son! DIONYSUS",
+          "indent": 0,
+          "lineNo": 1113
+        },
+        {
+          "type": "verseLine",
+          "text": "Aye, aye, I know you are vexed, and I deserve And if you pummel me, I won't complain. But if I strip you of these togs again, Perdition seize myself, my wife, my children, And, most of all, that blear-eyed Archedemus. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1116
+        },
+        {
+          "type": "verseLine",
+          "text": "That oath contents me: on those terms I take them. CHORUS",
+          "indent": 0,
+          "lineNo": 1122
+        },
+        {
+          "type": "verseLine",
+          "text": "Now that at last you appear once more, Wearing the garb that at first you wore, Wielding the club and the tawny skin, Now it is yours to be up and doing, Glaring like mad, and your youth renewing, Mindful of him whose guise you are in. If, when caught in a bit of a scrape, you Suffer a word of alarm to escape you, Showing yourself but a feckless knave, Then will your master at once undrape you, Then you'll again be the toiling slave. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1124
+        },
+        {
+          "type": "verseLine",
+          "text": "There, I admit, you have given to me Capital hint, and the like idea, Friends, had occurred to myself before. Truly if anything good befell He would be wanting, I know full well, Wanting to take to the togs once more. Nevertheless, while in these I'm vested, Ne'er shall you find me craven-crested, No, for a dittany look I'll wear, Aye and methinks it will soon be tested, Hark! how the portals are rustling there. Re-enter AEACUS with assistants. AEACUS",
+          "indent": 0,
+          "lineNo": 1136
+        },
+        {
+          "type": "verseLine",
+          "text": "Seize the dog-stealer, bind him, pinion him, Drag him to justice DIONYSUS",
+          "indent": 0,
+          "lineNo": 1149
+        },
+        {
+          "type": "verseLine",
+          "text": "Somebody's going to catch it. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1153
+        },
+        {
+          "type": "verseLine",
+          "text": "striking out Hands off! away! stand back! AEACUS",
+          "indent": 0,
+          "lineNo": 1155
+        },
+        {
+          "type": "verseLine",
+          "text": "Eh? You're for fighting. Ho! Ditylas, Sceblyas, and Pardocas, Come hither, quick; fight me this sturdy knave. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1158
+        },
+        {
+          "type": "verseLine",
+          "text": "Now isn't it a shame the man should strike And he a thief besides? AEACUS",
+          "indent": 0,
+          "lineNo": 1162
+        },
+        {
+          "type": "verseLine",
+          "text": "A monstrous shame! DIONYSUS",
+          "indent": 0,
+          "lineNo": 1165
+        },
+        {
+          "type": "verseLine",
+          "text": "A regular burning shame! XANTHIAS",
+          "indent": 0,
+          "lineNo": 1167
+        },
+        {
+          "type": "verseLine",
+          "text": "By the Lord Zeus, If ever I was here before, if ever I stole one hair's-worth from you, let me die! And now I'll make you a right noble offer, Arrest my lad: torture him as you will, And if you find I'm guilty, take and kill me. AEACUS",
+          "indent": 0,
+          "lineNo": 1169
+        },
+        {
+          "type": "verseLine",
+          "text": "Torture him, how? XANTHIAS",
+          "indent": 0,
+          "lineNo": 1176
+        },
+        {
+          "type": "verseLine",
+          "text": "In any mode you please. Pile bricks upon him: stuff his nose with acid: Flay, rack him, hoist him; flog him with a scourge Of prickly bristles: only not with this, A soft-leaved onion, or a tender leek. AEACUS",
+          "indent": 0,
+          "lineNo": 1178
+        },
+        {
+          "type": "verseLine",
+          "text": "A fair proposal. If I strike too hard And maim the boy, I'll make you compensation. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1184
+        },
+        {
+          "type": "verseLine",
+          "text": "I shan't require it. Take him out and flog him. AEACUS",
+          "indent": 0,
+          "lineNo": 1187
+        },
+        {
+          "type": "verseLine",
+          "text": "Nay, but I'll do it here before your eyes. Now then, put down the traps, and mind you speak The truth, young fellow. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1189
+        },
+        {
+          "type": "verseLine",
+          "text": "in agony Man' don't torture me! I am a god. You'll blame yourself hereafter If you touch me. AEACUS",
+          "indent": 0,
+          "lineNo": 1193
+        },
+        {
+          "type": "verseLine",
+          "text": "Hillo! What's that you are saying? DIONYSUS",
+          "indent": 0,
+          "lineNo": 1198
+        },
+        {
+          "type": "verseLine",
+          "text": "I say I'm Bacchus, son of Zeus, a god, And he's the slave. AEACUS",
+          "indent": 0,
+          "lineNo": 1200
+        },
+        {
+          "type": "verseLine",
+          "text": "You hear him? XANTHIAS",
+          "indent": 0,
+          "lineNo": 1203
+        },
+        {
+          "type": "verseLine",
+          "text": "Hear him? Yes. All the more reason you should flog him well. For if he is a god, he won't perceive it. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1205
+        },
+        {
+          "type": "verseLine",
+          "text": "Well, but you say that you're a god yourself. So why not you be flogged as well as I? XANTHIAS",
+          "indent": 0,
+          "lineNo": 1209
+        },
+        {
+          "type": "verseLine",
+          "text": "A fair proposal. And be this the test, Whichever of us two you first behold Flinching or crying out-he's not the god. AEACUS",
+          "indent": 0,
+          "lineNo": 1212
+        },
+        {
+          "type": "verseLine",
+          "text": "Upon my word you're quite the gentleman, You're all for right and justice. Strip then, both. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1216
+        },
+        {
+          "type": "verseLine",
+          "text": "How can you test us fairly? AEACUS",
+          "indent": 0,
+          "lineNo": 1219
+        },
+        {
+          "type": "verseLine",
+          "text": "Easily. I'll give you blow for blow. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1221
+        },
+        {
+          "type": "verseLine",
+          "text": "A good idea. We're ready now! AEACUS strikes him see if you catch me flinching. AEACUS",
+          "indent": 0,
+          "lineNo": 1223
+        },
+        {
+          "type": "verseLine",
+          "text": "I struck you. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1228
+        },
+        {
+          "type": "verseLine",
+          "text": "incredulously No! AEACUS",
+          "indent": 0,
+          "lineNo": 1230
+        },
+        {
+          "type": "verseLine",
+          "text": "Well, it seems \"no\" indeed. Now then I'll strike the other. Strikes DIONYSUS. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1233
+        },
+        {
+          "type": "verseLine",
+          "text": "Tell me when? AEACUS",
+          "indent": 0,
+          "lineNo": 1237
+        },
+        {
+          "type": "verseLine",
+          "text": "I struck you. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1239
+        },
+        {
+          "type": "verseLine",
+          "text": "Struck me? Then why didn't I sneeze? AEACUS",
+          "indent": 0,
+          "lineNo": 1241
+        },
+        {
+          "type": "verseLine",
+          "text": "Don't know, I'm sure. I'll try the other again. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1243
+        },
+        {
+          "type": "verseLine",
+          "text": "And quickly too. Good gracious! AEACUS",
+          "indent": 0,
+          "lineNo": 1245
+        },
+        {
+          "type": "verseLine",
+          "text": "Why \"good gracious\"? Not hurt you, did I? XANTHIAS",
+          "indent": 0,
+          "lineNo": 1247
+        },
+        {
+          "type": "verseLine",
+          "text": "No, I merely thought of The Diomeian feast of Heracles. AEACUS",
+          "indent": 0,
+          "lineNo": 1250
+        },
+        {
+          "type": "verseLine",
+          "text": "A holy man! 'Tis now the other's turn. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1253
+        },
+        {
+          "type": "verseLine",
+          "text": "Hi! Hi! AEACUS",
+          "indent": 0,
+          "lineNo": 1255
+        },
+        {
+          "type": "verseLine",
+          "text": "Hallo! DIONYSUS",
+          "indent": 0,
+          "lineNo": 1257
+        },
+        {
+          "type": "verseLine",
+          "text": "Look at those horsemen, look! AEACUS",
+          "indent": 0,
+          "lineNo": 1259
+        },
+        {
+          "type": "verseLine",
+          "text": "But why these tears? DIONYSUS",
+          "indent": 0,
+          "lineNo": 1261
+        },
+        {
+          "type": "verseLine",
+          "text": "There's such a smell of onions. AEACUS",
+          "indent": 0,
+          "lineNo": 1263
+        },
+        {
+          "type": "verseLine",
+          "text": "Then you don't mind it? DIONYSUS",
+          "indent": 0,
+          "lineNo": 1265
+        },
+        {
+          "type": "verseLine",
+          "text": "cheerfully Mind it? Not a bit. AEACUS",
+          "indent": 0,
+          "lineNo": 1267
+        },
+        {
+          "type": "verseLine",
+          "text": "Well, I must go to the other one again. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1270
+        },
+        {
+          "type": "verseLine",
+          "text": "O! O! AEACUS",
+          "indent": 0,
+          "lineNo": 1272
+        },
+        {
+          "type": "verseLine",
+          "text": "Hallo! XANTHIAS",
+          "indent": 0,
+          "lineNo": 1274
+        },
+        {
+          "type": "verseLine",
+          "text": "Do pray pull out this thorn. AEACUS",
+          "indent": 0,
+          "lineNo": 1276
+        },
+        {
+          "type": "verseLine",
+          "text": "What does it mean? 'Tis this one's turn again. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1278
+        },
+        {
+          "type": "verseLine",
+          "text": "shrieking Apollo! Lord! calmly of Delos and of Pytho. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1280
+        },
+        {
+          "type": "verseLine",
+          "text": "He flinched! You heard him? DIONYSUS",
+          "indent": 0,
+          "lineNo": 1285
+        },
+        {
+          "type": "verseLine",
+          "text": "Not at all; a jolly Verse of Hipponax flashed across my mind. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1287
+        },
+        {
+          "type": "verseLine",
+          "text": "You don't half do it: cut his flanks to pieces. AEACUS",
+          "indent": 0,
+          "lineNo": 1289
+        },
+        {
+          "type": "verseLine",
+          "text": "By Zeus, well thought on. Turn your belly here. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1291
+        },
+        {
+          "type": "verseLine",
+          "text": "screaming Poseidon! XANTHIAS",
+          "indent": 0,
+          "lineNo": 1293
+        },
+        {
+          "type": "verseLine",
+          "text": "There! he's flinching. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1296
+        },
+        {
+          "type": "verseLine",
+          "text": "singing who dost reign Amongst the Aegean peaks and creeks And oer the deep blue main. AEACUS",
+          "indent": 0,
+          "lineNo": 1298
+        },
+        {
+          "type": "verseLine",
+          "text": "No, by Demeter, still I can't find out Which is the god, but come ye both indoors; My lord himself and Persephassa there, Being gods themselves, will soon find out the truth. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1303
+        },
+        {
+          "type": "verseLine",
+          "text": "Right! right! I only wish you had thought of that Before you gave me those tremendous whacks. Exeunt DIONYSUS, XANTHIAS, AEACUS, and attendants. CHORUS",
+          "indent": 0,
+          "lineNo": 1308
+        },
+        {
+          "type": "verseLine",
+          "text": "Come, Muse, to our Mystical Chorus, O come to the joy of my song, O see on the benches before us that countless and wonderful throng, Where wits by the thousand abide, with more than a Cleophon's pride- On the lips of that foreigner base, of Athens the bane and disgrace, There is shrieking, his kinsman by race, The garrulous swallow of Thrace; From that perch of exotic descent, Rejoicing her sorrow to vent, She pours to her spirit's content, a nightingale's woful lament, That e'en though the voting be equal, his ruin will soon be the sequel. Well it suits the holy Chorus evermore with counsel wise To exhort and teach the city; this we therefore now advise- End the townsmen's apprehensions; equalize the rights of all; If by Phrynichus's wrestlings some perchance sustained a fall, Yet to these 'tis surely open, having put away their sin, For their slips and vacillations pardon at your hands to win. Give your brethren back their franchise. Sin and shame it were that slaves, Who have once with stern devotion fought your battle on the waves, Should be straightway lords and masters, yea Plataeans fully blown- Not that this deserves our censure; there I praise you; there alone Has the city, in her anguish, policy and wisdom shown- Nay but these, of old accustomed on our ships to fight and win, (They, their fathers too before them), these our very kith and kin, You should likewise, when they ask you, pardon for their single sin. O by nature best and wisest, O relax your jealous ire, Let us all the world as kinsfolk and as citizens acquire, All who on our ships will battle well and bravely by our side. If we cocker up our city, narrowing her with senseless pride, Now when she is rocked and reeling in the cradles of the sea, Here again will after ages deem we acted brainlessly. And O if I'm able to scan the habits and life of a man Who shall rue his iniquities soon! not long shall that little baboon, That Cleigenes shifty and small, the wickedest bathman of all Who are lords of the earth-which is brought from the isle of Cimolus, and wrought With nitre and lye into soap- Not long shall he vex us, I hope. And this the unlucky one knows, Yet ventures a peace to oppose, And being addicted to blows he carries a stick as he goes, Lest while he is tipsy and reeling, some robber his cloak should be stealing. Often has it crossed my fancy, that the city loves to deal With the very best and noblest members of her commonweal, just as with our ancient coinage, and the newly-minted gold. Yea for these, our sterling pieces, all of pure Athenian mould, All of perfect die and metal, all the fairest of the fair, All of workmanship unequalled, proved and valued everywhere Both amongst our own Hellenes and Barbarians far away, These we use not: but the worthles pinchbeck coins of yesterday, Vilest die and basest metal, now we always use instead. Even so, our sterling townsmen, nobly born and nobly bred, Men of worth and rank and mettle, men of honourable fame, Trained in every liberal science, choral dance and manly game, These we treat with scorn and insult, but the strangers newliest come, Worthless sons of worthless fathers, pinchbeck townsmen, yellowy scum, Whom in earlier days the city hardly would have stooped to use Even for her scapegoat victims, these for every task we choose. O unwise and foolish people, yet to mend your ways begin; Use again the good and useful: so hereafter, if ye win 'Twill be due to this your wisdom: if ye fall, at least 'twill be Not a fall that brings dishonour, falling from a worthy tree. Enter AEACUS, XANTHIAS and two attendants. AEACUS",
+          "indent": 0,
+          "lineNo": 1313
+        },
+        {
+          "type": "verseLine",
+          "text": "By Zeus the Saviour, quite the gentleman Your master is. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1422
+        },
+        {
+          "type": "verseLine",
+          "text": "Gentleman? I believe you. He's all for wine and women, is my master. AEACUS",
+          "indent": 0,
+          "lineNo": 1425
+        },
+        {
+          "type": "verseLine",
+          "text": "But not to have flogged you, when the truth came out That you, the slave, were passing off as master! XANTHIAS",
+          "indent": 0,
+          "lineNo": 1428
+        },
+        {
+          "type": "verseLine",
+          "text": "He'd get the worst of that. AEACUS",
+          "indent": 0,
+          "lineNo": 1432
+        },
+        {
+          "type": "verseLine",
+          "text": "Bravo! that's spoken Like a true slave: that's what I love myself. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1434
+        },
+        {
+          "type": "verseLine",
+          "text": "You love it, do you? AEACUS",
+          "indent": 0,
+          "lineNo": 1437
+        },
+        {
+          "type": "verseLine",
+          "text": "Love it? I'm entranced When I can curse my lord behind his back. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1439
+        },
+        {
+          "type": "verseLine",
+          "text": "How about grumbling, when you have felt the stick, And scurry out of doors? AEACUS",
+          "indent": 0,
+          "lineNo": 1442
+        },
+        {
+          "type": "verseLine",
+          "text": "That's jolly too. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1446
+        },
+        {
+          "type": "verseLine",
+          "text": "How about prying? AEACUS",
+          "indent": 0,
+          "lineNo": 1448
+        },
+        {
+          "type": "verseLine",
+          "text": "That beats everything, XANTHIAS",
+          "indent": 0,
+          "lineNo": 1450
+        },
+        {
+          "type": "verseLine",
+          "text": "Great Kin-god Zeus! And what of overhearing Your master's secrets? AEACUS",
+          "indent": 0,
+          "lineNo": 1452
+        },
+        {
+          "type": "verseLine",
+          "text": "What? I'm mad with joy. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1455
+        },
+        {
+          "type": "verseLine",
+          "text": "And blabbing them abroad? AEACUS",
+          "indent": 0,
+          "lineNo": 1457
+        },
+        {
+          "type": "verseLine",
+          "text": "O heaven and earth! When I do that, I can't contain myself. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1459
+        },
+        {
+          "type": "verseLine",
+          "text": "Phoebus Apollo! clap your hand in mine, Kiss and be kissed: and prithee tell me this, Tell me by Zeus, our rascaldom's own god, What's all that noise within? What means this hubbub And row? AEACUS",
+          "indent": 0,
+          "lineNo": 1462
+        },
+        {
+          "type": "verseLine",
+          "text": "That's Aeschylus and Euripides. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1468
+        },
+        {
+          "type": "verseLine",
+          "text": "Eh? AEACUS",
+          "indent": 0,
+          "lineNo": 1470
+        },
+        {
+          "type": "verseLine",
+          "text": "Wonderful, wonderful things are going on. The dead are rioting, taking different sides. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1472
+        },
+        {
+          "type": "verseLine",
+          "text": "Why, what's the matter? AEACUS",
+          "indent": 0,
+          "lineNo": 1475
+        },
+        {
+          "type": "verseLine",
+          "text": "There's a custom here With all the crafts, the good and noble crafts, That the chief master of art in each Shall have his dinner in the assembly hall, And sit by Pluto's side. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1477
+        },
+        {
+          "type": "verseLine",
+          "text": "I understand. AEACUS",
+          "indent": 0,
+          "lineNo": 1483
+        },
+        {
+          "type": "verseLine",
+          "text": "Until another comes, more wise than he In the same art: then must the first give way. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1485
+        },
+        {
+          "type": "verseLine",
+          "text": "And how has this disturbed our Aeschylus? AEACUS",
+          "indent": 0,
+          "lineNo": 1488
+        },
+        {
+          "type": "verseLine",
+          "text": "'Twas he that occupied the tragic chair, As, in his craft, the noblest. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1490
+        },
+        {
+          "type": "verseLine",
+          "text": "Who does now? AEACUS",
+          "indent": 0,
+          "lineNo": 1493
+        },
+        {
+          "type": "verseLine",
+          "text": "But when Euripides came down, he kept Flourishing off before the highwaymen, Thieves, burglars, parricides-these form our mob In Hades-till with listening to his twists And turns, and pleas and counterpleas, they went Mad on the man, and hailed him first and wisest: Elate with this, he claimed the tragic chair Where Aeschylus was seated. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1495
+        },
+        {
+          "type": "verseLine",
+          "text": "Wasn't he pelted? AEACUS",
+          "indent": 0,
+          "lineNo": 1504
+        },
+        {
+          "type": "verseLine",
+          "text": "Not he: the populace clamoured out to try Which of the twain was wiser in his art. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1506
+        },
+        {
+          "type": "verseLine",
+          "text": "You mean the rascals? AEACUS",
+          "indent": 0,
+          "lineNo": 1509
+        },
+        {
+          "type": "verseLine",
+          "text": "Aye, as high as heaven! XANTHIAS",
+          "indent": 0,
+          "lineNo": 1511
+        },
+        {
+          "type": "verseLine",
+          "text": "But were there none to side with Aeschylus? AEACUS",
+          "indent": 0,
+          "lineNo": 1513
+        },
+        {
+          "type": "verseLine",
+          "text": "Scanty and sparse the good, regards the audience the same as here. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1515
+        },
+        {
+          "type": "verseLine",
+          "text": "And what does Pluto now propose to do? AEACUS",
+          "indent": 0,
+          "lineNo": 1519
+        },
+        {
+          "type": "verseLine",
+          "text": "He means to hold a tournament, and bring Their tragedies to the proof. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1521
+        },
+        {
+          "type": "verseLine",
+          "text": "But Sophocles, How came not he to claim the tragic chair? AEACUS",
+          "indent": 0,
+          "lineNo": 1524
+        },
+        {
+          "type": "verseLine",
+          "text": "Claim it? Not he! When he came down, he kissed With reverence Aeschylus, and clasped his hand, And yielded willingly the chair to him. But now he's going, says Cleidemides, To sit third-man: and then if Aeschylus win, He'll stay content: if not, for his art's sake, He'll fight to the death against Euripides. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1527
+        },
+        {
+          "type": "verseLine",
+          "text": "Will it come off? AEACUS",
+          "indent": 0,
+          "lineNo": 1536
+        },
+        {
+          "type": "verseLine",
+          "text": "O yes, by Zeus, directly. And then, I hear, will wonderful things be done, The art poetic will be weighed in scales. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1538
+        },
+        {
+          "type": "verseLine",
+          "text": "What I weigh out tragedy, like butcher's meat? AEACUS",
+          "indent": 0,
+          "lineNo": 1542
+        },
+        {
+          "type": "verseLine",
+          "text": "Levels they'll bring, and measuring-tapes for words, And moulded oblongs, XANTHIAS",
+          "indent": 0,
+          "lineNo": 1544
+        },
+        {
+          "type": "verseLine",
+          "text": "Is it bricks they are making? AEACUS",
+          "indent": 0,
+          "lineNo": 1548
+        },
+        {
+          "type": "verseLine",
+          "text": "Wedges and compasses: for Euripides Vows that he'll test the dramas, word by word. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1550
+        },
+        {
+          "type": "verseLine",
+          "text": "Aeschylus chafes at this, I fancy. AEACUS",
+          "indent": 0,
+          "lineNo": 1553
+        },
+        {
+          "type": "verseLine",
+          "text": "Well, He lowered his brows, upglaring like a bull. XANTHIAS",
+          "indent": 0,
+          "lineNo": 1555
+        },
+        {
+          "type": "verseLine",
+          "text": "And who's to be the judge? AEACUS",
+          "indent": 0,
+          "lineNo": 1557
+        },
+        {
+          "type": "verseLine",
+          "text": "There came the rub. Skilled men were hard to find: for with the Athenians Aeschylus, somehow, did not hit it off, XANTHIAS",
+          "indent": 0,
+          "lineNo": 1559
+        },
+        {
+          "type": "verseLine",
+          "text": "Too many burglars, I expect, he thought. AEACUS",
+          "indent": 0,
+          "lineNo": 1563
+        },
+        {
+          "type": "verseLine",
+          "text": "And all the rest, he said, were trash and nonsense To judge poetic wits. So then at last They chose your lord, an expert in the art. But we go in for when our lords are bent On urgent business, that means blows for us. CHORUS",
+          "indent": 0,
+          "lineNo": 1565
+        },
+        {
+          "type": "verseLine",
+          "text": "O surely with terrible wrath will the thunder-voiced monarch be filled, When he sees his opponent beside him, the tonguester, the artifice-skilled, Stand, whetting his tusks for the fight! O surely, his eyes rolling-fell Will with terrible madness be fraught I O then will be charging of plume-waving words with their wild-floating mane, And then will be whirling of splinters, and phrases smoothed down with the plane, When the man would the grand-stepping maxims, the language gigantic, repel Of the hero-creator of thought. There will his shaggy-born crest upbristle for anger and woe, Horribly frowning and growling, his fury will launch at the foe Huge-clamped masses of words, with exertion Titanic up-tearing Great ship-timber planks for the fray. But here will the tongue be at work, uncoiling, word-testing, refining, Sophist-creator of phrases, dissecting, detracting, maligning, Shaking the envious bits, and with subtle analysis paring The lung's large labour away. Here apparently there is a complete change of scene, to the Hall of Pluto, with himself sitting on his throne, and DIONYSUS, AESCHYLUS, and the foreground. EURIPIDES",
+          "indent": 0,
+          "lineNo": 1572
+        },
+        {
+          "type": "verseLine",
+          "text": "Don't talk to me; I won't give up the chair, I say I am better in the art than he. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1604
+        },
+        {
+          "type": "verseLine",
+          "text": "You hear him, Aeschylus: why don't you speak? EURIPIDES",
+          "indent": 0,
+          "lineNo": 1607
+        },
+        {
+          "type": "verseLine",
+          "text": "He'll do the grand at first, the juggling trick He used to play in all his tragedies. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1609
+        },
+        {
+          "type": "verseLine",
+          "text": "Come, my fine fellow, pray don't talk to big. EURIPIDES",
+          "indent": 0,
+          "lineNo": 1613
+        },
+        {
+          "type": "verseLine",
+          "text": "I know the man, I've scanned him through and through, A savage-creating stubborn-pulling fellow, Uncurbed, unfettered, uncontrolled of speech, Unperiphrastic, bombastiloquent. AESCHYLUS",
+          "indent": 0,
+          "lineNo": 1615
+        },
+        {
+          "type": "verseLine",
+          "text": "Hah! sayest thou so, child of the garden quean And this to me, thou chattery-babble-collector, Thou pauper-creating rags-and-patches-stitcher? Thou shalt abye it dearly! DIONYSUS",
+          "indent": 0,
+          "lineNo": 1621
+        },
+        {
+          "type": "verseLine",
+          "text": "Pray, be still; Nor heat thy soul to fury, Aeschylus. AESCHYLUS",
+          "indent": 0,
+          "lineNo": 1627
+        },
+        {
+          "type": "verseLine",
+          "text": "Not till I've made you see the sort of man This cripple-maker is who crows so loudly. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1630
+        },
+        {
+          "type": "verseLine",
+          "text": "Bring out a ewe, a black-fleeced ewe, my boys: Here's a typhoon about to burst upon us. AESCHYLUS",
+          "indent": 0,
+          "lineNo": 1633
+        },
+        {
+          "type": "verseLine",
+          "text": "Thou picker-up of Cretan monodies, Foisting thy tales of incest on the stage- DIONYSUS",
+          "indent": 0,
+          "lineNo": 1637
+        },
+        {
+          "type": "verseLine",
+          "text": "Forbear, forbear, most honoured Aeschylus; And you, my poor Euripides, begone If you are wise, out of this pitiless hail, Lest with some heady word he crack your scull And batter out your brain-less Telephus. And not with passion, Aeschylus, but calmly Test and be tested. 'Tis not meet for poets To scold each other, like two baking-girls. But you go roaring like an oak on fire. EURIPIDES",
+          "indent": 0,
+          "lineNo": 1640
+        },
+        {
+          "type": "verseLine",
+          "text": "I'm ready, I don't draw back one bit. I'll lash or, if he will, let him lash first The talk, the lays, the sinews of a play: Aye and my Peleus, aye and Aeolus. And Meleager, aye and Telephus. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1650
+        },
+        {
+          "type": "verseLine",
+          "text": "And what do you propose? Speak, Aeschylus. AESCHYLUS",
+          "indent": 0,
+          "lineNo": 1656
+        },
+        {
+          "type": "verseLine",
+          "text": "I could have wished to meet him otherwhere. We fight not here on equal terms. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1658
+        },
+        {
+          "type": "verseLine",
+          "text": "Why not? AESCHYLUS",
+          "indent": 0,
+          "lineNo": 1661
+        },
+        {
+          "type": "verseLine",
+          "text": "My poetry survived me: his died with him: He's got it here, all handy to recite. Howbeit, if so you wish it, so we'll have it. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1663
+        },
+        {
+          "type": "verseLine",
+          "text": "O bring me fire, and bring me frankincense. I'll pray, or e'er the clash of wits begin, To judge the strife with high poetic skill. Meanwhile to the CHORUS invoke the Muses with a song. CHORUS",
+          "indent": 0,
+          "lineNo": 1667
+        },
+        {
+          "type": "verseLine",
+          "text": "O Muses, the daughters divine of Zeus, the immaculate Nine, Who gaze from your mansions serene on intellects subtle and keen, When down to the tournament lists, in bright-polished wit they descend, With wrestling and turnings and twists in the battle of words to contend, O come and behold what the two antagonist poets can do, Whose mouths are the swiftest to teach grand language and filings of speech: For now of their wits is the sternest encounter commencing in earnest. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1674
+        },
+        {
+          "type": "verseLine",
+          "text": "Ye two, put up your prayers before ye start. AESCHYLUS",
+          "indent": 0,
+          "lineNo": 1688
+        },
+        {
+          "type": "verseLine",
+          "text": "Demeter, mistress, nourisher of my soul, O make me worthy of thy mystic rites! DIONYSUS",
+          "indent": 0,
+          "lineNo": 1690
+        },
+        {
+          "type": "verseLine",
+          "text": "to EURIPIDES Now put on incense, you. EURIPIDES",
+          "indent": 0,
+          "lineNo": 1693
+        },
+        {
+          "type": "verseLine",
+          "text": "Excuse me, no; My vows are paid to other gods than these. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1696
+        },
+        {
+          "type": "verseLine",
+          "text": "What, a new coinage of your own? EURIPIDES",
+          "indent": 0,
+          "lineNo": 1699
+        },
+        {
+          "type": "verseLine",
+          "text": "Precisely. DIONYSUS",
+          "indent": 0,
+          "lineNo": 1701
+        },
+        {
+          "type": "verseLine",
+          "text": "Pray then to them, those private gods of yours. EURIPIDES",
+          "indent": 0,
+          "lineNo": 1703
+        },
+        {
+          "type": "verseLine",
+          "text": "Ether, my pasture, volubly-rolling tongue, Intelligent wit and critic nostrils keen, O well and neatly may I trounce his plays! CHORUS",
+          "indent": 0,
+          "lineNo": 1705
+        },
+        {
+          "type": "verseLine",
+          "text": "We also are yearning from these to be learning",
+          "indent": 0,
+          "lineNo": 1709
+        },
+        {
+          "type": "verseLine",
+          "text": "Some stately measure, some majestic grand",
+          "indent": 0,
+          "lineNo": 1710
+        },
+        {
+          "type": "verseLine",
+          "text": "Movement telling of conflicts nigh.",
+          "indent": 0,
+          "lineNo": 1711
+        },
+        {
+          "type": "verseLine",
+          "text": "Now for battle arrayed they stand,",
+          "indent": 0,
+          "lineNo": 1712
+        },
+        {
+          "type": "verseLine",
+          "text": "Tongues embittered, and anger high.",
+          "indent": 0,
+          "lineNo": 1713
+        },
+        {
+          "type": "verseLine",
+          "text": "Each has got a venturesome will,",
+          "indent": 0,
+          "lineNo": 1714
+        },
+        {
+          "type": "verseLine",
+          "text": "Each an eager and nimble mind;",
+          "indent": 0,
+          "lineNo": 1715
+        },
+        {
+          "type": "verseLine",
+          "text": "One will wield, with artistic skill,",
+          "indent": 0,
+          "lineNo": 1716
+        },
+        {
+          "type": "verseLine",
+          "text": "Clearcut phrases, and wit refined;",
+          "indent": 0,
+          "lineNo": 1717
+        },
+        {
+          "type": "verseLine",
+          "text": "Then the other, with words defiant, A NA",
+          "indent": 0,
+          "lineNo": 1718
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "sectionCount": 1,
+    "paragraphCount": 0,
+    "wordCount": 7968
+  }
+}
