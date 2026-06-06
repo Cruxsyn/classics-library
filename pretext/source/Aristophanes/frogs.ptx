@@ -1,0 +1,1728 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pretext xml:lang="en-US">
+  <book xml:id="aristophanes-frogs">
+    <title>The Frogs</title>
+    <chapter xml:id="frogs-the-frogs">
+      <title>The Frogs</title>
+      <poem xml:id="frogs-the-frogs-poem-1">
+        <stanza xml:id="frogs-the-frogs-stanza-1-1">
+          <line>Dramatis Personae</line>
+          <line>XANTHIAS, servant of DIONYSUS</line>
+          <line>DIONYSUS</line>
+          <line>HERACLES</line>
+          <line>A CORPSE</line>
+          <line>CHARON</line>
+          <line>AEACUS</line>
+          <line>A MAID SERVANT OF PERSEPHONE</line>
+          <line>HOSTESS, keeper of cook-shop</line>
+          <line>PLATHANE, her partner</line>
+          <line>EURIPIDES</line>
+          <line>AESCHYLUS</line>
+          <line>PLUTO</line>
+          <line>CHORUS OF FROGS</line>
+          <line>CHORUS OF BLESSED MYSTICS</line>
+          <line>Scene The scene shows the house of HERACLES in the background. There enter two travellers: DIONYSUS on foot, in his customary yellow robe and buskins but also with the club and lion's skin of Heracles, and his servant XANTHIAS on a donkey, carrying the luggage on a pole over his shoulder.</line>
+          <line>XANTHIAS</line>
+          <line>Shall I crack any of those old jokes, master,</line>
+          <line>At which the audience never fail to laugh?</line>
+          <line>DIONYSUS</line>
+          <line>Aye, what you will, except "I'm getting</line>
+          <line>crushed":</line>
+          <line>Fight shy of that: I'm sick of that already.</line>
+          <line>XANTHIAS</line>
+          <line>Nothing else smart?</line>
+          <line>DIONYSUS</line>
+          <line>Aye, save "my shoulder's aching."</line>
+          <line>XANTHIAS</line>
+          <line>Come now, that comical joke?</line>
+          <line>DIONYSUS</line>
+          <line>With all my heart.</line>
+          <line>Only be careful not to shift your pole,</line>
+          <line>And-</line>
+          <line>XANTHIAS</line>
+          <line>What?</line>
+          <line>DIONYSUS</line>
+          <line>And vow that you've a belly-ache.</line>
+          <line>XANTHIAS</line>
+          <line>May I not say I'm overburdened so</line>
+          <line>That if none ease me, I must ease myself?</line>
+          <line>DIONYSUS</line>
+          <line>For mercy's sake, not till I'm going to vomit.</line>
+          <line>XANTHIAS</line>
+          <line>What! must I bear these burdens, and not</line>
+          <line>make</line>
+          <line>One of the jokes Ameipsias and Lycis</line>
+          <line>And Phrynichus, in every play they write,</line>
+          <line>Put in the mouths of their burden-bearers?</line>
+          <line>DIONYSUS</line>
+          <line>Don't make them; no! I tell you when I see</line>
+          <line>Their plays, and hear those jokes, I come away</line>
+          <line>More than a twelvemonth older than I went.</line>
+          <line>XANTHIAS</line>
+          <line>O thrice unlucky neck of mine, which now</line>
+          <line>Is getting crushed, yet must not crack its joke!</line>
+          <line>DIONYSUS</line>
+          <line>Now is not this fine pampered insolence</line>
+          <line>When I myself, Dionysus, son of-Pipkin,</line>
+          <line>Toil on afoot, and let this fellow ride,</line>
+          <line>Taking no trouble, and no burden bearing?</line>
+          <line>XANTHIAS</line>
+          <line>What, don't I bear?</line>
+          <line>DIONYSUS</line>
+          <line>How can you when you're riding?</line>
+          <line>XANTHIAS</line>
+          <line>Why, I bear these.</line>
+          <line>DIONYSUS</line>
+          <line>How?</line>
+          <line>XANTHIAS</line>
+          <line>Most unwillingly.</line>
+          <line>DIONYSUS</line>
+          <line>Does not the donkey bear the load you're bearing?</line>
+          <line>XANTHIAS</line>
+          <line>Not what I bear myself: by Zeus, not he.</line>
+          <line>DIONYSUS</line>
+          <line>How can you bear, when you are borne yourself?</line>
+          <line>XANTHIAS</line>
+          <line>Don't know: but anyhow my shoulder's aching.</line>
+          <line>DIONYSUS</line>
+          <line>Then since you say the donkey helps you</line>
+          <line>not,</line>
+          <line>You lift him up and carry him in turn.</line>
+          <line>XANTHIAS</line>
+          <line>O hang it all! why didn't I fight at sea?</line>
+          <line>You should have smarted bitterly for this.</line>
+          <line>DIONYSUS</line>
+          <line>Get down, you rascal; I've been trudging</line>
+          <line>on</line>
+          <line>Till now I've reached the portal, where I'm going</line>
+          <line>First to turn in. Boy! Boy! I say there, Boy!</line>
+          <line>Enter HERACLES from house.</line>
+          <line>HERACLES</line>
+          <line>Who banged the door? How like prancing Centaur</line>
+          <line>He drove against it Mercy o' me, what's this?</line>
+          <line>DIONYSUS</line>
+          <line>Boy.</line>
+          <line>XANTHIAS</line>
+          <line>Yes.</line>
+          <line>DIONYSUS</line>
+          <line>Did you observe?</line>
+          <line>XANTHIAS</line>
+          <line>What?</line>
+          <line>DIONYSUS</line>
+          <line>How alarmed he is.</line>
+          <line>XANTHIAS</line>
+          <line>Aye truly, lest you've lost your wits.</line>
+          <line>HERACLES</line>
+          <line>O by Demeter, I can't choose but laugh.</line>
+          <line>Biting my lips won't stop me. Ha! ha! ha!</line>
+          <line>DIONYSUS</line>
+          <line>Pray you, come hither, I have need of you.</line>
+          <line>HERACLES</line>
+          <line>I vow I can't help laughing, I can't help</line>
+          <line>it.</line>
+          <line>A lion's hide upon a yellow silk,</line>
+          <line>A club and buskin! What's it all about?</line>
+          <line>Where were you going?</line>
+          <line>DIONYSUS</line>
+          <line>I was serving lately</line>
+          <line>Aboard the-Cleisthenes.</line>
+          <line>More than a dozen of the enemy's ships.</line>
+          <line>HERACLES</line>
+          <line>You two?</line>
+          <line>DIONYSUS</line>
+          <line>We two.</line>
+          <line>HERACLES</line>
+          <line>And then I awoke, and lo!</line>
+          <line>DIONYSUS</line>
+          <line>There as, on deck, I'm reading to myself</line>
+          <line>The Andromeda, a sudden pang of longing.</line>
+          <line>Shoots through my heart, you can't conceive how keenly.</line>
+          <line>HERACLES</line>
+          <line>How big a pang?</line>
+          <line>DIONYSUS</line>
+          <line>A small one, Molon's size.</line>
+          <line>HERACLES</line>
+          <line>Caused by a woman?</line>
+          <line>DIONYSUS</line>
+          <line>No.</line>
+          <line>HERACLES</line>
+          <line>A boy?</line>
+          <line>DIONYSUS</line>
+          <line>No, no.</line>
+          <line>HERACLES</line>
+          <line>A man?</line>
+          <line>DIONYSUS</line>
+          <line>Ah! ah!</line>
+          <line>HERACLES</line>
+          <line>Was it for Cleisthenes?</line>
+          <line>DIONYSUS</line>
+          <line>Don't mock me, brother: on my life I am</line>
+          <line>In a bad way: such fierce desire consumes me.</line>
+          <line>HERACLES</line>
+          <line>Aye, little brother? how?</line>
+          <line>DIONYSUS</line>
+          <line>I can't describe it.</line>
+          <line>But yet I'll tell you in a riddling way.</line>
+          <line>Have you e'er felt a sudden lust for soup?</line>
+          <line>HERACLES</line>
+          <line>Soup! Zeus-a-mercy, yes, ten thousand times.</line>
+          <line>DIONYSUS</line>
+          <line>Is the thing clear, or must I speak again?</line>
+          <line>HERACLES</line>
+          <line>Not of the soup: I'm clear about the soup.</line>
+          <line>DIONYSUS</line>
+          <line>Well, just that sort of pang devours my</line>
+          <line>heart</line>
+          <line>For lost Euripides.</line>
+          <line>HERACLES</line>
+          <line>A dead man too.</line>
+          <line>DIONYSUS</line>
+          <line>And no one shall persuade me not to go</line>
+          <line>After the man.</line>
+          <line>HERACLES</line>
+          <line>Do you mean below, to Hades?</line>
+          <line>DIONYSUS</line>
+          <line>And lower still, if there's a lower still.</line>
+          <line>HERACLES</line>
+          <line>What on earth for?</line>
+          <line>DIONYSUS</line>
+          <line>I want a genuine poet,</line>
+          <line>"For some are not, and those that are, are bad."</line>
+          <line>HERACLES</line>
+          <line>What! does not Iophon live?</line>
+          <line>DIONYSUS</line>
+          <line>Well, he's the sole</line>
+          <line>Good thing remaining, if even he is good.</line>
+          <line>For even of that I'm not exactly certain.</line>
+          <line>HERACLES</line>
+          <line>If go you must, there's Sophocles-he comes</line>
+          <line>Before Euripides-why not take him?</line>
+          <line>DIONYSUS</line>
+          <line>Not till I've tried if Iophon's coin rings</line>
+          <line>true</line>
+          <line>When he's alone, apart from Sophocles.</line>
+          <line>Besides, Euripides, the crafty rogue,</line>
+          <line>Will find a thousand shifts to get away,</line>
+          <line>But he was easy here, is easy there.</line>
+          <line>HERACLES</line>
+          <line>But Agathon, where is he?</line>
+          <line>DIONYSUS</line>
+          <line>He has gone and left us.</line>
+          <line>A genial poet, by his friends much missed.</line>
+          <line>HERACLES</line>
+          <line>Gone where?</line>
+          <line>DIONYSUS</line>
+          <line>To join the blessed in their banquets.</line>
+          <line>HERACLES</line>
+          <line>But what of Xenocles?</line>
+          <line>DIONYSUS</line>
+          <line>O he be hanged!</line>
+          <line>HERACLES</line>
+          <line>Pythangelus?</line>
+          <line>XANTHIAS</line>
+          <line>But never a word of me,</line>
+          <line>Not though my shoulder's chafed so terribly.</line>
+          <line>HERACLES But have you not a shoal of little songsters,</line>
+          <line>Tragedians by the myriad, who can chatter</line>
+          <line>A furlong faster than Euripides?</line>
+          <line>DIONYSUS</line>
+          <line>Those be mere vintage-leavings, jabberers,</line>
+          <line>choirs</line>
+          <line>Of swallow-broods, degraders of their art,</line>
+          <line>Who get one chorus, and are seen no more,</line>
+          <line>The Muses' love once gained. But O, my friend,</line>
+          <line>Search where you will, you'll never find a true</line>
+          <line>Creative genius, uttering startling things.</line>
+          <line>HERACLES</line>
+          <line>Creative? how do you mean?</line>
+          <line>Who'll dare some novel venturesome conceit,</line>
+          <line>"Air, Zeus's chamber," or "Time's foot," or this,</line>
+          <line>"'Twas not my mind that swore: my tongue committed</line>
+          <line>A little perjury on its own account."</line>
+          <line>HERACLES</line>
+          <line>You like that style?</line>
+          <line>DIONYSUS</line>
+          <line>Like it? I dote upon it.</line>
+          <line>HERACLES</line>
+          <line>I vow its ribald nonsense, and you know it.</line>
+          <line>DIONYSUS</line>
+          <line>"Rule not my mind": you've got a house to mind.</line>
+          <line>HERACLES</line>
+          <line>Really and truly though 'tis paltry stuff.</line>
+          <line>DIONYSUS</line>
+          <line>Teach me to dine!</line>
+          <line>XANTHIAS</line>
+          <line>But never a word of me.</line>
+          <line>DIONYSUS</line>
+          <line>But tell me truly-'twas for this I came</line>
+          <line>Dressed up to mimic you-what friends received</line>
+          <line>And entertained you when you went below</line>
+          <line>To bring back Cerberus, in case I need them.</line>
+          <line>And tell me too the havens, fountains, shops,</line>
+          <line>Roads, resting-places, stews, refreshment-rooms,</line>
+          <line>Towns, lodgings, hostesses, with whom were found</line>
+          <line>The fewest bugs.</line>
+          <line>XANTHIAS</line>
+          <line>But never a word of me.</line>
+          <line>HERACLES</line>
+          <line>You are really game to go?</line>
+          <line>DIONYSUS</line>
+          <line>O drop that, can't you?</line>
+          <line>And tell me this: of all the roads you know</line>
+          <line>Which is the quickest way to get to Hades?</line>
+          <line>I want one not too warm, nor yet too cold.</line>
+          <line>HERACLES</line>
+          <line>Which shall I tell you first? which shall it</line>
+          <line>be?</line>
+          <line>There's one by rope and bench: you launch away</line>
+          <line>And-hang yourself.</line>
+          <line>DIONYSUS</line>
+          <line>No thank you: that's too stifling.</line>
+          <line>HERACLES</line>
+          <line>Then there's a track, a short and beaten</line>
+          <line>cut,</line>
+          <line>By pestle and mortar.</line>
+          <line>DIONYSUS</line>
+          <line>Hemlock, do you mean?</line>
+          <line>HERACLES</line>
+          <line>Just so.</line>
+          <line>DIONYSUS</line>
+          <line>No, that's too deathly cold a way;</line>
+          <line>You have hardly started ere your shins get numbed.</line>
+          <line>HERACLES</line>
+          <line>Well, would you like a steep and swift descent?</line>
+          <line>DIONYSUS</line>
+          <line>Aye, that's the style: my walking powers are small.</line>
+          <line>HERACLES</line>
+          <line>Go down to the Cerameicus.</line>
+          <line>DIONYSUS</line>
+          <line>And do what?</line>
+          <line>HERACLES</line>
+          <line>Climb to the tower's top pinnacle-</line>
+          <line>DIONYSUS</line>
+          <line>And then?</line>
+          <line>HERACLES</line>
+          <line>Observe the torch-race started, and when</line>
+          <line>all</line>
+          <line>The multitude is shouting "Let them go,"</line>
+          <line>Let yourself go.</line>
+          <line>DIONYSUS</line>
+          <line>Go! whither?</line>
+          <line>HERACLES</line>
+          <line>To the ground.</line>
+          <line>DIONYSUS</line>
+          <line>And lose, forsooth, two envelopes of brain.</line>
+          <line>I'll not try that.</line>
+          <line>HERACLES</line>
+          <line>Which will you try?</line>
+          <line>DIONYSUS</line>
+          <line>The way</line>
+          <line>You went yourself.</line>
+          <line>HERACLES</line>
+          <line>A parlous voyage that,</line>
+          <line>For first you'll come to an enormous lake</line>
+          <line>Of fathomless depth.</line>
+          <line>DIONYSUS</line>
+          <line>And how am I to cross?</line>
+          <line>HERACLES</line>
+          <line>An ancient mariner will row you over</line>
+          <line>In a wee boat, so big. The fare's two obols.</line>
+          <line>DIONYSUS</line>
+          <line>Fie! The power two obols have, the whole world</line>
+          <line>through!</line>
+          <line>How came they thither!</line>
+          <line>HERACLES</line>
+          <line>Theseus took them down.</line>
+          <line>And next you'll see great snakes and savage monsters</line>
+          <line>In tens of thousands.</line>
+          <line>DIONYSUS</line>
+          <line>You needn't try to scare me,</line>
+          <line>I'm going to go.</line>
+          <line>HERACLES</line>
+          <line>Then weltering seas of filth</line>
+          <line>And ever-rippling dung: and plunged therein,</line>
+          <line>Whoso has wronged the stranger here on earth,</line>
+          <line>Or robbed his boylove of the promised pay,</line>
+          <line>Or swinged his mother, or profanely smitten</line>
+          <line>His father's check, or sworn an oath forsworn,</line>
+          <line>Or copied out a speech of Morsimus.</line>
+          <line>DIONYSUS</line>
+          <line>There too, perdie, should he be plunged,</line>
+          <line>whoe'er</line>
+          <line>Has danced the sword-dance of Cinesias.</line>
+          <line>HERACLES</line>
+          <line>And next the breath of flutes will float around</line>
+          <line>you,</line>
+          <line>And glorious sunshine, such as ours, you'll see,</line>
+          <line>And myrtle groves, and happy bands who clap</line>
+          <line>Their hands in triumph, men and women too.</line>
+          <line>DIONYSUS</line>
+          <line>And who are they?</line>
+          <line>HERACLES</line>
+          <line>The happy mystic bands,</line>
+          <line>XANTHIAS</line>
+          <line>And I'm the donkey in the mystery show.</line>
+          <line>But I'll not stand it, not one instant longer.</line>
+          <line>HERACLES</line>
+          <line>Who'll tell you everything you want to know.</line>
+          <line>You'll find them dwelling close beside the road</line>
+          <line>You are going to travel, just at Pluto's gate.</line>
+          <line>And fare thee well, my brother.</line>
+          <line>DIONYSUS</line>
+          <line>And to you Good cheer.</line>
+          <line>Exit HERACLES.</line>
+          <line>Now sirrah, pick you up the traps.</line>
+          <line>XANTHIAS</line>
+          <line>Before I've put them down?</line>
+          <line>DIONYSUS</line>
+          <line>And quickly too.</line>
+          <line>XANTHIAS</line>
+          <line>No, prithee, no: but hire a body, one</line>
+          <line>They're carrying out, on purpose for the trip.</line>
+          <line>DIONYSUS</line>
+          <line>If I can't find one?</line>
+          <line>XANTHIAS</line>
+          <line>Then I'll take them.</line>
+          <line>DIONYSUS</line>
+          <line>Good.</line>
+          <line>And see they are carrying out a body now.</line>
+          <line>Here a CORPSE, wrapped in its grave-clothes, and lying on a bier,</line>
+          <line>is carried across the stage.</line>
+          <line>Hallo! you there, you deadman, are you willing</line>
+          <line>To carry down our little traps to Hades?</line>
+          <line>CORPSE</line>
+          <line>What are they?</line>
+          <line>DIONYSUS</line>
+          <line>These.</line>
+          <line>CORPSE</line>
+          <line>Two drachmas for the job?</line>
+          <line>DIONYSUS</line>
+          <line>Nay, that's too much.</line>
+          <line>CORPSE</line>
+          <line>Out of the pathway, you!</line>
+          <line>DIONYSUS</line>
+          <line>Beshrew thee, stop: may-be we'll strike a bargain.</line>
+          <line>CORPSE</line>
+          <line>Pay me two drachmas, or it's no use talking.</line>
+          <line>DIONYSUS</line>
+          <line>One and a half.</line>
+          <line>CORPSE</line>
+          <line>I'd liefer live again I</line>
+          <line>XANTHIAS</line>
+          <line>How absolute the knave is! He be hanged!</line>
+          <line>I'll go myself.</line>
+          <line>DIONYSUS</line>
+          <line>You're the right sort, my man.</line>
+          <line>Now to the ferry.</line>
+          <line>Enter CHARON.</line>
+          <line>CHARON</line>
+          <line>Yoh, up! lay her to.</line>
+          <line>XANTHIAS</line>
+          <line>Whatever's that?</line>
+          <line>DIONYSUS</line>
+          <line>Why, that's the lake, by Zeus,</line>
+          <line>Whereof he spake, and yon's the ferry-boat.</line>
+          <line>XANTHIAS</line>
+          <line>Poseidon, yes, and that old fellow's Charon.</line>
+          <line>DIONYSUS</line>
+          <line>Charon! O welcome, Charon! welcome, Charon!</line>
+          <line>CHARON</line>
+          <line>Who's for the Rest from every pain and ill?</line>
+          <line>Who's for the Lethe's plain? the Donkey-shearings?</line>
+          <line>Who's for Cerberia? Taenarum? or the Ravens?</line>
+          <line>DIONYSUS</line>
+          <line>I.</line>
+          <line>CHARON</line>
+          <line>Hurry in.</line>
+          <line>DIONYSUS</line>
+          <line>But where are you going really?</line>
+          <line>In truth to the Ravens?</line>
+          <line>CHARON</line>
+          <line>Aye, for your behoof. Step in.</line>
+          <line>DIONYSUS</line>
+          <line>to XANTHIAS</line>
+          <line>Now, lad.</line>
+          <line>CHARON</line>
+          <line>A slave? I take no slave,</line>
+          <line>Unless he has fought for his bodyrights at sea.</line>
+          <line>XANTHIAS</line>
+          <line>I couldn't go. I'd got the eye-disease.</line>
+          <line>CHARON</line>
+          <line>Then fetch a circuit round about the lake.</line>
+          <line>XANTHIAS</line>
+          <line>Where must I wait?</line>
+          <line>CHARON</line>
+          <line>Beside the Withering stone, Hard by the Rest.</line>
+          <line>DIONYSUS</line>
+          <line>You understand?</line>
+          <line>XANTHIAS</line>
+          <line>Too well.</line>
+          <line>O, what ill omen crossed me as I started! Exit.</line>
+          <line>CHARON</line>
+          <line>to DIONYSUS</line>
+          <line>Sit to the oar.</line>
+          <line>calling</line>
+          <line>Who else for the boat? Be quick.</line>
+          <line>to DIONYSUS</line>
+          <line>Hi! what are you doing?</line>
+          <line>DIONYSUS</line>
+          <line>What am I doing? Sitting</line>
+          <line>On to the oar. You told me to, yourself</line>
+          <line>CHARON</line>
+          <line>Now sit you there, you little Potgut.</line>
+          <line>DIONYSUS</line>
+          <line>Now stretch your arms full length before you.</line>
+          <line>CHARON</line>
+          <line>Come, don't keep fooling; plant your feet, Pull with a will.</line>
+          <line>DIONYSUS</line>
+          <line>Why, how am I to pull?</line>
+          <line>I'm not an oarsman, seaman, Salaminian. I can't.</line>
+          <line>CHARON</line>
+          <line>You can. Just dip your oar in once,</line>
+          <line>You'll hear the loveliest timing songs.</line>
+          <line>DIONYSUS</line>
+          <line>What from?</line>
+          <line>CHARON</line>
+          <line>Frog-swans, most wonderful.</line>
+          <line>DIONYSUS</line>
+          <line>Then give the word.</line>
+          <line>CHARON</line>
+          <line>Heave ahoy! heave ahoy I</line>
+          <line>FROGS</line>
+          <line>off stage</line>
+          <line>Brekekekex, ko-ax, ko-ax,</line>
+          <line>Brekekekex, ko-ax, ko-ax!</line>
+          <line>We children of the fountain and the lake</line>
+          <line>Let us wake</line>
+          <line>Our full choir-shout, as the flutes are ringing</line>
+          <line>out,</line>
+          <line>Our symphony of clear-voiced song.</line>
+          <line>The song we used to love in the Marshland up above,</line>
+          <line>In praise of Dionysus to produce,</line>
+          <line>Of Nysaean Dionysus, son of Zeus,</line>
+          <line>When the revel-tipsy throng, all crapulous and gay,</line>
+          <line>To our precinct reeled along on the holy Pitcher</line>
+          <line>day,</line>
+          <line>Brekekekex, ko-ax, ko-ax.</line>
+          <line>DIONYSUS</line>
+          <line>O, dear! O, dear! now I declare</line>
+          <line>I've got a bump upon my rump,</line>
+          <line>FROGS</line>
+          <line>Brekekekex, ko-ax, ko-ax.</line>
+          <line>DIONYSUS</line>
+          <line>But you, perchance, don't care.</line>
+          <line>FROGS</line>
+          <line>Brekekekex, ko-ax, ko-ax.</line>
+          <line>DIONYSUS</line>
+          <line>Hang you, and your ko-axing tool</line>
+          <line>There's nothing but ko-ax with you.</line>
+          <line>FROGS</line>
+          <line>That is right, Mr. Busybody, right!</line>
+          <line>For the Muses of the lyre love us well;</line>
+          <line>And hornfoot Pan who plays on the pipe his jocund</line>
+          <line>lays;</line>
+          <line>And Apollo, Harper bright, in our Chorus takes delight;</line>
+          <line>For the strong reed's sake which I grow within my</line>
+          <line>lake</line>
+          <line>To be girdled in his lyre's deep shell.</line>
+          <line>Brekekekex, ko-ax, ko-ax.</line>
+          <line>DIONYSUS</line>
+          <line>My hands are blistered very sore;</line>
+          <line>My stern below is sweltering so,</line>
+          <line>'Twill soon, I know, upturn and roar</line>
+          <line>Brekekekex, ko-ax, ko-ax.</line>
+          <line>O tuneful race, O pray give o'er,</line>
+          <line>O sing no more.</line>
+          <line>FROGS</line>
+          <line>Ah, no! ah, no!</line>
+          <line>Loud and louder our chant must flow.</line>
+          <line>Sing if ever ye sang of yore,</line>
+          <line>When in sunny and glorious days</line>
+          <line>Through the rushes and marsh-flags springing</line>
+          <line>On we swept, in the joy of singing</line>
+          <line>Myriad-diving roundelays.</line>
+          <line>Or when fleeing the storm, we went</line>
+          <line>Down to the depths, and our choral song</line>
+          <line>Wildly raised to a loud and long</line>
+          <line>Bubble-bursting accompaniment.</line>
+          <line>FROGS AND DIONYSUS</line>
+          <line>Brekekekex, ko-ax, ko-ax.</line>
+          <line>DIONYSUS</line>
+          <line>This timing song I take from you.</line>
+          <line>FROGS</line>
+          <line>That's a dreadful thing to do.</line>
+          <line>DIONYSUS</line>
+          <line>Much more dreadful, if I row</line>
+          <line>Till I burst myself, I trow.</line>
+          <line>FROGS AND DIONYSUS</line>
+          <line>Brekekekex, ko-ax, ko-ax.</line>
+          <line>DIONYSUS</line>
+          <line>Go, hang yourselves; for what care I?</line>
+          <line>FROGS</line>
+          <line>All the same we'll shout and cry,</line>
+          <line>Stretching all our throats with song,</line>
+          <line>Shouting, crying, all day long,</line>
+          <line>FROGS AND DIONYSUS</line>
+          <line>Brekekekex, ko-ax, ko-ax.</line>
+          <line>DIONYSUS</line>
+          <line>In this you'll never, never win.</line>
+          <line>FROGS</line>
+          <line>This you shall not beat us in.</line>
+          <line>DIONYSUS</line>
+          <line>No, nor ye prevail o'er me.</line>
+          <line>Never! never! I'll my song,</line>
+          <line>Shout, if need be, all day Yong,</line>
+          <line>Until I've learned to master your ko-ax.</line>
+          <line>Brekekekex, ko-ax, ko-ax.</line>
+          <line>I thought I'd put a stop to your ko-ax.</line>
+          <line>CHARON</line>
+          <line>Stop! Easy! Take the oar and push her to.</line>
+          <line>Now pay your fare and go.</line>
+          <line>DIONYSUS</line>
+          <line>Here' tis: two obols.</line>
+          <line>Xanthias! where's Xanthias? Is it Xanthias there?</line>
+          <line>XANTHIAS</line>
+          <line>off stage</line>
+          <line>Hoi, hoi!</line>
+          <line>DIONYSUS</line>
+          <line>Come hither.</line>
+          <line>XANTHIAS</line>
+          <line>Entering</line>
+          <line>Glad to meet you, master.</line>
+          <line>DIONYSUS</line>
+          <line>What have you there?</line>
+          <line>XANTHIAS</line>
+          <line>Nothing but filth and darkness.</line>
+          <line>DIONYSUS</line>
+          <line>But tell me, did you see the parricides</line>
+          <line>And perjured folk he mentioned?</line>
+          <line>XANTHIAS</line>
+          <line>Didn't you?</line>
+          <line>DIONYSUS</line>
+          <line>Poseidon, yes. Why look!</line>
+          <line>pointing to the audience</line>
+          <line>I see them now.</line>
+          <line>What's the next step?</line>
+          <line>XANTHIAS</line>
+          <line>We'd best be moving on.</line>
+          <line>This is the spot where Heracles declared</line>
+          <line>Those savage monsters dwell.</line>
+          <line>DIONYSUS</line>
+          <line>O hang the fellow.</line>
+          <line>That's all his bluff: he thought to scare me off,</line>
+          <line>The jealous dog, knowing my plucky ways.</line>
+          <line>There's no such swaggerer lives as Heracles.</line>
+          <line>Why, I'd like nothing better than to achieve</line>
+          <line>Some bold adventure, worthy of our trip.</line>
+          <line>XANTHIAS</line>
+          <line>I know you would. Hallo! I hear a noise.</line>
+          <line>DIONYSUS</line>
+          <line>Where? what?</line>
+          <line>XANTHIAS</line>
+          <line>Behind us, there.</line>
+          <line>DIONYSUS</line>
+          <line>Get you behind.</line>
+          <line>XANTHIAS</line>
+          <line>No, it's in front.</line>
+          <line>DIONYSUS</line>
+          <line>Get you in front directly.</line>
+          <line>XANTHIAS</line>
+          <line>And now I see the most ferocious monster.</line>
+          <line>DIONYSUS</line>
+          <line>O, what's it like?</line>
+          <line>XANTHIAS</line>
+          <line>Like everything by turns.</line>
+          <line>Now it's a bull: now it's a mule: and now</line>
+          <line>The loveliest girl.</line>
+          <line>DIONYSUS</line>
+          <line>O, where? I'll go and meet her.</line>
+          <line>XANTHIAS</line>
+          <line>It's ceased to be a girl: it's a dog now.</line>
+          <line>DIONYSUS</line>
+          <line>It is Empusa!</line>
+          <line>XANTHIAS</line>
+          <line>Well, its face is all</line>
+          <line>Ablaze with fire.</line>
+          <line>DIONYSUS</line>
+          <line>Has it a copper leg?</line>
+          <line>XANTHIAS</line>
+          <line>A copper leg? yes, one; and one of cow dung.</line>
+          <line>DIONYSUS</line>
+          <line>O, whither shall I flee?</line>
+          <line>XANTHIAS</line>
+          <line>O, whither I?</line>
+          <line>DIONYSUS</line>
+          <line>My priest, protect me, and we'll sup together.</line>
+          <line>XANTHIAS</line>
+          <line>King Heracles, we're done for.</line>
+          <line>DIONYSUS</line>
+          <line>O, forbear, Good fellow, call me anything but that.</line>
+          <line>XANTHIAS</line>
+          <line>Well then, Dionysus.</line>
+          <line>DIONYSUS</line>
+          <line>O, that's worse again,</line>
+          <line>XANTHIAS</line>
+          <line>to the SPECTRE</line>
+          <line>Aye, go thy way. O master, here, come here.</line>
+          <line>DIONYSUS</line>
+          <line>O, what's up now?</line>
+          <line>XANTHIAS</line>
+          <line>Take courage; all's serene.</line>
+          <line>And, like Hegelochus, we now may say</line>
+          <line>"Out of the storm there comes a new wether."</line>
+          <line>Empusa's gone.</line>
+          <line>DIONYSUS</line>
+          <line>Swear it.</line>
+          <line>XANTHIAS</line>
+          <line>By Zeus she is.</line>
+          <line>DIONYSUS</line>
+          <line>Swear it again.</line>
+          <line>XANTHIAS</line>
+          <line>By Zeus.</line>
+          <line>DIONYSUS</line>
+          <line>Again.</line>
+          <line>XANTHIAS</line>
+          <line>By Zeus.</line>
+          <line>O dear, O dear, how pale I grew to see her,</line>
+          <line>But he, from fright has yellowed me all over.</line>
+          <line>DIONYSUS</line>
+          <line>Ah me, whence fall these evils on my head?</line>
+          <line>on</line>
+          <line>Who is the god to blame for my destruction?</line>
+          <line>Air, Zeus's chamber, or the Foot of Time?</line>
+          <line>A flute is played behind the scenes.</line>
+          <line>XANTHIAS</line>
+          <line>What's the matter?</line>
+          <line>DIONYSUS</line>
+          <line>The breath of flutes.</line>
+          <line>XANTHIAS</line>
+          <line>Aye, and a whiff of torches</line>
+          <line>Breathed o'er me too; a very mystic whiff.</line>
+          <line>DIONYSUS</line>
+          <line>Then crouch we down, and mark what's going on.</line>
+          <line>CHORUS</line>
+          <line>in the distance</line>
+          <line>O lacchus! O lacchus! O Iacchus!</line>
+          <line>XANTHIAS</line>
+          <line>I have it, master: 'tis those blessed Mystics,</line>
+          <line>Of whom he told us, sporting hereabouts.</line>
+          <line>They sing the Iacchus which Diagoras made.</line>
+          <line>DIONYSUS</line>
+          <line>I think so too: we had better both keep</line>
+          <line>quiet</line>
+          <line>And so find out exactly what it is.</line>
+          <line>Enter CHORUS, who had chanted the songs of the FROGS, as initiates.</line>
+          <line>CHORUS</line>
+          <line>O Iacchus! power excelling, here in stately temples</line>
+          <line>dwelling.</line>
+          <line>O Iacchus! O lacchus!</line>
+          <line>Come to tread this verdant level,</line>
+          <line>Come to dance in mystic revel,</line>
+          <line>Come whilst round thy forehead hurtles</line>
+          <line>Many a wreath of fruitful myrtles,</line>
+          <line>Come with wild and saucy paces</line>
+          <line>Mingling in our joyous dance,</line>
+          <line>Pure and holy, which embraces all the charms of all the</line>
+          <line>Graces,</line>
+          <line>When the mystic choirs advance.</line>
+          <line>XANTHIAS</line>
+          <line>Holy and sacred queen, Demeter's daughter,</line>
+          <line>O, what a jolly whiff of pork breathed o'er me!</line>
+          <line>DIONYSUS</line>
+          <line>Hist! and perchance you'll get some tripe yourself.</line>
+          <line>CHORUS</line>
+          <line>Come, arise, from sleep awaking, come the fiery torches</line>
+          <line>shaking,</line>
+          <line>O Iacchus! O Iacchus!</line>
+          <line>Morning Star that shinest nightly.</line>
+          <line>Lo, the mead is blazing brightly,</line>
+          <line>Age forgets its years and sadness,</line>
+          <line>Aged knees curvet for gladness,</line>
+          <line>Lift thy flashing torches o'er us,</line>
+          <line>Marshal all thy blameless train,</line>
+          <line>Lead, O lead the way before us; lead the lovely youthful</line>
+          <line>Chorus</line>
+          <line>To the marshy flowery plain.</line>
+          <line>All evil thoughts and profane be still: far hence, far hence from our</line>
+          <line>choirs depart,</line>
+          <line>Who knows not well what the Mystics tell, or is not holy and pure of</line>
+          <line>heart;</line>
+          <line>Who ne'er has the noble revelry learned, or danced the dance of the</line>
+          <line>Muses high; or shared in the Bacchic rites which old bull-eating Cratinus's</line>
+          <line>words supply;</line>
+          <line>Who vulgar coarse buffoonery loves, though all untimely the they</line>
+          <line>make;</line>
+          <line>Or lives not easy and kind with all, or kindling faction forbears to</line>
+          <line>slake,</line>
+          <line>But fans the fire, from a base desire some pitiful gain for himself</line>
+          <line>to reap;</line>
+          <line>Or takes, in office, his gifts and bribes, while the city is tossed</line>
+          <line>on the stormy deep;</line>
+          <line>Who fort or fleet to the foe betrays; or, a vile Thorycion, ships</line>
+          <line>away</line>
+          <line>Forbidden stores from Aegina's shores, to Epidaurus across the</line>
+          <line>Bay</line>
+          <line>Transmitting oar-pads and sails and tar, that curst collector of five</line>
+          <line>per cents;</line>
+          <line>The knave who tries to procure supplies for the use of the enemy's</line>
+          <line>armaments;</line>
+          <line>The Cyclian singer who dares befoul the Lady Hecate's wayside</line>
+          <line>shrine;</line>
+          <line>The public speaker who once lampooned in our Bacchic feasts would,</line>
+          <line>with heart malign,</line>
+          <line>Keep nibbling away the Comedians' pay;- to these I utter my warning</line>
+          <line>cry,</line>
+          <line>I charge them once, I charge them twice,</line>
+          <line>I charge them thrice, that they draw not nigh</line>
+          <line>To the sacred dance of the Mystic choir.</line>
+          <line>But ye, my comrades, awake the song,</line>
+          <line>The night-long revels of joy and mirth which ever of right to our feast</line>
+          <line>belong.</line>
+          <line>Advance, true hearts, advance!</line>
+          <line>On to the gladsome bowers,</line>
+          <line>On to the sward, with flowers</line>
+          <line>Embosomed bright!</line>
+          <line>March on with jest, and jeer, and dance,</line>
+          <line>Full well ye've supped to-night.</line>
+          <line>March, chanting loud your lays,</line>
+          <line>Your hearts and voices raising,</line>
+          <line>The Saviour goddess praising</line>
+          <line>Who vows she'll still</line>
+          <line>Our city save to endless days,</line>
+          <line>Whate'er Thorycion's will.</line>
+          <line>Break off the measure, and change the time; and now with chanting and</line>
+          <line>hymns adorn</line>
+          <line>Demeter, goddess mighty and high, the harvest-queen, the giver of</line>
+          <line>corn.</line>
+          <line>O Lady, over our rites presiding,</line>
+          <line>Preserve and succour thy choral throng,</line>
+          <line>And grant us all, in thy help confiding,</line>
+          <line>To dance and revel the whole day long;</line>
+          <line>And much in earnest, and much in jest,</line>
+          <line>Worthy thy feast, may we speak therein.</line>
+          <line>And when we have bantered and laughed our best,</line>
+          <line>The victor's wreath be it ours to win.</line>
+          <line>Call we now the youthful god, call him hither without</line>
+          <line>delay,</line>
+          <line>Him who travels amongst his chorus, dancing along on the Sacred</line>
+          <line>Way.</line>
+          <line>O, come with the joy of thy festival song,</line>
+          <line>O, come to the goddess, O, mix with our throng</line>
+          <line>Untired, though the journey be never so long.</line>
+          <line>O Lord of the frolic and dance, lacchus, beside me</line>
+          <line>advance!</line>
+          <line>For fun, and for cheapness, our dress thou hast</line>
+          <line>rent,</line>
+          <line>Through thee we may dance to the top of our bent,</line>
+          <line>Reviling, and jeering, and none will resent.</line>
+          <line>O Lord of the frolic and dance, lacchus, beside me</line>
+          <line>advance!</line>
+          <line>A sweet pretty girl I observed in the show,</line>
+          <line>Her robe had been torn in the scuffle, and lo,</line>
+          <line>There peeped through the tatters a bosom of snow.</line>
+          <line>O Lord of the frolic and dance, lacchus, beside me advance!</line>
+          <line>DIONYSUS</line>
+          <line>Wouldn't I like to follow on, and try</line>
+          <line>A little sport and dancing?</line>
+          <line>XANTHIAS</line>
+          <line>Wouldn't I?</line>
+          <line>CHORUS</line>
+          <line>Shall we all a merry joke</line>
+          <line>At Archedemus poke,</line>
+          <line>Who has not cut his guildsmen yet, though seven years</line>
+          <line>old;</line>
+          <line>Yet up among the dead</line>
+          <line>He is demagogue and head</line>
+          <line>And contrives the topmost place of the rascaldom to</line>
+          <line>hold?</line>
+          <line>And Cleisthenes, they say,</line>
+          <line>Is among the tombs all day,</line>
+          <line>Bewailing for his lover with a lamentable whine.</line>
+          <line>And Callias, I'm told,</line>
+          <line>Has become a sailor bold,</line>
+          <line>And casts a lion's hide o'er his members feminine.</line>
+          <line>DIONYSUS</line>
+          <line>Can any of you tell</line>
+          <line>Where Pluto here may dwell,</line>
+          <line>For we, sirs, are two strangers who were never here before?</line>
+          <line>CHORUS</line>
+          <line>O, then no further stray,</line>
+          <line>Nor again inquire the way,</line>
+          <line>For know that ye have journeyed to his very entrance-door.</line>
+          <line>DIONYSUS</line>
+          <line>Take up the wraps, my lad.</line>
+          <line>XANTHIAS</line>
+          <line>Now is not this too bad?</line>
+          <line>Like "Zeus's Corinth," he "the wraps" keeps saying o'er and o'er.</line>
+          <line>CHORUS</line>
+          <line>Now wheel your sacred dances through the glade with flowers</line>
+          <line>bedight,</line>
+          <line>All ye who are partakers of the holy festal rite;</line>
+          <line>And I will with the women and the holy maidens go</line>
+          <line>Where they keep the nightly vigil, an auspicious light to</line>
+          <line>show.</line>
+          <line>Now haste we to the roses,</line>
+          <line>And the meadows full of posies,</line>
+          <line>Now haste we to the meadows</line>
+          <line>In our own old way,</line>
+          <line>In choral dances blending,</line>
+          <line>In dances never ending,</line>
+          <line>Which only for the holy</line>
+          <line>The Destinies array.</line>
+          <line>O, happy mystic chorus,</line>
+          <line>The blessed sunshine o'er us</line>
+          <line>On us alone is smiling,</line>
+          <line>In its soft sweet light:</line>
+          <line>On us who strove forever</line>
+          <line>With holy, pure endeavour,</line>
+          <line>Alike by friend and stranger</line>
+          <line>To guide our steps aright.</line>
+          <line>DIONYSUS</line>
+          <line>What's the right way to knock? I wonder</line>
+          <line>how</line>
+          <line>The natives here are wont to knock at doors.</line>
+          <line>XANTHIAS</line>
+          <line>No dawdling: taste the door. You've got,</line>
+          <line>remember,</line>
+          <line>The lion-hide and pride of Heracles.</line>
+          <line>DIONYSUS</line>
+          <line>knocking</line>
+          <line>Boy! boy!</line>
+          <line>The door opens. AEACUS appears.</line>
+          <line>AEACUS</line>
+          <line>Who's there?</line>
+          <line>DIONYSUS</line>
+          <line>I, Heracles the strong!</line>
+          <line>AEACUS</line>
+          <line>O, you most shameless desperate ruffian,</line>
+          <line>you</line>
+          <line>O, villain, villain, arrant vilest villain!</line>
+          <line>Who seized our Cerberus by the throat, and fled,</line>
+          <line>And ran, and rushed, and bolted, haling of</line>
+          <line>The dog, my charge! But now I've got thee fast.</line>
+          <line>So close the Styx's inky-hearted rock,</line>
+          <line>The blood-bedabbled peak of Acheron</line>
+          <line>Shall hem thee in: the hell-hounds of Cocytus</line>
+          <line>Prowl round thee; whilst the hundred-headed Asp</line>
+          <line>Shall rive thy heart-strings: the Tartesian Lamprey</line>
+          <line>Prey on thy lungs: and those Tithrasian Gorgons</line>
+          <line>Mangle and tear thy kidneys, mauling them,</line>
+          <line>Entrails and all, into one bloody mash.</line>
+          <line>I'll speed a running foot to fetch them hither.</line>
+          <line>Exit AEACUS.</line>
+          <line>XANTHIAS</line>
+          <line>Hallo! what now?</line>
+          <line>DIONYSUS</line>
+          <line>I've done it: call the god.</line>
+          <line>XANTHIAS</line>
+          <line>Get up, you laughing-stock; get up directly,</line>
+          <line>Before you're seen.</line>
+          <line>DIONYSUS</line>
+          <line>What, I get up? I'm fainting.</line>
+          <line>Please dab a sponge of water on my heart.</line>
+          <line>XANTHIAS</line>
+          <line>Here! Dab it on.</line>
+          <line>DIONYSUS</line>
+          <line>Where is it?</line>
+          <line>XANTHIAS</line>
+          <line>Ye golden gods,</line>
+          <line>Lies your heart there?</line>
+          <line>DIONYSUS</line>
+          <line>It got so terrified</line>
+          <line>It fluttered down into my stomach's pit.</line>
+          <line>XANTHIAS</line>
+          <line>Cowardliest of gods and men!</line>
+          <line>DIONYSUS</line>
+          <line>The cowardliest? I?</line>
+          <line>What I, who asked you for a sponge, a thing</line>
+          <line>A coward never would have done!</line>
+          <line>XANTHIAS</line>
+          <line>What then?</line>
+          <line>DIONYSUS</line>
+          <line>A coward would have lain there wallowing;</line>
+          <line>But I stood up, and wiped myself withal.</line>
+          <line>XANTHIAS</line>
+          <line>Poseidon! quite heroic.</line>
+          <line>DIONYSUS</line>
+          <line>'Deed I think so.</line>
+          <line>But weren't you frightened at those dreadful threats</line>
+          <line>And shoutings?</line>
+          <line>XANTHIAS</line>
+          <line>Frightened? Not a bit. I cared not.</line>
+          <line>DIONYSUS</line>
+          <line>Come then, if you're so very brave a man,</line>
+          <line>Will you be I, and take the hero's club</line>
+          <line>And lion's skin, since you're so monstrous plucky?</line>
+          <line>And I'll be now the slave, and bear the luggage.</line>
+          <line>XANTHIAS</line>
+          <line>Hand them across. I cannot choose but take</line>
+          <line>them.</line>
+          <line>And now observe the Xanthio-heracles</line>
+          <line>If I'm a coward and a sneak like you.</line>
+          <line>DIONYSUS</line>
+          <line>Nay, you're the rogue from Melite's own</line>
+          <line>self.</line>
+          <line>And I'll pick up and carry on the traps.</line>
+          <line>Enter a MAID-SERVANT of Persephone, from the door.</line>
+          <line>MAID</line>
+          <line>O welcome, Heracles! come in, sweetheart.</line>
+          <line>My Lidy, when they told her, set to work,</line>
+          <line>Baked mighty loaves, boiled two or three tureens</line>
+          <line>Of lentil soup, roasted a prime ox whole,</line>
+          <line>Made rolls and honey-cakes. So come along.</line>
+          <line>XANTHIAS</line>
+          <line>declining</line>
+          <line>You are too kind.</line>
+          <line>MAID</line>
+          <line>I will not let you go.</line>
+          <line>I will not let you! Why, she's stewing slices</line>
+          <line>Of juicy bird's-flesh, and she's making comfits,</line>
+          <line>And tempering down her richest wine. Come, dear,</line>
+          <line>Come along in.</line>
+          <line>XANTHIAS</line>
+          <line>still declining</line>
+          <line>Pray thank her.</line>
+          <line>MAID</line>
+          <line>O you're jesting,</line>
+          <line>I shall not let you off: there's such a lovely</line>
+          <line>Flute-girl all ready, and we've two or three</line>
+          <line>Dancing-girls also.</line>
+          <line>XANTHIAS</line>
+          <line>Eh! what! Dancing-girls?</line>
+          <line>MAID</line>
+          <line>Young budding virgins, freshly tired and</line>
+          <line>trimmed.</line>
+          <line>Come, dear, come in. The cook was dishing up</line>
+          <line>The cutlets, and they are bringing in the tables.</line>
+          <line>XANTHIAS</line>
+          <line>Then go you in, and tell those dancing-girls</line>
+          <line>Of whom you spake, I'm coming in Myself.</line>
+          <line>Exit MAID.</line>
+          <line>Pick up the traps, my lad, and follow me.</line>
+          <line>DIONYSUS</line>
+          <line>Hi! stop! you're not in earnest, just because</line>
+          <line>I dressed you up, in fun, as Heracles?</line>
+          <line>Come, don't keep fooling, Xanthias, but lift</line>
+          <line>And carry in the traps yourself</line>
+          <line>You are never going to strip me of these togs</line>
+          <line>You gave me!</line>
+          <line>DIONYSUS</line>
+          <line>Going to? No, I'm doing it now. off with that lion-skin.</line>
+          <line>XANTHIAS</line>
+          <line>Bear witness all,</line>
+          <line>The gods shall judge between us.</line>
+          <line>DIONYSUS</line>
+          <line>Gods, indeed!</line>
+          <line>Why, how could you (the vain and foolish thought</line>
+          <line>I)</line>
+          <line>A slave, a mortal, act Alemena's son?</line>
+          <line>XANTHIAS</line>
+          <line>All right then, take them; maybe, if God</line>
+          <line>will,</line>
+          <line>You'll soon require my services again.</line>
+          <line>CHORUS</line>
+          <line>This is the part of a dexterous clever</line>
+          <line>Man with his wits about him ever,</line>
+          <line>One who has travelled the world to see;</line>
+          <line>Always to shift, and to keep through all</line>
+          <line>Close to the sunny side of the wall;</line>
+          <line>Not like a pictured block to be,</line>
+          <line>Standing always in one position;</line>
+          <line>Nay but to veer, with expedition,</line>
+          <line>And ever to catch the favouring breeze,</line>
+          <line>This is the part of a shrewd tactician,</line>
+          <line>This is to be a-Theramenes!</line>
+          <line>DIONYSUS</line>
+          <line>Truly an exquisite joke 'twould be,</line>
+          <line>Him with a dancing-girl to see,</line>
+          <line>Lolling at ease on Milesian rugs;</line>
+          <line>Me, like a slave, beside him standing,</line>
+          <line>Aught that he wants to his lordship handing;</line>
+          <line>Then as the damsel fair he hugs,</line>
+          <line>Seeing me all on fire to embrace her,</line>
+          <line>He would perchance (for there's no man baser),</line>
+          <line>Turning him round like a lazy lout,</line>
+          <line>Straight on my mouth deliver a facer,</line>
+          <line>Knocking my ivory choirmen out.</line>
+          <line>Enter HOSTESS and PLATHANE.</line>
+          <line>Hostess. O Plathane! Plathane! that naughty man,</line>
+          <line>That's he who got into our tavern once,</line>
+          <line>And ate up sixteen loaves.</line>
+          <line>PLATHANE</line>
+          <line>O, so he is! The very man.</line>
+          <line>XANTHIAS</line>
+          <line>Bad luck for somebody!</line>
+          <line>HOSTESS</line>
+          <line>O and, besides, those twenty bits of stew,</line>
+          <line>Half-obol pieces.</line>
+          <line>XANTHIAS</line>
+          <line>Somebody's going to catch it!</line>
+          <line>HOSTESS</line>
+          <line>That garlic too.</line>
+          <line>DIONYSUS</line>
+          <line>Woman, you're talking nonsense.</line>
+          <line>You don't know what you're saying.</line>
+          <line>HOSTESS</line>
+          <line>O, you thought</line>
+          <line>I shouldn't know you with your buskins on!</line>
+          <line>Ah, and I've not yet mentioned all that fish,</line>
+          <line>No, nor the new-made cheese: he gulped it down,</line>
+          <line>Baskets and all, unlucky that we were.</line>
+          <line>And when I just alluded to the price,</line>
+          <line>He looked so fierce, and bellowed like a bull.</line>
+          <line>XANTHIAS</line>
+          <line>Yes, that's his way: that's what he always does.</line>
+          <line>HOSTESS</line>
+          <line>O, and he drew his sword, and seemed quite mad.</line>
+          <line>PLATHANE</line>
+          <line>O, that he did.</line>
+          <line>HOSTESS</line>
+          <line>And terrified us so</line>
+          <line>We sprang up to the cockloft, she and I.</line>
+          <line>Then out he hurled, decamping with the rugs.</line>
+          <line>XANTHIAS</line>
+          <line>That's his way too; something must be done.</line>
+          <line>HOSTESS</line>
+          <line>Quick, run and call my patron Cleon here</line>
+          <line>PLATHANE</line>
+          <line>O, if you meet him, call Hyperbolus!</line>
+          <line>We'll pay you out to-day.</line>
+          <line>HOSTESS</line>
+          <line>O filthy throat,</line>
+          <line>O how I'd like to take a stone, and hack</line>
+          <line>Those grinders out with which you chawed my wares.</line>
+          <line>PLATHANE</line>
+          <line>I'd like to pitch you in the deadman's pit.</line>
+          <line>HOSTESS</line>
+          <line>I'd like to get a reaping-hook and scoop</line>
+          <line>That gullet out with which you gorged my tripe.</line>
+          <line>But I'll to Cleon: he'll soon serve his writs;</line>
+          <line>He'll twist it out of you to-day, he will.</line>
+          <line>Exeunt HOSTESS and PLATHANE.</line>
+          <line>DIONYSUS</line>
+          <line>Perdition seize me, if I don't love Xanthias.</line>
+          <line>XANTHIAS</line>
+          <line>Aye, aye, I know your drift: stop, stop that</line>
+          <line>talking</line>
+          <line>I won't be Heracles.</line>
+          <line>DIONYSUS</line>
+          <line>O, don't say so,</line>
+          <line>Dear, darling Xanthias.</line>
+          <line>XANTHIAS</line>
+          <line>Why, how can I,</line>
+          <line>A slave, a mortal, act Alemena's son!</line>
+          <line>DIONYSUS</line>
+          <line>Aye, aye, I know you are vexed, and I deserve</line>
+          <line>And if you pummel me, I won't complain.</line>
+          <line>But if I strip you of these togs again,</line>
+          <line>Perdition seize myself, my wife, my children,</line>
+          <line>And, most of all, that blear-eyed Archedemus.</line>
+          <line>XANTHIAS</line>
+          <line>That oath contents me: on those terms I take them.</line>
+          <line>CHORUS</line>
+          <line>Now that at last you appear once more,</line>
+          <line>Wearing the garb that at first you wore,</line>
+          <line>Wielding the club and the tawny skin,</line>
+          <line>Now it is yours to be up and doing,</line>
+          <line>Glaring like mad, and your youth renewing,</line>
+          <line>Mindful of him whose guise you are in.</line>
+          <line>If, when caught in a bit of a scrape, you</line>
+          <line>Suffer a word of alarm to escape you,</line>
+          <line>Showing yourself but a feckless knave,</line>
+          <line>Then will your master at once undrape you,</line>
+          <line>Then you'll again be the toiling slave.</line>
+          <line>XANTHIAS</line>
+          <line>There, I admit, you have given to me</line>
+          <line>Capital hint, and the like idea,</line>
+          <line>Friends, had occurred to myself before.</line>
+          <line>Truly if anything good befell</line>
+          <line>He would be wanting, I know full well,</line>
+          <line>Wanting to take to the togs once more.</line>
+          <line>Nevertheless, while in these I'm vested,</line>
+          <line>Ne'er shall you find me craven-crested,</line>
+          <line>No, for a dittany look I'll wear,</line>
+          <line>Aye and methinks it will soon be tested,</line>
+          <line>Hark! how the portals are rustling there.</line>
+          <line>Re-enter AEACUS with assistants.</line>
+          <line>AEACUS</line>
+          <line>Seize the dog-stealer, bind him, pinion</line>
+          <line>him,</line>
+          <line>Drag him to justice</line>
+          <line>DIONYSUS</line>
+          <line>Somebody's going to catch it.</line>
+          <line>XANTHIAS</line>
+          <line>striking out</line>
+          <line>Hands off! away! stand back!</line>
+          <line>AEACUS</line>
+          <line>Eh? You're for fighting.</line>
+          <line>Ho! Ditylas, Sceblyas, and Pardocas,</line>
+          <line>Come hither, quick; fight me this sturdy knave.</line>
+          <line>DIONYSUS</line>
+          <line>Now isn't it a shame the man should strike</line>
+          <line>And he a thief besides?</line>
+          <line>AEACUS</line>
+          <line>A monstrous shame!</line>
+          <line>DIONYSUS</line>
+          <line>A regular burning shame!</line>
+          <line>XANTHIAS</line>
+          <line>By the Lord Zeus,</line>
+          <line>If ever I was here before, if ever</line>
+          <line>I stole one hair's-worth from you, let me die!</line>
+          <line>And now I'll make you a right noble offer,</line>
+          <line>Arrest my lad: torture him as you will,</line>
+          <line>And if you find I'm guilty, take and kill me.</line>
+          <line>AEACUS</line>
+          <line>Torture him, how?</line>
+          <line>XANTHIAS</line>
+          <line>In any mode you please.</line>
+          <line>Pile bricks upon him: stuff his nose with acid:</line>
+          <line>Flay, rack him, hoist him; flog him with a scourge</line>
+          <line>Of prickly bristles: only not with this,</line>
+          <line>A soft-leaved onion, or a tender leek.</line>
+          <line>AEACUS</line>
+          <line>A fair proposal. If I strike too hard</line>
+          <line>And maim the boy, I'll make you compensation.</line>
+          <line>XANTHIAS</line>
+          <line>I shan't require it. Take him out and flog him.</line>
+          <line>AEACUS</line>
+          <line>Nay, but I'll do it here before your eyes.</line>
+          <line>Now then, put down the traps, and mind you speak</line>
+          <line>The truth, young fellow.</line>
+          <line>DIONYSUS</line>
+          <line>in agony</line>
+          <line>Man' don't torture me!</line>
+          <line>I am a god. You'll blame yourself hereafter</line>
+          <line>If you touch me.</line>
+          <line>AEACUS</line>
+          <line>Hillo! What's that you are saying?</line>
+          <line>DIONYSUS</line>
+          <line>I say I'm Bacchus, son of Zeus, a god,</line>
+          <line>And he's the slave.</line>
+          <line>AEACUS</line>
+          <line>You hear him?</line>
+          <line>XANTHIAS</line>
+          <line>Hear him? Yes.</line>
+          <line>All the more reason you should flog him well.</line>
+          <line>For if he is a god, he won't perceive it.</line>
+          <line>DIONYSUS</line>
+          <line>Well, but you say that you're a god yourself.</line>
+          <line>So why not you be flogged as well as I?</line>
+          <line>XANTHIAS</line>
+          <line>A fair proposal. And be this the test,</line>
+          <line>Whichever of us two you first behold</line>
+          <line>Flinching or crying out-he's not the god.</line>
+          <line>AEACUS</line>
+          <line>Upon my word you're quite the gentleman,</line>
+          <line>You're all for right and justice. Strip then, both.</line>
+          <line>XANTHIAS</line>
+          <line>How can you test us fairly?</line>
+          <line>AEACUS</line>
+          <line>Easily. I'll give you blow for blow.</line>
+          <line>XANTHIAS</line>
+          <line>A good idea.</line>
+          <line>We're ready now!</line>
+          <line>AEACUS strikes him</line>
+          <line>see if you catch me flinching.</line>
+          <line>AEACUS</line>
+          <line>I struck you.</line>
+          <line>XANTHIAS</line>
+          <line>incredulously</line>
+          <line>No!</line>
+          <line>AEACUS</line>
+          <line>Well, it seems "no" indeed.</line>
+          <line>Now then I'll strike the other.</line>
+          <line>Strikes DIONYSUS.</line>
+          <line>DIONYSUS</line>
+          <line>Tell me when?</line>
+          <line>AEACUS</line>
+          <line>I struck you.</line>
+          <line>DIONYSUS</line>
+          <line>Struck me? Then why didn't I sneeze?</line>
+          <line>AEACUS</line>
+          <line>Don't know, I'm sure. I'll try the other again.</line>
+          <line>XANTHIAS</line>
+          <line>And quickly too. Good gracious!</line>
+          <line>AEACUS</line>
+          <line>Why "good gracious"?</line>
+          <line>Not hurt you, did I?</line>
+          <line>XANTHIAS</line>
+          <line>No, I merely thought of</line>
+          <line>The Diomeian feast of Heracles.</line>
+          <line>AEACUS</line>
+          <line>A holy man! 'Tis now the other's turn.</line>
+          <line>DIONYSUS</line>
+          <line>Hi! Hi!</line>
+          <line>AEACUS</line>
+          <line>Hallo!</line>
+          <line>DIONYSUS</line>
+          <line>Look at those horsemen, look!</line>
+          <line>AEACUS</line>
+          <line>But why these tears?</line>
+          <line>DIONYSUS</line>
+          <line>There's such a smell of onions.</line>
+          <line>AEACUS</line>
+          <line>Then you don't mind it?</line>
+          <line>DIONYSUS</line>
+          <line>cheerfully</line>
+          <line>Mind it? Not a bit.</line>
+          <line>AEACUS</line>
+          <line>Well, I must go to the other one again.</line>
+          <line>XANTHIAS</line>
+          <line>O! O!</line>
+          <line>AEACUS</line>
+          <line>Hallo!</line>
+          <line>XANTHIAS</line>
+          <line>Do pray pull out this thorn.</line>
+          <line>AEACUS</line>
+          <line>What does it mean? 'Tis this one's turn again.</line>
+          <line>DIONYSUS</line>
+          <line>shrieking</line>
+          <line>Apollo! Lord!</line>
+          <line>calmly</line>
+          <line>of Delos and of Pytho.</line>
+          <line>XANTHIAS</line>
+          <line>He flinched! You heard him?</line>
+          <line>DIONYSUS</line>
+          <line>Not at all; a jolly Verse of Hipponax flashed across my mind.</line>
+          <line>XANTHIAS</line>
+          <line>You don't half do it: cut his flanks to pieces.</line>
+          <line>AEACUS</line>
+          <line>By Zeus, well thought on. Turn your belly here.</line>
+          <line>DIONYSUS</line>
+          <line>screaming</line>
+          <line>Poseidon!</line>
+          <line>XANTHIAS</line>
+          <line>There! he's flinching.</line>
+          <line>DIONYSUS</line>
+          <line>singing</line>
+          <line>who dost reign</line>
+          <line>Amongst the Aegean peaks and creeks</line>
+          <line>And oer the deep blue main.</line>
+          <line>AEACUS</line>
+          <line>No, by Demeter, still I can't find out</line>
+          <line>Which is the god, but come ye both indoors;</line>
+          <line>My lord himself and Persephassa there,</line>
+          <line>Being gods themselves, will soon find out the truth.</line>
+          <line>DIONYSUS</line>
+          <line>Right! right! I only wish you had thought of</line>
+          <line>that</line>
+          <line>Before you gave me those tremendous whacks.</line>
+          <line>Exeunt DIONYSUS, XANTHIAS, AEACUS, and attendants.</line>
+          <line>CHORUS</line>
+          <line>Come, Muse, to our Mystical Chorus,</line>
+          <line>O come to the joy of my song,</line>
+          <line>O see on the benches before us that countless and wonderful</line>
+          <line>throng,</line>
+          <line>Where wits by the thousand abide, with more than a Cleophon's</line>
+          <line>pride-</line>
+          <line>On the lips of that foreigner base, of Athens the bane and</line>
+          <line>disgrace,</line>
+          <line>There is shrieking, his kinsman by race,</line>
+          <line>The garrulous swallow of Thrace;</line>
+          <line>From that perch of exotic descent,</line>
+          <line>Rejoicing her sorrow to vent,</line>
+          <line>She pours to her spirit's content, a nightingale's woful</line>
+          <line>lament,</line>
+          <line>That e'en though the voting be equal, his ruin will soon be the</line>
+          <line>sequel.</line>
+          <line>Well it suits the holy Chorus evermore with counsel</line>
+          <line>wise</line>
+          <line>To exhort and teach the city; this we therefore now</line>
+          <line>advise-</line>
+          <line>End the townsmen's apprehensions; equalize the rights of</line>
+          <line>all;</line>
+          <line>If by Phrynichus's wrestlings some perchance sustained a</line>
+          <line>fall,</line>
+          <line>Yet to these 'tis surely open, having put away their</line>
+          <line>sin,</line>
+          <line>For their slips and vacillations pardon at your hands to</line>
+          <line>win.</line>
+          <line>Give your brethren back their franchise.</line>
+          <line>Sin and shame it were that slaves,</line>
+          <line>Who have once with stern devotion fought your battle on the</line>
+          <line>waves,</line>
+          <line>Should be straightway lords and masters, yea Plataeans fully</line>
+          <line>blown-</line>
+          <line>Not that this deserves our censure; there I praise you; there</line>
+          <line>alone</line>
+          <line>Has the city, in her anguish, policy and wisdom</line>
+          <line>shown-</line>
+          <line>Nay but these, of old accustomed on our ships to fight and</line>
+          <line>win,</line>
+          <line>(They, their fathers too before them), these our very kith and</line>
+          <line>kin,</line>
+          <line>You should likewise, when they ask you, pardon for their single</line>
+          <line>sin.</line>
+          <line>O by nature best and wisest,</line>
+          <line>O relax your jealous ire,</line>
+          <line>Let us all the world as kinsfolk and as citizens</line>
+          <line>acquire,</line>
+          <line>All who on our ships will battle well and bravely by our</line>
+          <line>side.</line>
+          <line>If we cocker up our city, narrowing her with senseless</line>
+          <line>pride,</line>
+          <line>Now when she is rocked and reeling in the cradles of the</line>
+          <line>sea,</line>
+          <line>Here again will after ages deem we acted brainlessly.</line>
+          <line>And O if I'm able to scan the habits and life of a</line>
+          <line>man</line>
+          <line>Who shall rue his iniquities soon! not long shall that little</line>
+          <line>baboon,</line>
+          <line>That Cleigenes shifty and small, the wickedest bathman of</line>
+          <line>all</line>
+          <line>Who are lords of the earth-which is brought from the isle of Cimolus,</line>
+          <line>and wrought</line>
+          <line>With nitre and lye into soap-</line>
+          <line>Not long shall he vex us, I hope.</line>
+          <line>And this the unlucky one knows,</line>
+          <line>Yet ventures a peace to oppose,</line>
+          <line>And being addicted to blows he carries a stick as he</line>
+          <line>goes,</line>
+          <line>Lest while he is tipsy and reeling, some robber his cloak should be</line>
+          <line>stealing.</line>
+          <line>Often has it crossed my fancy, that the city loves to</line>
+          <line>deal</line>
+          <line>With the very best and noblest members of her commonweal, just as with</line>
+          <line>our ancient coinage, and the newly-minted gold.</line>
+          <line>Yea for these, our sterling pieces, all of pure Athenian</line>
+          <line>mould,</line>
+          <line>All of perfect die and metal, all the fairest of the</line>
+          <line>fair,</line>
+          <line>All of workmanship unequalled, proved and valued</line>
+          <line>everywhere</line>
+          <line>Both amongst our own Hellenes and Barbarians far</line>
+          <line>away,</line>
+          <line>These we use not: but the worthles pinchbeck coins of</line>
+          <line>yesterday,</line>
+          <line>Vilest die and basest metal, now we always use instead.</line>
+          <line>Even so, our sterling townsmen, nobly born and nobly</line>
+          <line>bred,</line>
+          <line>Men of worth and rank and mettle, men of honourable</line>
+          <line>fame,</line>
+          <line>Trained in every liberal science, choral dance and manly</line>
+          <line>game,</line>
+          <line>These we treat with scorn and insult, but the strangers newliest</line>
+          <line>come,</line>
+          <line>Worthless sons of worthless fathers, pinchbeck townsmen, yellowy</line>
+          <line>scum,</line>
+          <line>Whom in earlier days the city hardly would have stooped to</line>
+          <line>use</line>
+          <line>Even for her scapegoat victims, these for every task we</line>
+          <line>choose.</line>
+          <line>O unwise and foolish people, yet to mend your ways</line>
+          <line>begin;</line>
+          <line>Use again the good and useful: so hereafter, if ye</line>
+          <line>win</line>
+          <line>'Twill be due to this your wisdom: if ye fall, at least 'twill</line>
+          <line>be</line>
+          <line>Not a fall that brings dishonour, falling from a worthy tree.</line>
+          <line>Enter AEACUS, XANTHIAS and two attendants.</line>
+          <line>AEACUS</line>
+          <line>By Zeus the Saviour, quite the gentleman</line>
+          <line>Your master is.</line>
+          <line>XANTHIAS</line>
+          <line>Gentleman? I believe you.</line>
+          <line>He's all for wine and women, is my master.</line>
+          <line>AEACUS</line>
+          <line>But not to have flogged you, when the truth came</line>
+          <line>out</line>
+          <line>That you, the slave, were passing off as master!</line>
+          <line>XANTHIAS</line>
+          <line>He'd get the worst of that.</line>
+          <line>AEACUS</line>
+          <line>Bravo! that's spoken</line>
+          <line>Like a true slave: that's what I love myself.</line>
+          <line>XANTHIAS</line>
+          <line>You love it, do you?</line>
+          <line>AEACUS</line>
+          <line>Love it? I'm entranced</line>
+          <line>When I can curse my lord behind his back.</line>
+          <line>XANTHIAS</line>
+          <line>How about grumbling, when you have felt the</line>
+          <line>stick,</line>
+          <line>And scurry out of doors?</line>
+          <line>AEACUS</line>
+          <line>That's jolly too.</line>
+          <line>XANTHIAS</line>
+          <line>How about prying?</line>
+          <line>AEACUS</line>
+          <line>That beats everything,</line>
+          <line>XANTHIAS</line>
+          <line>Great Kin-god Zeus! And what of overhearing</line>
+          <line>Your master's secrets?</line>
+          <line>AEACUS</line>
+          <line>What? I'm mad with joy.</line>
+          <line>XANTHIAS</line>
+          <line>And blabbing them abroad?</line>
+          <line>AEACUS</line>
+          <line>O heaven and earth!</line>
+          <line>When I do that, I can't contain myself.</line>
+          <line>XANTHIAS</line>
+          <line>Phoebus Apollo! clap your hand in mine,</line>
+          <line>Kiss and be kissed: and prithee tell me this,</line>
+          <line>Tell me by Zeus, our rascaldom's own god,</line>
+          <line>What's all that noise within? What means this hubbub</line>
+          <line>And row?</line>
+          <line>AEACUS</line>
+          <line>That's Aeschylus and Euripides.</line>
+          <line>XANTHIAS</line>
+          <line>Eh?</line>
+          <line>AEACUS</line>
+          <line>Wonderful, wonderful things are going on.</line>
+          <line>The dead are rioting, taking different sides.</line>
+          <line>XANTHIAS</line>
+          <line>Why, what's the matter?</line>
+          <line>AEACUS</line>
+          <line>There's a custom here</line>
+          <line>With all the crafts, the good and noble crafts,</line>
+          <line>That the chief master of art in each</line>
+          <line>Shall have his dinner in the assembly hall,</line>
+          <line>And sit by Pluto's side.</line>
+          <line>XANTHIAS</line>
+          <line>I understand.</line>
+          <line>AEACUS</line>
+          <line>Until another comes, more wise than he</line>
+          <line>In the same art: then must the first give way.</line>
+          <line>XANTHIAS</line>
+          <line>And how has this disturbed our Aeschylus?</line>
+          <line>AEACUS</line>
+          <line>'Twas he that occupied the tragic chair,</line>
+          <line>As, in his craft, the noblest.</line>
+          <line>XANTHIAS</line>
+          <line>Who does now?</line>
+          <line>AEACUS</line>
+          <line>But when Euripides came down, he kept</line>
+          <line>Flourishing off before the highwaymen,</line>
+          <line>Thieves, burglars, parricides-these form our mob</line>
+          <line>In Hades-till with listening to his twists</line>
+          <line>And turns, and pleas and counterpleas, they went</line>
+          <line>Mad on the man, and hailed him first and wisest:</line>
+          <line>Elate with this, he claimed the tragic chair</line>
+          <line>Where Aeschylus was seated.</line>
+          <line>XANTHIAS</line>
+          <line>Wasn't he pelted?</line>
+          <line>AEACUS</line>
+          <line>Not he: the populace clamoured out to try</line>
+          <line>Which of the twain was wiser in his art.</line>
+          <line>XANTHIAS</line>
+          <line>You mean the rascals?</line>
+          <line>AEACUS</line>
+          <line>Aye, as high as heaven!</line>
+          <line>XANTHIAS</line>
+          <line>But were there none to side with Aeschylus?</line>
+          <line>AEACUS</line>
+          <line>Scanty and sparse the good,</line>
+          <line>regards the audience</line>
+          <line>the same as here.</line>
+          <line>XANTHIAS</line>
+          <line>And what does Pluto now propose to do?</line>
+          <line>AEACUS</line>
+          <line>He means to hold a tournament, and bring</line>
+          <line>Their tragedies to the proof.</line>
+          <line>XANTHIAS</line>
+          <line>But Sophocles,</line>
+          <line>How came not he to claim the tragic chair?</line>
+          <line>AEACUS</line>
+          <line>Claim it? Not he! When he came down, he</line>
+          <line>kissed</line>
+          <line>With reverence Aeschylus, and clasped his hand,</line>
+          <line>And yielded willingly the chair to him.</line>
+          <line>But now he's going, says Cleidemides,</line>
+          <line>To sit third-man: and then if Aeschylus win,</line>
+          <line>He'll stay content: if not, for his art's sake,</line>
+          <line>He'll fight to the death against Euripides.</line>
+          <line>XANTHIAS</line>
+          <line>Will it come off?</line>
+          <line>AEACUS</line>
+          <line>O yes, by Zeus, directly.</line>
+          <line>And then, I hear, will wonderful things be done,</line>
+          <line>The art poetic will be weighed in scales.</line>
+          <line>XANTHIAS</line>
+          <line>What I weigh out tragedy, like butcher's meat?</line>
+          <line>AEACUS</line>
+          <line>Levels they'll bring, and measuring-tapes for</line>
+          <line>words,</line>
+          <line>And moulded oblongs,</line>
+          <line>XANTHIAS</line>
+          <line>Is it bricks they are making?</line>
+          <line>AEACUS</line>
+          <line>Wedges and compasses: for Euripides</line>
+          <line>Vows that he'll test the dramas, word by word.</line>
+          <line>XANTHIAS</line>
+          <line>Aeschylus chafes at this, I fancy.</line>
+          <line>AEACUS</line>
+          <line>Well, He lowered his brows, upglaring like a bull.</line>
+          <line>XANTHIAS</line>
+          <line>And who's to be the judge?</line>
+          <line>AEACUS</line>
+          <line>There came the rub.</line>
+          <line>Skilled men were hard to find: for with the Athenians</line>
+          <line>Aeschylus, somehow, did not hit it off,</line>
+          <line>XANTHIAS</line>
+          <line>Too many burglars, I expect, he thought.</line>
+          <line>AEACUS</line>
+          <line>And all the rest, he said, were trash and</line>
+          <line>nonsense</line>
+          <line>To judge poetic wits. So then at last</line>
+          <line>They chose your lord, an expert in the art.</line>
+          <line>But we go in for when our lords are bent</line>
+          <line>On urgent business, that means blows for us.</line>
+          <line>CHORUS</line>
+          <line>O surely with terrible wrath will the thunder-voiced monarch</line>
+          <line>be filled,</line>
+          <line>When he sees his opponent beside him, the tonguester, the</line>
+          <line>artifice-skilled,</line>
+          <line>Stand, whetting his tusks for the fight!</line>
+          <line>O surely, his eyes rolling-fell</line>
+          <line>Will with terrible madness be fraught I</line>
+          <line>O then will be charging of plume-waving words with their wild-floating</line>
+          <line>mane,</line>
+          <line>And then will be whirling of splinters, and phrases smoothed down with</line>
+          <line>the plane,</line>
+          <line>When the man would the grand-stepping maxims, the language gigantic,</line>
+          <line>repel</line>
+          <line>Of the hero-creator of thought.</line>
+          <line>There will his shaggy-born crest upbristle for anger and</line>
+          <line>woe,</line>
+          <line>Horribly frowning and growling, his fury will launch at the</line>
+          <line>foe</line>
+          <line>Huge-clamped masses of words, with exertion Titanic</line>
+          <line>up-tearing</line>
+          <line>Great ship-timber planks for the fray.</line>
+          <line>But here will the tongue be at work, uncoiling, word-testing,</line>
+          <line>refining,</line>
+          <line>Sophist-creator of phrases, dissecting, detracting,</line>
+          <line>maligning,</line>
+          <line>Shaking the envious bits, and with subtle analysis</line>
+          <line>paring</line>
+          <line>The lung's large labour away.</line>
+          <line>Here apparently there is a complete change of scene, to the Hall</line>
+          <line>of Pluto, with himself sitting on his throne, and DIONYSUS, AESCHYLUS,</line>
+          <line>and the foreground.</line>
+          <line>EURIPIDES</line>
+          <line>Don't talk to me; I won't give up the chair,</line>
+          <line>I say I am better in the art than he.</line>
+          <line>DIONYSUS</line>
+          <line>You hear him, Aeschylus: why don't you speak?</line>
+          <line>EURIPIDES</line>
+          <line>He'll do the grand at first, the juggling</line>
+          <line>trick</line>
+          <line>He used to play in all his tragedies.</line>
+          <line>DIONYSUS</line>
+          <line>Come, my fine fellow, pray don't talk to big.</line>
+          <line>EURIPIDES</line>
+          <line>I know the man, I've scanned him through and</line>
+          <line>through,</line>
+          <line>A savage-creating stubborn-pulling fellow,</line>
+          <line>Uncurbed, unfettered, uncontrolled of speech,</line>
+          <line>Unperiphrastic, bombastiloquent.</line>
+          <line>AESCHYLUS</line>
+          <line>Hah! sayest thou so, child of the garden</line>
+          <line>quean</line>
+          <line>And this to me, thou chattery-babble-collector,</line>
+          <line>Thou pauper-creating rags-and-patches-stitcher?</line>
+          <line>Thou shalt abye it dearly!</line>
+          <line>DIONYSUS</line>
+          <line>Pray, be still;</line>
+          <line>Nor heat thy soul to fury, Aeschylus.</line>
+          <line>AESCHYLUS</line>
+          <line>Not till I've made you see the sort of man</line>
+          <line>This cripple-maker is who crows so loudly.</line>
+          <line>DIONYSUS</line>
+          <line>Bring out a ewe, a black-fleeced ewe, my</line>
+          <line>boys:</line>
+          <line>Here's a typhoon about to burst upon us.</line>
+          <line>AESCHYLUS</line>
+          <line>Thou picker-up of Cretan monodies,</line>
+          <line>Foisting thy tales of incest on the stage-</line>
+          <line>DIONYSUS</line>
+          <line>Forbear, forbear, most honoured Aeschylus;</line>
+          <line>And you, my poor Euripides, begone</line>
+          <line>If you are wise, out of this pitiless hail,</line>
+          <line>Lest with some heady word he crack your scull</line>
+          <line>And batter out your brain-less Telephus.</line>
+          <line>And not with passion, Aeschylus, but calmly</line>
+          <line>Test and be tested. 'Tis not meet for poets</line>
+          <line>To scold each other, like two baking-girls.</line>
+          <line>But you go roaring like an oak on fire.</line>
+          <line>EURIPIDES</line>
+          <line>I'm ready, I don't draw back one bit.</line>
+          <line>I'll lash or, if he will, let him lash first</line>
+          <line>The talk, the lays, the sinews of a play:</line>
+          <line>Aye and my Peleus, aye and Aeolus.</line>
+          <line>And Meleager, aye and Telephus.</line>
+          <line>DIONYSUS</line>
+          <line>And what do you propose? Speak, Aeschylus.</line>
+          <line>AESCHYLUS</line>
+          <line>I could have wished to meet him otherwhere.</line>
+          <line>We fight not here on equal terms.</line>
+          <line>DIONYSUS</line>
+          <line>Why not?</line>
+          <line>AESCHYLUS</line>
+          <line>My poetry survived me: his died with him:</line>
+          <line>He's got it here, all handy to recite.</line>
+          <line>Howbeit, if so you wish it, so we'll have it.</line>
+          <line>DIONYSUS</line>
+          <line>O bring me fire, and bring me frankincense.</line>
+          <line>I'll pray, or e'er the clash of wits begin,</line>
+          <line>To judge the strife with high poetic skill.</line>
+          <line>Meanwhile</line>
+          <line>to the CHORUS</line>
+          <line>invoke the Muses with a song.</line>
+          <line>CHORUS</line>
+          <line>O Muses, the daughters divine of Zeus, the immaculate</line>
+          <line>Nine,</line>
+          <line>Who gaze from your mansions serene on intellects subtle and</line>
+          <line>keen,</line>
+          <line>When down to the tournament lists, in bright-polished wit they</line>
+          <line>descend,</line>
+          <line>With wrestling and turnings and twists in the battle of words to</line>
+          <line>contend,</line>
+          <line>O come and behold what the two antagonist poets can</line>
+          <line>do,</line>
+          <line>Whose mouths are the swiftest to teach grand language and filings of</line>
+          <line>speech:</line>
+          <line>For now of their wits is the sternest encounter commencing in earnest.</line>
+          <line>DIONYSUS</line>
+          <line>Ye two, put up your prayers before ye start.</line>
+          <line>AESCHYLUS</line>
+          <line>Demeter, mistress, nourisher of my soul,</line>
+          <line>O make me worthy of thy mystic rites!</line>
+          <line>DIONYSUS</line>
+          <line>to EURIPIDES</line>
+          <line>Now put on incense, you.</line>
+          <line>EURIPIDES</line>
+          <line>Excuse me, no;</line>
+          <line>My vows are paid to other gods than these.</line>
+          <line>DIONYSUS</line>
+          <line>What, a new coinage of your own?</line>
+          <line>EURIPIDES</line>
+          <line>Precisely.</line>
+          <line>DIONYSUS</line>
+          <line>Pray then to them, those private gods of yours.</line>
+          <line>EURIPIDES</line>
+          <line>Ether, my pasture, volubly-rolling tongue,</line>
+          <line>Intelligent wit and critic nostrils keen,</line>
+          <line>O well and neatly may I trounce his plays!</line>
+          <line>CHORUS</line>
+          <line>We also are yearning from these to be learning</line>
+          <line>Some stately measure, some majestic grand</line>
+          <line>Movement telling of conflicts nigh.</line>
+          <line>Now for battle arrayed they stand,</line>
+          <line>Tongues embittered, and anger high.</line>
+          <line>Each has got a venturesome will,</line>
+          <line>Each an eager and nimble mind;</line>
+          <line>One will wield, with artistic skill,</line>
+          <line>Clearcut phrases, and wit refined;</line>
+          <line>Then the other, with words defiant, A NA</line>
+        </stanza>
+      </poem>
+    </chapter>
+    <backmatter>
+      <colophon xml:id="aristophanes-frogs-colophon">
+        <p xml:id="aristophanes-frogs-colophon-p-1">Author: Aristophanes</p>
+        <p xml:id="aristophanes-frogs-colophon-p-2">Written: 405 BCE</p>
+      </colophon>
+    </backmatter>
+  </book>
+</pretext>

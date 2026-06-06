@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Minimal PreTeXt project manifest for generated library books. -->
-<project ptx-version="2" source="source" publication="publication" output-dir="generated-assets">
+<project ptx-version="2" source="source" publication="publication" output-dir="../output">
   <targets>
-    <target name="html" format="html" source="main.ptx" publication="publication.ptx" output-dir="html" />
+    <target name="Aeschylus-agamemnon" format="html" source="Aeschylus/agamemnon.ptx" publication="single-page.ptx" output-dir="Aeschylus/agamemnon" />
+    <target name="Antoninus-meditations" format="html" source="Antoninus/meditations.ptx" publication="per-chapter.ptx" output-dir="Antoninus/meditations" />
+    <target name="Aristophanes-frogs" format="html" source="Aristophanes/frogs.ptx" publication="single-page.ptx" output-dir="Aristophanes/frogs" />
+    <target name="Aristotle-nicomachaen" format="html" source="Aristotle/nicomachaen.ptx" publication="per-chapter.ptx" output-dir="Aristotle/nicomachaen" />
+    <target name="Aristotle-poetics" format="html" source="Aristotle/poetics.ptx" publication="per-chapter.ptx" output-dir="Aristotle/poetics" />
+    <target name="Aristotle-politics" format="html" source="Aristotle/politics.ptx" publication="per-chapter.ptx" output-dir="Aristotle/politics" />
+    <target name="Confucius-analects" format="html" source="Confucius/analects.ptx" publication="per-chapter.ptx" output-dir="Confucius/analects" />
+    <target name="Euripides-medea" format="html" source="Euripides/medea.ptx" publication="single-page.ptx" output-dir="Euripides/medea" />
+    <target name="Herodotus-history" format="html" source="Herodotus/history.ptx" publication="per-chapter.ptx" output-dir="Herodotus/history" />
+    <target name="Homer-iliad" format="html" source="Homer/iliad.ptx" publication="per-chapter.ptx" output-dir="Homer/iliad" />
+    <target name="Homer-odyssey" format="html" source="Homer/odyssey.ptx" publication="per-chapter.ptx" output-dir="Homer/odyssey" />
+    <target name="Plato-apology" format="html" source="Plato/apology.ptx" publication="single-page.ptx" output-dir="Plato/apology" />
+    <target name="Plato-republic" format="html" source="Plato/republic.ptx" publication="per-chapter.ptx" output-dir="Plato/republic" />
+    <target name="Plato-symposium" format="html" source="Plato/symposium.ptx" publication="single-page.ptx" output-dir="Plato/symposium" />
+    <target name="Sophocles-oedipus" format="html" source="Sophocles/oedipus.ptx" publication="single-page.ptx" output-dir="Sophocles/oedipus" />
+    <target name="Thucydides-pelopwar" format="html" source="Thucydides/pelopwar.ptx" publication="per-chapter.ptx" output-dir="Thucydides/pelopwar" />
+    <target name="Tzu-artwar" format="html" source="Tzu/artwar.ptx" publication="single-page.ptx" output-dir="Tzu/artwar" />
+    <target name="Virgil-aeneid" format="html" source="Virgil/aeneid.ptx" publication="per-chapter.ptx" output-dir="Virgil/aeneid" />
   </targets>
 </project>
