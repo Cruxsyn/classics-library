@@ -7,7 +7,7 @@ export default defineConfig({
   publicDir: false,
   build: {
     outDir: fromProject('output/'),
-    emptyOutDir: true,
+    emptyOutDir: false,
     rollupOptions: {
       input: {
         shell: fromProject('web/shell/index.html'),

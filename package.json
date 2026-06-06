@@ -6,7 +6,7 @@
   "scripts": {
     "build": "vite build",
     "preview": "vite preview --host 127.0.0.1",
-    "test": "npm run build"
+    "test": "vitest --root . run web/lib/storage.test.ts && npm run build"
   },
   "keywords": [],
   "author": "",
@@ -19,6 +19,7 @@
     "@types/node": "^25.9.2",
     "pagefind": "^1.5.2",
     "typescript": "^6.0.3",
-    "vite": "^8.0.16"
+    "vite": "^8.0.16",
+    "vitest": "^4.1.8"
   }
 }
