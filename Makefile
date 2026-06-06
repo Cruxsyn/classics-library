@@ -1,4 +1,4 @@
-.PHONY: all scrape scrape-all portraits build pretext test
+.PHONY: all scrape scrape-all portraits build pretext inject test
 
 all: build
 
@@ -14,6 +14,9 @@ portraits:
 
 build:
 	npm run build
+
+inject:
+	uv run python -m pipeline.inject
 
 pretext:
 	uv run python -m pipeline.to_pretext
