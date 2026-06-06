@@ -1,0 +1,1770 @@
+[
+  {
+    "id": "Aeschines/aeschin.1",
+    "title": "Against Timarchus",
+    "author": "Aeschines",
+    "authorKey": "Aeschines",
+    "perseusUrl": "https://classics.mit.edu/Aeschines/aeschin.1.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Aeschines/aeschin.2",
+    "title": "On the Embassy",
+    "author": "Aeschines",
+    "authorKey": "Aeschines",
+    "perseusUrl": "https://classics.mit.edu/Aeschines/aeschin.2.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Aeschines/aeschin.3",
+    "title": "Against Ctesiphon",
+    "author": "Aeschines",
+    "authorKey": "Aeschines",
+    "perseusUrl": "https://classics.mit.edu/Aeschines/aeschin.3.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Andocides/andoc.1",
+    "title": "On the Mysteries",
+    "author": "Andocides",
+    "authorKey": "Andocides",
+    "perseusUrl": "https://classics.mit.edu/Andocides/andoc.1.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Andocides/andoc.2",
+    "title": "On His Return",
+    "author": "Andocides",
+    "authorKey": "Andocides",
+    "perseusUrl": "https://classics.mit.edu/Andocides/andoc.2.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Andocides/andoc.3",
+    "title": "On the Peace",
+    "author": "Andocides",
+    "authorKey": "Andocides",
+    "perseusUrl": "https://classics.mit.edu/Andocides/andoc.3.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Andocides/andoc.4",
+    "title": "Against Alcibiades",
+    "author": "Andocides",
+    "authorKey": "Andocides",
+    "perseusUrl": "https://classics.mit.edu/Andocides/andoc.4.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Antiphon/antiph.1",
+    "title": "Against the Stepmother for Poisoning",
+    "author": "Antiphon",
+    "authorKey": "Antiphon",
+    "perseusUrl": "https://classics.mit.edu/Antiphon/antiph.1.html",
+    "wordCount": 89
+  },
+  {
+    "id": "Antiphon/antiph.2",
+    "title": "First Tetralogy",
+    "author": "Antiphon",
+    "authorKey": "Antiphon",
+    "perseusUrl": "https://classics.mit.edu/Antiphon/antiph.2.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Antiphon/antiph.3",
+    "title": "Second Tetralogy",
+    "author": "Antiphon",
+    "authorKey": "Antiphon",
+    "perseusUrl": "https://classics.mit.edu/Antiphon/antiph.3.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Antiphon/antiph.4",
+    "title": "Third Tetralogy",
+    "author": "Antiphon",
+    "authorKey": "Antiphon",
+    "perseusUrl": "https://classics.mit.edu/Antiphon/antiph.4.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Antiphon/antiph.5",
+    "title": "On the Murder of Herodes",
+    "author": "Antiphon",
+    "authorKey": "Antiphon",
+    "perseusUrl": "https://classics.mit.edu/Antiphon/antiph.5.html",
+    "wordCount": 89
+  },
+  {
+    "id": "Antiphon/antiph.6",
+    "title": "On the Choreutes",
+    "author": "Antiphon",
+    "authorKey": "Antiphon",
+    "perseusUrl": "https://classics.mit.edu/Antiphon/antiph.6.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Apollodorus/apollod.1",
+    "title": "Library",
+    "author": "Apollodorus",
+    "authorKey": "Apollodorus",
+    "perseusUrl": "https://classics.mit.edu/Apollodorus/apollod.1.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Aristotle/aristot.vir",
+    "title": "Virtues and Vices",
+    "author": "Aristotle",
+    "authorKey": "Aristotle",
+    "perseusUrl": "https://classics.mit.edu/Aristotle/aristot.vir.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Bacchylides/bacchyl.1",
+    "title": "Epinicians",
+    "author": "Bacchylides",
+    "authorKey": "Bacchylides",
+    "perseusUrl": "https://classics.mit.edu/Bacchylides/bacchyl.1.html",
+    "wordCount": 84
+  },
+  {
+    "id": "Cicero/cic.agr",
+    "title": "On the Agrarian Law",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.agr.html",
+    "wordCount": 83
+  },
+  {
+    "id": "Cicero/cic.arch",
+    "title": "For Archias",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.arch.html",
+    "wordCount": 81
+  },
+  {
+    "id": "Cicero/cic.balb",
+    "title": "For Cornelius Balbus",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.balb.html",
+    "wordCount": 82
+  },
+  {
+    "id": "Cicero/cic.caec",
+    "title": "For Aulus Caecina",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.caec.html",
+    "wordCount": 82
+  },
+  {
+    "id": "Cicero/cic.cael",
+    "title": "For Marcus Caelius",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.cael.html",
+    "wordCount": 82
+  },
+  {
+    "id": "Cicero/cic.catil",
+    "title": "Against Catiline",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.catil.html",
+    "wordCount": 81
+  },
+  {
+    "id": "Cicero/cic.clu",
+    "title": "For Aulus Cluentius",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.clu.html",
+    "wordCount": 82
+  },
+  {
+    "id": "Cicero/cic.deiot",
+    "title": "For King Deiotarius",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.deiot.html",
+    "wordCount": 82
+  },
+  {
+    "id": "Cicero/cic.div.caec",
+    "title": "Divinatio against Q. Caecilius",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.div.caec.html",
+    "wordCount": 83
+  },
+  {
+    "id": "Cicero/cic.dom",
+    "title": "On his House",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.dom.html",
+    "wordCount": 82
+  },
+  {
+    "id": "Cicero/cic.font",
+    "title": "For Marcus Fonteius",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.font.html",
+    "wordCount": 82
+  },
+  {
+    "id": "Cicero/cic.har",
+    "title": "On the Responses of the Haruspices",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.har.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Cicero/cic.lig",
+    "title": "For Ligarius",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.lig.html",
+    "wordCount": 81
+  },
+  {
+    "id": "Cicero/cic.man",
+    "title": "On Pompey's Command",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.man.html",
+    "wordCount": 82
+  },
+  {
+    "id": "Cicero/cic.marc",
+    "title": "For Marcellus",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.marc.html",
+    "wordCount": 81
+  },
+  {
+    "id": "Cicero/cic.mil",
+    "title": "For Milo",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.mil.html",
+    "wordCount": 81
+  },
+  {
+    "id": "Cicero/cic.mur",
+    "title": "For Lucius Murena",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.mur.html",
+    "wordCount": 82
+  },
+  {
+    "id": "Cicero/cic.phil",
+    "title": "Philippics",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.phil.html",
+    "wordCount": 80
+  },
+  {
+    "id": "Cicero/cic.planc",
+    "title": "For Plancius",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.planc.html",
+    "wordCount": 81
+  },
+  {
+    "id": "Cicero/cic.prov",
+    "title": "On the Consular Provinces",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.prov.html",
+    "wordCount": 83
+  },
+  {
+    "id": "Cicero/cic.q.rosc",
+    "title": "For Quintus Roscius the Actor",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.q.rosc.html",
+    "wordCount": 84
+  },
+  {
+    "id": "Cicero/cic.quinct",
+    "title": "For Publius Quinctius",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.quinct.html",
+    "wordCount": 82
+  },
+  {
+    "id": "Cicero/cic.red.pop",
+    "title": "To the Citizens after his Return",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.red.pop.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Cicero/cic.red.sen",
+    "title": "In the Senate after his Return",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.red.sen.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Cicero/cic.s.rosc",
+    "title": "For Sextus Roscius of Ameria",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.s.rosc.html",
+    "wordCount": 84
+  },
+  {
+    "id": "Cicero/cic.scaur",
+    "title": "For Aemilius Scaurus",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.scaur.html",
+    "wordCount": 82
+  },
+  {
+    "id": "Cicero/cic.sest",
+    "title": "For Sestius",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.sest.html",
+    "wordCount": 81
+  },
+  {
+    "id": "Cicero/cic.sul",
+    "title": "For Sulla",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.sul.html",
+    "wordCount": 81
+  },
+  {
+    "id": "Cicero/cic.tul",
+    "title": "For Marcus Tullius",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.tul.html",
+    "wordCount": 82
+  },
+  {
+    "id": "Cicero/cic.vat",
+    "title": "Against Vatinius",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.vat.html",
+    "wordCount": 81
+  },
+  {
+    "id": "Cicero/cic.ver",
+    "title": "Against Verres",
+    "author": "Cicero",
+    "authorKey": "Cicero",
+    "perseusUrl": "https://classics.mit.edu/Cicero/cic.ver.html",
+    "wordCount": 81
+  },
+  {
+    "id": "Demades/demad.1",
+    "title": "On the Twelve Years",
+    "author": "Demades",
+    "authorKey": "Demades",
+    "perseusUrl": "https://classics.mit.edu/Demades/demad.1.html",
+    "wordCount": 88
+  },
+  {
+    "id": "Demosthenes/dem.1",
+    "title": "Olynthiac 1",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.1.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.10",
+    "title": "Philippic 4",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.10.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.11",
+    "title": "Reply to Philip's Letter",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.11.html",
+    "wordCount": 88
+  },
+  {
+    "id": "Demosthenes/dem.12",
+    "title": "Philip's Letter",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.12.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.13",
+    "title": "On Organization",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.13.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.14",
+    "title": "On the Navy-Boards",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.14.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Demosthenes/dem.15",
+    "title": "On the Liberty of the Rhodians",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.15.html",
+    "wordCount": 90
+  },
+  {
+    "id": "Demosthenes/dem.16",
+    "title": "For the Megalopolitans",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.16.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Demosthenes/dem.17",
+    "title": "On the Accession of Alexander",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.17.html",
+    "wordCount": 89
+  },
+  {
+    "id": "Demosthenes/dem.18",
+    "title": "On the Crown",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.18.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Demosthenes/dem.19",
+    "title": "On the False Embassy",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.19.html",
+    "wordCount": 88
+  },
+  {
+    "id": "Demosthenes/dem.2",
+    "title": "Olynthiac 2",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.2.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.20",
+    "title": "Against Leptines",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.20.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.21",
+    "title": "Against Midias",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.21.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.22",
+    "title": "Against Androtion",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.22.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.23",
+    "title": "Against Aristocrates",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.23.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.24",
+    "title": "Against Timocrates",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.24.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.25",
+    "title": "Against Aristogiton 1",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.25.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Demosthenes/dem.26",
+    "title": "Against Aristogiton 2",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.26.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Demosthenes/dem.27",
+    "title": "Against Aphobus 1",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.27.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Demosthenes/dem.28",
+    "title": "Against Aphobus 2",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.28.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Demosthenes/dem.29",
+    "title": "Against Aphobus",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.29.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.3",
+    "title": "Olynthiac 3",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.3.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.30",
+    "title": "Against Ontenor",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.30.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.31",
+    "title": "Against Ontenor",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.31.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.32",
+    "title": "Against Zenothemis",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.32.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.33",
+    "title": "Against Apatourius",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.33.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.34",
+    "title": "Against Phormio",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.34.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.35",
+    "title": "Against Lacritus",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.35.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.36",
+    "title": "For Phormio",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.36.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.37",
+    "title": "Against Pantaenetus",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.37.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.38",
+    "title": "Against Nausimachus and Xenopeithes",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.38.html",
+    "wordCount": 88
+  },
+  {
+    "id": "Demosthenes/dem.39",
+    "title": "Against Boeotus 1",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.39.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Demosthenes/dem.4",
+    "title": "Philippic 1",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.4.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.40",
+    "title": "Against Boeotus 2",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.40.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Demosthenes/dem.41",
+    "title": "Against Spudias",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.41.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.42",
+    "title": "Against Phaenippus",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.42.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.43",
+    "title": "Against Macartatus",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.43.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.44",
+    "title": "Against Leochares",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.44.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.45",
+    "title": "Against Stephanus 1",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.45.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Demosthenes/dem.46",
+    "title": "Against Stephanus 2",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.46.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Demosthenes/dem.47",
+    "title": "Against Evergus and Mnesibulus",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.47.html",
+    "wordCount": 88
+  },
+  {
+    "id": "Demosthenes/dem.48",
+    "title": "Against Olympiodorus",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.48.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.49",
+    "title": "Against Timotheus",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.49.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.5",
+    "title": "On the Peace",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.5.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Demosthenes/dem.50",
+    "title": "Against Polycles",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.50.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.51",
+    "title": "On the Trierarchic Crown",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.51.html",
+    "wordCount": 88
+  },
+  {
+    "id": "Demosthenes/dem.52",
+    "title": "Against Callippus",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.52.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.53",
+    "title": "Against Nicostratus",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.53.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.54",
+    "title": "Against Conon",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.54.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.55",
+    "title": "Against Callicles",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.55.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.56",
+    "title": "Against Dionysodorus",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.56.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.57",
+    "title": "Against Eubulides",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.57.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.58",
+    "title": "Against Theocrines",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.58.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.59",
+    "title": "Against Neaera",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.59.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.6",
+    "title": "Philippic 2",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.6.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.60",
+    "title": "Funeral Speech",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.60.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.61",
+    "title": "Erotic Essay",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.61.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.7",
+    "title": "On the Halonnesus",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.7.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Demosthenes/dem.8",
+    "title": "On the Chersonese",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.8.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Demosthenes/dem.9",
+    "title": "Philippic 3",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.9.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Demosthenes/dem.ex",
+    "title": "Exordia",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.ex.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Demosthenes/dem.l",
+    "title": "Letters",
+    "author": "Demosthenes",
+    "authorKey": "Demosthenes",
+    "perseusUrl": "https://classics.mit.edu/Demosthenes/dem.l.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Dinarchus/din.1",
+    "title": "Against Demosthenes",
+    "author": "Dinarchus",
+    "authorKey": "Dinarchus",
+    "perseusUrl": "https://classics.mit.edu/Dinarchus/din.1.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Dinarchus/din.2",
+    "title": "Against Aristogiton",
+    "author": "Dinarchus",
+    "authorKey": "Dinarchus",
+    "perseusUrl": "https://classics.mit.edu/Dinarchus/din.2.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Dinarchus/din.3",
+    "title": "Against Philocles",
+    "author": "Dinarchus",
+    "authorKey": "Dinarchus",
+    "perseusUrl": "https://classics.mit.edu/Dinarchus/din.3.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Diodorus/diod.9",
+    "title": "Historical Library",
+    "author": "Diodorus",
+    "authorKey": "Diodorus",
+    "perseusUrl": "https://classics.mit.edu/Diodorus/diod.9.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Euclid/euc",
+    "title": "The Elements",
+    "author": "Euclid",
+    "authorKey": "Euclid",
+    "perseusUrl": "https://classics.mit.edu/Euclid/euc.html",
+    "wordCount": 81
+  },
+  {
+    "id": "Hesiod/hes.sh",
+    "title": "Shield of Heracles",
+    "author": "Hesiod",
+    "authorKey": "Hesiod",
+    "perseusUrl": "https://classics.mit.edu/Hesiod/hes.sh.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Hesiod/hes.th",
+    "title": "Theogony",
+    "author": "Hesiod",
+    "authorKey": "Hesiod",
+    "perseusUrl": "https://classics.mit.edu/Hesiod/hes.th.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Hesiod/hes.wd",
+    "title": "Works and Days",
+    "author": "Hesiod",
+    "authorKey": "Hesiod",
+    "perseusUrl": "https://classics.mit.edu/Hesiod/hes.wd.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Hirtius/hirt.gal",
+    "title": "Continuation of Caesar's Gallic War",
+    "author": "Hirtius",
+    "authorKey": "Hirtius",
+    "perseusUrl": "https://classics.mit.edu/Hirtius/hirt.gal.html",
+    "wordCount": 84
+  },
+  {
+    "id": "Homer/hh.1",
+    "title": "Homeric Hymns",
+    "author": "Homer",
+    "authorKey": "Homer",
+    "perseusUrl": "https://classics.mit.edu/Homer/hh.1.html",
+    "wordCount": 81
+  },
+  {
+    "id": "Horace/hor.carm",
+    "title": "Odes",
+    "author": "Horace",
+    "authorKey": "Horace",
+    "perseusUrl": "https://classics.mit.edu/Horace/hor.carm.html",
+    "wordCount": 80
+  },
+  {
+    "id": "Hyperides/hyp.1",
+    "title": "In Defence of Lycophron",
+    "author": "Hyperides",
+    "authorKey": "Hyperides",
+    "perseusUrl": "https://classics.mit.edu/Hyperides/hyp.1.html",
+    "wordCount": 88
+  },
+  {
+    "id": "Hyperides/hyp.2",
+    "title": "Against Philippides",
+    "author": "Hyperides",
+    "authorKey": "Hyperides",
+    "perseusUrl": "https://classics.mit.edu/Hyperides/hyp.2.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Hyperides/hyp.3",
+    "title": "Against Athenogenes",
+    "author": "Hyperides",
+    "authorKey": "Hyperides",
+    "perseusUrl": "https://classics.mit.edu/Hyperides/hyp.3.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Hyperides/hyp.4",
+    "title": "In Defence of Euxenippus",
+    "author": "Hyperides",
+    "authorKey": "Hyperides",
+    "perseusUrl": "https://classics.mit.edu/Hyperides/hyp.4.html",
+    "wordCount": 88
+  },
+  {
+    "id": "Hyperides/hyp.5",
+    "title": "Against Demosthenes",
+    "author": "Hyperides",
+    "authorKey": "Hyperides",
+    "perseusUrl": "https://classics.mit.edu/Hyperides/hyp.5.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Hyperides/hyp.6",
+    "title": "Funeral Oration",
+    "author": "Hyperides",
+    "authorKey": "Hyperides",
+    "perseusUrl": "https://classics.mit.edu/Hyperides/hyp.6.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Isaeus/isaeus1",
+    "title": "Cleonymus",
+    "author": "Isaeus",
+    "authorKey": "Isaeus",
+    "perseusUrl": "https://classics.mit.edu/Isaeus/isaeus1.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Isaeus/isaeus10",
+    "title": "Aristarchus",
+    "author": "Isaeus",
+    "authorKey": "Isaeus",
+    "perseusUrl": "https://classics.mit.edu/Isaeus/isaeus10.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Isaeus/isaeus11",
+    "title": "Hagnias",
+    "author": "Isaeus",
+    "authorKey": "Isaeus",
+    "perseusUrl": "https://classics.mit.edu/Isaeus/isaeus11.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Isaeus/isaeus12",
+    "title": "Euphiletus",
+    "author": "Isaeus",
+    "authorKey": "Isaeus",
+    "perseusUrl": "https://classics.mit.edu/Isaeus/isaeus12.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Isaeus/isaeus2",
+    "title": "Menecles",
+    "author": "Isaeus",
+    "authorKey": "Isaeus",
+    "perseusUrl": "https://classics.mit.edu/Isaeus/isaeus2.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Isaeus/isaeus3",
+    "title": "Pyrrhus",
+    "author": "Isaeus",
+    "authorKey": "Isaeus",
+    "perseusUrl": "https://classics.mit.edu/Isaeus/isaeus3.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Isaeus/isaeus4",
+    "title": "Nicostratus",
+    "author": "Isaeus",
+    "authorKey": "Isaeus",
+    "perseusUrl": "https://classics.mit.edu/Isaeus/isaeus4.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Isaeus/isaeus5",
+    "title": "Dicaeogenes",
+    "author": "Isaeus",
+    "authorKey": "Isaeus",
+    "perseusUrl": "https://classics.mit.edu/Isaeus/isaeus5.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Isaeus/isaeus6",
+    "title": "Philoctemon",
+    "author": "Isaeus",
+    "authorKey": "Isaeus",
+    "perseusUrl": "https://classics.mit.edu/Isaeus/isaeus6.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Isaeus/isaeus7",
+    "title": "Apollodorus",
+    "author": "Isaeus",
+    "authorKey": "Isaeus",
+    "perseusUrl": "https://classics.mit.edu/Isaeus/isaeus7.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Isaeus/isaeus8",
+    "title": "Ciron",
+    "author": "Isaeus",
+    "authorKey": "Isaeus",
+    "perseusUrl": "https://classics.mit.edu/Isaeus/isaeus8.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Isaeus/isaeus9",
+    "title": "Astyphilus",
+    "author": "Isaeus",
+    "authorKey": "Isaeus",
+    "perseusUrl": "https://classics.mit.edu/Isaeus/isaeus9.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Isocrates/isoc.1",
+    "title": "To Demonicus",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.1.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Isocrates/isoc.10",
+    "title": "Helen",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.10.html",
+    "wordCount": 84
+  },
+  {
+    "id": "Isocrates/isoc.11",
+    "title": "Busiris",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.11.html",
+    "wordCount": 84
+  },
+  {
+    "id": "Isocrates/isoc.12",
+    "title": "Panathenaicus",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.12.html",
+    "wordCount": 84
+  },
+  {
+    "id": "Isocrates/isoc.13",
+    "title": "Against the Sophists",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.13.html",
+    "wordCount": 0
+  },
+  {
+    "id": "Isocrates/isoc.14",
+    "title": "Plataicus",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.14.html",
+    "wordCount": 84
+  },
+  {
+    "id": "Isocrates/isoc.15",
+    "title": "Antidosis",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.15.html",
+    "wordCount": 84
+  },
+  {
+    "id": "Isocrates/isoc.16",
+    "title": "On the Team of Horses",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.16.html",
+    "wordCount": 88
+  },
+  {
+    "id": "Isocrates/isoc.17",
+    "title": "Trapeziticus",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.17.html",
+    "wordCount": 84
+  },
+  {
+    "id": "Isocrates/isoc.18",
+    "title": "Against Callimachus",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.18.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Isocrates/isoc.19",
+    "title": "Aegineticus",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.19.html",
+    "wordCount": 84
+  },
+  {
+    "id": "Isocrates/isoc.2",
+    "title": "To Nicocles",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.2.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Isocrates/isoc.20",
+    "title": "Against Lochites",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.20.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Isocrates/isoc.21",
+    "title": "Against Euthynus",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.21.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Isocrates/isoc.3",
+    "title": "Nicocles, or The Cyprians",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.3.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Isocrates/isoc.4",
+    "title": "Panegyricus",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.4.html",
+    "wordCount": 84
+  },
+  {
+    "id": "Isocrates/isoc.5",
+    "title": "To Philip",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.5.html",
+    "wordCount": 85
+  },
+  {
+    "id": "Isocrates/isoc.6",
+    "title": "Archidamus",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.6.html",
+    "wordCount": 84
+  },
+  {
+    "id": "Isocrates/isoc.7",
+    "title": "Areopagiticus",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.7.html",
+    "wordCount": 84
+  },
+  {
+    "id": "Isocrates/isoc.8",
+    "title": "On the Peace",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.8.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Isocrates/isoc.9",
+    "title": "Evagoras",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.9.html",
+    "wordCount": 84
+  },
+  {
+    "id": "Isocrates/isoc.l",
+    "title": "Letters",
+    "author": "Isocrates",
+    "authorKey": "Isocrates",
+    "perseusUrl": "https://classics.mit.edu/Isocrates/isoc.l.html",
+    "wordCount": 84
+  },
+  {
+    "id": "Josephus/j.aj",
+    "title": "Jewish Antiquities",
+    "author": "Josephus",
+    "authorKey": "Josephus",
+    "perseusUrl": "https://classics.mit.edu/Josephus/j.aj.html",
+    "wordCount": 81
+  },
+  {
+    "id": "Josephus/j.bj",
+    "title": "The Jewish War",
+    "author": "Josephus",
+    "authorKey": "Josephus",
+    "perseusUrl": "https://classics.mit.edu/Josephus/j.bj.html",
+    "wordCount": 82
+  },
+  {
+    "id": "Josephus/j.vit",
+    "title": "Life of Josephus",
+    "author": "Josephus",
+    "authorKey": "Josephus",
+    "perseusUrl": "https://classics.mit.edu/Josephus/j.vit.html",
+    "wordCount": 82
+  },
+  {
+    "id": "Livy/liv",
+    "title": "The History of Rome",
+    "author": "Livy",
+    "authorKey": "Livy",
+    "perseusUrl": "https://classics.mit.edu/Livy/liv.html",
+    "wordCount": 83
+  },
+  {
+    "id": "Lycurgus/lyc.1",
+    "title": "Against Leocrates",
+    "author": "Lycurgus",
+    "authorKey": "Lycurgus",
+    "perseusUrl": "https://classics.mit.edu/Lycurgus/lyc.1.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Lysias/lys.1",
+    "title": "On the Murder of Eratosthenes",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.1.html",
+    "wordCount": 90
+  },
+  {
+    "id": "Lysias/lys.10",
+    "title": "Against Theomnestus 1",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.10.html",
+    "wordCount": 88
+  },
+  {
+    "id": "Lysias/lys.11",
+    "title": "Against Theomnestus 2",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.11.html",
+    "wordCount": 88
+  },
+  {
+    "id": "Lysias/lys.12",
+    "title": "Against Eratosthenes",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.12.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Lysias/lys.13",
+    "title": "Against Agoratus",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.13.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Lysias/lys.14",
+    "title": "Against Alcibiades 1",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.14.html",
+    "wordCount": 88
+  },
+  {
+    "id": "Lysias/lys.15",
+    "title": "Against Alcibiades 2",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.15.html",
+    "wordCount": 88
+  },
+  {
+    "id": "Lysias/lys.16",
+    "title": "For Mantitheus",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.16.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Lysias/lys.17",
+    "title": "On the Property of Eraton",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.17.html",
+    "wordCount": 90
+  },
+  {
+    "id": "Lysias/lys.18",
+    "title": "On the Confiscation of the Property of the Brother of Nicias",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.18.html",
+    "wordCount": 96
+  },
+  {
+    "id": "Lysias/lys.19",
+    "title": "On the Property of Aristophanes",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.19.html",
+    "wordCount": 90
+  },
+  {
+    "id": "Lysias/lys.2",
+    "title": "Funeral Oration",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.2.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Lysias/lys.20",
+    "title": "For Polystratus",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.20.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Lysias/lys.21",
+    "title": "Defence Against a Charge of Taking Bribes",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.21.html",
+    "wordCount": 92
+  },
+  {
+    "id": "Lysias/lys.22",
+    "title": "Against the Corn Dealers",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.22.html",
+    "wordCount": 89
+  },
+  {
+    "id": "Lysias/lys.23",
+    "title": "Against Pancleon",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.23.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Lysias/lys.24",
+    "title": "On the Refusal of a Pension",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.24.html",
+    "wordCount": 91
+  },
+  {
+    "id": "Lysias/lys.25",
+    "title": "Defence Against a Charge of Subverting the Democracy",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.25.html",
+    "wordCount": 93
+  },
+  {
+    "id": "Lysias/lys.26",
+    "title": "On the Scrutiny of Evandros",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.26.html",
+    "wordCount": 90
+  },
+  {
+    "id": "Lysias/lys.27",
+    "title": "Against Epicrates and His Fellow Envoys",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.27.html",
+    "wordCount": 91
+  },
+  {
+    "id": "Lysias/lys.28",
+    "title": "Against Ergocles",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.28.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Lysias/lys.29",
+    "title": "Against Philocrates",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.29.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Lysias/lys.3",
+    "title": "Against Simon",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.3.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Lysias/lys.30",
+    "title": "Against Nicomachus",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.30.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Lysias/lys.31",
+    "title": "Against Philon",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.31.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Lysias/lys.32",
+    "title": "Against Diogeiton",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.32.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Lysias/lys.33",
+    "title": "Olympic Oration",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.33.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Lysias/lys.34",
+    "title": "Against the Subversion of the Ancestral Constitution of Athens",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.34.html",
+    "wordCount": 94
+  },
+  {
+    "id": "Lysias/lys.4",
+    "title": "On a Wound by Premeditation",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.4.html",
+    "wordCount": 90
+  },
+  {
+    "id": "Lysias/lys.5",
+    "title": "For Callias",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.5.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Lysias/lys.6",
+    "title": "Against Andocides",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.6.html",
+    "wordCount": 87
+  },
+  {
+    "id": "Lysias/lys.7",
+    "title": "On the Olive Stump",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.7.html",
+    "wordCount": 89
+  },
+  {
+    "id": "Lysias/lys.8",
+    "title": "Accusation of Calumny",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.8.html",
+    "wordCount": 88
+  },
+  {
+    "id": "Lysias/lys.9",
+    "title": "For the Soldier",
+    "author": "Lysias",
+    "authorKey": "Lysias",
+    "perseusUrl": "https://classics.mit.edu/Lysias/lys.9.html",
+    "wordCount": 88
+  },
+  {
+    "id": "Pausanias/paus.1",
+    "title": "Description of Greece",
+    "author": "Pausanias",
+    "authorKey": "Pausanias",
+    "perseusUrl": "https://classics.mit.edu/Pausanias/paus.1.html",
+    "wordCount": 92
+  },
+  {
+    "id": "Pindar/pind.i",
+    "title": "Isthmian Odes",
+    "author": "Pindar",
+    "authorKey": "Pindar",
+    "perseusUrl": "https://classics.mit.edu/Pindar/pind.i.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Pindar/pind.n",
+    "title": "Nemean Odes",
+    "author": "Pindar",
+    "authorKey": "Pindar",
+    "perseusUrl": "https://classics.mit.edu/Pindar/pind.n.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Pindar/pind.o",
+    "title": "Olympian Odes",
+    "author": "Pindar",
+    "authorKey": "Pindar",
+    "perseusUrl": "https://classics.mit.edu/Pindar/pind.o.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Pindar/pind.p",
+    "title": "Pythian Odes",
+    "author": "Pindar",
+    "authorKey": "Pindar",
+    "perseusUrl": "https://classics.mit.edu/Pindar/pind.p.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Strabo/strab.6",
+    "title": "Geography",
+    "author": "Strabo",
+    "authorKey": "Strabo",
+    "perseusUrl": "https://classics.mit.edu/Strabo/strab.6.html",
+    "wordCount": 86
+  },
+  {
+    "id": "Xenophon/xen.ages",
+    "title": "Agesilaus",
+    "author": "Xenophon",
+    "authorKey": "Xenophon",
+    "perseusUrl": "https://classics.mit.edu/Xenophon/xen.ages.html",
+    "wordCount": 80
+  },
+  {
+    "id": "Xenophon/xen.anab",
+    "title": "Anabasis",
+    "author": "Xenophon",
+    "authorKey": "Xenophon",
+    "perseusUrl": "https://classics.mit.edu/Xenophon/xen.anab.html",
+    "wordCount": 80
+  },
+  {
+    "id": "Xenophon/xen.apol",
+    "title": "Apology",
+    "author": "Xenophon",
+    "authorKey": "Xenophon",
+    "perseusUrl": "https://classics.mit.edu/Xenophon/xen.apol.html",
+    "wordCount": 80
+  },
+  {
+    "id": "Xenophon/xen.cav",
+    "title": "On the Cavalry Commander",
+    "author": "Xenophon",
+    "authorKey": "Xenophon",
+    "perseusUrl": "https://classics.mit.edu/Xenophon/xen.cav.html",
+    "wordCount": 83
+  },
+  {
+    "id": "Xenophon/xen.const.lac",
+    "title": "The Constitution of the Lacedaimonians",
+    "author": "Xenophon",
+    "authorKey": "Xenophon",
+    "perseusUrl": "https://classics.mit.edu/Xenophon/xen.const.lac.html",
+    "wordCount": 84
+  },
+  {
+    "id": "Xenophon/xen.cyrop",
+    "title": "Cyropaedia",
+    "author": "Xenophon",
+    "authorKey": "Xenophon",
+    "perseusUrl": "https://classics.mit.edu/Xenophon/xen.cyrop.html",
+    "wordCount": 80
+  },
+  {
+    "id": "Xenophon/xen.ec",
+    "title": "Economics",
+    "author": "Xenophon",
+    "authorKey": "Xenophon",
+    "perseusUrl": "https://classics.mit.edu/Xenophon/xen.ec.html",
+    "wordCount": 80
+  },
+  {
+    "id": "Xenophon/xen.hell",
+    "title": "Hellenica",
+    "author": "Xenophon",
+    "authorKey": "Xenophon",
+    "perseusUrl": "https://classics.mit.edu/Xenophon/xen.hell.html",
+    "wordCount": 80
+  },
+  {
+    "id": "Xenophon/xen.hiero",
+    "title": "Hiero",
+    "author": "Xenophon",
+    "authorKey": "Xenophon",
+    "perseusUrl": "https://classics.mit.edu/Xenophon/xen.hiero.html",
+    "wordCount": 80
+  },
+  {
+    "id": "Xenophon/xen.horse",
+    "title": "On the Art of Horsemanship",
+    "author": "Xenophon",
+    "authorKey": "Xenophon",
+    "perseusUrl": "https://classics.mit.edu/Xenophon/xen.horse.html",
+    "wordCount": 84
+  },
+  {
+    "id": "Xenophon/xen.hunt",
+    "title": "On Hunting",
+    "author": "Xenophon",
+    "authorKey": "Xenophon",
+    "perseusUrl": "https://classics.mit.edu/Xenophon/xen.hunt.html",
+    "wordCount": 81
+  },
+  {
+    "id": "Xenophon/xen.mem",
+    "title": "Memorabilia",
+    "author": "Xenophon",
+    "authorKey": "Xenophon",
+    "perseusUrl": "https://classics.mit.edu/Xenophon/xen.mem.html",
+    "wordCount": 80
+  },
+  {
+    "id": "Xenophon/xen.sym",
+    "title": "Symposium",
+    "author": "Xenophon",
+    "authorKey": "Xenophon",
+    "perseusUrl": "https://classics.mit.edu/Xenophon/xen.sym.html",
+    "wordCount": 80
+  },
+  {
+    "id": "Xenophon/xen.ways",
+    "title": "Ways and Means",
+    "author": "Xenophon",
+    "authorKey": "Xenophon",
+    "perseusUrl": "https://classics.mit.edu/Xenophon/xen.ways.html",
+    "wordCount": 82
+  }
+]
