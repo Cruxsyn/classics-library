@@ -189,6 +189,10 @@ body.pretext #ptx-content-footer {
 body.pretext .ptx-page {
   display: block;
   width: 100%;
+  /* Override PreTeXt's ~1200px cap, which was left-pinned (no auto-centering) and
+     pushed all the slack to the right, shifting the reading column left. Full width
+     lets #ptx-content center on the whole viewport. */
+  max-width: none;
   margin: 0;
   padding: 0;
   background: transparent;
