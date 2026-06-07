@@ -1,4 +1,4 @@
-.PHONY: all scrape scrape-all portraits build build\:all build\:changed build\:ci pretext inject pagefind test test\:e2e deploy
+.PHONY: all scrape scrape-all portraits build build\:all build\:changed build\:ci pretext inject dedup-static pagefind test test\:e2e deploy
 
 all: build\:all
 
@@ -26,6 +26,10 @@ build\:ci:
 
 inject:
 	uv run python -m pipeline.inject
+	uv run python -m pipeline.dedup_static
+
+dedup-static:
+	uv run python -m pipeline.dedup_static
 
 pagefind:
 	npx pagefind --site output

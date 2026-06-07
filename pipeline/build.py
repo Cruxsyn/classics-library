@@ -135,6 +135,7 @@ def main(argv: list[str] | None = None) -> int:
 
     run(["npx", "vite", "build"])
     run(["uv", "run", "python", "-m", "pipeline.inject"])
+    run(["uv", "run", "python", "-m", "pipeline.dedup_static"])
     if not args.skip_pagefind:
         run(["npx", "pagefind", "--site", "output"])
 
