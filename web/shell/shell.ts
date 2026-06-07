@@ -12,11 +12,25 @@ import {
 
 declare global {
   interface ImportMeta {
+    readonly env: { readonly BASE_URL: string };
     glob(
       pattern: string,
       options: { eager: true; query: string; import: 'default' },
     ): Record<string, string>;
   }
+}
+
+// Vite's configured base (e.g. "/classics-library/"). The site is served from a
+// subpath on GitHub Pages, so every root-absolute navigation/fetch URL must be
+// prefixed with this. BASE keeps its trailing slash; BASE_NO_SLASH drops it so it
+// can be concatenated with leading-slash paths without producing a double slash.
+const BASE = import.meta.env.BASE_URL;
+const BASE_NO_SLASH = BASE.replace(/\/$/, '');
+
+// work.readerUrl looks like "/Homer/iliad/". Prefix it with the base, joining on a
+// single slash, e.g. "/classics-library/Homer/iliad/".
+function readerHref(readerUrl: string): string {
+  return `${BASE_NO_SLASH}${readerUrl}`;
 }
 
 type Theme = 'light' | 'dark' | 'sepia';
@@ -329,13 +343,14 @@ function initialFor(author: AuthorAsset): string {
 type LinkLocation = { chapter: string; anchor: string };
 
 function locationHref(work: Work, location: LinkLocation | null): string {
+  const base = readerHref(work.readerUrl);
   if (location === null) {
-    return work.readerUrl;
+    return base;
   }
 
   const chapter = location.chapter.trim();
   const anchor = location.anchor.trim().replace(/^#/, '');
-  const path = chapter === '' ? work.readerUrl : new URL(chapter, new URL(work.readerUrl, window.location.origin)).pathname;
+  const path = chapter === '' ? base : new URL(chapter, new URL(base, window.location.origin)).pathname;
   return anchor === '' ? path : `${path}#${anchor}`;
 }
 
@@ -633,7 +648,7 @@ function createWorkCard(work: Work): HTMLAnchorElement {
   const status = statusFor(work);
   const author = authorFor(work);
   const card = make('a', `book-card book-card--${status}`);
-  card.href = work.readerUrl;
+  card.href = readerHref(work.readerUrl);
   card.dataset.workId = work.id;
   card.setAttribute('aria-label', `${work.title} by ${work.author}; ${statusLabel(status)}`);
 
@@ -992,7 +1007,7 @@ function renderSearchLoading(query: string): void {
 }
 
 async function loadPagefind(): Promise<PagefindApi> {
-  const pagefindPath = '/pagefind/pagefind.js';
+  const pagefindPath = `${BASE_NO_SLASH}/pagefind/pagefind.js`;
   pagefindPromise ??= import(/* @vite-ignore */ pagefindPath).then(async (module) => {
     const api = module as PagefindApi;
     if (typeof api.init === 'function') {
@@ -1169,6 +1184,13 @@ function bindEvents(): void {
     readingSnapshot = snapshot;
     renderApp();
   });
+}
+
+// The wordmark/home link is authored as href="/" in index.html; Vite does not
+// rewrite <a href> for the configured base, so point it at the base subpath here.
+const wordmarkLink = document.querySelector<HTMLAnchorElement>('a.wordmark');
+if (wordmarkLink !== null) {
+  wordmarkLink.href = BASE;
 }
 
 populateFilters();

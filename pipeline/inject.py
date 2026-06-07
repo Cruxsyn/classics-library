@@ -19,6 +19,10 @@ FONTS_SRC = ROOT / "assets" / "fonts"
 READER_ASSET_DIR = OUTPUT_DIR / "assets" / "reader"
 FONT_OUT_DIR = OUTPUT_DIR / "assets" / "fonts"
 READER_MARK = "b5"
+# The site is served from a subpath on GitHub Pages, so every root-absolute asset
+# reference injected into book pages must be prefixed with this base. Keep the
+# trailing slash; paths below are appended without their own leading slash.
+BASE_PATH = "/classics-library/"
 FONT_FILES = (
     "source-serif-4-latin-opsz-normal.woff2",
     "source-serif-4-latin-opsz-italic.woff2",
@@ -30,12 +34,12 @@ FONT_FILES = (
 READER_HEAD_TAGS = "\n".join(
     [
         *(
-            f'<link rel="preload" href="/assets/fonts/{font}" as="font" type="font/woff2" crossorigin data-reader-injected="{READER_MARK}">'
+            f'<link rel="preload" href="{BASE_PATH}assets/fonts/{font}" as="font" type="font/woff2" crossorigin data-reader-injected="{READER_MARK}">'
             for font in FONT_FILES
         ),
-        f'<link rel="stylesheet" href="/assets/reader/tokens.css" data-reader-injected="{READER_MARK}">',
-        f'<link rel="stylesheet" href="/assets/reader/library.css" data-reader-injected="{READER_MARK}">',
-        f'<script defer src="/reader-runtime.js" data-reader-injected="{READER_MARK}"></script>',
+        f'<link rel="stylesheet" href="{BASE_PATH}assets/reader/tokens.css" data-reader-injected="{READER_MARK}">',
+        f'<link rel="stylesheet" href="{BASE_PATH}assets/reader/library.css" data-reader-injected="{READER_MARK}">',
+        f'<script defer src="{BASE_PATH}reader-runtime.js" data-reader-injected="{READER_MARK}"></script>',
     ]
 )
 INJECTED_TAG_RE = re.compile(
@@ -124,7 +128,7 @@ def copy_assets() -> None:
 
     tokens = TOKENS_SRC.read_text(encoding="utf-8").replace(
         "../../assets/fonts/",
-        "/assets/fonts/",
+        f"{BASE_PATH}assets/fonts/",
     )
     write_if_changed(READER_ASSET_DIR / "tokens.css", tokens)
     write_if_changed(READER_ASSET_DIR / "library.css", LIBRARY_SRC.read_text(encoding="utf-8"))
@@ -171,6 +175,7 @@ def inject_html_attrs(document: str, work: Work) -> str:
         attrs = match.group(1)
         attrs = upsert_data_attr(attrs, "data-reader-book", work.id)
         attrs = upsert_data_attr(attrs, "data-reader-title", work.title)
+        attrs = upsert_data_attr(attrs, "data-base", BASE_PATH)
         return f"<html{attrs}>"
 
     return HTML_OPEN_RE.sub(replace, document, count=1)

@@ -103,6 +103,13 @@ function safe<T>(fn: () => T, fallback: T): T {
   }
 }
 
+// The site is served from a subpath on GitHub Pages. inject.py writes the configured
+// base onto the <html> tag as data-base (e.g. "/classics-library/"); read it here so
+// runtime navigation/fetch URLs resolve under the subpath. Fallback to "/" when unset.
+function siteBase(): string {
+  return document.documentElement.dataset.base ?? '/';
+}
+
 function normalizePath(pathname: string): string {
   const normalized = pathname.replace(/\/index\.html$/, '/');
   return normalized.endsWith('/') ? normalized : normalized;
@@ -423,7 +430,7 @@ function createReaderDom(bookTitle: string, chapterTitle: string): ReaderElement
 
   const nav = make('div', 'reader-chrome__nav');
   const libraryLink = make('a', 'reader-link-button');
-  libraryLink.href = '/';
+  libraryLink.href = siteBase();
   libraryLink.setAttribute('aria-label', 'Back to library');
   libraryLink.innerHTML = '<span class="reader-button__icon" aria-hidden="true">←</span><span>Library</span>';
   nav.append(libraryLink);

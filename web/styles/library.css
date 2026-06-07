@@ -3,7 +3,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 200 900;
-  src: url('/assets/fonts/source-serif-4-latin-opsz-normal.woff2') format('woff2-variations');
+  src: url('/classics-library/assets/fonts/source-serif-4-latin-opsz-normal.woff2') format('woff2-variations');
 }
 
 @font-face {
@@ -11,7 +11,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: 200 900;
-  src: url('/assets/fonts/source-serif-4-latin-opsz-italic.woff2') format('woff2-variations');
+  src: url('/classics-library/assets/fonts/source-serif-4-latin-opsz-italic.woff2') format('woff2-variations');
 }
 
 @font-face {
@@ -19,7 +19,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 200 800;
-  src: url('/assets/fonts/newsreader-latin-opsz-normal.woff2') format('woff2-variations');
+  src: url('/classics-library/assets/fonts/newsreader-latin-opsz-normal.woff2') format('woff2-variations');
 }
 
 @font-face {
@@ -27,7 +27,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: 200 800;
-  src: url('/assets/fonts/newsreader-latin-opsz-italic.woff2') format('woff2-variations');
+  src: url('/classics-library/assets/fonts/newsreader-latin-opsz-italic.woff2') format('woff2-variations');
 }
 
 @font-face {
@@ -35,7 +35,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 100 900;
-  src: url('/assets/fonts/inter-latin-opsz-normal.woff2') format('woff2-variations');
+  src: url('/classics-library/assets/fonts/inter-latin-opsz-normal.woff2') format('woff2-variations');
 }
 
 @font-face {
@@ -43,7 +43,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: 100 900;
-  src: url('/assets/fonts/inter-latin-opsz-italic.woff2') format('woff2-variations');
+  src: url('/classics-library/assets/fonts/inter-latin-opsz-italic.woff2') format('woff2-variations');
 }
 
 *,

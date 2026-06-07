@@ -10,7 +10,8 @@
 #
 # Why the static/ rename: GitHub Pages (Jekyll) ignores any directory whose name starts
 # with an underscore, so PreTeXt's `_static/` would 404. We rename it to `static/` and
-# rewrite the absolute `/_static/` references in every book HTML page to `/static/`.
+# rewrite the absolute `/_static/` references in every book HTML page to
+# `/classics-library/static/` so they resolve under the project's subpath.
 #
 # Prerequisites:
 #   - output/ must already be built (e.g. `make build:all`).
@@ -70,8 +71,8 @@ if [ -d _static ]; then
   mv _static static
 fi
 
-echo "==> Rewriting /_static/ -> /static/ in book HTML"
-find . -name '*.html' -type f -print0 | xargs -0 -r sed -i 's#/_static/#/static/#g'
+echo "==> Rewriting /_static/ -> /classics-library/static/ in book HTML"
+find . -name '*.html' -type f -print0 | xargs -0 -r sed -i 's#/_static/#/classics-library/static/#g'
 
 # --- scrub junk + disable Jekyll ---------------------------------------------
 echo "==> Deleting AppleDouble junk files"

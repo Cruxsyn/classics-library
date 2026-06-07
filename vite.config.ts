@@ -30,6 +30,7 @@ function readerRuntimePlugin(): Plugin {
 
 
 export default defineConfig({
+  base: '/classics-library/',
   plugins: [readerRuntimePlugin()],
   root: fromProject('web/shell/'),
   publicDir: false,
