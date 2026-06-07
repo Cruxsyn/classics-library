@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en-US" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Classics Archive</title>
+    <script>
+      (() => {
+        try {
+          const saved = localStorage.getItem('library:theme:v1');
+          if (saved === 'light' || saved === 'dark' || saved === 'sepia') {
+            document.documentElement.dataset.theme = saved;
+          } else {
+            document.documentElement.removeAttribute('data-theme');
+          }
+        } catch {
+          document.documentElement.removeAttribute('data-theme');
+        }
+      })();
+    </script>
+    <script type="module" crossorigin src="/classics-library/assets/shell-C-Jq1ZZu.js"></script>
+    <link rel="stylesheet" crossorigin href="/classics-library/assets/shell-BcgbbKQ2.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#library-content">Skip to library shelves</a>
+
+    <header class="top-bar">
+      <nav class="top-bar__inner" aria-label="Library navigation">
+        <a class="wordmark" href="/" aria-label="Classics Archive home">Classics Archive</a>
+        <label class="library-search" for="library-search">
+          <span class="library-search__label">Search</span>
+          <input
+            id="library-search"
+            type="search"
+            autocomplete="off"
+            spellcheck="false"
+            placeholder="Search every book…"
+            aria-controls="search-results"
+          />
+        </label>
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Change color theme">
+          <span aria-hidden="true">◐</span>
+          <span id="theme-toggle-label">Theme</span>
+        </button>
+        <div class="top-bar__links">
+          <a id="bookmarks-link" class="bookmarks-link" href="#bookmarks">Bookmarks</a>
+          <a id="credits-link" class="bookmarks-link credits-link" href="#credits">Credits</a>
+        </div>
+      </nav>
+    </header>
+
+    <main id="library" class="library-shell" aria-labelledby="library-title">
+      <section class="library-hero" aria-describedby="library-subtitle">
+        <p class="eyebrow">Public-domain classics</p>
+        <h1 id="library-title">A shelf for ancient voices.</h1>
+        <p id="library-subtitle">
+          Read, resume, and search the complete archive of PreTeXt-rendered editions.
+        </p>
+      </section>
+
+      <section class="shelf-toolbar" aria-label="Shelf controls">
+        <div class="view-switch" role="group" aria-label="Group works">
+          <button id="view-author" type="button" class="is-active" aria-pressed="true">By Author</button>
+          <button id="view-all" type="button" aria-pressed="false">All works A–Z</button>
+          <button id="view-language" type="button" aria-pressed="false">By language</button>
+        </div>
+        <div class="filter-controls">
+          <label>
+            <span>Author</span>
+            <select id="author-filter" aria-label="Filter by author"></select>
+          </label>
+          <label>
+            <span>Language</span>
+            <select id="language-filter" aria-label="Filter by language"></select>
+          </label>
+        </div>
+      </section>
+
+      <section id="search-results" class="search-results" aria-live="polite" hidden></section>
+
+      <section id="continue-reading" class="continue-rail" aria-labelledby="continue-title" hidden>
+        <div class="section-heading">
+          <p class="eyebrow">In progress</p>
+          <h2 id="continue-title">Continue reading</h2>
+        </div>
+        <div id="continue-list" class="continue-list"></div>
+      </section>
+
+      <section id="bookmark-view" class="bookmark-view" aria-labelledby="bookmark-title" hidden>
+        <div class="section-heading">
+          <p class="eyebrow">Saved places</p>
+          <h2 id="bookmark-title">Bookmarks</h2>
+        </div>
+        <div id="bookmark-list" class="bookmark-list"></div>
+      </section>
+
+      <section id="credits-view" class="credits-view" aria-labelledby="credits-title" hidden>
+        <div class="section-heading">
+          <p class="eyebrow">Attribution</p>
+          <h2 id="credits-title">Credits</h2>
+        </div>
+        <div id="credits-body" class="credits-body"></div>
+      </section>
+
+      <section id="library-content" class="library-content" aria-label="Library shelves">
+        <div id="library-grid" class="skeleton-grid" aria-busy="true">
+          <div class="skeleton-card" aria-hidden="true"></div>
+          <div class="skeleton-card" aria-hidden="true"></div>
+          <div class="skeleton-card" aria-hidden="true"></div>
+          <div class="skeleton-card" aria-hidden="true"></div>
+          <div class="skeleton-card" aria-hidden="true"></div>
+          <div class="skeleton-card" aria-hidden="true"></div>
+        </div>
+      </section>
+    </main>
+
+  </body>
+</html>

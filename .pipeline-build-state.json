@@ -1,0 +1,24 @@
+{
+  "generatedAt": 1780714508,
+  "targets": {
+    "Aeschylus/agamemnon": "00e55ba63841366606e62499cec313666e1366cb45ca46fbc4988266ab3d2662",
+    "Antoninus/meditations": "556454c51bacaa130a447b44e36e12065dd089d6fa8a17794a51052f9b9aefdd",
+    "Aristophanes/frogs": "b3bfcc54f94765776854f525c6e09996ec7425aa8a0b930b94db3cea3464bd3e",
+    "Aristotle/nicomachaen": "6be54162e7a508351b4cbfb6ecafb68ba24f43e436b636d82eb39c6a6b96d835",
+    "Aristotle/poetics": "bbd3cc39f62d9eddc1338ceabe1fd18e6edb95e9bf7b059c01381ed434ad4e92",
+    "Aristotle/politics": "5860e582fa7aed52a68af130ecfce6f06c38e83af9d7cab9dc0de71fd9fa87f1",
+    "Confucius/analects": "25cc56d17dbcf01fad9554ac9d1ca29797277642b9ab1a40467efc5cca7892c6",
+    "Euripides/medea": "0c902197eb911258a68e120ec812e55635daa6a88b8dabbec09ccec0852336f5",
+    "Herodotus/history": "e85f09dd4e4eeeab47fc34ec505c539578885f4daa3fb396cc275549be8fbdfb",
+    "Homer/iliad": "1d96a1944c73804eec1cb9b81071b233412568fe13f7897f0a7c758cfdf97a8e",
+    "Homer/odyssey": "a1e7b889474f265005a904ad1382f651cab5a45e58c45aeabf765995594476b6",
+    "Plato/apology": "0df7c69f708271176efeeb1c54d30eadceb0003e0b0557692fa565ed453422b6",
+    "Plato/republic": "e9e7ae1c5a9c8890e0a7ffa8eb5911d72ee9ba3cdf555cdbed3d317865b9f173",
+    "Plato/symposium": "d1d1165c491c8731a7e2221a84e4d623a38f8982bb4411e1eec61fe39a8ac509",
+    "Sophocles/oedipus": "02e174ad6261940e1ac2927d383a8c3ea7eef6b64bc0898915168bf55802e81b",
+    "Thucydides/pelopwar": "72b20584b5e925616dee6ab8cd60aec29258a7c263b77c73999ce494d2257e4a",
+    "Tzu/artwar": "31be8077e6cc60921a2dd56570e49f75595be0feb53d40cc79f974b6fdfedc9e",
+    "Virgil/aeneid": "d056891621d846f49544c5c186416fcf5a2b2323cf9b1ad29a173d268d5e14b8"
+  },
+  "version": 1
+}
