@@ -1,5 +1,7 @@
 # Virtual Library
 
+**Live site: https://cruxsyn.github.io/classics-library/**
+
 An elegant, static virtual library for public-domain classics from the Internet Classics Archive. The pipeline normalizes the classics.mit.edu texts, renders each work as a PreTeXt book, wraps every reader page with the shared TypeScript reader runtime, and ships a single-origin bookshelf shell with Pagefind search and local reading progress.
 
 ## Architecture
@@ -67,13 +69,20 @@ The Playwright tests wait for network idle and decoded images before screenshots
 
 ## Deploy
 
-Cloudflare Pages is configured by `wrangler.toml`; no deployment is performed by the build.
+The site is published to GitHub Pages at https://cruxsyn.github.io/classics-library/. Build `output/` first (e.g. `make build:all`), then run:
 
 ```sh
 make deploy
 ```
 
-That runs `npx wrangler pages deploy output`. Any static host can serve the same `output/` directory.
+That runs `bash scripts/deploy-pages.sh`, which stages a self-contained copy of `output/` (renaming `_static/` to `static/` because GitHub Pages skips underscore-prefixed directories, adding `.nojekyll`, and stripping junk files) and force-pushes it as a single commit to the `gh-pages` branch, then triggers a Pages build. The script is idempotent and safe to re-run.
+
+Requirements:
+
+- `gh` (GitHub CLI) authenticated with the `workflow` scope — the script reads the push token from `gh auth token`.
+- A **public** repository (GitHub Pages on the free tier requires public repos).
+
+Any static host can also serve the same `output/` directory directly.
 
 ## Data and licensing
 

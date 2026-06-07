@@ -50,5 +50,6 @@ playwright:
 test\:e2e:
 	npx playwright test
 
+# Publish output/ to GitHub Pages (gh-pages branch). Build output/ first, e.g. `make build:all`.
 deploy:
-	npx wrangler pages deploy output
+	bash scripts/deploy-pages.sh

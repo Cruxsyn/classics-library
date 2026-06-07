@@ -44,7 +44,10 @@
           <span aria-hidden="true">◐</span>
           <span id="theme-toggle-label">Theme</span>
         </button>
-        <a id="bookmarks-link" class="bookmarks-link" href="#bookmarks">Bookmarks</a>
+        <div class="top-bar__links">
+          <a id="bookmarks-link" class="bookmarks-link" href="#bookmarks">Bookmarks</a>
+          <a id="credits-link" class="bookmarks-link credits-link" href="#credits">Credits</a>
+        </div>
       </nav>
     </header>
 
@@ -91,6 +94,14 @@
           <h2 id="bookmark-title">Bookmarks</h2>
         </div>
         <div id="bookmark-list" class="bookmark-list"></div>
+      </section>
+
+      <section id="credits-view" class="credits-view" aria-labelledby="credits-title" hidden>
+        <div class="section-heading">
+          <p class="eyebrow">Attribution</p>
+          <h2 id="credits-title">Credits</h2>
+        </div>
+        <div id="credits-body" class="credits-body"></div>
       </section>
 
       <section id="library-content" class="library-content" aria-label="Library shelves">

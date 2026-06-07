@@ -149,6 +149,9 @@ const searchInput = byId<HTMLInputElement>('library-search');
 const themeToggle = byId<HTMLButtonElement>('theme-toggle');
 const themeToggleLabel = byId<HTMLSpanElement>('theme-toggle-label');
 const bookmarksLink = byId<HTMLAnchorElement>('bookmarks-link');
+const creditsLink = byId<HTMLAnchorElement>('credits-link');
+const creditsView = byId<HTMLElement>('credits-view');
+const creditsBody = byId<HTMLElement>('credits-body');
 const authorFilter = byId<HTMLSelectElement>('author-filter');
 const languageFilter = byId<HTMLSelectElement>('language-filter');
 const searchResults = byId<HTMLElement>('search-results');
@@ -169,6 +172,7 @@ let groupMode: GroupMode = 'author';
 let selectedAuthor = '';
 let selectedLanguage = '';
 let showBookmarks = window.location.hash === '#bookmarks';
+let showCredits = window.location.hash === '#credits';
 let searchQuery = '';
 let searchTimer: number | undefined;
 let searchSequence = 0;
@@ -380,6 +384,7 @@ function setActiveMode(mode: GroupMode): void {
   }
 
   showBookmarks = false;
+  showCredits = false;
   clearHashIfNeeded();
   renderApp();
 }
@@ -420,10 +425,12 @@ function updateVisibility(): void {
   const hasSearch = searchQuery !== '';
   const readingCount = continueList.childElementCount;
   searchResults.hidden = !hasSearch;
-  continueRail.hidden = showBookmarks || hasSearch || readingCount === 0;
+  continueRail.hidden = showBookmarks || showCredits || hasSearch || readingCount === 0;
   bookmarkView.hidden = !showBookmarks || hasSearch;
-  libraryContent.hidden = showBookmarks || hasSearch;
+  creditsView.hidden = !showCredits || hasSearch;
+  libraryContent.hidden = showBookmarks || showCredits || hasSearch;
   bookmarksLink.setAttribute('aria-current', showBookmarks ? 'page' : 'false');
+  creditsLink.setAttribute('aria-current', showCredits ? 'page' : 'false');
 }
 
 function renderContinueRail(): void {
@@ -764,9 +771,168 @@ function createAttribution(author: AuthorAsset): HTMLElement {
   return node;
 }
 
+type CreditEntryOptions = {
+  title: string;
+  subtitle: string;
+  creator: string;
+  license: string | null;
+  licenseUrl: string | null;
+  sourceUrl: string | null;
+  sourceLabel: string;
+  attributionRequired: boolean;
+};
+
+function creditCreatorText(artist: string | null, credit: string | null): string {
+  return artist ?? credit ?? 'Wikimedia Commons';
+}
+
+function compareCredits(aRequired: boolean, bRequired: boolean, aText: string, bText: string): number {
+  if (aRequired !== bRequired) {
+    return aRequired ? -1 : 1;
+  }
+
+  return collator.compare(aText, bText);
+}
+
+function createCreditEntry(options: CreditEntryOptions): HTMLLIElement {
+  const item = make('li', 'credit-entry');
+  if (options.attributionRequired) {
+    item.classList.add('credit-entry--required');
+  }
+
+  const heading = make('p', 'credit-entry__title');
+  heading.append(make('strong', 'credit-entry__name', options.title));
+  if (options.subtitle !== '') {
+    heading.append(make('span', 'credit-entry__sub', options.subtitle));
+  }
+
+  if (options.attributionRequired) {
+    heading.append(make('span', 'credit-entry__badge', 'Credit required'));
+  }
+
+  item.append(heading);
+
+  const meta = make('p', 'credit-entry__meta');
+  meta.append(document.createTextNode(options.creator));
+  if (options.license !== null) {
+    meta.append(document.createTextNode(' · '));
+    if (options.licenseUrl !== null) {
+      const license = make('a', undefined, options.license);
+      license.href = options.licenseUrl;
+      license.rel = 'noopener noreferrer';
+      meta.append(license);
+    } else {
+      meta.append(document.createTextNode(options.license));
+    }
+  }
+
+  if (options.sourceUrl !== null) {
+    meta.append(document.createTextNode(' · '));
+    const source = make('a', undefined, 'Source');
+    source.href = options.sourceUrl;
+    source.rel = 'noopener noreferrer';
+    source.setAttribute('aria-label', options.sourceLabel);
+    meta.append(source);
+  }
+
+  item.append(meta);
+  return item;
+}
+
+function createCreditSection(
+  headingId: string,
+  heading: string,
+  countLabel: string,
+  entries: HTMLLIElement[],
+): HTMLElement {
+  const section = make('section', 'credits-section');
+  section.setAttribute('aria-labelledby', headingId);
+  const head = make('h3', 'credits-section__heading', heading);
+  head.id = headingId;
+  section.append(head, make('p', 'credits-section__count', countLabel));
+
+  const list = make('ul', 'credits-list');
+  for (const entry of entries) {
+    list.append(entry);
+  }
+
+  section.append(list);
+  return section;
+}
+
+function renderCredits(): void {
+  const themedCount = Object.values(bookCovers).filter((cover) => cover.source === 'themed').length;
+  const designsLabel =
+    themedCount === 1 ? 'cover is an original generative design' : 'covers are original generative designs';
+
+  creditsBody.replaceChildren();
+  creditsBody.append(
+    make(
+      'p',
+      'credits-intro',
+      `Cover artwork and author portraits are public-domain or openly-licensed works, primarily from Wikimedia Commons; ${themedCount} ${designsLabel}.`,
+    ),
+  );
+
+  const artCovers = works
+    .map((work) => ({ work, cover: bookCovers[work.id] }))
+    .filter((entry): entry is { work: Work; cover: BookCover } =>
+      entry.cover !== undefined && entry.cover.source === 'art',
+    )
+    .sort((a, b) =>
+      compareCredits(a.cover.attributionRequired, b.cover.attributionRequired, a.work.title, b.work.title),
+    );
+
+  creditsBody.append(
+    createCreditSection(
+      'credits-covers-heading',
+      'Book cover artworks',
+      formatCount(artCovers.length, 'artwork', 'artworks'),
+      artCovers.map(({ work, cover }) =>
+        createCreditEntry({
+          title: work.title,
+          subtitle: work.author,
+          creator: creditCreatorText(cover.artist, cover.credit),
+          license: cover.license,
+          licenseUrl: cover.licenseUrl,
+          sourceUrl: cover.commonsFilePage,
+          sourceLabel: `Source for the ${work.title} cover on Wikimedia Commons`,
+          attributionRequired: cover.attributionRequired,
+        }),
+      ),
+    ),
+  );
+
+  const portraits = authorAssets
+    .filter((author) => author.commonsFilePage !== null)
+    .slice()
+    .sort((a, b) => compareCredits(a.attributionRequired, b.attributionRequired, a.name, b.name));
+
+  creditsBody.append(
+    createCreditSection(
+      'credits-portraits-heading',
+      'Author portraits',
+      formatCount(portraits.length, 'portrait', 'portraits'),
+      portraits.map((author) =>
+        createCreditEntry({
+          title: author.name,
+          subtitle: author.dates ?? author.language,
+          creator: creditCreatorText(author.artist, author.credit),
+          license: author.license,
+          licenseUrl: author.licenseUrl,
+          sourceUrl: author.commonsFilePage,
+          sourceLabel: `Source for the ${author.name} portrait on Wikimedia Commons`,
+          attributionRequired: author.attributionRequired,
+        }),
+      ),
+    ),
+  );
+}
+
 function showBookmarkView(show: boolean): void {
   showBookmarks = show;
   if (show) {
+    showCredits = false;
     history.replaceState(null, '', '#bookmarks');
   } else {
     clearHashIfNeeded();
@@ -775,8 +941,20 @@ function showBookmarkView(show: boolean): void {
   renderApp();
 }
 
+function showCreditsView(show: boolean): void {
+  showCredits = show;
+  if (show) {
+    showBookmarks = false;
+    history.replaceState(null, '', '#credits');
+  } else {
+    clearHashIfNeeded();
+  }
+
+  renderApp();
+}
+
 function clearHashIfNeeded(): void {
-  if (window.location.hash === '#bookmarks') {
+  if (window.location.hash === '#bookmarks' || window.location.hash === '#credits') {
     history.replaceState(null, '', `${window.location.pathname}${window.location.search}`);
   }
 }
@@ -794,6 +972,7 @@ function scheduleSearch(): void {
   }
 
   showBookmarks = false;
+  showCredits = false;
   clearHashIfNeeded();
   renderSearchLoading(searchQuery);
   updateVisibility();
@@ -956,20 +1135,29 @@ function bindEvents(): void {
     searchQuery = '';
     showBookmarkView(!showBookmarks);
   });
+  creditsLink.addEventListener('click', (event) => {
+    event.preventDefault();
+    searchInput.value = '';
+    searchQuery = '';
+    showCreditsView(!showCredits);
+  });
   window.addEventListener('hashchange', () => {
     showBookmarks = window.location.hash === '#bookmarks';
+    showCredits = window.location.hash === '#credits';
     renderApp();
   });
 
   authorFilter.addEventListener('change', () => {
     selectedAuthor = authorFilter.value;
     showBookmarks = false;
+    showCredits = false;
     clearHashIfNeeded();
     renderApp();
   });
   languageFilter.addEventListener('change', () => {
     selectedLanguage = languageFilter.value;
     showBookmarks = false;
+    showCredits = false;
     clearHashIfNeeded();
     renderApp();
   });
@@ -986,4 +1174,5 @@ function bindEvents(): void {
 populateFilters();
 updateThemeButton();
 bindEvents();
+renderCredits();
 requestAnimationFrame(renderApp);
